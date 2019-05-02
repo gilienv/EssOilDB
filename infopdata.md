@@ -3,12 +3,12 @@
 ```
 count(*): 3247
 ipid	int(11)	NO	PRI		auto_increment
-pid	int(11)	YES	MUL		// key for plant in plantdata
-locid	int(11)	YES	MUL		// key for location in locationdata
-pfid	int(11)	YES	MUL		// key for plant family id in plantfamilydata (possible redundant)
-pgid	int(11)	YES	MUL		// key for plant group id in plantgroupdata (plant or weed) 
-doiid	int(11)	YES	MUL		// key for doi(bibliographic record) in plantdoidata 
-scid	int(11)	YES	MUL		// key for sample collection data id in samplecollectiondata
+pid	int(11)	YES	MUL		// key for plant in plantdata (new table)
+locid	int(11)	YES	MUL		// key for location in locationdata (new table, link from observationtable))
+pfid	int(11)	YES	MUL		// key for plant family id in plantfamilydata (possibly redundant)
+pgid	int(11)	YES	MUL		// key for plant group id in plantgroupdata (plant or weed) (possibly redundant) 
+doiid	int(11)	YES	MUL		// key for doi(bibliographic record) in plantdoidata (link from observationtable)
+scid	int(11)	YES	MUL		// key for sample collection data id in samplecollectiondata (link from observationtable)
 pinfofileid	varchar(50)	YES			/*** Field to be deleted after inseting Compound_data ***/
 ```
 ```
