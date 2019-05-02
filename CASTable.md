@@ -1,7 +1,9 @@
 # description of CAS table
 
-The CAS table contains only CAS numbes and a unique key
+The CAS table contains CAS registry numbers 
+
 ```
+count(*) : 1166
 casid: autoincrement unique key
 casno: CAS registry number
 casid      casno
