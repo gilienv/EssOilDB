@@ -3,13 +3,13 @@
 ```
 count(*): 3247
 ipid	int(11)	NO	PRI		auto_increment
-pid	int(11)	YES	MUL		
-locid	int(11)	YES	MUL		
-pfid	int(11)	YES	MUL		
-pgid	int(11)	YES	MUL		
-doiid	int(11)	YES	MUL		
-scid	int(11)	YES	MUL		
-pinfofileid	varchar(50)	YES		/*** Column to be deleted after inseting Compound_data ***/
+pid	int(11)	YES	MUL		// key for plant in plantdata
+locid	int(11)	YES	MUL		// key for loaction in locationdata
+pfid	int(11)	YES	MUL		// plant family in plantfamilydata (possible redundant)
+pgid	int(11)	YES	MUL		// plant group data (plant or wheat) 
+doiid	int(11)	YES	MUL		// bibliographic record plantdoidata 
+scid	int(11)	YES	MUL		// sample collection data samplecollectiondata
+pinfofileid	varchar(50)	YES			/*** Field to be deleted after inseting Compound_data ***/
 ```
 ```
 <sample data>
