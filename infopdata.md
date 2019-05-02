@@ -4,11 +4,11 @@
 count(*): 3247
 ipid	int(11)	NO	PRI		auto_increment
 pid	int(11)	YES	MUL		// key for plant in plantdata
-locid	int(11)	YES	MUL		// key for loaction in locationdata
-pfid	int(11)	YES	MUL		// plant family in plantfamilydata (possible redundant)
-pgid	int(11)	YES	MUL		// plant group data (plant or wheat) 
-doiid	int(11)	YES	MUL		// bibliographic record plantdoidata 
-scid	int(11)	YES	MUL		// sample collection data samplecollectiondata
+locid	int(11)	YES	MUL		// key for location in locationdata
+pfid	int(11)	YES	MUL		// key for plantfamily id in plantfamilydata (possible redundant)
+pgid	int(11)	YES	MUL		// key for plantgroup id in plantgroupdata (plant or wheat) 
+doiid	int(11)	YES	MUL		// key for doi(bibliographic record) in plantdoidata 
+scid	int(11)	YES	MUL		// key for sample collection data id in samplecollectiondata
 pinfofileid	varchar(50)	YES			/*** Field to be deleted after inseting Compound_data ***/
 ```
 ```
