@@ -9,7 +9,7 @@ pfid	int(11)	YES	MUL		// key for plant family id in plantfamilydata (possibly re
 pgid	int(11)	YES	MUL		// key for plant group id in plantgroupdata (plant or weed) (possibly redundant) 
 doiid	int(11)	YES	MUL		// key for doi(bibliographic record) in plantdoidata (link from observationtable)
 scid	int(11)	YES	MUL		// key for sample collection data id in samplecollectiondata (link from observationtable)
-pinfofileid	varchar(50)	YES			/*** Field to be deleted after inseting Compound_data ***/
+pinfofileid	varchar(50)	YES		/*** Field to be deleted after inserting Compound_data ***/
 ```
 ```
 <sample data>
