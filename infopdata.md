@@ -9,7 +9,7 @@ pfid	int(11)	YES	MUL
 pgid	int(11)	YES	MUL		
 doiid	int(11)	YES	MUL		
 scid	int(11)	YES	MUL		
-pinfofileid	varchar(50)	YES			/*** Field to be deleted after inseting Compound_data ***/
+pinfofileid	varchar(50)	YES		/*** Column to be deleted after inseting Compound_data ***/
 ```
 ```
 <sample data>
