@@ -1,5 +1,6 @@
 #Compound Activity information
 ```
+count(*): 213
 caid	int(11)	NO	PRI		auto_increment
 caname	varchar(255)	YES			
 ```
