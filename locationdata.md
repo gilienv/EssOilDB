@@ -1,6 +1,7 @@
 #Location Data
 ```
 Contains information about Plant's geographical location from where plant's data is retrieved
+count(*): 878
 ```
 ```
 locid	int(11)	NO	PRI		auto_increment
