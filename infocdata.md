@@ -1,5 +1,6 @@
 #Compound Information found in Plant
 ```
+count(*): 141329
 icoid	int(11)	NO	PRI		auto_increment
 ipid	int(11)	YES	MUL		//key for plant related information mapped in infopdata
 coid	int(11)	YES	MUL		//key for compound data in compounddata
