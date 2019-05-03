@@ -1,6 +1,7 @@
 #Sample Collection information
 ```
 Contain information about sample collected on basis of which data is gathered. e.g. year, season etc.
+count(*): 108
 ```
 ```
 scid	int(11)	NO	PRI		auto_increment
