@@ -1,5 +1,6 @@
 #Experimental condition
 ```
+count(*): 1034
 expcid	int(11)	NO	PRI		auto_increment
 expcname	varchar(255)	YES			
 ```
