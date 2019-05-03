@@ -1,6 +1,7 @@
 #Plant Family
 ```
 Contains information about plant family to which plant belongs
+count(*): 101
 ```
 ```
 pfid	int(11)	NO	PRI		auto_increment
