@@ -1,5 +1,6 @@
 #Plant Part information
 ```
+count(*): 192
 ppid	int(11)	NO	PRI		auto_increment
 ppname	varchar(255)	YES			
 ```
