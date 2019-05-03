@@ -1,5 +1,6 @@
 #Contains information about Compound data with their chemical names
 ```
+count(*): 7157
 coid	int(11)	NO	PRI		auto_increment
 coname	varchar(255)	YES			//compound name 
 chname	varchar(255)	YES			//chemical name 
