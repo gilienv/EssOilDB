@@ -1,5 +1,6 @@
 #Idenfication/Chemical classification information 
 ```
+count(*): 43
 idfnid	int(11)	NO	PRI		auto_increment
 idfnname	varchar(255)	YES			
 ```
