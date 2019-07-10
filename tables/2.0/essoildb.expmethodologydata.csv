@@ -1,0 +1,51 @@
+expmid,expm
+1,(GC/FID) and (GC/MS)
+2,"(GC/FID), (GC/MS) and NMR"
+3,"(GC/FID), (GC/MS) and hydrodistillation"
+4,1 [1: mass spectra {GC-FID & GC/MS}]
+5,"1,2 [1: mass spectra{GC-FID & GC/MS}, 2: authentic sample]"
+6,13C-NMR
+7,"13C-NMR,GC/MS"
+8,"Air-driedHydrodistillation,GC-FID and GC-MS"
+9,"CHD,MAHD and GC/MS"
+10,Capillary GC and GC-MS
+11,Capillary GC and GC/MS
+12,"Capillary GC, GC-MS"
+13,Capillary GC-FID & GC-MS
+14,"Cpillary GC,GC/MS"
+15,"Drug dilutions,GC/MS ,hydro-distillation"
+16,FID and GC/MS
+17,GC
+18,GC (DB-5 capillary column) {Isolated through Cold-pressing method}
+19,GC (DB-5 capillary column) {Isolated through Supercritical fluid carbon dioxide extraction}
+20,GC (DB-5 capillary column) {Isolated through Vacuum steam distillation}
+21,GC (FID
+22,"GC (RI), GC-MS and 13C NMR"
+23,"GC ,GC/MS and C-NMR"
+24,GC AND GC/MIS
+25,GC and (GC/MS)
+26,GC and GC-MS
+27,GC and GC/MS
+28,GC and GC/MS (DB-WAX)
+29,GC and GC/MS (Dbeta-5 column)
+30,GC and GC/MS (Supelcowx 10 column
+31,GC(Carbowax 20M Columns) {Isolated through Cold-pressing method}
+32,GC(Carbowax 20M Columns) {Isolated through Supercritical fluid carbon dioxide extraction}
+33,GC(Carbowax 20M Columns) {Isolated through Vacuum steam distillation}
+34,GC(FID
+35,GC(FID and GC/MS
+36,"GC(FID),GC/MS"
+37,GC(FID)/MS
+38,"GC(RI), GC/MS and 13C-NMR"
+39,"GC, (GC/MS) and hydrodistillation"
+40,"GC, CG/MS,FID"
+41,"GC, FID"
+42,"GC, GC-EIMS, FID"
+43,"GC, GC-MS"
+44,"GC, GC-MS & GC-FID"
+45,"GC, GC-MS and 13C-NMR"
+46,"GC, GC/MS"
+47,"GC, GC/MS and 13C-NMR"
+48,"GC, GC/MS and 1H NMR"
+49,"GC, GC/MS and 1H- and 13C-NMR"
+50,"GC, GC/MS and C'NMR"
