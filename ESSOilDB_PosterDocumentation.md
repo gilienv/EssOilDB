@@ -2,36 +2,36 @@
 
 ### TABLE NAME
 
-- profile
+- profile - Table for plant profile.
 
 ### COLUMNS
 
-- profile_id
-- plant_id (FK)
-- location_id (FK)
-- biblio_id (FK)
-- date_id (FK) => MOVE to VALUE
-- legacy_profile_id (JEA*..)
+- profile_id - Primary key. Auto-incremented.
+- plant_id (FK) - Foreign key to plantdata. 
+- location_id (FK) - Foreign key to locationdata.
+- biblio_id (FK) - Foreign key to bibliographydata.
+- date_id (FK) => MOVE to VALUE - Foreign key to samplecollectiontime.
+- legacy_profile_id (JEA*..) - profile code for each plant.
 
-- percent (NUMBER) or maybe range
-- plantPart_id (FK) => MOVE to PROFILE
-- condition_id (FK) => MOVE to PROFILE
-- method_id (FK) => MOVE to PROFILE
+- percent (NUMBER) or maybe range - Percentege of compound emmission.
+- plantPart_id (FK) => MOVE to PROFILE  - Foreign key to plantpart.
+- condition_id (FK) => MOVE to PROFILE - Foreign key to condition
+- method_id (FK) => MOVE to PROFILE - Foreign key to method.
   method VARCHAR not normalized
   
  ## TABLE 2.0
 
 ### TABLE NAME
 
-- plant
+- plant - 
 
 ### COLUMNS
 
-- plant_id
-- species (binomial)
-- family_id (FK) MERGE ??
-- habitat_id (FK) ?DISCARD?
-- genus
+- plant_id - Primary key. Auto-incremented.
+- species (binomial) - Plant species.
+- family_id (FK) MERGE ?? - Plant family 
+- habit_id (FK) ?DISCARD? - Plant habit
+- genus - Plant genus.
 
 - ADD Wikidata
 
@@ -39,16 +39,16 @@
 
 ### TABLE NAME
 
-- location
+- location - Table for experiment location.
 
 ### COLUMNS
 
-- location_id
-- name VARCHAR
-- region
-- country
-- state
-- city
+- location_id - id for each location/address
+- name VARCHAR - location or address
+- region - experiment city/town/village.
+- state - state
+- country - country
+
 
 *NEEDS NORMALISING to include region, country,
 
@@ -56,53 +56,53 @@
 
 ### TABLE NAME
 
-- family
+- family - Table for plant family.
 
 ### COLUMNS
 
-- family_id
-- name
+- family_id - an id for each plant family.
+- name - plant family name.
 
 ## TABLE 5.0
 
 ### TABLE NAME
 
-- habit
+- habit - Table for plant habit.
 
 ### COLUMNS
 
-- habitat_id
-- habit
+- habitat_id - an id for each plant habit.
+- habit - plant habit.
 
 
 ## TABLE 6.0
 
 ### TABLE NAME
 
-- bibliography
+- bibliography - Table for bibliography.
 
 ### COLUMNS
 
-- biblio_id
-- doi
-- doi_link
-- title
-- author
-- journal
-- volume
-- year
+- biblio_id - id for each bibliography.
+- doi - doi number
+- doi_link - weblink to doi.
+- title - title of the article.
+- author - author name.
+- journal - name of the journal.
+- volume - voulume
+- year - year of publication.
 
 
 ## TABLE 7.0
 
 ### TABLE NAME
 
-- collection_date
+- collection_date - Table for experimental condition.
 
 ### COLUMNS
 
-- collection_date_id
-- value (DATE)
+- collection_date_id - an id for sample collection date (year).
+- value (DATE) - time of experiment.
 MERGE WITH PROFILE
 
 
@@ -110,14 +110,14 @@ MERGE WITH PROFILE
 
 ### TABLE NAME
 
-- composition
+- composition - Table for chemical composition (emmission).
 
 ### COLUMNS
 
-- composition_id
-- profile_id (FK)
-- compound_id (FK)
-- percent (NUMBER) or maybe range
+- composition_id - an id for each record in the table.
+- profile_id (FK) - profile code assigned to compound.
+- compound_id (FK) - an id assigned to each compound.
+- percent (NUMBER) or maybe range - percentage amount of chemical compound as their emission.
 - plantPart_id (FK) => MOVE to PROFILE
 - condition_id (FK) => MOVE to PROFILE
 - method_id (FK) => MOVE to PROFILE
@@ -129,40 +129,40 @@ method VARCHAR not normalized
 
 ### TABLE NAME
 
-- compound
+- compoundmethod VARCHAR not normalized - Table for chemical compounds.
 
 ### COLUMNS
 
-- compound_id
-- systemaric_name (?)
-- trivial_name (???)
-- smiles
-- cas_no
-- activity_id (FK) NEED TO DISCUSS - where does this come from?
-- chemical_group_id (FK?) WHERE IS THIS?
-- formula
+- compound_id - Primary key. Auto-incremented. an id assigned to each record into table
+- systemaric_name (?) - compound name.
+- trivial_name (???) - chemical name.
+- smiles - SMILES code.
+- cas_no - CAS number.
+- activity_id (FK) NEED TO DISCUSS - where does this come from? - Foreign key to compound activity table. compound activity.
+- chemical_group_id (FK?) WHERE IS THIS? - Foreign key to compoundgroupdata table. An id for each chemical compound group.
+- formula - Chemical compound formula.
 
 ## TABLE 10.0
 
 ### TABLE NAME
 
-- plantpart
+- plantpart - Table for plant part.
 
 ### COLUMNS
 
-- plantpart_id
-- name
+- plantpart_id - Primary key. Auto-incremented. An id for each plant part.
+- name - plant part name.
 
 ## TABLE 11.0
 
 ### TABLE NAME
 
-- activity
+- activity - Table for chemical compound activity.
 
 ### COLUMNS
 
-- activity_id
-- name
+- activity_id - Primary key of the table. Auto-incremented.
+- name - compound activity name.
 
 
 
@@ -170,12 +170,12 @@ method VARCHAR not normalized
 
 ### TABLE NAME
 
-- condition
+- condition - Table for experimental condition.
 
 ### COLUMNS
 
-- condition_id
-- condition VARCHAR not normalized
+- condition_id - Primary key. Auto-incremented.
+- condition VARCHAR not normalized - Experimental condition.
 
 
 
@@ -183,12 +183,12 @@ method VARCHAR not normalized
 
 ### TABLE NAME
 
-- chemicalgroup
+- chemicalgroup - Table for chemical compound group.
 
 ### COLUMNS
 
-- chemical_group_id
-- chemical_group_name VARCHAR not normalized
+- chemical_group_id - Primary key. Auto-incremented. Chemical group id.
+- chemical_group_name VARCHAR not normalized - Chemical group name.
 
 
 
@@ -196,9 +196,9 @@ method VARCHAR not normalized
 
 ### TABLE NAME
 
-- method
+- method - Table for experimental methodology.
 
 ### COLUMNS
 
-- method_id
-- method VARCHAR not normalized 
+- method_id - Primary key. Auto-incremented. Experimental methodology id.
+- method VARCHAR not normalized - Experimental methodology.
