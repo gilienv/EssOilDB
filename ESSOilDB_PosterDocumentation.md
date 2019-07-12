@@ -7,14 +7,14 @@
 #### COLUMNS
 
 - profile_id - Primary key. Auto-incremented.
-- plant_id (FK) - Foreign key to plantdata. 
+- plant_id [FK] - Foreign key to plantdata. 
 - location_id (FK) - Foreign key to locationdata.
 - biblio_id (FK) - Foreign key to bibliographydata.
 - date_id (FK) => MOVE to VALUE - Foreign key to samplecollectiontime.
 - legacy_profile_id (JEA*..) - profile code for each plant.
 
 - percent (NUMBER) or maybe range - Percentege of compound emmission.
-- plantPart_id (FK) => MOVE to PROFILE  - Foreign key to plantpart.
+- plantPart_id (FK) - Foreign key to plantpart.
 - condition_id (FK) => MOVE to PROFILE - Foreign key to condition
 - method_id (FK) => MOVE to PROFILE - Foreign key to method.
   method VARCHAR not normalized
