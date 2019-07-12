@@ -10,13 +10,13 @@
 - plant_id [FK] - Foreign key to plantdata. 
 - location_id (FK) - Foreign key to locationdata.
 - biblio_id (FK) - Foreign key to bibliographydata.
-- date_id (FK) => MOVE to VALUE - Foreign key to samplecollectiontime.
+- date_id (FK) - Foreign key to samplecollectiontime.
 - legacy_profile_id (JEA*..) - profile code for each plant.
 
 - percent (NUMBER) or maybe range - Percentege of compound emmission.
 - plantPart_id (FK) - Foreign key to plantpart.
-- condition_id (FK) => MOVE to PROFILE - Foreign key to condition
-- method_id (FK) => MOVE to PROFILE - Foreign key to method.
+- condition_id (FK) - Foreign key to condition
+- method_id (FK) - Foreign key to method.
   method VARCHAR not normalized
   
  ## TABLE 2.0
@@ -29,8 +29,8 @@
 
 - plant_id - Primary key. Auto-incremented.
 - species (binomial) - Plant species.
-- family_id (FK) MERGE ?? - Plant family 
-- habit_id (FK) ?DISCARD? - Plant habit
+- family_id (FK) - Plant family 
+- habit_id (FK)  - Plant habit
 - genus - Plant genus.
 
 - ADD Wikidata
@@ -43,7 +43,7 @@
 
 #### COLUMNS
 
-- location_id - id for each location/address
+- location_id - Primary key. id for each location/address
 - name VARCHAR - location or address
 - region - experiment city/town/village.
 - state - state
@@ -93,6 +93,8 @@
 - year - year of publication.
 
 
+### Note - MERGE WITH PROFILE
+
 ## TABLE 7.0
 
 #### TABLE NAME
@@ -118,11 +120,8 @@ MERGE WITH PROFILE
 - profile_id (FK) - profile code assigned to compound.
 - compound_id (FK) - an id assigned to each compound.
 - percent (NUMBER) or maybe range - percentage amount of chemical compound as their emission.
-- plantPart_id (FK) => MOVE to PROFILE
-- condition_id (FK) => MOVE to PROFILE
-- method_id (FK) => MOVE to PROFILE
 
-method VARCHAR not normalized
+
 
 
 ## TABLE 9.0
@@ -134,12 +133,12 @@ method VARCHAR not normalized
 #### COLUMNS
 
 - compound_id - Primary key. Auto-incremented. an id assigned to each record into table
-- systemaric_name (?) - compound name.
-- trivial_name (???) - chemical name.
+- systemaric_name - compound name.
+- trivial_name - chemical name.
 - smiles - SMILES code.
 - cas_no - CAS number.
-- activity_id (FK) NEED TO DISCUSS - where does this come from? - Foreign key to compound activity table. compound activity.
-- chemical_group_id (FK?) WHERE IS THIS? - Foreign key to compoundgroupdata table. An id for each chemical compound group.
+- activity_id (FK) - Foreign key to compound activity table. compound activity.
+- chemical_group_id (FK) - Foreign key to compoundgroupdata table. An id for each chemical compound group.
 - formula - Chemical compound formula.
 
 ## TABLE 10.0
