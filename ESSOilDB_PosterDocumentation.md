@@ -1,10 +1,10 @@
 ## TABLE 1.0
 
-### TABLE NAME
+#### TABLE NAME
 
 - profile - Table for plant profile.
 
-### COLUMNS
+#### COLUMNS
 
 - profile_id - Primary key. Auto-incremented.
 - plant_id (FK) - Foreign key to plantdata. 
@@ -21,11 +21,11 @@
   
  ## TABLE 2.0
 
-### TABLE NAME
+#### TABLE NAME
 
 - plant - 
 
-### COLUMNS
+#### COLUMNS
 
 - plant_id - Primary key. Auto-incremented.
 - species (binomial) - Plant species.
@@ -37,11 +37,11 @@
 
 ## TABLE 3.0
 
-### TABLE NAME
+#### TABLE NAME
 
 - location - Table for experiment location.
 
-### COLUMNS
+#### COLUMNS
 
 - location_id - id for each location/address
 - name VARCHAR - location or address
@@ -54,22 +54,22 @@
 
 ## TABLE 4.0
 
-### TABLE NAME
+#### TABLE NAME
 
 - family - Table for plant family.
 
-### COLUMNS
+#### COLUMNS
 
 - family_id - an id for each plant family.
 - name - plant family name.
 
 ## TABLE 5.0
 
-### TABLE NAME
+#### TABLE NAME
 
 - habit - Table for plant habit.
 
-### COLUMNS
+#### COLUMNS
 
 - habitat_id - an id for each plant habit.
 - habit - plant habit.
@@ -77,11 +77,11 @@
 
 ## TABLE 6.0
 
-### TABLE NAME
+#### TABLE NAME
 
 - bibliography - Table for bibliography.
 
-### COLUMNS
+#### COLUMNS
 
 - biblio_id - id for each bibliography.
 - doi - doi number
@@ -95,11 +95,11 @@
 
 ## TABLE 7.0
 
-### TABLE NAME
+#### TABLE NAME
 
 - collection_date - Table for experimental condition.
 
-### COLUMNS
+#### COLUMNS
 
 - collection_date_id - an id for sample collection date (year).
 - value (DATE) - time of experiment.
@@ -108,11 +108,11 @@ MERGE WITH PROFILE
 
 ## TABLE 8.0
 
-### TABLE NAME
+#### TABLE NAME
 
 - composition - Table for chemical composition (emmission).
 
-### COLUMNS
+#### COLUMNS
 
 - composition_id - an id for each record in the table.
 - profile_id (FK) - profile code assigned to compound.
@@ -127,11 +127,11 @@ method VARCHAR not normalized
 
 ## TABLE 9.0
 
-### TABLE NAME
+#### TABLE NAME
 
 - compoundmethod VARCHAR not normalized - Table for chemical compounds.
 
-### COLUMNS
+#### COLUMNS
 
 - compound_id - Primary key. Auto-incremented. an id assigned to each record into table
 - systemaric_name (?) - compound name.
@@ -144,22 +144,22 @@ method VARCHAR not normalized
 
 ## TABLE 10.0
 
-### TABLE NAME
+#### TABLE NAME
 
 - plantpart - Table for plant part.
 
-### COLUMNS
+#### COLUMNS
 
 - plantpart_id - Primary key. Auto-incremented. An id for each plant part.
 - name - plant part name.
 
 ## TABLE 11.0
 
-### TABLE NAME
+#### TABLE NAME
 
 - activity - Table for chemical compound activity.
 
-### COLUMNS
+#### COLUMNS
 
 - activity_id - Primary key of the table. Auto-incremented.
 - name - compound activity name.
@@ -168,11 +168,11 @@ method VARCHAR not normalized
 
 ## TABLE 12.0
 
-### TABLE NAME
+#### TABLE NAME
 
 - condition - Table for experimental condition.
 
-### COLUMNS
+#### COLUMNS
 
 - condition_id - Primary key. Auto-incremented.
 - condition VARCHAR not normalized - Experimental condition.
@@ -181,11 +181,11 @@ method VARCHAR not normalized
 
 ## TABLE 13.0
 
-### TABLE NAME
+#### TABLE NAME
 
 - chemicalgroup - Table for chemical compound group.
 
-### COLUMNS
+#### COLUMNS
 
 - chemical_group_id - Primary key. Auto-incremented. Chemical group id.
 - chemical_group_name VARCHAR not normalized - Chemical group name.
@@ -194,11 +194,11 @@ method VARCHAR not normalized
 
 ## TABLE 14.0
 
-### TABLE NAME
+#### TABLE NAME
 
 - method - Table for experimental methodology.
 
-### COLUMNS
+#### COLUMNS
 
 - method_id - Primary key. Auto-incremented. Experimental methodology id.
 - method VARCHAR not normalized - Experimental methodology.
