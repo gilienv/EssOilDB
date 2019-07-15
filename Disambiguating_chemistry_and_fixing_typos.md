@@ -1,10 +1,10 @@
 ### API
 
-- [OPSIN] (https://opsin.ch.cam.ac.uk) - Web API.
+- [OPSIN](https://opsin.ch.cam.ac.uk) - Web API.
 
-- [OPSIN] (https://bitbucket.org/dan2097/opsin/downloads/) - Local (stand-alone) API.
+- [OPSIN](https://bitbucket.org/dan2097/opsin/downloads/) - Local (stand-alone) API.
 
-- [PubChem] (https://pubchem.ncbi.nlm.nih.gov/idexchange/idexchange.cgi) - Web API. Services for PubChem queries and downloads.
+- [PubChem](https://pubchem.ncbi.nlm.nih.gov/idexchange/idexchange.cgi) - Web API. Services for PubChem queries and downloads.
 
 ### Run steps PubChem API
 
@@ -71,7 +71,7 @@
    
    `PubChem_lookup_inchis` - generated inchis for the input compound name.
     
-     `
+     
      
    Statistics
   
@@ -86,4 +86,4 @@
   
   
   
-- 
+
