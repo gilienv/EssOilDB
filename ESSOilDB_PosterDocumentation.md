@@ -2,7 +2,7 @@
 
 #### TABLE NAME
 
-- profile - Table for plant profile.
+- **profile** - Table for plant profile.
 
 #### COLUMNS
 
