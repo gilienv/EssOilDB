@@ -6,7 +6,7 @@
 
 #### Description 
 
-Record of the experimental conditions and metadata. (The results of the experiment are in **profiledata**)
+Record of the experimental conditions and metadata. (The results of the experiment are in **profiledata**). Used to be `infoCdata`.
 
 #### COLUMNS
 
@@ -20,6 +20,10 @@ Record of the experimental conditions and metadata. (The results of the experime
 - plantPart_id (FK) - Foreign key to plantpart. 
 - condition_id (FK) - Foreign key to condition.  
 - method_id (FK) - Foreign key to method. 
+
+
+#### Recommendation
+Include Date column and remove Date table
 
 
  ## TABLE 2.0
@@ -193,17 +197,25 @@ Table for chemical compounds.
 
 #### Description
 Experimental conditions
-Both how the oils were extracted 
-AND
-how they were measured
+Freefield with no controlled vocabulary or consistency
 
+#### Examples
+```
+1,(-20 degree) temperature (after 1 month)
+2,(-20 degree) temperature (after 2 months)
+5,(-20 degree) temperature (after distillation)
+6,0 mg/l(selenium treatment)
+7,100 % Flowering (Developmental Stage Variation)
+8,1994 Analysis
+```
 
 #### COLUMNS
 
 - condition_id - Primary key. Auto-incremented.
 - condition VARCHAR not normalized - Experimental condition.
 
-
+#### Recommendation
+Transfer as freefield into **profile**
 
 ## TABLE 13.0
 
