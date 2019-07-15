@@ -64,7 +64,7 @@ Identity of plant in profiles. Normalized through external databases (Taxise, Wi
 
 #### TABLE NAME
 
-- family - Table for plant family.
+- family - Table for plant family. => MERGE with plant
 
 #### COLUMNS
 
