@@ -14,7 +14,7 @@ Record of the experimental conditions and metadata. (The results of the experime
 - plant_id [FK] - Foreign key to plantdata. 
 - location_id (FK) - Foreign key to locationdata.
 - biblio_id (FK) - Foreign key to bibliographydata.
-- date_id (FK) - Foreign key to samplecollectiontime.
+- date_id (FK) - Foreign key to samplecollectiontime. **CHANGE to ISO8601 date column and remove date table**
 - legacy_profile_id (JEA*..) - profile code for each plant.
 
 - plantPart_id (FK) - Foreign key to plantpart. 
