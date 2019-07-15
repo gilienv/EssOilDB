@@ -51,7 +51,7 @@ Identity of plant in profiles. Normalized through external databases (Taxise, Wi
 
 ## location
 #### Description
-- reported location of experiment. Attempt to resolve this to either geocoordinates or Wikidata or both
+Reported location of experiment. Attempt to resolve this to either geocoordinates or Wikidata or both.
 
 #### Columns
 
@@ -60,18 +60,15 @@ Identity of plant in profiles. Normalized through external databases (Taxise, Wi
 - region - experiment city/town/village.
 - state - state
 - country - country
+- geocoordinates (ISO) Lat+Long
+- wikidata (for region)
 
-*NEEDS NORMALISING to include region, country,
+## bibliography
+#### Description
+Bibliography. Mapped onto Authors, Journal, Data, etc.
+Currently this is nor present explicitly but is being mapped from text strings.
 
-
-## T
-## TABLE 6.0
-
-#### TABLE NAME
-
-- bibliography - Table for bibliography.
-
-#### COLUMNS
+#### Columns
 
 - biblio_id - id for each bibliography.
 - doi - doi number
@@ -84,106 +81,45 @@ Identity of plant in profiles. Normalized through external databases (Taxise, Wi
 - year - year of publication.
 
 
-### Note - MERGE WITH PROFILE
+## profiledata
+#### Description 
+Composition . The chemical data associated with a profile, occurring as `compound_id` `percent_value` pairs.
+Within a profile the `compound_id` must be unique.
+Currently profiles with ranges of `percent_value` are excluded.
 
-## TABLE 7.0
+#### Columns
 
-#### TABLE NAME
-
-- collection_date - Table for experimental condition.
-
-#### COLUMNS
-
-- collection_date_id - an id for sample collection date (year).
-- value (DATE) - time of experiment.
-**MERGE WITH PROFILE **
-
-
-## TABLE 8.0
-
-#### TABLE NAME
-
-- composition or **profiledata** - Table for composition. This is the chemical data associated with a profile
-
-#### COLUMNS
-
-- composition_id - an id for each record in the table.
-- profile_id (FK) - profile code assigned to compound.
+- profiledata_id - an id for each record in the table.
+- profile_id (FK) - link to `profile` in which this data occurs.
 - compound_id (FK) - an id assigned to each compound.
 - percent (NUMBER) or maybe range - percentage amount of chemical compound as their emission.
-- plantPart_id (FK) => MOVE to PROFILE - foreign key to plantpart.
-- condition_id (FK) => MOVE to PROFILE - foreign key to condition.
-- method_id (FK) => MOVE to PROFILE - foreign key to method.
 
-method VARCHAR not normalized
-
-
-
-## TABLE 9.0
-
-#### TABLE NAME
-
-**compound** 
+## compound
 
 #### Description 
-Table for chemical compounds.
+A chemical compound.
+Mixtures are not allowed. Generic names are discouraged (e.g. pinene). Gneeric or ambiguous named are recorded 
+and we try to identify them more precisely.
 
 #### COLUMNS
+*This table is likely to expland columnwise as there will be several methods for translating chemical names.*
 
 - compound_id - Primary key. Auto-incremented. an id assigned to each record into table
-- systematic_name - compound name.
 - trivial_name - chemical name.
-- smiles - SMILES code.
+- systematic_name - compound name.
+- smiles - SMILES code. (Not orginally present in V1.0)
 - cas_no - CAS number.
-- activity_id (FK) - Foreign key to compound activity table. compound activity.
-- chemical_group_id (FK) - Foreign key to compoundgroupdata table. An id for each chemical compound group.
 - formula - Chemical compound formula.
+- InChI. ID generated from names and other lookups
 
-
-
-## TABLE 10.0
-
-#### TABLE NAME
-
-- plantpart - Table for plant part.
-
-#### COLUMNS
+## plantpart
+#### Description
+Plant parts, normalized against controlled vocabulary (maybe Wikidata).
 
 - plantpart_id - Primary key. Auto-incremented. An id for each plant part.
 - name - plant part name.
+- Wikidata ID
 
-## TABLE 11.0
-
-#### TABLE NAME
-
-- activity - Table for chemical compound activity. Derived **REMOVE**
-
-#### COLUMNS
-
-- activity_id - Primary key of the table. Auto-incremented.
-- name - compound activity name.
-
-
-
-## TABLE 12.0
-
-#### TABLE NAME
-
-**condition**
-
-#### Description
-Experimental conditions
-Freefield with no controlled vocabulary or consistency
-
-#### Examples
-```
-1,(-20 degree) temperature (after 1 month)
-2,(-20 degree) temperature (after 2 months)
-5,(-20 degree) temperature (after distillation)
-6,0 mg/l(selenium treatment)
-7,100 % Flowering (Developmental Stage Variation)
-8,1994 Analysis
-```
 
 #### COLUMNS
 
@@ -225,4 +161,36 @@ Transfer as freefield into **profile**
 
 ## habitat 
 - plant habitat. REMOVE this table
+
+## collection_date
+merge with `profile`
+
+## activity
+- activity - Table for chemical compound activity. Derived **REMOVE**
+
+## conditions 
+Merge into `profile` as freefield
+
+## TABLE 12.0
+
+#### TABLE NAME
+
+**condition**
+
+#### Description
+Experimental conditions
+Freefield with no controlled vocabulary or consistency
+
+#### Examples
+```
+1,(-20 degree) temperature (after 1 month)
+2,(-20 degree) temperature (after 2 months)
+5,(-20 degree) temperature (after distillation)
+6,0 mg/l(selenium treatment)
+7,100 % Flowering (Developmental Stage Variation)
+8,1994 Analysis
+```
+
+
+
 
