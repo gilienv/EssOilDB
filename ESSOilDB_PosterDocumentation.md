@@ -10,13 +10,13 @@
 - plant_id [FK] - Foreign key to plantdata. 
 - location_id (FK) - Foreign key to locationdata.
 - biblio_id (FK) - Foreign key to bibliographydata.
-- date_id (FK) - Foreign key to samplecollectiontime.
+- date_id (FK) - Foreign key to samplecollectiontime. => MOVE to VALUE
 - legacy_profile_id (JEA*..) - profile code for each plant.
 
 - percent (NUMBER) or maybe range - Percentege of compound emmission.
-- plantPart_id (FK) - Foreign key to plantpart.
-- condition_id (FK) - Foreign key to condition
-- method_id (FK) - Foreign key to method.
+- plantPart_id (FK) - Foreign key to plantpart.  => MOVE to PROFILE
+- condition_id (FK) - Foreign key to condition. => MOVE to PROFILE 
+- method_id (FK) - Foreign key to method. => MOVE to PROFILE
   method VARCHAR not normalized
   
  ## TABLE 2.0
@@ -29,11 +29,11 @@
 
 - plant_id - Primary key. Auto-incremented.
 - species (binomial) - Plant species.
-- family_id (FK) - Plant family 
-- habit_id (FK)  - Plant habit
+- family_id (FK) MERGE ?? - Plant family 
+- habitat_id (FK) ?DISCARD?  - Plant habit
 - genus - Plant genus.
 
-- ADD Wikidata
+
 
 ## TABLE 3.0
 
@@ -67,12 +67,14 @@
 
 #### TABLE NAME
 
-- habit - Table for plant habit.
+- habitat - Table for plant habit.
 
 #### COLUMNS
 
 - habitat_id - an id for each plant habit.
-- habit - plant habit.
+- habitat - plant habit.
+
+DISCARD?
 
 
 ## TABLE 6.0
@@ -112,7 +114,7 @@ MERGE WITH PROFILE
 
 #### TABLE NAME
 
-- composition - Table for chemical composition (emmission).
+- composition or profiledata - Table for composition. This is the chemical data associated with a profile
 
 #### COLUMNS
 
@@ -120,7 +122,11 @@ MERGE WITH PROFILE
 - profile_id (FK) - profile code assigned to compound.
 - compound_id (FK) - an id assigned to each compound.
 - percent (NUMBER) or maybe range - percentage amount of chemical compound as their emission.
+- plantPart_id (FK) => MOVE to PROFILE - foreign key to plantpart.
+- condition_id (FK) => MOVE to PROFILE - foreign key to condition.
+- method_id (FK) => MOVE to PROFILE - foreign key to method.
 
+method VARCHAR not normalized
 
 
 
@@ -140,6 +146,8 @@ MERGE WITH PROFILE
 - activity_id (FK) - Foreign key to compound activity table. compound activity.
 - chemical_group_id (FK) - Foreign key to compoundgroupdata table. An id for each chemical compound group.
 - formula - Chemical compound formula.
+
+
 
 ## TABLE 10.0
 
