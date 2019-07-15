@@ -75,7 +75,7 @@ Identity of plant in profiles. Normalized through external databases (Taxise, Wi
 
 #### TABLE NAME
 
-- habitat - Table for plant habit.
+- habitat - Table for plant habit. REMOVE this table
 
 #### COLUMNS
 
