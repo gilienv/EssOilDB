@@ -26,7 +26,12 @@ Record of the experimental conditions and metadata. (The results of the experime
 
 #### TABLE NAME
 
-- plant - 
+**plant**
+
+#### DESCRIPTION
+
+Identity of plant in profiles. Normalized through external databases (Taxise, Wikidata)
+
 
 #### COLUMNS
 
