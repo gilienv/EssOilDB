@@ -96,7 +96,7 @@ DISCARD?
 - biblio_id - id for each bibliography.
 - doi - doi number
 - doi_link - weblink to doi.
-- freefield Bibliographic information **copied from EssoilDB 1.0**
+- freefield Bibliographic information **copied from EssoilDB 1.0 infopdata **
 - title - title of the article.
 - author - author name.
 - journal - name of the journal.
@@ -116,7 +116,7 @@ DISCARD?
 
 - collection_date_id - an id for sample collection date (year).
 - value (DATE) - time of experiment.
-MERGE WITH PROFILE
+**MERGE WITH PROFILE **
 
 
 ## TABLE 8.0
@@ -143,12 +143,15 @@ method VARCHAR not normalized
 
 #### TABLE NAME
 
-- compoundmethod VARCHAR not normalized - Table for chemical compounds.
+**compound** 
+
+#### Description 
+Table for chemical compounds.
 
 #### COLUMNS
 
 - compound_id - Primary key. Auto-incremented. an id assigned to each record into table
-- systemaric_name - compound name.
+- systematic_name - compound name.
 - trivial_name - chemical name.
 - smiles - SMILES code.
 - cas_no - CAS number.
