@@ -114,7 +114,7 @@ MERGE WITH PROFILE
 
 #### TABLE NAME
 
-- composition or profiledata - Table for composition. This is the chemical data associated with a profile
+- composition or **profiledata** - Table for composition. This is the chemical data associated with a profile
 
 #### COLUMNS
 
