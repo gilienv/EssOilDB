@@ -10,14 +10,12 @@
 - plant_id [FK] - Foreign key to plantdata. 
 - location_id (FK) - Foreign key to locationdata.
 - biblio_id (FK) - Foreign key to bibliographydata.
-- date_id (FK) - Foreign key to samplecollectiontime. => MOVE to VALUE
+- date_id (FK) - Foreign key to samplecollectiontime.
 - legacy_profile_id (JEA*..) - profile code for each plant.
 
-- percent (NUMBER) or maybe range - Percentege of compound emmission.
-- plantPart_id (FK) - Foreign key to plantpart.  => MOVE to PROFILE
-- condition_id (FK) - Foreign key to condition. => MOVE to PROFILE 
-- method_id (FK) - Foreign key to method. => MOVE to PROFILE
-  method VARCHAR not normalized
+- plantPart_id (FK) - Foreign key to plantpart. 
+- condition_id (FK) - Foreign key to condition.  
+- method_id (FK) - Foreign key to method. 
   
  ## TABLE 2.0
 
