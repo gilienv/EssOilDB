@@ -4,6 +4,10 @@
 
 - **profile** - Table for plant profile.
 
+#### Description 
+
+Record of the experimental conditions and metadata. (The results of the experiment are in **profiledata**)
+
 #### COLUMNS
 
 - profile_id - Primary key. Auto-incremented.
@@ -16,7 +20,8 @@
 - plantPart_id (FK) - Foreign key to plantpart. 
 - condition_id (FK) - Foreign key to condition.  
 - method_id (FK) - Foreign key to method. 
-  
+
+
  ## TABLE 2.0
 
 #### TABLE NAME
