@@ -176,7 +176,7 @@ Table for chemical compounds.
 
 #### TABLE NAME
 
-- activity - Table for chemical compound activity.
+- activity - Table for chemical compound activity. Derived **REMOVE**
 
 #### COLUMNS
 
@@ -189,7 +189,14 @@ Table for chemical compounds.
 
 #### TABLE NAME
 
-- condition - Table for experimental condition.
+**condition**
+
+#### Description
+Experimental conditions
+Both how the oils were extracted 
+AND
+how they were measured
+
 
 #### COLUMNS
 
@@ -202,7 +209,7 @@ Table for chemical compounds.
 
 #### TABLE NAME
 
-- chemicalgroup - Table for chemical compound group.
+- chemicalgroup - Table for chemical compound group.  **REMOVE**
 
 #### COLUMNS
 
@@ -221,3 +228,6 @@ Table for chemical compounds.
 
 - method_id - Primary key. Auto-incremented. Experimental methodology id.
 - method VARCHAR not normalized - Experimental methodology.
+
+
+NOT Finished
