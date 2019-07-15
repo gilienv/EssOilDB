@@ -96,6 +96,7 @@ DISCARD?
 - biblio_id - id for each bibliography.
 - doi - doi number
 - doi_link - weblink to doi.
+- freefield Bibliographic information **copied from EssoilDB**
 - title - title of the article.
 - author - author name.
 - journal - name of the journal.
