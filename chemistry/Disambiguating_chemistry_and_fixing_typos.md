@@ -132,3 +132,22 @@ Column description
 - OPSIN_comments - generated comments for not found entries.
 
 ##### 500cnameOPSINbatch01234_inchis.tsv
+
+
+
+---------------------------------------------------------------------------------------------------------------------------
+  
+## 17 July 2019, Tuesday.
+
+### Run status - Batch_5, Batch_6, Batch_7, Batch_8, Batch_9 - complete.
+
+#### Output file.
+
+##### 500to1000WIKIDATA_Batch56789.csv
+##### 500to1000WIKIDATA_Batch56789.tsv
+##### 500to1000OPSINBatch56789_inchis.tsv
+##### 500to1000OPSINBatch56789_inchis.csv
+##### 500to1000PubChem_Batch56789_InchisCID.csv
+##### 500to1000PubChem_Batch56789_InchisCID.tsv
+
+Columns descrioption is same as before.
