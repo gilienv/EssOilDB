@@ -1,0 +1,20 @@
+- 1844 - unique plant records
+- 7159 - unique compounds.
+- 870 - unique address.
+- 109 - plant families.
+- 46 - unique activity.
+- 395 chemical formula.
+- 1414 - IUPAC names.
+- 1113 - CAS records.
+- 3249 - paper codes.
+- 73 - different journal records.
+- 123041 - EssOil records.
+- 1618 - plant species.
+- 44787 records contain biological activity.
+- 8237- geographical distribution.
+- 4047 - seasonal change.
+- 3264 - Developmental stage variation.
+- 2585 - isolation technique variation.
+- 929 - cultivar comparision.
+- 1553 - variety and population comparision.
+- 355 -  chemotype comparision.
