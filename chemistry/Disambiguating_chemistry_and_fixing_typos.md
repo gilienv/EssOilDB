@@ -198,3 +198,8 @@ column description
 
 ##### [EssOilDBOPSINPubChem.tsv](https://github.com/gilienv/EssOilDB/blob/master/chemistry/EssOilDBOPSINPubChem.tsv) - sheet with EssOilDB entry names OPSIN search results (inchis) and PubChem search results (cids and inchis)
 
+####### statistics
+- Count of found results out of 1000 
+Found by PubChem - 584
+Found by OPSIN - 306
+
