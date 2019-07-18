@@ -161,9 +161,40 @@ Columns descrioption is same as before.
 #### Output file.
 
 ##### [EssOilDBOPSIN.csv](https://github.com/gilienv/EssOilDB/blob/master/chemistry/EssOilDBOPSIN.csv) - sheet with EssOilDB entry names and OPSIN search results (inchis)
+column description
+
+- Compound_name - entry name of compounds into EssOilDB.
+
+- OPSIN_name - OPSIN lookup name.
+
+- OPSIN_inchis - OPSIN search for INCHIS. 
+
 ##### [EssOilDBOPSIN.tsv](https://github.com/gilienv/EssOilDB/blob/master/chemistry/EssOilDBOPSIN.tsv) - sheet with EssOilDB entry names and OPSIN search results (inchis)
+
 ##### [EssOilDBPubChem.csv](https://github.com/gilienv/EssOilDB/blob/master/chemistry/EssOilDBPubChem.csv) - sheet with EssOilDB entry names and PubChem search results (cids and inchis)
+
+- Compound_name - entry name of compounds into EssOilDB.
+
+- PubChem_lookup_name - PubChem lookup name.
+
+- PubChem_lookup_inchis - PubChem search for INCHIS.
+
 ##### [EssOilDBPubChem.tsv](https://github.com/gilienv/EssOilDB/blob/master/chemistry/EssOilDBPubChem.tsv) - sheet with EssOilDB entry names and PubChem search results (cids and inchis)
+
+
 ##### [EssOilDBOPSINPubChem.csv](https://github.com/gilienv/EssOilDB/blob/master/chemistry/EssOilDBOPSINPubChem.csv) - sheet with EssOilDB entry names OPSIN search results (inchis) and PubChem search results (cids and inchis)
+
+
+- Compound_name - entry name of compounds into EssOilDB.
+
+- OPSIN_name - OPSIN lookup name.
+
+- OPSIN_inchis - OPSIN search for INCHIS. 
+
+- PubChem_lookup_name - PubChem lookup name.
+
+- PubChem_lookup_inchis - PubChem search for INCHIS.
+
+
 ##### [EssOilDBOPSINPubChem.tsv](https://github.com/gilienv/EssOilDB/blob/master/chemistry/EssOilDBOPSINPubChem.tsv) - sheet with EssOilDB entry names OPSIN search results (inchis) and PubChem search results (cids and inchis)
 
