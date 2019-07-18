@@ -137,7 +137,7 @@ Column description
 
 ---------------------------------------------------------------------------------------------------------------------------
   
-## 17 July 2019, Tuesday.
+## 17 July 2019, Wednesday.
 
 ### Run status - Batch_5, Batch_6, Batch_7, Batch_8, Batch_9 - complete.
 
@@ -151,3 +151,19 @@ Column description
 ##### 500to1000PubChem_Batch56789_InchisCID.tsv
 
 Columns descrioption is same as before.
+
+
+
+---------------------------------------------------------------------------------------------------------------------------
+  
+## 18 July 2019, Thursday.
+
+#### Output file.
+
+##### [EssOilDBOPSIN.csv](https://github.com/gilienv/EssOilDB/blob/master/chemistry/EssOilDBOPSIN.csv) - sheet with EssOilDB entry names and OPSIN search results (inchis)
+##### [EssOilDBOPSIN.tsv](https://github.com/gilienv/EssOilDB/blob/master/chemistry/EssOilDBOPSIN.tsv) - sheet with EssOilDB entry names and OPSIN search results (inchis)
+##### [EssOilDBPubChem.csv](https://github.com/gilienv/EssOilDB/blob/master/chemistry/EssOilDBPubChem.csv) - sheet with EssOilDB entry names and PubChem search results (cids and inchis)
+##### [EssOilDBPubChem.tsv](https://github.com/gilienv/EssOilDB/blob/master/chemistry/EssOilDBPubChem.tsv) - sheet with EssOilDB entry names and PubChem search results (cids and inchis)
+##### [EssOilDBOPSINPubChem.csv](https://github.com/gilienv/EssOilDB/blob/master/chemistry/EssOilDBOPSINPubChem.csv) - sheet with EssOilDB entry names OPSIN search results (inchis) and PubChem search results (cids and inchis)
+##### [EssOilDBOPSINPubChem.tsv](https://github.com/gilienv/EssOilDB/blob/master/chemistry/EssOilDBOPSINPubChem.tsv) - sheet with EssOilDB entry names OPSIN search results (inchis) and PubChem search results (cids and inchis)
+
