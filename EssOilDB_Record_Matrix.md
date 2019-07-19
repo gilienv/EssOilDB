@@ -1,4 +1,4 @@
-- 1844 - unique plant records
+- 1848 - unique plant records
 - 7162 - unique compounds.
 - 870 - unique address.
 - 109 - plant families.
