@@ -1,5 +1,5 @@
 - 1844 - unique plant records
-- 7159 - unique compounds.
+- 7162 - unique compounds.
 - 870 - unique address.
 - 109 - plant families.
 - 46 - unique activity.
