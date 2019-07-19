@@ -232,10 +232,13 @@ compound_identifier  	original_name	       cleaned_name	   name_comments
  
  
 Column description
+```
   - `compound_identifier` - an identifier assigned to each compounds. Each one will be known by their assigned identifier.
   - `original name`       - name of the compound present into the EssOilDB as compound name entry.
   - `cleaned name`        - cleaned or corrected name of compounds (IUPAC names).
   - `name comments`       - comment of volunteer as what changes he/she has made (using decided key words, personal name and date stamp).
+  
+  ```
   
   
 #### Steps of generating files.
