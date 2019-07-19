@@ -204,7 +204,8 @@ column description
 Count of found results out of 1000 
  - Found by PubChem - 584
  - Found by OPSIN - 306
- 
+
+---------------------------------------------------------------------------------------------------------------------------------------
  
  ## 19 July 2019, Friday.
  
