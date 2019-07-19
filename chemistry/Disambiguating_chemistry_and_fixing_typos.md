@@ -204,4 +204,53 @@ column description
 Count of found results out of 1000 
  - Found by PubChem - 584
  - Found by OPSIN - 306
+ 
+ 
+ ## 19 July 2019, Friday.
+ 
+ Today's work is based on cleaning compound names included into the database. Included names are not purely systematic compound names. Also, there lies EssOilDB compound name inconsistencies with that of in OPSIN and PubChem. Both systems - OPSIN and PubChem - are generating InChIs and Id's for only matching compound names. We have to cleanse entries to make it systematic compound names (IUPAC names), so as to make all one searchable into OPSIN and PubChem.
+ 
+ 
 
+#### Output file.
+
+- [EssOilDBOPSINPubChemInChIsANew.csv](https://github.com/gilienv/EssOilDB/blob/master/chemistry/EssOilDBOPSINPubChemInChIsANew.tsv)
+
+- [EssOilDBOPSINPubChemInChIsANew.tsv](https://github.com/gilienv/EssOilDB/blob/master/chemistry/EssOilDBOPSINPubChemInChIsANew.tsv)
+
+
+```
+
+compound_identifier  	original_name	       cleaned_name	   name_comments
+ 1C                 	1,8-cineole		
+ 2C	                  allo-aromadendrene		
+ 3C	                  alpha-calacorene		
+ 4C	                  alpha-eudesmol		
+ 5C	                  alpha-gurjunene		
+ 
+ ```
+ 
+ 
+Column description
+  - `compound_identifier` - an identifier assigned to each compounds. Each one will be known by their assigned identifier.
+  - `original name`       - name of the compound present into the EssOilDB as compound name entry.
+  - `cleaned name`        - cleaned or corrected name of compounds (IUPAC names).
+  - `name comments`       - comment of volunteer as what changes he/she has made (using decided key words, personal name and date stamp).
+  
+  
+#### Steps of generating files.
+
+       - Extract Compound name column from [info_comp](https://github.com/gilienv/EssOilDB/blob/master/chemistry/info_compound_final_upload_01082017%20-%20Copy.csv) sheet.
+       
+       - Make compound name entries unique ( one can use MS Excel sheet to process the data) - [compUnique.csv](https://github.com/gilienv/EssOilDB/blob/master/chemistry/compUnique.csv).
+        
+        
+       - Generate an empty .csv formatted sheet over MS Excel.
+       
+       - Add columns mentioned above. 
+       
+       - Assign identifiers to chemical compound names.
+       
+Statistics
+
+            - Count of total unique compounds into the database - 7162.
