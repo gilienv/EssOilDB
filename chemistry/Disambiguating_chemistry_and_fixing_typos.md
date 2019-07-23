@@ -262,3 +262,40 @@ Column description
 Statistics
 
             - Count of total unique compounds into the database - 7162.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+ 
+ ## 23 July 2019, Tuesday.
+ 
+ Adding records to name correction sheet.
+ 
+ [CopyEssOilDBOPSINPubChemInChIs_A.csv](https://github.com/gilienv/EssOilDB/blob/master/chemistry/CopyEssOilDBOPSINPubChemInChIs_A.csv) - File containing cleaned_names and IUPAC name and name_comments.
+ 
+ Column description - 
+ ```compound_identifier``` - compound identifier (uniquely assigned to each compound)
+ ```original_name``` - name of the compound as it is present into the EssOilDB database.
+ ```cleaned_name``` - corrected or cleaned name of the compound. (still trivial name).
+ ```IUPAC name``` - Systematic name of the compound.
+ ```name_comments``` - comments for the corrections made to the compound.
+ 
+First few records of the sheet are as follows.
+
+```
+compound_identifier	original_name	cleaned_name	IUPAC name	name_comments
+1C	(2,4)-nonadienal	2,4-nonadienal	 (2E,4E)-nona-2,4-dienal 	extraParanthasis; 
+2C	(2e)-octen-1-ol	E-2-octen-1-ol	(E)-oct-2-en-1-ol	isomerNotation; 
+3C	(e)-1-propenyl methyl trisulfide	methyl trans-1-propenyl trisulfide	(E)-1-(methyltrisulfanyl)prop-1-ene	isomerNotation
+4C	(e)-2,(z)-6-decadienal			no search in PubChem; (e)-2,(z)-6-decadienal was uninterpretable due to the following section of the name: (e)-2,
+5C	(e)-2,2-decenal			no search in Pubchem; Multiple locants without a multiplier: &lt;locant&gt;2,2&lt;/locant&gt;
+6C	(e)-2-caren-4-ol	(E)-2-decenal	(E)-dec-2-enal	isomerNotation
+7C	(e)-2-decanal			noSearch; Could not find bond that: &lt;stereoChemistry type=&quot;EorZ&quot; value=&quot;E&quot;&gt;E&lt;/stereoChemistry&gt; was referring to
+8C	(e)-2-decenal	(E)-2-decenal	(E)-dec-2-enal	isomerNotation
+9C	(e)-2-decenol	(E)-2-decenol	(E)-dec-2-en-1-ol	isomerNotation
+10C	(e)-2-heptenal	(E)-2-Heptenal	(E)-hept-2-enal	
+11C	(e)-2-hexenal	(E)-2-hexenal	(E)-hex-2-enal	
+12C	(e)-2-hexenol	(E)-2-hexenol	(E)-hex-2-en-1-ol	
+13C	(e)-2-hexyl butyrate			no search; Could not find bond that: &lt;stereoChemistry type=&quot;EorZ&quot; value=&quot;E&quot;&gt;e&lt;/stereoChemistry&gt; was referring to
+14C	(e)-2-nonenal	(E)-2-nonenal	(E)-non-2-enal	isomerNotation
+
+```
