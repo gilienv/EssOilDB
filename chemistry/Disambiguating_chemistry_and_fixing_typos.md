@@ -221,19 +221,19 @@ Count of found results out of 1000
 
 
 ```
+Compound_identifier	    original_name	                   cleaned_name	      name_comments
+C1	                    (2,4)-nonadienal	                    NA	                 NA
+C2	                    (2e)-octen-1-ol	                      NA	                 NA
+C3	                    (e)-1-propenyl methyl trisulfide	    NA	                 NA
+C4	                    (e)-2,(z)-6-decadienal	              NA	                 NA 
+C5	                    (e)-2,2-decenal	                      NA	                 NA
+C6	                    (e)-2-caren-4-ol	                    NA	                 NA
+C7	                    (e)-2-decanal	                        NA	                 NA
+C8	                    (e)-2-decenal	                        NA	                 NA
+C9	                    (e)-2-decenol	                        NA	                 NA
+C10	                    (e)-2-heptenal	                      NA	                 NA
 
-compound_identifier	      original_name	         cleaned_name	      name_comments
-  1C	                    (2,4)-nonadienal	          NA	             NA
-  2C	                    (2e)-octen-1-ol	            NA	             NA
-  3C	                    (e)-1-propenyl methyl trisulfide	NA	       NA
-  4C	                    (e)-2,(z)-6-decadienal	          NA	       NA
-  5C	                    (e)-2,2-decenal	             NA	             NA
-  6C	                     (e)-2-caren-4-ol	            NA	           NA
-  7C	                     (e)-2-decanal	                NA	         NA
-  8C	                      (e)-2-decenal	                NA	         NA
-  9C	                      (e)-2-decenol	               NA	           NA
- 
- ```
+```
  
  
 Column description
@@ -282,10 +282,10 @@ Statistics
 First few records of the sheet are as follows.
 
 ```
-compound_identifier	original_name	cleaned_name		IUPAC name		name_comments
-1C	(2,4)-nonadienal	2,4-nonadienal		 (2E,4E)-nona-2,4-dienal 		extraParanthasis; 
-2C	(2e)-octen-1-ol	E-2-octen-1-ol		(E)-oct-2-en-1-ol		isomerNotation; 
-3C	(e)-1-propenyl methyl trisulfide	methyl trans-1-propenyl trisulfide		(E)-1-(methyltrisulfanyl)prop-1-ene		isomerNotation
+compound_identifier	       original_name	                   cleaned_name		              IUPAC name		       name_comments
+C1	                      (2,4)-nonadienal	                2,4-nonadienal		      (2E,4E)-nona-2,4-dienal 		extraParanthasis; 
+C2	                      (2e)-octen-1-ol	                  E-2-octen-1-ol		      (E)-oct-2-en-1-ol		      isomerNotation; 
+C3	                      (e)-1-propenyl methyl trisulfide	methyl trans-1-propenyl trisulfide	(E)-1-(methyltrisulfanyl)prop-1-ene		isomerNotation
 
 ```
 
