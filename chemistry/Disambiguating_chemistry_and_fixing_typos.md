@@ -289,3 +289,7 @@ compound_identifier	original_name	cleaned_name		IUPAC name		name_comments
 
 ```
 
+Making chages to compound_identifier. Changing 1C, 2C, 3C and so on to C1,C2,C3 ....
+
+- Note - IUPAC name column is yet not finalised and needs discussion to include it.
+
