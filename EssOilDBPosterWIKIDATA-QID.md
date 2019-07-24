@@ -1,7 +1,7 @@
 
 ### List of chemical compounds with their WIKIDATA Q number.
 
-All chemical compounds included onto the poster are listed left-hand side. Their WIKIDATA Q-ID is right side to chemical name.
+All chemical compounds included onto the poster are listed left-hand side. Their WIKIDATA Q-ID is right side to their chemical name.
 
 
 
