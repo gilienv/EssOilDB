@@ -1,4 +1,4 @@
-	key	compound	cas	percent	plantpart	analytical	formula	chemclass	??	Planttype	Normal??	systemname
+	key	compound	cas	percent	plantpart	analytical	formula	chemclass	activity	Planttype	Normal??	systemname
 	JEMlofl2007Lea	1,8-cineole	470-82-6	3.2	leaf	GC-FID and GC/MS	C10H18O	monoterpene derivative	NA	Plant	Normal	2,2,4-trimethyl-3-oxabicyclo[2.2.2]octane
 	JEMlofl2007Lea	allo-aromadendrene	25246-27-9	0.7	leaf	GC-FID and GC/MS	C15H24	sesquiterpene	NA	Plant	Normal	(4as,7r,7ar)-1,1,7-trimethyl-4-methylidene-2,3,4a,5,6,7,7a,7b-octahydro-1ah-cyclopropa[e]azulene
 	JEMlofl2007Lea	alpha-calacorene	21391-99-1	0.2	leaf	GC-FID and GC/MS	C15H20	NA	NA	Plant	Normal	(1s)-4,7-dimethyl-1-propan-2-yl-1,2-dihydronaphthalene
