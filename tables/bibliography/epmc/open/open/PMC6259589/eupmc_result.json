@@ -1,0 +1,593 @@
+{
+  "id": [
+    "21245809"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "21245809"
+  ],
+  "pmcid": [
+    "PMC6259589"
+  ],
+  "doi": [
+    "10.3390/molecules16010762"
+  ],
+  "title": [
+    "Schistosomicidal activity of the essential oil of Ageratum conyzoides L. (Asteraceae) against adult Schistosoma mansoni worms."
+  ],
+  "authorString": [
+    "de Melo NI, Magalhaes LG, de Carvalho CE, Wakabayashi KA, de P Aguiar G, Ramos RC, Mantovani AL, Turatti IC, Rodrigues V, Groppo M, Cunha WR, Veneziani RC, Crotti AE."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "de Melo NI"
+          ],
+          "firstName": [
+            "Nathalya I"
+          ],
+          "lastName": [
+            "de Melo"
+          ],
+          "initials": [
+            "NI"
+          ],
+          "affiliation": [
+            "Núcleo de Pesquisas em Ciências Exatas e Tecnológicas, Universidade de Franca, CEP 14404-600, Franca, SP, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Magalhaes LG"
+          ],
+          "firstName": [
+            "Lizandra G"
+          ],
+          "lastName": [
+            "Magalhaes"
+          ],
+          "initials": [
+            "LG"
+          ]
+        },
+        {
+          "fullName": [
+            "de Carvalho CE"
+          ],
+          "firstName": [
+            "Carlos E"
+          ],
+          "lastName": [
+            "de Carvalho"
+          ],
+          "initials": [
+            "CE"
+          ]
+        },
+        {
+          "fullName": [
+            "Wakabayashi KA"
+          ],
+          "firstName": [
+            "Kamila A L"
+          ],
+          "lastName": [
+            "Wakabayashi"
+          ],
+          "initials": [
+            "KA"
+          ]
+        },
+        {
+          "fullName": [
+            "de P Aguiar G"
+          ],
+          "firstName": [
+            "Gabriela"
+          ],
+          "lastName": [
+            "de P Aguiar"
+          ],
+          "initials": [
+            "G"
+          ]
+        },
+        {
+          "fullName": [
+            "Ramos RC"
+          ],
+          "firstName": [
+            "Rafael C"
+          ],
+          "lastName": [
+            "Ramos"
+          ],
+          "initials": [
+            "RC"
+          ]
+        },
+        {
+          "fullName": [
+            "Mantovani AL"
+          ],
+          "firstName": [
+            "Andre L L"
+          ],
+          "lastName": [
+            "Mantovani"
+          ],
+          "initials": [
+            "AL"
+          ]
+        },
+        {
+          "fullName": [
+            "Turatti IC"
+          ],
+          "firstName": [
+            "Izabel C C"
+          ],
+          "lastName": [
+            "Turatti"
+          ],
+          "initials": [
+            "IC"
+          ]
+        },
+        {
+          "fullName": [
+            "Rodrigues V"
+          ],
+          "firstName": [
+            "Vanderlei"
+          ],
+          "lastName": [
+            "Rodrigues"
+          ],
+          "initials": [
+            "V"
+          ]
+        },
+        {
+          "fullName": [
+            "Groppo M"
+          ],
+          "firstName": [
+            "Milton"
+          ],
+          "lastName": [
+            "Groppo"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Cunha WR"
+          ],
+          "firstName": [
+            "Wilson R"
+          ],
+          "lastName": [
+            "Cunha"
+          ],
+          "initials": [
+            "WR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1952-1944",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Veneziani RC"
+          ],
+          "firstName": [
+            "Rodrigo C S"
+          ],
+          "lastName": [
+            "Veneziani"
+          ],
+          "initials": [
+            "RC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7057-9706",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Crotti AE"
+          ],
+          "firstName": [
+            "Antônio E M"
+          ],
+          "lastName": [
+            "Crotti"
+          ],
+          "initials": [
+            "AE"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1730-1729",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1730-1729",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2959-6752",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7057-9706",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1952-1944",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "1798618"
+      ],
+      "dateOfPublication": [
+        "2011 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2011"
+      ],
+      "printPublicationDate": [
+        "2011-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecules (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Molecules"
+          ],
+          "medlineAbbreviation": [
+            "Molecules"
+          ],
+          "NLMid": [
+            "100964009"
+          ],
+          "ISSN": [
+            "1420-3049"
+          ],
+          "ESSN": [
+            "1420-3049"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2011"
+  ],
+  "pageInfo": [
+    "762-773"
+  ],
+  "abstractText": [
+    "The in vitro schistosomicidal effects of the essential oil of Ageratum conyzoides L. (Ac-EO) against adult worms of Schistosoma mansoni is reported in this paper. Concerning this activity, Ac-EO was considered to be active, but less effective than the positive control (praziquantel, PZQ) in terms of separation of coupled pairs, mortality, decrease in motor activity, and tegumental alterations. However, Ac-EO caused an interesting dose-dependent reduction in the number of eggs of S. mansoni. Precocene I (74.30%) and (E)-caryophyllene (14.23%) were identified as the two major constituents of Ac-EO. These compounds were tested individually and were found to be much less effective than Ac-EO and PZQ. A mixture of the two major compounds in a ratio similar to that found in the Ac-EO was also less effective than Ac-EO, thus revealing that there are no synergistic effects between these components. These results suggest that the essential oil of A. conyzoides is very promising for the development of new schistosomicidal agents."
+  ],
+  "affiliation": [
+    "Núcleo de Pesquisas em Ciências Exatas e Tecnológicas, Universidade de Franca, CEP 14404-600, Franca, SP, Brazil."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Schistosoma mansoni"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ageratum"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oils, Volatile"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Oils, Volatile"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6259589?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6259589"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/molecules16010762"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "23"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2011-06-06"
+  ],
+  "dateOfCreation": [
+    "2011-01-20"
+  ],
+  "firstIndexDate": [
+    "2011-01-20"
+  ],
+  "dateOfRevision": [
+    "2018-12-17"
+  ],
+  "electronicPublicationDate": [
+    "2011-01-18"
+  ],
+  "firstPublicationDate": [
+    "2011-01-18"
+  ]
+}

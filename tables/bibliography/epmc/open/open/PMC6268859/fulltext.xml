@@ -1,0 +1,378 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20070202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing.dtd?><?SourceDTD.Version 2.3?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Molecules</journal-id><journal-id journal-id-type="iso-abbrev">Molecules</journal-id><journal-id journal-id-type="publisher-id">molecules</journal-id><journal-title-group><journal-title>Molecules</journal-title></journal-title-group><issn pub-type="epub">1420-3049</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6268859</article-id><article-id pub-id-type="pmid">23018920</article-id><article-id pub-id-type="doi">10.3390/molecules171011447</article-id><article-id pub-id-type="publisher-id">molecules-17-11447</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Chemical Characterization of Volatile Compounds of <italic>Lantana camara</italic> L. and <italic>L. radula</italic> Sw. and Their Antifungal Activity</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Passos</surname><given-names>Juliana Lanna</given-names></name><xref ref-type="aff" rid="af1-molecules-17-11447">1</xref></contrib><contrib contrib-type="author"><name><surname>Barbosa</surname><given-names>Luiz Claudio Almeida</given-names></name><xref ref-type="aff" rid="af1-molecules-17-11447">1</xref><xref rid="c1-molecules-17-11447" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><name><surname>Demuner</surname><given-names>Antonio Jacinto</given-names></name><xref ref-type="aff" rid="af1-molecules-17-11447">1</xref></contrib><contrib contrib-type="author"><name><surname>Alvarenga</surname><given-names>Elson Santiago</given-names></name><xref ref-type="aff" rid="af1-molecules-17-11447">1</xref></contrib><contrib contrib-type="author"><name><surname>da Silva</surname><given-names>Cleiton Moreira</given-names></name><xref ref-type="aff" rid="af1-molecules-17-11447">1</xref></contrib><contrib contrib-type="author"><name><surname>Barreto</surname><given-names>Robert Weingart</given-names></name><xref ref-type="aff" rid="af2-molecules-17-11447">2</xref></contrib></contrib-group><aff id="af1-molecules-17-11447"><label>1</label>Department of Chemistry, Federal University of Vicosa, Av. P. H. Rolfs, s/n, 36570-000, Vicosa, MG, Brazil</aff><aff id="af2-molecules-17-11447"><label>2</label>Department of Phytopathology, Federal University of Vicosa, Av. P. H. Rolfs, s/n, 36570-000, Vicosa, MG, Brazil</aff><author-notes><corresp id="c1-molecules-17-11447"><label>*</label> Author to whom correspondence should be addressed; Email: <email>lcab@ufv.br</email>; Tel.: +55-31-3899-3068; Fax: +55-31-3899-3065. </corresp></author-notes><pub-date pub-type="epub"><day>27</day><month>9</month><year>2012</year></pub-date><pub-date pub-type="collection"><month>10</month><year>2012</year></pub-date><volume>17</volume><issue>10</issue><fpage>11447</fpage><lpage>11455</lpage><history><date date-type="received"><day>10</day><month>8</month><year>2012</year></date><date date-type="rev-recd"><day>20</day><month>9</month><year>2012</year></date><date date-type="accepted"><day>20</day><month>9</month><year>2012</year></date></history><permissions><copyright-statement>&#x000a9; 2012 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement><copyright-year>2012</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/"><license-p><!--CREATIVE COMMONS-->This article is an open-access article distributed under the terms and conditions of the Creative Commons Attribution license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">http://creativecommons.org/licenses/by/3.0/</ext-link>).</license-p></license></permissions><abstract><p>A comparative study of the chemical composition of essential oils of two very similar species of the Verbenaceae family (<italic>Lantana camara</italic> and <italic>L. radula</italic>) revealed that the main components of essential oil of <italic>L. camara</italic> were germacrene-D (19.8%) and <italic>E</italic>-caryophyllene (19.7%), while those of <italic>L. radula</italic> were <italic>E</italic>-caryophyllene (25.3%), phytol (29.2%) and <italic>E</italic>-nerolidol (19.0%). We have hypothesized that the observed differences could contribute to the differentiated reaction of the two species of <italic>Lantana</italic> to the attack of the phytopathogenic fungi <italic> Corynespora cassiicola</italic>. An experiment, involving <italic>C. cassiicola</italic> cultivation in culture media containing volatile oils of the two species demonstrated that the oils of <italic>L. radula</italic> were more fungistatic than the oils of <italic>L. camara</italic>, in accordance with the <italic>in vivo</italic> observations. It is likely that <italic>E</italic>-nerolidol and phytol, only found in the oil of <italic>L. radula</italic>, play a significant role in the effects of <italic>L. radula</italic> on <italic>C. cassiicola</italic>.</p></abstract><kwd-group><kwd>Verbenaceae</kwd><kwd>essential oils</kwd><kwd><italic>Corynespora cassiicola</italic></kwd><kwd><italic>Lantana camara</italic></kwd><kwd><italic>L. radula</italic></kwd></kwd-group></article-meta></front><body><sec><title>1. Introduction</title><p>Metabolites produced by plants are highly diverse, having distinct functions according to their structure and the places where they are secreted in the plant [<xref rid="B1-molecules-17-11447" ref-type="bibr">1</xref>]. The Verbenaceae family includes numerous species that are rich in essential oils produced by secretor trichomes [<xref rid="B2-molecules-17-11447" ref-type="bibr">2</xref>,<xref rid="B3-molecules-17-11447" ref-type="bibr">3</xref>,<xref rid="B4-molecules-17-11447" ref-type="bibr">4</xref>]. These essential oils can protect the plants against herbivore attacks and pathogens [<xref rid="B5-molecules-17-11447" ref-type="bibr">5</xref>]. Many studies on the chemical composition of such essential oils have been published [<xref rid="B6-molecules-17-11447" ref-type="bibr">6</xref>,<xref rid="B7-molecules-17-11447" ref-type="bibr">7</xref>,<xref rid="B8-molecules-17-11447" ref-type="bibr">8</xref>,<xref rid="B9-molecules-17-11447" ref-type="bibr">9</xref>,<xref rid="B10-molecules-17-11447" ref-type="bibr">10</xref>].</p><p>The Verbenaceae species <italic>Lantana camara</italic> L. is native to tropical and subtropical America and has been dispersed throughout the World as a popular ornamental plant, becoming one of the World&#x02019;s worst weeds [<xref rid="B11-molecules-17-11447" ref-type="bibr">11</xref>]. <italic>Corynespora cassiicola</italic> (Berk. &#x00026; Curt.) is an anamorphic fungus, which causes foliar spots in more than 70 species of plants worldwide [<xref rid="B12-molecules-17-11447" ref-type="bibr">12</xref>]. This is capable of causing a severe disease on <italic>L. camara</italic> and to provoke defoliation and debilitation of the attacked plants [<xref rid="B13-molecules-17-11447" ref-type="bibr">13</xref>,<xref rid="B14-molecules-17-11447" ref-type="bibr">14</xref>]. Conversely, the essential oils produced by <italic>L. camara</italic> may have defense properties against pathogens since <italic>Lantana</italic> species are known to produce essential oils with antimicrobial activity [<xref rid="B15-molecules-17-11447" ref-type="bibr">15</xref>,<xref rid="B16-molecules-17-11447" ref-type="bibr">16</xref>,<xref rid="B17-molecules-17-11447" ref-type="bibr">17</xref>,<xref rid="B18-molecules-17-11447" ref-type="bibr">18</xref>]. The effect of <italic>Lantana</italic> oils on <italic>C. cassiicola</italic> and related fungi has never been investigated. <italic>Lantana camara</italic> and <italic>L. radula</italic> are two closely related species, as reflected by their close morphological similarity [<xref rid="B19-molecules-17-11447" ref-type="bibr">19</xref>]. However, when plants of the two species are maintained side by side, clear differences such as odor and foliar texture are easily noticed. The empirical observation made on differences of smell intensity suggested that the volatile substances produced by these two species might have a different composition leading to this comparative study.</p><p>The species <italic>L. camara</italic> presents secreting trichomes and idioblasts, both dispersed on the mesophyllum [<xref rid="B19-molecules-17-11447" ref-type="bibr">19</xref>]. These structures are known to secrete lipidic substances [<xref rid="B10-molecules-17-11447" ref-type="bibr">10</xref>], alkaloids, sesquiterpene lactones and flavonoids [<xref rid="B20-molecules-17-11447" ref-type="bibr">20</xref>]. The chemical composition of essential oils produced by <italic>L. camara</italic> from various origins has been reported [<xref rid="B6-molecules-17-11447" ref-type="bibr">6</xref>,<xref rid="B9-molecules-17-11447" ref-type="bibr">9</xref>,<xref rid="B15-molecules-17-11447" ref-type="bibr">15</xref>,<xref rid="B21-molecules-17-11447" ref-type="bibr">21</xref>,<xref rid="B22-molecules-17-11447" ref-type="bibr">22</xref>]. However, no report was found on the chemical composition of the essential oils produced by <italic>L. radula</italic>. As in a separate unpublished phytopathological study, inoculation of <italic>L. radula</italic> with <italic>C. cassiicola</italic> under controlled conditions resulted only in minor disease symptoms as compared to a significant impact on <italic>L. camara</italic>. Also, to the best of our knowledge, there is no published record of <italic>C. cassiicola</italic> as a pathogen of <italic>L. radula</italic>, contrary to <italic>L. camara</italic>. Based on such information, it was then conjectured that <italic>L. radula</italic> oil could be involved in the different response of this plant species to inoculation with <italic>C. cassiicola</italic> as compared with <italic>L. camara.</italic> This work represents an additional contribution to the studies on the composition of essential oils produced by aromatic and medicinal plants carried out by our research group [<xref rid="B23-molecules-17-11447" ref-type="bibr">23</xref>,<xref rid="B24-molecules-17-11447" ref-type="bibr">24</xref>,<xref rid="B25-molecules-17-11447" ref-type="bibr">25</xref>,<xref rid="B26-molecules-17-11447" ref-type="bibr">26</xref>,<xref rid="B27-molecules-17-11447" ref-type="bibr">27</xref>,<xref rid="B28-molecules-17-11447" ref-type="bibr">28</xref>,<xref rid="B29-molecules-17-11447" ref-type="bibr">29</xref>,<xref rid="B30-molecules-17-11447" ref-type="bibr">30</xref>,<xref rid="B31-molecules-17-11447" ref-type="bibr">31</xref>,<xref rid="B32-molecules-17-11447" ref-type="bibr">32</xref>,<xref rid="B33-molecules-17-11447" ref-type="bibr">33</xref>,<xref rid="B34-molecules-17-11447" ref-type="bibr">34</xref>,<xref rid="B35-molecules-17-11447" ref-type="bibr">35</xref>,<xref rid="B36-molecules-17-11447" ref-type="bibr">36</xref>] and the investigation of bioactive substances produced by microorganisms [<xref rid="B31-molecules-17-11447" ref-type="bibr">31</xref>,<xref rid="B32-molecules-17-11447" ref-type="bibr">32</xref>]. It includes information on the composition of essential oils produced by <italic>L. camara</italic> and <italic>L. radula</italic>, and their effect on mycelial growth in <italic>C. cassiicola</italic>.</p></sec><sec><title>2. Results and Discussion</title><sec><title>2.1. Volatile Oils</title><p>It was found that both plant species produced a very small amount of oil, but <italic>L. camara</italic> produced nearly three times more (0.09 &#x000b1; 0.005% w/w) than <italic>L. radula</italic> (0.03 &#x000b1; 0.006% w/w). The moisture content for the leaves of <italic>L. camara</italic> was 79 &#x000b1; 0.51% and for <italic>L. radula</italic> 67 &#x000b1; 0.01%. Previous studies of <italic>L. camara</italic> reported oil content ranging from 0.06% w/w to 0.22% w/w [<xref rid="B6-molecules-17-11447" ref-type="bibr">6</xref>,<xref rid="B21-molecules-17-11447" ref-type="bibr">21</xref>]. The components found for the oils of <italic>L. camara</italic> (19 compounds) and <italic>L. radula</italic> (nine compounds) are presented in <xref rid="molecules-17-11447-t001" ref-type="table">Table 1</xref>.</p><table-wrap id="molecules-17-11447-t001" position="float"><object-id pub-id-type="pii">molecules-17-11447-t001_Table 1</object-id><label>Table 1</label><caption><p>Major components identified in the volatile oils of <italic>L. camara</italic> and <italic>L. radula</italic>.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="center" valign="middle" rowspan="1" colspan="1">Peak no.</th><th align="center" valign="middle" rowspan="1" colspan="1">Constituent <sup>a</sup></th><th align="center" valign="middle" rowspan="1" colspan="1">RI</th><th align="center" valign="middle" rowspan="1" colspan="1">
+<italic>L. camara (%)</italic>
+</th><th align="center" valign="middle" rowspan="1" colspan="1">
+<italic>L. radula (%)</italic>
+</th></tr></thead><tbody><tr style="border-top:solid thin"><td align="center" valign="middle" rowspan="1" colspan="1">1</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x003b1;-Copaene</td><td align="center" valign="middle" rowspan="1" colspan="1">1374</td><td align="center" valign="middle" rowspan="1" colspan="1">1.1 &#x000b1; 0.12</td><td align="center" valign="middle" rowspan="1" colspan="1">-</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">2</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x003b2;-Elemene</td><td align="center" valign="middle" rowspan="1" colspan="1">1390</td><td align="center" valign="middle" rowspan="1" colspan="1">3.2 &#x000b1; 0.51</td><td align="center" valign="middle" rowspan="1" colspan="1">-</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">3</td><td align="center" valign="middle" rowspan="1" colspan="1">Tetradecane</td><td align="center" valign="middle" rowspan="1" colspan="1">1399</td><td align="center" valign="middle" rowspan="1" colspan="1">1.0 &#x000b1; 0.55</td><td align="center" valign="middle" rowspan="1" colspan="1">1.8 &#x000b1; 0.26</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">4</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<bold><italic>E</italic>-Caryophyllene</bold>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">1418</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<bold>19.7 &#x000b1; 3.32</bold>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<bold>25.3 &#x000b1; 5.47</bold>
+</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">5</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x003b2;-Gurjunene</td><td align="center" valign="middle" rowspan="1" colspan="1">1427</td><td align="center" valign="middle" rowspan="1" colspan="1">1.2 &#x000b1; 0.15</td><td align="center" valign="middle" rowspan="1" colspan="1">-</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">6</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<bold>&#x003b1;-Humulene</bold>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">1451</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<bold>9.3 &#x000b1; 0.30</bold>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">1.2 &#x000b1; 0.06</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">7</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x003b2;-
+<italic>E-</italic>Farnesene</td><td align="center" valign="middle" rowspan="1" colspan="1">1458 </td><td align="center" valign="middle" rowspan="1" colspan="1">1.3 &#x000b1; 0.20</td><td align="center" valign="middle" rowspan="1" colspan="1">Tr</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">8</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<bold>Germacrene-D</bold>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">1479 </td><td align="center" valign="middle" rowspan="1" colspan="1">
+<bold>19.8 &#x000b1; 1.40</bold>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<bold>17.6 &#x000b1; 1.21</bold>
+</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">9</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<bold>Bicyclogermacrene</bold>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">1493</td><td align="center" valign="middle" rowspan="1" colspan="1"><bold>11.7</bold> &#x000b1; <bold>0.67</bold></td><td align="center" valign="middle" rowspan="1" colspan="1">4.0 &#x000b1; 0.10</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">10</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x003b1;-Muurolene</td><td align="center" valign="middle" rowspan="1" colspan="1">1498</td><td align="center" valign="middle" rowspan="1" colspan="1">1.5 &#x000b1; 0.15</td><td align="center" valign="middle" rowspan="1" colspan="1">-</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">11</td><td align="center" valign="middle" rowspan="1" colspan="1">Germacrene-A</td><td align="center" valign="middle" rowspan="1" colspan="1">1501</td><td align="center" valign="middle" rowspan="1" colspan="1">2.5 &#x000b1; 0.36</td><td align="center" valign="middle" rowspan="1" colspan="1">-</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">12</td><td align="center" valign="middle" rowspan="1" colspan="1">Cubeol</td><td align="center" valign="middle" rowspan="1" colspan="1">1511</td><td align="center" valign="middle" rowspan="1" colspan="1">2.5 &#x000b1; 1.14</td><td align="center" valign="middle" rowspan="1" colspan="1">-</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">13</td><td align="center" valign="middle" rowspan="1" colspan="1">&#x003b4;-Cadinene</td><td align="center" valign="middle" rowspan="1" colspan="1">1520</td><td align="center" valign="middle" rowspan="1" colspan="1">2.4 &#x000b1; 0.35</td><td align="center" valign="middle" rowspan="1" colspan="1">-</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">14</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<bold><italic>E</italic>-Nerolidol </bold>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">1562</td><td align="center" valign="middle" rowspan="1" colspan="1">-</td><td align="center" valign="middle" rowspan="1" colspan="1"><bold>19.0</bold> &#x000b1; <bold>3.56</bold></td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">15</td><td align="center" valign="middle" rowspan="1" colspan="1">Germacrene-D-4-ol</td><td align="center" valign="middle" rowspan="1" colspan="1">1567</td><td align="center" valign="middle" rowspan="1" colspan="1">1.2 &#x000b1; 0.30</td><td align="center" valign="middle" rowspan="1" colspan="1">-</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">16</td><td align="center" valign="middle" rowspan="1" colspan="1">Caryophyllene oxide </td><td align="center" valign="middle" rowspan="1" colspan="1">1579</td><td align="center" valign="middle" rowspan="1" colspan="1">-</td><td align="center" valign="middle" rowspan="1" colspan="1">1.7 &#x000b1; 0.67</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">17</td><td align="center" valign="middle" rowspan="1" colspan="1">Davanone</td><td align="center" valign="middle" rowspan="1" colspan="1">1572</td><td align="center" valign="middle" rowspan="1" colspan="1">1.2 &#x000b1; 0.58</td><td align="center" valign="middle" rowspan="1" colspan="1">-</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">18</td><td align="center" valign="middle" rowspan="1" colspan="1">Globulol</td><td align="center" valign="middle" rowspan="1" colspan="1">1581</td><td align="center" valign="middle" rowspan="1" colspan="1">0.7 &#x000b1; 0.40</td><td align="center" valign="middle" rowspan="1" colspan="1">-</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">19</td><td align="center" valign="middle" rowspan="1" colspan="1">Humuladyenone *</td><td align="center" valign="middle" rowspan="1" colspan="1">1594</td><td align="center" valign="middle" rowspan="1" colspan="1">1.2 &#x000b1; 0.36</td><td align="center" valign="middle" rowspan="1" colspan="1">-</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">20</td><td align="center" valign="middle" rowspan="1" colspan="1">Epi-&#x003b1;-Muurolol</td><td align="center" valign="middle" rowspan="1" colspan="1">1638</td><td align="center" valign="middle" rowspan="1" colspan="1">4.8 &#x000b1; 0.32</td><td align="center" valign="middle" rowspan="1" colspan="1">-</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">21</td><td align="center" valign="middle" rowspan="1" colspan="1">
+<bold>Phytol</bold>
+</td><td align="center" valign="middle" rowspan="1" colspan="1">2092</td><td align="center" valign="middle" rowspan="1" colspan="1">4.0 &#x000b1; 1.45</td><td align="center" valign="middle" rowspan="1" colspan="1"><bold>29.2</bold> &#x000b1; <bold>5.23</bold></td></tr><tr style="border-top:solid thin"><td align="center" valign="middle" rowspan="1" colspan="1">
+</td><td align="center" valign="middle" rowspan="1" colspan="1">Identified (%)</td><td align="center" valign="middle" rowspan="1" colspan="1">
+</td><td align="center" valign="middle" rowspan="1" colspan="1">86.3</td><td align="center" valign="middle" rowspan="1" colspan="1">99.8</td></tr></tbody></table><table-wrap-foot><fn><p>Tr: component aspect &#x0003c; 0.1; * Identification with GC-MS; <sup>a</sup> Compounds listed in order of elution; Retention Index (RI): measurement relative to alkanes in a BD-5 column.</p></fn></table-wrap-foot></table-wrap><p>The empirical observation made previously of a clear smell difference between the two species of <italic>Lantana</italic> was confirmed by gas chromatography and mass spectrometry analyses that revealed different compositions for their volatile oils. The common constituents for the two species are: tetradecane, <italic>E</italic>-caryophyllene, &#x003b1;-humulene, &#x003b2;-<italic>E</italic>-farnesene, germacrene-D, bicyclogermacrene and phytol. The major components in the oil of <italic>L. camara</italic> are germacrene D (19.8%), <italic>E</italic>-caryophyllene (19.7%), bicyclogermacrene (11.7%) and &#x003b1;-humulene (9.3%). These compounds represent approximately 60.5% of the oil. The four major constituents of the oil of <italic>L. radula</italic> are <italic>E</italic>-caryophyllene (25.3%), germacrene-D (17.6%), <italic>E</italic>-nerolidol (19.0%) and phytol (29.2%), representing 91.1% of the oil. </p><p>The greater chemical diversity of the volatile oils of <italic>L. camara</italic> as compared to <italic>L. radula</italic> could be connected with the presence of secretor idioblasts in <italic>L. camara</italic> [<xref rid="B19-molecules-17-11447" ref-type="bibr">19</xref>] which are absent in <italic>L. radula</italic> but further studies are required to confirm this hypothesis. </p></sec><sec><title>2.2. Bioassay</title><p>As observed on <xref ref-type="fig" rid="molecules-17-11447-f001">Figure 1</xref>, oils obtained from each of these species caused a significant inhibition on fungal growth, as compared to controls.</p><fig id="molecules-17-11447-f001" position="float"><label>Figure 1</label><caption><p>Colonies of <italic>C. cassiicola</italic> after eight days of growth in medium containing increasing amounts of oil obtained from <italic>L. camara</italic> (<bold>A</bold>) and <italic>L. radula</italic> (<bold>B</bold>) as compared to control: (1) control; (2) 3,000 mg L<sup>&#x02212;1</sup>; (3) 5,000 mg L<sup>&#x02212;1</sup>; (4) 10,000 mg L<sup>&#x02212;1</sup>.</p></caption><graphic xlink:href="molecules-17-11447-g001"/></fig><p>In the first two days of evaluation the oil of <italic>L. camara</italic> at a concentration of 1,000 mg L<sup>&#x02212;1</sup>, caused a reduction in the growth of the fungal colonies of 25.0% and 19.6%, respectively. At higher concentrations the fungus growth was completely inhibited during the first day and for 10,000 mg L<sup>&#x02212;1</sup> a full inhibition was still observed during the second day (<xref ref-type="fig" rid="molecules-17-11447-f001">Figure 1</xref>A and <xref ref-type="fig" rid="molecules-17-11447-f002">Figure 2</xref>).</p><fig id="molecules-17-11447-f002" position="float"><label>Figure 2</label><caption><p>Radial culture growth of <italic>C. cassiicola</italic> in culture media containing <italic>L. camara</italic> volatile oils (LC) at concentrations of 1,000, 3,000, 5,000 and 10,000 mg L<sup>&#x02212;1</sup>.</p></caption><graphic xlink:href="molecules-17-11447-g002"/></fig><p>At the eighth day of evaluation the reduction of the development of the colonies was dependent on the oil concentration tested and the following results were found: 12% inhibition at 1,000 mg L<sup>&#x02212;1</sup>; 17% at 3,000 mg L<sup>&#x02212;1</sup>; 27% at 5,000 mg L<sup>&#x02212;1</sup> and 49% at 10,000 mg L<sup>&#x02212;1</sup>. These results are similar to published results where inhibitory effect of the oil from <italic>L. camara</italic> on the growth of <italic>Aspergillus niger</italic> van Tiegh and <italic>Fusarium solani</italic> Mart. (Sacc) are reported [<xref rid="B15-molecules-17-11447" ref-type="bibr">15</xref>].</p><p>For the oil of <italic>L. radula</italic> at the concentrations of 1,000 mg L<sup>&#x02212;1</sup> and 3,000 mg L<sup>&#x02212;1</sup>, 17.2% and 40.6% inhibition were observed, respectively, on the first day of evaluation (<xref ref-type="fig" rid="molecules-17-11447-f001">Figure 1</xref>B and <xref ref-type="fig" rid="molecules-17-11447-f003">Figure 3</xref>). At higher concentrations (5,000 and 10,000 mg L<sup>&#x02212;1</sup>) the oils caused complete inhibition of the fungus growth. Even after eight days of experiment the volatile oils of <italic>L. radula</italic> caused a significant reduction on fungus development (4.7% inhibition at 1,000 mg L<sup>&#x02212;1</sup>; 23.2% at 3,000 mg L<sup>&#x02212;1</sup>; 42.3% at 5,000 mg L<sup>&#x02212;1</sup> and 60.8% at 10,000 mg L<sup>&#x02212;1</sup>).</p><fig id="molecules-17-11447-f003" position="float"><label>Figure 3</label><caption><p>Radial culture growth of <italic>C. cassiicola</italic> in culture medium containing <italic>L. radula</italic> volatile oils (LR) at concentrations of 1,000, 3,000, 5,000 and 10,000 mg L<sup>&#x02212;1</sup>.</p></caption><graphic xlink:href="molecules-17-11447-g003"/></fig><p>The results demonstrated that the volatile oils from <italic>L. radula</italic> have a greater effect on the growth of <italic>C. cassiicola</italic> compared with the oils obtained from <italic>L. camara.</italic> Although bioassays with each individual component of oils from each plant species were not performed, it is likely that the greater activity of <italic>L. radula</italic>&#x02019;s oil could be associated with its higher concentration of <italic>E</italic>-nerolidol, since this compound has already been shown highly active against <italic>Escherichia coli</italic> [<xref rid="B37-molecules-17-11447" ref-type="bibr">37</xref>], to have larvicidal activity on <italic>Aedes aegypti</italic> larvae and anti-parasitic activity against a strain of <italic>Leishmania amazonensis</italic> [<xref rid="B38-molecules-17-11447" ref-type="bibr">38</xref>]. Another significant difference between the oils is the higher concentration of phytol in <italic>L. radula</italic> oil, although there is no published report of any anti-fungal activity for this compound. Although caryophyllene is present in high concentration in both oils, previous investigation have demonstrated that it has no effect, at least against the basidiomycete species <italic>Laetiporus sulphureus</italic>, <italic>Lenzites betulina</italic> and <italic>Trametes versicolor</italic> [<xref rid="B39-molecules-17-11447" ref-type="bibr">39</xref>]. The higher growth-inhibiting activity observed for <italic>L. radula</italic> oil on <italic>C. cassiicola</italic> may in part explain the observed resistance to attack by this fungus [<xref rid="B19-molecules-17-11447" ref-type="bibr">19</xref>].</p></sec></sec><sec><title>3. Experimental</title><sec><title>3.1. Plant Material</title><p>Aerial parts of <italic>L. camara</italic> and <italic>L. radula</italic>, from plants grown in a greenhouse, were used. Voucher specimen of each plant species were deposited in the VIC Herbarium [registration numbers 30159 (<italic>L. camara</italic>) and 30160 (<italic>L. radula</italic>)] for reference.</p></sec><sec><title>3.2. Extraction and Analysis of the Essential Oils</title><p>Leaves of <italic>L. camara</italic> and <italic>L. radula</italic> were collected and each sample was subdivided into three portions of 40 g each and then subjected to 3 h of hydrodistillation in a Clevenger apparatus. The resulting oils were separated from the aqueous phase, weighed and the reported yields were calculated with respect to the mass of dry material. All distillations were repeated three times and the oils obtained were separated from the aqueous phase and stored under a nitrogen atmosphere, maintained at 0 &#x000b0;C, until they were chromatographically analyzed. Dry leaf weight was calculated by drying each sample (2 g, held at 103 &#x000b1; 2 &#x000b0;C for 24 h) [<xref rid="B40-molecules-17-11447" ref-type="bibr">40</xref>]. Each analysis was carried out in triplicate.</p></sec><sec><title>3.3. Essential Oil Gas Chromatography-Mass Spectrometry (GC-MS) Chemical Analysis</title><p>Qualitative analyses were conducted on a GC-MS-QP5050A system with a mass-selective detector (Shimadzu, Kyoto, Japan), equipped with a DB-5 (J &#x00026; W Scientific, Albany, NY, US) fused silica column (30 m &#x000d7; 0.25 mm i.d., film thickness 0.25 &#x000b5;m). Column temperature was 40 &#x000b0;C (2 min), increased at 3 &#x000b0;C/min to 240 &#x000b0;C, and kept at this temperature for 10 min. Injector temperature was 220 &#x000b0;C. Helium was the carrier gas at a flow rate of 1.8 mL/min. An amount of 1 &#x003bc;L (1% w/v solution of the oil in dichloromethane) was injected and the split ratio was 1:10. The column pressure corresponded to 100 kPa. Mass detector conditions were as follows: temperature source 240 &#x000b0;C; electron impact (EI) mode at 70 eV; scan rate 1 scan/s; mass acquisition range 29&#x02013;450 u.</p><p>The identification of the components was performed by comparison of their retention indexes (RI), relative to a standard alkane series (C<sub>9</sub>-C<sub>24</sub>), and comparison of the mass spectra with those on record in the Wiley library data base (Wiley 330000) or from the literature [<xref rid="B41-molecules-17-11447" ref-type="bibr">41</xref>].</p><p>GC analyses were carried out in triplicate, and accomplished with a GC-17A series instrument (Shimadzu) equipped with a flame ionization detector (FID). Chromatographic conditions were as follows: Fused silica capillary column (30 m &#x000d7; 0.22 mm) with a DB-5 bonded phase (0.25 &#x003bc;m film thickness); carrier gas, N<sub>2</sub> at a flow rate of 1.8 mL/min; injector temperature 220 &#x000b0;C, detector temperature 240 &#x000b0;C; column temperature was programmed to start at 55 &#x000b0;C (isothermal for 2 min), with an increase of 3 &#x000b0;C/min, to 240 &#x000b0;C, isothermal at 240 &#x000b0;C for 15 minutes; injection of 1.0 &#x003bc;L (1% w/v in dichloromethane); split ratio 1:10; column pressure of 115 kPa.</p></sec><sec><title>3.4. Effect of Volatile Oils on Mycelial Growth of C. Cassiicola</title><p>The oils obtained from each plant were dissolved in Tween 20 and tested <italic>in vitro</italic> for antifungal activity against <italic>C. cassiicola</italic>, using the &#x0201c;Poison Food Technique&#x0201d; [<xref rid="B42-molecules-17-11447" ref-type="bibr">42</xref>]. Each oil was incorporated in the vegetable broth agar VBA [<xref rid="B13-molecules-17-11447" ref-type="bibr">13</xref>] at 1,000, 3,000, 5,000 and 10,000 mg L<sup>&#x02212;1</sup> (Tween 0.1%), and were vigorously agitated and poured sterilized Petri dishes (60 mm in diameter). The plates were centrally seeded with culture disks (5 mm in diameter) obtained from the margin of actively growing cultures of <italic>C. casiicola</italic> f. ssp. <italic>lantanae</italic> (isolate JMP 17) from the culture collection of the Department of Plant Pathology at UFV and incubated at 25 &#x000b1; 2 &#x000b0;C in the dark. Plates containing the fungus but without Lantana oil served as controls and were incubated under the same conditions. The incubation lasted 8 days in the dark. The effect of the oil on the mycelial growth (mm) was determined by measuring the radial growth of <italic>C. cassiicola</italic> in intervals from the 1st to the 8th day after the inoculation. The percentage of fungus growth inhibition was calculated in relation to the radial growth in control plates. Treatments were carried out in a completely randomized design with four replications and the data was analyzed by the Tukey&#x02019;s test at 0.05 probability level.</p></sec></sec><sec><title>4. Conclusions</title><p>The volatile oils obtained from the two species of <italic>Lantana</italic> had significantly different chemical composition and the oil produced by <italic>L. camara</italic> contained a greater diversity of compounds. Although chemical composition of <italic>L. camara</italic> oil has already been well investigated, no such data was found for <italic>L. radula</italic>. The greater effect of the volatile oil of <italic>L. radula</italic> compared with that produced by <italic>L. camara</italic> on the growth of <italic>C. cassiicola</italic> could in part explain its resistance to this fungal pathogen. The results of this study encourage further investigation on the effect of each of the major components of the oil from <italic>L. camara</italic> against plant pathogenic fungi, particularly against the dematiaceous species related to <italic>C. cassiicola</italic>.</p></sec></body><back><ack><title>Acknowledgments</title><p>We are grateful to the Conselho Nacional do Desenvolvimento Cient&#x000ed;fico e Tecnol&#x000f3;gico (CNPq), Coordena&#x000e7;&#x000e3;o de Aperfei&#x000e7;oamento de Pessoal de N&#x000ed;vel Superior (CAPES) and Funda&#x000e7;&#x000e3;o de Amparo &#x000e0; Pesquisa do Estado de Minas Gerais (FAPEMIG). We also thank T&#x000e2;nia Regina dos Santos Silva for helping with plant identification and Prof. Gr&#x000e1;inne Hargaden (Dublin Institute of Technology) for her suggestions and corrections included in the manuscript.</p></ack><fn-group><fn><p><italic>Sample Availability</italic>: Samples of the essential oils are available from the authors.</p></fn></fn-group><ref-list><title>References</title><ref id="B1-molecules-17-11447"><label>1.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Fahn</surname><given-names>A.</given-names></name></person-group>
+<source>Secretory Tissues in Plants</source>
+<publisher-name>Academic Press</publisher-name>
+<publisher-loc>London, UK</publisher-loc>
+<year>1979</year>
+</element-citation></ref><ref id="B2-molecules-17-11447"><label>2.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Metcalfe</surname><given-names>C.R.</given-names></name><name><surname>Chalk</surname><given-names>L.</given-names></name></person-group>
+<source>Anatomy of the Dicotyledons: Leaves, Stem and Wood in Relation to Taxonomy with Notes on Economic Uses</source>
+<publisher-name>Clarendon Press</publisher-name>
+<publisher-loc>Oxford, UK</publisher-loc>
+<year>1950</year>
+</element-citation></ref><ref id="B3-molecules-17-11447"><label>3.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gottlieb</surname><given-names>O.R.</given-names></name><name><surname>Salatino</surname><given-names>A.</given-names></name></person-group>
+<article-title>Fun&#x000e7;&#x000f5;es e evolu&#x000e7;&#x000e3;o dos &#x000f3;leos essenciais e de suas estruturas secretoras (In Portuguese)</article-title>
+<source>Ci&#x000ea;n. Cultura</source>
+<year>1987</year>
+<volume>39</volume>
+<fpage>707</fpage>
+<lpage>716</lpage>
+</element-citation></ref><ref id="B4-molecules-17-11447"><label>4.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Combrinck</surname><given-names>S.</given-names></name><name><surname>Du Plooy</surname><given-names>G.W.D.</given-names></name><name><surname>McCrindle</surname><given-names>R.I.</given-names></name><name><surname>Botha</surname><given-names>B.M.</given-names></name></person-group>
+<article-title>Morphology and histochemistry glandular trichomes of <italic>Lippia scaberrima</italic> (Verbenaceae)</article-title>
+<source>Ann. Bot.</source>
+<year>2007</year>
+<volume>99</volume>
+<fpage>1111</fpage>
+<lpage>1119</lpage>
+<pub-id pub-id-type="doi">10.1093/aob/mcm064</pub-id>
+<pub-id pub-id-type="pmid">17468110</pub-id></element-citation></ref><ref id="B5-molecules-17-11447"><label>5.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Werker</surname><given-names>E.</given-names></name></person-group>
+<article-title>Function of essential oil-secreting glandular hairs in aromatic plants of the Lamiaceae&#x02014;A review</article-title>
+<source>Flavour. Fragr. J.</source>
+<year>1993</year>
+<volume>8</volume>
+<fpage>249</fpage>
+<lpage>255</lpage>
+<pub-id pub-id-type="doi">10.1002/ffj.2730080503</pub-id>
+</element-citation></ref><ref id="B6-molecules-17-11447"><label>6.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Alitonou</surname><given-names>G.</given-names></name><name><surname>Avlessi</surname><given-names>F.</given-names></name><name><surname>Bokossa</surname><given-names>I.</given-names></name><name><surname>Ahoussi</surname><given-names>E.</given-names></name><name><surname>Dangou</surname><given-names>J.</given-names></name><name><surname>Sohounhlou&#x000e9;</surname><given-names>D.C.K.</given-names></name></person-group>
+<article-title>Composition chimique et activit&#x000e9;s biologiques de l'huile essentielle de <italic>Lantana camara</italic> Linn</article-title>
+<source>Comptes Rendus Chime</source>
+<year>2004</year>
+<volume>7</volume>
+<fpage>1101</fpage>
+<lpage>1105</lpage>
+<pub-id pub-id-type="doi">10.1016/j.crci.2003.11.017</pub-id>
+</element-citation></ref><ref id="B7-molecules-17-11447"><label>7.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Par&#x000e9;</surname><given-names>P.W.</given-names></name><name><surname>Tumlinson</surname><given-names>J.H.</given-names></name></person-group>
+<article-title>Plant volatiles as a defense against insect herbivores</article-title>
+<source>Plant Physiol.</source>
+<year>1999</year>
+<volume>121</volume>
+<fpage>325</fpage>
+<lpage>332</lpage>
+<pub-id pub-id-type="doi">10.1104/pp.121.2.325</pub-id>
+<pub-id pub-id-type="pmid">10517823</pub-id></element-citation></ref><ref id="B8-molecules-17-11447"><label>8.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pichersky</surname><given-names>E.</given-names></name><name><surname>Gershenzon</surname><given-names>J.</given-names></name></person-group>
+<article-title>The formation and function of plant volatiles: Perfumes for pollinator attraction and defense</article-title>
+<source>Curr. Opin. Plant Biol.</source>
+<year>2002</year>
+<volume>5</volume>
+<fpage>237</fpage>
+<lpage>243</lpage>
+<pub-id pub-id-type="doi">10.1016/S1369-5266(02)00251-0</pub-id>
+<pub-id pub-id-type="pmid">11960742</pub-id></element-citation></ref><ref id="B9-molecules-17-11447"><label>9.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Randrianalijaona</surname><given-names>J.</given-names></name><name><surname>Ramanoelina</surname><given-names>P.A.R.</given-names></name><name><surname>Rasoarahona</surname><given-names>J.R.E.</given-names></name><name><surname>Gaydou</surname><given-names>E.M.</given-names></name></person-group>
+<article-title>Seasonal and chemotype influences on the chemical composition of <italic>Lantana camara</italic> L.: Essential oils from Madagascar</article-title>
+<source>Anal. Chim. Acta</source>
+<year>2005</year>
+<volume>545</volume>
+<fpage>46</fpage>
+<lpage>52</lpage>
+</element-citation></ref><ref id="B10-molecules-17-11447"><label>10.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Moura</surname><given-names>M.Z.D.</given-names></name><name><surname>Isaias</surname><given-names>R.M.S.</given-names></name><name><surname>Soares</surname><given-names>G.L.G.</given-names></name></person-group>
+<article-title>Ontogenesis of internal secretory cells in leaves of <italic>Lantana camara</italic> (Verbenaceae)</article-title>
+<source>Bot. J. Linn. Soc.</source>
+<year>2005</year>
+<volume>148</volume>
+<fpage>427</fpage>
+<lpage>431</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1095-8339.2005.00426.x</pub-id>
+</element-citation></ref><ref id="B11-molecules-17-11447"><label>11.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Day</surname><given-names>M.D.</given-names></name><name><surname>Willey</surname><given-names>C.J.</given-names></name><name><surname>Playford</surname><given-names>J.</given-names></name><name><surname>Zalucki</surname><given-names>M.P.</given-names></name></person-group>
+<source>Lantana: Current Management Status and Future Prospects</source>
+<publisher-name>Australian Centre for International Agricultural Research</publisher-name>
+<publisher-loc>Canberra, Australian</publisher-loc>
+<year>2003</year>
+</element-citation></ref><ref id="B12-molecules-17-11447"><label>12.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Silva</surname><given-names>W.P.K.</given-names></name><name><surname>Deverall</surname><given-names>B.J.</given-names></name><name><surname>Lyon</surname><given-names>B.R.</given-names></name></person-group>
+<article-title>Molecular, physiological and pathological characterization of <italic>Corynespora</italic> leaf spot fungi rubber plantations in Sri Lanka</article-title>
+<source>Plant Pathol.</source>
+<year>1998</year>
+<volume>47</volume>
+<fpage>267</fpage>
+<lpage>277</lpage>
+<pub-id pub-id-type="doi">10.1046/j.1365-3059.1998.00245.x</pub-id>
+</element-citation></ref><ref id="B13-molecules-17-11447"><label>13.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pereira</surname><given-names>J.M.</given-names></name><name><surname>Barreto</surname><given-names>R.W.</given-names></name><name><surname>Ellison</surname><given-names>C.A.</given-names></name><name><surname>Maffia</surname><given-names>L.A.</given-names></name></person-group>
+<article-title><italic>Corynespora cassiicola</italic> f. sp. lantanae: A potential biocontrol agent from Brazil for <italic>Lantana camara</italic></article-title>
+<source>Biol. Control</source>
+<year>2003</year>
+<volume>26</volume>
+<fpage>21</fpage>
+<lpage>31</lpage>
+</element-citation></ref><ref id="B14-molecules-17-11447"><label>14.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Passos</surname><given-names>J.L.</given-names></name><name><surname>Barbosa</surname><given-names>L.C.A.</given-names></name><name><surname>Demuner</surname><given-names>A.J.</given-names></name><name><surname>King-Diaz</surname><given-names>B.</given-names></name><name><surname>Lotina-Hennsen</surname><given-names>B.</given-names></name></person-group>
+<article-title>Effects of <italic>Corynespora cassiicola</italic> on <italic>Lantana camara</italic></article-title>
+<source>Planta Daninha</source>
+<year>2010</year>
+<volume>28</volume>
+<fpage>229</fpage>
+<lpage>237</lpage>
+</element-citation></ref><ref id="B15-molecules-17-11447"><label>15.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Deena</surname><given-names>M.J.</given-names></name><name><surname>Thoppil</surname><given-names>J.E.</given-names></name></person-group>
+<article-title>Antimicrobial activity of the essential oil of <italic>Lantana camara</italic></article-title>
+<source>Fitoterapia</source>
+<year>2000</year>
+<volume>71</volume>
+<fpage>453</fpage>
+<lpage>455</lpage>
+<pub-id pub-id-type="doi">10.1016/S0367-326X(00)00140-4</pub-id>
+<pub-id pub-id-type="pmid">10925025</pub-id></element-citation></ref><ref id="B16-molecules-17-11447"><label>16.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hernandez</surname><given-names>T.</given-names></name><name><surname>Canales</surname><given-names>M.</given-names></name><name><surname>&#x000c1;vila</surname><given-names>J.G.</given-names></name><name><surname>Garc&#x00131;a</surname><given-names>A.M.</given-names></name></person-group>
+<article-title>Composition and antibacterial activity of essential oil of <italic>Lantana achyranthifolia</italic> Desf. (Verbenaceae)</article-title>
+<source>J. Ethnopharm.</source>
+<year>2005</year>
+<volume>96</volume>
+<fpage>551</fpage>
+<lpage>544</lpage>
+</element-citation></ref><ref id="B17-molecules-17-11447"><label>17.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Verdeguer</surname><given-names>M.</given-names></name><name><surname>Blazquez</surname><given-names>M.A.</given-names></name><name><surname>Boira</surname><given-names>H.</given-names></name></person-group>
+<article-title>Phytotoxic effects of <italic>Lantana camara</italic>, <italic>Eucalyptus camaldulensis</italic> and <italic>Eriocephalus africanus</italic> essential oils in weeds of Mediterranean summer crops</article-title>
+<source>Biochem. Syst. Ecol.</source>
+<year>2009</year>
+<volume>37</volume>
+<fpage>362</fpage>
+<lpage>369</lpage>
+<pub-id pub-id-type="doi">10.1016/j.bse.2009.06.003</pub-id>
+</element-citation></ref><ref id="B18-molecules-17-11447"><label>18.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Moura</surname><given-names>M.Z.D.</given-names></name><name><surname>Soares</surname><given-names>G.L.G.</given-names></name><name><surname>Isaias</surname><given-names>R.M.S.</given-names></name></person-group>
+<article-title>Species-specific changes in tissue morphogenesis induced by two arthropod leaf gallers in <italic>Lantana camara</italic> L. (Verbenaceae)</article-title>
+<source>Aust. J. Bot.</source>
+<year>2008</year>
+<volume>56</volume>
+<fpage>153</fpage>
+<lpage>160</lpage>
+</element-citation></ref><ref id="B19-molecules-17-11447"><label>19.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Passos</surname><given-names>J.L.</given-names></name><name><surname>Meira</surname><given-names>R.M.S.A.</given-names></name><name><surname>Barbosa</surname><given-names>L.C.A.</given-names></name><name><surname>Barreto</surname><given-names>R.W. </given-names></name></person-group>
+<article-title>Foliar anatomy of the species <italic>Lantana camara</italic> and <italic>L. radula</italic> (Verbenaceae)</article-title>
+<source>Planta Daninha</source>
+<year>2009</year>
+<volume>27</volume>
+<fpage>689</fpage>
+</element-citation></ref><ref id="B20-molecules-17-11447"><label>20.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ascens&#x000e3;o</surname><given-names>L.</given-names></name><name><surname>Mota</surname><given-names>L.</given-names></name><name><surname>Castro</surname><given-names>M.M.</given-names></name></person-group>
+<article-title>Glandular trichomes on the leaves and flowers of <italic>Plectranthus ornatus</italic>: morphology, distribution and histochemistry</article-title>
+<source>Ann. Bot.</source>
+<year>1999</year>
+<volume>84</volume>
+<fpage>437</fpage>
+<lpage>447</lpage>
+<pub-id pub-id-type="doi">10.1006/anbo.1999.0937</pub-id>
+</element-citation></ref><ref id="B21-molecules-17-11447"><label>21.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Misra</surname><given-names>L.</given-names></name><name><surname>Laatsch</surname><given-names>H.</given-names></name></person-group>
+<article-title>Triterpenoids, essential oil and photo-oxidative 28-13-lactonization of oleanolic acid from <italic>Lantana camara</italic></article-title>
+<source>Phytochemistry</source>
+<year>2000</year>
+<volume>54</volume>
+<fpage>969</fpage>
+<lpage>974</lpage>
+<pub-id pub-id-type="doi">10.1016/S0031-9422(00)00131-X</pub-id>
+<pub-id pub-id-type="pmid">11014299</pub-id></element-citation></ref><ref id="B22-molecules-17-11447"><label>22.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Andrade</surname><given-names>E.H.A.</given-names></name><name><surname>Zoghbi</surname><given-names>M.G.B.</given-names></name><name><surname>Luz</surname><given-names>A.I.R.</given-names></name><name><surname>Silva</surname><given-names>J.D.</given-names></name><name><surname>Maia</surname><given-names>J.G.S.</given-names></name></person-group>
+<article-title>The essential oils of <italic>Lantana camara</italic> L. occurring in North Brazil</article-title>
+<source>Flav. Fragr. J.</source>
+<year>1999</year>
+<volume>14</volume>
+<fpage>208</fpage>
+<lpage>210</lpage>
+<pub-id pub-id-type="doi">10.1002/(SICI)1099-1026(199907/08)14:4&#x0003c;208::AID-FFJ811&#x0003e;3.0.CO;2-F</pub-id>
+</element-citation></ref><ref id="B23-molecules-17-11447"><label>23.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barbosa</surname><given-names>L.C.A.</given-names></name><name><surname>Demuner</surname><given-names>A.J.</given-names></name><name><surname>Teixeira</surname><given-names>R.R.</given-names></name><name><surname>Madruga</surname><given-names>M.S.</given-names></name></person-group>
+<article-title>Chemical constituents of the bark of <italic>Gallesia gorazema</italic></article-title>
+<source>Fitoterapia</source>
+<year>1999</year>
+<volume>70</volume>
+<fpage>152</fpage>
+<lpage>156</lpage>
+<pub-id pub-id-type="doi">10.1016/S0367-326X(99)00014-3</pub-id>
+</element-citation></ref><ref id="B24-molecules-17-11447"><label>24.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barbosa</surname><given-names>L.C.A.</given-names></name><name><surname>Demuner</surname><given-names>A.J.</given-names></name><name><surname>Maltha</surname><given-names>C.R.A.</given-names></name><name><surname>Silva</surname><given-names>P.S.</given-names></name><name><surname>Silva</surname><given-names>A.A.</given-names></name></person-group>
+<article-title>Sintese e avalia&#x000e7;&#x000e3;o da atividade fitot&#x000f3;xica de novos an&#x000e1;logos oxigenados do &#x000e1;cido helmintosp&#x000f3;rico (in Portuguese)</article-title>
+<source>Qu&#x000ed;m. Nova</source>
+<year>2003</year>
+<volume>26</volume>
+<fpage>655</fpage>
+<lpage>660</lpage>
+</element-citation></ref><ref id="B25-molecules-17-11447"><label>25.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barbosa</surname><given-names>L.C.A.</given-names></name><name><surname>Paula</surname><given-names>V.F.</given-names></name><name><surname>Azevedo</surname><given-names>A.S.</given-names></name><name><surname>Silva</surname><given-names>E.A.M.</given-names></name><name><surname>Nascimento</surname><given-names>E.A.</given-names></name></person-group>
+<article-title>Essential oil composition from some plant parts of <italic>Conyza bonariensis</italic> (L.) Cronquist</article-title>
+<source>Flav. Fragr. J.</source>
+<year>2005</year>
+<volume>20</volume>
+<fpage>39</fpage>
+<lpage>45</lpage>
+<pub-id pub-id-type="doi">10.1002/ffj.1392</pub-id>
+</element-citation></ref><ref id="B26-molecules-17-11447"><label>26.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Martins</surname><given-names>E.R.</given-names></name><name><surname>Casali</surname><given-names>V.W.D.</given-names></name><name><surname>Barbosa</surname><given-names>L.C.A.</given-names></name><name><surname>Carazza</surname><given-names>F.</given-names></name></person-group>
+<article-title>Essential oil in the taxonomy of <italic>Ocimum selloi</italic> Benth</article-title>
+<source>J. Braz. Chem. Soc.</source>
+<year>1997</year>
+<volume>8</volume>
+<fpage>29</fpage>
+<lpage>32</lpage>
+</element-citation></ref><ref id="B27-molecules-17-11447"><label>27.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Silva</surname><given-names>M.H.L.</given-names></name><name><surname>Silva</surname><given-names>A.F.</given-names></name><name><surname>Barbosa</surname><given-names>L.C.A.</given-names></name><name><surname>Nascimento</surname><given-names>E.A.</given-names></name><name><surname>Casali</surname><given-names>V.W.D.</given-names></name></person-group>
+<article-title>Chemical composition of the essential oil of <italic>Hyptis glomerata</italic> mart. ex Schrank (Lamiaceae)</article-title>
+<source>J. Essent. Oil. Res.</source>
+<year>2000</year>
+<volume>12</volume>
+<fpage>725</fpage>
+<lpage>727</lpage>
+<pub-id pub-id-type="doi">10.1080/10412905.2000.9712201</pub-id>
+</element-citation></ref><ref id="B28-molecules-17-11447"><label>28.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barbosa</surname><given-names>L.C.A.</given-names></name><name><surname>Demuner</surname><given-names>A.J.</given-names></name><name><surname>Dumont</surname><given-names>A.C.</given-names></name><name><surname>Paula</surname><given-names>V.F.</given-names></name><name><surname>Ismail</surname><given-names>F.M.D.</given-names></name></person-group>
+<article-title>Seasonal variation in the composition of volatile oils from <italic>Schinus terebinthifolius</italic> Raddi</article-title>
+<source>Qu&#x000ed;m. Nova</source>
+<year>2007</year>
+<volume>30</volume>
+<fpage>1959</fpage>
+<lpage>1965</lpage>
+<pub-id pub-id-type="doi">10.1590/S0100-40422007000800030</pub-id>
+</element-citation></ref><ref id="B29-molecules-17-11447"><label>29.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Martins</surname><given-names>F.T.</given-names></name><name><surname>Santos</surname><given-names>M.H.</given-names></name><name><surname>Polo</surname><given-names>M.</given-names></name><name><surname>Barbosa</surname><given-names>L.C.A.</given-names></name></person-group>
+<article-title>Varia&#x000e7;&#x000e3;o qu&#x000ed;mica do &#x000f3;leo essencial de <italic>Hyptis suaveolens</italic> (L.) Poit, sob condi&#x000e7;&#x000f5;es de cultivo (in Portuguese)</article-title>
+<source>Qu&#x000ed;m. Nova</source>
+<year>2006</year>
+<volume>29</volume>
+<fpage>1203</fpage>
+<lpage>1209</lpage>
+<pub-id pub-id-type="doi">10.1590/S0100-40422006000600011</pub-id>
+</element-citation></ref><ref id="B30-molecules-17-11447"><label>30.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Martins</surname><given-names>F.T.</given-names></name><name><surname>Santos</surname><given-names>M.H.</given-names></name><name><surname>Polo</surname><given-names>M.</given-names></name><name><surname>Barbosa</surname><given-names>L.C.A.</given-names></name></person-group>
+<article-title>Effects of the interactions among macronutrients, plant age and photoperiod in the composition of <italic>Hyptis suaveolens</italic> (L.) Poit essential oil from Alfenas (MG), Brazil</article-title>
+<source>Flav. Fragr. J.</source>
+<year>2007</year>
+<volume>22</volume>
+<fpage>123</fpage>
+<lpage>127</lpage>
+<pub-id pub-id-type="doi">10.1002/ffj.1769</pub-id>
+</element-citation></ref><ref id="B31-molecules-17-11447"><label>31.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Carvalho</surname><given-names>M.R.</given-names></name><name><surname>Barbosa</surname><given-names>L.C.A.</given-names></name><name><surname>Queiroz</surname><given-names>J.H.</given-names></name><name><surname>Howarth</surname><given-names>O.W.</given-names></name></person-group>
+<article-title>Novel Lactones from <italic>Aspergillus versicolor</italic></article-title>
+<source>Tetrahedron Lett.</source>
+<year>2001</year>
+<volume>42</volume>
+<fpage>809</fpage>
+<lpage>810</lpage>
+</element-citation></ref><ref id="B32-molecules-17-11447"><label>32.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Demuner</surname><given-names>A.J.</given-names></name><name><surname>Barbosa</surname><given-names>L.C.A.</given-names></name><name><surname>Veiga</surname><given-names>T.A.M.</given-names></name><name><surname>Barreto</surname><given-names>R.W.</given-names></name><name><surname>King-Diaz</surname><given-names>B.</given-names></name><name><surname>Henssen</surname><given-names>B.L.</given-names></name></person-group>
+<article-title>Phytotoxic constituents from <italic>Nimbya alternantherae</italic></article-title>
+<source>Biochem. Syst. Ecol.</source>
+<year>2006</year>
+<volume>34</volume>
+<fpage>790</fpage>
+<lpage>795</lpage>
+<pub-id pub-id-type="doi">10.1016/j.bse.2006.06.008</pub-id>
+</element-citation></ref><ref id="B33-molecules-17-11447"><label>33.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nascimento</surname><given-names>J.C.</given-names></name><name><surname>Barbosa</surname><given-names>L.C.A.</given-names></name><name><surname>Paula</surname><given-names>V.F.</given-names></name><name><surname>David</surname><given-names>J.M.</given-names></name><name><surname>Fontana</surname><given-names>R.</given-names></name><name><surname>Silva</surname><given-names>L.A.M.</given-names></name><name><surname>Fran&#x000e7;a</surname><given-names>R.S.</given-names></name></person-group>
+<article-title>Chemical Composition and antimicrobial activity of essential oils of <italic>Ocimum canum</italic> Sims. and <italic>Ocimum selloi</italic> Benth</article-title>
+<source>An. Acad. Bras. Ci&#x000ea;ncias</source>
+<year>2011</year>
+<volume>83</volume>
+<fpage>787</fpage>
+<lpage>799</lpage>
+<pub-id pub-id-type="doi">10.1590/S0001-37652011005000019</pub-id>
+</element-citation></ref><ref id="B34-molecules-17-11447"><label>34.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Montanari</surname><given-names>R.M.</given-names></name><name><surname>Barbosa</surname><given-names>L.C.A.</given-names></name><name><surname>Demuner</surname><given-names>A.J.</given-names></name><name><surname>Silva</surname><given-names>C.J.</given-names></name><name><surname>Carvalho</surname><given-names>L.S.</given-names></name><name><surname>Andrade</surname><given-names>N.J.</given-names></name></person-group>
+<article-title>Chemical composition and antibacterial activity of essential oils from Verbenaceae species: Alternative sources of (E)-caryophyllene and germacrene-D</article-title>
+<source>Qu&#x000ed;mica Nova</source>
+<year>2011</year>
+<volume>34</volume>
+<fpage>1550</fpage>
+<lpage>1555</lpage>
+<pub-id pub-id-type="doi">10.1590/S0100-40422011000900013</pub-id>
+</element-citation></ref><ref id="B35-molecules-17-11447"><label>35.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Demuner</surname><given-names>A.J.</given-names></name><name><surname>Barbosa</surname><given-names>L.C.A.</given-names></name><name><surname>Gon&#x000e7;alves</surname><given-names>M.C.</given-names></name><name><surname>Silva</surname><given-names>C.J.</given-names></name><name><surname>Maltha</surname><given-names>C.R.A.</given-names></name><name><surname>Pinheiro</surname><given-names>A.L.</given-names></name></person-group>
+<article-title>Seasonal variation in the chemical composition and antimicrobial activity of volatile oils of three species of <italic>Leptospermum</italic> (myrtaceae) grown in Brazil</article-title>
+<source>Molecules</source>
+<year>2011</year>
+<volume>16</volume>
+<fpage>1181</fpage>
+<lpage>1191</lpage>
+<pub-id pub-id-type="doi">10.3390/molecules16021181</pub-id>
+<pub-id pub-id-type="pmid">21270734</pub-id></element-citation></ref><ref id="B36-molecules-17-11447"><label>36.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Castro</surname><given-names>H.G.</given-names></name><name><surname>Oliveira</surname><given-names>L.O.</given-names></name><name><surname>Barbosa</surname><given-names>L.C.A.</given-names></name><name><surname>Ferreira</surname><given-names>F.A.</given-names></name><name><surname>Silva</surname><given-names>D.J.H.</given-names></name><name><surname>Mosquim</surname><given-names>P.R.</given-names></name><name><surname>Nascimento</surname><given-names>E.A.</given-names></name></person-group>
+<article-title>Teor e composi&#x000e7;&#x000e3;o do &#x000f3;leo essencial de cinco acessos de mentrasto (in Portuguese)</article-title>
+<source>Qu&#x000ed;m. Nova</source>
+<year>2004</year>
+<volume>27</volume>
+<fpage>55</fpage>
+<lpage>57</lpage>
+<pub-id pub-id-type="doi">10.1590/S0100-40422004000100011</pub-id>
+</element-citation></ref><ref id="B37-molecules-17-11447"><label>37.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Roussis</surname><given-names>V.</given-names></name><name><surname>Chinou</surname><given-names>I.B.</given-names></name><name><surname>Tsitsimpikou</surname><given-names>C.</given-names></name><name><surname>Vagias</surname><given-names>C.</given-names></name><name><surname>Petrakis</surname><given-names>P.V.</given-names></name></person-group>
+<article-title>Antibacterial activity of volatile secondary metabolites from caribbean soft corals of the genus <italic>Gorgonia</italic></article-title>
+<source>Flavour Fragr. J.</source>
+<year>2001</year>
+<volume>16</volume>
+<fpage>364</fpage>
+<lpage>366</lpage>
+<pub-id pub-id-type="doi">10.1002/ffj.1013</pub-id>
+</element-citation></ref><ref id="B38-molecules-17-11447"><label>38.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Marques</surname><given-names>A.M.</given-names></name><name><surname>Barreto</surname><given-names>A.L.</given-names></name><name><surname>Batista</surname><given-names>E.M.</given-names></name><name><surname>Curvelo</surname><given-names>J.A.</given-names></name><name><surname>Velozo</surname><given-names>L.S.</given-names></name><name><surname>Moreira</surname><given-names>D.L.</given-names></name><name><surname>Guimar&#x000e3;es</surname><given-names>E.F.</given-names></name><name><surname>Soares</surname><given-names>R.M.</given-names></name><name><surname>Kaplan</surname><given-names>M.A.</given-names></name></person-group>
+<article-title>Chemistry and biological activity of essential oils from <italic>Piper claussenianum</italic> (Piperaceae)</article-title>
+<source>Nat. Prod. Commun.</source>
+<year>2010</year>
+<volume>5</volume>
+<fpage>1837</fpage>
+<lpage>1840</lpage>
+<pub-id pub-id-type="pmid">21213995</pub-id></element-citation></ref><ref id="B39-molecules-17-11447"><label>39.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cheng</surname><given-names>S.S.</given-names></name><name><surname>Liu</surname><given-names>J.K.</given-names></name><name><surname>Hsui</surname><given-names>Y.R.</given-names></name><name><surname>Chang</surname><given-names>S.T.</given-names></name></person-group>
+<article-title>Chemical polymorphism and antifungal activity of essential oils from leaves of different provenances of indigenous cinnamon (<italic>Cinnamomum osmophloeum</italic>)</article-title>
+<source>Bioresour. Technol.</source>
+<year>2006</year>
+<volume>97</volume>
+<fpage>306</fpage>
+<lpage>312</lpage>
+<pub-id pub-id-type="doi">10.1016/j.biortech.2005.02.030</pub-id>
+<pub-id pub-id-type="pmid">16171686</pub-id></element-citation></ref><ref id="B40-molecules-17-11447"><label>40.</label><element-citation publication-type="book">
+<source>Standards Engineering Practices Data, Moisture Measurement-Forages, ASAE S358.2 DEC99</source>
+<publisher-name>American Society of Agricultural Engineers</publisher-name>
+<publisher-loc>St. Joseph, MS, USA</publisher-loc>
+<year>2000</year>
+</element-citation></ref><ref id="B41-molecules-17-11447"><label>41.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Adams</surname><given-names>R.P.</given-names></name></person-group>
+<source>Identification of Essential Oil Components by Gas Chromatography/Mass Spectroscopy</source>
+<publisher-name>Allured Publishing Corporation</publisher-name>
+<publisher-loc>Carol Stream, IL, USA</publisher-loc>
+<year>1995</year>
+</element-citation></ref><ref id="B42-molecules-17-11447"><label>42.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Dhingra</surname><given-names>O.D. Sinclair</given-names><suffix>J.B.</suffix></name><name><surname>Sinclair</surname><given-names>J.B.</given-names></name></person-group>
+<source>Basic Plant Pathology Methods, 2nd ed.</source>
+<publisher-name>Lewis Publishers</publisher-name>
+<publisher-loc>London, UK</publisher-loc>
+<year>1995</year>
+</element-citation></ref></ref-list></back></article>

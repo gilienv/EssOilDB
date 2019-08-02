@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectSnippetsTree>
+ <snippetsTree>
+  <snippets file="open/PMC2900066/results/search/funders/results.xml">
+   <result pre="1321, Edson Queiroz, 60811-905, Fortaleza-CE, Brazil [2], Departamento de Química," exact="Universidade Federal do Piauí," post="Campus Universitário Ministro Petrônio Portella, 64049-550, Bairro Ininga, Teresina-PI,"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="open/PMC3963878/results/search/funders/results.xml">
+   <result pre="Ouagadougou, Université de Ouagadougou, Ouagadougou, Burkina Faso [2], Clermont Université," exact="Université Blaise Pascal," post="Génétique Reproduction et Développement (GReD), Clermont-Ferrand, France [3], Centre"/>
+   <result pre="Blaise Pascal, Génétique Reproduction et Développement (GReD), Clermont-Ferrand, France [3]," exact="Centre National de la Recherche Scientifique" post="(CNRS), Unité Mixte de Recherche (UMR) 6293, GReD, Aubière,"/>
+   <result pre="Episcopale Italienne (CEI), Union Economique Monétaire Ouest Africaine (UEMOA) and" exact="Campus France" post="for BB, CG, IHNB, AY, J-BN, JS; Fondation BNP-Paris,"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="open/PMC4044670/results/search/funders/results.xml">
+   <result pre="assigned by the Reference Laboratory of Microbiology located at the" exact="Instituto de Tecnologia de Alimentos" post="(ITAL), Campinas City, Brazil. The strain was kept lyophilized"/>
+   <result pre="a potential conflict of interest. The authors are grateful to" exact="Conselho Nacional de Desenvolvimento Científico e Tecnológico" post="(CNPq) and Fundação de Amparo à Pesquisa do Estado"/>
+   <result pre="to Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) and" exact="Fundação de Amparo à Pesquisa do Estado de São Paulo" post="(FAPESP) for financial support. References References Adams R. P."/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="open/PMC6259589/results/search/funders/results.xml">
+   <result pre="Biologia, Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto," exact="Universidade de São Paulo," post="São Paulo, Brazil. (Herbarium SPFR). 3.2. Chemicals The essential"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="open/PMC6268859/results/search/funders/results.xml">
+   <result pre="to the Conselho Nacional do Desenvolvimento Científico e Tecnológico (CNPq)," exact="Coordenação de Aperfeiçoamento de Pessoal de Nível Superior" post="(CAPES) and Fundação de Amparo à Pesquisa do Estado"/>
+   <result pre="Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) and" exact="Fundação de Amparo à Pesquisa do Estado de Minas Gerais" post="(FAPEMIG). We also thank Tânia Regina dos Santos Silva"/>
+   <result pre="J. Zalucki M.P. Lantana: Current Management Status and Future Prospects" exact="Australian Centre for International Agricultural Research" post="Canberra, Australian 2003 12. Silva W.P.K. Deverall B.J. Lyon"/>
+  </snippets>
+ </snippetsTree>
+</projectSnippetsTree>

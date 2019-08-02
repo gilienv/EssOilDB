@@ -1,0 +1,2722 @@
+[
+  {
+    "id": [
+      "25368552"
+    ],
+    "source": [
+      "MED"
+    ],
+    "pmid": [
+      "25368552"
+    ],
+    "pmcid": [
+      "PMC4201098"
+    ],
+    "doi": [
+      "10.3389/fncel.2014.00335"
+    ],
+    "title": [
+      "Drug and xenobiotic biotransformation in the blood-brain barrier: a neglected issue."
+    ],
+    "authorString": [
+      "Agúndez JA, Jiménez-Jiménez FJ, Alonso-Navarro H, García-Martín E."
+    ],
+    "authorList": [
+      {
+        "author": [
+          {
+            "fullName": [
+              "Agúndez JA"
+            ],
+            "firstName": [
+              "José A G"
+            ],
+            "lastName": [
+              "Agúndez"
+            ],
+            "initials": [
+              "JA"
+            ],
+            "authorId": [
+              {
+                "_": "0000-0001-6895-9160",
+                "$": {
+                  "type": "ORCID"
+                }
+              }
+            ],
+            "affiliation": [
+              "Department of Pharmacology, University of Extremadura Cáceres, Spain ; ISCIII Research Network of Adverse Reactions to Allergens and Drugs Madrid, Spain."
+            ]
+          },
+          {
+            "fullName": [
+              "Jiménez-Jiménez FJ"
+            ],
+            "firstName": [
+              "Félix J"
+            ],
+            "lastName": [
+              "Jiménez-Jiménez"
+            ],
+            "initials": [
+              "FJ"
+            ],
+            "affiliation": [
+              "Section of Neurology, Hospital Universitario del Sureste Madrid, Spain."
+            ]
+          },
+          {
+            "fullName": [
+              "Alonso-Navarro H"
+            ],
+            "firstName": [
+              "Hortensia"
+            ],
+            "lastName": [
+              "Alonso-Navarro"
+            ],
+            "initials": [
+              "H"
+            ],
+            "affiliation": [
+              "Section of Neurology, Hospital Universitario del Sureste Madrid, Spain."
+            ]
+          },
+          {
+            "fullName": [
+              "García-Martín E"
+            ],
+            "firstName": [
+              "Elena"
+            ],
+            "lastName": [
+              "García-Martín"
+            ],
+            "initials": [
+              "E"
+            ],
+            "authorId": [
+              {
+                "_": "0000-0002-8094-046X",
+                "$": {
+                  "type": "ORCID"
+                }
+              }
+            ],
+            "affiliation": [
+              "ISCIII Research Network of Adverse Reactions to Allergens and Drugs Madrid, Spain ; Department of Biochemistry, Molecular Biology and Genetics, University of Extremadura Cáceres, Spain."
+            ]
+          }
+        ]
+      }
+    ],
+    "authorIdList": [
+      {
+        "authorId": [
+          {
+            "_": "0000-0002-8094-046X",
+            "$": {
+              "type": "ORCID"
+            }
+          },
+          {
+            "_": "0000-0001-6895-9160",
+            "$": {
+              "type": "ORCID"
+            }
+          }
+        ]
+      }
+    ],
+    "journalInfo": [
+      {
+        "volume": [
+          "8"
+        ],
+        "journalIssueId": [
+          "2120423"
+        ],
+        "dateOfPublication": [
+          "2014 "
+        ],
+        "monthOfPublication": [
+          "0"
+        ],
+        "yearOfPublication": [
+          "2014"
+        ],
+        "printPublicationDate": [
+          "2014-01-01"
+        ],
+        "journal": [
+          {
+            "title": [
+              "Frontiers in cellular neuroscience"
+            ],
+            "ISOAbbreviation": [
+              "Front Cell Neurosci"
+            ],
+            "medlineAbbreviation": [
+              "Front Cell Neurosci"
+            ],
+            "NLMid": [
+              "101477935"
+            ],
+            "ISSN": [
+              "1662-5102"
+            ],
+            "ESSN": [
+              "1662-5102"
+            ]
+          }
+        ]
+      }
+    ],
+    "pubYear": [
+      "2014"
+    ],
+    "pageInfo": [
+      "335"
+    ],
+    "abstractText": [
+      "Drug biotransformation is a crucial mechanism for facilitating the elimination of chemicals from the organism and for decreasing their pharmacological activity. Published evidence suggests that brain drug metabolism may play a role in the development of adverse drug reactions and in the clinical response to drugs and xenobiotics. The blood-brain barrier (BBB) has been regarded mainly as a physical barrier for drugs and xenobiotics, and little attention has been paid to the BBB as a drug-metabolizing barrier. The presence of drug-metabolizing enzymes in the BBB is likely to have functional implications because local metabolism may inactivate drugs or may modify the drug's ability to cross the BBB, thus modifying drug response and the risk of developing adverse drug reactions. In this perspective paper, we discuss the expression of relevant xenobiotic metabolizing enzymes in the brain and in the BBB, and we cover current advances and future directions on the potential role of these BBB drug-metabolizing enzymes as modifiers of drug response."
+    ],
+    "affiliation": [
+      "Department of Pharmacology, University of Extremadura Cáceres, Spain ; ISCIII Research Network of Adverse Reactions to Allergens and Drugs Madrid, Spain."
+    ],
+    "language": [
+      "eng"
+    ],
+    "pubModel": [
+      "Electronic-eCollection"
+    ],
+    "pubTypeList": [
+      {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      }
+    ],
+    "keywordList": [
+      {
+        "keyword": [
+          "Drug response",
+          "Expression Profiling",
+          "Blood–brain Barrier",
+          "Drug Metabolizing Enzymes",
+          "Cns Drug"
+        ]
+      }
+    ],
+    "fullTextUrlList": [
+      {
+        "fullTextUrl": [
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "pdf"
+            ],
+            "site": [
+              "Europe_PMC"
+            ],
+            "url": [
+              "http://europepmc.org/articles/PMC4201098?pdf=render"
+            ]
+          },
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "html"
+            ],
+            "site": [
+              "Europe_PMC"
+            ],
+            "url": [
+              "http://europepmc.org/articles/PMC4201098"
+            ]
+          },
+          {
+            "availability": [
+              "Subscription required"
+            ],
+            "availabilityCode": [
+              "S"
+            ],
+            "documentStyle": [
+              "doi"
+            ],
+            "site": [
+              "DOI"
+            ],
+            "url": [
+              "https://doi.org/10.3389/fncel.2014.00335"
+            ]
+          }
+        ]
+      }
+    ],
+    "isOpenAccess": [
+      "Y"
+    ],
+    "inEPMC": [
+      "Y"
+    ],
+    "inPMC": [
+      "N"
+    ],
+    "hasPDF": [
+      "Y"
+    ],
+    "hasBook": [
+      "N"
+    ],
+    "hasSuppl": [
+      "N"
+    ],
+    "citedByCount": [
+      "9"
+    ],
+    "hasReferences": [
+      "Y"
+    ],
+    "hasTextMinedTerms": [
+      "Y"
+    ],
+    "hasDbCrossReferences": [
+      "N"
+    ],
+    "hasLabsLinks": [
+      "Y"
+    ],
+    "license": [
+      "cc by"
+    ],
+    "authMan": [
+      "N"
+    ],
+    "epmcAuthMan": [
+      "N"
+    ],
+    "nihAuthMan": [
+      "N"
+    ],
+    "hasTMAccessionNumbers": [
+      "N"
+    ],
+    "dateOfCompletion": [
+      "2014-11-04"
+    ],
+    "dateOfCreation": [
+      "2014-11-04"
+    ],
+    "firstIndexDate": [
+      "2014-11-05"
+    ],
+    "dateOfRevision": [
+      "2014-11-06"
+    ],
+    "electronicPublicationDate": [
+      "2014-10-17"
+    ],
+    "firstPublicationDate": [
+      "2014-10-17"
+    ]
+  },
+  {
+    "id": [
+      "24926289"
+    ],
+    "source": [
+      "MED"
+    ],
+    "pmid": [
+      "24926289"
+    ],
+    "pmcid": [
+      "PMC4044670"
+    ],
+    "doi": [
+      "10.3389/fmicb.2014.00269"
+    ],
+    "title": [
+      "Potential of essential oils for protection of grains contaminated by aflatoxin produced by Aspergillus flavus."
+    ],
+    "authorString": [
+      "Esper RH, Gonçalez E, Marques MO, Felicio RC, Felicio JD."
+    ],
+    "authorList": [
+      {
+        "author": [
+          {
+            "fullName": [
+              "Esper RH"
+            ],
+            "firstName": [
+              "Renata H"
+            ],
+            "lastName": [
+              "Esper"
+            ],
+            "initials": [
+              "RH"
+            ],
+            "affiliation": [
+              "Centro de Pesquisa e Desenvolvimento em Sanidade Animal, Instituto Biológico São Paulo, Brazil."
+            ]
+          },
+          {
+            "fullName": [
+              "Gonçalez E"
+            ],
+            "firstName": [
+              "Edlayne"
+            ],
+            "lastName": [
+              "Gonçalez"
+            ],
+            "initials": [
+              "E"
+            ],
+            "affiliation": [
+              "Centro de Pesquisa e Desenvolvimento em Sanidade Animal, Instituto Biológico São Paulo, Brazil."
+            ]
+          },
+          {
+            "fullName": [
+              "Marques MO"
+            ],
+            "firstName": [
+              "Marcia O M"
+            ],
+            "lastName": [
+              "Marques"
+            ],
+            "initials": [
+              "MO"
+            ],
+            "authorId": [
+              {
+                "_": "0000-0001-8270-4308",
+                "$": {
+                  "type": "ORCID"
+                }
+              }
+            ],
+            "affiliation": [
+              "Centro de Pesquisa e Desenvolvimento de Recursos Genéticos Vegetais, Instituto Agronômico Campinas, Brazil."
+            ]
+          },
+          {
+            "fullName": [
+              "Felicio RC"
+            ],
+            "firstName": [
+              "Roberto C"
+            ],
+            "lastName": [
+              "Felicio"
+            ],
+            "initials": [
+              "RC"
+            ],
+            "affiliation": [
+              "Departamento de Ciências Exatas e Tecnológicas, Universidade Estadual de Santa Cruz Ilhéus, Brazil."
+            ]
+          },
+          {
+            "fullName": [
+              "Felicio JD"
+            ],
+            "firstName": [
+              "Joana D"
+            ],
+            "lastName": [
+              "Felicio"
+            ],
+            "initials": [
+              "JD"
+            ],
+            "affiliation": [
+              "Centro de Pesquisa e Desenvolvimento em Sanidade Animal, Instituto Biológico São Paulo, Brazil."
+            ]
+          }
+        ]
+      }
+    ],
+    "authorIdList": [
+      {
+        "authorId": [
+          {
+            "_": "0000-0001-8270-4308",
+            "$": {
+              "type": "ORCID"
+            }
+          }
+        ]
+      }
+    ],
+    "journalInfo": [
+      {
+        "volume": [
+          "5"
+        ],
+        "journalIssueId": [
+          "2120342"
+        ],
+        "dateOfPublication": [
+          "2014 "
+        ],
+        "monthOfPublication": [
+          "0"
+        ],
+        "yearOfPublication": [
+          "2014"
+        ],
+        "printPublicationDate": [
+          "2014-01-01"
+        ],
+        "journal": [
+          {
+            "title": [
+              "Frontiers in microbiology"
+            ],
+            "ISOAbbreviation": [
+              "Front Microbiol"
+            ],
+            "medlineAbbreviation": [
+              "Front Microbiol"
+            ],
+            "NLMid": [
+              "101548977"
+            ],
+            "ISSN": [
+              "1664-302X"
+            ],
+            "ESSN": [
+              "1664-302X"
+            ]
+          }
+        ]
+      }
+    ],
+    "pubYear": [
+      "2014"
+    ],
+    "pageInfo": [
+      "269"
+    ],
+    "abstractText": [
+      "Aflatoxin B1 (AFB1) is a highly toxic and carcinogenic metabolite produced by Aspergillus species on food and agricultural commodities. Inhibitory effects of essential oils of Ageratum conyzoides (mentrasto) and Origanum vulgare (oregano) on the mycelial growth and aflatoxin B1 production by Aspergillus flavus have been studied previously in culture medium. The aim of this study was to evaluate aflatoxin B1 production by Aspergillus flavus in real food systems (corn and soybean) treated with Ageratum conyzoides (mentrasto) and Origanum vulgare (oregano) essential oils. Samples with 60 g of the grains were treated with different volumes of essential oils, 200, 100, 50, and 10 μL for oregano and 50, 30, 15, and 10 μL for mentrasto. Fungal growth was evaluated by disk diffusion method. Aflatoxin B1 production was evaluated inoculating suspensions of A. flavus containing 1.3 × 10(5) spores/mL in 60 g of grains (corn and soybeans) after adjusting the water activity at 0.94. Aflatoxin was quantified by photodensitometry. Fungal growth and aflatoxin production were inhibited by essential oils, but the mentrasto oil was more effective in soybeans than that of oregano. On the other hand, in corn samples, the oregano essential oil was more effective than that of mentrasto. Chemical compositions of the essential oils were also investigated. The GC/MS oils analysis showed that the main component of mentrasto essential oil is precocene I and of the main component of oregano essential oil is 4-terpineol. The results indicate that both essential oils can become an alternative for the control of aflatoxins in corn and soybeans."
+    ],
+    "affiliation": [
+      "Centro de Pesquisa e Desenvolvimento em Sanidade Animal, Instituto Biológico São Paulo, Brazil."
+    ],
+    "language": [
+      "eng"
+    ],
+    "pubModel": [
+      "Electronic-eCollection"
+    ],
+    "pubTypeList": [
+      {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      }
+    ],
+    "keywordList": [
+      {
+        "keyword": [
+          "Mycotoxins",
+          "Essential oil",
+          "Corn",
+          "Ageratum conyzoides",
+          "Soybeans",
+          "Origanum Vulgare"
+        ]
+      }
+    ],
+    "fullTextUrlList": [
+      {
+        "fullTextUrl": [
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "pdf"
+            ],
+            "site": [
+              "Europe_PMC"
+            ],
+            "url": [
+              "http://europepmc.org/articles/PMC4044670?pdf=render"
+            ]
+          },
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "html"
+            ],
+            "site": [
+              "Europe_PMC"
+            ],
+            "url": [
+              "http://europepmc.org/articles/PMC4044670"
+            ]
+          },
+          {
+            "availability": [
+              "Free"
+            ],
+            "availabilityCode": [
+              "F"
+            ],
+            "documentStyle": [
+              "pdf"
+            ],
+            "site": [
+              "PubMedCentral"
+            ],
+            "url": [
+              "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24926289/pdf/?tool=EBI"
+            ]
+          },
+          {
+            "availability": [
+              "Free"
+            ],
+            "availabilityCode": [
+              "F"
+            ],
+            "documentStyle": [
+              "html"
+            ],
+            "site": [
+              "PubMedCentral"
+            ],
+            "url": [
+              "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24926289/?tool=EBI"
+            ]
+          },
+          {
+            "availability": [
+              "Subscription required"
+            ],
+            "availabilityCode": [
+              "S"
+            ],
+            "documentStyle": [
+              "doi"
+            ],
+            "site": [
+              "DOI"
+            ],
+            "url": [
+              "https://doi.org/10.3389/fmicb.2014.00269"
+            ]
+          }
+        ]
+      }
+    ],
+    "isOpenAccess": [
+      "Y"
+    ],
+    "inEPMC": [
+      "Y"
+    ],
+    "inPMC": [
+      "Y"
+    ],
+    "hasPDF": [
+      "Y"
+    ],
+    "hasBook": [
+      "N"
+    ],
+    "hasSuppl": [
+      "N"
+    ],
+    "citedByCount": [
+      "4"
+    ],
+    "hasReferences": [
+      "Y"
+    ],
+    "hasTextMinedTerms": [
+      "Y"
+    ],
+    "hasDbCrossReferences": [
+      "N"
+    ],
+    "hasLabsLinks": [
+      "Y"
+    ],
+    "license": [
+      "cc by"
+    ],
+    "authMan": [
+      "N"
+    ],
+    "epmcAuthMan": [
+      "N"
+    ],
+    "nihAuthMan": [
+      "N"
+    ],
+    "hasTMAccessionNumbers": [
+      "N"
+    ],
+    "dateOfCompletion": [
+      "2014-06-13"
+    ],
+    "dateOfCreation": [
+      "2014-06-13"
+    ],
+    "firstIndexDate": [
+      "2014-06-14"
+    ],
+    "dateOfRevision": [
+      "2014-06-16"
+    ],
+    "electronicPublicationDate": [
+      "2014-06-04"
+    ],
+    "firstPublicationDate": [
+      "2014-06-04"
+    ]
+  },
+  {
+    "id": [
+      "20668570"
+    ],
+    "source": [
+      "MED"
+    ],
+    "pmid": [
+      "20668570"
+    ],
+    "pmcid": [
+      "PMC2900066"
+    ],
+    "doi": [
+      "10.4103/0973-1296.62890"
+    ],
+    "title": [
+      "Chemical composition and resistance-modifying effect of the essential oil of Lantana camara Linn."
+    ],
+    "authorString": [
+      "Sousa EO, Silva NF, Rodrigues FF, Campos AR, Lima SG, Costa JG."
+    ],
+    "authorList": [
+      {
+        "author": [
+          {
+            "fullName": [
+              "Sousa EO"
+            ],
+            "firstName": [
+              "Erlânio O"
+            ],
+            "lastName": [
+              "Sousa"
+            ],
+            "initials": [
+              "EO"
+            ]
+          },
+          {
+            "fullName": [
+              "Silva NF"
+            ],
+            "firstName": [
+              "Natálya F"
+            ],
+            "lastName": [
+              "Silva"
+            ],
+            "initials": [
+              "NF"
+            ]
+          },
+          {
+            "fullName": [
+              "Rodrigues FF"
+            ],
+            "firstName": [
+              "Fabiola F G"
+            ],
+            "lastName": [
+              "Rodrigues"
+            ],
+            "initials": [
+              "FF"
+            ]
+          },
+          {
+            "fullName": [
+              "Campos AR"
+            ],
+            "firstName": [
+              "Adriana R"
+            ],
+            "lastName": [
+              "Campos"
+            ],
+            "initials": [
+              "AR"
+            ]
+          },
+          {
+            "fullName": [
+              "Lima SG"
+            ],
+            "firstName": [
+              "Sidney G"
+            ],
+            "lastName": [
+              "Lima"
+            ],
+            "initials": [
+              "SG"
+            ]
+          },
+          {
+            "fullName": [
+              "Costa JG"
+            ],
+            "firstName": [
+              "José Galberto M"
+            ],
+            "lastName": [
+              "Costa"
+            ],
+            "initials": [
+              "JG"
+            ]
+          }
+        ]
+      }
+    ],
+    "journalInfo": [
+      {
+        "issue": [
+          "22"
+        ],
+        "volume": [
+          "6"
+        ],
+        "journalIssueId": [
+          "1749724"
+        ],
+        "dateOfPublication": [
+          "2010 Apr"
+        ],
+        "monthOfPublication": [
+          "4"
+        ],
+        "yearOfPublication": [
+          "2010"
+        ],
+        "printPublicationDate": [
+          "2010-04-01"
+        ],
+        "journal": [
+          {
+            "title": [
+              "Pharmacognosy magazine"
+            ],
+            "ISOAbbreviation": [
+              "Pharmacogn Mag"
+            ],
+            "medlineAbbreviation": [
+              "Pharmacogn Mag"
+            ],
+            "NLMid": [
+              "101300403"
+            ],
+            "ISSN": [
+              "0973-1296"
+            ],
+            "ESSN": [
+              "0976-4062"
+            ]
+          }
+        ]
+      }
+    ],
+    "pubYear": [
+      "2010"
+    ],
+    "pageInfo": [
+      "79-82"
+    ],
+    "abstractText": [
+      "In this work, the chemical constituents, antibacterial and modulatory activities of the essential oil of Lantana camara Linn were studied. The essential oil was extracted from the leaves of L. camara by hydrodistillation method using Clevenger's apparatus and its chemical constituents were separated and identified by GC-MS, and the relative content of each constituent was determined by area normalization. Among the 25 identified components, bicyclogermacrene (19.42%), isocaryophyllene (16.70%), valecene (12.94%) and germacrene D (12.34%) were the main constituents. The oil was examined to antibacterial and modulatory activities against the multiresistant strains of Escherichia coli and Staphylococcus aureus by microdilution test. The results show an inhibitory activity to E. coli (MIC 512 mug/ml) and S. aureus (MIC 256 mug/ml). The synergism of the essential oil and aminoglycosides was verified too, with significant reduction of MICs (7 x, 1250-5 mug/ml) against E. coli. It is suggested that the essential oil of Lantana camara Linn could be used as a source of plant-derived natural products with resistance-modifying activity."
+    ],
+    "affiliation": [
+      "Programa de Pós-Graduação em Bioprospecção Molecular, Departamento de Química Biológica, Laboratório de Pesquisa de Produtos Naturais, Universidade Regional do Cariri, Rua Cel. Antônio Luiz 1161, Pimenta, 63105-000, Crato-CE, Brazil."
+    ],
+    "language": [
+      "eng"
+    ],
+    "pubModel": [
+      "Print-Electronic"
+    ],
+    "pubTypeList": [
+      {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      }
+    ],
+    "keywordList": [
+      {
+        "keyword": [
+          "Essential oil",
+          "Aminoglycosides",
+          "Lantana Camara Linn",
+          "Antibacterial And Modulatory Activities"
+        ]
+      }
+    ],
+    "fullTextUrlList": [
+      {
+        "fullTextUrl": [
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "html"
+            ],
+            "site": [
+              "Europe_PMC"
+            ],
+            "url": [
+              "http://europepmc.org/articles/PMC2900066"
+            ]
+          },
+          {
+            "availability": [
+              "Free"
+            ],
+            "availabilityCode": [
+              "F"
+            ],
+            "documentStyle": [
+              "html"
+            ],
+            "site": [
+              "PubMedCentral"
+            ],
+            "url": [
+              "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20668570/?tool=EBI"
+            ]
+          },
+          {
+            "availability": [
+              "Subscription required"
+            ],
+            "availabilityCode": [
+              "S"
+            ],
+            "documentStyle": [
+              "doi"
+            ],
+            "site": [
+              "DOI"
+            ],
+            "url": [
+              "https://doi.org/10.4103/0973-1296.62890"
+            ]
+          }
+        ]
+      }
+    ],
+    "isOpenAccess": [
+      "Y"
+    ],
+    "inEPMC": [
+      "Y"
+    ],
+    "inPMC": [
+      "Y"
+    ],
+    "hasPDF": [
+      "N"
+    ],
+    "hasBook": [
+      "N"
+    ],
+    "hasSuppl": [
+      "N"
+    ],
+    "citedByCount": [
+      "8"
+    ],
+    "hasReferences": [
+      "Y"
+    ],
+    "hasTextMinedTerms": [
+      "Y"
+    ],
+    "hasDbCrossReferences": [
+      "Y"
+    ],
+    "dbCrossReferenceList": [
+      {
+        "dbName": [
+          "CHEBI"
+        ]
+      }
+    ],
+    "hasLabsLinks": [
+      "N"
+    ],
+    "license": [
+      "cc by"
+    ],
+    "authMan": [
+      "N"
+    ],
+    "epmcAuthMan": [
+      "N"
+    ],
+    "nihAuthMan": [
+      "N"
+    ],
+    "hasTMAccessionNumbers": [
+      "N"
+    ],
+    "dateOfCompletion": [
+      "2011-07-14"
+    ],
+    "dateOfCreation": [
+      "2010-07-29"
+    ],
+    "firstIndexDate": [
+      "2010-08-05"
+    ],
+    "dateOfRevision": [
+      "2013-05-29"
+    ],
+    "electronicPublicationDate": [
+      "2010-05-05"
+    ],
+    "firstPublicationDate": [
+      "2010-04-01"
+    ]
+  },
+  {
+    "id": [
+      "23018920"
+    ],
+    "source": [
+      "MED"
+    ],
+    "pmid": [
+      "23018920"
+    ],
+    "pmcid": [
+      "PMC6268859"
+    ],
+    "doi": [
+      "10.3390/molecules171011447"
+    ],
+    "title": [
+      "Chemical characterization of volatile compounds of Lantana camara L. and L. radula Sw. and their antifungal activity."
+    ],
+    "authorString": [
+      "Passos JL, Barbosa LC, Demuner AJ, Alvarenga ES, da Silva CM, Barreto RW."
+    ],
+    "authorList": [
+      {
+        "author": [
+          {
+            "fullName": [
+              "Passos JL"
+            ],
+            "firstName": [
+              "Juliana Lanna"
+            ],
+            "lastName": [
+              "Passos"
+            ],
+            "initials": [
+              "JL"
+            ],
+            "affiliation": [
+              "Department of Chemistry, Federal University of Vicosa, Av. P. H. Rolfs, s/n, 36570-000, Vicosa, MG, Brazil."
+            ]
+          },
+          {
+            "fullName": [
+              "Barbosa LC"
+            ],
+            "firstName": [
+              "Luiz Claudio Almeida"
+            ],
+            "lastName": [
+              "Barbosa"
+            ],
+            "initials": [
+              "LC"
+            ]
+          },
+          {
+            "fullName": [
+              "Demuner AJ"
+            ],
+            "firstName": [
+              "Antonio Jacinto"
+            ],
+            "lastName": [
+              "Demuner"
+            ],
+            "initials": [
+              "AJ"
+            ]
+          },
+          {
+            "fullName": [
+              "Alvarenga ES"
+            ],
+            "firstName": [
+              "Elson Santiago"
+            ],
+            "lastName": [
+              "Alvarenga"
+            ],
+            "initials": [
+              "ES"
+            ],
+            "authorId": [
+              {
+                "_": "0000-0002-7333-0006",
+                "$": {
+                  "type": "ORCID"
+                }
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "da Silva CM"
+            ],
+            "firstName": [
+              "Cleiton Moreira"
+            ],
+            "lastName": [
+              "da Silva"
+            ],
+            "initials": [
+              "CM"
+            ]
+          },
+          {
+            "fullName": [
+              "Barreto RW"
+            ],
+            "firstName": [
+              "Robert Weingart"
+            ],
+            "lastName": [
+              "Barreto"
+            ],
+            "initials": [
+              "RW"
+            ]
+          }
+        ]
+      }
+    ],
+    "authorIdList": [
+      {
+        "authorId": [
+          {
+            "_": "0000-0002-7333-0006",
+            "$": {
+              "type": "ORCID"
+            }
+          },
+          {
+            "_": "0000-0001-9913-8971",
+            "$": {
+              "type": "ORCID"
+            }
+          },
+          {
+            "_": "0000-0002-5395-9608",
+            "$": {
+              "type": "ORCID"
+            }
+          }
+        ]
+      }
+    ],
+    "journalInfo": [
+      {
+        "issue": [
+          "10"
+        ],
+        "volume": [
+          "17"
+        ],
+        "journalIssueId": [
+          "2495134"
+        ],
+        "dateOfPublication": [
+          "2012 Sep"
+        ],
+        "monthOfPublication": [
+          "9"
+        ],
+        "yearOfPublication": [
+          "2012"
+        ],
+        "printPublicationDate": [
+          "2012-09-01"
+        ],
+        "journal": [
+          {
+            "title": [
+              "Molecules (Basel, Switzerland)"
+            ],
+            "ISOAbbreviation": [
+              "Molecules"
+            ],
+            "medlineAbbreviation": [
+              "Molecules"
+            ],
+            "NLMid": [
+              "100964009"
+            ],
+            "ISSN": [
+              "1420-3049"
+            ],
+            "ESSN": [
+              "1420-3049"
+            ]
+          }
+        ]
+      }
+    ],
+    "pubYear": [
+      "2012"
+    ],
+    "pageInfo": [
+      "11447-11455"
+    ],
+    "abstractText": [
+      "A comparative study of the chemical composition of essential oils of two very similar species of the Verbenaceae family (Lantana camara and L. radula) revealed that the main components of essential oil of L. camara were germacrene-D (19.8%) and E-caryophyllene (19.7%), while those of L. radula were E-caryophyllene (25.3%), phytol (29.2%) and E-nerolidol (19.0%). We have hypothesized that the observed differences could contribute to the differentiated reaction of the two species of Lantana to the attack of the phytopathogenic fungi Corynespora cassiicola. An experiment, involving C. cassiicola cultivation in culture media containing volatile oils of the two species demonstrated that the oils of L. radula were more fungistatic than the oils of L. camara, in accordance with the in vivo observations. It is likely that E-nerolidol and phytol, only found in the oil of L. radula, play a significant role in the effects of L. radula on C. cassiicola."
+    ],
+    "affiliation": [
+      "Department of Chemistry, Federal University of Vicosa, Av. P. H. Rolfs, s/n, 36570-000, Vicosa, MG, Brazil."
+    ],
+    "language": [
+      "eng"
+    ],
+    "pubModel": [
+      "Electronic"
+    ],
+    "pubTypeList": [
+      {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      }
+    ],
+    "meshHeadingList": [
+      {
+        "meshHeading": [
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Fungi"
+            ],
+            "meshQualifierList": [
+              {
+                "meshQualifier": [
+                  {
+                    "abbreviation": [
+                      "DE"
+                    ],
+                    "qualifierName": [
+                      "drug effects"
+                    ],
+                    "majorTopic_YN": [
+                      "N"
+                    ]
+                  },
+                  {
+                    "abbreviation": [
+                      "GD"
+                    ],
+                    "qualifierName": [
+                      "growth & development"
+                    ],
+                    "majorTopic_YN": [
+                      "N"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Lantana"
+            ],
+            "meshQualifierList": [
+              {
+                "meshQualifier": [
+                  {
+                    "abbreviation": [
+                      "CH"
+                    ],
+                    "qualifierName": [
+                      "chemistry"
+                    ],
+                    "majorTopic_YN": [
+                      "Y"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Oils, Volatile"
+            ],
+            "meshQualifierList": [
+              {
+                "meshQualifier": [
+                  {
+                    "abbreviation": [
+                      "PD"
+                    ],
+                    "qualifierName": [
+                      "pharmacology"
+                    ],
+                    "majorTopic_YN": [
+                      "Y"
+                    ]
+                  },
+                  {
+                    "abbreviation": [
+                      "CH"
+                    ],
+                    "qualifierName": [
+                      "chemistry"
+                    ],
+                    "majorTopic_YN": [
+                      "Y"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Antifungal Agents"
+            ],
+            "meshQualifierList": [
+              {
+                "meshQualifier": [
+                  {
+                    "abbreviation": [
+                      "PD"
+                    ],
+                    "qualifierName": [
+                      "pharmacology"
+                    ],
+                    "majorTopic_YN": [
+                      "Y"
+                    ]
+                  },
+                  {
+                    "abbreviation": [
+                      "CH"
+                    ],
+                    "qualifierName": [
+                      "chemistry"
+                    ],
+                    "majorTopic_YN": [
+                      "Y"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Microbial Sensitivity Tests"
+            ]
+          }
+        ]
+      }
+    ],
+    "chemicalList": [
+      {
+        "chemical": [
+          {
+            "name": [
+              "Antifungal Agents"
+            ],
+            "registryNumber": [
+              "0"
+            ]
+          },
+          {
+            "name": [
+              "Oils, Volatile"
+            ],
+            "registryNumber": [
+              "0"
+            ]
+          }
+        ]
+      }
+    ],
+    "subsetList": [
+      {
+        "subset": [
+          {
+            "code": [
+              "IM"
+            ],
+            "name": [
+              "Index Medicus"
+            ]
+          }
+        ]
+      }
+    ],
+    "fullTextUrlList": [
+      {
+        "fullTextUrl": [
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "pdf"
+            ],
+            "site": [
+              "Europe_PMC"
+            ],
+            "url": [
+              "http://europepmc.org/articles/PMC6268859?pdf=render"
+            ]
+          },
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "html"
+            ],
+            "site": [
+              "Europe_PMC"
+            ],
+            "url": [
+              "http://europepmc.org/articles/PMC6268859"
+            ]
+          },
+          {
+            "availability": [
+              "Subscription required"
+            ],
+            "availabilityCode": [
+              "S"
+            ],
+            "documentStyle": [
+              "doi"
+            ],
+            "site": [
+              "DOI"
+            ],
+            "url": [
+              "https://doi.org/10.3390/molecules171011447"
+            ]
+          },
+          {
+            "availability": [
+              "Subscription required"
+            ],
+            "availabilityCode": [
+              "S"
+            ],
+            "documentStyle": [
+              "doi"
+            ],
+            "site": [
+              "DOI"
+            ],
+            "url": [
+              "https://doi.org/10.3390/molecules171011447"
+            ]
+          }
+        ]
+      }
+    ],
+    "isOpenAccess": [
+      "Y"
+    ],
+    "inEPMC": [
+      "Y"
+    ],
+    "inPMC": [
+      "N"
+    ],
+    "hasPDF": [
+      "Y"
+    ],
+    "hasBook": [
+      "N"
+    ],
+    "hasSuppl": [
+      "N"
+    ],
+    "citedByCount": [
+      "6"
+    ],
+    "hasReferences": [
+      "Y"
+    ],
+    "hasTextMinedTerms": [
+      "Y"
+    ],
+    "hasDbCrossReferences": [
+      "N"
+    ],
+    "hasLabsLinks": [
+      "N"
+    ],
+    "license": [
+      "cc by"
+    ],
+    "authMan": [
+      "N"
+    ],
+    "epmcAuthMan": [
+      "N"
+    ],
+    "nihAuthMan": [
+      "N"
+    ],
+    "hasTMAccessionNumbers": [
+      "N"
+    ],
+    "dateOfCompletion": [
+      "2013-03-21"
+    ],
+    "dateOfCreation": [
+      "2012-09-29"
+    ],
+    "firstIndexDate": [
+      "2012-09-29"
+    ],
+    "dateOfRevision": [
+      "2018-12-17"
+    ],
+    "electronicPublicationDate": [
+      "2012-09-27"
+    ],
+    "firstPublicationDate": [
+      "2012-09-27"
+    ]
+  },
+  {
+    "id": [
+      "21245809"
+    ],
+    "source": [
+      "MED"
+    ],
+    "pmid": [
+      "21245809"
+    ],
+    "pmcid": [
+      "PMC6259589"
+    ],
+    "doi": [
+      "10.3390/molecules16010762"
+    ],
+    "title": [
+      "Schistosomicidal activity of the essential oil of Ageratum conyzoides L. (Asteraceae) against adult Schistosoma mansoni worms."
+    ],
+    "authorString": [
+      "de Melo NI, Magalhaes LG, de Carvalho CE, Wakabayashi KA, de P Aguiar G, Ramos RC, Mantovani AL, Turatti IC, Rodrigues V, Groppo M, Cunha WR, Veneziani RC, Crotti AE."
+    ],
+    "authorList": [
+      {
+        "author": [
+          {
+            "fullName": [
+              "de Melo NI"
+            ],
+            "firstName": [
+              "Nathalya I"
+            ],
+            "lastName": [
+              "de Melo"
+            ],
+            "initials": [
+              "NI"
+            ],
+            "affiliation": [
+              "Núcleo de Pesquisas em Ciências Exatas e Tecnológicas, Universidade de Franca, CEP 14404-600, Franca, SP, Brazil."
+            ]
+          },
+          {
+            "fullName": [
+              "Magalhaes LG"
+            ],
+            "firstName": [
+              "Lizandra G"
+            ],
+            "lastName": [
+              "Magalhaes"
+            ],
+            "initials": [
+              "LG"
+            ]
+          },
+          {
+            "fullName": [
+              "de Carvalho CE"
+            ],
+            "firstName": [
+              "Carlos E"
+            ],
+            "lastName": [
+              "de Carvalho"
+            ],
+            "initials": [
+              "CE"
+            ]
+          },
+          {
+            "fullName": [
+              "Wakabayashi KA"
+            ],
+            "firstName": [
+              "Kamila A L"
+            ],
+            "lastName": [
+              "Wakabayashi"
+            ],
+            "initials": [
+              "KA"
+            ]
+          },
+          {
+            "fullName": [
+              "de P Aguiar G"
+            ],
+            "firstName": [
+              "Gabriela"
+            ],
+            "lastName": [
+              "de P Aguiar"
+            ],
+            "initials": [
+              "G"
+            ]
+          },
+          {
+            "fullName": [
+              "Ramos RC"
+            ],
+            "firstName": [
+              "Rafael C"
+            ],
+            "lastName": [
+              "Ramos"
+            ],
+            "initials": [
+              "RC"
+            ]
+          },
+          {
+            "fullName": [
+              "Mantovani AL"
+            ],
+            "firstName": [
+              "Andre L L"
+            ],
+            "lastName": [
+              "Mantovani"
+            ],
+            "initials": [
+              "AL"
+            ]
+          },
+          {
+            "fullName": [
+              "Turatti IC"
+            ],
+            "firstName": [
+              "Izabel C C"
+            ],
+            "lastName": [
+              "Turatti"
+            ],
+            "initials": [
+              "IC"
+            ]
+          },
+          {
+            "fullName": [
+              "Rodrigues V"
+            ],
+            "firstName": [
+              "Vanderlei"
+            ],
+            "lastName": [
+              "Rodrigues"
+            ],
+            "initials": [
+              "V"
+            ]
+          },
+          {
+            "fullName": [
+              "Groppo M"
+            ],
+            "firstName": [
+              "Milton"
+            ],
+            "lastName": [
+              "Groppo"
+            ],
+            "initials": [
+              "M"
+            ]
+          },
+          {
+            "fullName": [
+              "Cunha WR"
+            ],
+            "firstName": [
+              "Wilson R"
+            ],
+            "lastName": [
+              "Cunha"
+            ],
+            "initials": [
+              "WR"
+            ],
+            "authorId": [
+              {
+                "_": "0000-0002-1952-1944",
+                "$": {
+                  "type": "ORCID"
+                }
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Veneziani RC"
+            ],
+            "firstName": [
+              "Rodrigo C S"
+            ],
+            "lastName": [
+              "Veneziani"
+            ],
+            "initials": [
+              "RC"
+            ],
+            "authorId": [
+              {
+                "_": "0000-0001-7057-9706",
+                "$": {
+                  "type": "ORCID"
+                }
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Crotti AE"
+            ],
+            "firstName": [
+              "Antônio E M"
+            ],
+            "lastName": [
+              "Crotti"
+            ],
+            "initials": [
+              "AE"
+            ],
+            "authorId": [
+              {
+                "_": "0000-0002-1730-1729",
+                "$": {
+                  "type": "ORCID"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "authorIdList": [
+      {
+        "authorId": [
+          {
+            "_": "0000-0002-1730-1729",
+            "$": {
+              "type": "ORCID"
+            }
+          },
+          {
+            "_": "0000-0003-2959-6752",
+            "$": {
+              "type": "ORCID"
+            }
+          },
+          {
+            "_": "0000-0001-7057-9706",
+            "$": {
+              "type": "ORCID"
+            }
+          },
+          {
+            "_": "0000-0002-1952-1944",
+            "$": {
+              "type": "ORCID"
+            }
+          }
+        ]
+      }
+    ],
+    "journalInfo": [
+      {
+        "issue": [
+          "1"
+        ],
+        "volume": [
+          "16"
+        ],
+        "journalIssueId": [
+          "1798618"
+        ],
+        "dateOfPublication": [
+          "2011 Jan"
+        ],
+        "monthOfPublication": [
+          "1"
+        ],
+        "yearOfPublication": [
+          "2011"
+        ],
+        "printPublicationDate": [
+          "2011-01-01"
+        ],
+        "journal": [
+          {
+            "title": [
+              "Molecules (Basel, Switzerland)"
+            ],
+            "ISOAbbreviation": [
+              "Molecules"
+            ],
+            "medlineAbbreviation": [
+              "Molecules"
+            ],
+            "NLMid": [
+              "100964009"
+            ],
+            "ISSN": [
+              "1420-3049"
+            ],
+            "ESSN": [
+              "1420-3049"
+            ]
+          }
+        ]
+      }
+    ],
+    "pubYear": [
+      "2011"
+    ],
+    "pageInfo": [
+      "762-773"
+    ],
+    "abstractText": [
+      "The in vitro schistosomicidal effects of the essential oil of Ageratum conyzoides L. (Ac-EO) against adult worms of Schistosoma mansoni is reported in this paper. Concerning this activity, Ac-EO was considered to be active, but less effective than the positive control (praziquantel, PZQ) in terms of separation of coupled pairs, mortality, decrease in motor activity, and tegumental alterations. However, Ac-EO caused an interesting dose-dependent reduction in the number of eggs of S. mansoni. Precocene I (74.30%) and (E)-caryophyllene (14.23%) were identified as the two major constituents of Ac-EO. These compounds were tested individually and were found to be much less effective than Ac-EO and PZQ. A mixture of the two major compounds in a ratio similar to that found in the Ac-EO was also less effective than Ac-EO, thus revealing that there are no synergistic effects between these components. These results suggest that the essential oil of A. conyzoides is very promising for the development of new schistosomicidal agents."
+    ],
+    "affiliation": [
+      "Núcleo de Pesquisas em Ciências Exatas e Tecnológicas, Universidade de Franca, CEP 14404-600, Franca, SP, Brazil."
+    ],
+    "language": [
+      "eng"
+    ],
+    "pubModel": [
+      "Electronic"
+    ],
+    "pubTypeList": [
+      {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Journal Article"
+        ]
+      }
+    ],
+    "meshHeadingList": [
+      {
+        "meshHeading": [
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Animals"
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Schistosoma mansoni"
+            ],
+            "meshQualifierList": [
+              {
+                "meshQualifier": [
+                  {
+                    "abbreviation": [
+                      "DE"
+                    ],
+                    "qualifierName": [
+                      "drug effects"
+                    ],
+                    "majorTopic_YN": [
+                      "Y"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Ageratum"
+            ],
+            "meshQualifierList": [
+              {
+                "meshQualifier": [
+                  {
+                    "abbreviation": [
+                      "CH"
+                    ],
+                    "qualifierName": [
+                      "chemistry"
+                    ],
+                    "majorTopic_YN": [
+                      "Y"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Oils, Volatile"
+            ],
+            "meshQualifierList": [
+              {
+                "meshQualifier": [
+                  {
+                    "abbreviation": [
+                      "IP"
+                    ],
+                    "qualifierName": [
+                      "isolation & purification"
+                    ],
+                    "majorTopic_YN": [
+                      "N"
+                    ]
+                  },
+                  {
+                    "abbreviation": [
+                      "PD"
+                    ],
+                    "qualifierName": [
+                      "pharmacology"
+                    ],
+                    "majorTopic_YN": [
+                      "Y"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "chemicalList": [
+      {
+        "chemical": [
+          {
+            "name": [
+              "Oils, Volatile"
+            ],
+            "registryNumber": [
+              "0"
+            ]
+          }
+        ]
+      }
+    ],
+    "subsetList": [
+      {
+        "subset": [
+          {
+            "code": [
+              "IM"
+            ],
+            "name": [
+              "Index Medicus"
+            ]
+          }
+        ]
+      }
+    ],
+    "fullTextUrlList": [
+      {
+        "fullTextUrl": [
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "pdf"
+            ],
+            "site": [
+              "Europe_PMC"
+            ],
+            "url": [
+              "http://europepmc.org/articles/PMC6259589?pdf=render"
+            ]
+          },
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "html"
+            ],
+            "site": [
+              "Europe_PMC"
+            ],
+            "url": [
+              "http://europepmc.org/articles/PMC6259589"
+            ]
+          },
+          {
+            "availability": [
+              "Subscription required"
+            ],
+            "availabilityCode": [
+              "S"
+            ],
+            "documentStyle": [
+              "doi"
+            ],
+            "site": [
+              "DOI"
+            ],
+            "url": [
+              "https://doi.org/10.3390/molecules16010762"
+            ]
+          }
+        ]
+      }
+    ],
+    "isOpenAccess": [
+      "Y"
+    ],
+    "inEPMC": [
+      "Y"
+    ],
+    "inPMC": [
+      "N"
+    ],
+    "hasPDF": [
+      "Y"
+    ],
+    "hasBook": [
+      "N"
+    ],
+    "hasSuppl": [
+      "N"
+    ],
+    "citedByCount": [
+      "23"
+    ],
+    "hasReferences": [
+      "Y"
+    ],
+    "hasTextMinedTerms": [
+      "Y"
+    ],
+    "hasDbCrossReferences": [
+      "N"
+    ],
+    "hasLabsLinks": [
+      "N"
+    ],
+    "license": [
+      "cc by"
+    ],
+    "authMan": [
+      "N"
+    ],
+    "epmcAuthMan": [
+      "N"
+    ],
+    "nihAuthMan": [
+      "N"
+    ],
+    "hasTMAccessionNumbers": [
+      "N"
+    ],
+    "dateOfCompletion": [
+      "2011-06-06"
+    ],
+    "dateOfCreation": [
+      "2011-01-20"
+    ],
+    "firstIndexDate": [
+      "2011-01-20"
+    ],
+    "dateOfRevision": [
+      "2018-12-17"
+    ],
+    "electronicPublicationDate": [
+      "2011-01-18"
+    ],
+    "firstPublicationDate": [
+      "2011-01-18"
+    ]
+  },
+  {
+    "id": [
+      "19255551"
+    ],
+    "source": [
+      "MED"
+    ],
+    "pmid": [
+      "19255551"
+    ],
+    "pmcid": [
+      "PMC6253779"
+    ],
+    "doi": [
+      "10.3390/molecules14030925"
+    ],
+    "title": [
+      "Essential oil composition and internal transcribed spacer (ITS) sequence variability of four South-Croatian Satureja species (Lamiaceae)."
+    ],
+    "authorString": [
+      "Bezić N, Samanić I, Dunkić V, Besendorfer V, Puizina J."
+    ],
+    "authorList": [
+      {
+        "author": [
+          {
+            "fullName": [
+              "Bezić N"
+            ],
+            "firstName": [
+              "Nada"
+            ],
+            "lastName": [
+              "Bezić"
+            ],
+            "initials": [
+              "N"
+            ]
+          },
+          {
+            "fullName": [
+              "Samanić I"
+            ],
+            "firstName": [
+              "Ivica"
+            ],
+            "lastName": [
+              "Samanić"
+            ],
+            "initials": [
+              "I"
+            ]
+          },
+          {
+            "fullName": [
+              "Dunkić V"
+            ],
+            "firstName": [
+              "Valerija"
+            ],
+            "lastName": [
+              "Dunkić"
+            ],
+            "initials": [
+              "V"
+            ]
+          },
+          {
+            "fullName": [
+              "Besendorfer V"
+            ],
+            "firstName": [
+              "Visnja"
+            ],
+            "lastName": [
+              "Besendorfer"
+            ],
+            "initials": [
+              "V"
+            ]
+          },
+          {
+            "fullName": [
+              "Puizina J"
+            ],
+            "firstName": [
+              "Jasna"
+            ],
+            "lastName": [
+              "Puizina"
+            ],
+            "initials": [
+              "J"
+            ]
+          }
+        ]
+      }
+    ],
+    "journalInfo": [
+      {
+        "issue": [
+          "3"
+        ],
+        "volume": [
+          "14"
+        ],
+        "journalIssueId": [
+          "1601881"
+        ],
+        "dateOfPublication": [
+          "2009 "
+        ],
+        "monthOfPublication": [
+          "0"
+        ],
+        "yearOfPublication": [
+          "2009"
+        ],
+        "printPublicationDate": [
+          "2009-01-01"
+        ],
+        "journal": [
+          {
+            "title": [
+              "Molecules (Basel, Switzerland)"
+            ],
+            "ISOAbbreviation": [
+              "Molecules"
+            ],
+            "medlineAbbreviation": [
+              "Molecules"
+            ],
+            "NLMid": [
+              "100964009"
+            ],
+            "ISSN": [
+              "1420-3049"
+            ],
+            "ESSN": [
+              "1420-3049"
+            ]
+          }
+        ]
+      }
+    ],
+    "pubYear": [
+      "2009"
+    ],
+    "pageInfo": [
+      "925-938"
+    ],
+    "abstractText": [
+      "The purpose of this study was to compare the essential oil profiles of four South-Croatian Satureja species, as determined by GC/FID and GC/MS, with their DNA sequences for an internal transcribed spacer (ITS1-5.8S-ITS2) of the nuclear ribosomal DNA. A phylogenetic analysis showed that S. montana and S. cuneifolia, characterized by a similar essential oil composition, rich in the monoterpene hydrocarbon carvacrol, clustered together with high and moderate bootstrap support. On the contrary, S. subspicata and S. visianii, characterized by quite unique essential oil compositions, clustered together with the moderate bootstrap support. All four Croatian Satureja species clustered in one clade, separately from Macaronesian S. hortensis,although it had essential oil composition similar to that of S. montana and S. cuneifolia. This is the first report on the comparison between the phytochemical and DNA sequence data in Satureja species and useful contribution to the better understanding of interspecies relationships in this genus."
+    ],
+    "affiliation": [
+      "University of Split, Faculty of Science, Department of Biology, Teslina 12, 21000 Split, Croatia."
+    ],
+    "language": [
+      "eng"
+    ],
+    "pubModel": [
+      "Electronic"
+    ],
+    "pubTypeList": [
+      {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Journal Article"
+        ]
+      }
+    ],
+    "meshHeadingList": [
+      {
+        "meshHeading": [
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Satureja"
+            ],
+            "meshQualifierList": [
+              {
+                "meshQualifier": [
+                  {
+                    "abbreviation": [
+                      "GE"
+                    ],
+                    "qualifierName": [
+                      "genetics"
+                    ],
+                    "majorTopic_YN": [
+                      "N"
+                    ]
+                  },
+                  {
+                    "abbreviation": [
+                      "CH"
+                    ],
+                    "qualifierName": [
+                      "chemistry"
+                    ],
+                    "majorTopic_YN": [
+                      "Y"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Monoterpenes"
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Oils, Volatile"
+            ],
+            "meshQualifierList": [
+              {
+                "meshQualifier": [
+                  {
+                    "abbreviation": [
+                      "AN"
+                    ],
+                    "qualifierName": [
+                      "analysis"
+                    ],
+                    "majorTopic_YN": [
+                      "N"
+                    ]
+                  },
+                  {
+                    "abbreviation": [
+                      "CH"
+                    ],
+                    "qualifierName": [
+                      "chemistry"
+                    ],
+                    "majorTopic_YN": [
+                      "Y"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Plant Oils"
+            ],
+            "meshQualifierList": [
+              {
+                "meshQualifier": [
+                  {
+                    "abbreviation": [
+                      "AN"
+                    ],
+                    "qualifierName": [
+                      "analysis"
+                    ],
+                    "majorTopic_YN": [
+                      "N"
+                    ]
+                  },
+                  {
+                    "abbreviation": [
+                      "CH"
+                    ],
+                    "qualifierName": [
+                      "chemistry"
+                    ],
+                    "majorTopic_YN": [
+                      "Y"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "DNA, Ribosomal"
+            ],
+            "meshQualifierList": [
+              {
+                "meshQualifier": [
+                  {
+                    "abbreviation": [
+                      "GE"
+                    ],
+                    "qualifierName": [
+                      "genetics"
+                    ],
+                    "majorTopic_YN": [
+                      "Y"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Phylogeny"
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Species Specificity"
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Base Sequence"
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Croatia"
+            ]
+          }
+        ]
+      }
+    ],
+    "chemicalList": [
+      {
+        "chemical": [
+          {
+            "name": [
+              "Oils, Volatile"
+            ],
+            "registryNumber": [
+              "0"
+            ]
+          },
+          {
+            "name": [
+              "Plant Oils"
+            ],
+            "registryNumber": [
+              "0"
+            ]
+          },
+          {
+            "name": [
+              "DNA, Ribosomal"
+            ],
+            "registryNumber": [
+              "0"
+            ]
+          },
+          {
+            "name": [
+              "Monoterpenes"
+            ],
+            "registryNumber": [
+              "0"
+            ]
+          },
+          {
+            "name": [
+              "carvacrol"
+            ],
+            "registryNumber": [
+              "9B1J4V995Q"
+            ]
+          }
+        ]
+      }
+    ],
+    "subsetList": [
+      {
+        "subset": [
+          {
+            "code": [
+              "IM"
+            ],
+            "name": [
+              "Index Medicus"
+            ]
+          }
+        ]
+      }
+    ],
+    "fullTextUrlList": [
+      {
+        "fullTextUrl": [
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "pdf"
+            ],
+            "site": [
+              "Europe_PMC"
+            ],
+            "url": [
+              "http://europepmc.org/articles/PMC6253779?pdf=render"
+            ]
+          },
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "html"
+            ],
+            "site": [
+              "Europe_PMC"
+            ],
+            "url": [
+              "http://europepmc.org/articles/PMC6253779"
+            ]
+          },
+          {
+            "availability": [
+              "Subscription required"
+            ],
+            "availabilityCode": [
+              "S"
+            ],
+            "documentStyle": [
+              "doi"
+            ],
+            "site": [
+              "DOI"
+            ],
+            "url": [
+              "https://doi.org/10.3390/molecules14030925"
+            ]
+          }
+        ]
+      }
+    ],
+    "isOpenAccess": [
+      "Y"
+    ],
+    "inEPMC": [
+      "Y"
+    ],
+    "inPMC": [
+      "N"
+    ],
+    "hasPDF": [
+      "Y"
+    ],
+    "hasBook": [
+      "N"
+    ],
+    "hasSuppl": [
+      "N"
+    ],
+    "citedByCount": [
+      "13"
+    ],
+    "hasReferences": [
+      "Y"
+    ],
+    "hasTextMinedTerms": [
+      "Y"
+    ],
+    "hasDbCrossReferences": [
+      "Y"
+    ],
+    "dbCrossReferenceList": [
+      {
+        "dbName": [
+          "EMBL"
+        ]
+      }
+    ],
+    "hasLabsLinks": [
+      "Y"
+    ],
+    "license": [
+      "cc by"
+    ],
+    "authMan": [
+      "N"
+    ],
+    "epmcAuthMan": [
+      "N"
+    ],
+    "nihAuthMan": [
+      "N"
+    ],
+    "hasTMAccessionNumbers": [
+      "Y"
+    ],
+    "tmAccessionTypeList": [
+      {
+        "accessionType": [
+          "gen"
+        ]
+      }
+    ],
+    "dateOfCompletion": [
+      "2009-06-12"
+    ],
+    "dateOfCreation": [
+      "2009-03-03"
+    ],
+    "firstIndexDate": [
+      "2009-10-28"
+    ],
+    "dateOfRevision": [
+      "2012-11-15"
+    ],
+    "electronicPublicationDate": [
+      "2009-02-27"
+    ],
+    "firstPublicationDate": [
+      "2009-02-27"
+    ]
+  }
+]

@@ -1,0 +1,712 @@
+{
+  "id": [
+    "24662935"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24662935"
+  ],
+  "pmcid": [
+    "PMC3963878"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0092122"
+  ],
+  "title": [
+    "Chemical composition, antioxidant, anti-inflammatory and anti-proliferative activities of essential oils of plants from Burkina Faso."
+  ],
+  "authorString": [
+    "Bayala B, Bassole IH, Gnoula C, Nebie R, Yonli A, Morel L, Figueredo G, Nikiema JB, Lobaccaro JM, Simpore J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bayala B"
+          ],
+          "firstName": [
+            "Bagora"
+          ],
+          "lastName": [
+            "Bayala"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Centre de Recherche Biomoléculaire Pietro Annigoni (CERBA), Laboratoire de Biologie et Génétique (LABIOGENE), Centre Médical Saint Camille, Ouagadougou, Université de Ouagadougou, Ouagadougou, Burkina Faso; Clermont Université, Université Blaise Pascal, Génétique Reproduction et Développement (GReD), Clermont-Ferrand, France; Centre National de la Recherche Scientifique (CNRS), Unité Mixte de Recherche (UMR) 6293, GReD, Aubière, France; Institut National de la Santé et de la Recherche Médicale (INSERM), UMR 1103, GReD, Aubière, France; Centre de Recherche en Nutrition Humaine d'Auvergne, Clermont-Ferrand, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Bassole IH"
+          ],
+          "firstName": [
+            "Imaël Henri Nestor"
+          ],
+          "lastName": [
+            "Bassole"
+          ],
+          "initials": [
+            "IH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3538-0018",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratoire de Biochimie Alimentaire, Enzymologie, Biotechnologies industrielles et Bioinformatique (BAEBIB), Unité de Formation et de Recherche en Sciences de la Vie et de la Terre (UFR-SVT), Université de Ouagadougou, Ouagadougou, Burkina Faso."
+          ]
+        },
+        {
+          "fullName": [
+            "Gnoula C"
+          ],
+          "firstName": [
+            "Charlemagne"
+          ],
+          "lastName": [
+            "Gnoula"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Centre de Recherche Biomoléculaire Pietro Annigoni (CERBA), Laboratoire de Biologie et Génétique (LABIOGENE), Centre Médical Saint Camille, Ouagadougou, Université de Ouagadougou, Ouagadougou, Burkina Faso; Laboratoire de Pharmacologie, de Toxicologie et de Chimie Thérapeutique, Unité de Formation et de Recherche en Sciences de la Santé (UFR-SDS), Université de Ouagadougou, Ouagadougou, Burkina Faso."
+          ]
+        },
+        {
+          "fullName": [
+            "Nebie R"
+          ],
+          "firstName": [
+            "Roger"
+          ],
+          "lastName": [
+            "Nebie"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Institut de Recherche en Sciences Appliquées et Techniques, Département des Substances Naturelles, Ouagadougou, Burkina Faso."
+          ]
+        },
+        {
+          "fullName": [
+            "Yonli A"
+          ],
+          "firstName": [
+            "Albert"
+          ],
+          "lastName": [
+            "Yonli"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Centre de Recherche Biomoléculaire Pietro Annigoni (CERBA), Laboratoire de Biologie et Génétique (LABIOGENE), Centre Médical Saint Camille, Ouagadougou, Université de Ouagadougou, Ouagadougou, Burkina Faso."
+          ]
+        },
+        {
+          "fullName": [
+            "Morel L"
+          ],
+          "firstName": [
+            "Laurent"
+          ],
+          "lastName": [
+            "Morel"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Clermont Université, Université Blaise Pascal, Génétique Reproduction et Développement (GReD), Clermont-Ferrand, France; Centre National de la Recherche Scientifique (CNRS), Unité Mixte de Recherche (UMR) 6293, GReD, Aubière, France; Institut National de la Santé et de la Recherche Médicale (INSERM), UMR 1103, GReD, Aubière, France; Centre de Recherche en Nutrition Humaine d'Auvergne, Clermont-Ferrand, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Figueredo G"
+          ],
+          "firstName": [
+            "Gilles"
+          ],
+          "lastName": [
+            "Figueredo"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "LEXVA Analytique, Biopole Clermont-Limagne, Saint-Beauzire, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Nikiema JB"
+          ],
+          "firstName": [
+            "Jean-Baptiste"
+          ],
+          "lastName": [
+            "Nikiema"
+          ],
+          "initials": [
+            "JB"
+          ],
+          "affiliation": [
+            "Centre de Recherche Biomoléculaire Pietro Annigoni (CERBA), Laboratoire de Biologie et Génétique (LABIOGENE), Centre Médical Saint Camille, Ouagadougou, Université de Ouagadougou, Ouagadougou, Burkina Faso; Centre Médical Saint Camille de Ouagadougou, Ouagadougou, Burkina Faso."
+          ]
+        },
+        {
+          "fullName": [
+            "Lobaccaro JM"
+          ],
+          "firstName": [
+            "Jean-Marc A"
+          ],
+          "lastName": [
+            "Lobaccaro"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "Clermont Université, Université Blaise Pascal, Génétique Reproduction et Développement (GReD), Clermont-Ferrand, France; Centre National de la Recherche Scientifique (CNRS), Unité Mixte de Recherche (UMR) 6293, GReD, Aubière, France; Institut National de la Santé et de la Recherche Médicale (INSERM), UMR 1103, GReD, Aubière, France; Centre de Recherche en Nutrition Humaine d'Auvergne, Clermont-Ferrand, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Simpore J"
+          ],
+          "firstName": [
+            "Jacques"
+          ],
+          "lastName": [
+            "Simpore"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0415-9161",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre de Recherche Biomoléculaire Pietro Annigoni (CERBA), Laboratoire de Biologie et Génétique (LABIOGENE), Centre Médical Saint Camille, Ouagadougou, Université de Ouagadougou, Ouagadougou, Burkina Faso; Centre Médical Saint Camille de Ouagadougou, Ouagadougou, Burkina Faso."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3538-0018",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0415-9161",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2135647"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "e92122"
+  ],
+  "abstractText": [
+    "This research highlights the chemical composition, antioxidant, anti-inflammatory and anti-proliferative activities of essential oils from leaves of Ocimum basilicum, Ocimum americanum, Hyptis spicigera, Lippia multiflora, Ageratum conyzoides, Eucalyptus camaldulensis and Zingiber officinale. Essential oils were analyzed by gas chromatography-mass spectrometry and gas chromatography-flame ionization detector. Major constituents were α-terpineol (59.78%) and β-caryophyllene (10.54%) for Ocimum basilicum; 1, 8-cineol (31.22%), camphor (12.730%), α-pinene (6.87%) and trans α-bergamotene (5.32%) for Ocimum americanum; β-caryophyllene (21%), α-pinene (20.11%), sabinene (10.26%), β-pinene (9.22%) and α-phellandrene (7.03%) for Hyptis spicigera; p-cymene (25.27%), β-caryophyllene (12.70%), thymol (11.88), γ-terpinene (9.17%) and thymyle acetate (7.64%) for Lippia multiflora; precocene (82.10%)for Ageratum conyzoides; eucalyptol (59.55%), α-pinene (9.17%) and limonene (8.76%) for Eucalyptus camaldulensis; arcurcumene (16.67%), camphene (12.70%), zingiberene (8.40%), β-bisabolene (7.83%) and β-sesquiphellandrène (5.34%) for Zingiber officinale. Antioxidant activities were examined using 1,1-diphenyl-2-picryl-hydrazyl (DPPH) and 2,2'-azinobis-(3-ethylbenzothiazoline-6-sulfonic acid (ABTS) methods. O. basilicum and L. multiflora exhibited the highest antioxidant activity in DPPH and ABTS tests, respectively. Anti-inflammatory properties were evaluated by measuring the inhibition of lipoxygenase activity and essential oil of Z. officinale was the most active. Anti-proliferative effect was assayed by the measurement of MTT on LNCaP and PC-3 prostate cancer cell lines, and SF-763 and SF-767 glioblastoma cell lines. Essential oils from A. conyzoides and L. multiflora were the most active on LNCaP and PC-3 cell lines, respectively. The SF-767 glioblastoma cell line was the most sensitive to O. basilicum and L. multiflora EOs while essential oil of A. conyzoides showed the highest activity on SF-763 cells. Altogether these results justify the use of these plants in traditional medicine in Burkina Faso and open a new field of investigation in the characterization of the molecules involved in anti-proliferative processes."
+  ],
+  "affiliation": [
+    "Centre de Recherche Biomoléculaire Pietro Annigoni (CERBA), Laboratoire de Biologie et Génétique (LABIOGENE), Centre Médical Saint Camille, Ouagadougou, Université de Ouagadougou, Ouagadougou, Burkina Faso; Clermont Université, Université Blaise Pascal, Génétique Reproduction et Développement (GReD), Clermont-Ferrand, France; Centre National de la Recherche Scientifique (CNRS), Unité Mixte de Recherche (UMR) 6293, GReD, Aubière, France; Institut National de la Santé et de la Recherche Médicale (INSERM), UMR 1103, GReD, Aubière, France; Centre de Recherche en Nutrition Humaine d'Auvergne, Clermont-Ferrand, France."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Line, Tumor"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oils, Volatile"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Oils"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anti-Inflammatory Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Free Radical Scavengers"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Proliferation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Burkina Faso"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Anti-Inflammatory Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Oils, Volatile"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Plant Oils"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Free Radical Scavengers"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3963878?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3963878"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24662935/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24662935/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0092122"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "26"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-01-15"
+  ],
+  "dateOfCreation": [
+    "2014-03-25"
+  ],
+  "firstIndexDate": [
+    "2014-03-26"
+  ],
+  "electronicPublicationDate": [
+    "2014-03-24"
+  ],
+  "firstPublicationDate": [
+    "2014-03-24"
+  ]
+}

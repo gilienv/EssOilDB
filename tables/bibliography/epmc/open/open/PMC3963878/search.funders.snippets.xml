@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="open/PMC3963878/results/search/funders/results.xml">
+  <result pre="Ouagadougou, Université de Ouagadougou, Ouagadougou, Burkina Faso [2], Clermont Université," exact="Université Blaise Pascal," post="Génétique Reproduction et Développement (GReD), Clermont-Ferrand, France [3], Centre"/>
+  <result pre="Blaise Pascal, Génétique Reproduction et Développement (GReD), Clermont-Ferrand, France [3]," exact="Centre National de la Recherche Scientifique" post="(CNRS), Unité Mixte de Recherche (UMR) 6293, GReD, Aubière,"/>
+  <result pre="Episcopale Italienne (CEI), Union Economique Monétaire Ouest Africaine (UEMOA) and" exact="Campus France" post="for BB, CG, IHNB, AY, J-BN, JS; Fondation BNP-Paris,"/>
+ </snippets>
+</snippetsTree>
