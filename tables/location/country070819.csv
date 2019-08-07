@@ -1,4 +1,4 @@
-ID,Address,GoogleMapLink,Lattitude,Longitude,ExpLoc,City/town/Village/,State,Country,
+ID,Address,GoogleMapLink,Latitude,Longitude,ExpLoc,City/town/Village/,State,Country,
 ELoc0001,"(MPEG) Belem, PA, Brazil",,,,(MPEG) Belem,Belem,,Brazil,
 ELoc0002,(Montenegro) Velika Kalica,,,,,Velika Kalica,,Montenegro,
 ELoc0003,"(TARI), Tehran, Iran","https://www.google.com/maps/search/(TARI),+Tehran,+Iran/@35.6833948,51.4437896,14z/data=!3m1!4b1",35.6833948,51.4437896,(TARI),Tehran,,Iran,
