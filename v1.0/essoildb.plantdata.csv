@@ -1,0 +1,1839 @@
+pid,pname,pfid,phid,pgenus
+1,Abies alba,71,1,Abies
+2,Abies borisii-regis,71,1,Abies
+3,Abies cephalonica,71,1,Abies
+4,Abies sachalinensis,71,1,Abies
+5,Acacia caven,19,1,Acacia
+6,Acacia nuperrima ssp. Cassitera (Dimbulah chemotype),37,1,Acacia
+7,Acacia nuperrima ssp. Cassitera (Lappa chemotype),37,1,Acacia
+8,Acalypha segetalis,36,1,Acalypha
+9,Achillea abrotanoides,15,1,Achillea
+10,Achillea ageratum,15,1,Achillea
+11,Achillea albicaulis,15,1,Achillea
+12,Achillea alexandri-regis,15,1,Achillea
+13,Achillea asplenifolia,15,1,Achillea
+14,Achillea atrata,15,1,Achillea
+15,Achillea beibersteinii,15,1,Achillea
+16,Achillea biebersteinii,15,1,Achillea
+17,Achillea chrysocoma,15,1,Achillea
+18,Achillea clavenae,15,1,Achillea
+19,Achillea clypeolata,15,1,Achillea
+20,Achillea coarctata,15,1,Achillea
+21,Achillea collina,15,1,Achillea
+22,Achillea corabensis,15,1,Achillea
+23,Achillea crithmifolia,15,1,Achillea
+24,Achillea depressa,15,1,Achillea
+25,Achillea filipendulina,15,1,Achillea
+26,Achillea goniocephala,15,1,Achillea
+27,Achillea holosericea,15,1,Achillea
+28,Achillea lingulata,15,1,Achillea
+29,Achillea millefolium,15,1,Achillea
+30,Achillea millefolium L,15,1,Achillea
+31,Achillea nobilis,15,1,Achillea
+32,Achillea oligocephala,15,1,Achillea
+33,Achillea pseudoaleppica,15,1,Achillea
+34,Achillea schischkinii,15,1,Achillea
+35,Achillea serbica,15,1,Achillea
+36,Achillea sieheana,15,1,Achillea
+37,Achillea stricta,15,1,Achillea
+38,Achillea talagonica,15,1,Achillea
+39,Achillea tanacetifolia,15,1,Achillea
+40,Achillea tenuifolia,15,1,Achillea
+41,Achillea vermicularis,15,1,Achillea
+42,Acinos hungaricus,47,1,Acinos
+43,Acinos suaveolens,47,1,Acinos
+44,Acitinidia chinensis,2,1,Acitinidia
+45,Acorus calamus,1,1,Acorus
+46,Acorus calamus L,13,1,Acorus
+47,Aeollanthus myrianthus,47,1,Aeollanthus
+48,Aeollanthus parvifolius,47,1,Aeollanthus
+49,Aeollanthus pubescens,47,1,Aeollanthus
+50,Aeollanthus suaveolens,47,1,Aeollanthus
+51,Aframomum citratum,101,1,Aframomum
+52,Aframomum corrorima,101,1,Aframomum
+53,Aframomum exscapum,101,1,Aframomum
+54,Aframomum hanburyl,101,1,Aframomum
+55,Aframomum letestuanum,101,1,Aframomum
+56,Aframomum melegueta,101,1,Aframomum
+57,Aframomum pruinosum,101,1,Aframomum
+58,Aframomum stipulatum,62,1,Aframomum
+59,Agastache foeniculum,47,1,Agastache
+60,Agastache scrophulariaefolia,47,1,Agastache
+61,Agerantina havanensis,15,1,Agerantina
+62,Ageratum Conyzoides,15,2,Ageratum
+63,Ajuga austro-iranica,47,1,Ajuga
+64,Ajuga chamaecistus,47,1,Ajuga
+65,Ajuga chamaepitys,47,1,Ajuga
+66,Ajuga chamaepitys ssp. chamaepitys,47,1,Ajuga
+67,Alchemilla alpina,82,1,Alchemilla
+68,Alkanna orientalis,19,1,Alkanna
+69,Allamanda cathartica,12,1,Allamanda
+70,Allium fistulosum,5,1,Allium
+71,Allium sativum (L.),3,1,Allium
+72,Alococarpum erianthum,11,1,Alococarpum
+73,Aloysia gratissima,97,1,Aloysia
+74,Aloysia triphylla,15,1,Aloysia
+75,Alpinia calcarata,101,1,Alpinia
+76,Alpinia galanga,101,1,Alpinia
+77,Alpinia laosensis,101,1,Alpinia
+78,Alpinia malaccensis,101,1,Alpinia
+79,Alpinia nutans,101,1,Alpinia
+80,Alpinia purpurata,101,1,Alpinia
+81,Alpinia purpurata (pink),101,1,Alpinia
+82,Alpinia purpurata (red),101,1,Alpinia
+83,Alpinia smithiae,101,1,Alpinia
+84,Alpinia zerumbet,101,1,Alpinia
+85,Ambrosia artemisiifolia,15,2,Ambrosia
+86,Ambrosia hispida,15,1,Ambrosia
+87,Ambrosia microcephala,15,1,Ambrosia
+88,Ammodaucus leucotrichus,10,1,Ammodaucus
+89,Ammoides atlantica,11,1,Ammoides
+90,Ammoides pusilla,11,1,Ammoides
+91,Amomum subulatum,101,1,Amomum
+92,Amoora rohituka,55,1,Amoora
+93,Amyris elimifera,84,1,Amyris
+94,Anacardium humile,6,1,Anacardium
+95,Anaphalis contorta,15,1,Anaphalis
+96,Anemia tomentosa var. anthriscifolia,8,1,Anemia
+97,Anethum graveolens,11,1,Anethum
+98,Angelica acutiloba,11,1,Angelica
+99,Angelica archangelica,11,1,Angelica
+100,Angelica glauca,11,1,Angelica
+101,Angelica sylvestris,11,1,Angelica
+102,Aniba riparia,48,1,Aniba
+103,Aniba rosaeodora Ducke,48,1,Aniba
+104,Aniba terminalis,48,1,Aniba
+105,Annona cherimolia,9,1,Annona
+106,Annona glabra,9,1,Annona
+107,Annona montana,9,1,Annona
+108,Annona reticulata L.,9,1,Annona
+109,Anthemis altissima,15,1,Anthemis
+110,Anthemis carpatica,15,1,Anthemis
+111,Anthemis montana,15,1,Anthemis
+112,Anthemis talyshensis,15,1,Anthemis
+113,Anthemis tinctoria L.,15,1,Anthemis
+114,Anthemis triumfettii,15,1,Anthemis
+115,Anthocleista vogelii,52,1,Anthocleista
+116,Anthriscus cerefolium,11,1,Anthriscus
+117,Anvillea garcini,15,1,Anvillea
+118,Apium graueolens,11,1,Apium
+119,Apium graveolens,11,1,Apium
+120,Aquilaria agallocha,93,1,Aquilaria
+121,Arabidopsis thaliana,20,1,Arabidopsis
+122,Argania spinosa,19,1,Argania
+123,Arnica montana,15,1,Arnica
+124,Artedia squamata,11,1,Artedia
+125,Artemesia lobelii,15,1,Artemesia
+126,Artemesia roxburghiana var. purpurascens,15,1,Artemesia
+127,Artemisa haussknechtii,15,1,Artemisa
+128,Artemisia abrotanum,15,1,Artemisia
+129,Artemisia absinthium,15,1,Artemisia
+130,Artemisia afra,15,1,Artemisia
+131,Artemisia annua,15,1,Artemisia
+132,Artemisia arborescens,15,1,Artemisia
+133,Artemisia armeniaca,15,1,Artemisia
+134,Artemisia aucheri,15,1,Artemisia
+135,Artemisia barrelieri,15,1,Artemisia
+136,Artemisia caerulescens ssp. caerulescens,15,1,Artemisia
+137,Artemisia caerulescens ssp. cretacea,15,1,Artemisia
+138,Artemisia campestris,15,1,Artemisia
+139,Artemisia chamaemelifolia,15,1,Artemisia
+140,Artemisia ciniformis,15,1,Artemisia
+141,Artemisia coerulescens,15,1,Artemisia
+142,Artemisia coerulescens ssp. cretacea,15,1,Artemisia
+143,Artemisia copa,15,1,Artemisia
+144,Artemisia densiflora,15,1,Artemisia
+145,Artemisia deserti,15,1,Artemisia
+146,Artemisia diffusa,15,1,Artemisia
+147,Artemisia dracunculus,15,1,Artemisia
+148,Artemisia ferganensis,15,1,Artemisia
+149,Artemisia fragrans,15,1,Artemisia
+150,Artemisia gallica,15,1,Artemisia
+151,Artemisia gmelinii,14,1,Artemisia
+152,Artemisia gypsacea,15,1,Artemisia
+153,Artemisia herba-alba,15,1,Artemisia
+154,Artemisia incana,15,1,Artemisia
+155,Artemisia judaica,15,1,Artemisia
+156,Artemisia kermanensis,15,1,Artemisia
+157,Artemisia khorassanica,15,1,Artemisia
+158,Artemisia kopetdaghensis,15,1,Artemisia
+159,Artemisia lobelii,15,1,Artemisia
+160,Artemisia maritima,14,1,Artemisia
+161,Artemisia myriantha,15,1,Artemisia
+162,Artemisia nilagirica,15,1,Artemisia
+163,Artemisia nilagirica var. Septentrionalis,15,1,Artemisia
+164,Artemisia persica,15,1,Artemisia
+165,Artemisia roxburghiana,14,1,Artemisia
+166,Artemisia santolina,15,1,Artemisia
+167,Artemisia scoparia,15,1,Artemisia
+168,Artemisia sieberi,14,1,Artemisia
+169,Artemisia splendens,15,1,Artemisia
+170,Artemisia stelleriana,14,1,Artemisia
+171,Artemisia subdigitata,15,1,Artemisia
+172,Artemisia verlotiorum,15,2,Artemisia
+173,Artemisia verlotiorum Lamotte,15,1,Artemisia
+174,Artemisia vulgaris,15,1,Artemisia
+175,Artemisia wallichiana,15,1,Artemisia
+176,Artmisia eriantha,15,1,Artmisia
+177,Aspilia africana,15,1,Aspilia
+178,Astartea leptophylla,62,1,Astartea
+179,Astartea sp. nov.,62,1,Astartea
+180,Aster ageratoides,15,1,Aster
+181,Astrodaucus orientalis,11,1,Astrodaucus
+182,Astrodaucus persicus,11,1,Astrodaucus
+183,Astydamia latifolia,11,1,Astydamia
+184,Athamanta sicula,11,1,Athamanta
+185,Athamanta turbith subsp. Haynaldii,11,1,Athamanta
+186,Athamanta turbith subsp. Hungarica,11,1,Athamanta
+187,Athrotaxis cupressoides,32,1,Athrotaxis
+188,Athrotaxis selaginoides,32,1,Athrotaxis
+189,Athrotaxis taxifolia,32,1,Athrotaxis
+190,Atlantia roxburghiana,84,1,Atlantia
+191,Austrocedrus chilensis,32,1,Austrocedrus
+192,Averrhoa carmbola,65,1,Averrhoa
+193,Azilia eryngioedes,11,1,Azilia
+194,Baccharis articulata,15,1,Baccharis
+195,Baccharis articulata (female plant),15,1,Baccharis
+196,Baccharis coridifolia,15,1,Baccharis
+197,Baccharis dracunculifolia,15,1,Baccharis
+198,Baccharis elaeoides,15,1,Baccharis
+199,Baccharis halimifolia,15,1,Baccharis
+200,Baccharis linearis(A),15,1,Baccharis
+201,Baccharis linearis(B),15,1,Baccharis
+202,Baccharis magellanica,15,1,Baccharis
+203,Baccharis obovata,15,1,Baccharis
+204,Baccharis racemosa,15,1,Baccharis
+205,Baccharis salicifolia,15,1,Baccharis
+206,Baccharis spartioides,15,1,Baccharis
+207,Baccharis tenella,15,1,Baccharis
+208,Baccharis tricuneata,15,1,Baccharis
+209,Backhousia enata,62,1,Backhousia
+210,Backhousia myrtifolia,62,1,Backhousia
+211,Backhoustu citriodora,62,1,Backhoustu
+212,Ballota aucheri,47,1,Ballota
+213,Barongia lophandra,62,1,Barongia
+214,Bauhinia ungulata,37,1,Bauhinia
+215,Becium grandiflorum ssp. grandiflorum,47,1,Becium
+216,Berula erecta,11,1,Berula
+217,Bidens alba,15,1,Bidens
+218,Bidens cernua,15,1,Bidens
+219,Bidens gardneri,15,1,Bidens
+220,Bidens pilosa,15,1,Bidens
+221,Bidens sulphurea,15,1,Bidens
+222,Bidens tripartita,15,1,Bidens
+223,Bifora radians,11,1,Bifora
+224,Biota orientalis,32,1,Biota
+225,Bixa orellana,18,1,Bixa
+226,Blepharocalyx gigantea,62,1,Blepharocalyx
+227,Blepharocalyx salicifolius,62,1,Blepharocalyx
+228,Blepharocalyx tweediei,62,1,Blepharocalyx
+229,Bocageopsis multiflora,9,1,Bocageopsis
+230,Boesenbergia pandurata,101,1,Boesenbergia
+231,Bombycilaena erecta,15,1,Bombycilaena
+232,Borago officinalis,19,1,Borago
+233,Bowdichia vigiliodes,37,1,Bowdichia
+234,Brachystegia nigerica,37,1,Brachystegia
+235,Brassica oleracea var. gongylodes,55,1,Brassica
+236,Bryophyllum pinnatum,30,1,Bryophyllum
+237,Bunium cylindricum,11,1,Bunium
+238,Bunium persicum,11,1,Bunium
+239,Bunium persicum (wild type),11,1,Bunium
+240,Bupleurum bicaule,11,1,Bupleurum
+241,Bupleurum chinense,11,1,Bupleurum
+242,Bupleurum fruticosum,11,1,Bupleurum
+243,Bupleurum gibraltarium,11,1,Bupleurum
+244,Bupleurum longicaule,11,1,Bupleurum
+245,Bupleurum malconense,11,1,Bupleurum
+246,Bupleurum marginatum,11,1,Bupleurum
+247,Bupleurum microcephalum,11,1,Bupleurum
+248,Bupleurum rigidum,11,1,Bupleurum
+249,Bupleurum scorzonerifolium,11,1,Bupleurum
+250,Bupleurum smithii,11,1,Bupleurum
+251,Bupleurum wenchuanense,11,1,Bupleurum
+252,Bupleurum yinchowense,11,1,Bupleurum
+253,Bursera aromatica,21,1,Bursera
+254,Bursera hollickii,21,1,Bursera
+255,Bursera microphylla,21,1,Bursera
+256,C. reticulata x C.sinensis,84,1,C.
+257,Cachrys alpina,11,1,Cachrys
+258,Cachrys ferulacea,11,1,Cachrys
+259,Cachrys trifida,11,1,Cachrys
+260,Caesalpinia violacea,62,1,Caesalpinia
+261,Calamintha Nepeta ssp. glandulosa,47,1,Calamintha
+262,Calamintha nepeta,47,1,Calamintha
+263,Calamintha nepeta ssp. nepeta,47,1,Calamintha
+264,Calamintha nepeta ssp. nepeta var. subisodonda,47,1,Calamintha
+265,Calamintha sylvatica,47,1,Calamintha
+266,Calamintha sylvatica ssp. ascendens,47,1,Calamintha
+267,Calamintha tauricola,47,1,Calamintha
+268,Calamintha var.darensis,47,1,Calamintha
+269,Calamintha vardarensis,47,1,Calamintha
+270,Calendula officinalis,15,1,Calendula
+271,Callistemon acuminatus,62,1,Callistemon
+272,Callistemon chisholmii,62,1,Callistemon
+273,Callistemon citrinus,62,1,Callistemon
+274,Callistemon comboynesis,62,1,Callistemon
+275,Callistemon flavovirens,62,1,Callistemon
+276,Callistemon formosus,62,1,Callistemon
+277,Callistemon forresterae,62,1,Callistemon
+278,Callistemon genofluvialis,62,1,Callistemon
+279,Callistemon glaucus,62,1,Callistemon
+280,Callistemon kenmorrisonii,62,1,Callistemon
+281,Callistemon linearifolius,62,1,Callistemon
+282,Callistemon linearis,62,1,Callistemon
+283,Callistemon montanus,62,1,Callistemon
+284,Callistemon pachyphyllus,62,1,Callistemon
+285,Callistemon pallidus,62,1,Callistemon
+286,Callistemon pauciflorus,62,1,Callistemon
+287,Callistemon pearsonii,62,1,Callistemon
+288,Callistemon phoeniceus,62,1,Callistemon
+289,Callistemon pinifolius,62,1,Callistemon
+290,Callistemon pityoides,62,1,Callistemon
+291,Callistemon polandii,62,1,Callistemon
+292,Callistemon pungens,62,1,Callistemon
+293,Callistemon recurvus,62,1,Callistemon
+294,Callistemon rigidus,62,1,Callistemon
+295,Callistemon rugulosus,62,1,Callistemon
+296,Callistemon salignus,62,1,Callistemon
+297,Callistemon shiressii,62,1,Callistemon
+298,Callistemon sieberi,62,1,Callistemon
+299,Callistemon sp.,62,1,Callistemon
+300,Callistemon subulatus,62,1,Callistemon
+301,Callistemon teretifolius,62,1,Callistemon
+302,Callistemon viminalis,62,1,Callistemon
+303,Calycolpus australis,62,1,Calycolpus
+304,Calyptranthes microphylla,62,1,Calyptranthes
+305,Calyptranthes sintenisii,62,1,Calyptranthes
+306,Campomanesia adamantium,62,1,Campomanesia
+307,Campomanesia guaviroba,62,1,Campomanesia
+308,Campomanesia phaea,62,1,Campomanesia
+309,Campomanesia pubescens,62,1,Campomanesia
+310,Campomanesia sessiliflora,62,1,Campomanesia
+311,Campomanesia xanthocarpa,62,1,Campomanesia
+312,Cannabis sativa ssp. Spontanea,23,1,Cannabis
+313,Carduus pycnocephalus,15,1,Carduus
+314,Carica papaya,24,1,Carica
+315,Carum carvi,11,1,Carum
+316,Carum copticum,11,1,Carum
+317,Carum graecum,11,1,Carum
+318,Caryopteris odorata (D. Don),47,1,Caryopteris
+319,Cassinia laevis,15,1,Cassinia
+320,Cassinia quinquefaria,15,1,Cassinia
+321,Cassytha filiformis,48,1,Cassytha
+322,Cassytha pubescens,48,1,Cassytha
+323,Cayratia japonica,98,1,Cayratia
+324,Cedrela odorata,55,2,Cedrela
+325,Cedrus libani,71,1,Cedrus
+326,Cedrus liobani,71,1,Cedrus
+327,Centaurea aphrodisea,15,1,Centaurea
+328,Centaurea athoa,15,1,Centaurea
+329,Centaurea calcitrapa,15,1,Centaurea
+330,Centaurea depressa,15,1,Centaurea
+331,Centaurea hyalolepis,15,1,Centaurea
+332,Centaurea iberica,15,1,Centaurea
+333,Centaurea luschaniana,15,1,Centaurea
+334,Centaurea paniculata,15,1,Centaurea
+335,Centaurea polyclada,15,1,Centaurea
+336,Centaurea solstitialis,15,1,Centaurea
+337,Centaurea tossiensis,15,1,Centaurea
+338,Centaurea wagenitzii,15,1,Centaurea
+339,Centaurea zuvandica,15,1,Centaurea
+340,Centaurium erythraea,38,1,Centaurium
+341,Centratherum punctatum,15,1,Centratherum
+342,Centurea rupestris,15,1,Centurea
+343,Cerastium candidissimum,25,1,Cerastium
+344,Chaerophyllum crinitum,11,1,Chaerophyllum
+345,Chaerophyllum macropodum,11,1,Chaerophyllum
+346,Chaerophyllum macrospermum,11,1,Chaerophyllum
+347,Chaerophyllum prescottii,11,1,Chaerophyllum
+348,Chamaecyparis lawsoniana,32,1,Chamaecyparis
+349,Chamaemelum nobile,15,1,Chamaemelum
+350,Chamomilla recutita,15,1,Chamomilla
+351,Chamomilla recutita (L.),15,1,Chamomilla
+352,Chenopodium ambrosioides,4,1,Chenopodium
+353,Chrysanthemum viscidehirtum,15,1,Chrysanthemum
+354,Chrysopogon aucheri,75,1,Chrysopogon
+355,Chrysothamnus nauseousus var. glabratus,15,1,Chrysothamnus
+356,Chrysothamnus pulchellus,15,1,Chrysothamnus
+357,Chukrasia tabularis,55,1,Chukrasia
+358,Cicer arietinum,37,1,Cicer
+359,Cinammoum verum,48,1,Cinammoum
+360,Cinnamomum angustifolium,48,1,Cinnamomum
+361,Cinnamomum aureofulvum,48,1,Cinnamomum
+362,Cinnamomum durifolium,48,1,Cinnamomum
+363,Cinnamomum fragrans,48,1,Cinnamomum
+364,Cinnamomum iners,48,1,Cinnamomum
+365,Cinnamomum magnifium,48,1,Cinnamomum
+366,Cinnamomum montanum,62,1,Cinnamomum
+367,Cinnamomum sericans,48,1,Cinnamomum
+368,Cinnamomum zeylanicum,48,1,Cinnamomum
+369,Cinnamosma fragrans,22,1,Cinnamosma
+370,Cirsium japonicum,15,1,Cirsium
+371,Cistus ladanifer,26,1,Cistus
+372,Cistus monspeliensis,26,1,Cistus
+373,Citrullus lanatus,31,1,Citrullus
+374,Citrus aurantifolia,84,1,Citrus
+375,Citrus aurantifolia Swingle (Kagzi lime),84,1,Citrus
+376,Citrus aurantium,84,1,Citrus
+377,Citrus aurantium L.,84,1,Citrus
+378,Citrus bergamia,84,1,Citrus
+379,Citrus clementina,84,1,Citrus
+380,Citrus latifolia Tanaka (Seedless lime),84,1,Citrus
+381,Citrus latifolia Tanaka x Citrus aurantifolia Swingle (Hybrid),84,1,Citrus
+382,Citrus limon,84,1,Citrus
+383,Citrus limon L. Burm.,84,1,Citrus
+384,Citrus limon (L.) Burm.,84,1,Citrus
+385,Citrus madurensis,84,1,Citrus
+386,Citrus maxima,84,1,Citrus
+387,Citrus paradisi,84,1,Citrus
+388,Citrus paradisi x C. reticulata,84,1,Citrus
+389,Citrus paradisi Macf.,84,1,Citrus
+390,Citrus sinensis,84,1,Citrus
+391,Citrus sinensis (Hongjiang),84,1,Citrus
+392,Citrus sinensis (Sihui),84,1,Citrus
+393,Citrus sinensis (Washington navel),84,1,Citrus
+394,Citrus sinensis L Osbeck cv Doppio Sanguigno,84,1,Citrus
+395,Citrus sinensis L cv Washington navel,84,1,Citrus
+396,Citrus sinensis(Anliu),84,1,Citrus
+397,Citrus tangerina,84,1,Citrus
+398,Citrus unshiu,84,1,Citrus
+399,Citrus unshiu x Citrus nobilis,84,1,Citrus
+400,Citruslimon,84,1,Citruslimon
+401,Citrussinensis L Osbeck cv Tarocco,84,1,Citrussinensis
+402,Cleome coluteoides,27,1,Cleome
+403,Clinopodium vulgare,47,1,Clinopodium
+404,Clusia nemorasa,28,1,Clusia
+405,Coatesia paniculata,84,1,Coatesia
+406,Coespeletia mortizana,15,1,Coespeletia
+407,Coespeletia spicata,15,1,Coespeletia
+408,Coespeletia thyrsiformis,15,1,Coespeletia
+409,Coleus Aromaticus,47,1,Coleus
+410,Colquhounia coccinea,47,1,Colquhounia
+411,Commiphora myrrha var molmol,21,1,Commiphora
+412,Conyza albida,15,1,Conyza
+413,Conyza canadensis,15,2,Conyza
+414,Conyza canadensis (L.),15,2,Conyza
+415,Conzya bonariensis,15,1,Conzya
+416,Copaifera langsdorffii,37,1,Copaifera
+417,Copaifera langsdorffii Desf.,37,1,Copaifera
+418,Copaifera reticulata,37,1,Copaifera
+419,Cordia leucocephala,19,1,Cordia
+420,Cordia nitida,19,1,Cordia
+421,Coriandrum sativum,11,1,Coriandrum
+422,Coriandrum sativum microcarpum,11,1,Coriandrum
+423,Coriandrum sativum vulgare,11,1,Coriandrum
+424,Coridothymus capitatus,47,1,Coridothymus
+425,Corymbia citriodora,62,1,Corymbia
+426,Couroupita guianensis,49,1,Couroupita
+427,Craniotome furcata,47,1,Craniotome
+428,Crassocephalum biafrae,15,1,Crassocephalum
+429,Crassocephalum bougheyanum,15,1,Crassocephalum
+430,Crassocephalum crepidioides,15,1,Crassocephalum
+431,Crassocephalum mannii,15,1,Crassocephalum
+432,Crassocephalum montuosum,15,1,Crassocephalum
+433,Crassocephalum rubens,15,1,Crassocephalum
+434,Crassocephalum vitellinum,15,1,Crassocephalum
+435,Crinum latifolium,5,1,Crinum
+436,Crithmum maritimum,11,1,Crithmum
+437,Croton cajucara,36,1,Croton
+438,Croton campestris,36,1,Croton
+439,Croton flavens,36,1,Croton
+440,Croton jimenezii,36,1,Croton
+441,Croton oligandrum,36,1,Croton
+442,Croton sacaquinha,36,1,Croton
+443,Croton sonderianus,36,1,Croton
+444,Croton zehntneri Pax et Hoff,36,1,Croton
+445,Cunila angustifolia,47,1,Cunila
+446,Cunila galioides,47,1,Cunila
+447,Cunila spicata,47,1,Cunila
+448,Cupressus arizonica,32,1,Cupressus
+449,Cupressus atlantica,32,1,Cupressus
+450,Cupressus cashmeriana,32,1,Cupressus
+451,Cupressus chengiana,32,1,Cupressus
+452,Cupressus duclouxiana,32,1,Cupressus
+453,Cupressus funebris,32,1,Cupressus
+454,Cupressus guadalupensis,32,1,Cupressus
+455,Cupressus macnabiana,32,1,Cupressus
+456,Cupressus macrocarpa,32,1,Cupressus
+457,Cupressus sempervirens,32,1,Cupressus
+458,Cupressus tonkinensis,32,1,Cupressus
+459,Cupressus torulosa,32,1,Cupressus
+460,Curcuma aeruginosa,101,1,Curcuma
+461,Curcuma angustifolia,101,1,Curcuma
+462,Curcuma haritha,101,1,Curcuma
+463,Curcuma leucorhiza,101,1,Curcuma
+464,Curcuma longa,101,1,Curcuma
+465,Curcuma longa L.,101,1,Curcuma
+466,Cyclotrichium leucotrichum,47,1,Cyclotrichium
+467,Cyclotrichium straussii,47,1,Cyclotrichium
+468,Cyclotrichium strussii,47,1,Cyclotrichium
+469,Cymbocarpum wiedemannii,11,1,Cymbocarpum
+470,Cymbopogan citratus,76,1,Cymbopogan
+471,Cymbopogon afronardus,76,1,Cymbopogon
+472,Cymbopogon citratus,76,1,Cymbopogon
+473,Cymbopogon distans,75,1,Cymbopogon
+474,Cymbopogon flexuosus,40,1,Cymbopogon
+475,Cymbopogon flexuosus (Nees ex Steud.) Wats.,75,1,Cymbopogon
+476,Cymbopogon giganteus,76,1,Cymbopogon
+477,Cymbopogon martini var.martini,76,1,Cymbopogon
+478,Cymbopogon martinii (Roxb.) Wats. var. martinii,76,1,Cymbopogon
+479,Cymbopogon martinii Stapf.,76,1,Cymbopogon
+480,Cymbopogon martinii var. motia,76,1,Cymbopogon
+481,Cymbopogon martinni,76,1,Cymbopogon
+482,Cymbopogon microstachys,76,1,Cymbopogon
+483,Cymbopogon nardus,76,1,Cymbopogon
+484,Cymbopogon nardus (L.) Rendle,76,1,Cymbopogon
+485,Cymbopogon proximus,76,1,Cymbopogon
+486,Cymbopogon winterianus,76,1,Cymbopogon
+487,Cynara cardunculus,15,1,Cynara
+488,Cyperus esculentus,33,2,Cyperus
+489,Cyperus maculatus,33,1,Cyperus
+490,Cyperus rotundus,33,2,Cyperus
+491,Daphnandra apatela,16,1,Daphnandra
+492,Daphnandra johnsonii,16,1,Daphnandra
+493,Daphnandra melasamena,16,1,Daphnandra
+494,Daphnandra micrantha,16,1,Daphnandra
+495,Daphnandra repandula,16,1,Daphnandra
+496,Daphnandra tenuipes,16,1,Daphnandra
+497,Daucus carota,11,1,Daucus
+498,Daucus carota ssp. carota,11,1,Daucus
+499,Daucus carota ssp. sativus var. Koral,11,1,Daucus
+500,Daucus carota ssp. sativus var. Perfekcja,11,1,Daucus
+501,Daucus littoralis,11,1,Daucus
+502,Decaspermum humile,62,1,Decaspermum
+503,Decaspermum struckoilicum,62,1,Decaspermum
+504,Dennettia tripetala,9,1,Dennettia
+505,Desmos goezeanus,9,1,Desmos
+506,Desmos wardianus,9,1,Desmos
+507,Dictamnus albus,84,1,Dictamnus
+508,Dicyclophora persica,11,1,Dicyclophora
+509,Diospyros blancoi,34,1,Diospyros
+510,Diplotaenia cachrydifolia,11,1,Diplotaenia
+511,Dipteryx odorata,37,1,Dipteryx
+512,Dittrichia graveolens,15,1,Dittrichia
+513,Doronicum austriacum,15,1,Doronicum
+514,Dracocephalum aucheri,47,1,Dracocephalum
+515,Dracocephalum kotschyi,47,1,Dracocephalum
+516,Dracocephalum moldavica,47,1,Dracocephalum
+517,Dracocephalum speciosum,47,1,Dracocephalum
+518,Drimys brasiliensis,99,1,Drimys
+519,Ducrosia anethifolia,11,1,Ducrosia
+520,Ducrosia assadii,11,1,Ducrosia
+521,Echinacea purpurea,15,1,Echinacea
+522,Echinophora carvifolia,11,1,Echinophora
+523,Echinophora chysantha,11,1,Echinophora
+524,Echinophora cinerea,11,1,Echinophora
+525,Echinophora lamondiana,11,1,Echinophora
+526,Echinophora orientalis,11,1,Echinophora
+527,Echinophora platyloba,11,1,Echinophora
+528,Echinophora tenuifolia,11,1,Echinophora
+529,Echinophora tenuifolia ssp. sibthorpiana,11,1,Echinophora
+530,Echinophora tournefortii,11,1,Echinophora
+531,Echinophora trichophylla,11,1,Echinophora
+532,Echinops graecus,15,1,Echinops
+533,Echinops ritro,15,1,Echinops
+534,Eclipta indica,15,1,Eclipta
+535,Elettariopsis elan,101,1,Elettariopsis
+536,Elsholtzia blanda,47,1,Elsholtzia
+537,Elsholtzia ciliata,47,1,Elsholtzia
+538,Elsholtzia densa,47,1,Elsholtzia
+539,Elsholtzia fruticosa,47,1,Elsholtzia
+540,Elsholtzia incisa,47,1,Elsholtzia
+541,Elyonurus muticus,76,1,Elyonurus
+542,Eremostachys adenantha,47,1,Eremostachys
+543,Eremostachys macrophylla,47,1,Eremostachys
+544,Erica manipuliflora Salisb.,35,1,Erica
+545,Erichtites hieracifolia,15,1,Erichtites
+546,Erigeron acris,15,1,Erigeron
+547,Erigeron annuus,15,1,Erigeron
+548,Erigeron floribundus,15,1,Erigeron
+549,Eryngium billardieri,11,1,Eryngium
+550,Eryngium bungei,11,1,Eryngium
+551,Eryngium caeruleum,11,1,Eryngium
+552,Eryngium expansum,11,1,Eryngium
+553,Eryngium foetidum,11,1,Eryngium
+554,Eryngium palmatum,11,1,Eryngium
+555,Eryngium paludosum,11,1,Eryngium
+556,Eryngium pandanifolium,11,1,Eryngium
+557,Eryngium paniculatum,11,1,Eryngium
+558,Eryngium rostratum,11,1,Eryngium
+559,Eryngium serbicum,11,1,Eryngium
+560,Eryngium sp nov.,11,1,Eryngium
+561,Eryngium species,11,1,Eryngium
+562,Eryngium vesiculosum,11,1,Eryngium
+563,Eschweilera coriacea,49,1,Eschweilera
+564,Espeletia batata,15,1,Espeletia
+565,Eucalyptus alba,62,1,Eucalyptus
+566,Eucalyptus albens,62,1,Eucalyptus
+567,Eucalyptus blakelyi,62,1,Eucalyptus
+568,Eucalyptus brachyphylla,62,1,Eucalyptus
+569,Eucalyptus camaldulensis,62,1,Eucalyptus
+570,Eucalyptus camaldulensis var. Catharine,62,1,Eucalyptus
+571,Eucalyptus camaldulensis var. mysore,62,1,Eucalyptus
+572,Eucalyptus citriodora,62,1,Eucalyptus
+573,Eucalyptus citriodora x E.torelliana,62,1,Eucalyptus
+574,Eucalyptus cladocalyx,62,1,Eucalyptus
+575,Eucalyptus crucis,62,1,Eucalyptus
+576,Eucalyptus dalrympleana,62,1,Eucalyptus
+577,Eucalyptus dealbata,62,1,Eucalyptus
+578,Eucalyptus deanei,62,1,Eucalyptus
+579,Eucalyptus decaisneana,62,1,Eucalyptus
+580,Eucalyptus deglupta,62,1,Eucalyptus
+581,Eucalyptus dives,62,1,Eucalyptus
+582,Eucalyptus dura,62,1,Eucalyptus
+583,Eucalyptus gigantangion,62,1,Eucalyptus
+584,Eucalyptus globulus,62,1,Eucalyptus
+585,Eucalyptus grandis,62,1,Eucalyptus
+586,Eucalyptus gunnii,62,1,Eucalyptus
+587,Eucalyptus houseana,62,1,Eucalyptus
+588,Eucalyptus intertexta,62,1,Eucalyptus
+589,Eucalyptus kingsmillii,62,1,Eucalyptus
+590,Eucalyptus kruseana,62,1,Eucalyptus
+591,Eucalyptus largiflorens,62,1,Eucalyptus
+592,Eucalyptus leucoxylon,62,1,Eucalyptus
+593,Eucalyptus loxophleba,62,1,Eucalyptus
+594,Eucalyptus macrocarpa,62,1,Eucalyptus
+595,Eucalyptus maculata,62,1,Eucalyptus
+596,Eucalyptus microcorys,62,1,Eucalyptus
+597,Eucalyptus microtheca,62,1,Eucalyptus
+598,Eucalyptus miniata,62,1,Eucalyptus
+599,Eucalyptus nesophila,62,1,Eucalyptus
+600,Eucalyptus nitens,62,1,Eucalyptus
+601,Eucalyptus orbifolia,62,1,Eucalyptus
+602,Eucalyptus ovata,62,1,Eucalyptus
+603,Eucalyptus polycarpa,62,1,Eucalyptus
+604,Eucalyptus propinqua,62,1,Eucalyptus
+605,Eucalyptus punctata,62,1,Eucalyptus
+606,Eucalyptus radiata,62,1,Eucalyptus
+607,Eucalyptus raveretiana,62,1,Eucalyptus
+608,Eucalyptus robusta,62,1,Eucalyptus
+609,Eucalyptus saligna,62,1,Eucalyptus
+610,Eucalyptus sideroxylon,62,1,Eucalyptus
+611,Eucalyptus tereticornis,62,1,Eucalyptus
+612,Eucalyptus torelliana,62,1,Eucalyptus
+613,Eucalyptus urophylla,62,1,Eucalyptus
+614,Eucalyptus viminali,62,1,Eucalyptus
+615,Eucalyptus viridiflora,62,1,Eucalyptus
+616,Eugenia acapulcensis,62,1,Eugenia
+617,Eugenia arenosa,62,1,Eugenia
+618,Eugenia argentea,62,1,Eugenia
+619,Eugenia axillaris,62,1,Eugenia
+620,Eugenia bacopari,62,1,Eugenia
+621,Eugenia beaurepaireana,62,1,Eugenia
+622,Eugenia brasiliensis,62,1,Eugenia
+623,Eugenia burkartiana,62,1,Eugenia
+624,Eugenia catharinensis,62,1,Eugenia
+625,Eugenia chlorophylla,62,1,Eugenia
+626,Eugenia copacabanensis,62,1,Eugenia
+627,Eugenia cuprea,62,1,Eugenia
+628,Eugenia dimorpha,62,1,Eugenia
+629,Eugenia dysenterica,62,1,Eugenia
+630,Eugenia florida,62,1,Eugenia
+631,Eugenia foetida,62,1,Eugenia
+632,Eugenia hyemalis,62,1,Eugenia
+633,Eugenia joenssonii,62,1,Eugenia
+634,Eugenia klappenbachiana,62,1,Eugenia
+635,Eugenia mansoi,62,1,Eugenia
+636,Eugenia mattosii,62,1,Eugenia
+637,Eugenia melanadenia,62,1,Eugenia
+638,Eugenia moraviana,62,1,Eugenia
+639,Eugenia moravianu,62,1,Eugenia
+640,Eugenia multicostata,62,1,Eugenia
+641,Eugenia nitida,62,1,Eugenia
+642,Eugenia octopleura,62,1,Eugenia
+643,Eugenia ovalifolia,62,1,Eugenia
+644,Eugenia pitanga,62,1,Eugenia
+645,Eugenia platysema,62,1,Eugenia
+646,Eugenia pluriflora,62,1,Eugenia
+647,Eugenia punicifolia,62,1,Eugenia
+648,Eugenia pyriformis,62,1,Eugenia
+649,Eugenia ramboi,62,1,Eugenia
+650,Eugenia repanda,62,1,Eugenia
+651,Eugenia rhombea,62,1,Eugenia
+652,Eugenia rocana,62,1,Eugenia
+653,Eugenia rottleriana,62,1,Eugenia
+654,Eugenia rotundifolia,62,1,Eugenia
+655,Eugenia sp.,62,1,Eugenia
+656,Eugenia speciosa,62,1,Eugenia
+657,Eugenia stigmatosa,62,1,Eugenia
+658,Eugenia stipitata,62,1,Eugenia
+659,Eugenia sulcata,62,1,Eugenia
+660,Eugenia umbelliflora,62,1,Eugenia
+661,Eugenia uniflora,62,1,Eugenia
+662,Eugenia uruguayensis,62,1,Eugenia
+663,Eugenia xiriricana,62,1,Eugenia
+664,Eupatorium cannabinum,15,2,Eupatorium
+665,Eupatorium capillifolum,15,1,Eupatorium
+666,Eupatorium coelestinum,15,1,Eupatorium
+667,Eupatorium triplinerve,15,1,Eupatorium
+668,Falcaria falcarioides,11,1,Falcaria
+669,Feijoa sellowiana,62,1,Feijoa
+670,Feroniella lucida,84,1,Feroniella
+671,Ferula assa-foetida,11,1,Ferula
+672,Ferula communis,11,1,Ferula
+673,Ferula galbaniflua,11,1,Ferula
+674,Ferula glauca,11,1,Ferula
+675,Ferula gummosa,11,1,Ferula
+676,Ferula hirtella,11,1,Ferula
+677,Ferula macrocolea,11,1,Ferula
+678,Ferula microcolea,11,1,Ferula
+679,Ferula ovina,11,1,Ferula
+680,Ferula szowitsiana,11,1,Ferula
+681,Ferulago angulata,11,1,Ferulago
+682,Ferulago carduchorum,11,1,Ferulago
+683,Ferulago confusa,11,1,Ferulago
+684,Ferulago contracta,11,1,Ferulago
+685,Ferulago longistylis,11,1,Ferulago
+686,Ferulago phialocarpa,11,1,Ferulago
+687,Ficus benjamina,56,1,Ficus
+688,Fimbristylis falcata,33,1,Fimbristylis
+689,Fitzroya cupressoides,32,1,Fitzroya
+690,Flaveria linearis,15,1,Flaveria
+691,Flourensia cernua,15,1,Flourensia
+692,Foeniculum vulgare,11,1,Foeniculum
+693,Foeniculum vulgare var. dulcis,11,1,Foeniculum
+694,Fortunella japonica,84,1,Fortunella
+695,Fortunella margarita,84,1,Fortunella
+696,Fragaria vesca,82,1,Fragaria
+697,Fritillaria eduardii,51,1,Fritillaria
+698,Fritillaria imperialis 'Lutea x Inodora',51,1,Fritillaria
+699,Fritillaria imperialis 'Lutea',51,1,Fritillaria
+700,Fritillaria imperialis 'Premier',51,1,Fritillaria
+701,Fritillaria imperialis ssp. Inodora,51,1,Fritillaria
+702,Fritillaria raddeana,51,1,Fritillaria
+703,Froriepia subpinnata,11,1,Froriepia
+704,Fuernrohria setifolia,11,1,Fuernrohria
+705,Galatella biflora,15,1,Galatella
+706,Geigeria alata,15,1,Geigeria
+707,Geijera linearifolia,84,1,Geijera
+708,Geijera parviflora,84,1,Geijera
+709,Geijera salicifolia,84,1,Geijera
+710,Genipa americana,83,1,Genipa
+711,Geranium macrorrhizum,39,1,Geranium
+712,Geranium phaeum,39,1,Geranium
+713,Glechoma hederacea,47,1,Glechoma
+714,Glechoma sardoa,47,1,Glechoma
+715,Glycosmis pentaphylla,84,1,Glycosmis
+716,Gmelina arborea,97,1,Gmelina
+717,Gnaphalium philippi,15,1,Gnaphalium
+718,Goniothalamus macrophyllus,9,1,Goniothalamus
+719,Gossypium raimondii,54,1,Gossypium
+720,Grantia aucheri Boiss.,15,1,Grantia
+721,Grindelia humilis,15,1,Grindelia
+722,Grindelia robusta,15,1,Grindelia
+723,Grindelia squarrosa,15,1,Grindelia
+724,Guarea macrophylla Ssp. Tuberculata,55,1,Guarea
+725,Guarea macrophylla Vahl ssp. Tuberculata,55,1,Guarea
+726,Gutierrezia mandonii,15,1,Gutierrezia
+727,Gutierrezia repens,15,1,Gutierrezia
+728,Gymnopodium floribundum Rolfe,79,1,Gymnopodium
+729,Gyrocarpus americanus subsp. Sphenopterus,42,1,Gyrocarpus
+730,Haplophyllum tuberculatum,84,1,Haplophyllum
+731,Hedeoma mandoniana,47,1,Hedeoma
+732,Hedeoma multiflorum,47,1,Hedeoma
+733,Hedychium coccineum,101,2,Hedychium
+734,Hedychium coronarium,101,1,Hedychium
+735,Hedychium coronarium (white variety),101,2,Hedychium
+736,Hedychium flavescens,101,2,Hedychium
+737,Hedychium gardnerianum (pink variety),101,1,Hedychium
+738,Hedychium gardnerianum (yellow variety),101,1,Hedychium
+739,Hedychium larsenii,101,1,Hedychium
+740,Hedychium spicatum,101,1,Hedychium
+741,Helenium amarum,15,2,Helenium
+742,Helenium argentinum,15,1,Helenium
+743,Helichrysum amorginum,15,1,Helichrysum
+744,Helichrysum arenarium,15,1,Helichrysum
+745,Helichrysum artemisioides,15,1,Helichrysum
+746,Helichrysum bracteiferum,15,1,Helichrysum
+747,Helichrysum cordifolium,15,1,Helichrysum
+748,Helichrysum faradifani (Fresh wild plant),15,1,Helichrysum
+749,Helichrysum forsskahlii,15,1,Helichrysum
+750,Helichrysum hypnoides,15,1,Helichrysum
+751,Helichrysum italicum ssp. microphyllum,15,1,Helichrysum
+752,Helichrysum leucocephalum,15,1,Helichrysum
+753,Helichrysum melaleucum,15,1,Helichrysum
+754,Helichrysum rusillonii,15,1,Helichrysum
+755,Helichrysum stoechas,15,1,Helichrysum
+756,Helichrysum stoechas ssp. barrelieri var.spathulatum,15,1,Helichrysum
+757,Hemidesmus indicus,12,1,Hemidesmus
+758,Hemizygia welwitschii,47,1,Hemizygia
+759,Heracleum argaeum,11,1,Heracleum
+760,Heracleum candolleanum,11,1,Heracleum
+761,Heracleum crenatifolium,11,1,Heracleum
+762,Heracleum paphlagonicum,11,1,Heracleum
+763,Heracleum persicum,11,1,Heracleum
+764,Heracleum platytaenium,11,1,Heracleum
+765,Heracleum sphondylium ssp. ternatum,11,1,Heracleum
+766,Hernandia albiflora,42,1,Hernandia
+767,Hernandia bivalvis,42,1,Hernandia
+768,Hernandia nymphaeifolia,42,1,Hernandia
+769,Herniaria incana,25,1,Herniaria
+770,Hesperis bicuspidata,11,1,Hesperis
+771,Hesperis bottae,11,1,Hesperis
+772,Hesperis podocarpa,11,1,Hesperis
+773,Heteromorpha trifoliata,11,1,Heteromorpha
+774,Heteropappus altaicus,15,1,Heteropappus
+775,Heteropyxis natalensis,62,1,Heteropyxis
+776,Heterothalamus alienus,15,1,Heterothalamus
+777,Heterotheca latifolia,15,1,Heterotheca
+778,Hibiscus surattensis (L.),54,1,Hibiscus
+779,Hippia frutescens,15,1,Hippia
+780,Hippomarathrum boissieri,11,1,Hippomarathrum
+781,Hippomarathrum cristatum,11,1,Hippomarathrum
+782,Hippomarathrum microcarpum,11,1,Hippomarathrum
+783,Homalomena sagittifolia,13,1,Homalomena
+784,Homoranthus biflorus,62,1,Homoranthus
+785,Homoranthus binghiensis,62,1,Homoranthus
+786,Homoranthus bornhardtiensis,62,1,Homoranthus
+787,Homoranthus cernuus,62,1,Homoranthus
+788,Homoranthus coracinus,62,1,Homoranthus
+789,Homoranthus croftianus,62,1,Homoranthus
+790,Homoranthus darwinioides,62,1,Homoranthus
+791,Homoranthus decasetus,62,1,Homoranthus
+792,Homoranthus decumbens,62,1,Homoranthus
+793,Homoranthus flavescens,62,1,Homoranthus
+794,Homoranthus floydii,62,1,Homoranthus
+795,Homoranthus homoranthoides,62,1,Homoranthus
+796,Homoranthus lunatus,62,1,Homoranthus
+797,Homoranthus melanostictus,62,1,Homoranthus
+798,Homoranthus montanus,62,1,Homoranthus
+799,Homoranthus papillatus,62,1,Homoranthus
+800,Homoranthus porteri,62,1,Homoranthus
+801,Homoranthus prolixus,62,1,Homoranthus
+802,Homoranthus thomasii,62,1,Homoranthus
+803,Homoranthus tropicus,62,1,Homoranthus
+804,Homoranthus virgatus,62,1,Homoranthus
+805,Homoranthus wilhelmii,62,1,Homoranthus
+806,Homoranthus zeteticorum,62,1,Homoranthus
+807,Hydrocotyle javanica,11,1,Hydrocotyle
+808,Hydrocotyle sibthorpioides,11,1,Hydrocotyle
+809,Hydrocotyle umbellata,11,1,Hydrocotyle
+810,Hymenaea courbaril,37,1,Hymenaea
+811,Hymenocrater calycinus,47,1,Hymenocrater
+812,Hymenocrater elegans,47,1,Hymenocrater
+813,Hymenocrater platystegius,47,1,Hymenocrater
+814,Hyparrhenia rufa,76,1,Hyparrhenia
+815,Hypericum 'Hidcote',28,1,Hypericum
+816,Hypericum brachyphyllum,28,1,Hypericum
+817,Hypericum chapmanii,28,1,Hypericum
+818,Hypericum cordatum,43,1,Hypericum
+819,Hypericum densiflorum,28,1,Hypericum
+820,Hypericum fasciculatum,28,1,Hypericum
+821,Hypericum frondosum,28,1,Hypericum
+822,Hypericum galioides,28,1,Hypericum
+823,Hypericum hircinum,43,1,Hypericum
+824,Hypericum japonicum,43,1,Hypericum
+825,Hypericum lloydii,28,1,Hypericum
+826,Hypericum nitidum ssp. exile,28,1,Hypericum
+827,Hypericum perforatum subsp. veronense,28,2,Hypericum
+828,Hypericum prolificum,28,1,Hypericum
+829,Hypericum tenuifolium,28,1,Hypericum
+830,Hyptidendron canum,47,1,Hyptidendron
+831,Hyptis conferta var. conferta,47,1,Hyptis
+832,Hyptis crenata,47,1,Hyptis
+833,Hyptis emoryi,47,1,Hyptis
+834,Hyptis floribunda,47,1,Hyptis
+835,Hyptis glomerata,47,1,Hyptis
+836,Hyptis marrubioides,47,1,Hyptis
+837,Hyptis martiusii,47,1,Hyptis
+838,Hyptis mutabilis,47,1,Hyptis
+839,Hyptis pectinata,47,2,Hyptis
+840,Hyptis recurvata,47,1,Hyptis
+841,Hyptis spicigera,47,1,Hyptis
+842,Hyptis suaveolens,47,2,Hyptis
+843,Hyptis velutina,47,1,Hyptis
+844,Hyssopus officinalis,47,1,Hyssopus
+845,Hyssopus officinalis ssp. officinalis,47,1,Hyssopus
+846,Ichthyothere cunabi,15,1,Ichthyothere
+847,Ichthyothere terminalis,15,1,Ichthyothere
+848,Illicium griffithii,88,1,Illicium
+849,Inula cuspidata  (Wall. Ex DC.) C.B. Clarke,15,1,Inula
+850,Inula oculus-christi,15,1,Inula
+851,Ipomoea batatas L. cv Beniazuma,29,1,Ipomoea
+852,Ipomoea batatas L. cv Simon 1,29,1,Ipomoea
+853,Ipomoea batatas cv Ayamurasaki,29,1,Ipomoea
+854,Irvingia barter,44,1,Irvingia
+855,Johrenia ramosissima,11,1,Johrenia
+856,Johreniopsis seseloides,11,1,Johreniopsis
+857,Juglans regia L.,45,1,Juglans
+858,Juniperus cedrus (Southern Chemotype),32,1,Juniperus
+859,Juniperus communis putative var. saxatilis,32,1,Juniperus
+860,Juniperus communis var saxatilis,32,1,Juniperus
+861,Juniperus communis var. charlottensis,32,1,Juniperus
+862,Juniperus communis var. jackii,32,1,Juniperus
+863,Juniperus communis var. megistocarpa,32,1,Juniperus
+864,Juniperus macrocarpa,32,1,Juniperus
+865,Juniperus oxycedrus,32,1,Juniperus
+866,Juniperus phoenicea,32,1,Juniperus
+867,Juniperus thurifera,32,1,Juniperus
+868,Juniperus thurifera var. africana,32,1,Juniperus
+869,Kadenia dubia,11,1,Kadenia
+870,Kadsura oblongifolia,88,1,Kadsura
+871,Kaempferia angustifolia,101,1,Kaempferia
+872,Kaempferia galanga,101,1,Kaempferia
+873,Kaempferia rotunda,101,1,Kaempferia
+874,Kelussia odoratissima Mozaff.,10,1,Kelussia
+875,Kitagawia baicalensis,11,1,Kitagawia
+876,Klainedoxa gabonensis,89,1,Klainedoxa
+877,Koanophyllon villosum,15,1,Koanophyllon
+878,Kunzea affinis,62,1,Kunzea
+879,Kunzea ambigua,62,1,Kunzea
+880,Kunzea baxteri,62,1,Kunzea
+881,Kunzea muelleri,62,1,Kunzea
+882,Kunzea parvifolia,62,1,Kunzea
+883,Kunzea sp.,62,1,Kunzea
+884,Laggera pterodonta,15,1,Laggera
+885,Laggera tomentosa,15,1,Laggera
+886,Lallemantia iberica,47,1,Lallemantia
+887,Lallemantia peltata,47,1,Lallemantia
+888,Lantana camara,97,2,Lantana
+889,Lantana fucata,97,1,Lantana
+890,Lantana indica,97,1,Lantana
+891,Lantana involucrata,62,1,Lantana
+892,Lapageria rosea,69,1,Lapageria
+893,Laser trilobum,11,1,Laser
+894,Laserpitium zernyi,11,1,Laserpitium
+895,Laurocerasus occidentalis,82,1,Laurocerasus
+896,Laurus nobilis L.,48,1,Laurus
+897,Lavandula angustifolia,47,1,Lavandula
+898,Lavandula angustifolia (mutant),47,1,Lavandula
+899,Lavandula angustifolia (wild type),47,1,Lavandula
+900,Lavandula coronopofolia,47,1,Lavandula
+901,Lavandula dentata,47,1,Lavandula
+902,Lavandula hybrida,47,1,Lavandula
+903,Lavandula intermedia,47,1,Lavandula
+904,Lavandula latifolia,47,1,Lavandula
+905,Lavandula luisieri,47,1,Lavandula
+906,Lavandula luisieri * Lavandula stoechas (Hybrid),47,1,Lavandula
+907,Lavandula officinalis,46,1,Lavandula
+908,Lavandula stoechas,47,1,Lavandula
+909,Lavandula stoechas ssp. stoechas,47,1,Lavandula
+910,Lavandula stoechas ssp.atlantica,47,1,Lavandula
+911,Lavandula stoechas L. ssp.stoechas,46,1,Lavandula
+912,Lavandula viridis,47,1,Lavandula
+913,Lecythis usitata var. paraensis,49,1,Lecythis
+914,Leonotis ocymifolia,47,1,Leonotis
+915,Lepechinia floribunda,47,1,Lepechinia
+916,Lepechinia graveolens,47,1,Lepechinia
+917,Lepechinia meyeni,47,1,Lepechinia
+918,Lepechinia paniculata,47,1,Lepechinia
+919,Leptocarpha rivularis,15,1,Leptocarpha
+920,Leptospermum citratum sp. Nov.,62,1,Leptospermum
+921,Leptospermum coriaceum,62,1,Leptospermum
+922,Leptospermum fastigiatum,62,1,Leptospermum
+923,Leptospermum liversidgeii,62,1,Leptospermum
+924,Leptospermum nitens,62,1,Leptospermum
+925,Leutea elbursensis,11,1,Leutea
+926,Levisticum officinale,11,1,Levisticum
+927,Licaria puchury-major,48,1,Licaria
+928,Licaria salicifolia,48,1,Licaria
+929,Licaria triandra (Sw.) Kosterm.,48,1,Licaria
+930,Ligusticum mutellina,11,1,Ligusticum
+931,Limnophila chinensis,74,1,Limnophila
+932,Lindera strychnifolia,48,1,Lindera
+933,Lippia alba,97,1,Lippia
+934,Lippia alnifolia,97,1,Lippia
+935,Lippia gracillis,97,1,Lippia
+936,Lippia graveolens,97,1,Lippia
+937,Lippia javanica,97,1,Lippia
+938,Lippia sidoides,97,1,Lippia
+939,Lithraea ternifolia,6,1,Lithraea
+940,Litsea cubeba,48,1,Litsea
+941,Lomatium brandegei,11,1,Lomatium
+942,Lomatium dissectum,11,1,Lomatium
+943,Lomatium eastwoodiae,11,1,Lomatium
+944,Lomatium foeniculaceum ssp. fimbriatum,11,1,Lomatium
+945,Lomatium graveolens,11,1,Lomatium
+946,Lomatium grayi,11,1,Lomatium
+947,Lomatium grayi var. depauperatum,11,1,Lomatium
+948,Lomatium grayi var. grayi,11,1,Lomatium
+949,Lomatium howelii,11,1,Lomatium
+950,Lomatium juncem,11,1,Lomatium
+951,Lomatium nevadense,11,1,Lomatium
+952,Lomatium parryl,11,1,Lomatium
+953,Lomatium rigidum,11,1,Lomatium
+954,Lomatium torreyi,11,1,Lomatium
+955,Lomatopodium khorassanicum,11,1,Lomatopodium
+956,Luma chequen,62,1,Luma
+957,Lychnophora pinaster,15,1,Lychnophora
+958,Lycopus australis,47,1,Lycopus
+959,Maclura pomifera,56,1,Maclura
+960,Mahonia japonica,17,1,Mahonia
+961,Malabaila aurea,11,1,Malabaila
+962,Malus domestica,82,1,Malus
+963,Manilkara achras,87,1,Manilkara
+964,Mantisalca duriaei,15,1,Mantisalca
+965,Marchesinia mackaii,50,1,Marchesinia
+966,Margyricarpus pinnatus,82,1,Margyricarpus
+967,Marlierea eugeniopsoides,62,1,Marlierea
+968,Marlierea obscura,62,1,Marlierea
+969,Marlierea silvatica,62,1,Marlierea
+970,Marlierea tomentosa,62,1,Marlierea
+971,Marrubium anisodon,47,1,Marrubium
+972,Marrubium astracanicum,47,1,Marrubium
+973,Marrubium bourgaei ssp. caricum,47,1,Marrubium
+974,Marrubium crassidens,47,1,Marrubium
+975,Marrubium parviflorum,47,1,Marrubium
+976,Marrubium peregrinum,47,1,Marrubium
+977,Marrubium propinquum,47,1,Marrubium
+978,Marrubium vulgare,47,1,Marrubium
+979,Marsypianthes chamaedrys,47,1,Marsypianthes
+980,Melaleuca alternifolia,62,1,Melaleuca
+981,Melaleuca alternifolia Cheel.,62,1,Melaleuca
+982,Melaleuca armillaris,62,1,Melaleuca
+983,Melaleuca atroviridis,62,1,Melaleuca
+984,Melaleuca bracteata,62,1,Melaleuca
+985,Melaleuca cajuputi,62,1,Melaleuca
+986,Melaleuca concreta,62,1,Melaleuca
+987,Melaleuca deanei,62,1,Melaleuca
+988,Melaleuca decussata,62,1,Melaleuca
+989,Melaleuca ericifolia,62,1,Melaleuca
+990,Melaleuca exuvia,62,1,Melaleuca
+991,Melaleuca hamata,62,1,Melaleuca
+992,Melaleuca interioris,62,1,Melaleuca
+993,Melaleuca leucadendra,62,1,Melaleuca
+994,Melaleuca linarifolia,62,1,Melaleuca
+995,Melaleuca minutifolia,62,1,Melaleuca
+996,Melaleuca monantha,62,1,Melaleuca
+997,Melaleuca quinquenervia,62,2,Melaleuca
+998,Melaleuca quinquenervia (Cav.) S. T. Blake,62,1,Melaleuca
+999,Melaleuca quinquenervia (Cav.) S.T. Blake,62,1,Melaleuca
+1000,Melaleuca scalena,62,1,Melaleuca
+1001,Melaleuca squamophloia,62,1,Melaleuca
+1002,Melaleuca stereophloia,62,1,Melaleuca
+1003,Melaleuca styphelioides,62,1,Melaleuca
+1004,Melaleuca sylvana,62,1,Melaleuca
+1005,Melaleuca teretifolia,62,1,Melaleuca
+1006,Melaleuca uncinata,62,1,Melaleuca
+1007,Melaleuca uxorum,62,1,Melaleuca
+1008,Melaleuca vinnula,62,1,Melaleuca
+1009,Melaleuca viridiflora Soland,62,1,Melaleuca
+1010,Melaleuca zeteticoru,62,1,Melaleuca
+1011,Melampodium camphoratum,15,1,Melampodium
+1012,Melicocca bijuga,86,1,Melicocca
+1013,Melinis minutiflora,76,1,Melinis
+1014,Melissa officinalis,47,1,Melissa
+1015,Melissa officinalis L.,47,1,Melissa
+1016,Melissa romana,47,1,Melissa
+1017,Mentha Pulegium,47,1,Mentha
+1018,Mentha aff. arvensis,47,1,Mentha
+1019,Mentha aff. rotundifolia,47,1,Mentha
+1020,Mentha aquatica,47,1,Mentha
+1021,Mentha arvensis,46,1,Mentha
+1022,Mentha arvensis f. piperascens,47,1,Mentha
+1023,Mentha canadensis,47,1,Mentha
+1024,Mentha citrata,46,1,Mentha
+1025,Mentha gracilis,47,1,Mentha
+1026,Mentha grandiflora,47,1,Mentha
+1027,Mentha longifolia,47,1,Mentha
+1028,Mentha longifolia :Mzin5,47,1,Mentha
+1029,Mentha longifolia :Mzin6,47,1,Mentha
+1030,Mentha longifolia ssp. schimperi,47,1,Mentha
+1031,Mentha longifolia var. asiatica,47,1,Mentha
+1032,Mentha microphylla,47,1,Mentha
+1033,Mentha mozaffarianii,47,1,Mentha
+1034,Mentha piperita,47,1,Mentha
+1035,Mentha rotundifolia,47,1,Mentha
+1036,Mentha sachalinensis,47,1,Mentha
+1037,Mentha spicata,47,1,Mentha
+1038,Mentha spicata:Mzin1,47,1,Mentha
+1039,Mentha spicata:Mzin3,47,1,Mentha
+1040,Mentha spicata:Mzin7,47,1,Mentha
+1041,Mentha spicata L.,46,1,Mentha
+1042,Mentha spp (hybrid),47,1,Mentha
+1043,Mentha x piperita,46,1,Mentha
+1044,Mentha × piperita,47,1,Mentha
+1045,Mentha longifolia L.,46,1,Mentha longifolia L.
+1046,Meriandra bengalensis,47,1,Meriandra
+1047,Messerschmidia sibirica,19,1,Messerschmidia
+1048,Meum athamanticum,11,1,Meum
+1049,Microcitrus australasica var. sanguinea,84,1,Microcitrus
+1050,Microglossa pyrrhopappa,15,1,Microglossa
+1051,Micromeria biflora,47,1,Micromeria
+1052,Micromeria cremnophila,47,1,Micromeria
+1053,Micromeria cristata,47,1,Micromeria
+1054,Micromeria cristata ssp. phrygia,47,1,Micromeria
+1055,Micromeria dalmatica,47,1,Micromeria
+1056,Micromeria juliana,47,1,Micromeria
+1057,Micromeria juriana,47,1,Micromeria
+1058,Micromeria kosaninii,47,1,Micromeria
+1059,Micromeria libanotica,47,1,Micromeria
+1060,Micromeria nubigena,47,1,Micromeria
+1061,Micromeria parviflora,47,1,Micromeria
+1062,Micromeria persica,47,1,Micromeria
+1063,Micromeria pseudocroatica,47,1,Micromeria
+1064,Micromeria thymifolia,47,1,Micromeria
+1065,Microtoena patchoulii,47,1,Microtoena
+1066,Mikania burchellii,15,1,Mikania
+1067,Mikania cordata,15,1,Mikania
+1068,Mikania glomerata,15,1,Mikania
+1069,Mikania hirsutissima,15,1,Mikania
+1070,Mikania involucrata,15,1,Mikania
+1071,Mikania laevigata,15,1,Mikania
+1072,Mikania micrantha,15,1,Mikania
+1073,Mikania paranensis,15,1,Mikania
+1074,Mikania sp.nov.,15,1,Mikania
+1075,Minthostachys verticillata,47,1,Minthostachys
+1076,Mintosthachys mollis,47,1,Mintosthachys
+1077,Mitranthes ottonis,62,1,Mitranthes
+1078,Mitrantia bilocularis,62,1,Mitrantia
+1079,Monarda citriodora var. citriodora,47,1,Monarda
+1080,Monarda didyma,47,1,Monarda
+1081,Monodora myristica,62,1,Monodora
+1082,Montanoa tomentosa,15,1,Montanoa
+1083,Morella pubescens,62,1,Morella
+1084,Morina longifolia,57,1,Morina
+1085,Mosiera ehrenbergii,62,1,Mosiera
+1086,Mosiera longipes,62,1,Mosiera
+1087,Murraya koenigii,84,1,Murraya
+1088,Musa sapientum,58,1,Musa
+1089,Myrceugenia alpigena,62,1,Myrceugenia
+1090,Myrceugenia campestris,62,1,Myrceugenia
+1091,Myrceugenia glaucescens,62,1,Myrceugenia
+1092,Myrceugenia mesomischa,62,1,Myrceugenia
+1093,Myrceugenia miersiana,62,1,Myrceugenia
+1094,Myrceugenia myrcioides,62,1,Myrceugenia
+1095,Myrcia aff fosteri,62,1,Myrcia
+1096,Myrcia laruotteana,62,1,Myrcia
+1097,Myrcianthes coquimbensis,62,1,Myrcianthes
+1098,Myrcianthes fragrans,62,1,Myrcianthes
+1099,Myrcianthes osteomeloides,62,1,Myrcianthes
+1100,Myrcianthes pseudomato,62,1,Myrcianthes
+1101,Myrciaria dubia,62,1,Myrciaria
+1102,Myrciaria floribunda,62,1,Myrciaria
+1103,Myrciaria tenella,62,1,Myrciaria
+1104,Myrica gale,59,1,Myrica
+1105,Myristica fragrans,60,1,Myristica
+1106,Myrothamnus moschatus,61,1,Myrothamnus
+1107,Myrrhis odorata,11,1,Myrrhis
+1108,Myrrhoides nodosa,11,1,Myrrhoides
+1109,Myrtus communis,62,1,Myrtus
+1110,Myrtus communis (in vitro),62,1,Myrtus
+1111,Myrtus communis var. italica,62,1,Myrtus
+1112,Nashia inaguensis,97,1,Nashia
+1113,Nasturtium officinale,20,1,Nasturtium
+1114,Neofinetia falcata,64,1,Neofinetia
+1115,Neolitsea Brassii,48,1,Neolitsea
+1116,Neolitsea australiensis,48,1,Neolitsea
+1117,Neolitsea dealbata (Northern),48,1,Neolitsea
+1118,Neolitsea dealbata (Southern),48,1,Neolitsea
+1119,Neolitsea fischeri,48,1,Neolitsea
+1120,Neomitranthes obscura,62,1,Neomitranthes
+1121,Nepefa befonicifolia,47,1,Nepefa
+1122,Nepeta asterotrichus,47,1,Nepeta
+1123,Nepeta betonicifolia,47,1,Nepeta
+1124,Nepeta bornmuelleri,47,1,Nepeta
+1125,Nepeta bracteata,47,1,Nepeta
+1126,Nepeta cataria,47,1,Nepeta
+1127,Nepeta cephalotes,47,1,Nepeta
+1128,Nepeta curviflora,47,1,Nepeta
+1129,Nepeta denudata,47,1,Nepeta
+1130,Nepeta elymatica,47,1,Nepeta
+1131,Nepeta fissa,47,1,Nepeta
+1132,Nepeta gloeocephala,47,1,Nepeta
+1133,Nepeta glomerulosa,47,1,Nepeta
+1134,Nepeta govaniana,47,1,Nepeta
+1135,Nepeta haussknechtii,47,1,Nepeta
+1136,Nepeta heliotropifolia,47,1,Nepeta
+1137,Nepeta kotschyi,47,1,Nepeta
+1138,Nepeta makuensis,47,1,Nepeta
+1139,Nepeta menthoides,47,1,Nepeta
+1140,Nepeta meyeri,47,1,Nepeta
+1141,Nepeta mirzayanii,47,1,Nepeta
+1142,Nepeta nuda,47,1,Nepeta
+1143,Nepeta pannonica,47,1,Nepeta
+1144,Nepeta pogonosperma,47,1,Nepeta
+1145,Nepeta racemosa,47,1,Nepeta
+1146,Nepeta rtanjensis,47,1,Nepeta
+1147,Nepeta rtanjensis (cultivated),47,1,Nepeta
+1148,Nepeta rtanjensis (wild growing),47,1,Nepeta
+1149,Nepeta sessilifolia,47,1,Nepeta
+1150,Nepeta sibirica,47,1,Nepeta
+1151,Nepeta sulfuriflora,47,1,Nepeta
+1152,Nepeta trachonitica,47,1,Nepeta
+1153,Nicotiana tabacum,91,1,Nicotiana
+1154,Nigella damascena,80,1,Nigella
+1155,Nigella sativa L.,80,1,Nigella
+1156,Nigritella nigra,64,1,Nigritella
+1157,Ochrosperma lineare,62,1,Ochrosperma
+1158,Ocimum adscendens,46,1,Ocimum
+1159,Ocimum americanum,62,1,Ocimum
+1160,Ocimum basilicum,47,1,Ocimum
+1161,Ocimum basilicum 'Fino Verde',47,1,Ocimum
+1162,Ocimum basilicum Anise,46,1,Ocimum
+1163,Ocimum basilicum L,47,1,Ocimum
+1164,Ocimum basilicum ‘Genovese’,46,1,Ocimum
+1165,Ocimum basilicum Bush green,46,1,Ocimum
+1166,Ocimum basilicum L.,46,1,Ocimum
+1167,Ocimum basilicum Purple Ruffle,46,1,Ocimum
+1168,Ocimum ciliatum Hornem,47,1,Ocimum
+1169,Ocimum gratissimum,47,1,Ocimum
+1170,Ocimum gratissimum chemovar. I,47,1,Ocimum
+1171,Ocimum gratissium,62,1,Ocimum
+1172,Ocimum grattisimum,46,1,Ocimum
+1173,Ocimum kilimandscharicum,46,1,Ocimum
+1174,Ocimum micranthum,47,1,Ocimum
+1175,Ocimum micranthum Wild.,47,1,Ocimum
+1176,Ocimum minimum,47,1,Ocimum
+1177,Ocimum sanctum,47,1,Ocimum
+1178,Ocimum selloi,47,1,Ocimum
+1179,Ocimum tenuiflorum,47,1,Ocimum
+1180,Oenanthe crocata,11,2,Oenanthe
+1181,Oenanthe divaricata,11,1,Oenanthe
+1182,Oliveria decumbens,11,1,Oliveria
+1183,Ononis natrix,37,1,Ononis
+1184,Ophryosporus heptanthus,15,1,Ophryosporus
+1185,Origanum acutidens,47,1,Origanum
+1186,Origanum adanense,47,1,Origanum
+1187,Origanum bargyli,47,1,Origanum
+1188,Origanum basilicum,47,1,Origanum
+1189,Origanum bastetanum,47,1,Origanum
+1190,Origanum boissieri,47,1,Origanum
+1191,Origanum calcaratum,47,1,Origanum
+1192,Origanum cordifolium,47,1,Origanum
+1193,Origanum dayi,47,1,Origanum
+1194,Origanum dictamnus,47,1,Origanum
+1195,Origanum ehrenbergii,47,1,Origanum
+1196,Origanum elongatum,47,1,Origanum
+1197,Origanum floribundum,47,1,Origanum
+1198,Origanum husnucan-baserii,47,1,Origanum
+1199,Origanum hypericifolium,47,1,Origanum
+1200,Origanum intercedens,47,1,Origanum
+1201,Origanum leptocladum,47,1,Origanum
+1202,Origanum libanoticum,47,1,Origanum
+1203,Origanum majorana,47,1,Origanum
+1204,Origanum majoricum,47,1,Origanum
+1205,Origanum micranthum,47,1,Origanum
+1206,Origanum minoanum,47,1,Origanum
+1207,Origanum minutiflorum,47,1,Origanum
+1208,Origanum onites,47,1,Origanum
+1209,Origanum saccatum,47,1,Origanum
+1210,Origanum scabrum,47,1,Origanum
+1211,Origanum solymicum,47,1,Origanum
+1212,Origanum spp.,47,1,Origanum
+1213,Origanum syriacum,47,1,Origanum
+1214,Origanum vulgare,47,1,Origanum
+1215,Origanum vulgare ssp. hirtum,47,1,Origanum
+1216,Origanum vulgare ssp. virens,47,1,Origanum
+1217,Origanum vulgare ssp. viridulum,47,1,Origanum
+1218,Origanum vulgare ssp. vulgare,47,1,Origanum
+1219,Orthodon dianthera,47,1,Orthodon
+1220,Osmanthus fragrans,63,1,Osmanthus
+1221,Otanthus maritimus,15,1,Otanthus
+1222,Otostegia michauxii,47,1,Otostegia
+1223,Oxytropis falcate,37,1,Oxytropis
+1224,Ozothamnus diosmifolius,15,1,Ozothamnus
+1225,Paeonia emodi,66,1,Paeonia
+1226,Pandanus fascicularis Lam. var.fasicularis (Kewada),67,1,Pandanus
+1227,Pandanus fascicularis Lam. var.ketaki,67,1,Pandanus
+1228,Pandanus odoratissimus,67,1,Pandanus
+1229,Parthenium hysterophorus,15,2,Parthenium
+1230,Pectis apodocephala,15,1,Pectis
+1231,Pectis floribunda,15,1,Pectis
+1232,Pectis oligocephala,15,1,Pectis
+1233,Pelargonium graveolens,39,1,Pelargonium
+1234,Pelargonium graveolens L’Her ex Ait.,39,1,Pelargonium
+1235,Pentaceras australe,84,1,Pentaceras
+1236,Pentapleura subulifera,47,1,Pentapleura
+1237,Peperomia pellucida (L.) Kunth,72,1,Peperomia pellucida (L.)
+1238,Perilla frutescens,47,1,Perilla
+1239,Perovskia abrotanoides,47,1,Perovskia
+1240,Perovskia atriplicifolia,47,1,Perovskia
+1241,Persea (Chemovar 'aguacate de anis'),48,1,Persea
+1242,Persea americana 'California',48,1,Persea
+1243,Persea americana 'Haas',48,1,Persea
+1244,Persea americana var. americana cult. Trapp,48,1,Persea
+1245,Persea americana var. drymfolia,48,1,Persea
+1246,Persea americana var. floccosa,48,1,Persea
+1247,Persea americana var. guatemalensis cult. Nimlioh,48,1,Persea
+1248,Persea americana var. nubigena,48,1,Persea
+1249,Persea americana var. steyermarkii,48,1,Persea
+1250,Persea primatogena,48,1,Persea
+1251,Persea schiedeana,48,1,Persea
+1252,Petiveria alliacea,70,1,Petiveria
+1253,Petroselinum crispum,11,1,Petroselinum
+1254,Peucedanum cervariifolium,11,1,Peucedanum
+1255,Peucedanum officinale,11,1,Peucedanum
+1256,Peucedanum scoparium,11,1,Peucedanum
+1257,Phania cajalbanica,15,1,Phania
+1258,Phellodendron chinense,84,1,Phellodendron
+1259,Phellolophium madagascariensis,11,1,Phellolophium
+1260,Philodendron acutatum,13,1,Philodendron
+1261,Philodendron fragrantissimum,13,1,Philodendron
+1262,Philodendron imbe,13,1,Philodendron
+1263,Phlomis aucheri,47,1,Phlomis
+1264,Phlomis bourgaei,47,1,Phlomis
+1265,Phlomis bracteosa,47,1,Phlomis
+1266,Phlomis cancellata,47,1,Phlomis
+1267,Phlomis chimerae,47,1,Phlomis
+1268,Phlomis elliptica,47,1,Phlomis
+1269,Phlomis fruticosa,47,1,Phlomis
+1270,Phlomis herba-venti,47,1,Phlomis
+1271,Phlomis nissolii,47,1,Phlomis
+1272,Phlomis olivieri,47,1,Phlomis
+1273,Phlomis persica,47,1,Phlomis
+1274,Phlomis pungens,47,1,Phlomis
+1275,Phlomis rigida,47,1,Phlomis
+1276,Phlomis samia,47,1,Phlomis
+1277,Phlomis x vuralii,47,1,Phlomis
+1278,Physocaulis nodosus,11,1,Physocaulis
+1279,Pilgerodendron uviferum,32,1,Pilgerodendron
+1280,Pilocarpus jaborandi (pop1),84,1,Pilocarpus
+1281,Pilocarpus jaborandi (pop2),84,1,Pilocarpus
+1282,Pilocarpus spicatus,84,1,Pilocarpus
+1283,Pilocarpus trachyllophus (pop1),84,1,Pilocarpus
+1284,Pilocarpus trachyllophus (pop2),84,1,Pilocarpus
+1285,Pilocarpus trachyllophus (pop3),84,1,Pilocarpus
+1286,Pimenta adenoclada,62,1,Pimenta
+1287,Pimenta dioica,62,1,Pimenta
+1288,Pimenta pseudocaryophyllus,62,1,Pimenta
+1289,Pimpinella acuminata,11,1,Pimpinella
+1290,Pimpinella affinis,11,1,Pimpinella
+1291,Pimpinella anisactis,11,1,Pimpinella
+1292,Pimpinella anisetum,11,1,Pimpinella
+1293,Pimpinella anisum,11,1,Pimpinella
+1294,Pimpinella aurea,11,1,Pimpinella
+1295,Pimpinella barbata,11,1,Pimpinella
+1296,Pimpinella saxifraga,11,1,Pimpinella
+1297,Pimpinella tragioides,11,1,Pimpinella
+1298,Pinus caribaea,71,1,Pinus
+1299,Pinus insularis,71,1,Pinus
+1300,Pinus laricio,71,1,Pinus
+1301,Pinus marcusii,71,1,Pinus
+1302,Pinus sylvestris,71,1,Pinus
+1303,Piper barbatum,72,1,Piper
+1304,Piper borbonense,72,1,Piper
+1305,Piper capense,72,1,Piper
+1306,Piper cernum,72,1,Piper
+1307,Piper chaba,72,1,Piper
+1308,Piper dactylostigmum,72,1,Piper
+1309,Piper divaricatum,72,1,Piper
+1310,Piper longum,72,1,Piper
+1311,Piper mikanianum,72,1,Piper
+1312,Piper nigrum,72,1,Piper
+1313,Piper nigrum 'Arakulam Munda',72,1,Piper
+1314,Piper nigrum 'Cheriakaniakadan',72,1,Piper
+1315,Piper nigrum 'Kalluvally',72,1,Piper
+1316,Piper nigrum 'Karimunda',72,1,Piper
+1317,Piper nigrum 'Kottandan',72,1,Piper
+1318,Piper nigrum 'Kuthiravally',72,1,Piper
+1319,Piper nigrum 'Ottaplackal',72,1,Piper
+1320,Piper nigrum 'Thommankodi',72,1,Piper
+1321,Piper officinarum,72,1,Piper
+1322,Piper ossanum,72,1,Piper
+1323,Piper plurinervosum,72,1,Piper
+1324,Piper vitaceum,72,1,Piper
+1325,Pistacia atlantica,6,1,Pistacia
+1326,Pistacia lentiscua,6,1,Pistacia
+1327,Pistacia lentiscus,7,1,Pistacia
+1328,Pitaviaster haplophyllus,84,1,Pitaviaster
+1329,Pittosporum tobira,73,1,Pittosporum
+1330,Pittosporum viridiflorum var. viridiflorum,73,1,Pittosporum
+1331,Pituranthos scoparius,11,1,Pituranthos
+1332,Platonia insignis,28,1,Platonia
+1333,Plectranthus amboinicus,47,1,Plectranthus
+1334,Plectranthus barbatus,47,1,Plectranthus
+1335,Plectranthus melissoides,47,1,Plectranthus
+1336,Plectranthus neochilus,47,1,Plectranthus
+1337,Plinia dermatodes,62,1,Plinia
+1338,Plinia rubrinervis,62,1,Plinia
+1339,Pluchea carolinensis,15,1,Pluchea
+1340,Pluchea purpurascens,15,1,Pluchea
+1341,Pluchea rosea,15,1,Pluchea
+1342,Podachaenium eminens,15,1,Podachaenium
+1343,Pogostemon cablin,47,1,Pogostemon
+1344,Pogostemon cablin mutant 'PM-12',47,1,Pogostemon
+1345,Pogostemon heyneanus,47,1,Pogostemon
+1346,Pogostemon travancoricus var travancoricus,47,1,Pogostemon
+1347,Polygala cyparissias,78,1,Polygala
+1348,Polygala paniculata,78,1,Polygala
+1349,Polylepis besseri,82,1,Polylepis
+1350,Polymnia sonchifolia,15,1,Polymnia
+1351,Pophryosporus pinifolius,15,1,Pophryosporus
+1352,Porophyllum ruderale,15,1,Porophyllum
+1353,Portenschlagiella ramosissima,11,1,Portenschlagiella
+1354,Portlandia  latifolia,83,1,Portlandia
+1355,Portlandia albiflora,83,1,Portlandia
+1356,Portlandia coccinea,83,1,Portlandia
+1357,Portlandia grandiflora,83,1,Portlandia
+1358,Portlandia proctorii,83,1,Portlandia
+1359,Potentilla grandiflora,82,1,Potentilla
+1360,Pouroma cecropiifolia,95,1,Pouroma
+1361,Pouroma mollis,95,1,Pouroma
+1362,Pouroma velutina,95,1,Pouroma
+1363,Pourouma cecropiifolia,95,1,Pourouma
+1364,Prangos acaulis,11,1,Prangos
+1365,Prangos bornmuelleri,11,1,Prangos
+1366,Prangos denticulata,11,1,Prangos
+1367,Prangos ferulacea,11,1,Prangos
+1368,Prangos latiloba,11,1,Prangos
+1369,Prangos uechtritzii,11,1,Prangos
+1370,Prangos uloptera,11,1,Prangos
+1371,Prostanthera staurophylla,47,1,Prostanthera
+1372,Protium apiculatum,21,1,Protium
+1373,Protium grandifolium,21,1,Protium
+1374,Protium hebetatum,21,1,Protium
+1375,Protium heptaphyllum,21,1,Protium
+1376,Protium paniculatum,21,1,Protium
+1377,Protium spruceanum,21,1,Protium
+1378,Protium strumosum,21,1,Protium
+1379,Protium tenuifolium,21,1,Protium
+1380,Prunus phaeosticta var. phaeosticta,82,1,Prunus
+1381,Pseudobrickellia brasiliensis,14,1,Pseudobrickellia
+1382,Psiadia arguta,15,1,Psiadia
+1383,Psiadia lucida,15,1,Psiadia
+1384,Psidium cattleianum,62,2,Psidium
+1385,Psidium cattleianum sabine,62,1,Psidium
+1386,Psidium cymosum,62,1,Psidium
+1387,Psidium friedrichsthalianum (Berg) Niedenzu,62,1,Psidium
+1388,Psidium guajava,62,1,Psidium
+1389,Psidium guajava L.,62,1,Psidium
+1390,Psidium guineense,62,1,Psidium
+1391,Psidium guineense Sw.,62,1,Psidium
+1392,Psidium myrsinites DC.,62,1,Psidium
+1393,Psidium myrsinoides,62,1,Psidium
+1394,Psidium parvifolium,62,1,Psidium
+1395,Psidium salutare,62,1,Psidium
+1396,Psidium sartorianum (Berg) Niedenzu,62,1,Psidium
+1397,Psidium wrightii,62,1,Psidium
+1398,Psorothamnus scoparius,37,1,Psorothamnus
+1399,Pterocarya fraxinifolia,45,1,Pterocarya
+1400,Pteryxia terebinthina var. californica,11,1,Pteryxia
+1401,Pulicaria dysenterica,15,1,Pulicaria
+1402,Pulicaria glutinosa,15,1,Pulicaria
+1403,Pycnocycla aucherana,11,1,Pycnocycla
+1404,Pycnocycla bashagardiana,11,1,Pycnocycla
+1405,Pycnocycla musiformis,11,1,Pycnocycla
+1406,Pycnocycla nodiflora,11,1,Pycnocycla
+1407,Pycnocycla spinosa,11,1,Pycnocycla
+1408,Rabdosia melissoides,47,1,Rabdosia
+1409,Ravensara aromatica,48,1,Ravensara
+1410,Renealmia sp.,101,1,Renealmia
+1411,Rhabdosciadium petiolare,11,1,Rhabdosciadium
+1412,Rhododendron anthopogon,35,1,Rhododendron
+1413,Rhododendron lepidotum,35,1,Rhododendron
+1414,Ribes nigrum,41,1,Ribes
+1415,Ricinus communis,36,1,Ricinus
+1416,Ridolfia segetum,11,1,Ridolfia
+1417,Ristantia gouldii,62,1,Ristantia
+1418,Ristantia pachysperma,62,1,Ristantia
+1419,Ristantia waterhousei,62,1,Ristantia
+1420,Rollinia mucosa,9,1,Rollinia
+1421,Rosa abyssinica,82,1,Rosa
+1422,Rosa bourboniana,82,1,Rosa
+1423,Rosa brunonii Lindl.,82,1,Rosa
+1424,Rosa damascena,82,1,Rosa
+1425,Rosa foetida Herrm.,82,1,Rosa
+1426,Rosamarinus officinalis,47,1,Rosamarinus
+1427,Rosmarinus eriocalyx,47,1,Rosmarinus
+1428,Rosmarinus officinalis,47,1,Rosmarinus
+1429,Rosmarinus officinalis L.,47,1,Rosmarinus
+1430,Rosmarinus officinalis ecotype A,47,1,Rosmarinus
+1431,Rubus ulmifolius,82,1,Rubus
+1432,Russowia sogdiana,15,1,Russowia
+1433,Ruta chalepensis,84,1,Ruta
+1434,Ruta graveolens,84,1,Ruta
+1435,Rynchosia minima,68,1,Rynchosia
+1436,Saccocalyx satureioides,47,1,Saccocalyx
+1437,Salvia aethiopis,47,1,Salvia
+1438,Salvia amplexicaulis,47,1,Salvia
+1439,Salvia angulata,47,1,Salvia
+1440,Salvia apiana,47,1,Salvia
+1441,Salvia atropatana,47,1,Salvia
+1442,Salvia aucheri var. aucheri,47,1,Salvia
+1443,Salvia aucheri var. candescens,47,1,Salvia
+1444,Salvia aucheri var. canescens,47,1,Salvia
+1445,Salvia aytacbii,47,1,Salvia
+1446,Salvia ballsiana,46,1,Salvia
+1447,Salvia brachyodon,47,1,Salvia
+1448,Salvia brachysiphon,47,1,Salvia
+1449,Salvia chudaei Batt. et Trab.,46,1,Salvia
+1450,Salvia compressa,47,1,Salvia
+1451,Salvia cryptantha,47,1,Salvia
+1452,Salvia cyanescens,46,1,Salvia
+1453,Salvia divaricata,46,1,Salvia
+1454,Salvia eremophila,47,1,Salvia
+1455,Salvia euphratica var. euphratica,47,1,Salvia
+1456,Salvia euphratica var. leiocalycina,47,1,Salvia
+1457,Salvia fruticosa,47,1,Salvia
+1458,Salvia glutinosa,47,1,Salvia
+1459,Salvia hydrangea,47,1,Salvia
+1460,Salvia hypoleuca,47,1,Salvia
+1461,Salvia kronenburgii,46,1,Salvia
+1462,Salvia lereifolia,47,1,Salvia
+1463,Salvia leucantha,47,1,Salvia
+1464,Salvia limbata,47,1,Salvia
+1465,Salvia macrochlamys,47,1,Salvia
+1466,Salvia moorcraftiana,47,1,Salvia
+1467,Salvia moorcroftiana,47,1,Salvia
+1468,Salvia nemorosa,47,1,Salvia
+1469,Salvia nubicola,47,1,Salvia
+1470,Salvia nydeggeri,46,1,Salvia
+1471,Salvia officinalis,47,1,Salvia
+1472,Salvia officinalis ssp. altissima,47,1,Salvia
+1473,Salvia pachystachys,46,1,Salvia
+1474,Salvia palaefolia,47,1,Salvia
+1475,Salvia palaestina,47,1,Salvia
+1476,Salvia persepolitana,47,1,Salvia
+1477,Salvia pomifera,47,1,Salvia
+1478,Salvia pomifera ssp. calycina,47,1,Salvia
+1479,Salvia pratensis,47,1,Salvia
+1480,Salvia pseudeuphratica,46,1,Salvia
+1481,Salvia recognita,47,1,Salvia
+1482,Salvia rhytidea,47,1,Salvia
+1483,Salvia ringens,47,1,Salvia
+1484,Salvia rusellii,46,1,Salvia
+1485,Salvia sahendica,47,1,Salvia
+1486,Salvia sclarea,47,2,Salvia
+1487,Salvia sclarea L.,47,1,Salvia
+1488,Salvia sclareopsis,47,1,Salvia
+1489,Salvia tomentosa,47,1,Salvia
+1490,Salvia verbascifolia,47,1,Salvia
+1491,Salvia verbenaca,47,1,Salvia
+1492,Salvia verticillata,47,1,Salvia
+1493,Salvia xanthocheila,47,1,Salvia
+1494,Salvla sclarea,47,1,Salvla
+1495,Santalum album,85,1,Santalum
+1496,Santalum insulare,85,1,Santalum
+1497,Santalum macgregorii,85,1,Santalum
+1498,Santalum spicatum,85,1,Santalum
+1499,Santolina chamaecyparissus,15,1,Santolina
+1500,Santolina ligustica,15,1,Santolina
+1501,Santolina oblongifolia,15,1,Santolina
+1502,Satureja abyssinica,47,1,Satureja
+1503,Satureja atropatana,47,1,Satureja
+1504,Satureja bachtiarica,47,1,Satureja
+1505,Satureja boissieri,47,1,Satureja
+1506,Satureja brownei,47,1,Satureja
+1507,Satureja cuneifolia,47,1,Satureja
+1508,Satureja darwinii,47,1,Satureja
+1509,Satureja hortensis,47,1,Satureja
+1510,Satureja horvatii,47,1,Satureja
+1511,Satureja icarica,47,1,Satureja
+1512,Satureja juliana,47,1,Satureja
+1513,Satureja montana,47,1,Satureja
+1514,Satureja montana ssp. kitaibelii,47,1,Satureja
+1515,Satureja montana ssp. pisidica,47,1,Satureja
+1516,Satureja multiflora,47,1,Satureja
+1517,Satureja mutica,47,1,Satureja
+1518,Satureja odora,47,1,Satureja
+1519,Satureja paradoxa,47,1,Satureja
+1520,Satureja parnassica ssp. parnassica,47,1,Satureja
+1521,Satureja pilosa,47,1,Satureja
+1522,Satureja pilosa var. pilosa,47,1,Satureja
+1523,Satureja richingeri,47,1,Satureja
+1524,Satureja sahendica,47,1,Satureja
+1525,Satureja spinosa,47,1,Satureja
+1526,Satureja subspicata,47,1,Satureja
+1527,Satureja thymbra,47,1,Satureja
+1528,Satureja viminea,47,1,Satureja
+1529,Satureja visianii,47,1,Satureja
+1530,Scandix iberica,11,1,Scandix
+1531,Schinus molle,6,1,Schinus
+1532,Schizonepeta annua,47,1,Schizonepeta
+1533,Scleria hirtella,33,1,Scleria
+1534,Sclerorhachis platyrachis,15,1,Sclerorhachis
+1535,Scorzonera undulata,15,1,Scorzonera
+1536,Scutellaria albida subsp. Albida,47,1,Scutellaria
+1537,Scutellaria albida subsp. colchica,47,1,Scutellaria
+1538,Scutellaria albida subsp. condensata,47,1,Scutellaria
+1539,Scutellaria albida subsp. velenovskyi,47,1,Scutellaria
+1540,Scutellaria californica,47,1,Scutellaria
+1541,Scutellaria pinnatifida,47,1,Scutellaria
+1542,Scutellaria repens,47,1,Scutellaria
+1543,Scutellaria rupestris,47,1,Scutellaria
+1544,Scutellaria sieberi,47,1,Scutellaria
+1545,Scutellaria volubilis,47,1,Scutellaria
+1546,Semenovia dichotoma,11,1,Semenovia
+1547,Semenovia suffruticosa,11,1,Semenovia
+1548,Semenovia tragioides,11,1,Semenovia
+1549,Senecio adenotrichius,15,1,Senecio
+1550,Senecio farfarifolius,15,1,Senecio
+1551,Senecio royleanus,15,1,Senecio
+1552,Senecio rufinervis,15,1,Senecio
+1553,Senecio squalidus,15,1,Senecio
+1554,Senecio zoellneri,15,1,Senecio
+1555,Serotinocarpum insignis,11,1,Serotinocarpum
+1556,Seseli buchtormense,11,1,Seseli
+1557,Seseli campestre,11,1,Seseli
+1558,Seseli peucedanoides,11,1,Seseli
+1559,Seseli resinosum,11,1,Seseli
+1560,Seseli rigidum,11,1,Seseli
+1561,Seseli tortuosum,11,1,Seseli
+1562,Seseli tortuosum ssp. kiabii,11,1,Seseli
+1563,Sideritis argyrea,47,1,Sideritis
+1564,Sideritis clandestina ssp. Clandestina,47,1,Sideritis
+1565,Sideritis congesta,47,1,Sideritis
+1566,Sideritis erytrantha,47,1,Sideritis
+1567,Sideritis hololeuca,47,1,Sideritis
+1568,Sideritis montana,47,1,Sideritis
+1569,Sideritis pusilla (Lange) Pau ssp. pusilla var. typica,47,1,Sideritis
+1570,Sideritis pusilla ssp. almeriensis (Pau) Malagarriga var. typica,47,1,Sideritis
+1571,Sideritis pusilla ssp. almeriensis var. littoralis Font Quer,47,1,Sideritis
+1572,Sideritis pusilla ssp. almeriensis var. salina Font Quer,47,1,Sideritis
+1573,Sideritis pusilla ssp. flavovirens (Rouy) Malagarriga,47,1,Sideritis
+1574,Sideritis pusilla ssp. osteoxylla (Pau) Pallarés,47,1,Sideritis
+1575,Sideritis pusilla ssp. pusilla var. carthaginensis Font Quer,47,1,Sideritis
+1576,Sideritis pusilla ssp. pusilla var. granatensis (Pau) Font Quer,47,1,Sideritis
+1577,Sideritis raeseri ssp. attica,47,1,Sideritis
+1578,Sideritis raeseri ssp. raeseri,47,1,Sideritis
+1579,Sideritis scardica,47,1,Sideritis
+1580,Sideritis sipylea,47,1,Sideritis
+1581,Sideritis stricta,47,1,Sideritis
+1582,Sideritis syriaca,47,1,Sideritis
+1583,Sideritis syriaca ssp. syriaca,47,1,Sideritis
+1584,Sideritis taurica,47,1,Sideritis
+1585,Silphium integrifolium,15,1,Silphium
+1586,Siparuna guianensis,90,1,Siparuna
+1587,Siparuna thecaphora,90,1,Siparuna
+1588,Sipharuna thecaphora,90,1,Sipharuna
+1589,Sium latifolium,11,1,Sium
+1590,Smallanthus maculatus,15,1,Smallanthus
+1591,Smyrnium cordifolium,11,1,Smyrnium
+1592,Solidago decurrens,15,1,Solidago
+1593,Solidago litoralis,15,1,Solidago
+1594,Solidago puberula,15,1,Solidago
+1595,Solidago virgaurea,15,1,Solidago
+1596,Sphaeranthus indicus,15,1,Sphaeranthus
+1597,Sphaerantia discolor,62,1,Sphaerantia
+1598,Sphaerentia chartacea,62,1,Sphaerentia
+1599,Sphaerentia discolor,62,1,Sphaerentia
+1600,Sphagneticola trilobata (L.),15,1,Sphagneticola
+1601,Spilanthes acmella,15,1,Spilanthes
+1602,Stachys Corsica,47,1,Stachys
+1603,Stachys acerosa,47,1,Stachys
+1604,Stachys asterocalyx,47,1,Stachys
+1605,Stachys benthamiana,47,1,Stachys
+1606,Stachys byzantina,47,1,Stachys
+1607,Stachys circinnata,47,1,Stachys
+1608,Stachys lanata,47,1,Stachys
+1609,Stachys lavandulifolia,47,1,Stachys
+1610,Stachys milanii,47,1,Stachys
+1611,Stachys multicaulis,47,1,Stachys
+1612,Stachys obtusicrena,47,1,Stachys
+1613,Stachys officinalis,47,1,Stachys
+1614,Stachys persica,47,1,Stachys
+1615,Stachys pilifera,47,1,Stachys
+1616,Stachys recta,47,1,Stachys
+1617,Stachys schtschegleevii,47,1,Stachys
+1618,Steganotaenia araliacea,11,1,Steganotaenia
+1619,Stenotaenia nudicaulis,11,1,Stenotaenia
+1620,Sterculia tragacantha,92,1,Sterculia
+1621,Sundacarpus amarus,77,1,Sundacarpus
+1622,Syzygium aromaticum,62,1,Syzygium
+1623,Syzygium cordatum,62,1,Syzygium
+1624,Syzygium gardneri,62,1,Syzygium
+1625,Syzygium malaccense,62,1,Syzygium
+1626,Tagetes aff. maxima,15,1,Tagetes
+1627,Tagetes erecta,15,1,Tagetes
+1628,Tagetes filifolia,15,1,Tagetes
+1629,Tagetes lucida,15,1,Tagetes
+1630,Tagetes minuta,15,1,Tagetes
+1631,Tagetes multiflora,15,1,Tagetes
+1632,Tagetes patula,15,1,Tagetes
+1633,Tagetes tenuifolia,15,1,Tagetes
+1634,Tagetes zipaquinensis,15,1,Tagetes
+1635,Talauma ovata,53,1,Talauma
+1636,Talisia esculenta,86,1,Talisia
+1637,Tamarindus indica L.,37,1,Tamarindus
+1638,Tanacetum annuum,15,1,Tanacetum
+1639,Tanacetum balsamita L ssp.balsamitoides,15,1,Tanacetum
+1640,Tanacetum cadmeum,15,1,Tanacetum
+1641,Tanacetum cadmeum ssp. orientale,15,1,Tanacetum
+1642,Tanacetum densum ssp. Sivasicum,15,1,Tanacetum
+1643,Tanacetum dolichophyllum,15,1,Tanacetum
+1644,Tanacetum elburensis,15,1,Tanacetum
+1645,Tanacetum khorassanicum,15,1,Tanacetum
+1646,Tanacetum larvatum,15,1,Tanacetum
+1647,Tanacetum lingulatum,15,1,Tanacetum
+1648,Tanacetum macrophyllum,15,1,Tanacetum
+1649,Tanacetum nubigenum,15,1,Tanacetum
+1650,Tanacetum parthenium,15,1,Tanacetum
+1651,Tanacetum persicum,15,1,Tanacetum
+1652,Tanacetum polycephalum,15,1,Tanacetum
+1653,Tanacetum polycephalum subsp. farsicum,15,1,Tanacetum
+1654,Tanacetum vulgare (camphor chemotype),15,1,Tanacetum
+1655,Taxodium distichum,32,1,Taxodium
+1656,Tephrosia cinerea,68,1,Tephrosia
+1657,Tephrosia densiflora,68,1,Tephrosia
+1658,Tephrosia egregia,68,1,Tephrosia
+1659,Tephrosia persica,68,1,Tephrosia
+1660,Tephrosia vogelii,68,1,Tephrosia
+1661,Tessaria absinthioides,15,1,Tessaria
+1662,Tetraclinis articulata,32,1,Tetraclinis
+1663,Teucrium alopecurus,47,1,Teucrium
+1664,Teucrium antitauricum,47,1,Teucrium
+1665,Teucrium arduini,47,1,Teucrium
+1666,Teucrium atratum,47,1,Teucrium
+1667,Teucrium botrys,47,1,Teucrium
+1668,Teucrium carolipaui,47,1,Teucrium
+1669,Teucrium chamaed,47,1,Teucrium
+1670,Teucrium chamaedrys,47,1,Teucrium
+1671,Teucrium creticum,47,1,Teucrium
+1672,Teucrium flavum,47,1,Teucrium
+1673,Teucrium mascatenses,47,1,Teucrium
+1674,Teucrium massiliense,47,1,Teucrium
+1675,Teucrium melissoides,47,1,Teucrium
+1676,Teucrium monta,47,1,Teucrium
+1677,Teucrium montanum,47,1,Teucrium
+1678,Teucrium multicaule,47,1,Teucrium
+1679,Teucrium orientale,47,1,Teucrium
+1680,Teucrium persicum,47,1,Teucrium
+1681,Teucrium pestalozzae,47,1,Teucrium
+1682,Teucrium polium,47,1,Teucrium
+1683,Teucrium sandrasicum,47,1,Teucrium
+1684,Teucrium scordium,47,1,Teucrium
+1685,Teucrium stocksianum,47,1,Teucrium
+1686,Thamnosciadium junceum,11,1,Thamnosciadium
+1687,Thamnosma montana,84,1,Thamnosma
+1688,Thapsia garganica,11,1,Thapsia
+1689,Thapsia maxima I,11,1,Thapsia
+1690,Thapsia villosa (2n=44),11,1,Thapsia
+1691,Theobroma bicolor,54,1,Theobroma
+1692,Thevetia peruviana,12,1,Thevetia
+1693,Thryptomene hexandra,62,1,Thryptomene
+1694,Thryptomene oligandra,62,1,Thryptomene
+1695,Thryptomene parvifolia,62,1,Thryptomene
+1696,Thymbra capitata,47,1,Thymbra
+1697,Thymbra spicata,47,1,Thymbra
+1698,Thymus albicans,47,1,Thymus
+1699,Thymus algeriensis,47,1,Thymus
+1700,Thymus algeriensis genuinus,47,1,Thymus
+1701,Thymus alpigenus,47,1,Thymus
+1702,Thymus arundanus,47,1,Thymus
+1703,Thymus atticus,47,1,Thymus
+1704,Thymus baeticus,47,1,Thymus
+1705,Thymus bracteosus,47,1,Thymus
+1706,Thymus canoviridis,47,1,Thymus
+1707,Thymus capitatus,47,1,Thymus
+1708,Thymus carnosus,47,1,Thymus
+1709,Thymus caucasicus,47,1,Thymus
+1710,Thymus ciliates,47,1,Thymus
+1711,Thymus cilicicus,47,1,Thymus
+1712,Thymus daenensis,47,1,Thymus
+1713,Thymus fallax,47,1,Thymus
+1714,Thymus fedtschenkoi,47,1,Thymus
+1715,Thymus fontanesii,47,1,Thymus
+1716,Thymus herba-barona,47,1,Thymus
+1717,Thymus hirtus,47,1,Thymus
+1718,Thymus kotschyanus,47,1,Thymus
+1719,Thymus leptobotrys,46,1,Thymus
+1720,Thymus leucostomus,47,1,Thymus
+1721,Thymus longicaulis,47,1,Thymus
+1722,Thymus mastichina,47,1,Thymus
+1723,Thymus munbyanus,46,1,Thymus
+1724,Thymus numidicus,47,1,Thymus
+1725,Thymus oblongifolius,47,1,Thymus
+1726,Thymus pallescens,47,1,Thymus
+1727,Thymus pallidus,46,1,Thymus
+1728,Thymus pectinatus var. pectinatus,47,1,Thymus
+1729,Thymus persicus,47,1,Thymus
+1730,Thymus pseudopulegioides,47,1,Thymus
+1731,Thymus pubescens,47,1,Thymus
+1732,Thymus pulegioides,47,1,Thymus
+1733,Thymus pulegioides (with lemon odor),47,1,Thymus
+1734,Thymus richardii,47,1,Thymus
+1735,Thymus roegneri,47,1,Thymus
+1736,Thymus rohlenae,47,1,Thymus
+1737,Thymus satureioides,46,1,Thymus
+1738,Thymus serpyllum,47,1,Thymus
+1739,Thymus serpyllum var. serpyllum,47,1,Thymus
+1740,Thymus spinulosus,47,1,Thymus
+1741,Thymus striatus,47,1,Thymus
+1742,Thymus subcollinus,47,1,Thymus
+1743,Thymus tosevii var. tosevii,47,1,Thymus
+1744,Thymus vulgaris,47,1,Thymus
+1745,Thymus vulgaris (cultivated),47,1,Thymus
+1746,Thymus vulgaris (hybrid),47,1,Thymus
+1747,Thymus vulgaris (wild),47,1,Thymus
+1748,Thymus zygioides var. lycaonicus,47,1,Thymus
+1749,Thymus zygis,47,1,Thymus
+1750,Thymus zygis ssp. sylvestris,47,1,Thymus
+1751,Tordylium Ketenoglui,11,1,Tordylium
+1752,Tordylium aegyptiacum,11,1,Tordylium
+1753,Tordylium apulum,11,1,Tordylium
+1754,Tordylium hasselquistiae,11,1,Tordylium
+1755,Tordylium lanatum,11,1,Tordylium
+1756,Tordylium pestalozzae,11,1,Tordylium
+1757,Tordylium pustulosum,11,1,Tordylium
+1758,Tordylium syriacum L.,11,1,Tordylium
+1759,Tordylium trachycarpum,11,1,Tordylium
+1760,Torilis arvensis,11,1,Torilis
+1761,Trachyspermum ammi,11,1,Trachyspermum
+1762,Trachyspermum roxburghianum,11,1,Trachyspermum
+1763,Trinia dalechampii,11,1,Trinia
+1764,Trinia glauca,11,1,Trinia
+1765,Tristania neriifolia,62,1,Tristania
+1766,Tristaniopsis collina,62,1,Tristaniopsis
+1767,Tristaniopsis exiliflora,62,1,Tristaniopsis
+1768,Tristaniopsis laurina,62,1,Tristaniopsis
+1769,Ulva rigida,94,1,Ulva
+1770,Uvariodendron calophyllum,9,1,Uvariodendron
+1771,Valeriana alpestris,96,1,Valeriana
+1772,Valeriana hardwickii,96,1,Valeriana
+1773,Valeriana jatamansi Jones,96,1,Valeriana
+1774,Valeriana officinalis,96,1,Valeriana
+1775,Valeriana officinalis ssp. Collina,96,1,Valeriana
+1776,Vanillosmopsis erythropappa Schultz-Bip,15,1,Vanillosmopsis
+1777,Varthemia persica,15,1,Varthemia
+1778,Vernonia migeodii,15,1,Vernonia
+1779,Vernonia perrottettii,15,1,Vernonia
+1780,Vetiveria zizanioides,76,1,Vetiveria
+1781,Vetiveria zizanoides,72,1,Vetiveria
+1782,Viguiera dentata,15,1,Viguiera
+1783,Vitex agnus-castus L.,97,1,Vitex
+1784,Viticipremna queenslandica,47,1,Viticipremna
+1785,Vitis vinifera,98,1,Vitis
+1786,Waterhousea floribunda,62,1,Waterhousea
+1787,Waterhousea hedraiophylla,62,1,Waterhousea
+1788,Waterhousea mulgraveana,62,1,Waterhousea
+1789,Waterhousea unipunctata,62,1,Waterhousea
+1790,Wedelia chinensis,15,1,Wedelia
+1791,Wedelia glauca,15,1,Wedelia
+1792,Wulffia baccata,15,1,Wulffia
+1793,Xanthium brasilicum,15,2,Xanthium
+1794,Xanthium strumarium,15,1,Xanthium
+1795,Xanthogalum purpurascens,11,1,Xanthogalum
+1796,Xanthostemon arenarius,62,1,Xanthostemon
+1797,Xanthostemon chrysanthus,62,1,Xanthostemon
+1798,Xanthostemon crenulatus,62,1,Xanthostemon
+1799,Xanthostemon eucalyptoides,62,1,Xanthostemon
+1800,Xanthostemon formosus,62,1,Xanthostemon
+1801,Xanthostemon oppositifolius,62,1,Xanthostemon
+1802,Xanthostemon paradoxus,62,1,Xanthostemon
+1803,Xanthostemon psidioides,62,1,Xanthostemon
+1804,Xanthostemon sp,62,1,Xanthostemon
+1805,Xanthostemon umbrosus,62,1,Xanthostemon
+1806,Xanthostemon verticillatus,62,1,Xanthostemon
+1807,Xanthostemon whitei,62,1,Xanthostemon
+1808,Xanthostemon youngii,62,1,Xanthostemon
+1809,Xenophyllum poposum,15,1,Xenophyllum
+1810,Xeranthemum annuum,15,1,Xeranthemum
+1811,Xylopia aethiopica,9,1,Xylopia
+1812,Xylopia aromatica,9,1,Xylopia
+1813,Xylopia brasiliensis,9,1,Xylopia
+1814,Xylopia frutescens,9,1,Xylopia
+1815,Yulania denudata,53,1,Yulania
+1816,Zanthoxylum acanthopodium,84,1,Zanthoxylum
+1817,Zanthoxylum bracchyacanthum,84,1,Zanthoxylum
+1818,Zanthoxylum ekmanii,84,1,Zanthoxylum
+1819,Zanthoxylum limonella,84,1,Zanthoxylum
+1820,Zanthoxylum nitidum,84,1,Zanthoxylum
+1821,Zanthoxylum ovalifolium,84,1,Zanthoxylum
+1822,Zanthoxylum parviflorum,84,1,Zanthoxylum
+1823,Zanthoxylum pinnatum,84,1,Zanthoxylum
+1824,Zanthoxylum procerum,84,1,Zanthoxylum
+1825,Zanthoxylum rhetsa,84,1,Zanthoxylum
+1826,Zanthoxylum syncarpum,84,1,Zanthoxylum
+1827,Zanthoxylum veneficum,84,1,Zanthoxylum
+1828,Zanthoxylum zanthoxyloides,84,1,Zanthoxylum
+1829,Zataria multiflora,47,1,Zataria
+1830,Zataria multiflora Boiss,46,1,Zataria
+1831,Zhumeria majdae,47,1,Zhumeria
+1832,Zingiber neesanum,101,1,Zingiber
+1833,Zingiber officinale,101,1,Zingiber
+1834,Zingiber zerumbet,101,1,Zingiber
+1835,Zinnia elegans,15,1,Zinnia
+1836,Ziziphora clinopodioides ssp. rigida,47,1,Ziziphora
+1837,Ziziphora persica,47,1,Ziziphora
+1838,Ziziphus spina-christi,81,1,Ziziphus
