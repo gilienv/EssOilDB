@@ -1,4 +1,4 @@
-ID,Address,GoogleMapLink,Latitude,Longitude,ExpLoc,City/town/Village/,State/Province,Country
+ID,Address,GoogleMapLink,Latitude,Longitude,ExpLoc,City/town/Village/,State/Province/Region,Country
 ELoc0001,"(MPEG) Belem, PA, Brazil","https://www.google.com/maps/place/Emílio+Goeldi+Museum/@-1.4524476,-48.4785179,18z/data=!4m5!3m4!1s0x92a48c2866a15fcd:0xffda29961396ec75!8m2!3d-1.4532359!4d-48.4759162",-1.4524476,-48.4785179,(MPEG) Belem,Belem,,Brazil
 ELoc0002,(Montenegro) Velika Kalica,"https://www.google.com/maps/place/Durmitor/@43.245679,19.6144789,6z/data=!4m5!3m4!1s0x134d474c39757bef:0x44553e7b9d8cee0e!8m2!3d43.149618!4d19.0895813",43.245679,19.6144789,,Velika Kalica,,Montenegro
 ELoc0003,"(TARI), Tehran, Iran","https://www.google.com/maps/search/(TARI),+Tehran,+Iran/@35.6833948,51.4437896,14z/data=!3m1!4b1",35.6833948,51.4437896,(TARI),Tehran,,Iran
