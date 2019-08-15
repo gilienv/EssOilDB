@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6473318/results/word/frequencies/results.xml">
+  <result title="frequency" word="children" count="76"/>
+  <result title="frequency" word="years" count="54"/>
+  <result title="frequency" word="use" count="43"/>
+  <result title="frequency" word="prescribing" count="37"/>
+  <result title="frequency" word="treatment" count="34"/>
+  <result title="frequency" word="NICE" count="29"/>
+  <result title="frequency" word="Inappropriate" count="25"/>
+  <result title="frequency" word="age" count="25"/>
+  <result title="frequency" word="age." count="25"/>
+  <result title="frequency" word="day" count="25"/>
+  <result title="frequency" word="tool" count="25"/>
+  <result title="frequency" word="treat" count="24"/>
+  <result title="frequency" word="clinical" count="22"/>
+  <result title="frequency" word="guidance" count="22"/>
+  <result title="frequency" word="POPI" count="21"/>
+  <result title="frequency" word="acute" count="21"/>
+  <result title="frequency" word="criteria" count="21"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC5816298/results/word/frequencies/results.xml">
+  <result title="frequency" word="PMid:" count="57"/>
+  <result title="frequency" word="Oil" count="56"/>
+  <result title="frequency" word="treatment" count="53"/>
+  <result title="frequency" word="herbal" count="51"/>
+  <result title="frequency" word="Medicine" count="41"/>
+  <result title="frequency" word="medicine" count="34"/>
+  <result title="frequency" word="skin" count="34"/>
+  <result title="frequency" word="clinical" count="30"/>
+  <result title="frequency" word="use" count="28"/>
+  <result title="frequency" word="Tirant" count="26"/>
+  <result title="frequency" word="patients" count="26"/>
+  <result title="frequency" word="including" count="25"/>
+  <result title="frequency" word="Herbal" count="24"/>
+  <result title="frequency" word="extract" count="24"/>
+  <result title="frequency" word="study" count="24"/>
+  <result title="frequency" word="topical" count="24"/>
+  <result title="frequency" word="used" count="24"/>
+  <result title="frequency" word="psoriasis" count="23"/>
+  <result title="frequency" word="TCM" count="22"/>
+  <result title="frequency" word="anti-inflammatory" count="22"/>
+  <result title="frequency" word="Chinese" count="21"/>
+  <result title="frequency" word="Dermatology" count="21"/>
+  <result title="frequency" word="agents" count="21"/>
+  <result title="frequency" word="effects" count="21"/>
+  <result title="frequency" word="oil" count="21"/>
+ </snippets>
+</snippetsTree>

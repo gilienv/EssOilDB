@@ -1,0 +1,370 @@
+{
+  "id": [
+    "30588129"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30588129"
+  ],
+  "pmcid": [
+    "PMC6298394"
+  ],
+  "doi": [
+    "10.2147/CPAA.S180474"
+  ],
+  "title": [
+    "Treatment of acne with a combination of propolis, tea tree oil, and Aloe vera compared to erythromycin cream: two double-blind investigations."
+  ],
+  "authorString": [
+    "Mazzarello V, Donadu MG, Ferrari M, Piga G, Usai D, Zanetti S, Sotgiu MA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mazzarello V"
+          ],
+          "firstName": [
+            "V"
+          ],
+          "lastName": [
+            "Mazzarello"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9713-3306",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Skinlab, Department of Biomedical Sciences, University of Sassari, Sassari, Italy, vmazza@uniss.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Donadu MG"
+          ],
+          "firstName": [
+            "M G"
+          ],
+          "lastName": [
+            "Donadu"
+          ],
+          "initials": [
+            "MG"
+          ],
+          "affiliation": [
+            "Skinlab, Department of Biomedical Sciences, University of Sassari, Sassari, Italy, vmazza@uniss.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Ferrari M"
+          ],
+          "firstName": [
+            "M"
+          ],
+          "lastName": [
+            "Ferrari"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Skinlab, Department of Biomedical Sciences, University of Sassari, Sassari, Italy, vmazza@uniss.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Piga G"
+          ],
+          "firstName": [
+            "G"
+          ],
+          "lastName": [
+            "Piga"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Skinlab, Department of Biomedical Sciences, University of Sassari, Sassari, Italy, vmazza@uniss.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Usai D"
+          ],
+          "firstName": [
+            "D"
+          ],
+          "lastName": [
+            "Usai"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Skinlab, Department of Biomedical Sciences, University of Sassari, Sassari, Italy, vmazza@uniss.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Zanetti S"
+          ],
+          "firstName": [
+            "S"
+          ],
+          "lastName": [
+            "Zanetti"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Skinlab, Department of Biomedical Sciences, University of Sassari, Sassari, Italy, vmazza@uniss.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Sotgiu MA"
+          ],
+          "firstName": [
+            "M A"
+          ],
+          "lastName": [
+            "Sotgiu"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "affiliation": [
+            "Skinlab, Department of Biomedical Sciences, University of Sassari, Sassari, Italy, vmazza@uniss.it."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9713-3306",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2647756"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Clinical pharmacology : advances and applications"
+          ],
+          "ISOAbbreviation": [
+            "Clin Pharmacol"
+          ],
+          "medlineAbbreviation": [
+            "Clin Pharmacol"
+          ],
+          "NLMid": [
+            "101564865"
+          ],
+          "ISSN": [
+            "1179-1438"
+          ],
+          "ESSN": [
+            "1179-1438"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "175-181"
+  ],
+  "abstractText": [
+    "Introduction:Antibiotics that suppress Propionibacterium acnes are the standard treatment for acne but are becoming less effective, due to the appearance of antibiotic-resistant strains. Many plants are known to have innate antimicrobial action and can be used as alternatives to antibiotics; thus, it is necessary to prove their effectiveness in vivo. This study aimed to evaluate the anti-acne efficacy of a new cream based on three natural extracts, comparing it to erythromycin cream and placebo. Patients and methods:Sixty patients with mild to moderate acne vulgaris were randomly divided into three groups: treated with cream containing 20% propolis, 3% \"tea tree oil\", and 10% \"Aloe vera\" (PTAC) (n=20); or with 3 % erythromycin cream (ERC) (n=20); or with placebo (n=20). At baseline, after 15 and 30 days, investigators evaluated response to treatment by counting acne lesions through noninvasive measurements and macrophotography. Results:All the clinical and instrumental values studied were statistically different from placebo except for sebometry, pHmetry, and erythema index values, measured on healthy skin. Unlike in the placebo group, papular and scar lesions showed high erythema reduction after 15 and 30 days of PTAC and ERC application. Conclusion:The PTAC formulation was better than ERC in reducing erythema scars, acne severity index, and total lesion count."
+  ],
+  "affiliation": [
+    "Skinlab, Department of Biomedical Sciences, University of Sassari, Sassari, Italy, vmazza@uniss.it."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Aloe barbadensis",
+        "Propolis",
+        "Antibiotic Resistance",
+        "Phytotherapy",
+        "Noninvasive Analysis",
+        "Melaleuca Alternifolia Oil"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6298394?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6298394"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2147/CPAA.S180474"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-12-28"
+  ],
+  "firstIndexDate": [
+    "2019-01-01"
+  ],
+  "dateOfRevision": [
+    "2019-01-08"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-13"
+  ],
+  "firstPublicationDate": [
+    "2018-12-13"
+  ]
+}

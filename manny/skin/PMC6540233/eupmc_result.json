@@ -1,0 +1,371 @@
+{
+  "id": [
+    "31052486"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31052486"
+  ],
+  "pmcid": [
+    "PMC6540233"
+  ],
+  "doi": [
+    "10.3390/molecules24091706"
+  ],
+  "title": [
+    "Secondary Metabolites and Antiradical Activity of Liquid Fermentation of Morchella sp. Isolated from Southwest China."
+  ],
+  "authorString": [
+    "Yang C, Zhou X, Meng Q, Wang M, Zhang Y, Fu S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yang C"
+          ],
+          "firstName": [
+            "Cailing"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Pharmacy School of Zunyi Medical University, Zunyi 563000, China. ycailing@126.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou X"
+          ],
+          "firstName": [
+            "Xuan"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Pharmacy School of Zunyi Medical University, Zunyi 563000, China. 15764535094@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Meng Q"
+          ],
+          "firstName": [
+            "Qingfeng"
+          ],
+          "lastName": [
+            "Meng"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Department of Public Health, Zunyi Medical University, Zunyi 563000, China. qfmeng@126.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang M"
+          ],
+          "firstName": [
+            "Mengjiao"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Pharmacy School of Zunyi Medical University, Zunyi 563000, China. wmj1585506623@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yao"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Pharmacy School of Zunyi Medical University, Zunyi 563000, China. 13087864173@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Fu S"
+          ],
+          "firstName": [
+            "Shaobin"
+          ],
+          "lastName": [
+            "Fu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Pharmacy School of Zunyi Medical University, Zunyi 563000, China. sbfu@zmc.edu.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "24"
+      ],
+      "journalIssueId": [
+        "2812525"
+      ],
+      "dateOfPublication": [
+        "2019 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecules (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Molecules"
+          ],
+          "medlineAbbreviation": [
+            "Molecules"
+          ],
+          "NLMid": [
+            "100964009"
+          ],
+          "ISSN": [
+            "1420-3049"
+          ],
+          "ESSN": [
+            "1420-3049"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Morels famous for their taste and nutrition are in short supply all over the world although they were considered as one of the most highly prized edible and medicinal mushrooms. Because of the limitation of resource and cultivation technology, fermentation of edible mushroom was gradually applied to nutrient, bioactivity and breeder seed preparation. At present, there are more reports on sugar and amino acid but less on other components. Morchella sp. YDJ-ZY-1 was isolated from the wild fruiting body by the spores releasing method in Zunyi Guizhou province in Southwest China and identified based on phenotype and genotype characteristics. Chemical compositions of YDJ-ZY-1 were investigated from liquid fermentation that will lay the foundation for further development and utilization. Four pyranoids (1-4) and 2-(1-oxo-2-hydroxyethyl) furan (5), linoleic acid (6), Morelin (2-hydroxy-cinnamic acid methyl ester, (7) and 1-O-β-d-ribofuranose-Morelin (8) were obtained from EtOAc extraction and elucidated by spectral data. Product 4 and 8 were new compounds and 7 was isolated from nature for the first time. Antiradical activity was evaluated by free radical scavenging effect on DPPH (1,1-Diphenyl-2-picrylhydrazyl radical 2,2-Diphenyl-1-(2,4,6-trinitrophenyl)hydrazyl). Compound 5 exhibited strong antiradical activity while compounds 1 and 2 exhibited moderate activity. Thus, incubation of Morchella sp YDJ-ZY-1 separated from the wild fruit body afforded eight compounds. Secondary metabolites with new structures were mined from fermentation of Morchella sp. and antiradical activity was evaluated."
+  ],
+  "affiliation": [
+    "Pharmacy School of Zunyi Medical University, Zunyi 563000, China. ycailing@126.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "201751105, 201710661037"
+          ],
+          "agency": [
+            "Undergraduate innovation and entrepreneurship training program"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "YLXKJS-YX-04"
+          ],
+          "agency": [
+            "National First-Rate Construction Discipline of Guizhou Province (Pharmacy)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "21462057"
+          ],
+          "agency": [
+            "The National Natural Sciences Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Morchella",
+        "Chemical constituents",
+        "Strain identification",
+        "liquid fermentation",
+        "Antiradical Activity"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6540233?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6540233"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/molecules24091706"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-05-05"
+  ],
+  "firstIndexDate": [
+    "2019-05-07"
+  ],
+  "dateOfRevision": [
+    "2019-06-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-02"
+  ],
+  "firstPublicationDate": [
+    "2019-05-02"
+  ]
+}

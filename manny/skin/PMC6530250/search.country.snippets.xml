@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6530250/results/search/country/results.xml">
+  <result pre="[], 1 Department of Molecular Sciences, Macquarie University Sydney, NSW" exact="Australia" post="[], 2 Australian Research Council Industrial Transformation Training Centre"/>
+  <result pre="Centre for Molecular Technology in the Food Industry Sydney, NSW" exact="Australia" post="[], 3 Biomolecular Discovery and Design Research Centre, Macquarie"/>
+  <result pre="Biomolecular Discovery and Design Research Centre, Macquarie University Sydney, NSW" exact="Australia" post="Edited by: Susana Rodriguez-Couto, IKERBASQUE Basque Foundation for Science,"/>
+  <result pre="Australia Edited by: Susana Rodriguez-Couto, IKERBASQUE Basque Foundation for Science," exact="Spain" post="Reviewed by: Philip Thomas Pienkos, National Renewable Energy Laboratory"/>
+  <result pre="Reviewed by: Philip Thomas Pienkos, National Renewable Energy Laboratory (DOE)," exact="United States;" post="Rafael Moreno-Sánchez, Instituto Nacional de Cardiologia Ignacio Chavez, Mexico"/>
+  <result pre="United States; Rafael Moreno-Sánchez, Instituto Nacional de Cardiologia Ignacio Chavez," exact="Mexico" post="*Correspondence: Anwar Sunna anwar.sunna@mq.edu.au This article was submitted to"/>
+  <result pre="this way by several new or already established companies in" exact="Japan" post="and the United States, which are selling paramylon-rich E."/>
+  <result pre="several new or already established companies in Japan and the" exact="United States," post="which are selling paramylon-rich E. gracilis whole cell meal"/>
+  <result pre="of Wax Ester . U.S. Patent No 9,045,784. Washington, DC:" exact="United States" post="Patent and Trademark Office. Barras D.R. Stone B.A. ("/>
+  <result pre="Making Polyunsaturated Fatty Acids. U.S. Patent No 7.645,604. Washington, DC:" exact="United States" post="Patent and Trademark Office. de Oliveira M.A.C.L. Monteiro M.P.C."/>
+ </snippets>
+</snippetsTree>

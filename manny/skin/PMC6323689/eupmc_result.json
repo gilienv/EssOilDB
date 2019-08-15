@@ -1,0 +1,379 @@
+{
+  "id": [
+    "30637118"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30637118"
+  ],
+  "pmcid": [
+    "PMC6323689"
+  ],
+  "doi": [
+    "10.1186/s40814-018-0387-0"
+  ],
+  "title": [
+    "Effect of fish oil supplement administration method on tolerability and adherence: a randomized pilot clinical trial."
+  ],
+  "authorString": [
+    "Malinowski SS, Barber KE, Kishk OA, Mays AA, Jones SR, Turner AL, Riche DM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Malinowski SS"
+          ],
+          "firstName": [
+            "Scott S"
+          ],
+          "lastName": [
+            "Malinowski"
+          ],
+          "initials": [
+            "SS"
+          ],
+          "affiliation": [
+            "1Department of Pharmacy Practice, University of Mississippi, 2500 North State Street, Jackson, 39216-4500 MS USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Barber KE"
+          ],
+          "firstName": [
+            "Katie E"
+          ],
+          "lastName": [
+            "Barber"
+          ],
+          "initials": [
+            "KE"
+          ],
+          "affiliation": [
+            "1Department of Pharmacy Practice, University of Mississippi, 2500 North State Street, Jackson, 39216-4500 MS USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kishk OA"
+          ],
+          "firstName": [
+            "Omayma A"
+          ],
+          "lastName": [
+            "Kishk"
+          ],
+          "initials": [
+            "OA"
+          ],
+          "affiliation": [
+            "3University of Maryland Medical Center, Baltimore, MD USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Mays AA"
+          ],
+          "firstName": [
+            "Andrew A"
+          ],
+          "lastName": [
+            "Mays"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "affiliation": [
+            "2University of Mississippi Medical Center, Jackson, MS USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Jones SR"
+          ],
+          "firstName": [
+            "Sara R"
+          ],
+          "lastName": [
+            "Jones"
+          ],
+          "initials": [
+            "SR"
+          ],
+          "affiliation": [
+            "2University of Mississippi Medical Center, Jackson, MS USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Turner AL"
+          ],
+          "firstName": [
+            "Adrian L"
+          ],
+          "lastName": [
+            "Turner"
+          ],
+          "initials": [
+            "AL"
+          ],
+          "affiliation": [
+            "4Cook Children's Medical Center, Fort Worth, TX USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Riche DM"
+          ],
+          "firstName": [
+            "Daniel M"
+          ],
+          "lastName": [
+            "Riche"
+          ],
+          "initials": [
+            "DM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4779-0850",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "1Department of Pharmacy Practice, University of Mississippi, 2500 North State Street, Jackson, 39216-4500 MS USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4779-0850",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2769198"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Pilot and feasibility studies"
+          ],
+          "ISOAbbreviation": [
+            "Pilot Feasibility Stud"
+          ],
+          "medlineAbbreviation": [
+            "Pilot Feasibility Stud"
+          ],
+          "NLMid": [
+            "101676536"
+          ],
+          "ISSN": [
+            "2055-5784"
+          ],
+          "ESSN": [
+            "2055-5784"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "3"
+  ],
+  "abstractText": [
+    "Objectives:Anecdotally, several strategies have been suggested in order to improve tolerability of fish oil supplements, but there is little evidence supporting any of these strategies. The aim of this study was to determine if there is a difference among four methods of oral administration of fish oil supplementation in terms of tolerability and adherence. Methods:A randomized, prospective, open-label, four-arm pilot study was conducted on 60 healthy adult subjects randomized to different fish oil supplement administration methods with (1) milk, (2) food, (3) an empty stomach, and (4) frozen capsules prior to ingestion. Each subject was instructed to take two capsules three times daily for 30 consecutive days. Adherence was assessed by pill counts. Adverse effects were assessed by survey and patient exit interview. Results:No apparent differences were demonstrated among the four administration groups in terms of adherence, reasons for non-adherence, or self-reported adverse effects. Conclusions:Method of administration did not affect rates of adherence or incidence of adverse effects in a small cohort of healthy adults taking fish oil supplement capsules for 30 days. Trial registration:ClinicalTrials.gov NCT01471366. Registered November 16, 2011."
+  ],
+  "affiliation": [
+    "1Department of Pharmacy Practice, University of Mississippi, 2500 North State Street, Jackson, 39216-4500 MS USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Safety",
+        "Adherence",
+        "Adverse effects",
+        "Eicosapentaenoic acid",
+        "Docosahexaenoic acid",
+        "Fish oil",
+        "Tolerability",
+        "N-3 Polyunsaturated Fatty Acids"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6323689?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6323689"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s40814-018-0387-0"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-01-15"
+  ],
+  "firstIndexDate": [
+    "2019-01-14"
+  ],
+  "dateOfRevision": [
+    "2019-01-16"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-08"
+  ],
+  "firstPublicationDate": [
+    "2019-01-08"
+  ]
+}

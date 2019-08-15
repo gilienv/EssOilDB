@@ -1,0 +1,610 @@
+{
+  "id": [
+    "30208569"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30208569"
+  ],
+  "pmcid": [
+    "PMC6164292"
+  ],
+  "doi": [
+    "10.3390/ijms19092699"
+  ],
+  "title": [
+    "The Cutaneous Microbiome and Wounds: New Molecular Targets to Promote Wound Healing."
+  ],
+  "authorString": [
+    "Johnson TR, Gómez BI, McIntyre MK, Dubick MA, Christy RJ, Nicholson SE, Burmeister DM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Johnson TR"
+          ],
+          "firstName": [
+            "Taylor R"
+          ],
+          "lastName": [
+            "Johnson"
+          ],
+          "initials": [
+            "TR"
+          ],
+          "affiliation": [
+            "Department of Surgery, The University of Texas Health Science Center at San Antonio, 7703 Floyd Curl Dr., San Antonio, TX 78229, USA. JohnsonTR@livemail.uthscsa.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Gómez BI"
+          ],
+          "firstName": [
+            "Belinda I"
+          ],
+          "lastName": [
+            "Gómez"
+          ],
+          "initials": [
+            "BI"
+          ],
+          "affiliation": [
+            "United States Army Institute of Surgical Research, 3650 Chambers Pass, JBSA Fort Sam Houston, TX 78234, USA. belinda.i.gomez.ctr@mail.mil."
+          ]
+        },
+        {
+          "fullName": [
+            "McIntyre MK"
+          ],
+          "firstName": [
+            "Matthew K"
+          ],
+          "lastName": [
+            "McIntyre"
+          ],
+          "initials": [
+            "MK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3970-4529",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "United States Army Institute of Surgical Research, 3650 Chambers Pass, JBSA Fort Sam Houston, TX 78234, USA. mkm3@bu.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Dubick MA"
+          ],
+          "firstName": [
+            "Michael A"
+          ],
+          "lastName": [
+            "Dubick"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "affiliation": [
+            "Department of Surgery, The University of Texas Health Science Center at San Antonio, 7703 Floyd Curl Dr., San Antonio, TX 78229, USA. michael.a.dubick.civ@mail.mil."
+          ]
+        },
+        {
+          "fullName": [
+            "Christy RJ"
+          ],
+          "firstName": [
+            "Robert J"
+          ],
+          "lastName": [
+            "Christy"
+          ],
+          "initials": [
+            "RJ"
+          ],
+          "affiliation": [
+            "United States Army Institute of Surgical Research, 3650 Chambers Pass, JBSA Fort Sam Houston, TX 78234, USA. robert.j.christy12.civ@mail.mil."
+          ]
+        },
+        {
+          "fullName": [
+            "Nicholson SE"
+          ],
+          "firstName": [
+            "Susannah E"
+          ],
+          "lastName": [
+            "Nicholson"
+          ],
+          "initials": [
+            "SE"
+          ],
+          "affiliation": [
+            "Department of Surgery, The University of Texas Health Science Center at San Antonio, 7703 Floyd Curl Dr., San Antonio, TX 78229, USA. nicholsons@uthscsa.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Burmeister DM"
+          ],
+          "firstName": [
+            "David M"
+          ],
+          "lastName": [
+            "Burmeister"
+          ],
+          "initials": [
+            "DM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1256-0158",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "United States Army Institute of Surgical Research, 3650 Chambers Pass, JBSA Fort Sam Houston, TX 78234, USA. david.m.burmeister3.civ@mail.mil."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1256-0158",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3970-4529",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2722560"
+      ],
+      "dateOfPublication": [
+        "2018 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of molecular sciences"
+          ],
+          "ISOAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "medlineAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "NLMid": [
+            "101092791"
+          ],
+          "ISSN": [
+            "1422-0067"
+          ],
+          "ESSN": [
+            "1422-0067"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "The ecological community of microorganisms in/on humans, termed the microbiome, is vital for sustaining homeostasis. While culture-independent techniques have revealed the role of the gut microbiome in human health and disease, the role of the cutaneous microbiome in wound healing is less defined. Skin commensals are essential in the maintenance of the epithelial barrier function, regulation of the host immune system, and protection from invading pathogenic microorganisms. In this review, we summarize the literature derived from pre-clinical and clinical studies on how changes in the microbiome of various acute and chronic skin wounds impact wound healing tissue regeneration. Furthermore, we review the mechanistic insights garnered from model wound healing systems. Finally, in the face of growing concern about antibiotic-resistance, we will discuss alternative strategies for the treatment of infected wounds to improve wound healing and outcomes. Taken together, it has become apparent that commensals, symbionts, and pathogens on human skin have an intimate role in the inflammatory response that highlights several potential strategies to treat infected, non-healing wounds. Despite these promising results, there are some contradictory and controversial findings from existing studies and more research is needed to define the role of the human skin microbiome in acute and chronic wound healing."
+  ],
+  "affiliation": [
+    "Department of Surgery, The University of Texas Health Science Center at San Antonio, 7703 Floyd Curl Dr., San Antonio, TX 78229, USA. JohnsonTR@livemail.uthscsa.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Skin"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Wound Infection"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anti-Infective Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Wound Healing"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Probiotics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Microbiota"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Infection",
+        "Wound healing",
+        "Antibiotic Resistance",
+        "SKin",
+        "Microbiome",
+        "Commensals"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Anti-Infective Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6164292?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6164292"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijms19092699"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-01-11"
+  ],
+  "dateOfCreation": [
+    "2018-09-14"
+  ],
+  "firstIndexDate": [
+    "2018-09-13"
+  ],
+  "dateOfRevision": [
+    "2019-01-11"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-11"
+  ],
+  "firstPublicationDate": [
+    "2018-09-11"
+  ]
+}

@@ -1,0 +1,600 @@
+{
+  "id": [
+    "30943965"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30943965"
+  ],
+  "pmcid": [
+    "PMC6448318"
+  ],
+  "doi": [
+    "10.1186/s12934-019-1110-4"
+  ],
+  "title": [
+    "Construction of DGLA producing cell factory by genetic modification of Mucor circinelloides."
+  ],
+  "authorString": [
+    "Khan MAK, Yang J, Hussain SA, Zhang H, Liang L, Garre V, Song Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Khan MAK"
+          ],
+          "firstName": [
+            "Md Ahsanul Kabir"
+          ],
+          "lastName": [
+            "Khan"
+          ],
+          "initials": [
+            "MAK"
+          ],
+          "affiliation": [
+            "Colin Ratledge Center for Microbial Lipids, School of Agricultural Engineering and Food Science, Shandong University of Technology, Zibo, 255000, Shandong, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang J"
+          ],
+          "firstName": [
+            "Junhuan"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Colin Ratledge Center for Microbial Lipids, School of Agricultural Engineering and Food Science, Shandong University of Technology, Zibo, 255000, Shandong, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Hussain SA"
+          ],
+          "firstName": [
+            "Syed Ammar"
+          ],
+          "lastName": [
+            "Hussain"
+          ],
+          "initials": [
+            "SA"
+          ],
+          "affiliation": [
+            "Colin Ratledge Center for Microbial Lipids, School of Agricultural Engineering and Food Science, Shandong University of Technology, Zibo, 255000, Shandong, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang H"
+          ],
+          "firstName": [
+            "Huaiyuan"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Colin Ratledge Center for Microbial Lipids, School of Agricultural Engineering and Food Science, Shandong University of Technology, Zibo, 255000, Shandong, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liang L"
+          ],
+          "firstName": [
+            "Li"
+          ],
+          "lastName": [
+            "Liang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Food Science and Technology, School of Food Science and Technology, Jiangnan University, Wuxi, 21412, Jiangsu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Garre V"
+          ],
+          "firstName": [
+            "Victoriano"
+          ],
+          "lastName": [
+            "Garre"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7605-1726",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Departmento de Genética y Microbiología (Unidad Asociada al Instituto de Química Física Rocasolano, Consejo Superior de Investigaciones Científicas), Facultad de Biología, Universidad de Murcia, 30100, Murcia, Spain. vgarre@um.es."
+          ]
+        },
+        {
+          "fullName": [
+            "Song Y"
+          ],
+          "firstName": [
+            "Yuanda"
+          ],
+          "lastName": [
+            "Song"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Colin Ratledge Center for Microbial Lipids, School of Agricultural Engineering and Food Science, Shandong University of Technology, Zibo, 255000, Shandong, People's Republic of China. ysong@sdut.edu.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7605-1726",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2801001"
+      ],
+      "dateOfPublication": [
+        "2019 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Microbial cell factories"
+          ],
+          "ISOAbbreviation": [
+            "Microb. Cell Fact."
+          ],
+          "medlineAbbreviation": [
+            "Microb Cell Fact"
+          ],
+          "NLMid": [
+            "101139812"
+          ],
+          "ISSN": [
+            "1475-2859"
+          ],
+          "ESSN": [
+            "1475-2859"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "64"
+  ],
+  "abstractText": [
+    "BACKGROUND:Dihomo-gamma linolenic acid (DGLA, 20:3, n-6) is the elongated product of Gamma linolenic acid (GLA, 18:3, n-6) catalyzed by the enzyme delta-6 elongase (D6E) or gamma linolenic acid elongase (GLELO). Construction of engineered oleaginous microbes have been attracting significant interest to produce DGLA because of its nutritional value and medicinal applications. Mucor circinelloides is a GLA producing filamentous fungus which can be a useful tool to produce DGLA. We have, therefore, overexpressed the D6E (GLELO) gene in this fungus to construct DGLA producing cell factory. RESULT:To produce DGLA in M. circinelloides, homologous overexpression of D6E (GLELO) gene was analyzed. When the gene was overexpressed in M. circinelloides CBS277.49, up to 5.72% DGLA was produced in this strain. CONCLUSION:To our knowledge, this is the first report describing the overexpression of D6E (GLELO) gene in M. circinelloides to construct DGLA producing cell factory. A new scope for further research has been established by this work for improved production of DGLA in this fungus, specifically in its high lipid-producing strain, WJ11."
+  ],
+  "affiliation": [
+    "Colin Ratledge Center for Microbial Lipids, School of Agricultural Engineering and Food Science, Shandong University of Technology, Zibo, 255000, Shandong, People's Republic of China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "31670064"
+          ],
+          "agency": [
+            "Natural Science Foundation of Shandong Province (CN)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "J16LE20"
+          ],
+          "agency": [
+            "Science and Technology Project of Shandong College"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "ZR2018BC058"
+          ],
+          "agency": [
+            "Natural Science Foundation of Shandong Province"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Not applicable"
+          ],
+          "agency": [
+            "Shandong University of Technology"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Not applicable"
+          ],
+          "agency": [
+            "Taishan Industry Leading Talent Project"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "J17KA133"
+          ],
+          "agency": [
+            "Science and Technology Project of Shandong College"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mucor"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "gamma-Linolenic Acid"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fungal Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Editing"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Mucor Circinelloides",
+        "Homologous Overexpression",
+        "Dgla Production",
+        "Delta-6 Elongase"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Fungal Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "gamma-Linolenic Acid"
+          ],
+          "registryNumber": [
+            "78YC2MAX4O"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6448318?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6448318"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12934-019-1110-4"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-04-15"
+  ],
+  "dateOfCreation": [
+    "2019-04-05"
+  ],
+  "firstIndexDate": [
+    "2019-04-05"
+  ],
+  "dateOfRevision": [
+    "2019-04-16"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-03"
+  ],
+  "firstPublicationDate": [
+    "2019-04-03"
+  ]
+}

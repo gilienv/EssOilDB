@@ -1,0 +1,271 @@
+{
+  "id": [
+    "31080784"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31080784"
+  ],
+  "pmcid": [
+    "PMC6487283"
+  ],
+  "doi": [
+    "10.6118/jmm.2019.25.1.1"
+  ],
+  "title": [
+    "Foeniculum vulgare as Valuable Plant in Management of Women's Health."
+  ],
+  "authorString": [
+    "Mahboubi M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mahboubi M"
+          ],
+          "firstName": [
+            "Mohaddese"
+          ],
+          "lastName": [
+            "Mahboubi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4732-7302",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Medicinal Plants Research Department, Research and Development, TabibDaru Pharmaceutical Company, Kashan, Iran."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4732-7302",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "25"
+      ],
+      "journalIssueId": [
+        "2816653"
+      ],
+      "dateOfPublication": [
+        "2019 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of menopausal medicine"
+          ],
+          "ISOAbbreviation": [
+            "J Menopausal Med"
+          ],
+          "medlineAbbreviation": [
+            "J Menopausal Med"
+          ],
+          "NLMid": [
+            "101632648"
+          ],
+          "ISSN": [
+            "2288-6478"
+          ],
+          "ESSN": [
+            "2288-6761"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1-14"
+  ],
+  "abstractText": [
+    "This review paper evaluates use of Foeniculum vulgare extracts as a popular female plant in management of different ailments of women. Information in this paper was gathered from accessible sources (PubMed, Science Direct, Springer, Wiley, and Google), and traditional books (Persian or English modern traditional books), unpublished data (R&D reports, thesis and dissertation) by keywords based on the words F. vulgare or fennel and women. Efficacy of oral fennel oil in management of dysmenorrhea, premenstrual syndrome, amenorrhea, menopause, lactation, and polycystic ovary syndrome were confirmed according to results of clinical studies. Results of clinical efficacy of fennel oil on menstrual bleeding is complicated, but results of one meta-analysis study revealed that fennel oil significantly increased means of bleeding in the first menstrual periodic cycle (P = 0.001), while fennel oil had no significant effect on bleeding in the second menstrual cycle (P = 0.67). Topical and vaginal fennel extract (5%) exhibited good efficacy in treatment of sexual function, vaginal atrophy, and hirsutism. Fennel had no effect on bone density, or body mass index of menopause women. Results of clinical studies introduce fennel as a valuable medicinal plant in management of women's ailments, but understanding the mechanism of action could be the subject of future studies."
+  ],
+  "affiliation": [
+    "Medicinal Plants Research Department, Research and Development, TabibDaru Pharmaceutical Company, Kashan, Iran."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Phytoestrogens",
+        "Lethal dose 50",
+        "Women",
+        "Foeniculum Vulgare",
+        "Fennel"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6487283?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6487283"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.6118/jmm.2019.25.1.1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-05-14"
+  ],
+  "firstIndexDate": [
+    "2019-05-14"
+  ],
+  "dateOfRevision": [
+    "2019-05-15"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-25"
+  ],
+  "firstPublicationDate": [
+    "2019-04-25"
+  ]
+}

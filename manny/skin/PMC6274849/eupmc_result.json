@@ -1,0 +1,960 @@
+{
+  "id": [
+    "30463303"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30463303"
+  ],
+  "pmcid": [
+    "PMC6274849"
+  ],
+  "doi": [
+    "10.3390/ijms19113660"
+  ],
+  "title": [
+    "Beneficial Effects of Deoxyshikonin on Delayed Wound Healing in Diabetic Mice."
+  ],
+  "authorString": [
+    "Park JY, Shin MS, Hwang GS, Yamabe N, Yoo JE, Kang KS, Kim JC, Lee JG, Ham J, Lee HL."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Park JY"
+          ],
+          "firstName": [
+            "Jun Yeon"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "JY"
+          ],
+          "affiliation": [
+            "Department of Food Science and Biotechnology, Kyonggi University, Suwon 16227, Korea. rhemf@kgu.ac.kr."
+          ]
+        },
+        {
+          "fullName": [
+            "Shin MS"
+          ],
+          "firstName": [
+            "Myoung-Sook"
+          ],
+          "lastName": [
+            "Shin"
+          ],
+          "initials": [
+            "MS"
+          ],
+          "affiliation": [
+            "College of Korean Medicine, Gachon University, Seongnam 13120, Korea. msshin31@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Hwang GS"
+          ],
+          "firstName": [
+            "Gwi Seo"
+          ],
+          "lastName": [
+            "Hwang"
+          ],
+          "initials": [
+            "GS"
+          ],
+          "affiliation": [
+            "College of Korean Medicine, Gachon University, Seongnam 13120, Korea. seoul@gachon.ac.kr."
+          ]
+        },
+        {
+          "fullName": [
+            "Yamabe N"
+          ],
+          "firstName": [
+            "Noriko"
+          ],
+          "lastName": [
+            "Yamabe"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "College of Korean Medicine, Gachon University, Seongnam 13120, Korea. norikoy@gachon.ac.kr."
+          ]
+        },
+        {
+          "fullName": [
+            "Yoo JE"
+          ],
+          "firstName": [
+            "Jeong-Eun"
+          ],
+          "lastName": [
+            "Yoo"
+          ],
+          "initials": [
+            "JE"
+          ],
+          "affiliation": [
+            "Department of Gynecology, School of Korean Medicine, Daejeon University, Daejeon 302-869, Korea. koreadryoo@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Kang KS"
+          ],
+          "firstName": [
+            "Ki Sung"
+          ],
+          "lastName": [
+            "Kang"
+          ],
+          "initials": [
+            "KS"
+          ],
+          "affiliation": [
+            "College of Korean Medicine, Gachon University, Seongnam 13120, Korea. kkang@gachon.ac.kr."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim JC"
+          ],
+          "firstName": [
+            "Jin-Chul"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "JC"
+          ],
+          "affiliation": [
+            "Natural Products Research Institute, Korea Institute of Science and Technology, 679 Saimdang-ro, Gangneung 25451, Korea. jckim@kist.re.kr."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee JG"
+          ],
+          "firstName": [
+            "Jeong Gun"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "JG"
+          ],
+          "affiliation": [
+            "BIO Research and Development Team, S-Skin, Suwon 440-746, Korea. bio.lee@s-skin.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Ham J"
+          ],
+          "firstName": [
+            "Jungyeob"
+          ],
+          "lastName": [
+            "Ham"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Natural Products Research Institute, Korea Institute of Science and Technology, 679 Saimdang-ro, Gangneung 25451, Korea. ham0606@kist.re.kr."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee HL"
+          ],
+          "firstName": [
+            "Hye Lim"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "HL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7477-9991",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "College of Korean Medicine, Gachon University, Seongnam 13120, Korea. hanilim@gachon.ac.kr."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7477-9991",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2744457"
+      ],
+      "dateOfPublication": [
+        "2018 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of molecular sciences"
+          ],
+          "ISOAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "medlineAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "NLMid": [
+            "101092791"
+          ],
+          "ISSN": [
+            "1422-0067"
+          ],
+          "ESSN": [
+            "1422-0067"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "Shiunko ointment is composed of five ingredients including Lithospermi Radix (LR), Angelicae Gigantis Radix, sesame seed oil, beeswax, and swine oil. It is externally applied as a treatment for a wide range of skin conditions such as eczema, psoriasis, hair loss, burns, topical wounds, and atopic dermatitis. Deoxyshikonin is the major angiogenic compound extracted from LR. In this study, we investigated the efficacy of LR extract and deoxyshikonin on impaired wound healing in streptozotocin (STZ)-induced diabetic mice. Treatment with LR extract elevated tube formation in human umbilical vein endothelial cells (HUVECs) and exerted antioxidant activity. An open skin wound was produced on the backs of diabetic mice and was then topically treated with deoxyshikonin or vehicle. In addition, deoxyshikonin promoted tube formation in high glucose conditions exposed to HUVECs, and which may be regulated by increased VEGFR2 expression and phosphorylation of Akt and p38. Our results demonstrate that deoxyshikonin application promoted wound repair in STZ-induced diabetic mice. Collectively, these data suggest that deoxyshikonin is an active ingredient of LR, thereby contributing to wound healing in patients with diabetes."
+  ],
+  "affiliation": [
+    "Department of Food Science and Biotechnology, Kyonggi University, Suwon 16227, Korea. rhemf@kgu.ac.kr."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2Z05310"
+          ],
+          "agency": [
+            "Korea Institute of Science and Technology"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice, Inbred ICR"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Lithospermum"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Diabetes Mellitus, Experimental"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Disease Models, Animal"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Naphthoquinones"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Extracellular Signal-Regulated MAP Kinases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "p38 Mitogen-Activated Protein Kinases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Vascular Endothelial Growth Factor Receptor-2"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Vascular Endothelial Growth Factor A"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "RNA, Messenger"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Extracts"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Wound Healing"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Proliferation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oxidative Stress"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neovascularization, Physiologic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Human Umbilical Vein Endothelial Cells"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Wound healing",
+        "Tube formation",
+        "Deoxyshikonin",
+        "Shiunko"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "deoxyshikonin"
+          ],
+          "registryNumber": [
+            "43043-74-9"
+          ]
+        },
+        {
+          "name": [
+            "RNA, Messenger"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Plant Extracts"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Naphthoquinones"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Vascular Endothelial Growth Factor A"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Vascular Endothelial Growth Factor Receptor-2"
+          ],
+          "registryNumber": [
+            "EC 2.7.10.1"
+          ]
+        },
+        {
+          "name": [
+            "Extracellular Signal-Regulated MAP Kinases"
+          ],
+          "registryNumber": [
+            "EC 2.7.11.24"
+          ]
+        },
+        {
+          "name": [
+            "p38 Mitogen-Activated Protein Kinases"
+          ],
+          "registryNumber": [
+            "EC 2.7.11.24"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6274849?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6274849"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijms19113660"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-02-25"
+  ],
+  "dateOfCreation": [
+    "2018-11-23"
+  ],
+  "firstIndexDate": [
+    "2018-11-22"
+  ],
+  "dateOfRevision": [
+    "2019-02-25"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-20"
+  ],
+  "firstPublicationDate": [
+    "2018-11-20"
+  ]
+}

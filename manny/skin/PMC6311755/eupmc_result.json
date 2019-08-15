@@ -1,0 +1,606 @@
+{
+  "id": [
+    "30647816"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30647816"
+  ],
+  "pmcid": [
+    "PMC6311755"
+  ],
+  "doi": [
+    "10.1155/2018/8194849"
+  ],
+  "title": [
+    "Eugenol as a Promising Molecule for the Treatment of Dermatitis: Antioxidant and Anti-inflammatory Activities and Its Nanoformulation."
+  ],
+  "authorString": [
+    "de Araújo Lopes A, da Fonseca FN, Rocha TM, de Freitas LB, Araújo EVO, Wong DVT, Lima Júnior RCP, Leal LKAM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "de Araújo Lopes A"
+          ],
+          "firstName": [
+            "Amanda"
+          ],
+          "lastName": [
+            "de Araújo Lopes"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Pharmaceutical and Cosmetics Studies Center, Faculty of Pharmacy, Dentistry and Nursing, Federal University of Ceará, Fortaleza, Ceará, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "da Fonseca FN"
+          ],
+          "firstName": [
+            "Francisco Noé"
+          ],
+          "lastName": [
+            "da Fonseca"
+          ],
+          "initials": [
+            "FN"
+          ],
+          "affiliation": [
+            "Pharmaceutical and Cosmetics Studies Center, Faculty of Pharmacy, Dentistry and Nursing, Federal University of Ceará, Fortaleza, Ceará, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Rocha TM"
+          ],
+          "firstName": [
+            "Talita Magalhães"
+          ],
+          "lastName": [
+            "Rocha"
+          ],
+          "initials": [
+            "TM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6076-7030",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Pharmaceutical and Cosmetics Studies Center, Faculty of Pharmacy, Dentistry and Nursing, Federal University of Ceará, Fortaleza, Ceará, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "de Freitas LB"
+          ],
+          "firstName": [
+            "Lyara Barbosa"
+          ],
+          "lastName": [
+            "de Freitas"
+          ],
+          "initials": [
+            "LB"
+          ],
+          "affiliation": [
+            "Pharmaceutical and Cosmetics Studies Center, Faculty of Pharmacy, Dentistry and Nursing, Federal University of Ceará, Fortaleza, Ceará, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Araújo EVO"
+          ],
+          "firstName": [
+            "Emmanuel Vinicius Oliveira"
+          ],
+          "lastName": [
+            "Araújo"
+          ],
+          "initials": [
+            "EVO"
+          ],
+          "affiliation": [
+            "Pharmaceutical and Cosmetics Studies Center, Faculty of Pharmacy, Dentistry and Nursing, Federal University of Ceará, Fortaleza, Ceará, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Wong DVT"
+          ],
+          "firstName": [
+            "Deysi Viviana Tenazoa"
+          ],
+          "lastName": [
+            "Wong"
+          ],
+          "initials": [
+            "DVT"
+          ],
+          "affiliation": [
+            "Department of Physiology and Pharmacology, Federal University of Ceará, Fortaleza, Ceará, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Lima Júnior RCP"
+          ],
+          "firstName": [
+            "Roberto César Pereira"
+          ],
+          "lastName": [
+            "Lima Júnior"
+          ],
+          "initials": [
+            "RCP"
+          ],
+          "affiliation": [
+            "Department of Physiology and Pharmacology, Federal University of Ceará, Fortaleza, Ceará, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Leal LKAM"
+          ],
+          "firstName": [
+            "Luzia Kalyne Almeida Moreira"
+          ],
+          "lastName": [
+            "Leal"
+          ],
+          "initials": [
+            "LKAM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3826-2677",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Pharmaceutical and Cosmetics Studies Center, Faculty of Pharmacy, Dentistry and Nursing, Federal University of Ceará, Fortaleza, Ceará, Brazil."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3826-2677",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6076-7030",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2018"
+      ],
+      "journalIssueId": [
+        "2654971"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Oxidative medicine and cellular longevity"
+          ],
+          "ISOAbbreviation": [
+            "Oxid Med Cell Longev"
+          ],
+          "medlineAbbreviation": [
+            "Oxid Med Cell Longev"
+          ],
+          "NLMid": [
+            "101479826"
+          ],
+          "ISSN": [
+            "1942-0900"
+          ],
+          "ESSN": [
+            "1942-0994"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "8194849"
+  ],
+  "abstractText": [
+    "Contact dermatitis produces an inflammatory reaction primarily via stimulation of keratinocytes and cells of the immune system, which promote the release of cytokines, reactive oxygen species (ROS), and other chemical mediators. Eugenol (EUG, phenylpropanoid of essential oils) has attracted attention due to its anti-inflammatory properties, as well as antioxidant effect. On the other hand, it is volatile and insoluble and is a skin irritant. In this case, nanostructured systems have been successfully employed as a drug carrier for skin diseases since they improve both biological and pharmaceutical properties of active compounds. The cytotoxic, antioxidant, and anti-inflammatory effects of EUG were assessed in human neutrophils and keratinocytes. Additionally, polymeric nanocarries (NCEUG) were prepared to improve the chemical and irritant characteristics of EUG. EUG presented apparent safety and antioxidant and anti-inflammatory effects on human neutrophils, but presented cytotoxic effects on keratinocytes. However, the nanocapsules were able to reduce its cytotoxicity. An in vivo experiment of irritant contact dermatitis (ICD) in mice induced by TPA showed that NCEUG reduced significantly the ear edema in mice when compared to the EUG solution, as well as the leukocyte infiltration and IL-6 level, possibly due to better skin permeation and irritancy blockage. These findings suggest that EUG is a promising bioactive molecule, and its nanoencapsulation seems to be an interesting approach for the treatment of ICD."
+  ],
+  "affiliation": [
+    "Pharmaceutical and Cosmetics Studies Center, Faculty of Pharmacy, Dentistry and Nursing, Federal University of Ceará, Fortaleza, Ceará, Brazil."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dermatitis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Eugenol"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anti-Inflammatory Agents"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antioxidants"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anti-Infective Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Anti-Infective Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Anti-Inflammatory Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Antioxidants"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Eugenol"
+          ],
+          "registryNumber": [
+            "3T8H1794QW"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6311755?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6311755"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2018/8194849"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-02-08"
+  ],
+  "dateOfCreation": [
+    "2019-01-17"
+  ],
+  "firstIndexDate": [
+    "2019-01-16"
+  ],
+  "dateOfRevision": [
+    "2019-02-15"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-11"
+  ],
+  "firstPublicationDate": [
+    "2018-12-11"
+  ]
+}

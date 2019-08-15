@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="binomial">
+ <result pre=" " exact="Escherichia coli" xpath="/html[1]/body[1]/div[2]/div[4]/div[12]/p[1]" match="Escherichia coli" post=" was cultured in LB overnight. Then, the bacteria were washed and diluted with DPBS. Escherichia" name="binomial"/>
+ <result pre="ichia coli was cultured in LB overnight. Then, the bacteria were washed and diluted with DPBS. " exact="Escherichia coli" match="Escherichia coli" post=" at 1 × " name="binomial"/>
+</results>

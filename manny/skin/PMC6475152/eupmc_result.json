@@ -1,0 +1,385 @@
+{
+  "id": [
+    "30898791"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30898791"
+  ],
+  "pmcid": [
+    "PMC6475152"
+  ],
+  "doi": [
+    "10.1136/bmjopen-2017-019186"
+  ],
+  "title": [
+    "Retrospective study of irrational prescribing in French paediatric hospital: prevalence of inappropriate prescription detected by Pediatrics: Omission of Prescription and Inappropriate prescription (POPI) in the emergency unit and in the ambulatory setting."
+  ],
+  "authorString": [
+    "Berthe-Aucejo A, Nguyen PKH, Angoulvant F, Bellettre X, Albaret P, Weil T, Boulkedid R, Bourdon O, Prot-Labarthe S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Berthe-Aucejo A"
+          ],
+          "firstName": [
+            "Aurore"
+          ],
+          "lastName": [
+            "Berthe-Aucejo"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Pharmacy, AP-HP, Robert-Debré Hospital, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Nguyen PKH"
+          ],
+          "firstName": [
+            "Phuong Khanh Hoang"
+          ],
+          "lastName": [
+            "Nguyen"
+          ],
+          "initials": [
+            "PKH"
+          ],
+          "affiliation": [
+            "Department of Pharmacy, AP-HP, Robert-Debré Hospital, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Angoulvant F"
+          ],
+          "firstName": [
+            "François"
+          ],
+          "lastName": [
+            "Angoulvant"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "UMR-S1123, ECEVE; Inserm U1123, INSERM, Paris, Île-de-France, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Bellettre X"
+          ],
+          "firstName": [
+            "Xavier"
+          ],
+          "lastName": [
+            "Bellettre"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Emergency unit, AP-HP, Robert-Debré Hospital, Paris, Île-de-France, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Albaret P"
+          ],
+          "firstName": [
+            "Patrick"
+          ],
+          "lastName": [
+            "Albaret"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Pharmacy, Albaret Pharmacy, Cesson, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Weil T"
+          ],
+          "firstName": [
+            "Thomas"
+          ],
+          "lastName": [
+            "Weil"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Pharmacy, AP-HP, Robert-Debré Hospital, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Boulkedid R"
+          ],
+          "firstName": [
+            "Rym"
+          ],
+          "lastName": [
+            "Boulkedid"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "UMR-S1123, ECEVE; Inserm U1123, INSERM, Paris, Île-de-France, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Bourdon O"
+          ],
+          "firstName": [
+            "Olivier"
+          ],
+          "lastName": [
+            "Bourdon"
+          ],
+          "initials": [
+            "O"
+          ],
+          "affiliation": [
+            "Department of Pharmacy, AP-HP, Robert-Debré Hospital, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Prot-Labarthe S"
+          ],
+          "firstName": [
+            "Sonia"
+          ],
+          "lastName": [
+            "Prot-Labarthe"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Pharmacy, AP-HP, Robert-Debré Hospital, Paris, France."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2788248"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMJ open"
+          ],
+          "ISOAbbreviation": [
+            "BMJ Open"
+          ],
+          "medlineAbbreviation": [
+            "BMJ Open"
+          ],
+          "NLMid": [
+            "101552874"
+          ],
+          "ISSN": [
+            "2044-6055"
+          ],
+          "ESSN": [
+            "2044-6055"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e019186"
+  ],
+  "abstractText": [
+    "BACKGROUND AND OBJECTIVE:Pediatrics: Omission of Prescription and Inappropriate prescription (POPI) is the first detection tool for potentially inappropriate medicines (PIMs) and potentially prescribing omissions (PPOs) in paediatrics. The aim of this study was to evaluate the prevalence of PIM and PPO detected by POPI regarding prescriptions in hospital and for outpatients. The second objective is to determine the risk factors related to PIM and PPO. DESIGN:A retrospective, descriptive study was conducted in the emergency department (ED) and community pharmacy (CP) during 6 months. POPI was used to identify PIM and PPO. SETTING:Robert-Debré Hospital (France) and Albaret community pharmacy (Seine and Marne). PARTICIPANTS:Patients who were under 18 years old and who had one or more drugs prescribed were included. Exclusion criteria consisted of inaccessible medical records for patients consulted in ED and prescription without drugs for outpatients. PRIMARY AND SECONDARY OUTCOME MEASURES:PIM and PPO rate and risk factors. RESULTS:At the ED, 18 562 prescriptions of 15 973 patients and 4780 prescriptions of 2225 patients at the CP were analysed. The PIM rate and PPO rate were, respectively, 2.9% and 2.3% at the ED and 12.3% and 6.1% at the CP. Respiratory and digestive diseases had the highest rate of PIM. CONCLUSION:This is the first study to assess the prevalence of PIM and PPO detected by POPI in a paediatric population. This study assessed PIMs or PPOs within a hospital and a community pharmacy. POPI could be used to improve drug use and patient care and to limit hospitalisation and adverse drug reaction. A prospective multicentric study should be conducted to evaluate the impact and benefit of implementing POPI in clinical practice."
+  ],
+  "affiliation": [
+    "Department of Pharmacy, AP-HP, Robert-Debré Hospital, Paris, France."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Detection",
+        "Tool",
+        "Omission",
+        "Inappropriate Prescription"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6475152?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6475152"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1136/bmjopen-2017-019186"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-03-23"
+  ],
+  "firstIndexDate": [
+    "2019-03-23"
+  ],
+  "dateOfRevision": [
+    "2019-05-08"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-20"
+  ],
+  "firstPublicationDate": [
+    "2019-03-20"
+  ]
+}

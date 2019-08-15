@@ -1,0 +1,370 @@
+{
+  "id": [
+    "31100970"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31100970"
+  ],
+  "pmcid": [
+    "PMC6566388"
+  ],
+  "doi": [
+    "10.3390/nu11051093"
+  ],
+  "title": [
+    "Skin Carotenoids in Public Health and Nutricosmetics: The Emerging Roles and Applications of the UV Radiation-Absorbing Colourless Carotenoids Phytoene and Phytofluene."
+  ],
+  "authorString": [
+    "Meléndez-Martínez AJ, Stinco CM, Mapelli-Brahm P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Meléndez-Martínez AJ"
+          ],
+          "firstName": [
+            "Antonio J"
+          ],
+          "lastName": [
+            "Meléndez-Martínez"
+          ],
+          "initials": [
+            "AJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1553-2427",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Food Colour & Quality Laboratory, Area of Nutrition & Food Science, Universidad de Sevilla, 41012 Seville, Spain. ajmelendez@us.es."
+          ]
+        },
+        {
+          "fullName": [
+            "Stinco CM"
+          ],
+          "firstName": [
+            "Carla M"
+          ],
+          "lastName": [
+            "Stinco"
+          ],
+          "initials": [
+            "CM"
+          ],
+          "affiliation": [
+            "Food Colour & Quality Laboratory, Area of Nutrition & Food Science, Universidad de Sevilla, 41012 Seville, Spain. cstinco@us.es."
+          ]
+        },
+        {
+          "fullName": [
+            "Mapelli-Brahm P"
+          ],
+          "firstName": [
+            "Paula"
+          ],
+          "lastName": [
+            "Mapelli-Brahm"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1940-442X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Food Colour & Quality Laboratory, Area of Nutrition & Food Science, Universidad de Sevilla, 41012 Seville, Spain. pmapelli@us.es."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1553-2427",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1940-442X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2812544"
+      ],
+      "dateOfPublication": [
+        "2019 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nutrients"
+          ],
+          "ISOAbbreviation": [
+            "Nutrients"
+          ],
+          "medlineAbbreviation": [
+            "Nutrients"
+          ],
+          "NLMid": [
+            "101521595"
+          ],
+          "ISSN": [
+            "2072-6643"
+          ],
+          "ESSN": [
+            "2072-6643"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "In this work, the importance of dietary carotenoids in skin health and appearance is comprehensively reviewed and discussed. References are made to their applications in health-promoting and nutricosmetic products and the important public health implications that can be derived. Attention is focused on the colourless UV radiation (UVR)-absorbing dietary carotenoids phytoene and phytofluene, which are attracting increased interest in food science and technology, nutrition, health and cosmetics. These compounds are major dietary carotenoids, readily bioavailable, and have been shown to be involved in several health-promoting actions, as pinpointed in recent reviews. The growing evidence that these unique UVR-absorbing carotenoids with distinctive structures, properties (light absorption, susceptibility to oxidation, rigidity, tendency to aggregation, or even fluorescence, in the case of phytofluene) and activities can be beneficial in these contexts is highlighted. Additionally, the recommendation that the levels of these carotenoids are considered in properly assessing skin carotenoid status is made."
+  ],
+  "affiliation": [
+    "Food Colour & Quality Laboratory, Area of Nutrition & Food Science, Universidad de Sevilla, 41012 Seville, Spain. ajmelendez@us.es."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "AGL2012-37610, co-funded by FEDER"
+          ],
+          "agency": [
+            "Secretaría de Estado de Investigacion, Desarrollo e Innovacion"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "CaRed, BIO2015-71703-REDT"
+          ],
+          "agency": [
+            "Secretaría de Estado de Investigacion, Desarrollo e Innovacion"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "CP3172 CGT0387"
+          ],
+          "agency": [
+            "IBR - Israeli Biotechnology Research, Ltd"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "CAROTINCO-P12-AGR-1287"
+          ],
+          "agency": [
+            "Consejería de Economía, Innovación, Ciencia y Empleo, Junta de Andalucía"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Photoprotection",
+        "Public Health",
+        "Functional Foods",
+        "Phytofluene",
+        "Nutraceuticals",
+        "Cosmeceuticals",
+        "Phytoene",
+        "Nutricosmetics",
+        "Colourless Carotenoids"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6566388?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6566388"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/nu11051093"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-05-19"
+  ],
+  "firstIndexDate": [
+    "2019-05-18"
+  ],
+  "dateOfRevision": [
+    "2019-06-18"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-16"
+  ],
+  "firstPublicationDate": [
+    "2019-05-16"
+  ]
+}

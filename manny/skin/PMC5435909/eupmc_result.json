@@ -1,0 +1,288 @@
+{
+  "id": [
+    "28546822"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28546822"
+  ],
+  "pmcid": [
+    "PMC5435909"
+  ],
+  "doi": [
+    "10.1155/2017/4517971"
+  ],
+  "title": [
+    "Commercial Essential Oils as Potential Antimicrobials to Treat Skin Diseases."
+  ],
+  "authorString": [
+    "Orchard A, van Vuuren S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Orchard A"
+          ],
+          "firstName": [
+            "Ané"
+          ],
+          "lastName": [
+            "Orchard"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6767-7110",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Pharmacy and Pharmacology, Faculty of Health Sciences, University of the Witwatersrand, 7 York Road, Parktown 2193, South Africa."
+          ]
+        },
+        {
+          "fullName": [
+            "van Vuuren S"
+          ],
+          "firstName": [
+            "Sandy"
+          ],
+          "lastName": [
+            "van Vuuren"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4859-1845",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Pharmacy and Pharmacology, Faculty of Health Sciences, University of the Witwatersrand, 7 York Road, Parktown 2193, South Africa."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6767-7110",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4859-1845",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2017"
+      ],
+      "journalIssueId": [
+        "2517870"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Evidence-based complementary and alternative medicine : eCAM"
+          ],
+          "ISOAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "medlineAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "NLMid": [
+            "101215021"
+          ],
+          "ISSN": [
+            "1741-427X"
+          ],
+          "ESSN": [
+            "1741-4288"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "4517971"
+  ],
+  "abstractText": [
+    "Essential oils are one of the most notorious natural products used for medical purposes. Combined with their popular use in dermatology, their availability, and the development of antimicrobial resistance, commercial essential oils are often an option for therapy. At least 90 essential oils can be identified as being recommended for dermatological use, with at least 1500 combinations. This review explores the fundamental knowledge available on the antimicrobial properties against pathogens responsible for dermatological infections and compares the scientific evidence to what is recommended for use in common layman's literature. Also included is a review of combinations with other essential oils and antimicrobials. The minimum inhibitory concentration dilution method is the preferred means of determining antimicrobial activity. While dermatological skin pathogens such as Staphylococcus aureus have been well studied, other pathogens such as Streptococcus pyogenes, Propionibacterium acnes, Haemophilus influenzae, and Brevibacterium species have been sorely neglected. Combination studies incorporating oil blends, as well as interactions with conventional antimicrobials, have shown that mostly synergy is reported. Very few viral studies of relevance to the skin have been made. Encouragement is made for further research into essential oil combinations with other essential oils, antimicrobials, and carrier oils."
+  ],
+  "affiliation": [
+    "Department of Pharmacy and Pharmacology, Faculty of Health Sciences, University of the Witwatersrand, 7 York Road, Parktown 2193, South Africa."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5435909?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5435909"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2017/4517971"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "8"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-05-26"
+  ],
+  "firstIndexDate": [
+    "2017-05-26"
+  ],
+  "dateOfRevision": [
+    "2017-08-16"
+  ],
+  "electronicPublicationDate": [
+    "2017-05-04"
+  ],
+  "firstPublicationDate": [
+    "2017-05-04"
+  ]
+}

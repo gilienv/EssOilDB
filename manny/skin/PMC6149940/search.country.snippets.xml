@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6149940/results/search/country/results.xml">
+  <result pre="who completed the study were recruited from 5 centers: Paris," exact="France" post="(31% of patients); Milan, Italy (28%); Berlin, Germany (23%);"/>
+  <result pre="recruited from 5 centers: Paris, France (31% of patients); Milan," exact="Italy" post="(28%); Berlin, Germany (23%); Madrid, Spain (12%); and Montreal,"/>
+  <result pre="centers: Paris, France (31% of patients); Milan, Italy (28%); Berlin," exact="Germany" post="(23%); Madrid, Spain (12%); and Montreal, Canada (6%). Mean"/>
+  <result pre="(31% of patients); Milan, Italy (28%); Berlin, Germany (23%); Madrid," exact="Spain" post="(12%); and Montreal, Canada (6%). Mean age (±SD) was"/>
+  <result pre="Italy (28%); Berlin, Germany (23%); Madrid, Spain (12%); and Montreal," exact="Canada" post="(6%). Mean age (±SD) was 59±11 years (range: 28–84)"/>
+ </snippets>
+</snippetsTree>

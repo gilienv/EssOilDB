@@ -1,0 +1,330 @@
+{
+  "id": [
+    "PMC5535692"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC5535692"
+  ],
+  "doi": [
+    "10.3889/oamjms.2017.126"
+  ],
+  "title": [
+    "History of the Baths and Thermal Medicine."
+  ],
+  "authorString": [
+    "Gianfaldoni S, Tchernev G, Wollina U, Roccia MG, Fioranelli M, Gianfaldoni R, Lotti T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gianfaldoni S"
+          ],
+          "firstName": [
+            "Serena"
+          ],
+          "lastName": [
+            "Gianfaldoni"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "1University G. Marconi of Rome, Dermatology and Venereology, Rome 00192, Italy"
+          ]
+        },
+        {
+          "fullName": [
+            "Tchernev G"
+          ],
+          "firstName": [
+            "Georgi"
+          ],
+          "lastName": [
+            "Tchernev"
+          ],
+          "initials": [
+            "G"
+          ]
+        },
+        {
+          "fullName": [
+            "Wollina U"
+          ],
+          "firstName": [
+            "Uwe"
+          ],
+          "lastName": [
+            "Wollina"
+          ],
+          "initials": [
+            "U"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5933-2913",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Roccia MG"
+          ],
+          "firstName": [
+            "Maria Grazia"
+          ],
+          "lastName": [
+            "Roccia"
+          ],
+          "initials": [
+            "MG"
+          ]
+        },
+        {
+          "fullName": [
+            "Fioranelli M"
+          ],
+          "firstName": [
+            "Massimo"
+          ],
+          "lastName": [
+            "Fioranelli"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Gianfaldoni R"
+          ],
+          "firstName": [
+            "Roberto"
+          ],
+          "lastName": [
+            "Gianfaldoni"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Lotti T"
+          ],
+          "firstName": [
+            "Torello"
+          ],
+          "lastName": [
+            "Lotti"
+          ],
+          "initials": [
+            "T"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5933-2913",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2585344"
+      ],
+      "dateOfPublication": [
+        "2017 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Open access Macedonian journal of medical sciences"
+          ],
+          "ISOAbbreviation": [
+            "Open Access Maced J Med Sci"
+          ],
+          "medlineAbbreviation": [
+            "Open Access Maced J Med Sci"
+          ],
+          "NLMid": [
+            "101662294"
+          ],
+          "ISSN": [
+            "1857-9655"
+          ],
+          "ESSN": [
+            "1857-9655"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "566-568"
+  ],
+  "abstractText": [
+    "Hot Springs and Thermal Medicine are an important cultural background all around the world. The authors briefly describe the history of the spa from its origins to today."
+  ],
+  "affiliation": [
+    "1University G. Marconi of Rome, Dermatology and Venereology, Rome 00192, Italy"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Obituary"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Treatment",
+        "Tourism",
+        "History",
+        "Wellness",
+        "Thermal Medicine"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5535692"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5535692/?tool=EBI"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-08-11"
+  ],
+  "firstIndexDate": [
+    "2017-08-11"
+  ],
+  "dateOfRevision": [
+    "2017-08-11"
+  ],
+  "electronicPublicationDate": [
+    "2017-07-23"
+  ],
+  "firstPublicationDate": [
+    "2017-07-23"
+  ]
+}

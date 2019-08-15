@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="country">
+ <result pre="1 2 3 https://orcid.org/0000-0002-0177-3844 Leung Donald Y.M. 3 4 [1]," exact="Singapore" post="[2], Singapore [3], USA [4], USA Correspondence to Donald"/>
+ <result pre="3 https://orcid.org/0000-0002-0177-3844 Leung Donald Y.M. 3 4 [1], Singapore [2]," exact="Singapore" post="[3], USA [4], USA Correspondence to Donald Y.M. Leung,"/>
+ <result pre="hydrolyzed wheat protein allergy due to a facial soap in" exact="Japan" post="J Allergy Clin Immunol 2017 140 879 881.e7 28633942"/>
+</results>

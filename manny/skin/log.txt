@@ -1,0 +1,1 @@
+  545  getpapers -q "((dermatitis OR warts OR acne) AND ((Essential oil) OR (terpene)))" -o skin -k 200 -p -x 

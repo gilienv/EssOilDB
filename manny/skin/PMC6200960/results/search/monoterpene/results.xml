@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="monoterpene">
+ <result pre="111.66 116.15 33.58 DL-camphene 3.86 7.85 6.18 10.40 7.07 33.58" exact="Camphene" post="5.34 8.93 7.44 11.35 8.26 34.04 1-Heptanol 10.41 51.73"/>
+ <result pre="97.83 105.27 33.58 DL-camphene 0.36 3.48 1.86 3.61 2.33 33.58" exact="Camphene" post="1.99 4.94 3.17 5.15 3.81 34.04 1-Heptanol 0.16 0.22"/>
+</results>

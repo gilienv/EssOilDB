@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6116743/results/search/country/results.xml">
+  <result pre="[1], School of Pharmaceutical Sciences Wenzhou Medical University Wenzhou 325035" exact="China" post="[2], Collaborative Innovation Center of Biomedicine Wenzhou Medical University‐Wenzhou"/>
+  <result pre="Innovation Center of Biomedicine Wenzhou Medical University‐Wenzhou University Wenzhou 325035" exact="China" post="[3], Ningbo First Hospital Ningbo 315000 China [4], BiolandBiotec."/>
+  <result pre="University Wenzhou 325035 China [3], Ningbo First Hospital Ningbo 315000" exact="China" post="[4], BiolandBiotec. Co., Ltd. Zhangjiang Modern Medical Device Park"/>
+  <result pre="Co., Ltd. Zhangjiang Modern Medical Device Park Pudong, Shanghai 201203" exact="China" post="[5], SK Bioland 59, Songjeongni 2‐gil, Byeongchen, Dongnam, Cheonan"/>
+  <result pre="any of the authors. Horse oil was purchased from Shijiazhuang" exact="China" post="Cosmetics Trade Co. Ltd. Supporting information Fig. S1. The"/>
+ </snippets>
+</snippetsTree>

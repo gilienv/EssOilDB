@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="frequencies">
+ <result title="frequency" count="12">S. aureus</result>
+ <result title="frequency" count="8">S. epidermidis</result>
+ <result title="frequency" count="4">Schmidtea epidermidis</result>
+ <result title="frequency" count="3">Schmidtea aureus</result>
+ <result title="frequency" count="2">Lactobacillus plantarum</result>
+ <result title="frequency" count="2">Lactobacillus reuteri</result>
+ <result title="frequency" count="1">Candida albicans</result>
+ <result title="frequency" count="1">A. junii</result>
+ <result title="frequency" count="1">A. baumanni</result>
+ <result title="frequency" count="1">Cladosporidium herbarum</result>
+ <result title="frequency" count="1">Vitreoscilla filiformis</result>
+ <result title="frequency" count="1">Pseudomonas aeruginosa</result>
+ <result title="frequency" count="1">Bdellovibrio bacteriovirus</result>
+ <result title="frequency" count="1">Schmidtea mediterranea</result>
+ <result title="frequency" count="1">Lactobacillus johnsonii</result>
+</results>

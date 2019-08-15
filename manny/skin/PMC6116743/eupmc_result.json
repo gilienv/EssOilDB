@@ -1,0 +1,890 @@
+{
+  "id": [
+    "30022625"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30022625"
+  ],
+  "pmcid": [
+    "PMC6116743"
+  ],
+  "doi": [
+    "10.1111/1751-7915.13297"
+  ],
+  "title": [
+    "A novel microbial technique for producing high-quality sophorolipids from horse oil suitable for cosmetic applications."
+  ],
+  "authorString": [
+    "Maeng Y, Kim KT, Zhou X, Jin L, Kim KS, Kim YH, Lee S, Park JH, Chen X, Kong M, Cai L, Li X."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Maeng Y"
+          ],
+          "firstName": [
+            "Yoojae"
+          ],
+          "lastName": [
+            "Maeng"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Pharmaceutical Sciences, Wenzhou Medical University, Wenzhou, 325035, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim KT"
+          ],
+          "firstName": [
+            "Kyoung Tae"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "KT"
+          ],
+          "affiliation": [
+            "School of Pharmaceutical Sciences, Wenzhou Medical University, Wenzhou, 325035, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou X"
+          ],
+          "firstName": [
+            "Xuan"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Ningbo First Hospital, Ningbo, 315000, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Jin L"
+          ],
+          "firstName": [
+            "Litai"
+          ],
+          "lastName": [
+            "Jin"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "School of Pharmaceutical Sciences, Wenzhou Medical University, Wenzhou, 325035, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim KS"
+          ],
+          "firstName": [
+            "Ki Soo"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "KS"
+          ],
+          "affiliation": [
+            "School of Pharmaceutical Sciences, Wenzhou Medical University, Wenzhou, 325035, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim YH"
+          ],
+          "firstName": [
+            "Young Heui"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "YH"
+          ],
+          "affiliation": [
+            "SK Bioland, 59, Songjeongni 2-gil, Byeongchen, Dongnam, Cheonan, Chungnam, 31257, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee S"
+          ],
+          "firstName": [
+            "Suyeon"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "SK Bioland, 59, Songjeongni 2-gil, Byeongchen, Dongnam, Cheonan, Chungnam, 31257, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Park JH"
+          ],
+          "firstName": [
+            "Ji Ho"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "JH"
+          ],
+          "affiliation": [
+            "SK Bioland, 162, Gwahaksaneop 3-ro, Ochang, Cheongwon, Cheongju, Chungbuk, 28125, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen X"
+          ],
+          "firstName": [
+            "Xiuyu"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "BiolandBiotec. Co., Ltd., Zhangjiang Modern Medical Device Park, Pudong, Shanghai, 201203, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Kong M"
+          ],
+          "firstName": [
+            "Mingxia"
+          ],
+          "lastName": [
+            "Kong"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "BiolandBiotec. Co., Ltd., Zhangjiang Modern Medical Device Park, Pudong, Shanghai, 201203, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Cai L"
+          ],
+          "firstName": [
+            "Lu"
+          ],
+          "lastName": [
+            "Cai"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3048-1135",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Departments of Pediatrics, Radiation Oncology, Pharmacology and Toxicology, Pediatric Research Institute, University of Louisville, Louisville, KY, 40202, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Li X"
+          ],
+          "firstName": [
+            "Xiaokun"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "School of Pharmaceutical Sciences, Wenzhou Medical University, Wenzhou, 325035, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3048-1135",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2718828"
+      ],
+      "dateOfPublication": [
+        "2018 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Microbial biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Microb Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Microb Biotechnol"
+          ],
+          "NLMid": [
+            "101316335"
+          ],
+          "ISSN": [
+            "1751-7915"
+          ],
+          "ESSN": [
+            "1751-7915"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "917-929"
+  ],
+  "abstractText": [
+    "Horse oil contains linoleic, palmitoleic and unsaturated fatty acids that are similar to those in human skin, and may therefore be an ideal substance from which to isolate biosurfactants for cosmetic products to improve human skin quality. Herein, an innovative approach was developed to synthesise sophorolipids from horse oil by hydrolysis, followed by fermentation using the yeast Candida bombicola. The yield of sophorolipids from direct fermentation of horse oil and hydrolysed horse oil was 40.6 ± 1.3 g l-1 and 58.4 ± 1.8 g l-1 respectively. To further increase the yield, 30-40 g l-1 glucose was added in a fed-batch fermentation process to maintain the pH between 4.0 and 4.5, resulting in a conversion yield of 71.7 ± 0.8 g l-1 . The purity and structure of the synthesised sophorolipids were analysed by ultra-performance liquid chromatography-mass spectrometry and nuclear magnetic resonance. An in vitro human dermal fibroblast model was used as a surrogate for human skin to measure elastase inhibition activity. Antiwrinkle properties of isolated sophorolipids were better than those of horse oil or hydrolysed horse oil in several in vitro assays. Furthermore, no cytotoxicity was observed at a concentration of 50 μg ml-1 , and wound-healing capacity was evident in a cell culture model. Additionally, the synthesised sophorolipids attenuated lipopolysaccharide-induced expression of inflammatory cytokines in macrophages, and efficiently inhibited several strains of bacteria and yeast. In conclusion, fed-batch fermentation of hydrolysed horse oil is a novel and efficient approach for producing high-quality and high-yield sophorolipids that exhibit great potential as cosmetic ingredients."
+  ],
+  "affiliation": [
+    "School of Pharmaceutical Sciences, Wenzhou Medical University, Wenzhou, 325035, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cells, Cultured"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fibroblasts"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Horses"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Candida"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pancreatic Elastase"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AI"
+                  ],
+                  "qualifierName": [
+                    "antagonists & inhibitors"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Glucose"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oleic Acids"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oils"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Enzyme Inhibitors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cosmetics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chromatography, High Pressure Liquid"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Magnetic Resonance Spectroscopy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biotechnology"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Survival"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fermentation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biotransformation"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Oleic Acids"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Oils"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Enzyme Inhibitors"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Pancreatic Elastase"
+          ],
+          "registryNumber": [
+            "EC 3.4.21.36"
+          ]
+        },
+        {
+          "name": [
+            "Cosmetics"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Glucose"
+          ],
+          "registryNumber": [
+            "IY9XDZ35W2"
+          ]
+        },
+        {
+          "name": [
+            "sophorolipid"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6116743?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6116743"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1111/1751-7915.13297"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-02-04"
+  ],
+  "dateOfCreation": [
+    "2018-07-20"
+  ],
+  "firstIndexDate": [
+    "2018-07-20"
+  ],
+  "dateOfRevision": [
+    "2019-02-15"
+  ],
+  "electronicPublicationDate": [
+    "2018-07-18"
+  ],
+  "firstPublicationDate": [
+    "2018-07-18"
+  ]
+}

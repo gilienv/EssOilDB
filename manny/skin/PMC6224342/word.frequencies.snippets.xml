@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6224342/results/word/frequencies/results.xml">
+  <result title="frequency" word="pemphigoid" count="86"/>
+  <result title="frequency" word="Dermatol." count="85"/>
+  <result title="frequency" word="autoantibodies" count="69"/>
+  <result title="frequency" word="bullous" count="69"/>
+  <result title="frequency" word="diagnosis" count="52"/>
+  <result title="frequency" word="pemphigus" count="47"/>
+  <result title="frequency" word="patients" count="42"/>
+  <result title="frequency" word="disease" count="38"/>
+  <result title="frequency" word="IgA" count="37"/>
+  <result title="frequency" word="./j.-...x" count="35"/>
+  <result title="frequency" word="skin" count="35"/>
+  <result title="frequency" word="ELISA" count="33"/>
+  <result title="frequency" word="Schmidt" count="31"/>
+  <result title="frequency" word="autoimmune" count="30"/>
+  <result title="frequency" word="membrane" count="30"/>
+  <result title="frequency" word="(Figure" count="28"/>
+  <result title="frequency" word="IgG" count="26"/>
+  <result title="frequency" word="Invest" count="26"/>
+  <result title="frequency" word="mucous" count="26"/>
+  <result title="frequency" word="Dermatol" count="25"/>
+  <result title="frequency" word="human" count="25"/>
+  <result title="frequency" word="recombinant" count="25"/>
+  <result title="frequency" word="detected" count="24"/>
+  <result title="frequency" word="Zillikens" count="23"/>
+  <result title="frequency" word="antibodies" count="23"/>
+  <result title="frequency" word="bullosa" count="23"/>
+  <result title="frequency" word="microscopy" count="22"/>
+  <result title="frequency" word="using" count="22"/>
+  <result title="frequency" word="BP," count="21"/>
+  <result title="frequency" word="VII" count="21"/>
+  <result title="frequency" word="diseases" count="21"/>
+  <result title="frequency" word="epidermolysis" count="21"/>
+  <result title="frequency" word="immunofluorescence" count="21"/>
+  <result title="frequency" word="type" count="21"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,278 @@
+{
+  "id": [
+    "28979340"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28979340"
+  ],
+  "pmcid": [
+    "PMC5623910"
+  ],
+  "title": [
+    "Iranian Native Plants on Treatment of Cutaneous Leishmaniosis: A Narrative Review."
+  ],
+  "authorString": [
+    "Moghaddas E, Khamesipour A, Mohebali M, Fata A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Moghaddas E"
+          ],
+          "firstName": [
+            "Elham"
+          ],
+          "lastName": [
+            "Moghaddas"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Dept. of Parasitology and Mycology, School of Medicine, Mashhad University of Medical Sciences, Mashhad, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Khamesipour A"
+          ],
+          "firstName": [
+            "Ali"
+          ],
+          "lastName": [
+            "Khamesipour"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Center for Research and Training in Skin Diseases and Leprosy, Tehran University of Medical Sciences, Tehran, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Mohebali M"
+          ],
+          "firstName": [
+            "Mehdi"
+          ],
+          "lastName": [
+            "Mohebali"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Dept. of Parasitology and Mycology, School of Public Health, Tehran University of Medical Sciences, Tehran, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Fata A"
+          ],
+          "firstName": [
+            "Abdolmajid"
+          ],
+          "lastName": [
+            "Fata"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Skin Diseases and Cutaneous Leishmaniasis Research Center, School of Medicine, Mashhad University of Medical Sciences, Mashhad, Iran."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2604391"
+      ],
+      "dateOfPublication": [
+        "2017 Jul-Sep"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Iranian journal of parasitology"
+          ],
+          "ISOAbbreviation": [
+            "Iran J Parasitol"
+          ],
+          "medlineAbbreviation": [
+            "Iran J Parasitol"
+          ],
+          "NLMid": [
+            "101464309"
+          ],
+          "ISSN": [
+            "1735-7020"
+          ],
+          "ESSN": [
+            "2008-238X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "312-322"
+  ],
+  "abstractText": [
+    "Chemotherapy still relies on the use of pentavalent antimonials, amphotericin B, paromomycin, miltefosin, and allopurinol. In this study, we explained about the native plant that grows in different regions of Iran and used as anti-leishmanial in Iran and even many other countries.This narrative review covers all information about local herbal medicine in Iran that used in treatment of cutaneous leishmaniasis in all the worlds, published in local and international journals from 1996 to 2015 using various databases including PubMed, SID, Google Scholar, Scopus, and Science Direct.Overall, 150 articles in databases were identified. Many local plants grown in some places of Iran were used to treat this endemic disease.The cutaneous leishmaniasis is also a major health problem in Iran, especially in Mashhad (Northeast of Iran). Therefore, many patients seek for herbal therapy that is cheaper and readily available. This review provides information regarding plant that exists in Iran and exhibiting effects on anti-Leishmania activity. Among the anti-leishmanial mentioned in this review, most have never been tested for cytotoxicity and very few have been tested for in vivo activity."
+  ],
+  "affiliation": [
+    "Dept. of Parasitology and Mycology, School of Medicine, Mashhad University of Medical Sciences, Mashhad, Iran."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Iran",
+        "Treatment",
+        "herbal medicine",
+        "Cutaneous Leishmaniasis"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5623910?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5623910"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-10-05"
+  ],
+  "firstIndexDate": [
+    "2017-10-06"
+  ],
+  "dateOfRevision": [
+    "2017-10-08"
+  ],
+  "firstPublicationDate": [
+    "2017-07-01"
+  ]
+}

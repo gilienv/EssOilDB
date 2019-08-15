@@ -1,0 +1,585 @@
+disease,count
+dermatitis,334
+cancer,233
+atopic dermatitis,198
+allergy,122
+asthma,94
+contact dermatitis,92
+suppression,81
+psoriasis,78
+hypersensitivity,78
+acne vulgaris,64
+atopic dermatitis,,59
+allergic contact dermatitis,49
+arthritis,47
+breast cancer,36
+atopic dermatitis.,36
+leukemia,36
+skin cancer,34
+rhinitis,31
+food allergy,28
+allergic rhinitis,28
+contact dermatitis.,26
+colitis,26
+cervical cancer,26
+atherosclerosis,25
+cardiovascular disease,24
+hepatitis,24
+malaria,24
+colorectal cancer,23
+alopecia,23
+rheumatoid arthritis,22
+obesity,22
+prostate cancer,21
+contact dermatitis,,20
+lung cancer,20
+colon cancer,20
+acne vulgaris.,19
+diabetes mellitus,19
+scabies,18
+leishmaniasis,17
+candidiasis,17
+allergic asthma,16
+aids,16
+allergic contact dermatitis.,16
+tuberculosis,15
+constipation,15
+diarrhea,15
+pneumonia,15
+food allergy,,14
+rash,14
+liver cancer,14
+allergic rhinitis,,14
+heart disease,14
+herpes simplex,13
+conjunctivitis,13
+rheumatoid arthritis,,13
+liver disease,13
+migraine,12
+metabolic syndrome,12
+irritant contact dermatitis,12
+ovarian cancer,11
+lymphoma,11
+hepatocellular carcinoma,11
+otitis media,11
+neuroblastoma,11
+acne vulgaris,,11
+rosacea,10
+osteoporosis,10
+cutaneous leishmaniasis,10
+glioma,10
+blepharitis,9
+influenza,9
+pancreatic cancer,9
+osteoarthritis,9
+diabetes mellitus,,9
+anemia,9
+cardiovascular disease,,9
+stroke,8
+atopic dermatitis;,8
+epilepsy,8
+hyperglycemia,8
+chronic obstructive pulmonary disease,8
+encephalomyelitis,8
+allergic rhinitis.,8
+seborrheic dermatitis,8
+multiple sclerosis,8
+bronchiolitis,8
+skin cancer,,8
+stomatitis,8
+urticaria,8
+encephalitis,7
+lung carcinoma,7
+breast cancer,,7
+pemphigus,7
+myopathy,7
+autoimmune disease,7
+myeloid leukemia,7
+polycystic ovary syndrome,7
+epidermolysis bullosa,7
+gastric ulcer,7
+cystic fibrosis,7
+heart disease,,7
+bullous pemphigoid,7
+ulcerative colitis,7
+infectious disease,7
+food allergy.,6
+bladder cancer,6
+dementia,6
+colon cancer,,6
+allergic asthma.,6
+sinusitis,6
+lupus erythematosus,6
+metabolic syndrome,,6
+pulmonary fibrosis,6
+folliculitis,6
+cystitis,6
+lichen planus,6
+fatty liver disease,6
+sarcoma,6
+allergic contact dermatitis,,6
+dermatophytosis,6
+cellulitis,6
+seborrheic dermatitis,,6
+eosinophilia,5
+infertility,5
+contact dermatitis;,5
+respiratory disease,5
+periodontitis,5
+esophageal cancer,5
+peanut allergy,5
+osteosarcoma,5
+urinary tract infection,5
+liver disease,,5
+allergic asthma,,5
+liver disease.,5
+syphilis,5
+gastroenteritis,5
+otitis media,,5
+keratitis,5
+cheilitis,5
+fibrosarcoma,5
+ichthyosis vulgaris,5
+muscular dystrophy,5
+cervical cancer.,5
+dyslipidemia,5
+skin cancer.,5
+myositis,5
+schizophrenia,5
+shortness,5
+ileus,4
+common cold,,4
+prostatitis,4
+cholestasis,4
+varicose veins,4
+nasopharyngeal carcinoma,4
+irritable bowel syndrome,4
+acrodermatitis,4
+herpes zoster,4
+neoplasm,4
+gallbladder cancer,4
+gout,4
+cholangiocarcinoma,4
+vaginitis,4
+measles,4
+azoospermia,4
+pleurisy,4
+"athlete's foot,",4
+typhus,4
+metabolic disorder,4
+cervical cancer,,4
+pulmonary edema,4
+molluscum contagiosum,4
+scrub typhus,4
+multiple sclerosis.,4
+tonsillitis,4
+head and neck cancer,4
+filariasis,4
+cardiovascular disease.,4
+hypothyroidism,4
+neuropathy,4
+pertussis,3
+lichen planus.,3
+pancreatitis,3
+otitis externa,,3
+congenital heart disease,3
+dental caries,,3
+cholesteatoma,3
+prostate cancer,,3
+atrial fibrillation,3
+otitis externa,3
+oligospermia,3
+urinary tract infection,,3
+bullous pemphigoid.,3
+adenoma,3
+sarcoidosis,3
+peptic ulcer,3
+neurological disorder,,3
+skin melanoma,3
+hemolytic anemia,3
+cystic fibrosis,,3
+oral cancer,3
+multiple myeloma,3
+vaccinia virus,3
+systemic lupus erythematosus,3
+herpes genitalis,3
+impetigo,3
+neurodegeneration,3
+lactose intolerance,3
+lung disease,3
+common cold,3
+chronic kidney disease,3
+herpes simplex,,3
+telogen effluvium,3
+oral candidiasis,3
+hyperthyroidism,3
+chronic myeloid leukemia,3
+endometrial cancer,3
+yellow fever,,3
+rickets,3
+sensorineural hearing loss,3
+essential hypertension,3
+visceral leishmaniasis,3
+erythropoietic protoporphyria,3
+seborrheic dermatitis.,3
+autoimmune disease.,3
+vitiligo,3
+eosinophilic esophagitis,3
+allergic contact dermatitis;,3
+chronic fatigue syndrome,3
+irritant contact dermatitis;,2
+irritable bowel syndrome,,2
+irritable bowel syndrome.,2
+pulmonary fibrosis.,2
+irritant contact dermatitis,,2
+irritant contact dermatitis.,2
+peritonitis,2
+lichen planus,,2
+acute respiratory distress syndrome,2
+pulmonary fibrosis,,2
+otitis externa.,2
+galactosemia,2
+xerophthalmia,2
+enteropathy,2
+chancroid,2
+food allergy?,2
+metabolic disorder,,2
+childhood absence epilepsy,2
+chronic lymphocytic leukemia,2
+prostate cancer.,2
+erectile dysfunction,,2
+fatty liver disease.,2
+retinoblastoma,2
+dry eye syndrome,2
+colon cancer.,2
+yellow fever,2
+biotin deficiency,2
+prediabetes,2
+bullous pemphigoid,,2
+pulmonary emphysema,2
+nemaline myopathy,2
+renal cell carcinoma,2
+tetanus,2
+rhabdomyosarcoma,2
+schistosomiasis,2
+breast cancer.,2
+pediculosis,2
+erythropoietic protoporphyria,,2
+varicose veins,,2
+purpura,2
+atopic dermatitis?,2
+scrub typhus.,2
+scrub typhus,,2
+chronic conjunctivitis,2
+typhoid fever,2
+pulmonary tuberculosis,2
+otitis media.,2
+ovarian cancer,,2
+dyspepsia,2
+glioblastoma multiforme,2
+peripheral neuropathy,2
+anorexia nervosa.,2
+cirrhosis,2
+dental fluorosis,2
+hernia,2
+chronic obstructive pulmonary disease.,2
+actinic keratosis,,2
+head and neck cancer,,2
+androgenic alopecia,2
+vulvovaginitis,2
+cerebral infarction,2
+gastric ulcer,,2
+pharyngitis,2
+myotonic dystrophy.,2
+peptic ulcer,,2
+diabetes mellitus.,2
+cataract,2
+short bowel syndrome,2
+hepatoblastoma,2
+congenital diaphragmatic hernia,2
+postpartum depression,2
+glomerulonephritis,2
+lipodystrophy,2
+urethritis,2
+amyotrophic lateral sclerosis,2
+intrahepatic cholangiocarcinoma,2
+suppurative otitis media,,2
+attention deficit hyperactivity disorder.,2
+angular cheilitis,,2
+gingivitis,2
+proteinuria,2
+diphtheria,2
+glucose intolerance,2
+heart disease.,2
+suppurative otitis media,2
+lactose intolerance.,2
+stomach cancer,2
+ear disease,2
+brain cancer,2
+uveitis,2
+macular degeneration,2
+osteomyelitis,2
+astrocytoma,2
+gestational diabetes,2
+malabsorption,2
+glucose-6-phosphate dehydrogenase deficiency,2
+pulmonary edema,,2
+pulmonary hypertension;,2
+ulcerative colitis,,2
+nephritis,2
+pulmonary edema.,2
+lung disease.,2
+herpes zoster,,2
+metabolic acidosis,2
+ichthyosis vulgaris.,2
+pityriasis versicolor,2
+hyperuricemia,2
+cicatricial pemphigoid,2
+pyoderma,2
+lung cancer.,2
+lung cancer,,2
+fasciitis,2
+parasitic disease,2
+tertiary syphilis,,1
+telogen effluvium,,1
+thyroid disease,,1
+periodontal disease,1
+toxoplasmosis,1
+status epilepticus.,1
+leprosy,1
+thyroid disease,1
+bipolar disorder,,1
+giardiasis,1
+smallpox,1
+respiratory failure,,1
+paralytic ileus,1
+osteomalacia,1
+amyloidosis,1
+thyroid cancer,1
+actinic keratosis,1
+tinea manuum,,1
+liver cancer;,1
+eye disease.,1
+liver cancer,,1
+inclusion body myositis,,1
+oral submucous fibrosis,1
+vasculitis,1
+tonsil cancer,1
+monocytic leukemia,1
+mucocutaneous leishmaniasis,1
+amnesia,1
+dental caries.,1
+chickenpox,1
+common cold;,1
+macroglobulinemia,1
+duodenal ulcer,1
+tongue cancer,1
+rheumatic fever,1
+mixed connective tissue disease,,1
+cleft lip,1
+leukopenia,1
+propionic acidemia,1
+lipoma,1
+muscular dystrophy.,1
+alcohol abuse,1
+motion sickness,,1
+nail disease,,1
+anthrax,1
+albinism,1
+optic neuritis,1
+dirofilariasis,1
+vaginal discharge,1
+heart attack,1
+acute disseminated encephalomyelitis,1
+gastrointestinal disease.,1
+bronchiectasis,1
+periodontal disease.,1
+periodontal disease,,1
+endocarditis,1
+macular degeneration,,1
+mycosis,1
+bullous pemphigoid;,1
+interstitial nephritis.,1
+endophthalmitis,1
+atrial fibrillation?,1
+pityriasis rubra pilaris,,1
+encephalopathy,1
+pancreatic cancer.,1
+functional diarrhea,,1
+pancreatic cancer,,1
+scarlet fever,,1
+pityriasis versicolor,,1
+diabetic neuropathy,,1
+amyotrophic lateral sclerosis,,1
+myasthenia gravis.,1
+idiopathic pulmonary fibrosis,1
+epidermolysis bullosa,,1
+epidermolysis bullosa.,1
+anxiety disorder,1
+eye disease,1
+spotted fever,1
+paracoccidioidomycosis,1
+post-traumatic stress disorder,1
+gonorrhea,1
+kidney failure,1
+systemic lupus erythematosus,,1
+angioedema,1
+facioscapulohumeral muscular dystrophy,1
+teratoma,1
+oral cancer.,1
+erythropoietic protoporphyria.,1
+pulmonary embolism,,1
+peripheral artery disease,1
+mental disorder,1
+pressure ulcer,1
+rheumatoid arthritis.,1
+epididymitis,1
+renal agenesis,1
+learning disability,,1
+lyme disease.,1
+tinea cruris,,1
+aphthous stomatitis,1
+learning disability.,1
+otitis media;,1
+acute monocytic leukemia,1
+substance abuse,,1
+exanthem,1
+listeriosis,1
+coccidioidomycosis,1
+pyomyositis,1
+mouth disease,,1
+ascariasis,1
+bacterial vaginosis,1
+lung carcinoma,,1
+denture stomatitis,1
+cervicitis,1
+chronic venous insufficiency,1
+acute myeloid leukemia,1
+chronic obstructive pulmonary disease,,1
+rabies,1
+toxic shock syndrome,1
+erythema multiforme,1
+dental caries,1
+acute promyelocytic leukemia,1
+oral submucous fibrosis,,1
+gynecomastia,1
+oropharyngeal cancer,1
+actinic keratosis.,1
+molluscum contagiosum,,1
+chronic cystitis,1
+hepatocellular carcinoma.,1
+hepatocellular carcinoma,,1
+retinitis,1
+cutaneous leishmaniasis.,1
+hypotrichosis,1
+endometriosis,1
+larynx cancer,,1
+anxiety disorder,,1
+premenstrual tension,,1
+dry eye syndrome,,1
+metabolic syndrome.,1
+erectile dysfunction,1
+oral candidiasis,,1
+fibromyalgia,1
+generalized anxiety disorder,1
+mantle cell lymphoma,1
+trichomoniasis,1
+corneal disease,1
+"athlete's foot",1
+myeloid leukemia,,1
+acanthosis nigricans,1
+mastocytosis,1
+androgenic alopecia,,1
+lymphangitis,1
+short bowel syndrome,,1
+glaucoma,1
+pulmonary hypertension,1
+ophthalmoparesis,1
+viral pneumonia,,1
+keratomalacia,1
+biliary atresia,,1
+psoriatic arthritis.,1
+viral disease,,1
+psoriatic arthritis,,1
+alcoholic cardiomyopathy.,1
+myocarditis,1
+sensorineural hearing loss,,1
+atrophic gastritis,,1
+peanut allergy.,1
+psoriatic arthritis,1
+carbuncle,1
+keratoconjunctivitis,1
+infectious disease.,1
+mastocytoma,1
+bladder cancer,,1
+multiple sclerosis;,1
+autoimmune hepatitis,1
+urea cycle disorder.,1
+kwashiorkor,1
+palmoplantar keratoderma,1
+trichotillomania,1
+amelanotic melanoma,1
+meningitis,1
+neutral lipid storage disease,1
+tinea capitis,,1
+acute leukemia,1
+aplastic anemia,1
+nephropathy,1
+heart disease;,1
+polycythemia,1
+tinea corporis,,1
+mitochondrial myopathy,,1
+seborrheic keratosis,1
+malignant pleural mesothelioma.,1
+post-traumatic stress disorder;,1
+nasopharyngitis,1
+pernicious anemia,,1
+sexual dysfunction,,1
+dengue fever,,1
+coeliac disease,1
+retinal detachment,,1
+yellow fever.,1
+rheumatic fever,,1
+paronychia,1
+obsessive-compulsive disorder,1
+thrombophlebitis,1
+trigeminal neuralgia;,1
+hypoglycemia,1
+seborrheic keratosis.,1
+body dysmorphic disorder,1
+central nervous system cancer,,1
+colorectal cancer.,1
+acute respiratory distress syndrome?,1
+melioidosis,1
+toxic shock syndrome.,1
+rift valley fever,,1
+trigeminal neuralgia,1
+esophageal candidiasis,,1
+peripheral neuropathy;,1
+respiratory disease,,1
+mitochondrial myopathy,1
+autoimmune disease,,1
+lupus erythematosus,,1
+kidney failure,,1
+ptosis,1
+autoimmune disease;,1
+interstitial lung disease.,1
+chronic fatigue syndrome,,1
+diabetic ketoacidosis,,1
+periostitis,1
+lung disease,,1
+chronic lymphocytic leukemia,,1
+osteonecrosis,1
+lateral medullary syndrome;,1
+rumination syndrome,,1
+rumination syndrome.,1
+photodermatitis,1
+microcephaly,1
+pelvic inflammatory disease,1
+candidal vulvovaginitis,1
+alcohol abuse.,1
+granuloma inguinale,1
+pityriasis rosea,1
+parasitic disease.,1
+japanese encephalitis,1
+metabolic acidosis,,1

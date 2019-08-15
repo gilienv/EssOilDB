@@ -1,0 +1,579 @@
+{
+  "id": [
+    "30816426"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30816426"
+  ],
+  "pmcid": [
+    "PMC6414175"
+  ],
+  "doi": [
+    "10.3892/ijmm.2019.4098"
+  ],
+  "title": [
+    "All‑trans retinoic acid alters the expression of the tight junction proteins Claudin‑1 and ‑4 and epidermal barrier function‑associated genes in the epidermis."
+  ],
+  "authorString": [
+    "Li J, Li Q, Geng S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Li J"
+          ],
+          "firstName": [
+            "Jing"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Dermatology, Northwest Hospital, Xi'an Jiaotong University, Xi'an, Shaanxi 710004, P.R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li Q"
+          ],
+          "firstName": [
+            "Qianying"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Department of Dermatology, Northwest Hospital, Xi'an Jiaotong University, Xi'an, Shaanxi 710004, P.R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Geng S"
+          ],
+          "firstName": [
+            "Songmei"
+          ],
+          "lastName": [
+            "Geng"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Dermatology, Northwest Hospital, Xi'an Jiaotong University, Xi'an, Shaanxi 710004, P.R. China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "43"
+      ],
+      "journalIssueId": [
+        "2803993"
+      ],
+      "dateOfPublication": [
+        "2019 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of molecular medicine"
+          ],
+          "ISOAbbreviation": [
+            "Int. J. Mol. Med."
+          ],
+          "medlineAbbreviation": [
+            "Int J Mol Med"
+          ],
+          "NLMid": [
+            "9810955"
+          ],
+          "ISSN": [
+            "1107-3756"
+          ],
+          "ESSN": [
+            "1791-244X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1789-1805"
+  ],
+  "abstractText": [
+    "All‑trans retinoic acid (ATRA) regulates skin cell proliferation and differentiation. ATRA is widely used in the treatment of skin diseases, but results in irritation, dryness and peeling, possibly due to an impaired skin barrier, although the exact mechanisms are unclear. The present study established an ATRA‑associated dermatitis mouse model (n=32) in order to examine the molecular mechanisms of skin barrier impairment by ATRA. Changes in epidermal morphology and structure were observed using histological examination and transmission electron microscopy (TEM). Gene expression was analyzed by microarray chip assay. Histology and TEM demonstrated pronounced epidermal hyperproliferation and parakeratosis upon ATRA application. The stratum corneum layer displayed abnormal lipid droplets and cell‑cell junctions, suggesting alterations in lipid metabolism and dysfunctional cell junctions. Gene expression profiling revealed that factors associated with epidermal barrier function were differentially expressed by ATRA, including those associated with tight junctions (TJs), cornified envelopes, lipids, proteases, protease inhibitors and transcription factors. In the mouse epidermis, Claudin‑1 and ‑4 are proteins involved in TJs and have key roles in epidermal barrier function. ATRA reduced the expression and altered the localization of Claudin‑1 in HaCaT immortalized keratinocytes and the mouse epidermis, which likely leads to the disruption of the epidermal barrier. By contrast, Claudin‑4 was upregulated in HaCaT cells and the mouse epidermis following treatment with ATRA. In conclusion, ATRA exerts a dual effect on epidermal barrier genes: It downregulates the expression of Claudin‑1 and upregulates the expression of Claudin‑4. Claudin‑4 upregulation may be a compensatory response for the disrupted barrier function caused by Claudin‑1 downregulation."
+  ],
+  "affiliation": [
+    "Department of Dermatology, Northwest Hospital, Xi'an Jiaotong University, Xi'an, Shaanxi 710004, P.R. China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Epidermis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "UL"
+                  ],
+                  "qualifierName": [
+                    "ultrastructure"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Line"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Tight Junctions"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "UL"
+                  ],
+                  "qualifierName": [
+                    "ultrastructure"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice, Inbred BALB C"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Tretinoin"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Gene Expression Regulation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Claudin-1"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Claudin-4"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Claudin-1"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Claudin-4"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Tretinoin"
+          ],
+          "registryNumber": [
+            "5688UTC01R"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6414175?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6414175"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3892/ijmm.2019.4098"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-07-30"
+  ],
+  "dateOfCreation": [
+    "2019-03-01"
+  ],
+  "firstIndexDate": [
+    "2019-03-01"
+  ],
+  "dateOfRevision": [
+    "2019-07-30"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-15"
+  ],
+  "firstPublicationDate": [
+    "2019-02-15"
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "id": [
+    "30349343"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30349343"
+  ],
+  "pmcid": [
+    "PMC6183694"
+  ],
+  "doi": [
+    "10.2147/CCID.S176943"
+  ],
+  "title": [
+    "Can emollients of similar composition be assumed to be therapeutically equivalent: a comparison of skin occlusivity and emulsion microstructure."
+  ],
+  "authorString": [
+    "Antonijević MD, Novac O, O'Hagan BM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Antonijević MD"
+          ],
+          "firstName": [
+            "Milan D"
+          ],
+          "lastName": [
+            "Antonijević"
+          ],
+          "initials": [
+            "MD"
+          ],
+          "affiliation": [
+            "Faculty of Engineering and Science, University of Greenwich at Medway, Chatham Maritime, ME4 4TB, UK, M.Antonijevic@greenwich.co.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Novac O"
+          ],
+          "firstName": [
+            "Ovidiu"
+          ],
+          "lastName": [
+            "Novac"
+          ],
+          "initials": [
+            "O"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0152-5477",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Faculty of Engineering and Science, University of Greenwich at Medway, Chatham Maritime, ME4 4TB, UK, M.Antonijevic@greenwich.co.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "O'Hagan BM"
+          ],
+          "firstName": [
+            "Barry Mg"
+          ],
+          "lastName": [
+            "O'Hagan"
+          ],
+          "initials": [
+            "BM"
+          ],
+          "affiliation": [
+            "Faculty of Life and Health Sciences, School of Biomedical Sciences, Ulster University, Coleraine, BT52 1SA, UK."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0152-5477",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2634227"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Clinical, cosmetic and investigational dermatology"
+          ],
+          "ISOAbbreviation": [
+            "Clin Cosmet Investig Dermatol"
+          ],
+          "medlineAbbreviation": [
+            "Clin Cosmet Investig Dermatol"
+          ],
+          "NLMid": [
+            "101543449"
+          ],
+          "ISSN": [
+            "1178-7015"
+          ],
+          "ESSN": [
+            "1178-7015"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "461-465"
+  ],
+  "abstractText": [
+    "Introduction:Emollient therapy is the mainstay for treating skin conditions such as atopic dermatitis and psoriasis. New emollients have been introduced recently and are assumed to be therapeutically interchangeable with the innovator products because, superficially, they appear to have similar compositions. This study compares a) the ex vivo human skin occlusion performance and b) the visual and microscopic properties of Isomol gel (IMG) and Doublebase gel (DBG). Materials and Methods:Occlusion was measured gravimetrically by reduction in cumulative 48-hour evaporative weight loss from ex vivo human skin samples following single applications of the two test emollients and Vaseline®. Skin samples from a single donor were mounted in Franz diffusion cells and then the emollients were spread over the skin surface with an applied dose of approximately 2 mg/cm2. The assemblies (four replicates per treatment) were then accurately weighed at baseline (T0) and again after 5-, 24-, and 48-hour postapplication. The quality of the two emollient gel formulations was compared by visual examination of their film-forming characteristics and by microstructural examination using environmental scanning electron microscopy (ESEM). Results:Occlusivity of the DBG emollient gel formulation was comparable with Vaseline and substantially better than IMG, with the DBG-treated skin samples losing less than half as much weight as the IMG-treated skin samples over 48 hours and at a much slower rate during the first 5 hours. The film-forming characteristics and microstructure of the gels were also very different. Whereas DBG maintained a smooth, uniform film over 24 hours, the IMG formulation phase-separated. ESEM results showed that the DBG emulsion has a stable structural matrix with uniform oil droplets, whereas for IMG the emulsion system is inhomogeneous with the oil phase coalescing into larger irregular shaped rafts. Conclusions:We have demonstrated substantial performance differences between two prescribed emollient gels."
+  ],
+  "affiliation": [
+    "Faculty of Engineering and Science, University of Greenwich at Medway, Chatham Maritime, ME4 4TB, UK, M.Antonijevic@greenwich.co.uk."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Gel",
+        "Microscopy",
+        "Comparison",
+        "Performance",
+        "Occlusion",
+        "Emollient"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6183694?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6183694"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2147/CCID.S176943"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-10-24"
+  ],
+  "firstIndexDate": [
+    "2018-10-24"
+  ],
+  "dateOfRevision": [
+    "2018-10-26"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-09"
+  ],
+  "firstPublicationDate": [
+    "2018-10-09"
+  ]
+}

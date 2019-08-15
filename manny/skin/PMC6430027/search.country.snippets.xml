@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6430027/results/search/country/results.xml">
+  <result pre="of Population and Global Health University of Melbourne Melbourne Victoria" exact="Australia" post="[2], Murdoch Children’s Research Institute, Royal Children’s Hospital Parkville"/>
+  <result pre="[2], Murdoch Children’s Research Institute, Royal Children’s Hospital Parkville Victoria" exact="Australia" post="[3], Department of Paediatrics University of Melbourne Parkville Victoria"/>
+  <result pre="Australia [3], Department of Paediatrics University of Melbourne Parkville Victoria" exact="Australia" post="[4], Eastern Health Monash University Melbourne Victoria Australia [5],"/>
+  <result pre="Parkville Victoria Australia [4], Eastern Health Monash University Melbourne Victoria" exact="Australia" post="[5], Royal Children’s Hospital Parkville Victoria Australia [6], Department"/>
+  <result pre="University Melbourne Victoria Australia [5], Royal Children’s Hospital Parkville Victoria" exact="Australia" post="[6], Department of Dermatology Royal Melbourne Hospital, University of"/>
+  <result pre="of Dermatology Royal Melbourne Hospital, University of Melbourne Parkville Victoria" exact="Australia" post="[7], Mercy Women’s Hospital Heidelberg Victoria Australia [8], School"/>
+  <result pre="Melbourne Parkville Victoria Australia [7], Mercy Women’s Hospital Heidelberg Victoria" exact="Australia" post="[8], School of Population and Global Health, The University"/>
+  <result pre="School of Population and Global Health, The University of Western" exact="Australia" post="Perth Australia [9], Department of Epidemiology &amp;amp; Preventive Medicine"/>
+  <result pre="Population and Global Health, The University of Western Australia Perth" exact="Australia" post="[9], Department of Epidemiology &amp;amp; Preventive Medicine School of"/>
+  <result pre="School of Public Health &amp;amp; Preventive Medicine, Monash University Melbourne" exact="Australia" post="Correspondence to Adrian Lowe; lowea@unimelb.edu.au collection: 2019 epub: 2019-3-3"/>
+  <result pre="sensitisation and disease. 16 As EpiCeram is not available in" exact="Australia" post="at this time, there can be no direct contamination"/>
+  <result pre="Research Ethics Committee (project 2018–008) and was registered with the" exact="Australia" post="and New Zealand Clinical Trials Registry (ACTRN12617001380381) on 28"/>
+  <result pre="Committee (project 2018–008) and was registered with the Australia and" exact="New Zealand" post="Clinical Trials Registry (ACTRN12617001380381) on 28 September 2017 and"/>
+ </snippets>
+</snippetsTree>

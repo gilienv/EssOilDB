@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6111664/results/word/frequencies/results.xml">
+  <result title="frequency" word="depression" count="32"/>
+  <result title="frequency" word="intervention" count="31"/>
+  <result title="frequency" word="aromatherapy" count="24"/>
+  <result title="frequency" word="placebo" count="23"/>
+  <result title="frequency" word="control" count="22"/>
+ </snippets>
+</snippetsTree>

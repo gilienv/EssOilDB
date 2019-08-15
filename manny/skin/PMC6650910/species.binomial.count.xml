@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="frequencies">
+ <result title="frequency" count="11">Escherichia coli</result>
+ <result title="frequency" count="5">S. aureus</result>
+ <result title="frequency" count="4">Pseudomonas aeruginosa</result>
+ <result title="frequency" count="2">Enterococcus faecalis</result>
+ <result title="frequency" count="2">B. subtilis</result>
+ <result title="frequency" count="1">D. radiodurans</result>
+ <result title="frequency" count="1">Pseudomonas acnes</result>
+ <result title="frequency" count="1">Escherichia faecalis</result>
+ <result title="frequency" count="1">Klebsiella pneumonia</result>
+ <result title="frequency" count="1">Acinetobacter baumannii</result>
+ <result title="frequency" count="1">Vibrio fischeri</result>
+ <result title="frequency" count="1">Fusobacterium nucleatum</result>
+ <result title="frequency" count="1">Propionibacterium acnes</result>
+ <result title="frequency" count="1">E. coli</result>
+ <result title="frequency" count="1">P. aeruginosa</result>
+</results>

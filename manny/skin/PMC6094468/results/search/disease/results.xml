@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="disease">
+ <result pre="0.3 Rashes, burns, asthma, lung diseases, cough, tuberculosis, Diarrhea, indigestion," exact="malaria" post="fever, diabetes, urinary obstruction, arthritis, Bronchitis, menorrhagia, sexual dysfunction,"/>
+ <result pre="Diarrhea, indigestion, malaria fever, diabetes, urinary obstruction, arthritis, Bronchitis, menorrhagia," exact="sexual dysfunction," post="wounds, dermatitis, acne, piles [ 73, 74, 84] 0"/>
+ <result pre="0.39 Fat/ T Muscular pain 3 0.53 0.90 Muscular pain," exact="arthritis" post="and sexual weakness, leprosy, cancer [ 82, 83, 88]"/>
+ <result pre="3 0.53 0.90 Muscular pain, arthritis and sexual weakness, leprosy," exact="cancer" post="[ 82, 83, 88] 0 0.33 Sexual weakness 10"/>
+ <result pre="0.50 0.60 Skin infection, rheumatic pain, colic, boiled, stomach-ache, foot" exact="mouth disease," post="easy delivery of a child, premenstrual pain, weakness and"/>
+ <result pre="delivery of a child, premenstrual pain, weakness and muscle fatigue," exact="asthma" post="[ 64, 77, 80, 82, 84, 90, 92– 94]"/>
+ <result pre="0.75 0.78 Milk/ O Joint pain 2 0.67 1.50 Acidity," exact="hepatitis" post="B and C, malaria, cold, coughs, stannic pain, migraine"/>
+ <result pre="Acidity, hepatitis B and C, malaria, cold, coughs, stannic pain," exact="migraine" post="headache, lumbago (for buffalo) [ 77, 88, 92, 98–"/>
+ <result pre="headache, brain diseases, phlegm, dizziness, night blindness, heart failure, epilepsy," exact="scabies" post="[ 19, 59, 64, 66, 70, 73, 74, 77,"/>
+ <result pre="mixed with milk/O Weakness 10 0.86 1.57 Egg/ O Breast" exact="cancer" post="9 0.89 2.41 Sprains, strains, nourishing food, eye-each, BP,"/>
+ <result pre="burst furuncles, asthma, indigestion, jaundice, diabetes, sinusitis, to ease birth," exact="shortness" post="of breath, bronchitis, nervous problems, rheumatism, stuffy nose, weak"/>
+ <result pre="0.53 0.77 Meat/ O paralysis 5 0.47 0.60 Erectile dysfunction," exact="scarlet fever," post="body strength, weakness, paralysis [ 66, 73, 74, 77,"/>
+ <result pre="Brain/ O Enhance memory 5 0.81 1.22 Blood purification, appetite," exact="malaria" post="control, body pain, corn or calves [ 118– 120]"/>
+ <result pre="fever, cataract, burn, sexual impotence, cold, flu, aging, sore throat," exact="shortness" post="of breath, arthritis, tuberculosis, constipation [ 19, 59, 66,"/>
+ <result pre="cold, flu, aging, sore throat, shortness of breath, arthritis, tuberculosis," exact="constipation" post="[ 19, 59, 66, 67, 94, 96, 100– 103,"/>
+ <result pre="in Jhelum, while in Lahore they are used to treat" exact="breast cancer," post="weight loss, and cold and to enhance the performance"/>
+ <result pre="reports that animal fats or oil are useful in atherosclerosis," exact="neurological disorder," post="and thrombotic and aging effects [ 53, 54]. Fig."/>
+</results>

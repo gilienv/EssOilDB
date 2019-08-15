@@ -1,0 +1,385 @@
+{
+  "id": [
+    "29765652"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29765652"
+  ],
+  "pmcid": [
+    "PMC5936917"
+  ],
+  "doi": [
+    "10.1098/rsos.171945"
+  ],
+  "title": [
+    "Cell wall microstructure, pore size distribution and absolute density of hemp shiv."
+  ],
+  "authorString": [
+    "Jiang Y, Lawrence M, Ansell MP, Hussain A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Jiang Y"
+          ],
+          "firstName": [
+            "Y"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3292-8164",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "BRE Centre for Innovative Construction Materials, Department of Architecture and Civil Engineering, University of Bath, Bath BA2 7AY, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Lawrence M"
+          ],
+          "firstName": [
+            "M"
+          ],
+          "lastName": [
+            "Lawrence"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1923-4301",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "BRE Centre for Innovative Construction Materials, Department of Architecture and Civil Engineering, University of Bath, Bath BA2 7AY, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Ansell MP"
+          ],
+          "firstName": [
+            "M P"
+          ],
+          "lastName": [
+            "Ansell"
+          ],
+          "initials": [
+            "MP"
+          ],
+          "affiliation": [
+            "BRE Centre for Innovative Construction Materials, Department of Architecture and Civil Engineering, University of Bath, Bath BA2 7AY, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Hussain A"
+          ],
+          "firstName": [
+            "A"
+          ],
+          "lastName": [
+            "Hussain"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1774-6979",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "BRE Centre for Innovative Construction Materials, Department of Architecture and Civil Engineering, University of Bath, Bath BA2 7AY, UK."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1923-4301",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1774-6979",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3292-8164",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2684674"
+      ],
+      "dateOfPublication": [
+        "2018 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Royal Society open science"
+          ],
+          "ISOAbbreviation": [
+            "R Soc Open Sci"
+          ],
+          "medlineAbbreviation": [
+            "R Soc Open Sci"
+          ],
+          "NLMid": [
+            "101647528"
+          ],
+          "ISSN": [
+            "2054-5703"
+          ],
+          "ESSN": [
+            "2054-5703"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "171945"
+  ],
+  "abstractText": [
+    "This paper, for the first time, fully characterizes the intrinsic physical parameters of hemp shiv including cell wall microstructure, pore size distribution and absolute density. Scanning electron microscopy revealed microstructural features similar to hardwoods. Confocal microscopy revealed three major layers in the cell wall: middle lamella, primary cell wall and secondary cell wall. Computed tomography improved the visualization of pore shape and pore connectivity in three dimensions. Mercury intrusion porosimetry (MIP) showed that the average accessible porosity was 76.67 ± 2.03% and pore size classes could be distinguished into micropores (3-10 nm) and macropores (0.1-1 µm and 20-80 µm). The absolute density was evaluated by helium pycnometry, MIP and Archimedes' methods. The results show that these methods can lead to misinterpretation of absolute density. The MIP method showed a realistic absolute density (1.45 g cm-3) consistent with the density of the known constituents, including lignin, cellulose and hemi-cellulose. However, helium pycnometry and Archimedes' methods gave falsely low values owing to 10% of the volume being inaccessible pores, which require sample pretreatment in order to be filled by liquid or gas. This indicates that the determination of the cell wall density is strongly dependent on sample geometry and preparation."
+  ],
+  "affiliation": [
+    "BRE Centre for Innovative Construction Materials, Department of Architecture and Civil Engineering, University of Bath, Bath BA2 7AY, UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "EP/L005689/1"
+          ],
+          "agency": [
+            "Engineering and Physical Sciences Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "636835"
+          ],
+          "agency": [
+            "European Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Microstructure",
+        "Porosity",
+        "Mercury Intrusion Porosimetry",
+        "Hemp Shiv",
+        "Absolute Density",
+        "Helium Pycnometry"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5936917?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5936917"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1098/rsos.171945"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-05-17"
+  ],
+  "firstIndexDate": [
+    "2018-05-17"
+  ],
+  "dateOfRevision": [
+    "2018-05-18"
+  ],
+  "electronicPublicationDate": [
+    "2018-04-04"
+  ],
+  "firstPublicationDate": [
+    "2018-04-04"
+  ]
+}

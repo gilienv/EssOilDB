@@ -1,0 +1,463 @@
+{
+  "id": [
+    "30356086"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30356086"
+  ],
+  "pmcid": [
+    "PMC6200819"
+  ],
+  "doi": [
+    "10.1038/s41598-018-34054-x"
+  ],
+  "title": [
+    "The roles of IL-17C in T cell-dependent and -independent inflammatory diseases."
+  ],
+  "authorString": [
+    "Yamaguchi S, Nambu A, Numata T, Yoshizaki T, Narushima S, Shimura E, Hiraishi Y, Arae K, Morita H, Matsumoto K, Hisatome I, Sudo K, Nakae S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yamaguchi S"
+          ],
+          "firstName": [
+            "Sachiko"
+          ],
+          "lastName": [
+            "Yamaguchi"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Laboratory of Systems Biology, Center for Experimental Medicine and Systems Biology, The Institute of Medical Science, The University of Tokyo, Tokyo, 108-8639, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Nambu A"
+          ],
+          "firstName": [
+            "Aya"
+          ],
+          "lastName": [
+            "Nambu"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2797-6420",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratory of Systems Biology, Center for Experimental Medicine and Systems Biology, The Institute of Medical Science, The University of Tokyo, Tokyo, 108-8639, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Numata T"
+          ],
+          "firstName": [
+            "Takafumi"
+          ],
+          "lastName": [
+            "Numata"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Laboratory of Systems Biology, Center for Experimental Medicine and Systems Biology, The Institute of Medical Science, The University of Tokyo, Tokyo, 108-8639, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Yoshizaki T"
+          ],
+          "firstName": [
+            "Takamichi"
+          ],
+          "lastName": [
+            "Yoshizaki"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Laboratory of Systems Biology, Center for Experimental Medicine and Systems Biology, The Institute of Medical Science, The University of Tokyo, Tokyo, 108-8639, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Narushima S"
+          ],
+          "firstName": [
+            "Seiko"
+          ],
+          "lastName": [
+            "Narushima"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Laboratory of Systems Biology, Center for Experimental Medicine and Systems Biology, The Institute of Medical Science, The University of Tokyo, Tokyo, 108-8639, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Shimura E"
+          ],
+          "firstName": [
+            "Eri"
+          ],
+          "lastName": [
+            "Shimura"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Laboratory of Systems Biology, Center for Experimental Medicine and Systems Biology, The Institute of Medical Science, The University of Tokyo, Tokyo, 108-8639, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Hiraishi Y"
+          ],
+          "firstName": [
+            "Yoshihisa"
+          ],
+          "lastName": [
+            "Hiraishi"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Laboratory of Systems Biology, Center for Experimental Medicine and Systems Biology, The Institute of Medical Science, The University of Tokyo, Tokyo, 108-8639, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Arae K"
+          ],
+          "firstName": [
+            "Ken"
+          ],
+          "lastName": [
+            "Arae"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Immunology, Faculty of Health Sciences, Kyorin University, Tokyo, 181-8612, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Morita H"
+          ],
+          "firstName": [
+            "Hideaki"
+          ],
+          "lastName": [
+            "Morita"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Allergy and Clinical Immunology, National Research Institute for Child Health and Development, Tokyo, 157-8535, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Matsumoto K"
+          ],
+          "firstName": [
+            "Kenji"
+          ],
+          "lastName": [
+            "Matsumoto"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Allergy and Clinical Immunology, National Research Institute for Child Health and Development, Tokyo, 157-8535, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Hisatome I"
+          ],
+          "firstName": [
+            "Ichiro"
+          ],
+          "lastName": [
+            "Hisatome"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Division of Regenerative Medicine and Therapeutics, Tottori University Graduate School of Medical Science, Yonago, 683-8503, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Sudo K"
+          ],
+          "firstName": [
+            "Katsuko"
+          ],
+          "lastName": [
+            "Sudo"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Animal Research Center, Tokyo Medical University, Tokyo, 160-8402, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Nakae S"
+          ],
+          "firstName": [
+            "Susumu"
+          ],
+          "lastName": [
+            "Nakae"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Laboratory of Systems Biology, Center for Experimental Medicine and Systems Biology, The Institute of Medical Science, The University of Tokyo, Tokyo, 108-8639, Japan. snakae@ims.u-tokyo.ac.jp."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2797-6420",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2732877"
+      ],
+      "dateOfPublication": [
+        "2018 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "15750"
+  ],
+  "abstractText": [
+    "IL-17C, which is a member of the IL-17 family of cytokines, is preferentially produced by epithelial cells in the lung, skin and colon, suggesting that IL-17C may be involved in not only host defense but also inflammatory diseases in those tissues. In support of that, IL-17C was demonstrated to contribute to development of T cell-dependent imiquimod-induced psoriatic dermatitis and T cell-independent dextran sodium sulfate-induced acute colitis using mice deficient in IL-17C and/or IL-17RE, which is a component of the receptor for IL-17C. However, the roles of IL-17C in other inflammatory diseases remain poorly understood. Therefore, we investigated the contributions of IL-17C to development of certain disease models using Il17c-/- mice, which we newly generated. Those mice showed normal development of T cell-dependent inflammatory diseases such as FITC- and DNFB-induced contact dermatitis/contact hypersensitivity (CHS) and concanavalin A-induced hepatitis, and T cell-independent inflammatory diseases such as bleomycin-induced pulmonary fibrosis, papain-induced airway eosinophilia and LPS-induced airway neutrophilia. On the other hand, those mice were highly resistant to LPS-induced endotoxin shock, indicating that IL-17C is crucial for protection against that immunological reaction. Therefore, IL-17C neutralization may represent a novel therapeutic approach for sepsis, in addition to psoriasis and acute colitis."
+  ],
+  "affiliation": [
+    "Laboratory of Systems Biology, Center for Experimental Medicine and Systems Biology, The Institute of Medical Science, The University of Tokyo, Tokyo, 108-8639, Japan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6200819?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6200819"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-018-34054-x"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-10-26"
+  ],
+  "firstIndexDate": [
+    "2018-10-26"
+  ],
+  "dateOfRevision": [
+    "2018-10-28"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-24"
+  ],
+  "firstPublicationDate": [
+    "2018-10-24"
+  ]
+}

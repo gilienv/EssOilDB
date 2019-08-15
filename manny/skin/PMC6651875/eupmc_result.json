@@ -1,0 +1,415 @@
+{
+  "id": [
+    "31261927"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31261927"
+  ],
+  "pmcid": [
+    "PMC6651875"
+  ],
+  "doi": [
+    "10.3390/molecules24132412"
+  ],
+  "title": [
+    "Euphosantianane E-G: Three New Premyrsinane Type Diterpenoids from Euphorbia sanctae-catharinae with Contribution to Chemotaxonomy."
+  ],
+  "authorString": [
+    "Elshamy AI, Mohamed TA, Al-Rowaily SL, Abd-ElGawad AM, Dar BA, Shahat AA, Hegazy MF."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Elshamy AI"
+          ],
+          "firstName": [
+            "Abdelsamed I"
+          ],
+          "lastName": [
+            "Elshamy"
+          ],
+          "initials": [
+            "AI"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3302-3623",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Natural Compounds Chemistry Department, National Research Centre, 12622, 33 El Bohouth St., Dokki, Giza 12622, Egypt."
+          ]
+        },
+        {
+          "fullName": [
+            "Mohamed TA"
+          ],
+          "firstName": [
+            "Tarik A"
+          ],
+          "lastName": [
+            "Mohamed"
+          ],
+          "initials": [
+            "TA"
+          ],
+          "affiliation": [
+            "Chemistry of Medicinal Plants Department, National Research Centre, 33 El-Bohouth St., Dokki, Giza 12622, Egypt."
+          ]
+        },
+        {
+          "fullName": [
+            "Al-Rowaily SL"
+          ],
+          "firstName": [
+            "Saud L"
+          ],
+          "lastName": [
+            "Al-Rowaily"
+          ],
+          "initials": [
+            "SL"
+          ],
+          "affiliation": [
+            "Plant Production Department, College of Food & Agriculture Sciences, King Saud University, P.O. Box 2460 Riyadh 11451, Saudi Arabia."
+          ]
+        },
+        {
+          "fullName": [
+            "Abd-ElGawad AM"
+          ],
+          "firstName": [
+            "Ahmed M"
+          ],
+          "lastName": [
+            "Abd-ElGawad"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "affiliation": [
+            "Plant Production Department, College of Food & Agriculture Sciences, King Saud University, P.O. Box 2460 Riyadh 11451, Saudi Arabia."
+          ]
+        },
+        {
+          "fullName": [
+            "Dar BA"
+          ],
+          "firstName": [
+            "Basharat A"
+          ],
+          "lastName": [
+            "Dar"
+          ],
+          "initials": [
+            "BA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5903-6329",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Plant Production Department, College of Food & Agriculture Sciences, King Saud University, P.O. Box 2460 Riyadh 11451, Saudi Arabia."
+          ]
+        },
+        {
+          "fullName": [
+            "Shahat AA"
+          ],
+          "firstName": [
+            "Abdelaaty A"
+          ],
+          "lastName": [
+            "Shahat"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0456-3196",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Chemistry of Medicinal Plants Department, National Research Centre, 33 El-Bohouth St., Dokki, Giza 12622, Egypt."
+          ]
+        },
+        {
+          "fullName": [
+            "Hegazy MF"
+          ],
+          "firstName": [
+            "Mohamed-Elamir F"
+          ],
+          "lastName": [
+            "Hegazy"
+          ],
+          "initials": [
+            "MF"
+          ],
+          "affiliation": [
+            "Chemistry of Medicinal Plants Department, National Research Centre, 33 El-Bohouth St., Dokki, Giza 12622, Egypt. mohegazyphyma@hotmail.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5903-6329",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3302-3623",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0456-3196",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "13"
+      ],
+      "volume": [
+        "24"
+      ],
+      "journalIssueId": [
+        "2831560"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecules (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Molecules"
+          ],
+          "medlineAbbreviation": [
+            "Molecules"
+          ],
+          "NLMid": [
+            "100964009"
+          ],
+          "ISSN": [
+            "1420-3049"
+          ],
+          "ESSN": [
+            "1420-3049"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Euphorbia species were widely used in traditional medicines for the treatment of several diseases. From the aerial parts of Egyptian endemic plant, Euphorbia sanctae-catharinae, three new premyrsinane diterpenoids, namely, euphosantianane E-G (1-3), alongside four known triterpenes, 9,19-cyclolanostane-3β,24S-diol (4), 25-methoxycycloartane-3β,24S-diol (5), 25-methylenecycloartan-3β,24R-diol (6), and 25-methylenecycloartan-3β,24S-diol (7), were isolated and identified. The chemical structures were proven depending upon spectroscopic analysis, including FTIR, HRFABMS, and 1D/2D-NMR. The chemotaxonomic significance of the isolated compounds, especially diterpenes from E. sanctae-catharinae compared to those documented from different Euphorbia species was also studied via agglomerative hierarchical clustering (AHC). The Egyptian endemic Euphorbia sanctae-catharina was grouped with E. bupleuroides, E. fidjiana, E. fischeriana, E. pithyusa subsp. cupanii, E. prolifera, and E. seguieriana, where myrsinol diterpenoids were the characteristic compounds."
+  ],
+  "affiliation": [
+    "Natural Compounds Chemistry Department, National Research Centre, 12622, 33 El Bohouth St., Dokki, Giza 12622, Egypt."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "RG-1440-113"
+          ],
+          "agency": [
+            "King Saud University"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Euphorbiaceae",
+        "Endemic plant",
+        "Chemotaxonomic Significance",
+        "Euphosantianane E–g",
+        "Premyrsinane Diterpenoids",
+        "Euphorbia Sanctae-catharinae"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6651875?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6651875"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/molecules24132412"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-03"
+  ],
+  "firstIndexDate": [
+    "2019-07-03"
+  ],
+  "dateOfRevision": [
+    "2019-08-09"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-29"
+  ],
+  "firstPublicationDate": [
+    "2019-06-29"
+  ]
+}

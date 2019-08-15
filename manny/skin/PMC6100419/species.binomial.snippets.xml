@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6100419/results/species/binomial/results.xml">
+  <result pre="he natural ingredients widely used in cosmetics and pharmaceutical preparations such as argan oil, " exact="Arnica montana" xpath="/html[1]/body[1]/div[2]/div[3]/div[2]/p[1]" match="Arnica montana" post=" extract, lavender, peppermint and tea tree essential oils, etc. can cause contact dermatitis and u" name="binomial"/>
+  <result pre="According to Vie et al., " exact="Avena sativa" xpath="/html[1]/body[1]/div[2]/div[3]/div[2]/p[1]" match="Avena sativa" post=" extracts are able to modulate SLS-induced skin irritation, confirming their preventive effects on " name="binomial"/>
+  <result pre="7, 32, 33]. Guin has evaluated " exact="Rosmarinus officinalis" xpath="/html[1]/body[1]/div[2]/div[3]/div[2]/p[1]" match="Rosmarinus officinalis" post=" leaf extract in a patch test with contact dermatitis or eczema—of the 234 subjects tested no subje" name="binomial"/>
+  <result pre=" in respect to the normal function of the epidermal barrier and mechanical properties of the skin. " exact="Stratum corneum" xpath="/html[1]/body[1]/div[2]/div[3]/div[2]/p[1]" match="Stratum corneum" post=" water content is therefore of particular interest in most topically applied cosmetics and pharmace" name="binomial"/>
+  <result pre="Dried rosemary ( " exact="Rosmarinus officinalis" xpath="/html[1]/body[1]/div[2]/div[3]/div[2]/p[1]" match="Rosmarinus officinalis" post=" L.) leaves were purchased from UAB &quot;Sirdazole&quot; (Vilnius, Lithuania). Linseed ( Linum usitatissi" name="binomial"/>
+  <result pre="nus officinalis L.) leaves were purchased from UAB &quot;Sirdazole&quot; (Vilnius, Lithuania). Linseed ( " exact="Linum usitatissimum" xpath="/html[1]/body[1]/div[2]/div[3]/div[2]/p[1]" match="Linum usitatissimum" post=" Linn.) was procured from UAB &quot;Herba humana&quot; (Vilnius, Lithuania), oat ( Avena sativa L.) gr" name="binomial"/>
+  <result pre="Linum usitatissimum Linn.) was procured from UAB &quot;Herba humana&quot; (Vilnius, Lithuania), oat ( " exact="Avena sativa" match="Avena sativa" post=" L.) groats were purchased from UAB &quot;Skaneja&quot; (Vilnius, Lithuania). " name="binomial"/>
+ </snippets>
+</snippetsTree>

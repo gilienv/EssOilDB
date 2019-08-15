@@ -1,0 +1,826 @@
+{
+  "id": [
+    "30279388"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30279388"
+  ],
+  "pmcid": [
+    "PMC6222365"
+  ],
+  "doi": [
+    "10.3390/molecules23102526"
+  ],
+  "title": [
+    "Melaleuca styphelioides Sm. Polyphenols Modulate Interferon Gamma/Histamine-Induced Inflammation in Human NCTC 2544 Keratinocytes."
+  ],
+  "authorString": [
+    "Albouchi F, Avola R, Dico GML, Calabrese V, Graziano ACE, Abderrabba M, Cardile V."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Albouchi F"
+          ],
+          "firstName": [
+            "Ferdaous"
+          ],
+          "lastName": [
+            "Albouchi"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9482-5585",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratoire Matériaux-Molécules et Applications, University of Carthage, IPEST, B.P. 51 2070, La Marsa, Tunisia. ferdaous.albouchi@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Avola R"
+          ],
+          "firstName": [
+            "Rosanna"
+          ],
+          "lastName": [
+            "Avola"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Biomedical and Biotechnological Sciences, Section of Physiology, University of Catania, Via Santa Sofia, 97-95123 Catania, Italy. rosanna.avola@unict.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Dico GML"
+          ],
+          "firstName": [
+            "Gianluigi Maria Lo"
+          ],
+          "lastName": [
+            "Dico"
+          ],
+          "initials": [
+            "GML"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8537-0016",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Istituto Zooprofilattico Sperimentale della Sicilia \"A. Mirri\", Via Gino Marinuzzi 3, 90129 Palermo, Italy. gigilodico@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Calabrese V"
+          ],
+          "firstName": [
+            "Vittorio"
+          ],
+          "lastName": [
+            "Calabrese"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Department of Biomed & Biotech Sciences, School of Medicine, University of Catania, Via Santa Sofia 97, 95125 Catania, Italy. calabres@unict.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Graziano ACE"
+          ],
+          "firstName": [
+            "Adriana Carol Eleonora"
+          ],
+          "lastName": [
+            "Graziano"
+          ],
+          "initials": [
+            "ACE"
+          ],
+          "affiliation": [
+            "Department of Biomedical and Biotechnological Sciences, Section of Physiology, University of Catania, Via Santa Sofia, 97-95123 Catania, Italy. acegraz@unict.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Abderrabba M"
+          ],
+          "firstName": [
+            "Manef"
+          ],
+          "lastName": [
+            "Abderrabba"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Laboratoire Matériaux-Molécules et Applications, University of Carthage, IPEST, B.P. 51 2070, La Marsa, Tunisia. abderrabbamanef@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Cardile V"
+          ],
+          "firstName": [
+            "Venera"
+          ],
+          "lastName": [
+            "Cardile"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Department of Biomedical and Biotechnological Sciences, Section of Physiology, University of Catania, Via Santa Sofia, 97-95123 Catania, Italy. cardile@unict.it."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8537-0016",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9482-5585",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "23"
+      ],
+      "journalIssueId": [
+        "2732857"
+      ],
+      "dateOfPublication": [
+        "2018 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecules (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Molecules"
+          ],
+          "medlineAbbreviation": [
+            "Molecules"
+          ],
+          "NLMid": [
+            "100964009"
+          ],
+          "ISSN": [
+            "1420-3049"
+          ],
+          "ESSN": [
+            "1420-3049"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "Melaleuca styphelioides, known as the prickly-leaf tea tree, contains a variety of bioactive compounds. The purposes of this study were to characterize the polyphenols extracted from Melaleuca styphelioides leaves and assess their potential antioxidant and anti-inflammatory effects. The polyphenol extracts were prepared by maceration with solvents of increasing polarity. The LC/MS-MS technique was used to identify and quantify the phenolic compounds. An assessment of the radical scavenging activity of all extracts was performed using 2,2-diphenyl-1-picrylhydrazyl (DPPH), 2,2'-azinobis-(3-ethylbenzothiazoline-6-sulphonate) (ABTS⁺), and ferric reducing antioxidant power (FRAP) assays. The anti-inflammatory activity was determined on interferon gamma (IFN-γ)/histamine (H)-stimulated human NCTC 2544 keratinocytes by Western blot and RT-PCR. Compared to other solvents, methanolic extract presented the highest level of phenolic contents. The most frequent phenolic compounds were quercetin, followed by gallic acid and ellagic acid. DPPH, ABTS⁺, and FRAP assays showed that methanolic extract exhibits strong concentration-dependent antioxidant activity. IFN-γ/H treatment of human NCTC 2544 keratinocytes induced the secretion of high levels of the pro-inflammatory mediator inter-cellular adhesion molecule-1 (ICAM-1), nitric oxide synthase (iNOS), cyclooxygenase-2 (COX-2), and nuclear factor kappa B (NF-κB), which were inhibited by extract. In conclusion, the extract of Melaleuca styphelioides leaves is rich in flavonoids, and presents antioxidant and anti-inflammatory proprieties. It can be proposed as a useful compound to treat inflammatory skin diseases."
+  ],
+  "affiliation": [
+    "Laboratoire Matériaux-Molécules et Applications, University of Carthage, IPEST, B.P. 51 2070, La Marsa, Tunisia. ferdaous.albouchi@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Line"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Keratinocytes"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Melaleuca"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Leaves"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Inflammation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CI"
+                  ],
+                  "qualifierName": [
+                    "chemically induced"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Histamine"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TO"
+                  ],
+                  "qualifierName": [
+                    "toxicity"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Flavonoids"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Extracts"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antioxidants"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Interferon-gamma"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TO"
+                  ],
+                  "qualifierName": [
+                    "toxicity"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Polyphenols"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Polyphenols",
+        "Keratinocytes",
+        "Anti-inflammatory activity",
+        "Anti-oxidant Activity",
+        "Melaleuca Styphelioides",
+        "Lc/ms-ms"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "polyphenols"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Flavonoids"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Plant Extracts"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Antioxidants"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Interferon-gamma"
+          ],
+          "registryNumber": [
+            "82115-62-6"
+          ]
+        },
+        {
+          "name": [
+            "Histamine"
+          ],
+          "registryNumber": [
+            "820484N8I3"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6222365?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6222365"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/molecules23102526"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-12-17"
+  ],
+  "dateOfCreation": [
+    "2018-10-04"
+  ],
+  "firstIndexDate": [
+    "2018-10-04"
+  ],
+  "dateOfRevision": [
+    "2018-12-17"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-02"
+  ],
+  "firstPublicationDate": [
+    "2018-10-02"
+  ]
+}

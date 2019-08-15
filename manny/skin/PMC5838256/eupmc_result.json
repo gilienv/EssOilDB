@@ -1,0 +1,314 @@
+{
+  "id": [
+    "29507345"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29507345"
+  ],
+  "pmcid": [
+    "PMC5838256"
+  ],
+  "doi": [
+    "10.1038/s41598-018-22132-z"
+  ],
+  "title": [
+    "Inhibitory effects of superoxide dismutase 3 on Propionibacterium acnes-induced skin inflammation."
+  ],
+  "authorString": [
+    "Nguyen CT, Sah SK, Zouboulis CC, Kim TY."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Nguyen CT"
+          ],
+          "firstName": [
+            "Cuong Thach"
+          ],
+          "lastName": [
+            "Nguyen"
+          ],
+          "initials": [
+            "CT"
+          ],
+          "affiliation": [
+            "Department of Dermatology, College of Medicine, The Catholic University of Korea, Seoul, 137-040, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Sah SK"
+          ],
+          "firstName": [
+            "Shyam Kishor"
+          ],
+          "lastName": [
+            "Sah"
+          ],
+          "initials": [
+            "SK"
+          ],
+          "affiliation": [
+            "Department of Dermatology, College of Medicine, The Catholic University of Korea, Seoul, 137-040, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Zouboulis CC"
+          ],
+          "firstName": [
+            "Christos C"
+          ],
+          "lastName": [
+            "Zouboulis"
+          ],
+          "initials": [
+            "CC"
+          ],
+          "affiliation": [
+            "Departments of Dermatology, Venereology, Allergology and Immunology, Dessau Medical Center, Brandenburg Medical School Theodor Fontane, Dessau, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim TY"
+          ],
+          "firstName": [
+            "Tae-Yoon"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "TY"
+          ],
+          "affiliation": [
+            "Department of Dermatology, College of Medicine, The Catholic University of Korea, Seoul, 137-040, South Korea. tykimder@catholic.ac.kr."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2656503"
+      ],
+      "dateOfPublication": [
+        "2018 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "4024"
+  ],
+  "abstractText": [
+    "Propionibacterium acnes is a well-known commensal bacterium that plays an important role in the pathogenesis of acne and chronic inflammatory skin disease. In this study, we investigated the effect of superoxide dismutase 3 (SOD3) on P. acnes- or peptidoglycan (PGN)-induced inflammation in vitro and in vivo. Our data demonstrated that SOD3 suppressed toll-like receptor-2 (TLR-2) expression in P. acnes- or PGN-treated keratinocytes and sebocytes. Moreover, we found that SOD3 suppressed the expressions of phosphorylated nuclear factor-κB (NF-κB) and p38 in P. acnes- or PGN-treated cells. SOD3 also exhibited an anti-inflammatory role by reducing the expression of inflammasome-related proteins (NLRP3, ASC, caspase-1) and inhibiting the expression of pro-inflammatory cytokines, including tumor necrosis factor-α, interleukin-1β, interleukin-6, and interleukin-8. In addition, SOD3 reduced lipid accumulation and expression of lipogenic regulators in P. acnes-treated sebocytes. Recombinant SOD3-treated wild-type mice and SOD3 transgenic mice, which were subcutaneously infected with P. acnes, showed tolerance to inflammation through reducing inflammatory cell infiltration in skin, ear thickness, and expression of inflammatory mediators. Our result showed that SOD3 could suppress the inflammation through inhibition of TLR2/p38/NF-κB axis and NLRP3 inflammasome activation. Therefore, SOD3 could be a promising candidate for treatment of P. acnes-mediated skin inflammation."
+  ],
+  "affiliation": [
+    "Department of Dermatology, College of Medicine, The Catholic University of Korea, Seoul, 137-040, South Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5838256?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5838256"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-018-22132-z"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "30158587"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Sci Rep. 2018 Aug 29;8(1):13150"
+          ],
+          "type": [
+            "Erratum in"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-03-07"
+  ],
+  "firstIndexDate": [
+    "2018-03-07"
+  ],
+  "dateOfRevision": [
+    "2019-08-11"
+  ],
+  "electronicPublicationDate": [
+    "2018-03-05"
+  ],
+  "firstPublicationDate": [
+    "2018-03-05"
+  ]
+}

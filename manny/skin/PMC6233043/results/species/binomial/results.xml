@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="binomial">
+ <result pre="Gonorrhea – identification of " exact="Neisseria gonorrhoeae" xpath="/html[1]/body[1]/div[2]/div[2]/ol[1]/li[9]/p[1]" match="Neisseria gonorrhoeae" post=" in gram-stained urethral smear " name="binomial"/>
+ <result pre="Chancroid – identification of " exact="Haemophilus ducreyi" xpath="/html[1]/body[1]/div[2]/div[2]/ol[1]/li[9]/p[1]" match="Haemophilus ducreyi" post=" in gram-stained smear from an ulcer or unruptured inguinal bubo and on clinical grounds after ruli" name="binomial"/>
+ <result pre="Donovanosis – identification of " exact="Calymmatobacterium granulomatis" xpath="/html[1]/body[1]/div[2]/div[2]/ol[1]/li[9]/p[1]" match="Calymmatobacterium granulomatis" post=" in tissue smear from the lesion " name="binomial"/>
+ <result pre="Nongonococcal urethritis – by excluding " exact="N. gonorrhoea" xpath="/html[1]/body[1]/div[2]/div[2]/ol[1]/li[9]/p[1]" match="Neisseria gonorrhoea" post=" from gram-stained urethral smear and by identifying five or more polymorphonuclear leukocytes per " name="binomial"/>
+ <result pre="Trichomoniasis – identification of " exact="Trichomonas vaginalis" match="Trichomonas vaginalis" post=" in wet film " name="binomial"/>
+</results>

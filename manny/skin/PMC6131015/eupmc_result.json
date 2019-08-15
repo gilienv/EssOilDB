@@ -1,0 +1,315 @@
+{
+  "id": [
+    "29310423"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29310423"
+  ],
+  "pmcid": [
+    "PMC6131015"
+  ],
+  "doi": [
+    "10.4062/biomolther.2017.130"
+  ],
+  "title": [
+    "Phloxine O, a Cosmetic Colorant, Suppresses the Expression of Thymic Stromal Lymphopoietin and Acute Dermatitis Symptoms in Mice."
+  ],
+  "authorString": [
+    "Lee HE, Yang G, Kim KB, Lee BM, Lee JY."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lee HE"
+          ],
+          "firstName": [
+            "Hye Eun"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "HE"
+          ],
+          "affiliation": [
+            "BK21 Plus Team, College of Pharmacy, The Catholic University of Korea, Bucheon 14662, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang G"
+          ],
+          "firstName": [
+            "Gabsik"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "BK21 Plus Team, College of Pharmacy, The Catholic University of Korea, Bucheon 14662, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim KB"
+          ],
+          "firstName": [
+            "Kyu-Bong"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "KB"
+          ],
+          "affiliation": [
+            "College of Pharmacy, Dankook University, Cheonan 31116, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee BM"
+          ],
+          "firstName": [
+            "Byung-Mu"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "BM"
+          ],
+          "affiliation": [
+            "College of Pharmacy, Sungkyunkwan University, Suwon 16419, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee JY"
+          ],
+          "firstName": [
+            "Joo Young"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "JY"
+          ],
+          "affiliation": [
+            "BK21 Plus Team, College of Pharmacy, The Catholic University of Korea, Bucheon 14662, Republic of Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "26"
+      ],
+      "journalIssueId": [
+        "2720415"
+      ],
+      "dateOfPublication": [
+        "2018 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Biomolecules & therapeutics"
+          ],
+          "ISOAbbreviation": [
+            "Biomol Ther (Seoul)"
+          ],
+          "medlineAbbreviation": [
+            "Biomol Ther (Seoul)"
+          ],
+          "NLMid": [
+            "101472832"
+          ],
+          "ISSN": [
+            "1976-9148"
+          ],
+          "ESSN": [
+            "2005-4483"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "481-486"
+  ],
+  "abstractText": [
+    "Cosmetics are primarily applied to the skin; therefore, the association of cosmetic dyes with skin diseases or inflammation is a topic of great interest. Thymic stromal lymphopoietin (TSLP) is an interleukin 7-like cytokine that activates dendritic cells to promote Th2 inflammatory immune responses. TSLP is highly expressed in keratinocytes under inflammatory conditions, which suggests that it may play a critical role in the development of skin diseases, such as atopic dermatitis. Therefore, we investigated whether cosmetic dyes influenced the production of TSLP by keratinocytes. Phloxine O, also known as D&C Red No.27, is one of the most common red synthetic pigments and is widely used in colored cosmetics. Our results showed that Phloxine O downregulated phorbol 12-myristate 13-acetate-induced production of TSLP in a murine keratinocyte cell line (PAM212). Phloxine O also suppressed TSLP expression in KCMH-1 cells, which are mouse keratinocytes that constitutively produce high levels of TSLP. To investigate the in vivo effects of Phloxine O, we induced TSLP expression in mouse ear skin by topically applying MC903, a vitamin D3 analogue that is a well-known inducer of atopic dermatitis-like symptoms. Topical application of Phloxine O prevented MC903-induced TSLP production in mouse ear skin, attenuated the acute dermatitis-like symptoms and decreased serum IgE and histamine levels in mice. Suppression of TSLP expression by Phloxine O correlated with reduced expression of OX40 ligand and Th2 cytokines in mouse ear skin. Our results showed that Phloxine O may be beneficial to prevent dermatitis by suppressing the expression of TSLP and Th2 cytokines in skin."
+  ],
+  "affiliation": [
+    "BK21 Plus Team, College of Pharmacy, The Catholic University of Korea, Bucheon 14662, Republic of Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Inflammation",
+        "Keratinocytes",
+        "dermatitis",
+        "Cosmetics",
+        "Tslp"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6131015?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6131015"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4062/biomolther.2017.130"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-01-10"
+  ],
+  "firstIndexDate": [
+    "2018-01-09"
+  ],
+  "dateOfRevision": [
+    "2018-09-14"
+  ],
+  "firstPublicationDate": [
+    "2018-09-01"
+  ]
+}

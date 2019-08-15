@@ -1,0 +1,843 @@
+{
+  "id": [
+    "30634461"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30634461"
+  ],
+  "pmcid": [
+    "PMC6359372"
+  ],
+  "doi": [
+    "10.3390/molecules24020223"
+  ],
+  "title": [
+    "Hop Extract Acts as an Antioxidant with Antimicrobial Effects against Propionibacterium Acnes and Staphylococcus Aureus."
+  ],
+  "authorString": [
+    "Weber N, Biehler K, Schwabe K, Haarhaus B, Quirin KW, Frank U, Schempp CM, Wölfle U."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Weber N"
+          ],
+          "firstName": [
+            "Natalja"
+          ],
+          "lastName": [
+            "Weber"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Research Centre skinitial, Department of Dermatology, University Medical Center, 79104 Freiburg, Germany. natalja_weber@gmx.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Biehler K"
+          ],
+          "firstName": [
+            "Klaus"
+          ],
+          "lastName": [
+            "Biehler"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Institute for Infection Prevention and Hospital Epidemiology, Medical Center, University of Freiburg, 79106 Freiburg, Germany. klaus.biehler@uniklinik-freiburg.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Schwabe K"
+          ],
+          "firstName": [
+            "Kay"
+          ],
+          "lastName": [
+            "Schwabe"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "BSI-Beauty Science Intelligence GmbH, 30855 Langenhagen, Germany. K.Schwabe@bsi-cosmetics.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Haarhaus B"
+          ],
+          "firstName": [
+            "Birgit"
+          ],
+          "lastName": [
+            "Haarhaus"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Research Centre skinitial, Department of Dermatology, University Medical Center, 79104 Freiburg, Germany. birgit.haarhaus@uniklinik-freiburg.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Quirin KW"
+          ],
+          "firstName": [
+            "Karl-W"
+          ],
+          "lastName": [
+            "Quirin"
+          ],
+          "initials": [
+            "KW"
+          ],
+          "affiliation": [
+            "Flavex Naturextrakte GmbH, 66780 Rehlingen, Germany. wq@flavex.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Frank U"
+          ],
+          "firstName": [
+            "Uwe"
+          ],
+          "lastName": [
+            "Frank"
+          ],
+          "initials": [
+            "U"
+          ],
+          "affiliation": [
+            "Institute for Infection Prevention and Hospital Epidemiology, Medical Center, University of Freiburg, 79106 Freiburg, Germany. uwe.frank@uniklinik-freiburg.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Schempp CM"
+          ],
+          "firstName": [
+            "Christoph M"
+          ],
+          "lastName": [
+            "Schempp"
+          ],
+          "initials": [
+            "CM"
+          ],
+          "affiliation": [
+            "Research Centre skinitial, Department of Dermatology, University Medical Center, 79104 Freiburg, Germany. christoph.schempp@uniklinik-freiburg.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Wölfle U"
+          ],
+          "firstName": [
+            "Ute"
+          ],
+          "lastName": [
+            "Wölfle"
+          ],
+          "initials": [
+            "U"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0093-560X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Research Centre skinitial, Department of Dermatology, University Medical Center, 79104 Freiburg, Germany. ute.woelfle@uniklinik-freiburg.de."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0093-560X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "24"
+      ],
+      "journalIssueId": [
+        "2770596"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecules (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Molecules"
+          ],
+          "medlineAbbreviation": [
+            "Molecules"
+          ],
+          "NLMid": [
+            "100964009"
+          ],
+          "ISSN": [
+            "1420-3049"
+          ],
+          "ESSN": [
+            "1420-3049"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Acne is associated with hyperkeratosis, elevated levels of skin sebum and growth of Propionibacterium acnes (P. acnes) and Staphylococcus aureus (S. aureus). Furthermore, P. acnes promotes inflammation by inducing IL-6 production and oxidative stress. The aim of this study was to assess the antioxidant, anti-inflammatory and antibacterial potential of a hop-CO₂-extract with 50% humulone and lupulone. The susceptibility of P. acnes and S. aureus to the hop extract was tested by using the broth microdilution technique. The minimal inhibitory concentrations (MIC) for P. acnes and S. aureus were 3.1 and 9.4 µg/mL, respectively. In addition, the hop extract showed an antioxidative effect with a half maximal inhibitory concentration (IC50) of 29.43 µg/mL as well as additional anti-inflammatory effects by reducing the IL-6 expression (IC50: 0.8 µg/mL). In addition, a gel formulation with 0.3% hop extract (w/w) had antibacterial activity against P. acnes and S. aureus (inhibition zone value: 5.5 mm and 3 mm, respectively) which was significantly superior to the placebo gel. The positive control (a gel with the antibiotic clindamycin) showed an inhibition zone of 9 mm. Due to its antioxidant, anti-inflammatory and antibacterial effects hop extract might be a treatment option for acne-prone skin."
+  ],
+  "affiliation": [
+    "Research Centre skinitial, Department of Dermatology, University Medical Center, 79104 Freiburg, Germany. natalja_weber@gmx.de."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "SE-P 10042"
+          ],
+          "agency": [
+            "Software AG Stiftung"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cells, Cultured"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Keratinocytes"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CY"
+                  ],
+                  "qualifierName": [
+                    "cytology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Propionibacterium acnes"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Staphylococcus aureus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humulus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Acne Vulgaris"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Reactive Oxygen Species"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Extracts"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Interleukin-6"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antioxidants"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anti-Bacterial Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Microbial Sensitivity Tests"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Antimicrobial activity",
+        "Antioxidant activity",
+        "ACNE",
+        "S. aureus",
+        "P. Acnes",
+        "Hop Extract"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Anti-Bacterial Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Plant Extracts"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Antioxidants"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Reactive Oxygen Species"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Interleukin-6"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "IL6 protein, human"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6359372?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6359372"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/molecules24020223"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-03-22"
+  ],
+  "dateOfCreation": [
+    "2019-01-13"
+  ],
+  "firstIndexDate": [
+    "2019-01-13"
+  ],
+  "dateOfRevision": [
+    "2019-03-22"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-09"
+  ],
+  "firstPublicationDate": [
+    "2019-01-09"
+  ]
+}

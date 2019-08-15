@@ -1,0 +1,518 @@
+{
+  "id": [
+    "29641693"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29641693"
+  ],
+  "pmcid": [
+    "PMC5871358"
+  ],
+  "doi": [
+    "10.1590/abd1806-4841.20185314"
+  ],
+  "title": [
+    "Occupational dermatoses reported in Brazil from 2007 to 2014."
+  ],
+  "authorString": [
+    "Lise MLZ, Feijó FR, Lise MLZ, Lise CRZ, Campos LCE."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lise MLZ"
+          ],
+          "firstName": [
+            "Michelle Larissa Zini"
+          ],
+          "lastName": [
+            "Lise"
+          ],
+          "initials": [
+            "MLZ"
+          ],
+          "affiliation": [
+            "Dermatology Service at Hospital São Lucas - Pontifícia Universidade Católica do Rio Grande do Sul (PUC-RS) - Porto Alegre (RS), Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Feijó FR"
+          ],
+          "firstName": [
+            "Fernando Ribas"
+          ],
+          "lastName": [
+            "Feijó"
+          ],
+          "initials": [
+            "FR"
+          ],
+          "affiliation": [
+            "Department of Social Medicine at the Universidade Federal de Pelotas (UFPEL) - Pelotas (RS), Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Lise MLZ"
+          ],
+          "firstName": [
+            "Michael Laurence Zini"
+          ],
+          "lastName": [
+            "Lise"
+          ],
+          "initials": [
+            "MLZ"
+          ],
+          "affiliation": [
+            "Department of Health Surveillance of the Brazilian Ministry of Health - Brasília (DF), Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Lise CRZ"
+          ],
+          "firstName": [
+            "Claudia Ribeiro Zini"
+          ],
+          "lastName": [
+            "Lise"
+          ],
+          "initials": [
+            "CRZ"
+          ],
+          "affiliation": [
+            "Department of Health Care of the Brazilian Ministry of Health - Brasília (DF), Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Campos LCE"
+          ],
+          "firstName": [
+            "Luis Carlos Elejalde de"
+          ],
+          "lastName": [
+            "Campos"
+          ],
+          "initials": [
+            "LCE"
+          ],
+          "affiliation": [
+            "Dermatology Service at Hospital São Lucas - Pontifícia Universidade Católica do Rio Grande do Sul (PUC-RS) - Porto Alegre (RS), Brazil."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "93"
+      ],
+      "journalIssueId": [
+        "2671903"
+      ],
+      "dateOfPublication": [
+        "2018 Jan-Feb"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Anais brasileiros de dermatologia"
+          ],
+          "ISOAbbreviation": [
+            "An Bras Dermatol"
+          ],
+          "medlineAbbreviation": [
+            "An Bras Dermatol"
+          ],
+          "NLMid": [
+            "0067662"
+          ],
+          "ISSN": [
+            "0365-0596"
+          ],
+          "ESSN": [
+            "1806-4841"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "27-32"
+  ],
+  "abstractText": [
+    "Occupational diseases are very prevalent in the world, especially in developing countries. Occupational dermatoses are responsible for most of these cases. However, epidemiological studies are rare in Brazil.To verify the panorama of occupational skin diseases in Brazil describing frequencies of work-related dermatoses and their sociodemographic and occupational patterns.We used retrospective data from the Notifiable Diseases Information System, (from 2007-2014) tabulated with the Tab program for Windows - TabWin12. We used intentional non-probability sampling and sequential selection, considering all notified occupational dermatoses.All cases of occupational dermatoses referred to in the period were analyzed (n = 4710). Males and the age group of 35-49 years were the most affected. The most affected body area was the upper limb (34.2%) and the hand (25.4%). The \"causative agent\" field in the forms was not filled in 69.4% of cases, with chrome as the most prevalent cause reported (11.8%). ICD-10 codes more prevalent were L23, L24, and L25, corresponding to 34.2% of the sample. In total, 29% of patients needed to take a sick leave. No cases evolved to death and there were 0.2% of total as permanent disability.The amount of missing information for various items in the system draws attention.Treatment of patients with occupational dermatitis include the identification and removal of the causative agent and specific treatment of the disease. Diagnosis delay in cases of occupational dermatoses brings social and financial consequences to the work and life of workers."
+  ],
+  "affiliation": [
+    "Dermatology Service at Hospital São Lucas - Pontifícia Universidade Católica do Rio Grande do Sul (PUC-RS) - Porto Alegre (RS), Brazil."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dermatitis, Occupational"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prevalence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Disease Notification"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cross-Sectional Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Demography"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Age Distribution"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sex Distribution"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brazil"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5871358?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5871358"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1590/abd1806-4841.20185314"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-04-24"
+  ],
+  "dateOfCreation": [
+    "2018-04-12"
+  ],
+  "firstIndexDate": [
+    "2018-04-12"
+  ],
+  "dateOfRevision": [
+    "2018-04-24"
+  ],
+  "firstPublicationDate": [
+    "2018-01-01"
+  ]
+}

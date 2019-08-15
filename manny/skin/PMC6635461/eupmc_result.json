@@ -1,0 +1,394 @@
+{
+  "id": [
+    "31355200"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31355200"
+  ],
+  "pmcid": [
+    "PMC6635461"
+  ],
+  "doi": [
+    "10.3389/fmed.2019.00155"
+  ],
+  "title": [
+    "Acne and Stress: Impact of Catecholamines on Cutibacterium acnes."
+  ],
+  "authorString": [
+    "Borrel V, Thomas P, Catovic C, Racine PJ, Konto-Ghiorghi Y, Lefeuvre L, Duclairoir-Poc C, Zouboulis CC, Feuilloley MGJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Borrel V"
+          ],
+          "firstName": [
+            "Valérie"
+          ],
+          "lastName": [
+            "Borrel"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Laboratory of Microbiology Signals and Microenvironment LMSM EA4312, University of Rouen Normandy, Normandie Université, Evreux, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Thomas P"
+          ],
+          "firstName": [
+            "Pauline"
+          ],
+          "lastName": [
+            "Thomas"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Laboratory of Microbiology Signals and Microenvironment LMSM EA4312, University of Rouen Normandy, Normandie Université, Evreux, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Catovic C"
+          ],
+          "firstName": [
+            "Chloé"
+          ],
+          "lastName": [
+            "Catovic"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Laboratory of Microbiology Signals and Microenvironment LMSM EA4312, University of Rouen Normandy, Normandie Université, Evreux, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Racine PJ"
+          ],
+          "firstName": [
+            "Pierre-Jean"
+          ],
+          "lastName": [
+            "Racine"
+          ],
+          "initials": [
+            "PJ"
+          ],
+          "affiliation": [
+            "Laboratory of Microbiology Signals and Microenvironment LMSM EA4312, University of Rouen Normandy, Normandie Université, Evreux, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Konto-Ghiorghi Y"
+          ],
+          "firstName": [
+            "Yoan"
+          ],
+          "lastName": [
+            "Konto-Ghiorghi"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Laboratory of Microbiology Signals and Microenvironment LMSM EA4312, University of Rouen Normandy, Normandie Université, Evreux, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Lefeuvre L"
+          ],
+          "firstName": [
+            "Luc"
+          ],
+          "lastName": [
+            "Lefeuvre"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "R&D Uriage Dermatological Laboratory, Neuilly sur Seine, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Duclairoir-Poc C"
+          ],
+          "firstName": [
+            "Cécile"
+          ],
+          "lastName": [
+            "Duclairoir-Poc"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Laboratory of Microbiology Signals and Microenvironment LMSM EA4312, University of Rouen Normandy, Normandie Université, Evreux, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Zouboulis CC"
+          ],
+          "firstName": [
+            "Christos C"
+          ],
+          "lastName": [
+            "Zouboulis"
+          ],
+          "initials": [
+            "CC"
+          ],
+          "affiliation": [
+            "Departments of Dermatology, Venereology, Allergology, and Immunology, Dessau Medical Center, Brandenburg Medical School Theodor Fontane, Dessau, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Feuilloley MGJ"
+          ],
+          "firstName": [
+            "Marc G J"
+          ],
+          "lastName": [
+            "Feuilloley"
+          ],
+          "initials": [
+            "MGJ"
+          ],
+          "affiliation": [
+            "Laboratory of Microbiology Signals and Microenvironment LMSM EA4312, University of Rouen Normandy, Normandie Université, Evreux, France."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2778734"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in medicine"
+          ],
+          "ISOAbbreviation": [
+            "Front Med (Lausanne)"
+          ],
+          "medlineAbbreviation": [
+            "Front Med (Lausanne)"
+          ],
+          "NLMid": [
+            "101648047"
+          ],
+          "ISSN": [
+            "2296-858X"
+          ],
+          "ESSN": [
+            "2296-858X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "155"
+  ],
+  "abstractText": [
+    "Cutibacterium acnes (former Propionibacterium acnes), is a bacterium characterized by high genomic variability, consisting of four subtypes and six major ribotypes. Skin is the largest neuroendocrine organ of the human body and many cutaneous hormones and neurohormones can modulate bacterial physiology. Here, we investigated the effect of catecholamines, i.e., epinephrine and norepinephrine, on two representative strains of C. acnes, of which the genome has been fully sequenced, identified as RT4 acneic and RT6 non-acneic strains. Epinephrine and norepinephrine (10-6 M) had no impact on the growth of C. acnes but epinephrine increased RT4 and RT6 biofilm formation, as measured by crystal violet staining, whereas norepinephrine was only active on the RT4 strain. We obtained the same results by confocal microscopy with the RT4 strain, whereas there was no effect of either catecholamine on the RT6 strain. However, this strain was also sensitive to catecholamines, as shown by MATs tests, as epinephrine and norepinephrine affected its surface polarity. Flow cytometry studies revealed that epinephrine and norepinephrine are unable to induce major changes of bacterial surface properties and membrane integrity. Exposure of sebocytes to control or catecholamine-treated bacteria showed epinephrine and norepinephrine to have no effect on the cytotoxic or inflammatory potential of either C. acnes strains but to stimulate their effect on sebocyte lipid synthesis. Uriage thermal spring water was previously shown to inhibit biofilm production by C. acnes. We thus tested its effect after exposure of the bacteria to epinephrine and norepinephrine. The effect of the thermal water on the response of C. acnes to catecholamines depended on the surface on which the biofilm was grown. Finally, an in-silico study revealed the presence of a protein in the genome of C. acnes that shows homology with the catecholamine receptor of Escherichia coli and eukaryotes. This study suggests that C. acnes may play a role as a relay between stress mediators (catecholamines) and acne."
+  ],
+  "affiliation": [
+    "Laboratory of Microbiology Signals and Microenvironment LMSM EA4312, University of Rouen Normandy, Normandie Université, Evreux, France."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cytotoxicity",
+        "Epinephrine",
+        "Norepinephrine",
+        "Inflammation",
+        "Biofilm",
+        "Microbial Endocrinology",
+        "Bacterial Surface Polarity"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6635461?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6635461"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fmed.2019.00155"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen",
+        "uniprot",
+        "pdb"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-07-30"
+  ],
+  "firstIndexDate": [
+    "2019-07-31"
+  ],
+  "dateOfRevision": [
+    "2019-08-02"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-10"
+  ],
+  "firstPublicationDate": [
+    "2019-07-10"
+  ]
+}

@@ -1,0 +1,470 @@
+{
+  "id": [
+    "27529209"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27529209"
+  ],
+  "pmcid": [
+    "PMC6273829"
+  ],
+  "doi": [
+    "10.3390/molecules21081063"
+  ],
+  "title": [
+    "Treatment Modalities for Acne."
+  ],
+  "authorString": [
+    "Fox L, Csongradi C, Aucamp M, du Plessis J, Gerber M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Fox L"
+          ],
+          "firstName": [
+            "Lizelle"
+          ],
+          "lastName": [
+            "Fox"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Centre of Excellence for Pharmaceutical Sciences, North-West University, Private Bag X6001, Potchefstroom 2520, South Africa. Lizelle.Fox@nwu.ac.za."
+          ]
+        },
+        {
+          "fullName": [
+            "Csongradi C"
+          ],
+          "firstName": [
+            "Candice"
+          ],
+          "lastName": [
+            "Csongradi"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Centre of Excellence for Pharmaceutical Sciences, North-West University, Private Bag X6001, Potchefstroom 2520, South Africa. candice.csongradi@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Aucamp M"
+          ],
+          "firstName": [
+            "Marique"
+          ],
+          "lastName": [
+            "Aucamp"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2561-4458",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre of Excellence for Pharmaceutical Sciences, North-West University, Private Bag X6001, Potchefstroom 2520, South Africa. Marique.Aucamp@nwu.ac.za."
+          ]
+        },
+        {
+          "fullName": [
+            "du Plessis J"
+          ],
+          "firstName": [
+            "Jeanetta"
+          ],
+          "lastName": [
+            "du Plessis"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0474-9409",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre of Excellence for Pharmaceutical Sciences, North-West University, Private Bag X6001, Potchefstroom 2520, South Africa. Jeanetta.DuPlessis@nwu.ac.za."
+          ]
+        },
+        {
+          "fullName": [
+            "Gerber M"
+          ],
+          "firstName": [
+            "Minja"
+          ],
+          "lastName": [
+            "Gerber"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1473-5767",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre of Excellence for Pharmaceutical Sciences, North-West University, Private Bag X6001, Potchefstroom 2520, South Africa. Minja.Gerber@nwu.ac.za."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2561-4458",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0474-9409",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1473-5767",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "21"
+      ],
+      "journalIssueId": [
+        "2482345"
+      ],
+      "dateOfPublication": [
+        "2016 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecules (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Molecules"
+          ],
+          "medlineAbbreviation": [
+            "Molecules"
+          ],
+          "NLMid": [
+            "100964009"
+          ],
+          "ISSN": [
+            "1420-3049"
+          ],
+          "ESSN": [
+            "1420-3049"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "abstractText": [
+    "Acne is a common inflammatory skin disease which affects the pilosebaceous units of the skin. It can have severe psychological effects and can leave the patient with severe skin scarring. There are four well-recognized pathological factors responsible for acne which is also the target for acne therapy. In this review, different treatment options are discussed, including topical (i.e., retinoids, and antibiotics) and systemic (i.e., retinoids, antibiotics, and hormonal) treatments. Since the general public has been showing an increasing interest in more natural and generally safer treatment options, the use of complementary and alternative medicines (CAM) for treating acne was also discussed. The use of physical therapies such as comedone extraction, cryoslush therapy, cryotherapy, electrocauterization, intralesional corticosteroids and optical treatments are also mentioned. Acne has been extensively researched with regards to the disease mechanism as well as treatment options. However, due to the increasing resistance of Propionibacterium acnes towards the available antibiotics, there is a need for new treatment methods. Additionally, the lack of necessary evidence on the efficacy of CAM therapies makes it necessary for researchers to investigate these treatment options further."
+  ],
+  "affiliation": [
+    "Centre of Excellence for Pharmaceutical Sciences, North-West University, Private Bag X6001, Potchefstroom 2520, South Africa. Lizelle.Fox@nwu.ac.za."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Acne Vulgaris"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Combined Modality Therapy"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Natural",
+        "Systemic",
+        "Acne vulgaris",
+        "Topical",
+        "Acne Treatment",
+        "Physical Therapies"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6273829?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6273829"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/molecules21081063"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "7"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-04-12"
+  ],
+  "dateOfCreation": [
+    "2016-08-17"
+  ],
+  "firstIndexDate": [
+    "2016-08-20"
+  ],
+  "dateOfRevision": [
+    "2019-01-08"
+  ],
+  "electronicPublicationDate": [
+    "2016-08-13"
+  ],
+  "firstPublicationDate": [
+    "2016-08-13"
+  ]
+}

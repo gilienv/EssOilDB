@@ -1,0 +1,542 @@
+{
+  "id": [
+    "30867201"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30867201"
+  ],
+  "pmcid": [
+    "PMC6430027"
+  ],
+  "doi": [
+    "10.1136/bmjopen-2018-024594"
+  ],
+  "title": [
+    "PEBBLES study protocol: a randomised controlled trial to prevent atopic dermatitis, food allergy and sensitisation in infants with a family history of allergic disease using a skin barrier improvement strategy."
+  ],
+  "authorString": [
+    "Lowe A, Su J, Tang M, Lodge CJ, Matheson M, Allen KJ, Varigos G, Sasi A, Cranswick N, Hamilton S, Robertson CF, Hui J, Abramson M, O'Brien S, Dharmage S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lowe A"
+          ],
+          "firstName": [
+            "Adrian"
+          ],
+          "lastName": [
+            "Lowe"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4691-8162",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Allergy and Lung Health Unit, Melbourne School of Population and Global Health, University of Melbourne, Melbourne, Victoria, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Su J"
+          ],
+          "firstName": [
+            "John"
+          ],
+          "lastName": [
+            "Su"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Murdoch Children's Research Institute, Royal Children's Hospital, Parkville, Victoria, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Tang M"
+          ],
+          "firstName": [
+            "Mimi"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Murdoch Children's Research Institute, Royal Children's Hospital, Parkville, Victoria, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Lodge CJ"
+          ],
+          "firstName": [
+            "Caroline J"
+          ],
+          "lastName": [
+            "Lodge"
+          ],
+          "initials": [
+            "CJ"
+          ],
+          "affiliation": [
+            "Allergy and Lung Health Unit, Melbourne School of Population and Global Health, University of Melbourne, Melbourne, Victoria, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Matheson M"
+          ],
+          "firstName": [
+            "Melanie"
+          ],
+          "lastName": [
+            "Matheson"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Allergy and Lung Health Unit, Melbourne School of Population and Global Health, University of Melbourne, Melbourne, Victoria, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Allen KJ"
+          ],
+          "firstName": [
+            "Katrina J"
+          ],
+          "lastName": [
+            "Allen"
+          ],
+          "initials": [
+            "KJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1921-4493",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Murdoch Children's Research Institute, Royal Children's Hospital, Parkville, Victoria, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Varigos G"
+          ],
+          "firstName": [
+            "George"
+          ],
+          "lastName": [
+            "Varigos"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Dermatology, Royal Melbourne Hospital, University of Melbourne, Parkville, Victoria, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Sasi A"
+          ],
+          "firstName": [
+            "Arun"
+          ],
+          "lastName": [
+            "Sasi"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Mercy Women's Hospital, Heidelberg, Victoria, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Cranswick N"
+          ],
+          "firstName": [
+            "Noel"
+          ],
+          "lastName": [
+            "Cranswick"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Murdoch Children's Research Institute, Royal Children's Hospital, Parkville, Victoria, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Hamilton S"
+          ],
+          "firstName": [
+            "Simone"
+          ],
+          "lastName": [
+            "Hamilton"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Allergy and Lung Health Unit, Melbourne School of Population and Global Health, University of Melbourne, Melbourne, Victoria, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Robertson CF"
+          ],
+          "firstName": [
+            "Colin F"
+          ],
+          "lastName": [
+            "Robertson"
+          ],
+          "initials": [
+            "CF"
+          ],
+          "affiliation": [
+            "Murdoch Children's Research Institute, Royal Children's Hospital, Parkville, Victoria, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Hui J"
+          ],
+          "firstName": [
+            "Jennie"
+          ],
+          "lastName": [
+            "Hui"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "School of Population and Global Health, The University of Western Australia, Perth, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Abramson M"
+          ],
+          "firstName": [
+            "Michael"
+          ],
+          "lastName": [
+            "Abramson"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Epidemiology & Preventive Medicine, School of Public Health & Preventive Medicine, Monash University, Melbourne, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "O'Brien S"
+          ],
+          "firstName": [
+            "Shaie"
+          ],
+          "lastName": [
+            "O'Brien"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Allergy and Lung Health Unit, Melbourne School of Population and Global Health, University of Melbourne, Melbourne, Victoria, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Dharmage S"
+          ],
+          "firstName": [
+            "Shyamali"
+          ],
+          "lastName": [
+            "Dharmage"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6063-1937",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Allergy and Lung Health Unit, Melbourne School of Population and Global Health, University of Melbourne, Melbourne, Victoria, Australia."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1921-4493",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6063-1937",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4691-8162",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2788248"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMJ open"
+          ],
+          "ISOAbbreviation": [
+            "BMJ Open"
+          ],
+          "medlineAbbreviation": [
+            "BMJ Open"
+          ],
+          "NLMid": [
+            "101552874"
+          ],
+          "ISSN": [
+            "2044-6055"
+          ],
+          "ESSN": [
+            "2044-6055"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e024594"
+  ],
+  "abstractText": [
+    "INTRODUCTION:The skin is an important barrier against environmental allergens, but infants have relatively impaired skin barrier function. There is evidence that impaired skin barrier function increases the risk of allergic sensitisation, atopic dermatitis (AD) and food allergy. We hypothesise that regular prophylactic use of emollients, particularly those that are designed to improve skin barrier structure and function, will help prevent these conditions. With the aim of determining if application of a ceramide-dominant emollient two times per day reduces the risk of AD and food allergy, we have commenced a multicentre phase III, outcome assessor blinded, randomised controlled trial of this emollient applied from birth to 6 months. METHODS AND ANALYSIS:Infants (n=760) with a family history of allergic disease will be recruited from maternity hospitals in Melbourne. The primary outcomes are as follows: the presence of AD, assessed using the UK Working Party criteria, and food allergy using food challenge, in the first 12 months of life as assessed by a blinded study outcome assessor. Secondary outcomes are as follows: food sensitisation (skin prick test), skin barrier function, AD severity, the presence of new onset AD after treatment cessation (between 6 and 12 months) and the presence of parent reported AD/eczema. Recruitment commenced in March 2018. ETHICS AND DISSEMINATION:The PEBBLES Study is approved by the Human Research Ethics Committees of the Royal Children's Hospital (RCH) (#37090A) and the Mercy Hospital for Women (2018-008). Parents or guardians will provide written informed consent. Outcomes will be disseminated through peer-reviewed publications and presented at scientific conferences. TRIAL REGISTRATION NUMBERS:ACTRN12617001380381 and NCT03667651."
+  ],
+  "affiliation": [
+    "Allergy and Lung Health Unit, Melbourne School of Population and Global Health, University of Melbourne, Melbourne, Victoria, Australia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "protocol",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Allergy",
+        "Asthma",
+        "Eczema",
+        "Paediatric Dermatology"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6430027?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6430027"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1136/bmjopen-2018-024594"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-03-15"
+  ],
+  "firstIndexDate": [
+    "2019-03-15"
+  ],
+  "dateOfRevision": [
+    "2019-04-07"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-13"
+  ],
+  "firstPublicationDate": [
+    "2019-03-13"
+  ]
+}

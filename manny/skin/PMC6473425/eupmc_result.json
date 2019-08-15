@@ -1,0 +1,283 @@
+{
+  "id": [
+    "30597979"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30597979"
+  ],
+  "pmcid": [
+    "PMC6473425"
+  ],
+  "doi": [
+    "10.3390/diseases7010003"
+  ],
+  "title": [
+    "Infected with Scabies Again? Focus in Management in Long-Term Care Facilities."
+  ],
+  "authorString": [
+    "Ong CY, Vasanwala FF."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ong CY"
+          ],
+          "firstName": [
+            "Chong Yau"
+          ],
+          "lastName": [
+            "Ong"
+          ],
+          "initials": [
+            "CY"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6230-7134",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Family Medicine, Division of Medicine, Sengkang General Hospital, Singapore 544886, Singapore. ong.chong.yau@singhealth.com.sg."
+          ]
+        },
+        {
+          "fullName": [
+            "Vasanwala FF"
+          ],
+          "firstName": [
+            "Farhad Fakhrudin"
+          ],
+          "lastName": [
+            "Vasanwala"
+          ],
+          "initials": [
+            "FF"
+          ],
+          "affiliation": [
+            "Department of Family Medicine, Division of Medicine, Sengkang General Hospital, Singapore 544886, Singapore. farhad.fakhrudin.vasanwala@singhealth.com.sg."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6230-7134",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2763462"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Diseases"
+          ],
+          "ISOAbbreviation": [
+            "Diseases"
+          ],
+          "medlineAbbreviation": [
+            "Diseases"
+          ],
+          "NLMid": [
+            "101636232"
+          ],
+          "ISSN": [
+            "2079-9721"
+          ],
+          "ESSN": [
+            "2079-9721"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "Scabies is a significant public health condition in long-term care facilities, plaguing even developed countries. Although treatments are available, eradication and control of scabies cases still remain a challenge due to delays in diagnosis and difficulties in maintaining preventive and surveillance measures. Prompt treatment of patients and their contacts that are affected, along with concomitant education of health staff and family members, are paramount. Environmental disinfestation is also a concern."
+  ],
+  "affiliation": [
+    "Department of Family Medicine, Division of Medicine, Sengkang General Hospital, Singapore 544886, Singapore. ong.chong.yau@singhealth.com.sg."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "mites",
+        "Scabies",
+        "Long-term Care"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6473425?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6473425"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/diseases7010003"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-01-02"
+  ],
+  "firstIndexDate": [
+    "2019-01-02"
+  ],
+  "dateOfRevision": [
+    "2019-04-30"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-29"
+  ],
+  "firstPublicationDate": [
+    "2018-12-29"
+  ]
+}

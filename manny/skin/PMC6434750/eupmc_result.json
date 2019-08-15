@@ -1,0 +1,284 @@
+{
+  "id": [
+    "30984611"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30984611"
+  ],
+  "pmcid": [
+    "PMC6434750"
+  ],
+  "doi": [
+    "10.4103/idoj.IDOJ_497_18"
+  ],
+  "title": [
+    "South Asian Epidemic of Antifungal Therapeutic Failures: Congress Proceedings and Take-home Messages. First International Congress of SAARCUM: South Asian Alliance against Recalcitrant CUtaneous Mycosis. 17 November 2018, Medanta - The Medicity, Gurugram, India."
+  ],
+  "authorString": [
+    "Aggarwal P, Agrawal M, Sonthalia S, Arora D, Sharma P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Aggarwal P"
+          ],
+          "firstName": [
+            "Parul"
+          ],
+          "lastName": [
+            "Aggarwal"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Dermatology, SKINALIVE, Gurugram, Haryana, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Agrawal M"
+          ],
+          "firstName": [
+            "Mahima"
+          ],
+          "lastName": [
+            "Agrawal"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Dermatology and STD, Lady Hardinge Medical College and SK Hospital, New Delhi, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Sonthalia S"
+          ],
+          "firstName": [
+            "Sidharth"
+          ],
+          "lastName": [
+            "Sonthalia"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Dermatology and Dermatosurgery, SKINNOCENCE: The Skin Clinic and Research Centre, Gurugram, Haryana, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Arora D"
+          ],
+          "firstName": [
+            "Dharmendra"
+          ],
+          "lastName": [
+            "Arora"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Development Communication, Jamia Millia Islamia, New Delhi, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Sharma P"
+          ],
+          "firstName": [
+            "Poonam"
+          ],
+          "lastName": [
+            "Sharma"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Dermatology and STD, Skin Institute and School of Dermatology (SISD), New Delhi, India."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2806389"
+      ],
+      "dateOfPublication": [
+        "2019 Mar-Apr"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Indian dermatology online journal"
+          ],
+          "ISOAbbreviation": [
+            "Indian Dermatol Online J"
+          ],
+          "medlineAbbreviation": [
+            "Indian Dermatol Online J"
+          ],
+          "NLMid": [
+            "101586880"
+          ],
+          "ISSN": [
+            "2229-5178"
+          ],
+          "ESSN": [
+            "2249-5673"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "214-224"
+  ],
+  "affiliation": [
+    "Department of Dermatology, SKINALIVE, Gurugram, Haryana, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "other",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6434750"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/idoj.IDOJ_497_18"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-04-16"
+  ],
+  "firstIndexDate": [
+    "2019-04-15"
+  ],
+  "dateOfRevision": [
+    "2019-04-15"
+  ],
+  "firstPublicationDate": [
+    "2019-03-01"
+  ]
+}

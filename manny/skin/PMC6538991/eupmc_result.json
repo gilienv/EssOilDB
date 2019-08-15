@@ -1,0 +1,389 @@
+{
+  "id": [
+    "31035724"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31035724"
+  ],
+  "pmcid": [
+    "PMC6538991"
+  ],
+  "doi": [
+    "10.3390/ijerph16091519"
+  ],
+  "title": [
+    "Assessment of Occupational Health Hazards Due to Particulate Matter Originated from Spices."
+  ],
+  "authorString": [
+    "Upadhyay E, Mohammad AlMass AA, Dasgupta N, Rahman S, Kim J, Datta M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Upadhyay E"
+          ],
+          "firstName": [
+            "Era"
+          ],
+          "lastName": [
+            "Upadhyay"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Amity institute of Biotechnology, Amity University Rajasthan, Jaipur, Rajasthan 302 002, India. eupadhyay@jpr.amity.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Mohammad AlMass AA"
+          ],
+          "firstName": [
+            "Afnan Ahmad"
+          ],
+          "lastName": [
+            "Mohammad AlMass"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5419-5574",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Emergency Medicine Department, King Saud University Medical City, King Saud University, Riyadh 11321, Saudi Arabia. afnan.almass@hotmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Dasgupta N"
+          ],
+          "firstName": [
+            "Nandita"
+          ],
+          "lastName": [
+            "Dasgupta"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Biotechnology, Institute of Engineering and Technology, Dr. APJ Abdul Kalam Technical University, Lucknow, Uttar Pradesh 226031, India. nanditadg254@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Rahman S"
+          ],
+          "firstName": [
+            "Safikur"
+          ],
+          "lastName": [
+            "Rahman"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6282-8706",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Medical Biotechnology, Yeungnam University, Gyeongsan, 712-749, Korea. shafique2@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim J"
+          ],
+          "firstName": [
+            "Jihoe"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1905-1452",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Medical Biotechnology, Yeungnam University, Gyeongsan, 712-749, Korea. kimjihoe@ynu.ac.kr."
+          ]
+        },
+        {
+          "fullName": [
+            "Datta M"
+          ],
+          "firstName": [
+            "Manali"
+          ],
+          "lastName": [
+            "Datta"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Amity institute of Biotechnology, Amity University Rajasthan, Jaipur, Rajasthan 302 002, India. mdatta@jpr.amity.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6282-8706",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5419-5574",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1905-1452",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2809469"
+      ],
+      "dateOfPublication": [
+        "2019 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of environmental research and public health"
+          ],
+          "ISOAbbreviation": [
+            "Int J Environ Res Public Health"
+          ],
+          "medlineAbbreviation": [
+            "Int J Environ Res Public Health"
+          ],
+          "NLMid": [
+            "101238455"
+          ],
+          "ISSN": [
+            "1661-7827"
+          ],
+          "ESSN": [
+            "1660-4601"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Spices have been known for their various health activities; however, they also possess the allergic potential for the respiratory system and the skin as they are fine particulate matter. Persons involved in spice agriculture and food industries are at greater risk since they are exposed to a considerable amount of combustible dust, which may be the cause of fire and explosion and adversely affect the health. These workers may experience allergy, long-term and short-term respiratory issues including occupational asthma, dermatitis, etc. Some spices induce T cell-based inflammatory reaction upon contact recognition of the antigen. Antigen Presenting Cells (APC) on binding to the causative metabolite results in activation of macrophages by allergen cytokine interleukin (IL)-12 and tumor necrosis factor-beta (TNF). Cross-reactivity for protein allergens is another factor which seems to be a significant trigger for the stimulation of allergic reactions. Thus, it was imperative to perform a systematic review along with bioinformatics based representation of some evident allergens has been done to identify the overall conservation of epitopes. In the present manuscript, we have covered a multifold approach, i.e., to categorize the spice particles based on a clear understanding about nature, origin, mechanisms; to assess metabolic reactions of the particles after exposure as well as knowledge on the conditions of exposure along with associated potential health effects. Another aim of this study is to provide some suggestions to prevent and to control the exposure up to some extent."
+  ],
+  "affiliation": [
+    "Amity institute of Biotechnology, Amity University Rajasthan, Jaipur, Rajasthan 302 002, India. eupadhyay@jpr.amity.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Spices",
+        "Occupation",
+        "Respiratory Health",
+        "Spice Industry",
+        "Spice Allergens"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6538991?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6538991"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijerph16091519"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "pdb"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-05-01"
+  ],
+  "firstIndexDate": [
+    "2019-04-30"
+  ],
+  "dateOfRevision": [
+    "2019-08-08"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-29"
+  ],
+  "firstPublicationDate": [
+    "2019-04-29"
+  ]
+}

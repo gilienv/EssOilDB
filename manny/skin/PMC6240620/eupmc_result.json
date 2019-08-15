@@ -1,0 +1,476 @@
+{
+  "id": [
+    "30483247"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30483247"
+  ],
+  "pmcid": [
+    "PMC6240620"
+  ],
+  "doi": [
+    "10.3389/fimmu.2018.02478"
+  ],
+  "title": [
+    "Advances in Designing and Developing Vaccines, Drugs and Therapeutic Approaches to Counter Human Papilloma Virus."
+  ],
+  "authorString": [
+    "Dadar M, Chakraborty S, Dhama K, Prasad M, Khandia R, Hassan S, Munjal A, Tiwari R, Karthik K, Kumar D, Iqbal HMN, Chaicumpa W."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Dadar M"
+          ],
+          "firstName": [
+            "Maryam"
+          ],
+          "lastName": [
+            "Dadar"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Razi Vaccine and Serum Research Institute, Agricultural Research, Education and Extension Organization, Karaj, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Chakraborty S"
+          ],
+          "firstName": [
+            "Sandip"
+          ],
+          "lastName": [
+            "Chakraborty"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Veterinary Microbiology, College of Veterinary Sciences and Animal Husbandry, West Tripura, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Dhama K"
+          ],
+          "firstName": [
+            "Kuldeep"
+          ],
+          "lastName": [
+            "Dhama"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7469-4752",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Pathology, ICAR-Indian Veterinary Research Institute, Bareilly, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Prasad M"
+          ],
+          "firstName": [
+            "Minakshi"
+          ],
+          "lastName": [
+            "Prasad"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Animal Biotechnology, LLR University of Veterinary and Animal Sciences, Hisar, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Khandia R"
+          ],
+          "firstName": [
+            "Rekha"
+          ],
+          "lastName": [
+            "Khandia"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Genetics, Barkatullah University, Bhopal, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Hassan S"
+          ],
+          "firstName": [
+            "Sameer"
+          ],
+          "lastName": [
+            "Hassan"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Biomedical Informatics, National Institute for Research in Tuberculosis, Indian Council of Medical Research, Chennai, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Munjal A"
+          ],
+          "firstName": [
+            "Ashok"
+          ],
+          "lastName": [
+            "Munjal"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Genetics, Barkatullah University, Bhopal, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Tiwari R"
+          ],
+          "firstName": [
+            "Ruchi"
+          ],
+          "lastName": [
+            "Tiwari"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Veterinary Microbiology and Immunology, College of Veterinary Sciences, U P Pt. Deen Dayal Upadhayay Pashu Chikitsa Vigyan Vishwavidyalay Evum Go-Anusandhan Sansthan, Mathura, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Karthik K"
+          ],
+          "firstName": [
+            "Kumaragurubaran"
+          ],
+          "lastName": [
+            "Karthik"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Central University Laboratory, Tamil Nadu Veterinary and Animal Sciences University, Chennai, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Kumar D"
+          ],
+          "firstName": [
+            "Deepak"
+          ],
+          "lastName": [
+            "Kumar"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Division of Veterinary Biotechnology, ICAR-Indian Veterinary Research Institute, Bareilly, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Iqbal HMN"
+          ],
+          "firstName": [
+            "Hafiz M N"
+          ],
+          "lastName": [
+            "Iqbal"
+          ],
+          "initials": [
+            "HMN"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4855-2720",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Tecnologico de Monterrey, School of Engineering and Sciences, Monterrey, Mexico."
+          ]
+        },
+        {
+          "fullName": [
+            "Chaicumpa W"
+          ],
+          "firstName": [
+            "Wanpen"
+          ],
+          "lastName": [
+            "Chaicumpa"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Department of Parasitology, Center of Research Excellence on Therapeutic Proteins and Antibody Engineering, Faculty of Medicine SIriraj Hospital, Mahidol University, Bangkok, Thailand."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7469-4752",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4855-2720",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2647771"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in immunology"
+          ],
+          "ISOAbbreviation": [
+            "Front Immunol"
+          ],
+          "medlineAbbreviation": [
+            "Front Immunol"
+          ],
+          "NLMid": [
+            "101560960"
+          ],
+          "ISSN": [
+            "1664-3224"
+          ],
+          "ESSN": [
+            "1664-3224"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "2478"
+  ],
+  "abstractText": [
+    "Human papillomavirus (HPV) is a viral infection with skin-to-skin based transmission mode. HPV annually caused over 500,000 cancer cases including cervical, anogenital and oropharyngeal cancer among others. HPV vaccination has become a public-health concern, worldwide, to prevent the cases of HPV infections including precancerous lesions, cervical cancers, and genital warts especially in adolescent female and male population by launching national programs with international alliances. Currently, available prophylactic and therapeutic vaccines are expensive to be used in developing countries for vaccination programs. The recent progress in immunotherapy, biotechnology, recombinant DNA technology and molecular biology along with alternative and complementary medicinal systems have paved novel ways and valuable opportunities to design and develop effective prophylactic and therapeutic vaccines, drugs and treatment approach to counter HPV effectively. Exploration and more researches on such advances could result in the gradual reduction in the incidences of HPV cases across the world. The present review presents a current global scenario and futuristic prospects of the advanced prophylactic and therapeutic approaches against HPV along with recent patents coverage of the progress and advances in drugs, vaccines and therapeutic regimens to effectively combat HPV infections and its cancerous conditions."
+  ],
+  "affiliation": [
+    "Razi Vaccine and Serum Research Institute, Agricultural Research, Education and Extension Organization, Karaj, Iran."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Vaccines",
+        "Drugs",
+        "Therapy",
+        "Prophylaxis",
+        "Human Papilloma Virus (Hpv)"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6240620?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6240620"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fimmu.2018.02478"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-11-29"
+  ],
+  "firstIndexDate": [
+    "2018-11-29"
+  ],
+  "dateOfRevision": [
+    "2019-06-18"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-12"
+  ],
+  "firstPublicationDate": [
+    "2018-11-12"
+  ]
+}

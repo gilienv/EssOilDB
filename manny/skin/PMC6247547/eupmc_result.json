@@ -1,0 +1,520 @@
+{
+  "id": [
+    "30289008"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30289008"
+  ],
+  "pmcid": [
+    "PMC6247547"
+  ],
+  "doi": [
+    "10.1177/1534735418803766"
+  ],
+  "title": [
+    "Calendula officinalis: Potential Roles in Cancer Treatment and Palliative Care."
+  ],
+  "authorString": [
+    "Cruceriu D, Balacescu O, Rakosy E."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Cruceriu D"
+          ],
+          "firstName": [
+            "Daniel"
+          ],
+          "lastName": [
+            "Cruceriu"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "1 The Oncology Institute \"Prof. Dr. Ion Chiricuta,\" Cluj-Napoca, Romania."
+          ]
+        },
+        {
+          "fullName": [
+            "Balacescu O"
+          ],
+          "firstName": [
+            "Ovidiu"
+          ],
+          "lastName": [
+            "Balacescu"
+          ],
+          "initials": [
+            "O"
+          ],
+          "affiliation": [
+            "1 The Oncology Institute \"Prof. Dr. Ion Chiricuta,\" Cluj-Napoca, Romania."
+          ]
+        },
+        {
+          "fullName": [
+            "Rakosy E"
+          ],
+          "firstName": [
+            "Elena"
+          ],
+          "lastName": [
+            "Rakosy"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "2 \"Babes-Bolyai\" University, Cluj-Napoca, Romania."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "17"
+      ],
+      "journalIssueId": [
+        "2745319"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Integrative cancer therapies"
+          ],
+          "ISOAbbreviation": [
+            "Integr Cancer Ther"
+          ],
+          "medlineAbbreviation": [
+            "Integr Cancer Ther"
+          ],
+          "NLMid": [
+            "101128834"
+          ],
+          "ISSN": [
+            "1534-7354"
+          ],
+          "ESSN": [
+            "1552-695X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "1068-1078"
+  ],
+  "abstractText": [
+    "A continuous challenge in cancer management is to improve treatment efficacy and to diminish its side effects. Consequently, new conventional and unconventional drugs and bioactive compounds from plants are constantly developed, characterized, and used for in vitro and in vivo models. This review focuses on the antitumor properties of Calendula officinalis, its biological and molecular effects in tumor cells and animal models, as well as its role in cancer palliative care. A systematic review of studies describing the cytotoxic role of C officinalis and its therapeutic role on cancer cells were carried out using the PubMed database. Albeit C officinalis extracts have cytotoxic activity toward different cancer cell lines, a high grade of variation between studies was observed, depending on plant organ subjected to extraction, extraction method, and the cancer cell lines used for each study. Nevertheless, its cytotoxic activity is related to a few bioactive compounds, presenting multiple roles in both activation of proapoptotic proteins and decreasing the expression of the proteins that inhibit cell death. Moreover, due to its anti-genotoxic/protective as well as antitumor and antimetastatic effects proven in animal models, C officinalis could have important future implications in developing novel cancer treatment strategies, while until now it has been used especially for diminishing the side effects of radiotherapy."
+  ],
+  "affiliation": [
+    "1 The Oncology Institute \"Prof. Dr. Ion Chiricuta,\" Cluj-Napoca, Romania."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review",
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Calendula"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Extracts"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antineoplastic Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phytotherapy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Palliative Care"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Apoptosis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cytotoxicity",
+        "Cancer",
+        "Palliative care",
+        "Genoprotective",
+        "Calendula",
+        "Antimetastatic"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Antineoplastic Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Plant Extracts"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6247547?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6247547"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1177/1534735418803766"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-04-24"
+  ],
+  "dateOfCreation": [
+    "2018-10-06"
+  ],
+  "firstIndexDate": [
+    "2018-10-05"
+  ],
+  "dateOfRevision": [
+    "2019-04-24"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-05"
+  ],
+  "firstPublicationDate": [
+    "2018-10-05"
+  ]
+}

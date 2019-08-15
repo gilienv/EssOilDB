@@ -1,0 +1,947 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20070202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing.dtd?><?SourceDTD.Version 2.3?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Molecules</journal-id><journal-id journal-id-type="iso-abbrev">Molecules</journal-id><journal-id journal-id-type="publisher-id">molecules</journal-id><journal-title-group><journal-title>Molecules</journal-title></journal-title-group><issn pub-type="epub">1420-3049</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6273829</article-id><article-id pub-id-type="doi">10.3390/molecules21081063</article-id><article-id pub-id-type="publisher-id">molecules-21-01063</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Treatment Modalities for Acne</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Fox</surname><given-names>Lizelle</given-names></name></contrib><contrib contrib-type="author"><name><surname>Csongradi</surname><given-names>Candice</given-names></name></contrib><contrib contrib-type="author"><name><surname>Aucamp</surname><given-names>Marique</given-names></name></contrib><contrib contrib-type="author"><name><surname>du Plessis</surname><given-names>Jeanetta</given-names></name></contrib><contrib contrib-type="author"><name><surname>Gerber</surname><given-names>Minja</given-names></name><xref rid="c1-molecules-21-01063" ref-type="corresp">*</xref></contrib></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>Kalia</surname><given-names>Yogeshvar</given-names></name><role>Academic Editor</role></contrib><contrib contrib-type="editor"><name><surname>Mu&#x000f1;oz-Torrero</surname><given-names>Diego</given-names></name><role>Academic Editor</role></contrib></contrib-group><aff id="af1-molecules-21-01063">Centre of Excellence for Pharmaceutical Sciences, North-West University, Private Bag X6001, Potchefstroom 2520, South Africa; <email>Lizelle.Fox@nwu.ac.za</email> (L.F.); <email>candice.csongradi@gmail.com</email> (C.C.); <email>Marique.Aucamp@nwu.ac.za</email> (M.A.); <email>Jeanetta.DuPlessis@nwu.ac.za</email> (J.P.)</aff><author-notes><corresp id="c1-molecules-21-01063"><label>*</label>Correspondence: <email>Minja.Gerber@nwu.ac.za</email>; Tel.: +27-18-299-2328; Fax: +27-87-231-5432</corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>8</month><year>2016</year></pub-date><pub-date pub-type="collection"><month>8</month><year>2016</year></pub-date><volume>21</volume><issue>8</issue><elocation-id>1063</elocation-id><history><date date-type="received"><day>09</day><month>6</month><year>2016</year></date><date date-type="accepted"><day>08</day><month>8</month><year>2016</year></date></history><permissions><copyright-statement>&#x000a9; 2016 by the authors.</copyright-statement><copyright-year>2016</copyright-year><license license-type="open-access"><license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC-BY) license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p>Acne is a common inflammatory skin disease which affects the pilosebaceous units of the skin. It can have severe psychological effects and can leave the patient with severe skin scarring. There are four well-recognized pathological factors responsible for acne which is also the target for acne therapy. In this review, different treatment options are discussed, including topical (i.e., retinoids, and antibiotics) and systemic (i.e., retinoids, antibiotics, and hormonal) treatments. Since the general public has been showing an increasing interest in more natural and generally safer treatment options, the use of complementary and alternative medicines (CAM) for treating acne was also discussed. The use of physical therapies such as comedone extraction, cryoslush therapy, cryotherapy, electrocauterization, intralesional corticosteroids and optical treatments are also mentioned. Acne has been extensively researched with regards to the disease mechanism as well as treatment options. However, due to the increasing resistance of <italic>Propionibacterium acnes</italic> towards the available antibiotics, there is a need for new treatment methods. Additionally, the lack of necessary evidence on the efficacy of CAM therapies makes it necessary for researchers to investigate these treatment options further.</p></abstract><kwd-group><kwd><italic>Acne vulgaris</italic></kwd><kwd>acne treatment</kwd><kwd>topical</kwd><kwd>systemic</kwd><kwd>physical therapies</kwd><kwd>natural</kwd></kwd-group></article-meta></front><body><sec id="sec1-molecules-21-01063"><title>1. Introduction</title><p><italic>Acne vulgaris</italic> is a common chronic inflammatory disease of the skin. It is found in about 80% of young adults and adolescents. It is a disease that affects the pilosebaceous units of the skin and may result in inflammatory or non-inflammatory lesions [<xref rid="B1-molecules-21-01063" ref-type="bibr">1</xref>,<xref rid="B2-molecules-21-01063" ref-type="bibr">2</xref>,<xref rid="B3-molecules-21-01063" ref-type="bibr">3</xref>]. Strauss et al. [<xref rid="B4-molecules-21-01063" ref-type="bibr">4</xref>] defined acne as a chronic inflammatory dermatosis which consists of open comedones (blackheads), closed comedones (whiteheads) and inflammatory lesions such as nodules, pustules and papules. Thiboutot et al. [<xref rid="B5-molecules-21-01063" ref-type="bibr">5</xref>] suggested that acne should be recognized as a chronic disease which may also affect the patient psychologically.</p><p>In recent years, acne has been observed in younger patients due to the earlier onset of puberty [<xref rid="B6-molecules-21-01063" ref-type="bibr">6</xref>]. Adebamowo et al. [<xref rid="B7-molecules-21-01063" ref-type="bibr">7</xref>] stated that acne is more common in girls in the age range of 12 years and younger, but it presents more in boys in the age range of 15 years or older. In most cases, acne disappears within the patient&#x02019;s early twenties; however, acne may persist into adulthood which usually occurs more often in females [<xref rid="B1-molecules-21-01063" ref-type="bibr">1</xref>].</p><p>Acne has many negative effects on young adolescents. It causes discomfort, emotional stress, disfigurement and even permanent scarring to the skin. It may also cause anxiety and embarrassment in patients and may diminish the patient&#x02019;s physiological and social wellbeing [<xref rid="B8-molecules-21-01063" ref-type="bibr">8</xref>,<xref rid="B9-molecules-21-01063" ref-type="bibr">9</xref>]. Several factors may induce acne production or increase its severity. Some of these factors include genetics, the male sex, youth, stress and smoking as well as comedogenic medications such as androgens, halogens, corticosteroids and pore clogging cosmetics. Past research suggests that genetic influence combined with comedogenic hormones (especially androgens) produce abnormal volumes of sebum which contribute to acne lesions [<xref rid="B1-molecules-21-01063" ref-type="bibr">1</xref>,<xref rid="B3-molecules-21-01063" ref-type="bibr">3</xref>,<xref rid="B10-molecules-21-01063" ref-type="bibr">10</xref>].</p><p>At present, there is a widespread interest in the relationship between diet and <italic>Acne vulgaris</italic> [<xref rid="B11-molecules-21-01063" ref-type="bibr">11</xref>]. This relationship will, however, not be discussed in the current article as there is a great deal of information available and forms a subject on its own. Diagnosing acne is simple and straightforward. Differential diagnosis that exists is rosacea (lacks comedones), folliculitis, dermatitis and drug-induced eruptions [<xref rid="B10-molecules-21-01063" ref-type="bibr">10</xref>].</p></sec><sec id="sec2-molecules-21-01063"><title>2. Pathogenesis of Acne</title><p>Acne affects the pilosebaceous units of the skin which presents with a variety of lesions at various inflammatory stages, including acne scars and hyperpigmentation [<xref rid="B10-molecules-21-01063" ref-type="bibr">10</xref>,<xref rid="B12-molecules-21-01063" ref-type="bibr">12</xref>]. According to Olutunmbi et al. [<xref rid="B10-molecules-21-01063" ref-type="bibr">10</xref>], acne lesions are most commonly present on the face, chest, upper back and upper arms which are known to have a high density of sebaceous glands [<xref rid="B6-molecules-21-01063" ref-type="bibr">6</xref>].</p><p>The four main pathological factors involved in the development of acne are the increased sebum production, irregular follicular desquamation, <italic>Propionibacterium acnes</italic> proliferation and inflammation of area [<xref rid="B13-molecules-21-01063" ref-type="bibr">13</xref>]. These four factors are illustrated in <xref ref-type="fig" rid="molecules-21-01063-f001">Figure 1</xref>.</p><sec id="sec2dot1-molecules-21-01063"><title>2.1. Excess Sebum Production</title><p>Gollnick [<xref rid="B15-molecules-21-01063" ref-type="bibr">15</xref>] stated that androgen hormones (especially testosterone) stimulate increased production and secretion of sebum. Increased sebum production directly correlates with the severity and occurrence of acne lesions and for this reason it is an important factor that should be taken into consideration when dealing with patients suffering from <italic>Acne vulgaris</italic> [<xref rid="B15-molecules-21-01063" ref-type="bibr">15</xref>,<xref rid="B16-molecules-21-01063" ref-type="bibr">16</xref>].</p></sec><sec id="sec2dot2-molecules-21-01063"><title>2.2. Epidermal Hyper-Proliferation and Formation of Comedones</title><p>The keratinocytes in normal follicles are usually shed to the lumen as single cells which are then excreted. In patients with acne, hyper-proliferation of the keratinocytes occur and they are not shed as they should be, which results in the gathering of the abnormal desquamated corneocytes in the sebaceous follicle along with other lipids and monofilaments. This phenomenon results in comedogenesis [<xref rid="B13-molecules-21-01063" ref-type="bibr">13</xref>].</p><p>Webster [<xref rid="B17-molecules-21-01063" ref-type="bibr">17</xref>] refers to a microcomedone as the first microscopic lesion that forms from occlusion of the follicle, and it is the precursor of the other acne lesions. The microcomedone gradually fills up with more lipids and monofilaments and develops into visible non-inflammatory comedones and inflammatory acne lesions [<xref rid="B13-molecules-21-01063" ref-type="bibr">13</xref>,<xref rid="B15-molecules-21-01063" ref-type="bibr">15</xref>,<xref rid="B18-molecules-21-01063" ref-type="bibr">18</xref>]. Comedones are referred to as blackheads (open comedones) when they are dilated at the skin surface. They appear blackish on the skin and are filled with sebum and desquamated keratinocytes. They can also be termed as whiteheads (closed comedones) which appear as a white bump underneath the skins surface with no open pores. If sebum continues to accumulate, the closed comedone will continue to expand and may rupture into the surrounding tissue [<xref rid="B15-molecules-21-01063" ref-type="bibr">15</xref>].</p></sec><sec id="sec2dot3-molecules-21-01063"><title>2.3. Propionibacterium Acnes Infiltration</title><p>The microflora present in a normal sebaceous follicle is qualitatively similar to that found in comedones. This includes three coexisting groups of bacteria, namely (1) coagulase-negative staphylococci (<italic>Staphylococcus epidermidis</italic>); (2) anaerobic diphtheroids (<italic>P. acnes</italic> and <italic>Propionibacterium granulosum</italic>) and (3) lipophilic yeasts (<italic>Pityrosporum</italic> species) [<xref rid="B19-molecules-21-01063" ref-type="bibr">19</xref>].</p><p><italic>P. acnes</italic> and <italic>S. epidermidis</italic> differ in their potential to provoke local skin inflammation and to generate pro-inflammatory mediators. It was however determined that <italic>S. epidermidis</italic> is not likely to partake in the pathogenesis of inflammatory <italic>Acne vulgaris</italic> skin lesions as the antibody response to <italic>S. epidermidis</italic> was somewhat harmless compared to the antibodies generated by <italic>P. acnes</italic> [<xref rid="B20-molecules-21-01063" ref-type="bibr">20</xref>]. As <italic>S. epidermidis</italic> is an aerobe organism and their growth site is superficial, it is incapable of residing in the anaerobe environment of the infra-infundibulum where the inflammatory process occurs [<xref rid="B19-molecules-21-01063" ref-type="bibr">19</xref>]. The lipophilic yeasts present in the pilosebaceous unit do not seem to play a noteworthy etiologic part in any disease conditions [<xref rid="B19-molecules-21-01063" ref-type="bibr">19</xref>].</p><p><italic>P. acnes</italic> is an anaerobic, gram positive pathogen that colonizes in sebaceous follicles. It is generally more prevalent in areas of the skin that are densely packed with sebaceous follicles because these follicles produce large volumes of sebum that provide a lipid-rich, anaerobic environment that is optimal for <italic>P. acnes</italic> [<xref rid="B15-molecules-21-01063" ref-type="bibr">15</xref>]. It is evident that all individuals have <italic>P. acnes</italic> present on the surface of the skin which can contribute to follicular clogging, but not all individuals present with acne due to the differences in individual immune response to the pathogen [<xref rid="B21-molecules-21-01063" ref-type="bibr">21</xref>]. According to McInturff and Kim [<xref rid="B22-molecules-21-01063" ref-type="bibr">22</xref>], <italic>P. acnes</italic> produces a lipase enzyme that metabolizes the triglycerides of sebum into glycerol and fatty acids, which may in turn assist in the formation of comedones and the inflammation that follows. <italic>P. acnes</italic> appears to be the most probable organism to cause <italic>Acne vulgaris</italic> and is therefore the target of oral and topical antibiotic treatments [<xref rid="B19-molecules-21-01063" ref-type="bibr">19</xref>].</p></sec><sec id="sec2dot4-molecules-21-01063"><title>2.4. Inflammation Process</title><p>The inflammatory process begins when <italic>P. acnes</italic> is detected by the immune system. <italic>P. acnes</italic> has a highly inflammatory effect which may trigger the release of chemostatic factors such as lymphocytes, neutrophils and macrophages. These factors may cause follicular damage, rupture and leakage of bacteria, fatty acids and lipids into the surrounding dermis. This process will give rise to inflammatory lesions (pustules, nodules, cysts and papules). Inflammatory lesions are filled with pus and are larger than non-inflammatory lesions [<xref rid="B9-molecules-21-01063" ref-type="bibr">9</xref>,<xref rid="B12-molecules-21-01063" ref-type="bibr">12</xref>,<xref rid="B13-molecules-21-01063" ref-type="bibr">13</xref>,<xref rid="B15-molecules-21-01063" ref-type="bibr">15</xref>]. Additionally it was found that neutrophils generate reactive oxygen species (ROS) which partially contributes to acne inflammation by damaging the follicular epithelium. This leads to the expulsion of the follicular content into the dermis which consequently causes various inflammatory processes [<xref rid="B23-molecules-21-01063" ref-type="bibr">23</xref>].</p></sec></sec><sec id="sec3-molecules-21-01063"><title>3. Current Treatment of Acne</title><p>The main goal of acne treatment is to control and treat existing acne lesions, prevent permanent scarring as far as possible, limit the duration of the disorder and to minimize morbidity. The patient should be informed on the aims involved in preventing new acne lesions while allowing the existing ones to heal. Patients should also be made aware that it may take 3&#x02013;6 weeks until an improvement can be observed [<xref rid="B6-molecules-21-01063" ref-type="bibr">6</xref>,<xref rid="B9-molecules-21-01063" ref-type="bibr">9</xref>,<xref rid="B21-molecules-21-01063" ref-type="bibr">21</xref>].</p><p>Individual patient factors must be taken into account when determining a regimen for the treatment of acne. Some of these factors are the current medical condition, disease state, severity of the lesions, endocrine history and the preferred treatment of the patient (oral or topical). Acne may be treated topically or systemically (with oral drugs) as seen in <xref rid="molecules-21-01063-t001" ref-type="table">Table 1</xref>. Other treatment options include the use of natural products or the use of non-drug treatments, such as for example optical therapy. However, a combination treatment that targets more than one of the mechanisms of acne pathogenesis is often successful. The response of the patient is recorded and the regimen can be adjusted as the clinical condition improves [<xref rid="B10-molecules-21-01063" ref-type="bibr">10</xref>].</p><sec id="sec3dot1-molecules-21-01063"><title>3.1. Topical Treatment</title><p>Topical products have the advantage of being applied to the affected area directly; thus decreasing systemic absorption and increasing the exposure of the pilosebaceous units to the treatment. However, a major side effect of topically applied anti-acne products is skin irritation. Preparations for topical application are available as various formulations, including creams, gels, lotions, solutions and washes [<xref rid="B24-molecules-21-01063" ref-type="bibr">24</xref>].</p><p>Topical therapy is based on the type and severity of acne. Mild acne is often treated with topical retinoids, or a variety of diverse treatments such as azelaic acid, salicylic acid and benzoyl peroxide. Mild to moderate inflammatory acne can be treated with topical anti-inflammatory agents as well as topical antibiotics [<xref rid="B9-molecules-21-01063" ref-type="bibr">9</xref>]. The different topical anti-acne drugs target different pathophysiological factors [<xref rid="B25-molecules-21-01063" ref-type="bibr">25</xref>] and a few of the common topical treatments will be discussed below.</p><sec id="sec3dot1dot1-molecules-21-01063"><title>3.1.1. Retinoids</title><p>Topical retinoids can be used as monotherapy for inflammatory acne, in combination with more severe forms of acne or as a maintenance treatment. They generally control the formation of microcomedones, reduce the formation of lesions and existing comedones, decrease sebum production and normalize desquamation of the epithelium. They target the microcomedones and suppress comedone formation. They may also show anti-inflammatory properties [<xref rid="B13-molecules-21-01063" ref-type="bibr">13</xref>].</p><p>Gollnick and Krautheim [<xref rid="B25-molecules-21-01063" ref-type="bibr">25</xref>] gave the following suggestions on the use of topical retinoids: (1) the use of topical retinoids is vital for maintenance treatment; (2) retinoids can repair the scarring and hyperpigmentation of the skin; (3) this class of drugs should be first choice of treatment for most of the acne types; and (4) when combined with topical antimicrobials it is more effective in inflammatory acne. A common side effect during the first few weeks of topical retinoid treatment is a flare up of acne. This should, however, clear as the patient continues with the treatment [<xref rid="B26-molecules-21-01063" ref-type="bibr">26</xref>]. Only some of the most common topical retinoids (i.e., tretinoin, adapalene and tazarotene) used in acne treatment will be discussed.</p><sec><title>Tretinoin</title><p>Tretinoin is a form of vitamin A [<xref rid="B8-molecules-21-01063" ref-type="bibr">8</xref>]. It is a standard comedolytic agent used in acne treatment to regularize desquamation of the epithelium, which prevents blockage of pilosebaceous units. It also seems to have anti-inflammatory properties. It has been a topical treatment for acne for over three decades [<xref rid="B9-molecules-21-01063" ref-type="bibr">9</xref>,<xref rid="B27-molecules-21-01063" ref-type="bibr">27</xref>].</p></sec><sec><title>Adapalene</title><p>Adapalene is a synthetic retinoid analogue which is most commonly used as a first line topical retinoid treatment for <italic>Acne vulgaris</italic>. It normalizes the cell differentiation of the follicular epithelium and prevents comedone formation. It also shows anti-inflammatory action on the acne lesions [<xref rid="B1-molecules-21-01063" ref-type="bibr">1</xref>,<xref rid="B8-molecules-21-01063" ref-type="bibr">8</xref>,<xref rid="B9-molecules-21-01063" ref-type="bibr">9</xref>].</p></sec><sec><title>Tazarotene</title><p>Tazarotene is a synthetic acetylenic pro-drug which is converted to tazarotenic acid in keratinocytes [<xref rid="B8-molecules-21-01063" ref-type="bibr">8</xref>]. It is one of the newer retinoids used for acne treatment. It affects the keratinocyte differentiation and proliferation in the epithelial tissue and may also show anti-inflammatory properties [<xref rid="B15-molecules-21-01063" ref-type="bibr">15</xref>]. It is regarded as a second line treatment after no response was observed after previous tretinoin or adapalene treatment, as it may cause skin irritation in acne patients [<xref rid="B9-molecules-21-01063" ref-type="bibr">9</xref>].</p></sec><sec><title>Other Retinoids</title><p>Other retinoids used for topical treatment of acne include isotretinoin, retinoyl &#x003b2;-glucuronide and motretinide [<xref rid="B25-molecules-21-01063" ref-type="bibr">25</xref>,<xref rid="B26-molecules-21-01063" ref-type="bibr">26</xref>]. However, according to Zaenglein [<xref rid="B26-molecules-21-01063" ref-type="bibr">26</xref>], these topical retinoid formulations are unavailable in the USA, although they are commonly used in the European Union. Of these three retinoids, only isotretinoin is available as a topical formulation in South Africa.</p></sec></sec><sec id="sec3dot1dot2-molecules-21-01063"><title>3.1.2. Antibiotics</title><p>Topical antibiotics are generally used for mild to moderate inflammatory acne. They have activity against <italic>P. acnes</italic>, and therefore act on the surface of the skin to reduce the stimulus for inflammation of the lesions [<xref rid="B17-molecules-21-01063" ref-type="bibr">17</xref>]. Due to certain side effects and lesser effectiveness of topical chloramphenicol and tetracyclines, these drugs are less frequently used [<xref rid="B25-molecules-21-01063" ref-type="bibr">25</xref>]. The most popular topical antibiotics used in acne treatment are erythromycin and clindamycin, but, in recent years, the continuous use of these antibiotics has led to the increasing development of resistance against <italic>P. acnes</italic> strains [<xref rid="B28-molecules-21-01063" ref-type="bibr">28</xref>].</p><p>Therefore, it is recommended that monotherapy with topical antibiotics are used for only a short time period (12 weeks) and that the antibiotics should be combined with benzoyl peroxide, zinc or retinoids to prevent bacterial resistance [<xref rid="B6-molecules-21-01063" ref-type="bibr">6</xref>,<xref rid="B25-molecules-21-01063" ref-type="bibr">25</xref>]. The use of oral and topical antibiotics in combination to treat acne should be avoided [<xref rid="B6-molecules-21-01063" ref-type="bibr">6</xref>].</p><sec><title>Erythromycin</title><p>Erythromycin is a macrolide antibiotic that attaches to the 50S ribosomal unit of bacterium and prevents translocation, which is necessary for protein synthesis of the bacteria [<xref rid="B8-molecules-21-01063" ref-type="bibr">8</xref>]. It is active against <italic>P. acnes</italic> and reduces the colony on the surface of the skin and within follicles. It has been regarded as a very effective topical antibiotic in acne therapy, but recently it was discovered that erythromycin is up to 60% resistant to <italic>P. acnes</italic> which makes it less desirable. This has led to interest in the future development of other topical antibiotics [<xref rid="B27-molecules-21-01063" ref-type="bibr">27</xref>,<xref rid="B29-molecules-21-01063" ref-type="bibr">29</xref>].</p></sec><sec><title>Clindamycin</title><p>Clindamycin is classified as a lincosamide antibiotic. It is a semi-synthetic derivative of the antimicrobial agent, lincomycin. Clindamycin attaches to the 50S ribosomal subunit and inhibits protein synthesis of the bacteria and as with erythromycin; it also inhibits <italic>P. acnes</italic> on the surface of the skin [<xref rid="B8-molecules-21-01063" ref-type="bibr">8</xref>,<xref rid="B27-molecules-21-01063" ref-type="bibr">27</xref>].</p></sec></sec><sec id="sec3dot1dot3-molecules-21-01063"><title>3.1.3. Diverse Treatments</title><p>Other topical treatments used for acne, such as for example chemical peels, benzoyl peroxide, dapsone, etc. will be discussed in the following section.</p><sec><title>Salicylic Acid</title><p>Salicylic acid is known as a keratolytic agent whose mechanism of action is to dissolve the intercellular cement which holds the cells of the epithelium together [<xref rid="B8-molecules-21-01063" ref-type="bibr">8</xref>]. It has a minor anti-inflammatory effect, enhances penetration of certain substances and at low concentrations it is fungistatic and bacteriostatic. Salicylic acid is found in a number of over-the-counter products for acne treatment [<xref rid="B8-molecules-21-01063" ref-type="bibr">8</xref>,<xref rid="B27-molecules-21-01063" ref-type="bibr">27</xref>].</p></sec><sec><title>Chemical Peeling with Hydroxy Acids</title><p>Chemical peels involve facial resurfacing whereby removal of the epidermis stimulates re-epithelization and skin rejuvenation [<xref rid="B30-molecules-21-01063" ref-type="bibr">30</xref>]. Chemical peeling also appears to reduce hyperpigmentation and superficial scarring of the skin [<xref rid="B25-molecules-21-01063" ref-type="bibr">25</xref>]. This therapy can be divided into different groups according to its penetration depth and destruction. Alpha-hydroxy acids (i.e., glycolic acid and lactic acid) and beta-hydroxy acids (i.e., salicylic acid) are the most common chemicals used in chemical peels [<xref rid="B24-molecules-21-01063" ref-type="bibr">24</xref>,<xref rid="B30-molecules-21-01063" ref-type="bibr">30</xref>,<xref rid="B31-molecules-21-01063" ref-type="bibr">31</xref>]. A much higher concentration of salicylic acid (20%&#x02013;30%) is present in chemical peels than found in daily acne cleansers [<xref rid="B30-molecules-21-01063" ref-type="bibr">30</xref>]. There exist little evidence/data that peels are relatively safe to use [<xref rid="B32-molecules-21-01063" ref-type="bibr">32</xref>]. Therefore, it should be regarded as a complementary treatment rather than a first-line treatment [<xref rid="B31-molecules-21-01063" ref-type="bibr">31</xref>].</p></sec><sec><title>Benzoyl Peroxide</title><p>Benzoyl peroxide is a topical disinfectant, originally employed as a peeling agent for treating acne [<xref rid="B33-molecules-21-01063" ref-type="bibr">33</xref>]. It possesses diverse properties, making it both a comedolytic and an antibacterial agent, with no effect on sebum production. Benzoyl peroxide has proven bactericidal activity against <italic>P. acnes</italic> by releasing free radical oxygen, which degrades the bacterial proteins [<xref rid="B8-molecules-21-01063" ref-type="bibr">8</xref>,<xref rid="B27-molecules-21-01063" ref-type="bibr">27</xref>]. Bershad [<xref rid="B1-molecules-21-01063" ref-type="bibr">1</xref>] stated that in addition to its successful treatment of inflammatory acne, benzoyl peroxide also decreases the number of comedones on the skin.</p><p>Benzoyl peroxide is an important treatment for mild to moderate acne and, although it can be used as monotherapy for a period of 6&#x02013;8 weeks, is often combined with topical antibiotics in order to reduce the resistance of the <italic>P. acnes</italic> species and to increase the efficacy of treatment [<xref rid="B9-molecules-21-01063" ref-type="bibr">9</xref>,<xref rid="B15-molecules-21-01063" ref-type="bibr">15</xref>,<xref rid="B25-molecules-21-01063" ref-type="bibr">25</xref>]. Gollnick and Krautheim [<xref rid="B25-molecules-21-01063" ref-type="bibr">25</xref>] suggested that benzoyl peroxide is best combined with topical retinoids. However, it has been found that all retinoids (except for adapalene) are unstable when combined with benzoyl peroxide and should therefore be applied separately [<xref rid="B6-molecules-21-01063" ref-type="bibr">6</xref>]. The main side effects of benzoyl peroxide include burning, dryness, erythema, peeling or stinging [<xref rid="B24-molecules-21-01063" ref-type="bibr">24</xref>].</p></sec><sec><title>Azelaic Acid</title><p>Azelaic acid is a natural dicarboxylic acid that inhibits protein synthesis of the <italic>P. acnes</italic> species [<xref rid="B34-molecules-21-01063" ref-type="bibr">34</xref>,<xref rid="B35-molecules-21-01063" ref-type="bibr">35</xref>]. It is an effective agent because it has bacteriostatic, anti-inflammatory, antioxidant and anti-keratinizing properties [<xref rid="B36-molecules-21-01063" ref-type="bibr">36</xref>]. Thusfar, no bacterial resistance of <italic>P. acnes</italic> exists with azelaic acid [<xref rid="B37-molecules-21-01063" ref-type="bibr">37</xref>]. It has also been suggested that when azelaic acid is used in conjunction with clindamycin, benzoyl peroxide or &#x003b1;-hydroxy acids it will be more effective [<xref rid="B25-molecules-21-01063" ref-type="bibr">25</xref>].</p></sec><sec><title>Sulfur</title><p>In the past, sulfur was frequently used in preparations for acne. This active has, however, become unpopular due to its bad odor [<xref rid="B31-molecules-21-01063" ref-type="bibr">31</xref>]. Sulfur is a chemical that has demonstrated to have mild keratolytic and bacteriostatic properties. Sulfur is reduced to hydrogen sulfide inside the keratinocytes which is said to break down keratin in the skin [<xref rid="B8-molecules-21-01063" ref-type="bibr">8</xref>]. According to Akhavan and Bershad [<xref rid="B8-molecules-21-01063" ref-type="bibr">8</xref>], sulfur also has activity against <italic>P. acnes</italic>.</p></sec><sec><title>Hydrogen Peroxide</title><p>A study by Tung et al. [<xref rid="B38-molecules-21-01063" ref-type="bibr">38</xref>] has shown that a regimen based on hydrogen peroxide for treating mild-to-moderate acne compared well with a regimen based on benzoyl peroxide in terms of cosmetic acceptability, efficacy and safety.</p></sec><sec><title>Niacinamide</title><p>Niacinamide is an active amide of vitamin B3 and is composed of niacin (also known as nicotinic acid) and its amide. It may also be referred to as nicotinamide [<xref rid="B39-molecules-21-01063" ref-type="bibr">39</xref>,<xref rid="B40-molecules-21-01063" ref-type="bibr">40</xref>].Its mechanism of action can be explained as the inhibition of sebocyte secretions, resulting in less sebum production which reduces the oiliness of the skin [<xref rid="B40-molecules-21-01063" ref-type="bibr">40</xref>,<xref rid="B41-molecules-21-01063" ref-type="bibr">41</xref>]. It also has anti-inflammatory properties which have proved to be beneficial in pustular as well as papular acne [<xref rid="B42-molecules-21-01063" ref-type="bibr">42</xref>,<xref rid="B43-molecules-21-01063" ref-type="bibr">43</xref>]. Topical application of a 4% niacinamide has led to significant improvements to acne all over the world [<xref rid="B40-molecules-21-01063" ref-type="bibr">40</xref>].</p></sec><sec><title>Topical Corticosteroids</title><p>Topical corticosteroids can be used in certain conditions, as for example to treat very inflammatory acne. The treatment period should, however, be short [<xref rid="B25-molecules-21-01063" ref-type="bibr">25</xref>] and proof of their efficiency should still be determined [<xref rid="B31-molecules-21-01063" ref-type="bibr">31</xref>].</p></sec><sec><title>Triclosan</title><p>Triclosan is an antibacterial agent (antiseptic) which can be used to treat acne [<xref rid="B44-molecules-21-01063" ref-type="bibr">44</xref>]. It was determined that bacterial populations did not develop resistance to triclosan under clinical conditions [<xref rid="B45-molecules-21-01063" ref-type="bibr">45</xref>]. No adverse effects are anticipated when triclosan containing products are used as recommended [<xref rid="B46-molecules-21-01063" ref-type="bibr">46</xref>].</p></sec><sec><title>Sodium Sulfacetamide</title><p>This agent belongs to the sulfonamide antibacterial group. It is bacteriostatic by inhibiting deoxyribonucleic acid (DNA)-synthesis through competitive antagonism of para-aminobenzoic acid (PABA). Sodium sulfacetamide has activity against a number of gram-positive and gram-negative agents, but is generally only used when other topical agents cannot be tolerated by patients [<xref rid="B8-molecules-21-01063" ref-type="bibr">8</xref>,<xref rid="B9-molecules-21-01063" ref-type="bibr">9</xref>].</p></sec><sec><title>Dapsone</title><p>Dapsone possesses antibacterial and anti-inflammatory activity, although its precise mechanism of action against acne is still unknown [<xref rid="B31-molecules-21-01063" ref-type="bibr">31</xref>,<xref rid="B47-molecules-21-01063" ref-type="bibr">47</xref>]. However, it has recently been suggested that dapsone&#x02019;s mechanism of action in the treatment of acne may be due to antimicrobial and anti-inflammatory effects [<xref rid="B48-molecules-21-01063" ref-type="bibr">48</xref>]. Dapsone gel (5%) can be used to reduce inflammatory as well as non-inflammatory acne lesions [<xref rid="B49-molecules-21-01063" ref-type="bibr">49</xref>]. This agent&#x02019;s lower cost makes it more favorable for use in developing countries [<xref rid="B31-molecules-21-01063" ref-type="bibr">31</xref>]; however, it is not recommended as first-line therapy [<xref rid="B47-molecules-21-01063" ref-type="bibr">47</xref>].</p></sec></sec></sec><sec id="sec3dot2-molecules-21-01063"><title>3.2. Systemic Treatment</title><p>Oral systemic treatment is required when acne is resistant to topical treatment or if it manifests as nodular lesions or leaves scarring. It is the preferred choice in the treatment of inflammatory lesions. Systemic treatment may also be required to prevent social embarrassment and psychological impairment in people suffering from acne. The most common systemic treatment includes isotretinoin, oral antibiotics and hormonal agents [<xref rid="B12-molecules-21-01063" ref-type="bibr">12</xref>,<xref rid="B50-molecules-21-01063" ref-type="bibr">50</xref>].</p><sec id="sec3dot2dot1-molecules-21-01063"><title>3.2.1. Retinoids</title><p>Isotretinoin is a systemic retinoid and derivative of vitamin A. It is currently being used as a first line treatment for severe nodular or inflammatory acne and is the only known medication which has the potential for the suppression of acne in the long term [<xref rid="B9-molecules-21-01063" ref-type="bibr">9</xref>,<xref rid="B50-molecules-21-01063" ref-type="bibr">50</xref>]. It can also benefit patients with mild to moderate cases of acne that have proved resistant to topical or other oral agents in the past. It is also considered as a first line treatment in severe acne of the face and trunk, acne that causes scarring and acne that causes psychological complications [<xref rid="B50-molecules-21-01063" ref-type="bibr">50</xref>].</p><p>Currently, isotretinoin is the only drug available which has an effect on all four pathogenic factors of acne [<xref rid="B6-molecules-21-01063" ref-type="bibr">6</xref>,<xref rid="B51-molecules-21-01063" ref-type="bibr">51</xref>]. Isotretinoin causes de-differentiation of the sebaceous gland, decreasing the sebum production which will lead to a change in the ecosystem of the cutaneous bacterial flora, ultimately reducing <italic>P. acnes</italic> colonization in the follicles. It also causes the shedding of the keratinocytes [<xref rid="B1-molecules-21-01063" ref-type="bibr">1</xref>,<xref rid="B9-molecules-21-01063" ref-type="bibr">9</xref>,<xref rid="B51-molecules-21-01063" ref-type="bibr">51</xref>,<xref rid="B52-molecules-21-01063" ref-type="bibr">52</xref>]. Isotretinoin treatment is normally over a course of 16&#x02013;24 weeks [<xref rid="B6-molecules-21-01063" ref-type="bibr">6</xref>]. It is necessary to closely monitor patients who use isotretinoin because of its harmful side-effects [<xref rid="B12-molecules-21-01063" ref-type="bibr">12</xref>].</p></sec><sec id="sec3dot2dot2-molecules-21-01063"><title>3.2.2. Antibiotics</title><p>Oral antibiotics are generally indicated for moderate to severe inflammatory acne, acne that shows resistance to previous topical treatment or for acne that covers a large surface area of the body [<xref rid="B33-molecules-21-01063" ref-type="bibr">33</xref>,<xref rid="B50-molecules-21-01063" ref-type="bibr">50</xref>]. Acne is often treated with oral antibiotics such as macrolides (erythromycin, clindamycin, azithromycin and roxithromycin), fluoroquinolones (levofloxacin), tetracyclines (doxycycline, minocycline and lymecycline) and co-trimoxazole [<xref rid="B13-molecules-21-01063" ref-type="bibr">13</xref>,<xref rid="B51-molecules-21-01063" ref-type="bibr">51</xref>,<xref rid="B53-molecules-21-01063" ref-type="bibr">53</xref>].</p><p>These antimicrobial agents inhibit the growth of <italic>P. acnes</italic> and the synthesis of inflammatory mediators released from <italic>P. acnes</italic>. The success of the antibiotic treatment is based on the ability of the agent to reach the lipid environment of the pilosebaceous follicles in the dermis, which is the area where <italic>P. acnes</italic> colonize. Tetracyclines are very popular because they are effective and inexpensive. Doxycycline and minocycline are preferred because they cause less gastrointestinal irritation, and they are more lipid soluble, penetrating the pilosebaceous follicle more efficiently [<xref rid="B13-molecules-21-01063" ref-type="bibr">13</xref>,<xref rid="B50-molecules-21-01063" ref-type="bibr">50</xref>]. The tetracycline family exhibits both anti-inflammatory as well as antibacterial properties. Additionally, less resistance in <italic>P. acnes</italic> have been reported with the tetracyclines than the macrolides [<xref rid="B33-molecules-21-01063" ref-type="bibr">33</xref>].</p><p>Not many studies have been performed to determine the efficacy of azithromycin in the treatment of acne, whereas clindamycin (topical) and erythromycin (topical and oral) have been well recognized as acne treatments [<xref rid="B33-molecules-21-01063" ref-type="bibr">33</xref>]. Erythromycin and clindamycin have little anti-inflammatory activity and mainly work by reducing the levels of <italic>P. acnes</italic> [<xref rid="B33-molecules-21-01063" ref-type="bibr">33</xref>].</p><p>Since these antibiotics are used repetitively at low doses for extended periods of time [<xref rid="B13-molecules-21-01063" ref-type="bibr">13</xref>] during acne treatment, increasing resistance has developed overtime which has resulted in limited use of these agents [<xref rid="B13-molecules-21-01063" ref-type="bibr">13</xref>,<xref rid="B50-molecules-21-01063" ref-type="bibr">50</xref>]. To reduce resistance and improve the efficacy, oral antibiotics should be combined with topical benzoyl peroxide or retinoids. Additionally, the duration of treatment should not exceed 12 weeks when feasible [<xref rid="B6-molecules-21-01063" ref-type="bibr">6</xref>]. It has also been suggested that if a patient is a good candidate for treatment with isotretinoin, long-term antibiotic treatment is unfeasible [<xref rid="B33-molecules-21-01063" ref-type="bibr">33</xref>].</p></sec><sec id="sec3dot2dot3-molecules-21-01063"><title>3.2.3. Hormonal</title><p>Sebaceous glands are androgen dependent and therefore the effect of androgen on sebaceous glands can be treated with hormone therapy [<xref rid="B13-molecules-21-01063" ref-type="bibr">13</xref>]. Hormonal treatment can be used as an alternative for adolescent and adult females. These hormones are most commonly given in the form of oral contraceptive pills. The contraceptive hormones reduce the sebum production that is initially induced by androgen. It increases the synthesis of sex hormone-binding globulin which in turn decreases biologically active free testosterone in the female body. Although all contraceptives can be used to treat hormone related acne, progestins are usually preferred because they possess no androgen activity [<xref rid="B50-molecules-21-01063" ref-type="bibr">50</xref>].</p><p>Oral contraceptives can be used alone or in combination with other therapies to treat acne in women [<xref rid="B54-molecules-21-01063" ref-type="bibr">54</xref>]. The treatment period of acne with hormonal anti-androgens must be at least for 12 months and oftentimes even longer [<xref rid="B51-molecules-21-01063" ref-type="bibr">51</xref>] as the favorable effect of hormonal agents will only be visible after 3&#x02013;6 months of treatment [<xref rid="B6-molecules-21-01063" ref-type="bibr">6</xref>]. Spironolactone is an alternative drug which can also be combined with oral contraceptives in the treatment of hormone related acne. Its mechanism is based on the fact that it is an androgen receptor blocker. It is especially effective for patients with inflammatory acne [<xref rid="B1-molecules-21-01063" ref-type="bibr">1</xref>,<xref rid="B50-molecules-21-01063" ref-type="bibr">50</xref>].</p></sec><sec id="sec3dot2dot4-molecules-21-01063"><title>3.2.4. Diverse Treatments</title><p>Other oral treatments that can possibly be used as adjunctive acne therapy include zinc sulfate, ibuprofen (due to its anti-inflammatory effect) and clofazimine [<xref rid="B24-molecules-21-01063" ref-type="bibr">24</xref>,<xref rid="B31-molecules-21-01063" ref-type="bibr">31</xref>]. Systemic corticosteroids can be used for initial treatment of inflammatory manifestations (<italic>Acne fulminans</italic>). It can also be used to manage aggravation of acne when treating with systemic isotretinoin [<xref rid="B55-molecules-21-01063" ref-type="bibr">55</xref>]. It has been recommended that severe inflammatory <italic>Acne vulgaris</italic>, <italic>Acne fulminans</italic> and <italic>Pyoderma faciale</italic> be treated with oral prednisone (0.5&#x02013;1.0 mg/kg daily) for a period of 4&#x02013;6 weeks, after which the dosage can be decreased gradually [<xref rid="B31-molecules-21-01063" ref-type="bibr">31</xref>].</p></sec></sec><sec id="sec3dot3-molecules-21-01063"><title>3.3. Complementary and Alternative Medicines (CAM)</title><p>More efficient and safer treatment options are needed for the treatment of acne [<xref rid="B56-molecules-21-01063" ref-type="bibr">56</xref>]. Numerous CAM therapies have been noted and/or promoted for use as acne treatment [<xref rid="B57-molecules-21-01063" ref-type="bibr">57</xref>] and are generally regarded as safe. Botanical therapies have the added benefit of possessing several modes of action due their composition consisting out of a range of possible active components [<xref rid="B58-molecules-21-01063" ref-type="bibr">58</xref>]. It has been proposed that CAM therapies influence the androgenicity, increased sebum activity, infection, inflammation and hyperkeratinization associated with acne [<xref rid="B57-molecules-21-01063" ref-type="bibr">57</xref>]. However, in most cases evidence for their use is inadequate [<xref rid="B57-molecules-21-01063" ref-type="bibr">57</xref>] and one should still be wary of the possible harm and side effects these plant-derived products can lead to [<xref rid="B58-molecules-21-01063" ref-type="bibr">58</xref>]. Some researchers are of the opinion that botanicals may lessen antibiotic resistance when used as alternatives to or in combination with antibiotics. This should, however, still be verified with clinical studies [<xref rid="B58-molecules-21-01063" ref-type="bibr">58</xref>].</p><p>Various articles [<xref rid="B57-molecules-21-01063" ref-type="bibr">57</xref>,<xref rid="B58-molecules-21-01063" ref-type="bibr">58</xref>,<xref rid="B59-molecules-21-01063" ref-type="bibr">59</xref>] list all the possible plant/herbal remedies for acne. Some of these ingredients do however have some anti-inflammatory, moisturizing and soothing properties. Therefore, theoretically, these ingredients should be able to help relieve some of the drying effects caused by the more vigorous acne therapies and the erythema associated with inflammatory acne [<xref rid="B24-molecules-21-01063" ref-type="bibr">24</xref>]. The absence of clinical data on the efficacy of these complimentary remedies is of big concern and needs to be addressed by future research. For the purpose of this article, only a few of the major CAM therapies will be discussed in detail. There is, however, a strong possibility that the range of CAM therapies being used by acne patients is much larger than the series of treatments mentioned in this review [<xref rid="B57-molecules-21-01063" ref-type="bibr">57</xref>].</p><sec id="sec3dot3dot1-molecules-21-01063"><title>3.3.1. Basil Oil</title><p>Advocated topically applied basil essential oils for the treatment of acne include <italic>Ocimum sanctum</italic>, <italic>Ocimum basilicum</italic> and <italic>Ocimum gratissimum</italic> [<xref rid="B57-molecules-21-01063" ref-type="bibr">57</xref>]. Since ancient time, Thai basil oils such as <italic>O. basilicum</italic> L. (sweet basil) and <italic>O. sanctum</italic> L. (holy basil) have been used as traditional medicine to treat ringworm and insect bites [<xref rid="B60-molecules-21-01063" ref-type="bibr">60</xref>].</p><p>Studies showed that topical application of a preparation containing <italic>O. gratissimum</italic> oil in a cetomacrogol blend base were more efficient and reduced lesion counts faster than a 10% benzoyl peroxide lotion [<xref rid="B61-molecules-21-01063" ref-type="bibr">61</xref>]. A study on Thai basil oils showed that <italic>O. basilicum</italic> and <italic>O. sanctum</italic> showed promise to be used for acne treatment as they exhibited antimicrobial activity against <italic>P. acnes</italic>. The formulations containing <italic>O. basilicum</italic> showed a higher anti-<italic>P. acnes</italic> activity than the <italic>O. sanctum</italic> containing formulation [<xref rid="B60-molecules-21-01063" ref-type="bibr">60</xref>].</p></sec><sec id="sec3dot3dot2-molecules-21-01063"><title>3.3.2. Copaiba Oil</title><p>Copaiba oil-resin has traditionally been used as an antiseptic, anti-inflammatory and healing agent. Da Silva et al. [<xref rid="B62-molecules-21-01063" ref-type="bibr">62</xref>] conducted a double-blind placebo controlled clinical trial in which the copaiba oil was prepared into a topical gel to determine its activity against <italic>Acne vulgaris</italic>. After 21 days of treatment, the copaiba oil gel stopped the outbreak of new pustules, healed pre-existent pustules and reduced the area of erythema. The authors [<xref rid="B62-molecules-21-01063" ref-type="bibr">62</xref>] concluded that copaiba oil may be used in the treatment of mild acne, although larger studies are necessary to confirm.</p></sec><sec id="sec3dot3dot3-molecules-21-01063"><title>3.3.3. Green Tea</title><p>Green tea possesses anti-inflammatory, anti-oxidant, antimicrobial and antimutagenic properties which can be ascribed to its high content of polyphenols, including catechins (flavan-3-ols). The main catechins found in green tea include epigallocatechin-3-gallate (EGCG), epigallocatechin (EGC), epicatechin-3-gallate (ECG) and epicatechin (EC) [<xref rid="B63-molecules-21-01063" ref-type="bibr">63</xref>], of which EGCG is the most abundant polyphenol found in green tea [<xref rid="B64-molecules-21-01063" ref-type="bibr">64</xref>].</p><p>Polyphenon-60 from green tea is a mixture of polyphenolic compounds [<xref rid="B65-molecules-21-01063" ref-type="bibr">65</xref>]. Topical application of polyphenon-60 in patients with mild-to-moderate acne (in vivo testing) decreased the average amount of open-comedos and pustules. However, polyphenon-60 showed no improvement on closed-comedos. In vitro studies to determine the underlying mechanism by which polyphenon-60 has this therapeutic effect on acne showed that this compound suppresses the inflammation process [<xref rid="B66-molecules-21-01063" ref-type="bibr">66</xref>].</p><p>Yoon et al. [<xref rid="B67-molecules-21-01063" ref-type="bibr">67</xref>] conducted in vitro studies in which it was determined that EGCG directly targets three pathological processes of acne as it has sebo-suppressive effects, it inhibits the growth of <italic>P. acnes</italic> and it has anti-inflammatory effects. They also found that EGCG may reverse the modified keratinization of follicular keratinocytes associated with acne. These results were followed by a double-blinded, split-face clinical trial which showed that the mean inflammatory and non-inflammatory lesion counts significantly decreased after eight weeks of treatment with an EGCG solution when compared to the baseline values.</p><p>Results obtained from a double-blind, placebo-controlled, randomized clinical trial showed that when green tea extract was given orally it was found to be effective against acne lesions in mild-to-moderate acne cases. Compared to the control, the green tea extract significantly decreased the inflamed and total lesion counts, although no significant effect was observed on the non-inflamed lesion count [<xref rid="B68-molecules-21-01063" ref-type="bibr">68</xref>]. A topical 3% green tea emulsion was found to decrease the sebum production of the cheeks of healthy male volunteers over a 60 day period [<xref rid="B69-molecules-21-01063" ref-type="bibr">69</xref>].</p></sec><sec id="sec3dot3dot4-molecules-21-01063"><title>3.3.4. Minerals</title><p>Minerals have been used for healing purposes since prehistoric times. The minerals being used for therapeutic intents are mostly clay minerals such as kaolinite, palygorskite, smectites and talc. Clay minerals can be used to treat acne, blackheads and spots. Generally it is applied as a face mask consisting of a warm mixture of water and clay which will open pilosebaceous orifices, stimulate perspiration and sebaceous secretions [<xref rid="B70-molecules-21-01063" ref-type="bibr">70</xref>]. A mix of minerals (consisting primarily of halloysite, sericite and talc) obtained from ores indigenous to Korea showed to inhibit the growth of <italic>S. epidermidis</italic> and <italic>P. acnes</italic> [<xref rid="B71-molecules-21-01063" ref-type="bibr">71</xref>].</p><p>Dead Sea black mud showed marked antimicrobial action when test microorganisms (<italic>P. acnes</italic>) were added to the mud where after they lost their viability. Additionally, when Dead Sea mud was placed on <italic>P. acnes</italic> inoculated agar plates, a growth inhibition zone was observed [<xref rid="B72-molecules-21-01063" ref-type="bibr">72</xref>]. Another mineral commonly used both systemically as well as topically for the treatment of <italic>Acne vulgaris</italic> includes zinc [<xref rid="B73-molecules-21-01063" ref-type="bibr">73</xref>] which was mentioned earlier.</p></sec><sec id="sec3dot3dot5-molecules-21-01063"><title>3.3.5. Antimicrobial Peptides</title><p>Natural antimicrobial peptides represent promising therapies for treating acne [<xref rid="B49-molecules-21-01063" ref-type="bibr">49</xref>] as they are unlikely to provoke drug resistance in microorganisms [<xref rid="B74-molecules-21-01063" ref-type="bibr">74</xref>]. However, some authors have stated that development of peptide-based drug resistance has been proven experimentally, although, when compared to conventional antibiotics it is considered to arise at a much slower pace [<xref rid="B75-molecules-21-01063" ref-type="bibr">75</xref>].</p><p>A synthetic peptide, derived from epinecidin-1 (from the marine organism <italic>Epinephelus coioides</italic>), have shown bactericidal properties against <italic>P. acnes</italic> by means of destroying its membrane [<xref rid="B76-molecules-21-01063" ref-type="bibr">76</xref>]. In another study, antimicrobial peptides derived from ranid frog skins showed a high potency against <italic>P. acnes</italic> [<xref rid="B75-molecules-21-01063" ref-type="bibr">75</xref>].</p><p>Wang and co-workers [<xref rid="B74-molecules-21-01063" ref-type="bibr">74</xref>] purified a snake cathelicidin-derived antimicrobial peptide, cathelicidin-BF, from the venoms of <italic>Bungarus fasciatus</italic>. When tested in vitro it was observed that cathelicidin-BF possessed potential antimicrobial activity against <italic>P. acnes</italic>, comparable to that of the antibiotic, clindamycin. Additionally, this antimicrobial peptide showed some anti-inflammatory effects and inhibited <italic>P. acnes</italic>-induced O<sub>2</sub><sup>&#x02212;</sup> production. All these properties suggested the potential use of cathelicidin-BF for treating <italic>Acne vulgaris</italic>.</p></sec><sec id="sec3dot3dot6-molecules-21-01063"><title>3.3.6. Resveratrol</title><p>Considering the pathophysiology of acne, the ideal drug should be capable of reducing the inflammatory response as well as inhibiting <italic>P. acnes</italic> [<xref rid="B76-molecules-21-01063" ref-type="bibr">76</xref>]. As a result resveratrol is emerging as a new approach in treating acne [<xref rid="B49-molecules-21-01063" ref-type="bibr">49</xref>] as it possesses anti-proliferative, anti-inflammatory and <italic>P. acnes</italic> inhibiting properties [<xref rid="B77-molecules-21-01063" ref-type="bibr">77</xref>,<xref rid="B78-molecules-21-01063" ref-type="bibr">78</xref>,<xref rid="B79-molecules-21-01063" ref-type="bibr">79</xref>,<xref rid="B80-molecules-21-01063" ref-type="bibr">80</xref>].</p><p>Resveratrol is a natural phytoalexin which is produced by certain spermatophytes, such as for example grapes [<xref rid="B79-molecules-21-01063" ref-type="bibr">79</xref>]. A single-blind, vehicle-controlled pilot study was performed in which resveratrol (<italic>trans</italic>-isomer) was formulated into a gel with a carboxymethylcellulose base. This formulation was applied on the right side of the face of volunteers with inflammatory <italic>Acne vulgaris</italic> in the facial area for 60 days and compared to the left side of the face on which the control (hydrogel vehicle) was applied. All the volunteers had a noteworthy reduction in pustular lesions and inflammation with an overall noticeable clinical improvement on the side of the face treated with resveratrol. The resveratrol-treated side of the face also showed a significant decrease of macrocomedones and microcomedones when compared to the vehicle-treated side of the face. It seemed as though resveratrol inhibited the keratinocyte hyperproliferation process [<xref rid="B79-molecules-21-01063" ref-type="bibr">79</xref>].</p><p>Resveratrol was found to inhibit <italic>P. acnes</italic> growth when tested in vitro. It was bacteriostatic at lower concentrations (50 mg/L and 100 mg/L) and bactericidal at the highest concentration tested (200 mg/L). The inhibiting effect of resveratrol compared well with the activity of frequently used acne treatments benzoyl peroxide and erythromycin [<xref rid="B77-molecules-21-01063" ref-type="bibr">77</xref>].</p></sec><sec id="sec3dot3dot7-molecules-21-01063"><title>3.3.7. Rosa Damascena</title><p>Rose water and essential oils are produced from the damask rose plants (<italic>R. damascena</italic> Mill.) in hydro-distillation industries [<xref rid="B81-molecules-21-01063" ref-type="bibr">81</xref>]. Rose water can be used for numerous skin problems and due to its pleasing fragrance and beneficial properties; it is a vital ingredient in several cosmetics and body creams [<xref rid="B82-molecules-21-01063" ref-type="bibr">82</xref>]. Some authors have suggested the use of <italic>R. damascena</italic> for the treatment of skin disorders such as acne [<xref rid="B82-molecules-21-01063" ref-type="bibr">82</xref>]. Rose oil can be utilized as an astringent to tone and clean the skin [<xref rid="B83-molecules-21-01063" ref-type="bibr">83</xref>].</p><p><italic>R. damascena</italic> extract has shown antioxidant activity and inhibits lipid peroxidation, similar to &#x003b1;-tocopherol [<xref rid="B84-molecules-21-01063" ref-type="bibr">84</xref>]. The hydroalcoholic <italic>R. damascena</italic> extract showed analgesic and anti-inflammatory activity, although the oil of this plant failed to show any such activities [<xref rid="B85-molecules-21-01063" ref-type="bibr">85</xref>].</p><p>An extract of <italic>R. damascena</italic> petals showed antibacterial activity against <italic>Pseudomonas aeruginosa</italic>, <italic>S. epidermidis</italic> and <italic>Bacillus cereus</italic> [<xref rid="B82-molecules-21-01063" ref-type="bibr">82</xref>]. A noticeable antimicrobial activity was observed against <italic>P. acnes</italic> in a study by Tsai et al. [<xref rid="B86-molecules-21-01063" ref-type="bibr">86</xref>]. However, the authors suggested that further studies are required to evaluate the beneficial effect of this extract in <italic>P. acnes</italic> treatment.</p></sec><sec id="sec3dot3dot8-molecules-21-01063"><title>3.3.8. Seaweed</title><p>A double-blind, vehicle-controlled trial showed that mild acne was significantly improved when treated topically with a complex of seaweed-derived oligosaccharide (<italic>Laminaria digitata</italic> or kelp) and 0.1% zinc pyrrolidone. Even though both the treatments reduced the amount of comedones and papules/pustules on the facial area of the volunteers, the active containing treatment was significantly more effective. The sebum production was also reduced by both treatments, although no significant differences were observed between them. Subsequently, the investigators suggested that the complex works by decreasing comedone formation and inflammation in preference to affecting the sebaceous glands pharmacologically. Some preliminary in vitro data indicated that the active suppresses <italic>P. acnes</italic> growth. This in combination with its anti-inflammatory effects may be the reason for the improvement of comedones, papules and pustules in mild acne [<xref rid="B87-molecules-21-01063" ref-type="bibr">87</xref>].</p><p>Choi et al. [<xref rid="B88-molecules-21-01063" ref-type="bibr">88</xref>] evaluated the potential antimicrobial activity of 57 seaweed species commonly found around the coast of South Korea. The methanol extracts of three species, i.e., <italic>Ecklonia kurome</italic>, <italic>Ecklonia cava</italic> and <italic>Ishige sinicola</italic>, showed to be the most promising possible therapeutic agents for <italic>Acne vulgaris</italic> due to their strong anti-<italic>P. acnes</italic> and anti-inflammatory activity. At the moderate doses these extracts were investigated, none of them showed to have any severe toxic effects.</p></sec><sec id="sec3dot3dot9-molecules-21-01063"><title>3.3.9. Taurine Bromamine (TauBr)</title><p>Taurine bromamine (TauBr) and taurine chloramine (TauCl) are the main haloamines produced by neutrophils and eosinophils at an inflammation site. Both of these haloamines have shown anti-oxidant and anti-inflammatory properties [<xref rid="B89-molecules-21-01063" ref-type="bibr">89</xref>]. A study by Marcinkiewicz et al. [<xref rid="B90-molecules-21-01063" ref-type="bibr">90</xref>] concluded that TauBr (synthesized) in particular is a promising candidate for treating <italic>Acne vulgaris</italic> topically. At non-cytotoxic concentrations TauBr showed significantly stronger bactericidal activity in vitro compared to TauCl. Additionally, TauBr exhibited selective topical disinfectant properties as <italic>P. acnes</italic> was more susceptible to TauBr than <italic>S. epidermidis</italic> [<xref rid="B90-molecules-21-01063" ref-type="bibr">90</xref>]. A double blind pilot study showed that TauBr cream reduced acne lesions of patients with mild to moderate inflammatory facial <italic>Acne vulgaris</italic> in a similar manner toclindamycin gel [<xref rid="B89-molecules-21-01063" ref-type="bibr">89</xref>,<xref rid="B91-molecules-21-01063" ref-type="bibr">91</xref>].</p><sec><title>Tea Tree Oil</title><p>Tea tree oil is obtained from the Australian tree <italic>Melaleuca alternifolia</italic> and has been shown to have some antimicrobial activity [<xref rid="B24-molecules-21-01063" ref-type="bibr">24</xref>]. Tea tree oil products are commonly used by patients self-treating their acne. It has been suggested that the antibacterial and anti-inflammatory activity of the oil adds to its promising clinical performance. Numerous studies have shown that tree tea oil products decrease lesion numbers in patients with mild-to-moderate acne [<xref rid="B92-molecules-21-01063" ref-type="bibr">92</xref>].</p><p>A double-blind placebo-controlled study by Enshaieh et al. [<xref rid="B93-molecules-21-01063" ref-type="bibr">93</xref>] showed that a topical gel containing 5% tea tree oil was effective in treating mild-to-moderate <italic>Acne vulgaris</italic> when compared to the placebo, i.e., the vehicle gel alone. Both inflammatory as well as non-inflammatory lesions were reduced by this topical gel.</p><p>A study by Lee et al. [<xref rid="B94-molecules-21-01063" ref-type="bibr">94</xref>] showed that tea tree oil isolated from the leaves of the plant and its components (terpinen-4-ol, &#x003b1;-terpineol, terpinolene and &#x003b1;-terpinene) exhibited anti-<italic>P. acnes</italic> activity. They also determined that the major active component present in tea tree oil, namely terpinen-4-ol, was mostly responsible for this essential oil&#x02019;s antibacterial activity. However, minor components in tea tree oil also added to its efficiency.</p></sec><sec><title>Other Complementary and Alternative Medicines</title><p>There are numerous other herbal remedies which are commonly used for the treatment of acne, such as amaranth, arnica, asparagus, birch, calendula, celandine, chaste tree, coriander, jojoba oil, labrador tea, neem, orange peel, pine, poplar, rhubarb, soapwort, stinging nettle and turmeric [<xref rid="B59-molecules-21-01063" ref-type="bibr">59</xref>].</p><p>However, the list of CAM therapies goes on as other authors [<xref rid="B57-molecules-21-01063" ref-type="bibr">57</xref>] list even more acne therapies, such as topically applied essential oils of <italic>A. millefolium</italic>, bay, benzoin, black cumin, chamomile, <italic>Eucalyptus dives</italic>, geranium, juniper twig, lemon, lemon grass, orange, patchouli, petitgrain, rosemary, safflower oil, sandalwood, sunflower oil, <italic>T. officinale</italic> and thyme. They also list a range of other topical plants/herbs such as: bittersweet nightshade, black walnut, borage, cucumber, duckweed, English walnut, fresh lemon, garlic, grapefruit seeds, oak bark, onion, Oregon grape root, pea, pumpkin, rue, vinegar, vitex and witch hazel. Other ingestible plants/herbs include Brewer&#x02019;s yeast, burdock root, <italic>C. mukul</italic>, <italic>S. flavescens</italic> and <italic>W. somnifera</italic>. Numerous homeopathic, Indian Ayurvedic therapies and Asian topical therapies were also noted to be used in acne treatment [<xref rid="B57-molecules-21-01063" ref-type="bibr">57</xref>].</p><p>A lotion containing 2% tea effectively cleared papules and pustules in mild to moderate <italic>Acne vulgaris</italic> [<xref rid="B95-molecules-21-01063" ref-type="bibr">95</xref>]. A study on Taiwanese herbal extracts revealed that Du Zhong and yerba mate extracts may possibly be used to treat acne due to their anti-inflammatory and antimicrobial activity against <italic>P. acnes</italic> [<xref rid="B86-molecules-21-01063" ref-type="bibr">86</xref>]. Standardized pomegranate rind extract has shown bacteriostatic activity against <italic>P. acnes</italic>, <italic>Staphylococcus aureus</italic> and <italic>S. epidermidis</italic>. This extract also showed anti-inflammatory and anti-allergic properties [<xref rid="B96-molecules-21-01063" ref-type="bibr">96</xref>].</p><p>Another potential anti-acne treatment is the ethanol extract of <italic>Rhodomyrtus tomentosa</italic> (Aiton) Hassk. leaves (also known as rose myrtle) and its principle compound, rhodomyrtone. Both substances showed antibacterial activity against <italic>P. acnes</italic>. However, the rhodomyrtone showed more noteworthy activity closer to that of erythromycin than the extract [<xref rid="B97-molecules-21-01063" ref-type="bibr">97</xref>].</p><p>Selvan et al. [<xref rid="B98-molecules-21-01063" ref-type="bibr">98</xref>] stated that due to restricted antibacterial drug options and a shortage of vaccines against <italic>Acne vulgaris</italic>, concomitant therapeutic strategies, such as the use of specific antibodies, are needed. Specific polyclonal chicken egg yolk antibodies against <italic>P. acnes</italic> were developed by Revathy et al. [<xref rid="B99-molecules-21-01063" ref-type="bibr">99</xref>]. Due to their effectiveness, it was suggested that they can be used in the treatment of acne, although their efficiency should still be confirmed in vivo.</p><p>A new concept in the treatment of <italic>Acne vulgaris</italic> and other skin diseases were discussed by Wang et al. [<xref rid="B100-molecules-21-01063" ref-type="bibr">100</xref>]. This involved the development of probiotics against <italic>Acne vulgaris</italic> by harnessing the bacterial interference (through fermentation) between <italic>P. acnes</italic> and <italic>S. epidermidis</italic>. Their results indicated that the fermentation of naturally occurring glycerol in the skin, as mediated by skin microorganisms (mostly <italic>S. epidermis</italic>), improved their <italic>P. acnes</italic> inhibitory properties [<xref rid="B100-molecules-21-01063" ref-type="bibr">100</xref>].</p></sec></sec></sec><sec id="sec3dot4-molecules-21-01063"><title>3.4. Physical Treatment</title><p>There are several physical treatments available which can be used as adjunctive acne treatment. Henceforth, these therapies can play a major role in the treatment of acne as the pathogenesis of acne becomes more understood and technology improves [<xref rid="B30-molecules-21-01063" ref-type="bibr">30</xref>].</p><sec id="sec3dot4dot1-molecules-21-01063"><title>3.4.1. Comedone Extraction</title><p>Some authors have suggested that this technique can be used concurrently with isotretinoin treatment to treat macrocomedones (comedones larger than 1 mm). No residual scarring should be left if this technique is performed correctly [<xref rid="B101-molecules-21-01063" ref-type="bibr">101</xref>]. This mechanical method of extraction involves the following: the lesion should be prepped with alcohol and the epidermis lightly pierced with a large-bore needle or surgical blade. Thereafter, a comedone extractor is used to apply light to medium pressure on top of the lesion until all the contents are forced out [<xref rid="B31-molecules-21-01063" ref-type="bibr">31</xref>,<xref rid="B101-molecules-21-01063" ref-type="bibr">101</xref>]. Prior to the manual removal of the comedone, enzymatic or mechanical exfoliation can be used to decrease hyperkeratosis. After treatment, the skin should be treated with an anti-inflammatory or antimicrobial agent [<xref rid="B102-molecules-21-01063" ref-type="bibr">102</xref>].</p></sec><sec id="sec3dot4dot2-molecules-21-01063"><title>3.4.2. Cryoslush Therapy</title><p>A slush-like mixture consisting of solid carbon dioxide and acetone can be brushed lightly over the infected skin. This will produce desquamation and erythema [<xref rid="B31-molecules-21-01063" ref-type="bibr">31</xref>].</p></sec><sec id="sec3dot4dot3-molecules-21-01063"><title>3.4.3. Cryotherapy</title><p>Cryotherapy involves the regulated and targeted destruction of diseased skin tissue by applying a substance with a very low temperature. Although liquid nitrogen is the most common cryogen used, there are several other cryogens also available, such as carbon dioxide and nitrous oxide. Different techniques can be used to apply the cryogen, including the cryoprobe, dipstick method or the spot freeze technique. Cryotherapy is generally performed without local anesthesia under aseptic conditions and if performed correctly it should result in extremely good cosmetic results [<xref rid="B103-molecules-21-01063" ref-type="bibr">103</xref>].</p></sec><sec id="sec3dot4dot4-molecules-21-01063"><title>3.4.4. Electrocauterization</title><p>Electrocauterization eradicates comedones by means of generating very low-grade thermal damage [<xref rid="B31-molecules-21-01063" ref-type="bibr">31</xref>]. The exact mechanism by which it helps to resolve comedones is, however, unknown [<xref rid="B104-molecules-21-01063" ref-type="bibr">104</xref>]. It is thought that electrocauterization works by stimulating the defense mechanism (inflammatory) of the body or it could be that cautery provides a route for the contents of the macrocomedone to be discharged to the skin surface [<xref rid="B31-molecules-21-01063" ref-type="bibr">31</xref>,<xref rid="B104-molecules-21-01063" ref-type="bibr">104</xref>].</p></sec><sec id="sec3dot4dot5-molecules-21-01063"><title>3.4.5. Intralesional Corticosteroids</title><p>Intralesional corticosteroid injections reduce the formation of keloid scars and prevent reappearance after surgical removal [<xref rid="B105-molecules-21-01063" ref-type="bibr">105</xref>]. This procedure is especially efficient for the treatment of inflammatory nodules. However, it can be painful and possibly cause cutaneous atrophy [<xref rid="B106-molecules-21-01063" ref-type="bibr">106</xref>]. The most frequently used corticosteroid is triamcinolone acetonide [<xref rid="B103-molecules-21-01063" ref-type="bibr">103</xref>].</p></sec><sec id="sec3dot4dot6-molecules-21-01063"><title>3.4.6. Optical Treatments</title><p>Optical treatments for acne include laser therapy, light sources and photodynamic therapy [<xref rid="B49-molecules-21-01063" ref-type="bibr">49</xref>]. Lasers and light-based therapy is commonly used for the treatment of mild to moderate inflammatory <italic>Acne vulgaris</italic>. It has been found that this type of therapy resolves acne faster, is effective, and has fewer side effects, thereby enhancing patient satisfaction. Numerous light sources are available to treat/improve acne by targeting <italic>P. acnes</italic>, including fluorescent lamps, full spectrum light, green light, violet light, blue metal halide lamps and xenon flash lamps. Another light source is lasers which can target the sebaceous glands (alters structure of glands thermally) or oxyhemoglobin (to improve erythema) [<xref rid="B107-molecules-21-01063" ref-type="bibr">107</xref>].</p><p>Photodynamic therapy (PDT) functions similar to laser/light-based therapy in that the light energy kills <italic>P. acnes</italic>. Whereas other devices need costly, high-power equipment to produce these lights, PDT makes use of a lower power light source [<xref rid="B107-molecules-21-01063" ref-type="bibr">107</xref>]. PDTs efficacy is, however, enhanced by the use of topical agents such as aminolevulinic acid (ALA), methyl-aminolevulinic acid (MAL) or alternative photosensitizing agents [<xref rid="B30-molecules-21-01063" ref-type="bibr">30</xref>].</p></sec></sec><sec id="sec3dot5-molecules-21-01063"><title>3.5. Combination Therapy</title><p>Due to the various pathological factors responsible for acne development, the use of multimodal therapy which targets different processes simultaneously has been receiving considerable attention [<xref rid="B30-molecules-21-01063" ref-type="bibr">30</xref>,<xref rid="B108-molecules-21-01063" ref-type="bibr">108</xref>]. Combination products have been found to be more effective in treating acne than monotherapy [<xref rid="B32-molecules-21-01063" ref-type="bibr">32</xref>]. Additionally, the availability of existing and introduction of new fixed combination treatments can increase patient adherence as the treatment for patients can be more personalized [<xref rid="B108-molecules-21-01063" ref-type="bibr">108</xref>].</p><p>Fixed topical combinations such as benzoyl peroxide/topical antibiotic or retinoid/topical antibiotic can be used [<xref rid="B108-molecules-21-01063" ref-type="bibr">108</xref>]. It has also been recommended to combine oral antibiotics (doxycycline more than minocycline or tetracycline) with topical drugs (benzoyl peroxide, azelaic acid, retinoids) to treat moderate to severe acne and less severe inflammatory acne which did not respond to sole topical therapy [<xref rid="B55-molecules-21-01063" ref-type="bibr">55</xref>].</p><p>By combining systemic treatments in this way, it can bring on a prompt reduction in dose and a sooner discontinuation of oral antibiotics. These combinations can also improve patient compliance, increase the effectiveness of the treatment and decrease the development of bacterial resistance [<xref rid="B24-molecules-21-01063" ref-type="bibr">24</xref>,<xref rid="B51-molecules-21-01063" ref-type="bibr">51</xref>]. However, it is important to remember that this last named beneficial outcome is only relevant for the benzoyl peroxide contact areas, and not for the gut and other areas [<xref rid="B33-molecules-21-01063" ref-type="bibr">33</xref>].</p><p>One study did, however, determine that a combination of clindamycin and benzoyl peroxide performed only slightly better than benzoyl peroxide alone. In this case, it is important for prescribers to take into account availability (obtainable over-the-counter versus prescription required), additional costs and risks (i.e., antibiotic resistance) before prescribing these actives simultaneously [<xref rid="B109-molecules-21-01063" ref-type="bibr">109</xref>].</p><p>Isotretinoin often causes a flare up of acne (known as &#x0201c;pseudo&#x0201d; acne fulminans) and therefore it can be combined with corticosteroids for the most severe inflammatory acne (i.e., abscesses, cysts and nodules) [<xref rid="B31-molecules-21-01063" ref-type="bibr">31</xref>].</p><p>Physical removal of microcysts, macrocomedones or closed comedones will enhance the therapeutic efficacy of topically applied comedolytic agents [<xref rid="B24-molecules-21-01063" ref-type="bibr">24</xref>]. It has also been suggested that benzoyl peroxide and salicylic acid, which have different mechanisms of action, be combined to treat acne due to their complementary effect when used together [<xref rid="B23-molecules-21-01063" ref-type="bibr">23</xref>,<xref rid="B107-molecules-21-01063" ref-type="bibr">107</xref>].</p></sec></sec><sec id="sec4-molecules-21-01063"><title>4. Conclusions</title><p>Acne is a common inflammatory skin disease which causes much distress to patients constantly suffering from it. It has been researched extensively with regards to the disease itself as well as available and potential treatment options. The target for acne therapy is the four well-known pathogenic factors responsible for this disease state. This current review discussed the different options for treating acne such as topical therapies, systemic therapies, CAM and physical treatments. However, due to the increasing resistance of <italic>P. acnes</italic> towards the available antibiotics [<xref rid="B28-molecules-21-01063" ref-type="bibr">28</xref>] and inter-patient differences, further research in this field will always be required. Furthermore, the general public has been opting for more natural products for treating various skin diseases making it necessary to further investigate CAM as possible adjunctive acne therapy.</p></sec></body><back><ack><title>Acknowledgments</title><p>This work was carried out with the financial support of the National Research Foundation of South Africa (NRF) (Grants no. IFRR81178 and CPRR13091742482) and The Centre of Excellence for Pharmaceutical Sciences (Pharmacen) of the North-West University, Potchefstroom Campus, South Africa.</p></ack><notes><title>Author Contributions</title><p>C. Csongradi (student) and L. Fox performed the literature search and contributed by drafting the manuscript. M. Aucamp, J. du Plessis and M Gerber contributed to planning the project and critical reviewing of the manuscript. All authors contributed to the final manuscript as it was submitted to the journal and approved the submission.</p></notes><notes notes-type="COI-statement"><title>Conflicts of Interest</title><p>The authors declare no conflict of interest. Any opinion, findings and conclusions, or recommendations expressed in this material are those of the authors and therefore the NRF does not accept any liability in regard thereto.</p></notes><ref-list><title>References</title><ref id="B1-molecules-21-01063"><label>1.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bershad</surname><given-names>S.V.</given-names></name></person-group>
+<article-title>The modern age of acne therapy: A review of current treatment options</article-title>
+<source>Mt Sinai J. Med.</source>
+<year>2001</year>
+<volume>68</volume>
+<fpage>279</fpage>
+<lpage>285</lpage>
+<?supplied-pmid 11514915?><pub-id pub-id-type="pmid">11514915</pub-id></element-citation></ref><ref id="B2-molecules-21-01063"><label>2.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dessinioti</surname><given-names>C.</given-names></name><name><surname>Katsambas</surname><given-names>A.D.</given-names></name></person-group>
+<article-title>The role of <italic>Propionibacterium acnes</italic> in acne pathogenesis: Facts and controversies</article-title>
+<source>Clin. Dermatol.</source>
+<year>2010</year>
+<volume>28</volume>
+<fpage>2</fpage>
+<lpage>7</lpage>
+<pub-id pub-id-type="doi">10.1016/j.clindermatol.2009.03.012</pub-id>
+<?supplied-pmid 20082942?><pub-id pub-id-type="pmid">20082942</pub-id></element-citation></ref><ref id="B3-molecules-21-01063"><label>3.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Krautheim</surname><given-names>A.</given-names></name><name><surname>Gollnick</surname><given-names>H.P.M.</given-names></name></person-group>
+<article-title>Acne: Topical treatment</article-title>
+<source>Clin. Dermatol.</source>
+<year>2004</year>
+<volume>22</volume>
+<fpage>398</fpage>
+<lpage>407</lpage>
+<pub-id pub-id-type="doi">10.1016/j.clindermatol.2004.03.009</pub-id>
+<?supplied-pmid 15556726?><pub-id pub-id-type="pmid">15556726</pub-id></element-citation></ref><ref id="B4-molecules-21-01063"><label>4.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Strauss</surname><given-names>J.S.</given-names></name><name><surname>Krowchuk</surname><given-names>D.P.</given-names></name><name><surname>Leyden</surname><given-names>J.J.</given-names></name><name><surname>Lucky</surname><given-names>A.W.</given-names></name><name><surname>Shalita</surname><given-names>A.R.</given-names></name><name><surname>Siegfried</surname><given-names>E.C.</given-names></name><name><surname>Thiboutot</surname><given-names>D.M.</given-names></name><name><surname>van Voorhees</surname><given-names>A.S.</given-names></name><name><surname>Beutner</surname><given-names>K.A.</given-names></name><name><surname>Sieck</surname><given-names>C.K.</given-names></name><etal/></person-group>
+<article-title>Guidelines of care for <italic>Acne vulgaris</italic> management</article-title>
+<source>J. Am. Acad. Dermatol.</source>
+<year>2007</year>
+<volume>56</volume>
+<fpage>651</fpage>
+<lpage>663</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jaad.2006.08.048</pub-id>
+<?supplied-pmid 17276540?><pub-id pub-id-type="pmid">17276540</pub-id></element-citation></ref><ref id="B5-molecules-21-01063"><label>5.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Thibout</surname><given-names>D.</given-names></name><name><surname>Gollnick</surname><given-names>H.</given-names></name><name><surname>Bettoli</surname><given-names>V.</given-names></name><name><surname>Dr&#x000e9;no</surname><given-names>B.</given-names></name><name><surname>Kang</surname><given-names>S.</given-names></name><name><surname>Leyden</surname><given-names>J.J.</given-names></name><name><surname>Shalita</surname><given-names>A.R.</given-names></name><name><surname>Lozada</surname><given-names>V.T.</given-names></name><name><surname>Berson</surname><given-names>D.</given-names></name><name><surname>Finlay</surname><given-names>A.</given-names></name><etal/></person-group>
+<article-title>New insights into the management of acne: An update from the global alliance to improve outcomes in acne group</article-title>
+<source>J. Am. Acad. Dermatol.</source>
+<year>2009</year>
+<volume>60</volume>
+<fpage>S1</fpage>
+<lpage>S50</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jaad.2009.01.019</pub-id>
+<?supplied-pmid 19376456?><pub-id pub-id-type="pmid">19376456</pub-id></element-citation></ref><ref id="B6-molecules-21-01063"><label>6.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lavers</surname><given-names>I.</given-names></name></person-group>
+<article-title>Diagnosis and management of <italic>Acne vulgaris</italic></article-title>
+<source>Nurse Prescr.</source>
+<year>2014</year>
+<volume>12</volume>
+<fpage>330</fpage>
+<lpage>336</lpage>
+<pub-id pub-id-type="doi">10.12968/npre.2014.12.7.330</pub-id>
+</element-citation></ref><ref id="B7-molecules-21-01063"><label>7.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Adebamowo</surname><given-names>C.A.</given-names></name><name><surname>Spiegelman</surname><given-names>D.</given-names></name><name><surname>Berkey</surname><given-names>C.S.</given-names></name><name><surname>Danby</surname><given-names>F.W.</given-names></name><name><surname>Rockett</surname><given-names>H.H.</given-names></name><name><surname>Colditz</surname><given-names>G.A.</given-names></name><name><surname>Willett</surname><given-names>W.C.</given-names></name><name><surname>Holmes</surname><given-names>M.D.</given-names></name></person-group>
+<article-title>Milk consumption and acne in teenage boys</article-title>
+<source>J. Am. Acad. Dermatol.</source>
+<year>2008</year>
+<volume>58</volume>
+<fpage>787</fpage>
+<lpage>793</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jaad.2007.08.049</pub-id>
+<?supplied-pmid 18194824?><pub-id pub-id-type="pmid">18194824</pub-id></element-citation></ref><ref id="B8-molecules-21-01063"><label>8.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Akhavan</surname><given-names>A.</given-names></name><name><surname>Bershad</surname><given-names>S.</given-names></name></person-group>
+<article-title>Topical acne drugs</article-title>
+<source>Am. J. Clin. Dermatol.</source>
+<year>2003</year>
+<volume>4</volume>
+<fpage>473</fpage>
+<lpage>492</lpage>
+<pub-id pub-id-type="doi">10.2165/00128071-200304070-00004</pub-id>
+<?supplied-pmid 12814337?><pub-id pub-id-type="pmid">12814337</pub-id></element-citation></ref><ref id="B9-molecules-21-01063"><label>9.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Feldman</surname><given-names>S.</given-names></name><name><surname>Careccia</surname><given-names>R.E.</given-names></name><name><surname>Barham</surname><given-names>K.L.</given-names></name><name><surname>Hancox</surname><given-names>J.</given-names></name></person-group>
+<article-title>Diagnosis and treatment of acne</article-title>
+<source>Am. Fam Physician</source>
+<year>2004</year>
+<volume>69</volume>
+<fpage>2123</fpage>
+<lpage>2130</lpage>
+<?supplied-pmid 15152959?><pub-id pub-id-type="pmid">15152959</pub-id></element-citation></ref><ref id="B10-molecules-21-01063"><label>10.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Olutunmbi</surname><given-names>Y.</given-names></name><name><surname>Paley</surname><given-names>K.</given-names></name><name><surname>English</surname><given-names>J.C.</given-names></name></person-group>
+<article-title>Adolescent female acne: etiology and management</article-title>
+<source>J. Pediatr. Adolesc. Gynecol.</source>
+<year>2008</year>
+<volume>21</volume>
+<fpage>171</fpage>
+<lpage>176</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpag.2007.07.004</pub-id>
+<?supplied-pmid 18656070?><pub-id pub-id-type="pmid">18656070</pub-id></element-citation></ref><ref id="B11-molecules-21-01063"><label>11.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jung</surname><given-names>J.Y.</given-names></name><name><surname>Kwon</surname><given-names>H.H.</given-names></name><name><surname>Hong</surname><given-names>J.S.</given-names></name><name><surname>Yoon</surname><given-names>J.Y.</given-names></name><name><surname>Park</surname><given-names>M.S.</given-names></name><name><surname>Jang</surname><given-names>M.Y.</given-names></name><name><surname>Suh</surname><given-names>D.H.</given-names></name></person-group>
+<article-title>Effect of dietary supplementation with omega-3 fatty acid and gamma-linolenic acid on <italic>Acne vulgaris</italic>: A randomized, double-blind controlled trial</article-title>
+<source>Acta Derm Venereol.</source>
+<year>2014</year>
+<volume>94</volume>
+<fpage>521</fpage>
+<lpage>525</lpage>
+<pub-id pub-id-type="doi">10.2340/00015555-1802</pub-id>
+<?supplied-pmid 24553997?><pub-id pub-id-type="pmid">24553997</pub-id></element-citation></ref><ref id="B12-molecules-21-01063"><label>12.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Webster</surname><given-names>G.F.</given-names></name></person-group>
+<article-title>Clinical review: <italic>Acne vulgaris</italic></article-title>
+<source>Br. Med. J.</source>
+<year>2002</year>
+<volume>325</volume>
+<fpage>475</fpage>
+<lpage>479</lpage>
+<pub-id pub-id-type="doi">10.1136/bmj.325.7362.475</pub-id>
+</element-citation></ref><ref id="B13-molecules-21-01063"><label>13.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gollnick</surname><given-names>H.</given-names></name><name><surname>Cunliffe</surname><given-names>W.</given-names></name><name><surname>Berson</surname><given-names>D.</given-names></name><name><surname>Dreno</surname><given-names>B.</given-names></name><name><surname>Finlay</surname><given-names>A.</given-names></name><name><surname>Leyden</surname><given-names>J.J.</given-names></name><name><surname>Shalita</surname><given-names>A.R.</given-names></name><name><surname>Thiboutot</surname><given-names>D.</given-names></name></person-group>
+<article-title>Management of acne: A report from a global alliance to improve outcomes in acne</article-title>
+<source>J. Am. Acad. Dermatol.</source>
+<year>2003</year>
+<volume>49</volume>
+<fpage>S1</fpage>
+<lpage>S37</lpage>
+<pub-id pub-id-type="doi">10.1067/mjd.2003.618</pub-id>
+<?supplied-pmid 12833004?><pub-id pub-id-type="pmid">12833004</pub-id></element-citation></ref><ref id="B14-molecules-21-01063"><label>14.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Muizzuddin</surname><given-names>N.</given-names></name><name><surname>Giacomoni</surname><given-names>P.</given-names></name><name><surname>Maes</surname><given-names>D.</given-names></name></person-group>
+<article-title>Acne&#x02014;A multifaceted problem</article-title>
+<source>Drug Discov. Today Dis. Mech.</source>
+<year>2008</year>
+<volume>5</volume>
+<fpage>e183</fpage>
+<lpage>e188</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ddmec.2008.08.001</pub-id>
+</element-citation></ref><ref id="B15-molecules-21-01063"><label>15.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gollnick</surname><given-names>H.</given-names></name></person-group>
+<article-title>Current concepts of the pathogenesis of acne, Implications for Drug Treatment</article-title>
+<source>Drugs</source>
+<year>2003</year>
+<volume>63</volume>
+<fpage>1579</fpage>
+<lpage>1596</lpage>
+<pub-id pub-id-type="doi">10.2165/00003495-200363150-00005</pub-id>
+<?supplied-pmid 12887264?><pub-id pub-id-type="pmid">12887264</pub-id></element-citation></ref><ref id="B16-molecules-21-01063"><label>16.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Wertz</surname><given-names>P.W.</given-names></name><name><surname>Michniak</surname><given-names>B.B.</given-names></name></person-group>
+<article-title>Sebum</article-title>
+<source>Cosmeceuticals</source>
+<person-group person-group-type="editor"><name><surname>Elsner</surname><given-names>P.</given-names></name><name><surname>Maibach</surname><given-names>H.I.</given-names></name></person-group>
+<publisher-name>Marcel Dekker</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>2000</year>
+<volume>Volume 23</volume>
+<fpage>45</fpage>
+<lpage>56</lpage>
+</element-citation></ref><ref id="B17-molecules-21-01063"><label>17.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Webster</surname><given-names>G.F.</given-names></name></person-group>
+<article-title>Acne</article-title>
+<source>Curr. Probl. Dermatol.</source>
+<year>1996</year>
+<volume>8</volume>
+<fpage>237</fpage>
+<lpage>268</lpage>
+<pub-id pub-id-type="doi">10.1016/S1040-0486(96)80004-4</pub-id>
+</element-citation></ref><ref id="B18-molecules-21-01063"><label>18.</label><element-citation publication-type="book">
+<person-group person-group-type="editor"><name><surname>Habif</surname><given-names>T.P.</given-names></name></person-group>
+<article-title>Clinical dermatology: A color guide to diagnosis and therapy</article-title>
+<source>Mosby&#x02019;s Medical Dictionary</source>
+<edition>4th ed.</edition>
+<publisher-name>Elsevier</publisher-name>
+<publisher-loc>St Louis, MO, USA</publisher-loc>
+<year>2004</year>
+</element-citation></ref><ref id="B19-molecules-21-01063"><label>19.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Burkhart</surname><given-names>C.G.</given-names></name><name><surname>Burkhart</surname><given-names>C.N.</given-names></name><name><surname>Lehmann</surname><given-names>P.F.</given-names></name></person-group>
+<article-title>Acne: A review of immunologic and microbiologic factors</article-title>
+<source>Postgrad. Med. J.</source>
+<year>1999</year>
+<volume>75</volume>
+<fpage>328</fpage>
+<lpage>331</lpage>
+<pub-id pub-id-type="doi">10.1136/pgmj.75.884.328</pub-id>
+<?supplied-pmid 10435165?><pub-id pub-id-type="pmid">10435165</pub-id></element-citation></ref><ref id="B20-molecules-21-01063"><label>20.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bialecka</surname><given-names>A.</given-names></name><name><surname>Mak</surname><given-names>M.</given-names></name><name><surname>Biedron</surname><given-names>R.</given-names></name><name><surname>Bobek</surname><given-names>M.</given-names></name><name><surname>Kasprowicz</surname><given-names>A.</given-names></name><name><surname>Marcinkiewicz</surname><given-names>J.</given-names></name></person-group>
+<article-title>Different pro-inflammatory and immunogenic potentials of <italic>Propionibacterium acnes</italic> and <italic>Staphylococcus</italic>: Implications for chronic inflammatory acne</article-title>
+<source>Arch. Immunol. Ther. Exp.</source>
+<year>2005</year>
+<volume>53</volume>
+<fpage>79</fpage>
+<lpage>85</lpage>
+</element-citation></ref><ref id="B21-molecules-21-01063"><label>21.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Webster</surname><given-names>G.F.</given-names></name></person-group>
+<article-title><italic>Acne vulgaris</italic> and rosacea: Evaluation and management</article-title>
+<source>Clin. Cornerstone</source>
+<year>2001</year>
+<volume>4</volume>
+<fpage>15</fpage>
+<lpage>22</lpage>
+<pub-id pub-id-type="doi">10.1016/S1098-3597(01)90003-1</pub-id>
+<pub-id pub-id-type="pmid">12739318</pub-id></element-citation></ref><ref id="B22-molecules-21-01063"><label>22.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McInturff</surname><given-names>J.E.</given-names></name><name><surname>Kim</surname><given-names>J.</given-names></name></person-group>
+<article-title>The role of toll-like receptors in the pathophysiology of acne</article-title>
+<source>Semin Cutan Med. Surg.</source>
+<year>2005</year>
+<volume>24</volume>
+<fpage>73</fpage>
+<lpage>78</lpage>
+<pub-id pub-id-type="doi">10.1016/j.sder.2005.03.002</pub-id>
+<?supplied-pmid 16092794?><pub-id pub-id-type="pmid">16092794</pub-id></element-citation></ref><ref id="B23-molecules-21-01063"><label>23.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Akamutsu</surname><given-names>H.</given-names></name><name><surname>Horio</surname><given-names>T.</given-names></name><name><surname>Hattori</surname><given-names>K.</given-names></name></person-group>
+<article-title>Increased hydrogen peroxide generation by neutrophils from patients with acne inflammation</article-title>
+<source>Int. J. Dermatol.</source>
+<year>2003</year>
+<volume>42</volume>
+<fpage>366</fpage>
+<lpage>369</lpage>
+<pub-id pub-id-type="doi">10.1046/j.1365-4362.2003.01540.x</pub-id>
+<pub-id pub-id-type="pmid">12755973</pub-id></element-citation></ref><ref id="B24-molecules-21-01063"><label>24.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bowe</surname><given-names>W.P.</given-names></name><name><surname>Shalita</surname><given-names>A.R.</given-names></name></person-group>
+<article-title>Effective over-the-counter acne treatments</article-title>
+<source>Semin Cutan Med. Surg.</source>
+<year>2008</year>
+<volume>27</volume>
+<fpage>170</fpage>
+<lpage>176</lpage>
+<pub-id pub-id-type="doi">10.1016/j.sder.2008.07.004</pub-id>
+<?supplied-pmid 18786494?><pub-id pub-id-type="pmid">18786494</pub-id></element-citation></ref><ref id="B25-molecules-21-01063"><label>25.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gollnick</surname><given-names>H.P.M.</given-names></name><name><surname>Krautheim</surname><given-names>A.</given-names></name></person-group>
+<article-title>Topical treatment in acne: current status and future aspect</article-title>
+<source>Dermatology</source>
+<year>2003</year>
+<volume>206</volume>
+<fpage>29</fpage>
+<lpage>36</lpage>
+<pub-id pub-id-type="doi">10.1159/000067820</pub-id>
+<?supplied-pmid 12566803?><pub-id pub-id-type="pmid">12566803</pub-id></element-citation></ref><ref id="B26-molecules-21-01063"><label>26.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zaenglein</surname><given-names>A.L.</given-names></name></person-group>
+<article-title>Topical retinoids in the treatment of <italic>Acne vulgaris</italic></article-title>
+<source>Semin Cutan Med. Surg.</source>
+<year>2008</year>
+<volume>27</volume>
+<fpage>177</fpage>
+<lpage>182</lpage>
+<pub-id pub-id-type="doi">10.1016/j.sder.2008.06.001</pub-id>
+<?supplied-pmid 18786495?><pub-id pub-id-type="pmid">18786495</pub-id></element-citation></ref><ref id="B27-molecules-21-01063"><label>27.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Krautheim</surname><given-names>A.</given-names></name><name><surname>Gollnick</surname><given-names>H.</given-names></name></person-group>
+<article-title>Transdermal penetration of topical drugs used in the treatment of acne</article-title>
+<source>Clin. Pharmacokinet</source>
+<year>2003</year>
+<volume>42</volume>
+<fpage>1287</fpage>
+<lpage>1304</lpage>
+<pub-id pub-id-type="doi">10.2165/00003088-200342140-00005</pub-id>
+<?supplied-pmid 14606932?><pub-id pub-id-type="pmid">14606932</pub-id></element-citation></ref><ref id="B28-molecules-21-01063"><label>28.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shaw</surname><given-names>L.</given-names></name><name><surname>Kennedy</surname><given-names>C.</given-names></name></person-group>
+<article-title>The treatment of acne</article-title>
+<source>Paediatr. Child Health</source>
+<year>2007</year>
+<volume>17</volume>
+<fpage>385</fpage>
+<lpage>389</lpage>
+<pub-id pub-id-type="doi">10.1016/j.paed.2007.07.005</pub-id>
+</element-citation></ref><ref id="B29-molecules-21-01063"><label>29.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Scheinfeld</surname><given-names>N.S.</given-names></name><name><surname>Tutrone</surname><given-names>W.D.</given-names></name><name><surname>Torres</surname><given-names>O.</given-names></name><name><surname>Weinberg</surname><given-names>J.M.</given-names></name></person-group>
+<article-title>Macrolides in dermatology</article-title>
+<source>Clin. Dermatol.</source>
+<year>2003</year>
+<volume>21</volume>
+<fpage>40</fpage>
+<lpage>49</lpage>
+<pub-id pub-id-type="doi">10.1016/S0738-081X(02)00323-1</pub-id>
+<pub-id pub-id-type="pmid">12609587</pub-id></element-citation></ref><ref id="B30-molecules-21-01063"><label>30.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kim</surname><given-names>R.H.</given-names></name><name><surname>Armstrong</surname><given-names>A.W.</given-names></name></person-group>
+<article-title>Current state of acne treatment: Highlighting lasers, photodynamic therapy and chemical peels</article-title>
+<source>Dermatol. Online J.</source>
+<year>2011</year>
+<volume>17</volume>
+<comment>Available online: <ext-link ext-link-type="uri" xlink:href="http://escholarship.org/uc/item/0t40h9px">http://escholarship.org/uc/item/0t40h9px</ext-link></comment>
+<date-in-citation>(accessed on 5 May 2015)</date-in-citation>
+</element-citation></ref><ref id="B31-molecules-21-01063"><label>31.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kaminsky</surname><given-names>A.</given-names></name></person-group>
+<article-title>Less common methods to treat acne</article-title>
+<source>Dermatology</source>
+<year>2003</year>
+<volume>206</volume>
+<fpage>68</fpage>
+<lpage>73</lpage>
+<pub-id pub-id-type="doi">10.1159/000067824</pub-id>
+<?supplied-pmid 12566807?><pub-id pub-id-type="pmid">12566807</pub-id></element-citation></ref><ref id="B32-molecules-21-01063"><label>32.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bhate</surname><given-names>K.</given-names></name><name><surname>Williams</surname><given-names>H.C.</given-names></name></person-group>
+<article-title>What&#x02019;s new in acne? An analysis of systematic reviews published in 2011&#x02013;2012</article-title>
+<source>Clin. Exp. Dermatol.</source>
+<year>2014</year>
+<volume>39</volume>
+<fpage>273</fpage>
+<lpage>278</lpage>
+<pub-id pub-id-type="doi">10.1111/ced.12270</pub-id>
+<?supplied-pmid 24635060?><pub-id pub-id-type="pmid">24635060</pub-id></element-citation></ref><ref id="B33-molecules-21-01063"><label>33.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Webster</surname><given-names>G.F.</given-names></name><name><surname>Graber</surname><given-names>E.M.</given-names></name></person-group>
+<article-title>Antibiotic treatment for <italic>Acne vulgaris</italic></article-title>
+<source>Semin Cutan Med. Surg.</source>
+<year>2008</year>
+<volume>27</volume>
+<fpage>183</fpage>
+<lpage>187</lpage>
+<pub-id pub-id-type="doi">10.1016/j.sder.2008.07.001</pub-id>
+<?supplied-pmid 18786496?><pub-id pub-id-type="pmid">18786496</pub-id></element-citation></ref><ref id="B34-molecules-21-01063"><label>34.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shemer</surname><given-names>A.</given-names></name><name><surname>Weiss</surname><given-names>G.</given-names></name><name><surname>Amichai</surname><given-names>B.</given-names></name><name><surname>Kaplan</surname><given-names>B.</given-names></name><name><surname>Trau</surname><given-names>H.</given-names></name></person-group>
+<article-title>Azelaic acid (20%) cream in the treatment of <italic>Acne vulgaris</italic></article-title>
+<source>J. Eur. Acad. Dermatol. Venereol.</source>
+<year>2002</year>
+<volume>16</volume>
+<fpage>178</fpage>
+<lpage>179</lpage>
+<pub-id pub-id-type="doi">10.1046/j.1468-3083.2002.00392_6.x</pub-id>
+<?supplied-pmid 12046832?><pub-id pub-id-type="pmid">12046832</pub-id></element-citation></ref><ref id="B35-molecules-21-01063"><label>35.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Thiboutot</surname><given-names>D.</given-names></name><name><surname>Thieroff-ekerdt</surname><given-names>R.</given-names></name><name><surname>Graupe</surname><given-names>K.</given-names></name></person-group>
+<article-title>Efficacy and safety of azelaic acid (15%) gel as a new treatment for papulopustular rosacea: Results from two vehicle-controlled, randomized phase III studies</article-title>
+<source>J. Am. Acad. Dermatol.</source>
+<year>2003</year>
+<volume>48</volume>
+<fpage>836</fpage>
+<lpage>845</lpage>
+<pub-id pub-id-type="doi">10.1067/mjd.2003.308</pub-id>
+<?supplied-pmid 12789172?><pub-id pub-id-type="pmid">12789172</pub-id></element-citation></ref><ref id="B36-molecules-21-01063"><label>36.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Draelos</surname><given-names>Z.</given-names></name><name><surname>Kayne</surname><given-names>A.</given-names></name></person-group>
+<article-title>Implications of azelaic acid&#x02019;s multiple mechanisms of action: Therapeutic versatility</article-title>
+<source>J. Am. Acad. Dermatol.</source>
+<year>2008</year>
+<volume>58</volume>
+<fpage>AB40</fpage>
+</element-citation></ref><ref id="B37-molecules-21-01063"><label>37.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Webster</surname><given-names>G.</given-names></name></person-group>
+<article-title>Combination azelaic acid therapy for <italic>Acne vulgaris</italic></article-title>
+<source>J. Am. Acad. Dermatol.</source>
+<year>2000</year>
+<volume>43</volume>
+<fpage>S47</fpage>
+<lpage>S50</lpage>
+<pub-id pub-id-type="doi">10.1067/mjd.2000.108318</pub-id>
+<?supplied-pmid 10898830?><pub-id pub-id-type="pmid">10898830</pub-id></element-citation></ref><ref id="B38-molecules-21-01063"><label>38.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tung</surname><given-names>R.</given-names></name><name><surname>Berardesca</surname><given-names>E.</given-names></name><name><surname>Dall&#x02019;Oglio</surname><given-names>F.</given-names></name><name><surname>Micali</surname><given-names>G.</given-names></name><name><surname>Sinagra</surname><given-names>J.</given-names></name><name><surname>Nodzenski</surname><given-names>M.</given-names></name><name><surname>Veraldi</surname><given-names>S.</given-names></name></person-group>
+<article-title>Novel over-the-counter hydrogen peroxide based acne kit in treating acne: Randomized, controlled, multicenter study of a hydrogen peroxide-based acne system versus the benzoyl peroxide-based acne system in the treatment of mild to moderate <italic>Acne vulgaris</italic></article-title>
+<source>J. Am. Acad. Dermatol.</source>
+<year>2014</year>
+<volume>70</volume>
+<fpage>AB9</fpage>
+</element-citation></ref><ref id="B39-molecules-21-01063"><label>39.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Barai</surname><given-names>N.D.</given-names></name></person-group>
+<article-title>Effect of Hydration on Skin Permeability</article-title>
+<source>Master&#x02019;s Thesis</source>
+<publisher-name>University of Cincinnati</publisher-name>
+<publisher-loc>Cincinnati, OH, USA</publisher-loc>
+<year>2002</year>
+</element-citation></ref><ref id="B40-molecules-21-01063"><label>40.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Namazi</surname><given-names>M.</given-names></name></person-group>
+<article-title>Nicotinamide in dermatology: A capsule summary</article-title>
+<source>Int. J. Dermatol.</source>
+<year>2007</year>
+<volume>46</volume>
+<fpage>1229</fpage>
+<lpage>1231</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1365-4632.2007.03519.x</pub-id>
+<?supplied-pmid 18173513?><pub-id pub-id-type="pmid">18173513</pub-id></element-citation></ref><ref id="B41-molecules-21-01063"><label>41.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Draelos</surname><given-names>Z.D.</given-names></name><name><surname>Matsubara</surname><given-names>A.</given-names></name><name><surname>Smiles</surname><given-names>K.</given-names></name></person-group>
+<article-title>The effect of 2% niacinamide on facial sebum production</article-title>
+<source>J. Cosmet Laser Ther.</source>
+<year>2006</year>
+<volume>8</volume>
+<fpage>96</fpage>
+<lpage>101</lpage>
+<pub-id pub-id-type="doi">10.1080/14764170600717704</pub-id>
+<?supplied-pmid 16766489?><pub-id pub-id-type="pmid">16766489</pub-id></element-citation></ref><ref id="B42-molecules-21-01063"><label>42.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Draelos</surname><given-names>Z.</given-names></name></person-group>
+<article-title>Novel topical therapies in cosmetic dermatology</article-title>
+<source>Curr. Probl. Dermatol.</source>
+<year>2000</year>
+<volume>12</volume>
+<fpage>235</fpage>
+<lpage>239</lpage>
+<pub-id pub-id-type="doi">10.1016/S1040-0486(00)80007-1</pub-id>
+</element-citation></ref><ref id="B43-molecules-21-01063"><label>43.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gehring</surname><given-names>W.</given-names></name></person-group>
+<article-title>Nicotinic acid/niacinamide and the skin</article-title>
+<source>J. Cosmet Dermatol.</source>
+<year>2004</year>
+<volume>3</volume>
+<fpage>88</fpage>
+<lpage>93</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1473-2130.2004.00115.x</pub-id>
+<?supplied-pmid 17147561?><pub-id pub-id-type="pmid">17147561</pub-id></element-citation></ref><ref id="B44-molecules-21-01063"><label>44.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lee</surname><given-names>T.W.</given-names></name><name><surname>Kim</surname><given-names>J.C.</given-names></name><name><surname>Hwang</surname><given-names>S.J.</given-names></name></person-group>
+<article-title>Hydrogel patches containing triclosan for acne treatment</article-title>
+<source>Eur. J. Pharm. Biopharm.</source>
+<year>2003</year>
+<volume>56</volume>
+<fpage>407</fpage>
+<lpage>412</lpage>
+<pub-id pub-id-type="doi">10.1016/S0939-6411(03)00137-1</pub-id>
+<pub-id pub-id-type="pmid">14602184</pub-id></element-citation></ref><ref id="B45-molecules-21-01063"><label>45.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jones</surname><given-names>R.D.</given-names></name><name><surname>Jampani</surname><given-names>H.B.</given-names></name><name><surname>Newman</surname><given-names>J.L.</given-names></name><name><surname>Lee</surname><given-names>A.S.</given-names></name></person-group>
+<article-title>State of the science. Triclosan: A review of effectiveness and safety in health care settings</article-title>
+<source>Am. J. Infect. Control.</source>
+<year>2000</year>
+<volume>28</volume>
+<fpage>184</fpage>
+<lpage>196</lpage>
+<pub-id pub-id-type="doi">10.1067/mic.2000.102378</pub-id>
+<?supplied-pmid 10760227?><pub-id pub-id-type="pmid">10760227</pub-id></element-citation></ref><ref id="B46-molecules-21-01063"><label>46.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rodricks</surname><given-names>J.V.</given-names></name><name><surname>Swenberg</surname><given-names>J.A.</given-names></name><name><surname>Borzelleca</surname><given-names>J.F.</given-names></name><name><surname>Maronpot</surname><given-names>R.R.</given-names></name><name><surname>Shipp</surname><given-names>A.M.</given-names></name></person-group>
+<article-title>Triclosan: A critical review of the experimental data and development of margins of safety for consumer products</article-title>
+<source>Crit. Rev. Toxicol.</source>
+<year>2010</year>
+<volume>40</volume>
+<fpage>422</fpage>
+<lpage>484</lpage>
+<pub-id pub-id-type="doi">10.3109/10408441003667514</pub-id>
+<?supplied-pmid 20377306?><pub-id pub-id-type="pmid">20377306</pub-id></element-citation></ref><ref id="B47-molecules-21-01063"><label>47.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Couthinho</surname><given-names>B.</given-names></name></person-group>
+<article-title>Dapsone (Aczone) 5% Gel for the Treatment of Acne</article-title>
+<source>Am. Fam Physician</source>
+<year>2010</year>
+<volume>81</volume>
+<fpage>451</fpage>
+<lpage>452</lpage>
+</element-citation></ref><ref id="B48-molecules-21-01063"><label>48.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wozel</surname><given-names>G.</given-names></name><name><surname>Blasum</surname><given-names>C.</given-names></name></person-group>
+<article-title>Dapsone in dermatology and beyond</article-title>
+<source>Arch. Dermatol. Res.</source>
+<year>2014</year>
+<volume>306</volume>
+<fpage>103</fpage>
+<lpage>124</lpage>
+<pub-id pub-id-type="doi">10.1007/s00403-013-1409-7</pub-id>
+<?supplied-pmid 24310318?><pub-id pub-id-type="pmid">24310318</pub-id></element-citation></ref><ref id="B49-molecules-21-01063"><label>49.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Simonart</surname><given-names>T.</given-names></name></person-group>
+<article-title>Newer approaches to the treatment of <italic>Acne vulgaris</italic></article-title>
+<source>Am. J. Clin. Dermatol.</source>
+<year>2012</year>
+<volume>13</volume>
+<fpage>357</fpage>
+<lpage>364</lpage>
+<pub-id pub-id-type="doi">10.2165/11632500-000000000-00000</pub-id>
+<?supplied-pmid 22920095?><pub-id pub-id-type="pmid">22920095</pub-id></element-citation></ref><ref id="B50-molecules-21-01063"><label>50.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Katsambas</surname><given-names>A.</given-names></name><name><surname>Papakonstantinou</surname><given-names>A.</given-names></name></person-group>
+<article-title>Acne: Systemic treatment</article-title>
+<source>Clin. Dermatol.</source>
+<year>2004</year>
+<volume>22</volume>
+<fpage>412</fpage>
+<lpage>418</lpage>
+<pub-id pub-id-type="doi">10.1016/j.clindermatol.2004.03.014</pub-id>
+<?supplied-pmid 15556728?><pub-id pub-id-type="pmid">15556728</pub-id></element-citation></ref><ref id="B51-molecules-21-01063"><label>51.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zouboulis</surname><given-names>C.C.</given-names></name><name><surname>Martin</surname><given-names>J.P.</given-names></name></person-group>
+<article-title>Update and future of systemic acne treatment</article-title>
+<source>Dermatology</source>
+<year>2003</year>
+<volume>206</volume>
+<fpage>37</fpage>
+<lpage>53</lpage>
+<pub-id pub-id-type="doi">10.1159/000067821</pub-id>
+<?supplied-pmid 12566804?><pub-id pub-id-type="pmid">12566804</pub-id></element-citation></ref><ref id="B52-molecules-21-01063"><label>52.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Leyden</surname><given-names>J.J.</given-names></name><name><surname>McGinley</surname><given-names>K.J.</given-names></name><name><surname>Foglia</surname><given-names>A.N.</given-names></name></person-group>
+<article-title>Qualitative and quantitative changes in cutaneous bacteria associated with systemic isotretinoin therapy for acne conglobata</article-title>
+<source>J. Investig. Dermatol.</source>
+<year>1986</year>
+<volume>86</volume>
+<fpage>390</fpage>
+<lpage>393</lpage>
+<pub-id pub-id-type="doi">10.1111/1523-1747.ep12285658</pub-id>
+<?supplied-pmid 2943823?><pub-id pub-id-type="pmid">2943823</pub-id></element-citation></ref><ref id="B53-molecules-21-01063"><label>53.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sinclair</surname><given-names>W.</given-names></name><name><surname>Jordaan</surname><given-names>H.F.</given-names></name></person-group>
+<article-title>Acne guideline 2005 update</article-title>
+<source>S. Afr. Med. J.</source>
+<year>2005</year>
+<volume>95</volume>
+<fpage>883</fpage>
+<lpage>892</lpage>
+</element-citation></ref><ref id="B54-molecules-21-01063"><label>54.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ebede</surname><given-names>T.L.</given-names></name><name><surname>Arch</surname><given-names>E.L.</given-names></name><name><surname>Berson</surname><given-names>D.</given-names></name></person-group>
+<article-title>Hormonal treatment of acne in women</article-title>
+<source>J. Clin. Aesthet Dermatol.</source>
+<year>2009</year>
+<volume>2</volume>
+<fpage>16</fpage>
+<lpage>22</lpage>
+<?supplied-pmid 20725580?><pub-id pub-id-type="pmid">20725580</pub-id></element-citation></ref><ref id="B55-molecules-21-01063"><label>55.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gollnick</surname><given-names>H.P.</given-names></name><name><surname>Zouboulis</surname><given-names>C.C.</given-names></name></person-group>
+<article-title>Not all acne is <italic>Acne</italic> vulgaris</article-title>
+<source>Dtsch. Arztebl. Int.</source>
+<year>2014</year>
+<volume>111</volume>
+<fpage>301</fpage>
+<lpage>312</lpage>
+<?supplied-pmid 24828100?><pub-id pub-id-type="pmid">24828100</pub-id></element-citation></ref><ref id="B56-molecules-21-01063"><label>56.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Agnew</surname><given-names>T.</given-names></name><name><surname>Leach</surname><given-names>M.</given-names></name><name><surname>Segal</surname><given-names>L.</given-names></name></person-group>
+<article-title>The clinical impact of cost-effectiveness of essential oils and aromatherapy for the treatment of <italic>Acne vulgaris</italic>: A protocol for a randomized controlled trial</article-title>
+<source>J. Altern. Complement. Med.</source>
+<year>2014</year>
+<volume>20</volume>
+<fpage>399</fpage>
+<lpage>405</lpage>
+<pub-id pub-id-type="doi">10.1089/acm.2013.0137</pub-id>
+<?supplied-pmid 23829810?><pub-id pub-id-type="pmid">23829810</pub-id></element-citation></ref><ref id="B57-molecules-21-01063"><label>57.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Magin</surname><given-names>P.J.</given-names></name><name><surname>Adams</surname><given-names>J.</given-names></name><name><surname>Pond</surname><given-names>C.D.</given-names></name><name><surname>Smith</surname><given-names>W.</given-names></name></person-group>
+<article-title>Topical and oral CAM in Acne: A review of the empirical evidence and a consideration of its context</article-title>
+<source>Complement Ther. Med.</source>
+<year>2006</year>
+<volume>14</volume>
+<fpage>62</fpage>
+<lpage>76</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ctim.2005.10.007</pub-id>
+<?supplied-pmid 16473756?><pub-id pub-id-type="pmid">16473756</pub-id></element-citation></ref><ref id="B58-molecules-21-01063"><label>58.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fisk</surname><given-names>W.A.</given-names></name><name><surname>Lev-Tov</surname><given-names>H.A.</given-names></name><name><surname>Sivamani</surname><given-names>R.K.</given-names></name></person-group>
+<article-title>Botanical and phytochemical therapy for acne: A systematic review</article-title>
+<source>Phytother. Res.</source>
+<year>2014</year>
+<volume>28</volume>
+<fpage>1137</fpage>
+<lpage>1152</lpage>
+<pub-id pub-id-type="doi">10.1002/ptr.5125</pub-id>
+<?supplied-pmid 25098271?><pub-id pub-id-type="pmid">25098271</pub-id></element-citation></ref><ref id="B59-molecules-21-01063"><label>59.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kumar</surname><given-names>S.M.</given-names></name><name><surname>Chandrasekar</surname><given-names>M.J.N.</given-names></name><name><surname>Nanajan</surname><given-names>M.J.</given-names></name><name><surname>Suresh</surname><given-names>B.</given-names></name></person-group>
+<article-title>Herbal remedies for acne</article-title>
+<source>Nat. Prod. Radiance</source>
+<year>2005</year>
+<volume>4</volume>
+<fpage>328</fpage>
+<lpage>334</lpage>
+</element-citation></ref><ref id="B60-molecules-21-01063"><label>60.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Viyoch</surname><given-names>J.</given-names></name><name><surname>Pisutthanan</surname><given-names>N.</given-names></name><name><surname>Faikreua</surname><given-names>A.</given-names></name><name><surname>Nupangta</surname><given-names>K.</given-names></name><name><surname>Wangtorpol</surname><given-names>K.</given-names></name><name><surname>Ngokkuen</surname><given-names>J.</given-names></name></person-group>
+<article-title>Evaluation of in vitro antimicrobial activity of Thai basil oils and their micro-emulsion formulas against <italic>Propionibacterium acnes</italic></article-title>
+<source>Int. J. Cosmet Sci.</source>
+<year>2006</year>
+<volume>28</volume>
+<fpage>125</fpage>
+<lpage>133</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1467-2494.2006.00308.x</pub-id>
+<?supplied-pmid 18492147?><pub-id pub-id-type="pmid">18492147</pub-id></element-citation></ref><ref id="B61-molecules-21-01063"><label>61.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Orafidiya</surname><given-names>L.O.</given-names></name><name><surname>Agbani</surname><given-names>E.O.</given-names></name><name><surname>Oyedele</surname><given-names>A.O.</given-names></name><name><surname>Babalola</surname><given-names>O.O.</given-names></name><name><surname>Onayemi</surname><given-names>O.</given-names></name></person-group>
+<article-title>Preliminary clinical tests on topical preparations of <italic>Ocimum gratissimum</italic> Linn leaf essential oil for the treatment of <italic>Acne vulgaris</italic></article-title>
+<source>Clin. Drug Investig.</source>
+<year>2002</year>
+<volume>22</volume>
+<fpage>313</fpage>
+<lpage>319</lpage>
+<pub-id pub-id-type="doi">10.2165/00044011-200222050-00005</pub-id>
+</element-citation></ref><ref id="B62-molecules-21-01063"><label>62.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Da Silva</surname><given-names>A.G.</given-names></name><name><surname>De Freitas Puziol</surname><given-names>P.</given-names></name><name><surname>Leitao</surname><given-names>R.N.</given-names></name><name><surname>Gomes</surname><given-names>T.R.</given-names></name><name><surname>Scherer</surname><given-names>R.</given-names></name><name><surname>Martins</surname><given-names>M.L.L.</given-names></name><name><surname>Cavalcanti</surname><given-names>S.S.</given-names></name><name><surname>Cavalcanti</surname><given-names>A.S.S.</given-names></name><name><surname>Cavalcanti</surname><given-names>L.C.</given-names></name></person-group>
+<article-title>Application of the essential oil from copaiba (<italic>Copaifera langsdorffii</italic> Desf.) for <italic>Acne vulgaris</italic>: A double-blind, placebo controlled clinical trial</article-title>
+<source>Altern. Med. Rev.</source>
+<year>2012</year>
+<volume>17</volume>
+<fpage>69</fpage>
+<lpage>75</lpage>
+<?supplied-pmid 22502624?><pub-id pub-id-type="pmid">22502624</pub-id></element-citation></ref><ref id="B63-molecules-21-01063"><label>63.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gaur</surname><given-names>S.</given-names></name><name><surname>Agnihotri</surname><given-names>R.</given-names></name></person-group>
+<article-title>Green tea: A novel functional food for the oral health of older adults</article-title>
+<source>Geriatr. Gerontol. Int.</source>
+<year>2014</year>
+<volume>14</volume>
+<fpage>238</fpage>
+<lpage>250</lpage>
+<pub-id pub-id-type="doi">10.1111/ggi.12194</pub-id>
+<?supplied-pmid 24261512?><pub-id pub-id-type="pmid">24261512</pub-id></element-citation></ref><ref id="B64-molecules-21-01063"><label>64.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zaveri</surname><given-names>N.T.</given-names></name></person-group>
+<article-title>Green tea and its polyphenolic catechins: Medicinal uses in cancer and noncancer application</article-title>
+<source>Life Sci.</source>
+<year>2006</year>
+<volume>78</volume>
+<fpage>2073</fpage>
+<lpage>2080</lpage>
+<pub-id pub-id-type="doi">10.1016/j.lfs.2005.12.006</pub-id>
+<?supplied-pmid 16445946?><pub-id pub-id-type="pmid">16445946</pub-id></element-citation></ref><ref id="B65-molecules-21-01063"><label>65.</label><element-citation publication-type="webpage">
+<person-group person-group-type="author"><collab>Sigma</collab></person-group>
+<article-title>Polyphenon 60 from Green Tea</article-title>
+<comment>Available online: <ext-link ext-link-type="uri" xlink:href="http://www.sigmaaldrich.com/catalog/product/sigma/p1204?lang=en&#x00026;region=ZA">http://www.sigmaaldrich.com/catalog/product/sigma/p1204?lang=en&#x00026;region=ZA</ext-link></comment>
+<date-in-citation>(accessed on 5 August 2015)</date-in-citation>
+</element-citation></ref><ref id="B66-molecules-21-01063"><label>66.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jung</surname><given-names>M.K.</given-names></name><name><surname>Ha</surname><given-names>S.</given-names></name><name><surname>Son</surname><given-names>J.</given-names></name><name><surname>Song</surname><given-names>J.H.</given-names></name><name><surname>Houh</surname><given-names>Y.</given-names></name><name><surname>Cho</surname><given-names>E.</given-names></name><name><surname>Chun</surname><given-names>J.H.</given-names></name><name><surname>Yoon</surname><given-names>S.R.</given-names></name><name><surname>Yang</surname><given-names>Y.</given-names></name><name><surname>Bang</surname><given-names>S.I.</given-names></name><etal/></person-group>
+<article-title>Polyphenon-60 displays a therapeutic effect on acne by suppression of TLR2 and IL-8 expression via down-regulating the ERK1/2 pathway</article-title>
+<source>Arch. Dermatol. Res.</source>
+<year>2012</year>
+<volume>304</volume>
+<fpage>655</fpage>
+<lpage>663</lpage>
+<pub-id pub-id-type="doi">10.1007/s00403-012-1249-x</pub-id>
+<?supplied-pmid 22684779?><pub-id pub-id-type="pmid">22684779</pub-id></element-citation></ref><ref id="B67-molecules-21-01063"><label>67.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yoon</surname><given-names>J.Y.</given-names></name><name><surname>Kwon</surname><given-names>H.H.</given-names></name><name><surname>Min</surname><given-names>S.U.</given-names></name><name><surname>Thiboutot</surname><given-names>D.M.</given-names></name><name><surname>Suh</surname><given-names>D.H.</given-names></name></person-group>
+<article-title>Epigallocatechin-3-gallate improves acne in humans by modulating intracellular molecular targets and inhibiting <italic>P. acnes</italic></article-title>
+<source>J. Investig. Dermatol.</source>
+<year>2013</year>
+<volume>133</volume>
+<fpage>429</fpage>
+<lpage>440</lpage>
+<pub-id pub-id-type="doi">10.1038/jid.2012.292</pub-id>
+<?supplied-pmid 23096708?><pub-id pub-id-type="pmid">23096708</pub-id></element-citation></ref><ref id="B68-molecules-21-01063"><label>68.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Forest</surname><given-names>J.M.</given-names></name><name><surname>Rafikhah</surname><given-names>N.</given-names></name></person-group>
+<article-title>Oral aqueous green tea extract and <italic>Acne vulgaris</italic>: A placebo-controlled study</article-title>
+<source>Asian J. Clin. Nutr.</source>
+<year>2014</year>
+<volume>6</volume>
+<fpage>41</fpage>
+<lpage>46</lpage>
+</element-citation></ref><ref id="B69-molecules-21-01063"><label>69.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mahmood</surname><given-names>T.</given-names></name><name><surname>Akhtar</surname><given-names>N.</given-names></name><name><surname>Khan</surname><given-names>B.A.</given-names></name><name><surname>Khan</surname><given-names>H.M.S.</given-names></name><name><surname>Saeed</surname><given-names>T.</given-names></name></person-group>
+<article-title>Outcomes of 3% green tea emulsion on skin sebum production in male volunteers</article-title>
+<source>Bosn J. Basic Med. Sci.</source>
+<year>2010</year>
+<volume>10</volume>
+<fpage>260</fpage>
+<lpage>264</lpage>
+<?supplied-pmid 20846135?><pub-id pub-id-type="pmid">20846135</pub-id></element-citation></ref><ref id="B70-molecules-21-01063"><label>70.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Carretero</surname><given-names>M.I.</given-names></name></person-group>
+<article-title>Clay minerals and their beneficial effects upon human health. A review</article-title>
+<source>Appl. Clay Sci.</source>
+<year>2002</year>
+<volume>21</volume>
+<fpage>155</fpage>
+<lpage>163</lpage>
+<pub-id pub-id-type="doi">10.1016/S0169-1317(01)00085-0</pub-id>
+</element-citation></ref><ref id="B71-molecules-21-01063"><label>71.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Park</surname><given-names>S.K.</given-names></name><name><surname>Lee</surname><given-names>C.W.</given-names></name><name><surname>Lee</surname><given-names>M.Y.</given-names></name></person-group>
+<article-title>Antibacterial effects of minerals from ores indigenous to Korea</article-title>
+<source>J. Environ. Biol.</source>
+<year>2009</year>
+<volume>30</volume>
+<fpage>151</fpage>
+<lpage>154</lpage>
+<?supplied-pmid 20112878?><pub-id pub-id-type="pmid">20112878</pub-id></element-citation></ref><ref id="B72-molecules-21-01063"><label>72.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ma&#x02019;or</surname><given-names>Z.</given-names></name><name><surname>Henis</surname><given-names>Y.</given-names></name><name><surname>Alon</surname><given-names>Y.</given-names></name><name><surname>Orlov</surname><given-names>E.</given-names></name><name><surname>Sorensen</surname><given-names>K.B.</given-names></name><name><surname>Oren</surname><given-names>A.</given-names></name></person-group>
+<article-title>Antimicrobial properties of Dead Sea black mineral mud</article-title>
+<source>Int. J. Dermatol.</source>
+<year>2006</year>
+<volume>45</volume>
+<fpage>504</fpage>
+<lpage>511</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1365-4632.2005.02621.x</pub-id>
+<?supplied-pmid 16700781?><pub-id pub-id-type="pmid">16700781</pub-id></element-citation></ref><ref id="B73-molecules-21-01063"><label>73.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gupta</surname><given-names>M.</given-names></name><name><surname>Mahajan</surname><given-names>V.K.</given-names></name><name><surname>Mehta</surname><given-names>K.S.</given-names></name><name><surname>Chauhan</surname><given-names>P.S.</given-names></name></person-group>
+<article-title>Zinc therapy in dermatology: A review</article-title>
+<source>Dermatol. Res. Pract.</source>
+<year>2014</year>
+<volume>2014</volume>
+<fpage>709152</fpage>
+<pub-id pub-id-type="doi">10.1155/2014/709152</pub-id>
+<?supplied-pmid 25120566?><pub-id pub-id-type="pmid">25120566</pub-id></element-citation></ref><ref id="B74-molecules-21-01063"><label>74.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>Y.</given-names></name><name><surname>Zhang</surname><given-names>Z.</given-names></name><name><surname>Chen</surname><given-names>L.</given-names></name><name><surname>Guang</surname><given-names>H.</given-names></name><name><surname>Li</surname><given-names>Z.</given-names></name><name><surname>Yang</surname><given-names>H.</given-names></name><name><surname>Li</surname><given-names>J.</given-names></name><name><surname>You</surname><given-names>D.</given-names></name><name><surname>Yu</surname><given-names>H.</given-names></name><name><surname>Lai</surname><given-names>R.</given-names></name></person-group>
+<article-title>Cathelicidin-BF, a snake cathelicidin-derived antimicrobial peptide, could be an excellent therapeutic agent for acne vulgaris</article-title>
+<source>PLoS ONE</source>
+<year>2011</year>
+<volume>6</volume>
+<elocation-id>e22120</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0022120</pub-id>
+<?supplied-pmid 21789223?><pub-id pub-id-type="pmid">21789223</pub-id></element-citation></ref><ref id="B75-molecules-21-01063"><label>75.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Urban</surname><given-names>E.</given-names></name><name><surname>Nagy</surname><given-names>E.</given-names></name><name><surname>Pal</surname><given-names>T.</given-names></name><name><surname>Sonnevend</surname><given-names>A.</given-names></name><name><surname>Conlon</surname><given-names>J.M.</given-names></name></person-group>
+<article-title>Activities of four frog skin-derived antimicrobial peptides (temporin-1 DRa, temporin-1Va and the melittin-related peptides AR-23 and RV-23) against anaerobic bacteria</article-title>
+<source>Int. J. Antimicrob. Agents</source>
+<year>2007</year>
+<volume>29</volume>
+<fpage>317</fpage>
+<lpage>321</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ijantimicag.2006.09.007</pub-id>
+<?supplied-pmid 17196372?><pub-id pub-id-type="pmid">17196372</pub-id></element-citation></ref><ref id="B76-molecules-21-01063"><label>76.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pan</surname><given-names>C.Y.</given-names></name><name><surname>Chen</surname><given-names>J.Y.</given-names></name><name><surname>Lin</surname><given-names>T.L.</given-names></name><name><surname>Lin</surname><given-names>C.H.</given-names></name></person-group>
+<article-title><italic>In vitro</italic> activities of three synthetic peptides derived from epinecidin-1 and an anti-lipopolysaccharide factor against <italic>Propionibacterium acnes</italic>, <italic>Candida albicans</italic>, and <italic>Trichomonas vaginalis</italic></article-title>
+<source>Peptides</source>
+<year>2009</year>
+<volume>30</volume>
+<fpage>1058</fpage>
+<lpage>1068</lpage>
+<pub-id pub-id-type="doi">10.1016/j.peptides.2009.02.006</pub-id>
+<?supplied-pmid 19463737?><pub-id pub-id-type="pmid">19463737</pub-id></element-citation></ref><ref id="B77-molecules-21-01063"><label>77.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Docherty</surname><given-names>J.J.</given-names></name><name><surname>McEwen</surname><given-names>H.A.</given-names></name><name><surname>Sweet</surname><given-names>T.J.</given-names></name><name><surname>Bailey</surname><given-names>E.</given-names></name><name><surname>Booth</surname><given-names>T.D.</given-names></name></person-group>
+<article-title>Resveratrol inhibition of <italic>Propionibacterium acnes</italic></article-title>
+<source>J. Antimicrob. Chemother.</source>
+<year>2007</year>
+<volume>59</volume>
+<fpage>1182</fpage>
+<lpage>1184</lpage>
+<pub-id pub-id-type="doi">10.1093/jac/dkm099</pub-id>
+<?supplied-pmid 17449884?><pub-id pub-id-type="pmid">17449884</pub-id></element-citation></ref><ref id="B78-molecules-21-01063"><label>78.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Donnelly</surname><given-names>L.E.</given-names></name><name><surname>Newton</surname><given-names>R.</given-names></name><name><surname>Kennedy</surname><given-names>G.E.</given-names></name><name><surname>Fenwick</surname><given-names>P.S.</given-names></name><name><surname>Leung</surname><given-names>R.H.F.</given-names></name><name><surname>Ito</surname><given-names>K.</given-names></name><name><surname>Russell</surname><given-names>R.E.K.</given-names></name><name><surname>Barnes</surname><given-names>P.J.</given-names></name></person-group>
+<article-title>Anti-inflammatory effects of resveratrol in lung epithelial cells: Molecular mechanisms</article-title>
+<source>Am. J. Physiol. Lung. Cell Mol. Physiol.</source>
+<year>2004</year>
+<volume>287</volume>
+<fpage>L774</fpage>
+<lpage>L783</lpage>
+<pub-id pub-id-type="doi">10.1152/ajplung.00110.2004</pub-id>
+<?supplied-pmid 15180920?><pub-id pub-id-type="pmid">15180920</pub-id></element-citation></ref><ref id="B79-molecules-21-01063"><label>79.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fabbrocini</surname><given-names>G.</given-names></name><name><surname>Staibano</surname><given-names>S.</given-names></name><name><surname>De Rosa</surname><given-names>G.</given-names></name><name><surname>Battimiello</surname><given-names>V.</given-names></name><name><surname>Fardella</surname><given-names>N.</given-names></name><name><surname>Gennaro</surname><given-names>I.</given-names></name><name><surname>La Rotonda</surname><given-names>M.I.</given-names></name><name><surname>Longobardi</surname><given-names>A.</given-names></name><name><surname>Mazzella</surname><given-names>M.</given-names></name><name><surname>Siano</surname><given-names>M.</given-names></name><etal/></person-group>
+<article-title>Resveratrol-containing gel for the treatment of <italic>Acne vulgaris</italic>: A single-blind, vehicle-controlled, pilot study</article-title>
+<source>Am. J. Clin. Dermatol.</source>
+<year>2011</year>
+<volume>12</volume>
+<fpage>133</fpage>
+<lpage>141</lpage>
+<pub-id pub-id-type="doi">10.2165/11530630-000000000-00000</pub-id>
+<?supplied-pmid 21348544?><pub-id pub-id-type="pmid">21348544</pub-id></element-citation></ref><ref id="B80-molecules-21-01063"><label>80.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fr&#x000e9;mont</surname><given-names>L.</given-names></name></person-group>
+<article-title>Biological effects of resveratrol</article-title>
+<source>Life Sci.</source>
+<year>2000</year>
+<volume>66</volume>
+<fpage>663</fpage>
+<lpage>673</lpage>
+<pub-id pub-id-type="doi">10.1016/S0024-3205(99)00410-5</pub-id>
+<pub-id pub-id-type="pmid">10680575</pub-id></element-citation></ref><ref id="B81-molecules-21-01063"><label>81.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Doaguie</surname><given-names>A.R.</given-names></name><name><surname>Ghazanfari</surname><given-names>A.</given-names></name><name><surname>Tabil</surname><given-names>L.G.</given-names></name></person-group>
+<article-title>Mesophilic anaerobic digestion of damask rose bagasse with different proportions of cattle manure</article-title>
+<source>Can. Biosyst. Eng.</source>
+<year>2012</year>
+<volume>54</volume>
+<fpage>8.1</fpage>
+<lpage>8.6</lpage>
+<pub-id pub-id-type="doi">10.7451/CBE.2012.54.8.1</pub-id>
+</element-citation></ref><ref id="B82-molecules-21-01063"><label>82.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tofighi</surname><given-names>Z.</given-names></name><name><surname>Molazem</surname><given-names>M.</given-names></name><name><surname>Doostdar</surname><given-names>B.</given-names></name><name><surname>Taban</surname><given-names>P.</given-names></name><name><surname>Shahverdi</surname><given-names>A.R.</given-names></name><name><surname>Samadi</surname><given-names>N.</given-names></name><name><surname>Yassa</surname><given-names>N.</given-names></name></person-group>
+<article-title>Antimicrobial activities of three medicinal plants and investigation of flavonoids of <italic>Tripleurospermum disciforme</italic></article-title>
+<source>Iran J. Pharm. Res.</source>
+<year>2015</year>
+<volume>14</volume>
+<fpage>225</fpage>
+<lpage>231</lpage>
+<?supplied-pmid 25561928?><pub-id pub-id-type="pmid">25561928</pub-id></element-citation></ref><ref id="B83-molecules-21-01063"><label>83.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jain</surname><given-names>M.</given-names></name></person-group>
+<article-title>Ayurvedic textiles: A wonderful approach to handle health disorders</article-title>
+<source>Colourage</source>
+<year>2010</year>
+<volume>57</volume>
+<fpage>45</fpage>
+<lpage>52</lpage>
+</element-citation></ref><ref id="B84-molecules-21-01063"><label>84.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shahriari</surname><given-names>S.</given-names></name><name><surname>Yasa</surname><given-names>N.</given-names></name><name><surname>Mohammadirad</surname><given-names>A.</given-names></name><name><surname>Khorasani</surname><given-names>R.</given-names></name><name><surname>Abdollahi</surname><given-names>M.</given-names></name></person-group>
+<article-title>In vivo antioxidant potentials of <italic>Rosa damascena</italic> petal extract from Guilan, Iran, comparable to &#x003b1;-tocopherol</article-title>
+<source>Int. J. Pharmacol.</source>
+<year>2007</year>
+<volume>3</volume>
+<fpage>187</fpage>
+<lpage>190</lpage>
+</element-citation></ref><ref id="B85-molecules-21-01063"><label>85.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hajhashemi</surname><given-names>V.</given-names></name><name><surname>Ghannadi</surname><given-names>A.</given-names></name><name><surname>Hajiloo</surname><given-names>M.</given-names></name></person-group>
+<article-title>Analgesic and anti-inflammatory effects of <italic>Rosa damascena</italic> hydroalcoholic extract and its essential oil in animal models</article-title>
+<source>Iran J. Pharm. Res.</source>
+<year>2010</year>
+<volume>9</volume>
+<fpage>163</fpage>
+<lpage>168</lpage>
+<?supplied-pmid 24363723?><pub-id pub-id-type="pmid">24363723</pub-id></element-citation></ref><ref id="B86-molecules-21-01063"><label>86.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tsai</surname><given-names>T.H.</given-names></name><name><surname>Tsai</surname><given-names>T.H.</given-names></name><name><surname>Wu</surname><given-names>W.H.</given-names></name><name><surname>Tseng</surname><given-names>J.T.P.</given-names></name><name><surname>Tsai</surname><given-names>P.J.</given-names></name></person-group>
+<article-title>In vitro antimicrobial and anti-inflammatory effects of herbs against <italic>Propionibacterium acnes</italic></article-title>
+<source>Food Chem.</source>
+<year>2010</year>
+<volume>119</volume>
+<fpage>964</fpage>
+<lpage>968</lpage>
+<pub-id pub-id-type="doi">10.1016/j.foodchem.2009.07.062</pub-id>
+</element-citation></ref><ref id="B87-molecules-21-01063"><label>87.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Capitanio</surname><given-names>B.</given-names></name><name><surname>Sinagra</surname><given-names>J.L.</given-names></name><name><surname>Weller</surname><given-names>R.B.</given-names></name><name><surname>Brown</surname><given-names>C.</given-names></name><name><surname>Berardesca</surname><given-names>E.</given-names></name></person-group>
+<article-title>Randomized controlled study of a cosmetic treatment for mild acne</article-title>
+<source>Clin. Exp. Dermatol.</source>
+<year>2012</year>
+<volume>37</volume>
+<fpage>346</fpage>
+<lpage>349</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1365-2230.2011.04317.x</pub-id>
+<?supplied-pmid 22369176?><pub-id pub-id-type="pmid">22369176</pub-id></element-citation></ref><ref id="B88-molecules-21-01063"><label>88.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Choi</surname><given-names>J.S.</given-names></name><name><surname>Bae</surname><given-names>H.J.</given-names></name><name><surname>Kim</surname><given-names>S.J.</given-names></name><name><surname>Choi</surname><given-names>I.S.</given-names></name></person-group>
+<article-title><italic>In vitro</italic> antibacterial and anti-inflammatory properties of seaweed extracts against acne inducing bacteria, <italic>Propionibacterium acnes</italic></article-title>
+<source>J. Environ. Biol.</source>
+<year>2011</year>
+<volume>32</volume>
+<fpage>313</fpage>
+<lpage>318</lpage>
+<?supplied-pmid 22167943?><pub-id pub-id-type="pmid">22167943</pub-id></element-citation></ref><ref id="B89-molecules-21-01063"><label>89.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Marcinikiewicz</surname><given-names>J.</given-names></name></person-group>
+<article-title>Taurine bromamine (TauBr)&#x02014;Its role in immunity and new perspectives for clinical use</article-title>
+<source>J. Biomed. Sci.</source>
+<year>2010</year>
+<volume>17</volume>
+<fpage>S3</fpage>
+<pub-id pub-id-type="doi">10.1186/1423-0127-17-S1-S3</pub-id>
+<?supplied-pmid 20804605?><pub-id pub-id-type="pmid">20804605</pub-id></element-citation></ref><ref id="B90-molecules-21-01063"><label>90.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Marcinikiewicz</surname><given-names>J.</given-names></name><name><surname>Biedron</surname><given-names>R.</given-names></name><name><surname>Bialecka</surname><given-names>A.</given-names></name><name><surname>Kasprowicz</surname><given-names>A.</given-names></name><name><surname>Mak</surname><given-names>M.</given-names></name><name><surname>Targosz</surname><given-names>M.</given-names></name></person-group>
+<article-title>Susceptibility of <italic>Propionibacterium acnes</italic> and <italic>Staphylococcus epidermidis</italic> to killing by MPO-halide system products. Implication for taurine bromamine as a new candidate for topical therapy in treating <italic>Acne vulgaris</italic></article-title>
+<source>Arch. Immunol. Ther. Exp.</source>
+<year>2006</year>
+<volume>54</volume>
+<fpage>61</fpage>
+<lpage>68</lpage>
+<pub-id pub-id-type="doi">10.1007/s00005-006-0007-1</pub-id>
+<?supplied-pmid 16642259?><pub-id pub-id-type="pmid">16642259</pub-id></element-citation></ref><ref id="B91-molecules-21-01063"><label>91.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Marcinikiewicz</surname><given-names>J.</given-names></name><name><surname>Wojas-Pelc</surname><given-names>A.</given-names></name><name><surname>Walczewska</surname><given-names>M.</given-names></name><name><surname>Lipko-Godlewska</surname><given-names>S.</given-names></name><name><surname>Jachowicz</surname><given-names>R.</given-names></name><name><surname>Maciejewska</surname><given-names>A.</given-names></name><name><surname>Bialecka</surname><given-names>A.</given-names></name><name><surname>Kasprowicz</surname><given-names>A.</given-names></name></person-group>
+<article-title>Topical taurine bromamine, a new candidate in the treatment of moderate inflammatory <italic>Acne vulgaris</italic>: A pilot study</article-title>
+<source>Eur. J. Dermatol.</source>
+<year>2008</year>
+<volume>18</volume>
+<fpage>433</fpage>
+<lpage>439</lpage>
+<pub-id pub-id-type="pmid">18573718</pub-id></element-citation></ref><ref id="B92-molecules-21-01063"><label>92.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hammer</surname><given-names>K.A.</given-names></name></person-group>
+<article-title>Treatment of acne with tea tree oil (melaleuca) products: A review of efficacy, tolerability and potential modes of action</article-title>
+<source>Int. J. Antimicrob. Agents</source>
+<year>2015</year>
+<volume>45</volume>
+<fpage>106</fpage>
+<lpage>110</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ijantimicag.2014.10.011</pub-id>
+<?supplied-pmid 25465857?><pub-id pub-id-type="pmid">25465857</pub-id></element-citation></ref><ref id="B93-molecules-21-01063"><label>93.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Enshaieh</surname><given-names>S.</given-names></name><name><surname>Jooya</surname><given-names>A.</given-names></name><name><surname>Siadat</surname><given-names>A.H.</given-names></name><name><surname>Iraji</surname><given-names>F.</given-names></name></person-group>
+<article-title>The efficacy of 5% topical tea tree oil gel in mild to moderate <italic>Acne vulgaris</italic>: A randomized, double-blind placebo-controlled study</article-title>
+<source>Indian J. Dermatol. Venereol. Leprol.</source>
+<year>2007</year>
+<volume>73</volume>
+<fpage>22</fpage>
+<lpage>25</lpage>
+<?supplied-pmid 17314442?><pub-id pub-id-type="pmid">17314442</pub-id></element-citation></ref><ref id="B94-molecules-21-01063"><label>94.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lee</surname><given-names>C.J.</given-names></name><name><surname>Chen</surname><given-names>L.W.</given-names></name><name><surname>Chen</surname><given-names>L.G.</given-names></name><name><surname>Chang</surname><given-names>T.L.</given-names></name><name><surname>Huang</surname><given-names>C.W.</given-names></name><name><surname>Huang</surname><given-names>M.C.</given-names></name><name><surname>Wang</surname><given-names>C.C.</given-names></name></person-group>
+<article-title>Correlations of the components of tea tree oil with its antibacterial effects and skin irritation</article-title>
+<source>J. Food Drug Anal.</source>
+<year>2013</year>
+<volume>21</volume>
+<fpage>169</fpage>
+<lpage>176</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jfda.2013.05.007</pub-id>
+</element-citation></ref><ref id="B95-molecules-21-01063"><label>95.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sharquie</surname><given-names>K.E.</given-names></name><name><surname>Al-Turfi</surname><given-names>I.A.</given-names></name><name><surname>Al-Shimary</surname><given-names>W.M.</given-names></name></person-group>
+<article-title>Treatment of <italic>Acne vulgaris</italic> with 2% topical tea lotion</article-title>
+<source>Saudi Med. J.</source>
+<year>2006</year>
+<volume>27</volume>
+<fpage>83</fpage>
+<lpage>85</lpage>
+<?supplied-pmid 16432600?><pub-id pub-id-type="pmid">16432600</pub-id></element-citation></ref><ref id="B96-molecules-21-01063"><label>96.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Panichayupaaranant</surname><given-names>P.</given-names></name><name><surname>Tewtrakul</surname><given-names>S.</given-names></name><name><surname>Yuenyongsawad</surname><given-names>S.</given-names></name></person-group>
+<article-title>Antibacterial, anti-inflammatory and anti-allergic activities of standardized pomegranate rind extract</article-title>
+<source>Food Chem.</source>
+<year>2010</year>
+<volume>123</volume>
+<fpage>400</fpage>
+<lpage>403</lpage>
+<pub-id pub-id-type="doi">10.1016/j.foodchem.2010.04.054</pub-id>
+</element-citation></ref><ref id="B97-molecules-21-01063"><label>97.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Saising</surname><given-names>J.</given-names></name><name><surname>Voravuthikunchai</surname><given-names>S.P.</given-names></name></person-group>
+<article-title>Anti <italic>Propionibacterium acnes</italic> activity of rhodomyrtone, an effective compound from <italic>Rhodomyrtus tomentosa</italic> (Aiton) Hassk. leaves</article-title>
+<source>Anaerobe</source>
+<year>2012</year>
+<volume>18</volume>
+<fpage>400</fpage>
+<lpage>404</lpage>
+<pub-id pub-id-type="doi">10.1016/j.anaerobe.2012.05.003</pub-id>
+<?supplied-pmid 22626672?><pub-id pub-id-type="pmid">22626672</pub-id></element-citation></ref><ref id="B98-molecules-21-01063"><label>98.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Selvan</surname><given-names>K.</given-names></name><name><surname>Sentila</surname><given-names>R.</given-names></name><name><surname>Michael</surname><given-names>A.</given-names></name></person-group>
+<article-title>Generation and characterization of chicken egg yolk antibodies against <italic>Propionibacterium acnes</italic> for the prevention of <italic>Acne vulgaris</italic></article-title>
+<source>Indian J. Dermatol.</source>
+<year>2012</year>
+<volume>57</volume>
+<fpage>15</fpage>
+<lpage>19</lpage>
+<pub-id pub-id-type="doi">10.4103/0019-5154.92669</pub-id>
+<?supplied-pmid 22470202?><pub-id pub-id-type="pmid">22470202</pub-id></element-citation></ref><ref id="B99-molecules-21-01063"><label>99.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Revathy</surname><given-names>J.</given-names></name><name><surname>Karthika</surname><given-names>S.</given-names></name><name><surname>Sentila</surname><given-names>R.</given-names></name><name><surname>Michael</surname><given-names>A.</given-names></name></person-group>
+<article-title>In vitro evaluation of the efficacy of chicken egg yolk antibodies (IgY) generated against <italic>Propionibacterium acnes</italic></article-title>
+<source>Int. J. Cosmet Sci.</source>
+<year>2014</year>
+<volume>36</volume>
+<fpage>68</fpage>
+<lpage>73</lpage>
+<pub-id pub-id-type="doi">10.1111/ics.12097</pub-id>
+<?supplied-pmid 24131381?><pub-id pub-id-type="pmid">24131381</pub-id></element-citation></ref><ref id="B100-molecules-21-01063"><label>100.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>Y.</given-names></name><name><surname>Kuo</surname><given-names>S.</given-names></name><name><surname>Shu</surname><given-names>M.</given-names></name><name><surname>Yu</surname><given-names>J.</given-names></name><name><surname>Huang</surname><given-names>S.</given-names></name><name><surname>Dai</surname><given-names>A.</given-names></name><name><surname>Two</surname><given-names>A.</given-names></name><name><surname>Gallo</surname><given-names>R.L.</given-names></name><name><surname>Huang</surname><given-names>C.-M.</given-names></name></person-group>
+<article-title><italic>Staphylococcus epidermidis</italic> in the human skin microbiome mediates fermentation to inhibit the growth of <italic>Propionibacterium acnes</italic>: implications of probiotics in <italic>Acne vulgaris</italic></article-title>
+<source>Appl. Microbiol. Biotechnol.</source>
+<year>2014</year>
+<volume>98</volume>
+<fpage>411</fpage>
+<lpage>424</lpage>
+<pub-id pub-id-type="doi">10.1007/s00253-013-5394-8</pub-id>
+<?supplied-pmid 24265031?><pub-id pub-id-type="pmid">24265031</pub-id></element-citation></ref><ref id="B101-molecules-21-01063"><label>101.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wise</surname><given-names>E.M.</given-names></name><name><surname>Graber</surname><given-names>E.M.</given-names></name></person-group>
+<article-title>Clinical pearl: Comedone extraction for persistent macrocomedones while on insotretinoin therapy</article-title>
+<source>J. Clin. Aesthet Dermatol.</source>
+<year>2011</year>
+<volume>4</volume>
+<fpage>20</fpage>
+<lpage>21</lpage>
+<?supplied-pmid 22132254?><pub-id pub-id-type="pmid">22132254</pub-id></element-citation></ref><ref id="B102-molecules-21-01063"><label>102.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Steventon</surname><given-names>K.</given-names></name></person-group>
+<article-title>Expert opinion and review article: the timing of comedone extraction in the treatment of premenstrual acne&#x02014;A proposed therapeutic approach</article-title>
+<source>Int. J. Cosmet Sci.</source>
+<year>2011</year>
+<volume>33</volume>
+<fpage>99</fpage>
+<lpage>104</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1468-2494.2010.00610.x</pub-id>
+<?supplied-pmid 20807258?><pub-id pub-id-type="pmid">20807258</pub-id></element-citation></ref><ref id="B103-molecules-21-01063"><label>103.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sharma</surname><given-names>V.K.</given-names></name><name><surname>Khandpur</surname><given-names>S.</given-names></name></person-group>
+<article-title>Guidelines for cryotherapy</article-title>
+<source>Indian J. Dermatol. Venereol. Leprol.</source>
+<year>2009</year>
+<volume>75</volume>
+<fpage>S90</fpage>
+<lpage>S100</lpage>
+</element-citation></ref><ref id="B104-molecules-21-01063"><label>104.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Thomson</surname><given-names>K.F.</given-names></name><name><surname>Goulden</surname><given-names>V.</given-names></name><name><surname>Sheehan-Dare</surname><given-names>R.</given-names></name><name><surname>Cunliffe</surname><given-names>W.J.</given-names></name></person-group>
+<article-title>Light cautery of macrocomedones under general anaesthesia</article-title>
+<source>Br. J. Dermatol.</source>
+<year>1999</year>
+<volume>141</volume>
+<fpage>595</fpage>
+<lpage>596</lpage>
+<pub-id pub-id-type="doi">10.1046/j.1365-2133.1999.03083.x</pub-id>
+<?supplied-pmid 10583094?><pub-id pub-id-type="pmid">10583094</pub-id></element-citation></ref><ref id="B105-molecules-21-01063"><label>105.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Levy</surname><given-names>L.L.</given-names></name><name><surname>Zeichner</surname><given-names>J.A.</given-names></name></person-group>
+<article-title>Management of acne scarring, Part II. A comparative review of non-laser-based, minimally invasive approaches</article-title>
+<source>Am. J. Clin. Dermatol.</source>
+<year>2012</year>
+<volume>13</volume>
+<fpage>331</fpage>
+<lpage>340</lpage>
+<pub-id pub-id-type="doi">10.2165/11631410-000000000-00000</pub-id>
+<?supplied-pmid 22849351?><pub-id pub-id-type="pmid">22849351</pub-id></element-citation></ref><ref id="B106-molecules-21-01063"><label>106.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Newman</surname><given-names>M.D.</given-names></name><name><surname>Bowe</surname><given-names>W.P.</given-names></name><name><surname>Heughebaert</surname><given-names>C.</given-names></name><name><surname>Shalita</surname><given-names>A.R.</given-names></name></person-group>
+<article-title>Therapeutic considerations for severe nodular acne</article-title>
+<source>Am. J. Clin. Dermatol.</source>
+<year>2011</year>
+<volume>12</volume>
+<fpage>7</fpage>
+<lpage>14</lpage>
+<pub-id pub-id-type="doi">10.2165/11532280-000000000-00000</pub-id>
+<?supplied-pmid 21062102?><pub-id pub-id-type="pmid">21062102</pub-id></element-citation></ref><ref id="B107-molecules-21-01063"><label>107.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Elman</surname><given-names>M.</given-names></name><name><surname>Lebzelter</surname><given-names>J.</given-names></name></person-group>
+<article-title>Light therapy in the treatment of <italic>Acne vulgaris</italic></article-title>
+<source>Dermatol. Surg.</source>
+<year>2004</year>
+<volume>30</volume>
+<fpage>139</fpage>
+<lpage>146</lpage>
+<?supplied-pmid 14756640?><pub-id pub-id-type="pmid">14756640</pub-id></element-citation></ref><ref id="B108-molecules-21-01063"><label>108.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Krakowski</surname><given-names>A.C.</given-names></name><name><surname>Stendardo</surname><given-names>S.</given-names></name><name><surname>Eichenfield</surname><given-names>L.F.</given-names></name></person-group>
+<article-title>Practical considerations in acne treatment and the clinical impact of topical combination therapy</article-title>
+<source>Pediatr. Dermatol.</source>
+<year>2008</year>
+<volume>25</volume>
+<fpage>1</fpage>
+<lpage>14</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1525-1470.2008.00667.x</pub-id>
+<?supplied-pmid 18494684?><pub-id pub-id-type="pmid">18494684</pub-id></element-citation></ref><ref id="B109-molecules-21-01063"><label>109.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Seidler</surname><given-names>E.M.</given-names></name><name><surname>Kimball</surname><given-names>A.B.</given-names></name></person-group>
+<article-title>Meta-analysis comparing efficacy of benzoyl peroxide, clindamycin, benzoyl peroxide with salicylic acid, and combination benzoyl peroxide/clindamycin in ace</article-title>
+<source>J. Am. Acad. Dermatol.</source>
+<year>2010</year>
+<volume>63</volume>
+<fpage>52</fpage>
+<lpage>62</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jaad.2009.07.052</pub-id>
+<?supplied-pmid 20488582?><pub-id pub-id-type="pmid">20488582</pub-id></element-citation></ref></ref-list></back><floats-group><fig id="molecules-21-01063-f001" position="float"><label>Figure 1</label><caption><p>Pathogenic factors contributing to the development of acne: (1) The normal pilosebaceous unit. (2) The clogging of the pore is aggravated by hyperkeratinization and excess sebum production whilst anaerobic bacteria (mainly <italic>P. acnes</italic>) proliferate and inflammatory mediators are released. (3) Inflammatory infiltrates cause the development of increasing degrees of severity in inflammatory acne forms (Reprinted from Drug Discovery Today: Disease Mechanisms, 5, Muizzuddin et al. [<xref rid="B14-molecules-21-01063" ref-type="bibr">14</xref>], Acne&#x02013;a multifaceted problem, e184&#x02013;e188, Copyright (2008), with permission from Elsevier).</p></caption><graphic xlink:href="molecules-21-01063-g001"/></fig><table-wrap id="molecules-21-01063-t001" position="float"><object-id pub-id-type="pii">molecules-21-01063-t001_Table 1</object-id><label>Table 1</label><caption><p>Different treatment options for acne.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Treatment Methods</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Examples</th></tr></thead><tbody><tr><td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Topical</td><td align="left" valign="middle" rowspan="1" colspan="1">Retinoids: adapalene, isotretinoin, motretinide, retinoyl-&#x003b2;-glucuronide, tazarotene, tretinoin</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Antibiotics: clindamycin, erythromycin</td></tr><tr><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Diverse: azelaic acid, benzoyl peroxide, chemical peels, corticosteroids, dapsone, hydrogen peroxide, niacinamide, salicylic acid, sodium sulfacetamide, sulfur, triclosan</td></tr><tr><td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Systemic</td><td align="left" valign="middle" rowspan="1" colspan="1">Retinoids: isotretinoin</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Antibiotics: azithromycin, clindamycin, co-trimoxazole, doxycycline, erythromycin, levofloxacin, lymecycline, minocycline, roxithromycin</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Hormonal: contraceptives</td></tr><tr><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Diverse: clofazimine, corticosteroids, ibuprofen, zinc sulfate</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Complementary and Alternative Medicines (CAM)</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"><italic>Achillea millefolium</italic>, amaranth, antimicrobial peptides, arnica, asparagus, basil oil, bay, benzoin, birch, bittersweet nightshade, black cumin, black walnut, borage, Brewer&#x02019;s yeast, burdock root, calendula, celandine, chamomile, chaste tree, <italic>Commiphora mukul</italic>, copaiba oil, coriander, cucumber, duckweed, Du Zhong extract, English walnut, <italic>Eucalyptus dives</italic>, fresh lemon, garlic, geranium, grapefruit seeds, green tea, jojoba oil, juniper twig, labrador tea, lemon grass, lemon, minerals, neem, oak bark, onion, orange peel, orange, Oregon grape root, patchouli, pea, petitgrain, pine, pomegranate rind extract, poplar, probiotics, pumpkin, resveratrol, rose myrtle, rhubarb, <italic>Rosa damascena</italic>, rosemary, rue, safflower oil, sandalwood, seaweed, soapwort, <italic>Sophora flavescens</italic>, specific antibodies, stinging nettle, sunflower oil, <italic>Taraxacum officinale</italic>, taurine bromamine, tea tree oil, thyme, turmeric, vinegar, vitex, witch hazel, <italic>Withania somnifera</italic> and yerba mate extract</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Physical Treatment</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Comedone extraction, cryoslush therapy, cryotherapy, electrocauterization, intralesional corticosteroids and optical treatments</td></tr></tbody></table></table-wrap></floats-group></article>

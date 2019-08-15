@@ -1,0 +1,285 @@
+{
+  "id": [
+    "31275149"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31275149"
+  ],
+  "pmcid": [
+    "PMC6594199"
+  ],
+  "doi": [
+    "10.3389/fphar.2019.00677"
+  ],
+  "title": [
+    "Lamiaceae: An Insight on Their Anti-Allergic Potential and Its Mechanisms of Action."
+  ],
+  "authorString": [
+    "Sim LY, Abd Rani NZ, Husain K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sim LY"
+          ],
+          "firstName": [
+            "Lee Yen"
+          ],
+          "lastName": [
+            "Sim"
+          ],
+          "initials": [
+            "LY"
+          ],
+          "affiliation": [
+            "Drug and Herbal Research Centre, Faculty of Pharmacy, Universiti Kebangsaan Malaysia, Kuala Lumpur, Malaysia."
+          ]
+        },
+        {
+          "fullName": [
+            "Abd Rani NZ"
+          ],
+          "firstName": [
+            "Nur Zahirah"
+          ],
+          "lastName": [
+            "Abd Rani"
+          ],
+          "initials": [
+            "NZ"
+          ],
+          "affiliation": [
+            "Drug and Herbal Research Centre, Faculty of Pharmacy, Universiti Kebangsaan Malaysia, Kuala Lumpur, Malaysia."
+          ]
+        },
+        {
+          "fullName": [
+            "Husain K"
+          ],
+          "firstName": [
+            "Khairana"
+          ],
+          "lastName": [
+            "Husain"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Drug and Herbal Research Centre, Faculty of Pharmacy, Universiti Kebangsaan Malaysia, Kuala Lumpur, Malaysia."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2779305"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in pharmacology"
+          ],
+          "ISOAbbreviation": [
+            "Front Pharmacol"
+          ],
+          "medlineAbbreviation": [
+            "Front Pharmacol"
+          ],
+          "NLMid": [
+            "101548923"
+          ],
+          "ISSN": [
+            "1663-9812"
+          ],
+          "ESSN": [
+            "1663-9812"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "677"
+  ],
+  "abstractText": [
+    "The prevalence of allergic diseases such as asthma, allergic rhinitis, food allergy and atopic dermatitis has increased dramatically in recent decades. Conventional therapies for allergy can induce undesirable effects and hence patients tend to seek alternative therapies like natural compounds. Considering the fact above, there is an urgency to discover potential medicinal plants as future candidates in the development of novel anti-allergic therapeutic agents. The Lamiaceae family, or mint family, is a diverse plant family which encompasses more than 7,000 species and with a cosmopolitan distribution. A number of species from this family has been widely employed as ethnomedicine against allergic inflammatory skin diseases and allergic asthma in traditional practices. Phytochemical analysis of the Lamiaceae family has reported the presence of flavonoids, flavones, flavanones, flavonoid glycosides, monoterpenes, diterpenes, triterpenoids, essential oil and fatty acids. Numerous investigations have highlighted the anti-allergic activities of Lamiaceae species with their active principles and crude extracts. Henceforth, this review has the ultimate aim of compiling the up-to-date (2018) findings of published scientific information about the anti-allergic activities of Lamiaceae species. In addition, the botanical features, medicinal uses, chemical constituents and toxicological studies of Lamiaceae species were also documented. The method employed for data collection in this review was mainly the exploration of the PubMed, Ovid and Scopus databases. Additional research studies were obtained from the reference lists of retrieved articles. This comprehensive summarization serves as a useful resource for a better understanding of Lamiaceae species. The anti-allergic mechanisms related to Lamiaceae species are also reviewed extensively which aids in future exploration of the anti-allergic potential of Lamiaceae species."
+  ],
+  "affiliation": [
+    "Drug and Herbal Research Centre, Faculty of Pharmacy, Universiti Kebangsaan Malaysia, Kuala Lumpur, Malaysia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Allergy",
+        "Mast cell",
+        "Lamiaceae",
+        "Histamine",
+        "Eosinophil",
+        "Hypersensitivity",
+        "Anti-allergic",
+        "Β-hexosaminidase"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6594199?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6594199"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fphar.2019.00677"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-06"
+  ],
+  "firstIndexDate": [
+    "2019-07-06"
+  ],
+  "dateOfRevision": [
+    "2019-07-07"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-19"
+  ],
+  "firstPublicationDate": [
+    "2019-06-19"
+  ]
+}

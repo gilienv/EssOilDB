@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6200819/results/species/binomial/results.xml">
+  <result pre="IL-17C is known to be important for host defense against such pathogens as " exact="Pseudomonas aeruginosa" xpath="/html[1]/body[1]/div[2]/div[4]/div[10]/p[1]" match="Pseudomonas aeruginosa" post=" 10 . On the other hand, inappropriate/excessive IL-17C expression may " name="binomial"/>
+  <result pre="rowth was reduced in Il17c-deficient ( Il17c −/−) mice after non-typeable " exact="Haemophilus influenza" xpath="/html[1]/body[1]/div[2]/div[4]/div[10]/p[1]" match="Haemophilus influenza" post=" infection 17 and in Il17re −/− mice on the Apc&lt;/" name="binomial"/>
+  <result pre="ata not shown). A similar discrepancy was also observed in Il17c −/− mice during " exact="Candida albicans" xpath="/html[1]/body[1]/div[2]/div[4]/div[10]/p[1]" match="Candida albicans" post=" infection: Conti et al. reported that IL-17C was dispensable for host defense against Ca" name="binomial"/>
+  <result pre="s infection: Conti et al. reported that IL-17C was dispensable for host defense against " exact="Candida albicans" xpath="/html[1]/body[1]/div[2]/div[4]/div[10]/p[1]" match="Candida albicans" post=" 42 , whereas Huang et al. reported that IL-17C was important fo" name="binomial"/>
+  <result pre="trophils by inducing IL-6 and neutrophil chemoattractants such as KC and MIP-2 in the lungs during " exact="Pseudomonas aeruginosa" xpath="/html[1]/body[1]/div[2]/div[4]/div[10]/p[1]" match="Pseudomonas aeruginosa" post=" infection 10 . In contrast, we found that IL-17C is not essential for " name="binomial"/>
+  <result pre="-2) in the lungs of mice after LPS inhalation (Fig. 8). Airway neutrophilia during " exact="Pseudomonas aeruginosa" xpath="/html[1]/body[1]/div[2]/div[4]/div[10]/p[1]" match="Pseudomonas aeruginosa" post=" infection is dependent on IL-17A 10 , which is produced at least in pa" name="binomial"/>
+  <result pre=" href=&quot;#CR31&quot;&gt;31 . In brief, mice were treated intratracheally with 20 μl of 0.5 mg/ml LPS ( " exact="Escherichia coli" xpath="/html[1]/body[1]/div[2]/div[4]/div[10]/p[1]" match="Escherichia coli" post=" serotype 0111:B4; Sigma–Aldrich) or an equal volume of saline as a control. Twenty-four hours afte" name="binomial"/>
+  <result pre="Mice were intraperitoneally injected with 15 mg/kg of LPS ( " exact="Escherichia coli" match="Escherichia coli" post=" serotype 0111:B4; Sigma–Aldrich) as described elsewhere 27, " name="binomial"/>
+ </snippets>
+</snippetsTree>

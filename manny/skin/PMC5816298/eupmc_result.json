@@ -1,0 +1,358 @@
+{
+  "id": [
+    "29484023"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29484023"
+  ],
+  "pmcid": [
+    "PMC5816298"
+  ],
+  "doi": [
+    "10.3889/oamjms.2018.041"
+  ],
+  "title": [
+    "Integrative Dermatology - The Use of Herbals and Nutritional Supplements to Treat Dermatological Conditions."
+  ],
+  "authorString": [
+    "Tirant M, Lotti T, Gianfaldoni S, Tchernev G, Wollina U, Bayer P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tirant M"
+          ],
+          "firstName": [
+            "Michael"
+          ],
+          "lastName": [
+            "Tirant"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Psoriasis & Skin Clinic, 374 Nepean Highway Frankston Victoria, Melbourne 3199, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Lotti T"
+          ],
+          "firstName": [
+            "Torello"
+          ],
+          "lastName": [
+            "Lotti"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "University G. Marconi of Rome - Dermatology and Venereology, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Gianfaldoni S"
+          ],
+          "firstName": [
+            "Serena"
+          ],
+          "lastName": [
+            "Gianfaldoni"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "University G. Marconi of Rome - Dermatology and Venereology, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Tchernev G"
+          ],
+          "firstName": [
+            "Georgi"
+          ],
+          "lastName": [
+            "Tchernev"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Medical Institute of Ministry of Interior (MVR), Department of Dermatology, Venereology and Dermatologic Surgery, Sofia, Bulgaria."
+          ]
+        },
+        {
+          "fullName": [
+            "Wollina U"
+          ],
+          "firstName": [
+            "Uwe"
+          ],
+          "lastName": [
+            "Wollina"
+          ],
+          "initials": [
+            "U"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5933-2913",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Städtisches Klinikum Dresden - Department of Dermatology and Allergology, Dresden, Sachsen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Bayer P"
+          ],
+          "firstName": [
+            "Philip"
+          ],
+          "lastName": [
+            "Bayer"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Psoriasis & Skin Clinic, 374 Nepean Highway Frankston Victoria, Melbourne 3199, Australia."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5933-2913",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2654967"
+      ],
+      "dateOfPublication": [
+        "2018 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Open access Macedonian journal of medical sciences"
+          ],
+          "ISOAbbreviation": [
+            "Open Access Maced J Med Sci"
+          ],
+          "medlineAbbreviation": [
+            "Open Access Maced J Med Sci"
+          ],
+          "NLMid": [
+            "101662294"
+          ],
+          "ISSN": [
+            "1857-9655"
+          ],
+          "ESSN": [
+            "1857-9655"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "185-202"
+  ],
+  "abstractText": [
+    "From humble beginnings at the dawn of time to it's advanced and successful status today, this essay traces the history of natural medicine and the development of integrated dermatology to what it is today. Some of the most well-known natural (international and Australian) products with an application in dermatology are discussed. The history and functions of the Psoriasis Eczema Clinic and the products developed by its founder, Prof. Michael Tirant, are explained."
+  ],
+  "affiliation": [
+    "Psoriasis & Skin Clinic, 374 Nepean Highway Frankston Victoria, Melbourne 3199, Australia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Traditional Chinese medicine",
+        "Herbals",
+        "Integrative Medicine",
+        "Complementary Medicine",
+        "Ayurvedic Medicine",
+        "Integrative Dermatology",
+        "Unconventional Therapy",
+        "Integrative Therapy",
+        "Nutritional Medicine",
+        "Western Herbal Medicine"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5816298?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5816298"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3889/oamjms.2018.041"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-02-28"
+  ],
+  "firstIndexDate": [
+    "2018-02-28"
+  ],
+  "dateOfRevision": [
+    "2018-03-01"
+  ],
+  "electronicPublicationDate": [
+    "2018-01-21"
+  ],
+  "firstPublicationDate": [
+    "2018-01-21"
+  ]
+}

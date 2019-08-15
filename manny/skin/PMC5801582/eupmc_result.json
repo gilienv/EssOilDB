@@ -1,0 +1,247 @@
+{
+  "id": [
+    "29441317"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29441317"
+  ],
+  "pmcid": [
+    "PMC5801582"
+  ],
+  "doi": [
+    "10.4103/japtr.JAPTR_314_17"
+  ],
+  "title": [
+    "Polymeric micelles as cutaneous drug delivery system in normal skin and dermatological disorders."
+  ],
+  "authorString": [
+    "Makhmalzade BS, Chavoshy F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Makhmalzade BS"
+          ],
+          "firstName": [
+            "Behzad Sharif"
+          ],
+          "lastName": [
+            "Makhmalzade"
+          ],
+          "initials": [
+            "BS"
+          ],
+          "affiliation": [
+            "Nanotechnology Research Center, Faculty of Pharmacy, Ahvaz Jundishapur University of Medical Sciences, Ahvaz, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Chavoshy F"
+          ],
+          "firstName": [
+            "Fateme"
+          ],
+          "lastName": [
+            "Chavoshy"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Pharmaceutics, Faculty of Pharmacy, Ahvaz Jundishapur University of Medical Sciences, Ahvaz, Iran."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2651939"
+      ],
+      "dateOfPublication": [
+        "2018 Jan-Mar"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of advanced pharmaceutical technology & research"
+          ],
+          "ISOAbbreviation": [
+            "J Adv Pharm Technol Res"
+          ],
+          "medlineAbbreviation": [
+            "J Adv Pharm Technol Res"
+          ],
+          "NLMid": [
+            "101537797"
+          ],
+          "ISSN": [
+            "2231-4040"
+          ],
+          "ESSN": [
+            "0976-2094"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "2-8"
+  ],
+  "abstractText": [
+    "The easy accessibility of skin made dermal application, one of the approaches for local drug therapy. Effectiveness of topical drug application is depended on different parameters such as skin barrier properties, physicochemical properties of drug and vehicle, and interaction between drug and its vehicle with the skin layers. In this review, an overview of skin structure and feature of polymeric micelles as topical nanocarriers is provided. We also summarized the research studies dealing with the application of polymeric micelles for cutaneous delivery. In the past decades, numerous types of nanocarriers have been widely investigated as a novel delivery approach to improve skin penetration and localization of drugs in normal skin and dermatological diseases. Polymeric micelles are one of them, with their specific ability to encapsulate hydrophilic drugs. These carriers can enhance the therapeutic efficacy and minimize the systemic side effects of the drugs. Polymeric micelles could enhance the deposition of drugs in targeted sites of the skin in the normal and dermatological diseases such as psoriasis and acne. Nevertheless, still there is a need to investigate the mechanism of action of these carriers and the fate of polymeric micelles in skin."
+  ],
+  "affiliation": [
+    "Nanotechnology Research Center, Faculty of Pharmacy, Ahvaz Jundishapur University of Medical Sciences, Ahvaz, Iran."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Nanocarriers",
+        "Polymeric Micelles",
+        "Skin Topical Drug Delivery",
+        "Cutaneous Drug Delivery"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5801582"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/japtr.JAPTR_314_17"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-02-15"
+  ],
+  "firstIndexDate": [
+    "2018-02-15"
+  ],
+  "dateOfRevision": [
+    "2018-02-18"
+  ],
+  "firstPublicationDate": [
+    "2018-01-01"
+  ]
+}

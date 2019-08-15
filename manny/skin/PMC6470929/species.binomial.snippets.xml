@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6470929/results/species/binomial/results.xml">
+  <result pre="7, 19, 20]. Brazilian buriti ( " exact="Mauritia vinifera" xpath="/html[1]/body[1]/div[2]/div[2]/p[2]" match="Mauritia vinifera" post=") and palm oil ( Elaeis guineensis) represent the richest sources of provitamin A in Brazil " name="binomial"/>
+  <result pre="20]. Brazilian buriti ( Mauritia vinifera) and palm oil ( " exact="Elaeis guineensis" match="Elaeis guineensis" post=") represent the richest sources of provitamin A in Brazil [ 21]. " name="binomial"/>
+ </snippets>
+</snippetsTree>

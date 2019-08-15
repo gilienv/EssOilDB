@@ -1,0 +1,700 @@
+{
+  "id": [
+    "30541534"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30541534"
+  ],
+  "pmcid": [
+    "PMC6291973"
+  ],
+  "doi": [
+    "10.1186/s12906-018-2396-1"
+  ],
+  "title": [
+    "Topical anti-inflammatory and anti-oxidative effects of porcine placenta extracts on 2,4-dinitrochlorobenzene-induced contact dermatitis."
+  ],
+  "authorString": [
+    "Heo JH, Heo Y, Lee HJ, Kim M, Shin HY."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Heo JH"
+          ],
+          "firstName": [
+            "Jae Hyeok"
+          ],
+          "lastName": [
+            "Heo"
+          ],
+          "initials": [
+            "JH"
+          ],
+          "affiliation": [
+            "Department of Biomedical Science and Engineering, Konkuk Institute of Technology, Konkuk University, 120 Neungdong-ro, Gwangjin-gu, Seoul, 05029, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Heo Y"
+          ],
+          "firstName": [
+            "Yoonki"
+          ],
+          "lastName": [
+            "Heo"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Biomedical Science and Engineering, Konkuk Institute of Technology, Konkuk University, 120 Neungdong-ro, Gwangjin-gu, Seoul, 05029, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee HJ"
+          ],
+          "firstName": [
+            "Hee Jung"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "HJ"
+          ],
+          "affiliation": [
+            "Department of Biomedical Science and Engineering, Konkuk Institute of Technology, Konkuk University, 120 Neungdong-ro, Gwangjin-gu, Seoul, 05029, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim M"
+          ],
+          "firstName": [
+            "Minjee"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Biomedical Science and Engineering, Konkuk Institute of Technology, Konkuk University, 120 Neungdong-ro, Gwangjin-gu, Seoul, 05029, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Shin HY"
+          ],
+          "firstName": [
+            "Ha Youn"
+          ],
+          "lastName": [
+            "Shin"
+          ],
+          "initials": [
+            "HY"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8553-2107",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biomedical Science and Engineering, Konkuk Institute of Technology, Konkuk University, 120 Neungdong-ro, Gwangjin-gu, Seoul, 05029, South Korea. hayounshin@konkuk.ac.kr."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8553-2107",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2756945"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC complementary and alternative medicine"
+          ],
+          "ISOAbbreviation": [
+            "BMC Complement Altern Med"
+          ],
+          "medlineAbbreviation": [
+            "BMC Complement Altern Med"
+          ],
+          "NLMid": [
+            "101088661"
+          ],
+          "ISSN": [
+            "1472-6882"
+          ],
+          "ESSN": [
+            "1472-6882"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "331"
+  ],
+  "abstractText": [
+    "BACKGROUND:The placenta is a reservoir enriched with growth factors, hormones, cytokines and minerals. While several beneficial effects of placenta extracts on wound healing, anti-aging and anti-inflammatory responses have been reported, relatively limited mechanistic exploration has been conducted to date. Here, we provide compelling evidence of anti-inflammatory and anti-oxidative activities of porcine placenta extracts (PPE) against contact dermatitis in vivo. METHODS:A contact dermatitis mouse model was established by sensitizing the dorsal skin of BALB/c mice using the contact allergen, 2,4-dinitrochlorobenzene (DNCB), and molecular consequences of topical application of PPE were investigated. PPEs were pre-sterilized via γ-irradiation, which is a milder but more effective way of sterilizing biomolecules relative to the conventional autoclaving method. RESULTS:DNCB-induced skin lesions displayed clear contact dermatitis-like symptoms and topical application of PPE dramatically alleviated both local and systemic inflammatory responses. Inflammatory epidermal thickening was completely abrogated and allergen-specific serum IgE levels significantly reduced in the presence of PPE. Moreover, anti-oxidative activities of PPE were observed both in vitro and in vivo, which may lead to attenuation of inflammatory responses. Prolonged treatment with PPE strongly inhibited production of DNCB-induced reactive oxygen species (ROS) and subsequently prevented oxidative degradation of hyaluronic acid (HA), which triggers innate inflammatory responses. CONCLUSION:Our findings supply valuable insights into the mechanisms underlying the anti-inflammatory effects of PPE and provide a functional basis for the clinical application of PPE in inflammatory diseases."
+  ],
+  "affiliation": [
+    "Department of Biomedical Science and Engineering, Konkuk Institute of Technology, Konkuk University, 120 Neungdong-ro, Gwangjin-gu, Seoul, 05029, South Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "HI15C2842"
+          ],
+          "agency": [
+            "Ministry of Health and Welfare"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "HI15C1685"
+          ],
+          "agency": [
+            "Ministry of Health and Welfare"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Spleen"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Line"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Placenta"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Skin"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice, Inbred BALB C"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Swine"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dermatitis, Contact"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Disease Models, Animal"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dinitrochlorobenzene"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TO"
+                  ],
+                  "qualifierName": [
+                    "toxicity"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anti-Inflammatory Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biological Products"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antioxidants"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pregnancy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Hyaluronic acid",
+        "ROS",
+        "Anti-inflammatory effects",
+        "Contact dermatitis",
+        "Dncb",
+        "Placenta Extract"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Anti-Inflammatory Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Antioxidants"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Biological Products"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Dinitrochlorobenzene"
+          ],
+          "registryNumber": [
+            "GE3IBT7BMN"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6291973?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6291973"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12906-018-2396-1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-01-15"
+  ],
+  "dateOfCreation": [
+    "2018-12-14"
+  ],
+  "firstIndexDate": [
+    "2018-12-21"
+  ],
+  "dateOfRevision": [
+    "2019-01-15"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-12"
+  ],
+  "firstPublicationDate": [
+    "2018-12-12"
+  ]
+}

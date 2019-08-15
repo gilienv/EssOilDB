@@ -1,0 +1,342 @@
+{
+  "id": [
+    "28492036"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28492036"
+  ],
+  "pmcid": [
+    "PMC5419061"
+  ],
+  "doi": [
+    "10.1016/j.ijwd.2017.02.006"
+  ],
+  "title": [
+    "Updates in the understanding and treatments of skin & hair disorders in women of color."
+  ],
+  "authorString": [
+    "Lawson CN, Hollinger J, Sethi S, Rodney I, Sarkar R, Dlova N, Callender VD."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lawson CN"
+          ],
+          "firstName": [
+            "Christina N"
+          ],
+          "lastName": [
+            "Lawson"
+          ],
+          "initials": [
+            "CN"
+          ],
+          "affiliation": [
+            "Callender Dermatology & Cosmetic Center, Glenn Dale, Maryland."
+          ]
+        },
+        {
+          "fullName": [
+            "Hollinger J"
+          ],
+          "firstName": [
+            "Jasmine"
+          ],
+          "lastName": [
+            "Hollinger"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Dermatology, Howard University College of Medicine, Washington, District of Columbia."
+          ]
+        },
+        {
+          "fullName": [
+            "Sethi S"
+          ],
+          "firstName": [
+            "Sumit"
+          ],
+          "lastName": [
+            "Sethi"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Dermatology, Maulana Azad Medical College and Associated Hospitals, New Delhi, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Rodney I"
+          ],
+          "firstName": [
+            "Ife"
+          ],
+          "lastName": [
+            "Rodney"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Department of Dermatology, Howard University College of Medicine, Washington, District of Columbia."
+          ]
+        },
+        {
+          "fullName": [
+            "Sarkar R"
+          ],
+          "firstName": [
+            "Rashmi"
+          ],
+          "lastName": [
+            "Sarkar"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Dermatology, Maulana Azad Medical College and Associated Hospitals, New Delhi, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Dlova N"
+          ],
+          "firstName": [
+            "Ncoza"
+          ],
+          "lastName": [
+            "Dlova"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Dermatology, Nelson R Mandela School of Medicine, University of KwaZulu-Natal, Durban, South Africa."
+          ]
+        },
+        {
+          "fullName": [
+            "Callender VD"
+          ],
+          "firstName": [
+            "Valerie D"
+          ],
+          "lastName": [
+            "Callender"
+          ],
+          "initials": [
+            "VD"
+          ],
+          "affiliation": [
+            "Callender Dermatology & Cosmetic Center, Glenn Dale, Maryland."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1 Suppl"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2556518"
+      ],
+      "dateOfPublication": [
+        "2017 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of women's dermatology"
+          ],
+          "ISOAbbreviation": [
+            "Int J Womens Dermatol"
+          ],
+          "medlineAbbreviation": [
+            "Int J Womens Dermatol"
+          ],
+          "NLMid": [
+            "101654170"
+          ],
+          "ISSN": [
+            "2352-6475"
+          ],
+          "ESSN": [
+            "2352-6475"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "S21-S37"
+  ],
+  "abstractText": [
+    "Skin of color comprises a diverse and expanding population of individuals. In particular, women of color represent an increasing subset of patients who frequently seek dermatologic care. Acne, melasma, and alopecia are among the most common skin disorders seen in this patient population. Understanding the differences in the basic science of skin and hair is imperative in addressing their unique needs. Despite the paucity of conclusive data on racial and ethnic differences in skin of color, certain biologic differences do exist, which affect the disease presentations of several cutaneous disorders in pigmented skin. While the overall pathogenesis and treatments for acne in women of color are similar to Caucasian men and women, individuals with darker skin types present more frequently with dyschromias from acne, which can be difficult to manage. Melasma is an acquired pigmentary disorder seen commonly in women with darker skin types and is strongly associated with ultraviolet (UV) radiation, genetic factors, and hormonal influences. Lastly, certain hair care practices and hairstyles are unique among women of African descent, which may contribute to specific types of hair loss seen in this population, such as traction alopecia, trichorrhexis nodosa and central centrifugal cicatricial alopecia (CCCA)."
+  ],
+  "affiliation": [
+    "Callender Dermatology & Cosmetic Center, Glenn Dale, Maryland."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5419061?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5419061"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.ijwd.2017.02.006"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-05-11"
+  ],
+  "firstIndexDate": [
+    "2017-05-11"
+  ],
+  "dateOfRevision": [
+    "2017-08-16"
+  ],
+  "electronicPublicationDate": [
+    "2017-02-16"
+  ],
+  "firstPublicationDate": [
+    "2017-02-16"
+  ]
+}

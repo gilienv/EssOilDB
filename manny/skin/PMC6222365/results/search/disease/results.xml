@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="disease">
+ <result pre="in traditional medicine to treat several skin diseases, like vitiligo," exact="psoriasis" post="[ 9], and atopic dermatitis [ 10], as well"/>
+ <result pre="treat several skin diseases, like vitiligo, psoriasis [ 9], and" exact="atopic dermatitis" post="[ 10], as well as to accelerate skin wound"/>
+ <result pre="several skin diseases, like vitiligo, psoriasis [ 9], and atopic" exact="dermatitis" post="[ 10], as well as to accelerate skin wound"/>
+ <result pre="treatment for insect bites, bruises, skin infections, flu and colds," exact="acne vulgaris," post="psoriasis, inflammation, dermatitis, an antimicrobial agent, and as an"/>
+ <result pre="Saha A. Chattopadhyay S. Bandyopadhyay S.K. Ellagic acid facilitates indomethacin-induced" exact="gastric ulcer" post="healing via COX-2 up-regulation Acta Biochim. Biophys. Sin. 2012"/>
+ <result pre="acid, an NF-κB inhibitor, ameliorates renal function in experimental diabetic" exact="nephropathy" post="Chem. Biol. Interact. 2014 219 64 75 10.1016/j.cbi.2014.05.011 24877639"/>
+</results>

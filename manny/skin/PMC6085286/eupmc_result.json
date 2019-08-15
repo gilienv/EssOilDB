@@ -1,0 +1,440 @@
+{
+  "id": [
+    "30093649"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30093649"
+  ],
+  "pmcid": [
+    "PMC6085286"
+  ],
+  "doi": [
+    "10.1038/s41598-018-30404-x"
+  ],
+  "title": [
+    "Topical administration of EGF suppresses immune response and protects skin barrier in DNCB-induced atopic dermatitis in NC/Nga mice."
+  ],
+  "authorString": [
+    "Kim YJ, Choi MJ, Bak DH, Lee BC, Ko EJ, Ahn GR, Ahn SW, Kim MJ, Na J, Kim BJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kim YJ"
+          ],
+          "firstName": [
+            "Young-Je"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "YJ"
+          ],
+          "affiliation": [
+            "Department of Dermatology, College of Medicine, Chung-Ang University, Seoul, 06973, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Choi MJ"
+          ],
+          "firstName": [
+            "Mi Ji"
+          ],
+          "lastName": [
+            "Choi"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0118-887X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Dermatology, College of Medicine, Chung-Ang University, Seoul, 06973, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Bak DH"
+          ],
+          "firstName": [
+            "Dong-Ho"
+          ],
+          "lastName": [
+            "Bak"
+          ],
+          "initials": [
+            "DH"
+          ],
+          "affiliation": [
+            "Department of Dermatology, College of Medicine, Chung-Ang University, Seoul, 06973, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee BC"
+          ],
+          "firstName": [
+            "Byung Chul"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "BC"
+          ],
+          "affiliation": [
+            "Department of Dermatology, College of Medicine, Chung-Ang University, Seoul, 06973, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Ko EJ"
+          ],
+          "firstName": [
+            "Eun Jung"
+          ],
+          "lastName": [
+            "Ko"
+          ],
+          "initials": [
+            "EJ"
+          ],
+          "affiliation": [
+            "Myongji Hospital, College of Medicine, Seonam University, Goyang, 10475, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Ahn GR"
+          ],
+          "firstName": [
+            "Ga Ram"
+          ],
+          "lastName": [
+            "Ahn"
+          ],
+          "initials": [
+            "GR"
+          ],
+          "affiliation": [
+            "Department of Dermatology, College of Medicine, Chung-Ang University, Seoul, 06973, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Ahn SW"
+          ],
+          "firstName": [
+            "Seung Won"
+          ],
+          "lastName": [
+            "Ahn"
+          ],
+          "initials": [
+            "SW"
+          ],
+          "affiliation": [
+            "Oracle Dermatologic Clinic, Seoul, 06103, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim MJ"
+          ],
+          "firstName": [
+            "Moo Joong"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "affiliation": [
+            "Fort Hays State University, Hays, Kansas, 67601, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Na J"
+          ],
+          "firstName": [
+            "Jungtae"
+          ],
+          "lastName": [
+            "Na"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1296-4010",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Dermatology, College of Medicine, Chung-Ang University, Seoul, 06973, Korea. pugokjebi@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim BJ"
+          ],
+          "firstName": [
+            "Beom Joon"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "BJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2320-7621",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Dermatology, College of Medicine, Chung-Ang University, Seoul, 06973, Korea. beomjoon74@gmail.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0118-887X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1296-4010",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2320-7621",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2711288"
+      ],
+      "dateOfPublication": [
+        "2018 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "11895"
+  ],
+  "abstractText": [
+    "Atopic dermatitis (AD) is a common inflammatory skin disease characterized by a complex, heterogeneous pathogenesis including skin barrier dysfunction, immunology, and pruritus. Although epidermal growth factor (EGF) is essential for epithelial homeostasis and wound healing, the effect of EGF on AD remains to be explored. To develop a new therapy for AD, the anti-AD potential of EGF was investigated by inducing AD-like skin lesions in NC/Nga mice using 2,4-dinitrochlorobenzene (DNCB). EGF was administrated to NC/Nga mice to evaluate its therapeutic effect on DNCB-induced AD. EGF treatment improved dermatitis score, ear thickness, epidermal hyperplasia, serum total immunoglobulin E level, and transepidermal water loss in NC/Nga mice with DNCB-induced AD. In addition, levels of skin barrier-related proteins such as filaggrin, involucrin, loricrin, occludin, and zonula occludens-1 (ZO-1) were increased by EGF treatment. These beneficial effects of EGF on AD may be mediated by EGF regulation of Th1/Th2-mediated cytokines, mast cell hyperplasia, and protease activated receptor-2 (PAR-2) and thymic stromal lymphopoietin (TSLP), which are triggers of AD. Taken together, our findings suggest that EGF may potentially protect against AD lesional skin via regulation of skin barrier function and immune response."
+  ],
+  "affiliation": [
+    "Department of Dermatology, College of Medicine, Chung-Ang University, Seoul, 06973, Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6085286?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6085286"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-018-30404-x"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-08-11"
+  ],
+  "firstIndexDate": [
+    "2018-08-10"
+  ],
+  "dateOfRevision": [
+    "2018-08-14"
+  ],
+  "electronicPublicationDate": [
+    "2018-08-09"
+  ],
+  "firstPublicationDate": [
+    "2018-08-09"
+  ]
+}

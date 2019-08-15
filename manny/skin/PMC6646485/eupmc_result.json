@@ -1,0 +1,320 @@
+{
+  "id": [
+    "31214881"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31214881"
+  ],
+  "pmcid": [
+    "PMC6646485"
+  ],
+  "doi": [
+    "10.1007/s13659-019-0215-0"
+  ],
+  "title": [
+    "Eminence of Microbial Products in Cosmetic Industry."
+  ],
+  "authorString": [
+    "Gupta PL, Rajput M, Oza T, Trivedi U, Sanghvi G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gupta PL"
+          ],
+          "firstName": [
+            "Prabhuddha L"
+          ],
+          "lastName": [
+            "Gupta"
+          ],
+          "initials": [
+            "PL"
+          ],
+          "affiliation": [
+            "Department of Microbiology, Marwadi University, Rajkot, 360001, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Rajput M"
+          ],
+          "firstName": [
+            "Mahendrapalsingh"
+          ],
+          "lastName": [
+            "Rajput"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Microbiology, Marwadi University, Rajkot, 360001, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Oza T"
+          ],
+          "firstName": [
+            "Tejas"
+          ],
+          "lastName": [
+            "Oza"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Microbiology, Marwadi University, Rajkot, 360001, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Trivedi U"
+          ],
+          "firstName": [
+            "Ujwalkumar"
+          ],
+          "lastName": [
+            "Trivedi"
+          ],
+          "initials": [
+            "U"
+          ],
+          "affiliation": [
+            "Department of Microbiology, Marwadi University, Rajkot, 360001, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Sanghvi G"
+          ],
+          "firstName": [
+            "Gaurav"
+          ],
+          "lastName": [
+            "Sanghvi"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Microbiology, Marwadi University, Rajkot, 360001, India. gaurav.sanghvi@marwadieducation.edu.in."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2841159"
+      ],
+      "dateOfPublication": [
+        "2019 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Natural products and bioprospecting"
+          ],
+          "ISOAbbreviation": [
+            "Nat Prod Bioprospect"
+          ],
+          "medlineAbbreviation": [
+            "Nat Prod Bioprospect"
+          ],
+          "NLMid": [
+            "101577734"
+          ],
+          "ISSN": [
+            "2192-2195"
+          ],
+          "ESSN": [
+            "2192-2209"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "267-278"
+  ],
+  "abstractText": [
+    "Cosmetology is the developing branch of science, having direct impact on the society. The cosmetic sector is interested in finding novel biological alternatives which can enhance the product attributes as well as it can substitute chemical compounds. Many of the compounds are having biological origin and are acquire from bacteria, fungi, and algae. A range of biological compounds, like bio-surfactant, vitamins, antioxidants, pigments, enzymes, peptides have promising features and beneficial properties. Moreover, these products can be produced commercially with ease. The review will encompass the importance and use of microbial compounds for new cosmetic formulations as well as products associated with it."
+  ],
+  "affiliation": [
+    "Department of Microbiology, Marwadi University, Rajkot, 360001, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Microbiology",
+        "Biosurfactants",
+        "Cyclodextrin",
+        "emulsions",
+        "Cosmetics",
+        "Formulations"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6646485?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6646485"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s13659-019-0215-0"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-20"
+  ],
+  "firstIndexDate": [
+    "2019-06-24"
+  ],
+  "dateOfRevision": [
+    "2019-07-30"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-18"
+  ],
+  "firstPublicationDate": [
+    "2019-06-18"
+  ]
+}

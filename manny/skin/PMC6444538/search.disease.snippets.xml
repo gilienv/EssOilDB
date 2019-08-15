@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6444538/results/search/disease/results.xml">
+  <result pre="addition, SDA has been characterized as a potent inhibitor of" exact="cancer" post="cell growth and an effective molecule against skin inflammation"/>
+  <result pre="cell growth and an effective molecule against skin inflammation and" exact="atopic dermatitis" post="that also prevents hypertriglyceridemia [ 5]. As humans can"/>
+  <result pre="growth and an effective molecule against skin inflammation and atopic" exact="dermatitis" post="that also prevents hypertriglyceridemia [ 5]. As humans can"/>
+  <result pre="improves skin parameters in subjects with dry skin and mild" exact="atopic dermatitis" post="J Oleo Sci 2011 60 597 607 10.5650/jos.60.597 22123240"/>
+  <result pre="skin parameters in subjects with dry skin and mild atopic" exact="dermatitis" post="J Oleo Sci 2011 60 597 607 10.5650/jos.60.597 22123240"/>
+ </snippets>
+</snippetsTree>

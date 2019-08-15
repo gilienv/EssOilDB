@@ -1,0 +1,287 @@
+{
+  "id": [
+    "31226822"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31226822"
+  ],
+  "pmcid": [
+    "PMC6628301"
+  ],
+  "doi": [
+    "10.3390/cells8060619"
+  ],
+  "title": [
+    "Therapeutic Potential of Hematopoietic Prostaglandin D2 Synthase in Allergic Inflammation."
+  ],
+  "authorString": [
+    "Rittchen S, Heinemann A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rittchen S"
+          ],
+          "firstName": [
+            "Sonja"
+          ],
+          "lastName": [
+            "Rittchen"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Otto Loewi Research Center for Vascular Biology, Immunology and Inflammation, Division of Pharmacology, Medical University of Graz, Graz 8010, Austria. sonja.rittchen@medunigraz.at."
+          ]
+        },
+        {
+          "fullName": [
+            "Heinemann A"
+          ],
+          "firstName": [
+            "Akos"
+          ],
+          "lastName": [
+            "Heinemann"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8554-2372",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Otto Loewi Research Center for Vascular Biology, Immunology and Inflammation, Division of Pharmacology, Medical University of Graz, Graz 8010, Austria. akos.heinemann@medunigraz.at."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8554-2372",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2823195"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cells"
+          ],
+          "ISOAbbreviation": [
+            "Cells"
+          ],
+          "medlineAbbreviation": [
+            "Cells"
+          ],
+          "NLMid": [
+            "101600052"
+          ],
+          "ISSN": [
+            "2073-4409"
+          ],
+          "ESSN": [
+            "2073-4409"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Worldwide, there is a rise in the prevalence of allergic diseases, and novel efficient therapeutic approaches are still needed to alleviate disease burden. Prostaglandin D2 (PGD2) has emerged as a central inflammatory lipid mediator associated with increased migration, activation and survival of leukocytes in various allergy-associated disorders. In the periphery, the hematopoietic PGD synthase (hPGDS) acts downstream of the arachidonic acid/COX pathway catalysing the isomerisation of PGH2 to PGD2, which makes it an interesting target to treat allergic inflammation. Although much effort has been put into developing efficient hPGDS inhibitors, no compound has made it to the market yet, which indicates that more light needs to be shed on potential PGD2 sources and targets to determine which particular condition and patient will benefit most and thereby improve therapeutic efficacy. In this review, we want to revisit current knowledge about hPGDS function, expression in allergy-associated cell types and their contribution to PGD2 levels as well as beneficial effects of hPGDS inhibition in allergic asthma, rhinitis, atopic dermatitis, food allergy, gastrointestinal allergic disorders and anaphylaxis."
+  ],
+  "affiliation": [
+    "Otto Loewi Research Center for Vascular Biology, Immunology and Inflammation, Division of Pharmacology, Medical University of Graz, Graz 8010, Austria. sonja.rittchen@medunigraz.at."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Eosinophilic inflammation",
+        "Allergic Inflammation",
+        "Pgd2",
+        "Hpgds",
+        "Dp Receptors",
+        "Hpgds Inhibitor"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6628301?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6628301"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/cells8060619"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-23"
+  ],
+  "firstIndexDate": [
+    "2019-06-24"
+  ],
+  "dateOfRevision": [
+    "2019-07-25"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-20"
+  ],
+  "firstPublicationDate": [
+    "2019-06-20"
+  ]
+}

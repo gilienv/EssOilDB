@@ -1,0 +1,287 @@
+{
+  "id": [
+    "24600196"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24600196"
+  ],
+  "pmcid": [
+    "PMC3931201"
+  ],
+  "doi": [
+    "10.4103/0973-7847.125531"
+  ],
+  "title": [
+    "Plants used to treat skin diseases."
+  ],
+  "authorString": [
+    "Tabassum N, Hamdani M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tabassum N"
+          ],
+          "firstName": [
+            "Nahida"
+          ],
+          "lastName": [
+            "Tabassum"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0530-0323",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Pharmaceutical Sciences, Pharmacology Division, University of Kashmir, Hazaratbal, Srinagar, Jammu and Kashmir, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Hamdani M"
+          ],
+          "firstName": [
+            "Mariya"
+          ],
+          "lastName": [
+            "Hamdani"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Pharmaceutical Sciences, Pharmacology Division, University of Kashmir, Hazaratbal, Srinagar, Jammu and Kashmir, India."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0530-0323",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "15"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2136724"
+      ],
+      "dateOfPublication": [
+        "2014 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Pharmacognosy reviews"
+          ],
+          "ISOAbbreviation": [
+            "Pharmacogn Rev"
+          ],
+          "medlineAbbreviation": [
+            "Pharmacogn Rev"
+          ],
+          "NLMid": [
+            "101570880"
+          ],
+          "ISSN": [
+            "0973-7847"
+          ],
+          "ESSN": [
+            "0976-2787"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "52-60"
+  ],
+  "abstractText": [
+    "Skin diseases are numerous and a frequently occurring health problem affecting all ages from the neonates to the elderly and cause harm in number of ways. Maintaining healthy skin is important for a healthy body. Many people may develop skin diseases that affect the skin, including cancer, herpes and cellulitis. Some wild plants and their parts are frequently used to treat these diseases. The use of plants is as old as the mankind. Natural treatment is cheap and claimed to be safe. It is also suitable raw material for production of new synthetic agents. A review of some plants for the treatment of skin diseases is provided that summarizes the recent technical advancements that have taken place in this area during the past 17 years."
+  ],
+  "affiliation": [
+    "Department of Pharmaceutical Sciences, Pharmacology Division, University of Kashmir, Hazaratbal, Srinagar, Jammu and Kashmir, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Medicinal plants",
+        "Herbs",
+        "Skin Diseases",
+        "Ethnomedicine"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3931201"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24600196/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/0973-7847.125531"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "16"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-06-24"
+  ],
+  "dateOfCreation": [
+    "2014-03-06"
+  ],
+  "firstIndexDate": [
+    "2014-03-07"
+  ],
+  "dateOfRevision": [
+    "2014-06-24"
+  ],
+  "firstPublicationDate": [
+    "2014-01-01"
+  ]
+}

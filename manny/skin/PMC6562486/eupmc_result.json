@@ -1,0 +1,316 @@
+{
+  "id": [
+    "31027358"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31027358"
+  ],
+  "pmcid": [
+    "PMC6562486"
+  ],
+  "doi": [
+    "10.3390/toxins11050239"
+  ],
+  "title": [
+    "Bee Venom Alleviates Atopic Dermatitis Symptoms through the Upregulation of Decay-Accelerating Factor (DAF/CD55)."
+  ],
+  "authorString": [
+    "Kim Y, Lee YW, Kim H, Chung DK."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kim Y"
+          ],
+          "firstName": [
+            "Yenny"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Graduate School of Biotechnology, Kyung Hee University, Yongin 17104, Korea. 5033743@naver.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee YW"
+          ],
+          "firstName": [
+            "Youn-Woo"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "YW"
+          ],
+          "affiliation": [
+            "Graduate School of Biotechnology, Kyung Hee University, Yongin 17104, Korea. younwoo1093@naver.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim H"
+          ],
+          "firstName": [
+            "Hangeun"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Skin Biotechnology Center, Kyung Hee University, Yongin 17104, Korea. hkim93@khu.ac.kr."
+          ]
+        },
+        {
+          "fullName": [
+            "Chung DK"
+          ],
+          "firstName": [
+            "Dae Kyun"
+          ],
+          "lastName": [
+            "Chung"
+          ],
+          "initials": [
+            "DK"
+          ],
+          "affiliation": [
+            "Graduate School of Biotechnology, Kyung Hee University, Yongin 17104, Korea. dkchung@khu.ac.kr."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2809480"
+      ],
+      "dateOfPublication": [
+        "2019 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Toxins"
+          ],
+          "ISOAbbreviation": [
+            "Toxins (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Toxins (Basel)"
+          ],
+          "NLMid": [
+            "101530765"
+          ],
+          "ISSN": [
+            "2072-6651"
+          ],
+          "ESSN": [
+            "2072-6651"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Bee venom (BV)-a complex mixture of peptides and toxic proteins including phospholipase A2 and melittin-promotes blood clotting. In this study, we investigated the anti-atopic properties of BV and the mechanism associated with its regulation of the complement system. BV treatment upregulated the mRNA and protein levels of CD55 in THP-1 cells. Further experiments revealed that the phosphorylation of ERK was associated with upregulation of CD55. A complement-dependent cytotoxicity assay and a bacteria-killing assay showed that BV inactivated the complement system through the induction of CD55. The serum levels of C3 convertase (C3C) and Membrane attack complex (MAC) increased, while CD55 decreased in mice with AD-like lesions from DNCB treatment. However, the levels were inverted when the AD-like mice were treated with BV using subcutaneous injection, and we observed that the AD symptoms were alleviated. BV is often used to treat AD but its mechanism has not been elucidated. Here, we suggest that BV alleviates AD through the inactivation of the complement system, especially by the induction of CD55."
+  ],
+  "affiliation": [
+    "Graduate School of Biotechnology, Kyung Hee University, Yongin 17104, Korea. 5033743@naver.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "Skin Biotechnology Center of Kyung Hee University"
+          ],
+          "agency": [
+            "The regional innovation center program of the Ministry of Trade, Industry and Energy"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Decay accelerating factor",
+        "Complement system",
+        "bee venom",
+        "Atopic Dermatitis",
+        "Membrane Attack Complex",
+        "Complement Dependent Cytotoxicity"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6562486?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6562486"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/toxins11050239"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-04-28"
+  ],
+  "firstIndexDate": [
+    "2019-04-27"
+  ],
+  "dateOfRevision": [
+    "2019-06-18"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-26"
+  ],
+  "firstPublicationDate": [
+    "2019-04-26"
+  ]
+}

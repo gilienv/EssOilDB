@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6447158/results/word/frequencies/results.xml">
+  <result title="frequency" word=".±." count="113"/>
+  <result title="frequency" word="GSCs" count="85"/>
+  <result title="frequency" word="testes" count="81"/>
+  <result title="frequency" word="number" count="66"/>
+  <result title="frequency" word="hub" count="61"/>
+  <result title="frequency" word="germline" count="59"/>
+  <result title="frequency" word="cells" count="56"/>
+  <result title="frequency" word="YAP/Yki" count="52"/>
+  <result title="frequency" word="cell" count="49"/>
+  <result title="frequency" word="days" count="43"/>
+  <result title="frequency" word="EdU" count="41"/>
+  <result title="frequency" word="GSC" count="39"/>
+  <result title="frequency" word="Drosophila" count="37"/>
+  <result title="frequency" word="stem" count="32"/>
+  <result title="frequency" word="niche" count="30"/>
+  <result title="frequency" word="(.±.," count="28"/>
+  <result title="frequency" word="aging" count="27"/>
+  <result title="frequency" word="data" count="26"/>
+  <result title="frequency" word="Fig" count="24"/>
+  <result title="frequency" word="GFP" count="24"/>
+  <result title="frequency" word="pathway" count="23"/>
+ </snippets>
+</snippetsTree>

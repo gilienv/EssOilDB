@@ -1,0 +1,336 @@
+{
+  "id": [
+    "31284587"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31284587"
+  ],
+  "pmcid": [
+    "PMC6650835"
+  ],
+  "doi": [
+    "10.3390/ma12132176"
+  ],
+  "title": [
+    "Nanomaterials for Wound Healing and Infection Control."
+  ],
+  "authorString": [
+    "Mihai MM, Dima MB, Dima B, Holban AM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mihai MM"
+          ],
+          "firstName": [
+            "Mara Madalina"
+          ],
+          "lastName": [
+            "Mihai"
+          ],
+          "initials": [
+            "MM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1436-0088",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Dermavenereology Department, Emergency University Hospital \"Elias\", 011461 Bucharest, Romania."
+          ]
+        },
+        {
+          "fullName": [
+            "Dima MB"
+          ],
+          "firstName": [
+            "Monica Beatrice"
+          ],
+          "lastName": [
+            "Dima"
+          ],
+          "initials": [
+            "MB"
+          ],
+          "affiliation": [
+            "Dermavenereology Department, Emergency University Hospital \"Elias\", 011461 Bucharest, Romania."
+          ]
+        },
+        {
+          "fullName": [
+            "Dima B"
+          ],
+          "firstName": [
+            "Bogdan"
+          ],
+          "lastName": [
+            "Dima"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Dermavenereology Department, Emergency University Hospital \"Elias\", 011461 Bucharest, Romania."
+          ]
+        },
+        {
+          "fullName": [
+            "Holban AM"
+          ],
+          "firstName": [
+            "Alina Maria"
+          ],
+          "lastName": [
+            "Holban"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "affiliation": [
+            "Department of Microbiology and Immunology, Faculty of Biology, University of Bucharest, 030018 Bucharest, Romania. alina_m_h@yahoo.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1436-0088",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "13"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2834192"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Materials (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Materials (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Materials (Basel)"
+          ],
+          "NLMid": [
+            "101555929"
+          ],
+          "ISSN": [
+            "1996-1944"
+          ],
+          "ESSN": [
+            "1996-1944"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Wound healing has been intensely studied in order to develop an \"ideal\" technique that achieves expeditious recovery and reduces scarring to the minimum, thus ensuring function preservation. The classic approach to wound management is represented by topical treatments, such as antibacterial or colloidal agents, in order to prevent infection and promote a proper wound-healing process. Nanotechnology studies submicroscopic particles (maximum diameter of 100 nm), as well as correlated phenomena. Metal nanoparticles (e.g., silver, gold, zinc) are increasingly being used in dermatology, due to their beneficial effect on accelerating wound healing, as well as treating and preventing bacterial infections. Other benefits include: ease of use, less frequent dressing changes and a constantly moist wound environment. This review highlights recent findings regarding nanoparticle application in wound management."
+  ],
+  "affiliation": [
+    "Dermavenereology Department, Emergency University Hospital \"Elias\", 011461 Bucharest, Romania."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "61/2018"
+          ],
+          "agency": [
+            "Unitatea Executiva pentru Finantarea Invatamantului Superior, a Cercetarii, Dezvoltarii si Inovarii"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Wound healing",
+        "Nanoparticles",
+        "Chronic infection",
+        "Infections Control",
+        "Nano-dressings"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6650835?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6650835"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ma12132176"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-10"
+  ],
+  "firstIndexDate": [
+    "2019-07-10"
+  ],
+  "dateOfRevision": [
+    "2019-08-08"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-06"
+  ],
+  "firstPublicationDate": [
+    "2019-07-06"
+  ]
+}

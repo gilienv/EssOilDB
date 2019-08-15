@@ -1,0 +1,400 @@
+{
+  "id": [
+    "30943201"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30943201"
+  ],
+  "pmcid": [
+    "PMC6447158"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0213327"
+  ],
+  "title": [
+    "YAP/Yorkie in the germline modulates the age-related decline of germline stem cells and niche cells."
+  ],
+  "authorString": [
+    "Francis D, Chanana B, Fernandez B, Gordon B, Mak T, Palacios IM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Francis D"
+          ],
+          "firstName": [
+            "Deepthy"
+          ],
+          "lastName": [
+            "Francis"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "University of Cambridge, Cambridge, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Chanana B"
+          ],
+          "firstName": [
+            "Bhavna"
+          ],
+          "lastName": [
+            "Chanana"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "University of Cambridge, Cambridge, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Fernandez B"
+          ],
+          "firstName": [
+            "Beatriz"
+          ],
+          "lastName": [
+            "Fernandez"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8612-0251",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Biological and Chemical Sciences, Queen Mary University of London, Mile End Road, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Gordon B"
+          ],
+          "firstName": [
+            "Benjamin"
+          ],
+          "lastName": [
+            "Gordon"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "University of Cambridge, Cambridge, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Mak T"
+          ],
+          "firstName": [
+            "Tiffany"
+          ],
+          "lastName": [
+            "Mak"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6134-4999",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "University of Cambridge, Cambridge, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Palacios IM"
+          ],
+          "firstName": [
+            "Isabel M"
+          ],
+          "lastName": [
+            "Palacios"
+          ],
+          "initials": [
+            "IM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3450-7884",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "University of Cambridge, Cambridge, United Kingdom."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8612-0251",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6134-4999",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3450-7884",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2799801"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e0213327"
+  ],
+  "abstractText": [
+    "The properties and behaviour of stem cells rely heavily on signaling from the local microenvironment. At the apical end of Drosophila testis, self-renewal and differentiation of germline stem cells (GSCs) are tightly controlled by distinct somatic cells that comprise a specialised stem cell niche known as the hub. The hub maintains GSC homeostasis through adhesion and cell signaling. The Salvador/Warts/Hippo (SWH) pathway, which suppresses the transcriptional co-activator YAP/Yki via a kinase cascade, is a known regulator of stem cell proliferation and differentiation. Here, we show that increasing YAP/Yki expression in the germline, as well as reducing Warts levels, blocks the decrease of GSC numbers observed in aging flies, with only a small increase on their proliferation. An increased expression of YAP/Yki in the germline or a reduction in Warts levels also stymies an age-related reduction in hub cell number, suggesting a bilateral relationship between GSCs and the hub. Conversely, RNAi-based knockdown of YAP/Yki in the germline leads to a significant drop in hub cell number, further suggesting the existence of such a SC-to-niche relationship. All together, our data implicate the SWH pathway in Drosophila GSC maintenance and raise questions about its role in stem cell homeostasis in aging organisms."
+  ],
+  "affiliation": [
+    "University of Cambridge, Cambridge, United Kingdom."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "BB/L001748/1"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "087899"
+          ],
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6447158?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6447158"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0213327"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-04-04"
+  ],
+  "firstIndexDate": [
+    "2019-04-04"
+  ],
+  "dateOfRevision": [
+    "2019-04-18"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-03"
+  ],
+  "firstPublicationDate": [
+    "2019-04-03"
+  ]
+}

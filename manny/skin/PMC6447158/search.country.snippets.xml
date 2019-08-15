@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6447158/results/search/country/results.xml">
+  <result pre="&amp;amp; editing 1 2 * [1], University of Cambridge, Cambridge," exact="United Kingdom" post="[2], School of Biological and Chemical Sciences, Queen Mary"/>
+  <result pre="Sciences, Queen Mary University of London, Mile End Road, London," exact="United Kingdom" post="Singh Shree Ram Editor [], National Cancer Institute, UNITED"/>
+  <result pre="exist. ¤a Current address: IBD BioResource, Cambridge University Hospitals, Cambridge," exact="United Kingdom" post="¤b Current address: ClearView Healthcare Partners, NY, NY, United"/>
+  <result pre="United Kingdom ¤b Current address: ClearView Healthcare Partners, NY, NY," exact="United States" post="of America. ¤c Current address: Medical Scientist Training Program,"/>
+  <result pre="Scientist Training Program, University of Illinois at Chicago, Chicago, IL," exact="United States" post="of America ¤d Current address: The Francis Crick Institute,"/>
+  <result pre="of America ¤d Current address: The Francis Crick Institute, London," exact="United Kingdom" post="* E-mail: i.palacios@qmul.ac.uk epub: 2019-4-4 collection: 2019 14 4"/>
+ </snippets>
+</snippetsTree>

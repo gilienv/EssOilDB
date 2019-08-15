@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6251459/results/species/binomial/results.xml">
+  <result pre="fferent emulsions, water-in-oil (w/o) or oil-in-water (o/w), and a shampoo containing a lipophilic " exact="Echinacea purpurea" xpath="/html[1]/body[1]/div[4]/div[5]/p[1]" match="Echinacea purpurea" post=" root extract (Ec.-extract) were assessed in adults suffering from pruritus. " name="binomial"/>
+  <result pre="As recently shown in a 3-month clinical trial, a w/o emulsion containing a proprietary " exact="Echinacea purpurea" xpath="/html[1]/body[1]/div[4]/div[5]/p[1]" match="Echinacea purpurea" post=" (Ec) root extract (Ec.-extract) significantly reduced the local SCORAD and pruritus in patients wi" name="binomial"/>
+  <result pre="Indeed, after application of the w/o emulsion containing " exact="E. purpurea" xpath="/html[1]/body[1]/div[4]/div[5]/p[1]" match="Echinacea purpurea" post=" root extract for 2 weeks, adults reported significant improvements regarding pruritus intensity an" name="binomial"/>
+  <result pre="ermo-Capillaire; Beiersdorf AG, Hamburg, Germany) containing multiple active ingredients including " exact="Glycyrrhiza inflata" xpath="/html[1]/body[1]/div[4]/div[5]/p[1]" match="Glycyrrhiza inflata" post=" root extract (with licochalcone A as active ingredient). Treatment was performed only in a hair st" name="binomial"/>
+  <result pre="ding of erythema and skin dryness after 2 weeks of regular use of water-in-oil emulsion containing " exact="Echinacea purpurea" match="Echinacea purpurea" post=" extract " name="binomial"/>
+ </snippets>
+</snippetsTree>

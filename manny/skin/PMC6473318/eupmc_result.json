@@ -1,0 +1,314 @@
+{
+  "id": [
+    "30791668"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30791668"
+  ],
+  "pmcid": [
+    "PMC6473318"
+  ],
+  "doi": [
+    "10.3390/healthcare7010033"
+  ],
+  "title": [
+    "Modifying a Paediatric Rational Prescribing Tool (POPI) for Use in the UK."
+  ],
+  "authorString": [
+    "Corrick F, Choonara I, Conroy S, Sammons H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Corrick F"
+          ],
+          "firstName": [
+            "Fenella"
+          ],
+          "lastName": [
+            "Corrick"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Division of Medical Sciences & Graduate Entry Medicine, University of Nottingham, Royal Derby Hospital Centre, Uttoxeter Road, Derby, DE22 3DT, UK. fenella.corrick@nottingham.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Choonara I"
+          ],
+          "firstName": [
+            "Imti"
+          ],
+          "lastName": [
+            "Choonara"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Division of Medical Sciences & Graduate Entry Medicine, University of Nottingham, Royal Derby Hospital Centre, Uttoxeter Road, Derby, DE22 3DT, UK. Imti.Choonara@nottingham.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Conroy S"
+          ],
+          "firstName": [
+            "Sharon"
+          ],
+          "lastName": [
+            "Conroy"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Division of Medical Sciences & Graduate Entry Medicine, University of Nottingham, Royal Derby Hospital Centre, Uttoxeter Road, Derby, DE22 3DT, UK. Sharon.Conroy@nottingham.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Sammons H"
+          ],
+          "firstName": [
+            "Helen"
+          ],
+          "lastName": [
+            "Sammons"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Division of Medical Sciences & Graduate Entry Medicine, University of Nottingham, Royal Derby Hospital Centre, Uttoxeter Road, Derby, DE22 3DT, UK. helen.sammons@nhs.net."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2778453"
+      ],
+      "dateOfPublication": [
+        "2019 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Healthcare (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Healthcare (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Healthcare (Basel)"
+          ],
+          "NLMid": [
+            "101666525"
+          ],
+          "ISSN": [
+            "2227-9032"
+          ],
+          "ESSN": [
+            "2227-9032"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Rational prescribing tools can be used by individual prescribers, organisations, and researchers to evaluate the quality of prescribing for research and quality improvement purposes. A literature search showed that there is only one tool for evaluating rational prescribing for paediatric patients in hospital and outpatient settings. The Pediatrics: Omission of Prescriptions and Inappropriate Prescriptions (POPI) tool was developed in France and comprises 105 criteria. The aim of this study was to modify this tool to facilitate its use in paediatric practice in the United Kingdom (UK). POPI criteria were compared to relevant UK clinical guidelines from the National Institute for Health and Care Excellence, the Scottish Intercollegiate Guideline Network and the British National Formulary for Children. Where guidelines differed, criteria were modified to reflect UK guidance. If there were no relevant guidelines or directly contradictory guidelines, criteria were removed. Overall, no change was made to 49 criteria. There were 29 modified to concord with UK guidelines. Four criteria were reduced to two criteria due to being linked in single guidelines. Twenty-three criteria were omitted, due to the absence of relevant UK guidance or directly conflicting UK practice, including one entire clinical category (mosquitos). One category title was amended to parallel UK terminology. The modified POPI (UK) tool comprises of eighty criteria and is the first rational prescribing tool for the evaluation of prescribing for children in hospital and outpatient settings in the UK."
+  ],
+  "affiliation": [
+    "Division of Medical Sciences & Graduate Entry Medicine, University of Nottingham, Royal Derby Hospital Centre, Uttoxeter Road, Derby, DE22 3DT, UK. fenella.corrick@nottingham.ac.uk."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "N/A"
+          ],
+          "agency": [
+            "Derbyshire Children's Research Fund"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Children",
+        "Paediatric",
+        "Rational Prescribing",
+        "Use Of Medicines"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6473318?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6473318"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/healthcare7010033"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-02-23"
+  ],
+  "firstIndexDate": [
+    "2019-02-23"
+  ],
+  "dateOfRevision": [
+    "2019-05-03"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-20"
+  ],
+  "firstPublicationDate": [
+    "2019-02-20"
+  ]
+}

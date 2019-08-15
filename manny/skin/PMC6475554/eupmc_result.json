@@ -1,0 +1,528 @@
+{
+  "id": [
+    "31080832"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31080832"
+  ],
+  "pmcid": [
+    "PMC6475554"
+  ],
+  "doi": [
+    "10.1155/2019/8748253"
+  ],
+  "title": [
+    "Beneficial Role of Phytochemicals on Oxidative Stress and Age-Related Diseases."
+  ],
+  "authorString": [
+    "Forni C, Facchiano F, Bartoli M, Pieretti S, Facchiano A, D'Arcangelo D, Norelli S, Valle G, Nisini R, Beninati S, Tabolacci C, Jadeja RN."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Forni C"
+          ],
+          "firstName": [
+            "Cinzia"
+          ],
+          "lastName": [
+            "Forni"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Biology, University of Rome \"Tor Vergata\", Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Facchiano F"
+          ],
+          "firstName": [
+            "Francesco"
+          ],
+          "lastName": [
+            "Facchiano"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4313-0617",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Oncology and Molecular Medicine, Istituto Superiore di Sanità, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Bartoli M"
+          ],
+          "firstName": [
+            "Manuela"
+          ],
+          "lastName": [
+            "Bartoli"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Ophthalmology, Medical College of Georgia at Augusta University, Augusta, GA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Pieretti S"
+          ],
+          "firstName": [
+            "Stefano"
+          ],
+          "lastName": [
+            "Pieretti"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "National Center for Drug Research and Evaluation, Istituto Superiore di Sanità, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Facchiano A"
+          ],
+          "firstName": [
+            "Antonio"
+          ],
+          "lastName": [
+            "Facchiano"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4243-2392",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratory of Molecular Oncology, Istituto Dermopatico dell'Immacolata, IDI-IRCCS, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "D'Arcangelo D"
+          ],
+          "firstName": [
+            "Daniela"
+          ],
+          "lastName": [
+            "D'Arcangelo"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7862-3289",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratory of Molecular Oncology, Istituto Dermopatico dell'Immacolata, IDI-IRCCS, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Norelli S"
+          ],
+          "firstName": [
+            "Sandro"
+          ],
+          "lastName": [
+            "Norelli"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Infectious Diseases, Istituto Superiore di Sanità, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Valle G"
+          ],
+          "firstName": [
+            "Giorgia"
+          ],
+          "lastName": [
+            "Valle"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Biology, University of Rome \"Tor Vergata\", Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Nisini R"
+          ],
+          "firstName": [
+            "Roberto"
+          ],
+          "lastName": [
+            "Nisini"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1077-423X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Infectious Diseases, Istituto Superiore di Sanità, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Beninati S"
+          ],
+          "firstName": [
+            "Simone"
+          ],
+          "lastName": [
+            "Beninati"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2704-0745",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biology, University of Rome \"Tor Vergata\", Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Tabolacci C"
+          ],
+          "firstName": [
+            "Claudio"
+          ],
+          "lastName": [
+            "Tabolacci"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5001-285X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Medicine, University Campus Bio-Medico, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Jadeja RN"
+          ],
+          "firstName": [
+            "Ravirajsinh N"
+          ],
+          "lastName": [
+            "Jadeja"
+          ],
+          "initials": [
+            "RN"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1712-454X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biochemistry and Molecular Biology, Medical College of Georgia at Augusta University, Augusta, GA, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1712-454X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7862-3289",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4313-0617",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4243-2392",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1077-423X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2704-0745",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5001-285X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2019"
+      ],
+      "journalIssueId": [
+        "2777678"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BioMed research international"
+          ],
+          "ISOAbbreviation": [
+            "Biomed Res Int"
+          ],
+          "medlineAbbreviation": [
+            "Biomed Res Int"
+          ],
+          "NLMid": [
+            "101600173"
+          ],
+          "ISSN": [
+            "2314-6133"
+          ],
+          "ESSN": [
+            "2314-6141"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "8748253"
+  ],
+  "abstractText": [
+    "Aging is related to a number of functional and morphological changes leading to progressive decline of the biological functions of an organism. Reactive Oxygen Species (ROS), released by several endogenous and exogenous processes, may cause important oxidative damage to DNA, proteins, and lipids, leading to important cellular dysfunctions. The imbalance between ROS production and antioxidant defenses brings to oxidative stress conditions and, related to accumulation of ROS, aging-associated diseases. The purpose of this review is to provide an overview of the most relevant data reported in literature on the natural compounds, mainly phytochemicals, with antioxidant activity and their potential protective effects on age-related diseases such as metabolic syndrome, diabetes, cardiovascular disease, cancer, neurodegenerative disease, and chronic inflammation, and possibly lower side effects, when compared to other drugs."
+  ],
+  "affiliation": [
+    "Department of Biology, University of Rome \"Tor Vergata\", Rome, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6475554?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6475554"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2019/8748253"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-05-14"
+  ],
+  "firstIndexDate": [
+    "2019-05-14"
+  ],
+  "dateOfRevision": [
+    "2019-05-15"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-07"
+  ],
+  "firstPublicationDate": [
+    "2019-04-07"
+  ]
+}

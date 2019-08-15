@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6563011/results/word/frequencies/results.xml">
+  <result title="frequency" word="PKCα" count="131"/>
+  <result title="frequency" word="cells" count="72"/>
+  <result title="frequency" word="CRC" count="59"/>
+  <result title="frequency" word="cell" count="58"/>
+  <result title="frequency" word="Figure" count="48"/>
+  <result title="frequency" word="intestinal" count="47"/>
+  <result title="frequency" word="activity" count="44"/>
+  <result title="frequency" word="PMA" count="39"/>
+  <result title="frequency" word="cancer" count="34"/>
+  <result title="frequency" word="β-catenin" count="33"/>
+  <result title="frequency" word="DLD--PKCα" count="31"/>
+  <result title="frequency" word="kinase" count="31"/>
+  <result title="frequency" word="tumor" count="31"/>
+  <result title="frequency" word="Wnt/β-catenin" count="29"/>
+  <result title="frequency" word="expression" count="26"/>
+  <result title="frequency" word="protein" count="25"/>
+  <result title="frequency" word="Cell" count="24"/>
+  <result title="frequency" word="Tg/Tg" count="24"/>
+  <result title="frequency" word="doxycycline" count="24"/>
+  <result title="frequency" word="epithelium" count="24"/>
+  <result title="frequency" word="PKC" count="22"/>
+  <result title="frequency" word="growth" count="22"/>
+  <result title="frequency" word="mice" count="21"/>
+  <result title="frequency" word="signaling" count="21"/>
+ </snippets>
+</snippetsTree>

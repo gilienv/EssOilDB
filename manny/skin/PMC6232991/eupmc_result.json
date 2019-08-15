@@ -1,0 +1,247 @@
+{
+  "id": [
+    "30505775"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30505775"
+  ],
+  "pmcid": [
+    "PMC6232991"
+  ],
+  "doi": [
+    "10.4103/idoj.IDOJ_280_18"
+  ],
+  "title": [
+    "A Compendium of Intralesional Therapies in Nail Disorders."
+  ],
+  "authorString": [
+    "Grover C, Bansal S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Grover C"
+          ],
+          "firstName": [
+            "Chander"
+          ],
+          "lastName": [
+            "Grover"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Dermatology and STD, UCMS and GTB Hospital, New Delhi, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Bansal S"
+          ],
+          "firstName": [
+            "Shikha"
+          ],
+          "lastName": [
+            "Bansal"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Dermatology and STD, VMMC and Safdarjung Hospital, New Delhi, India."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2755416"
+      ],
+      "dateOfPublication": [
+        "2018 Nov-Dec"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Indian dermatology online journal"
+          ],
+          "ISOAbbreviation": [
+            "Indian Dermatol Online J"
+          ],
+          "medlineAbbreviation": [
+            "Indian Dermatol Online J"
+          ],
+          "NLMid": [
+            "101586880"
+          ],
+          "ISSN": [
+            "2229-5178"
+          ],
+          "ESSN": [
+            "2249-5673"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "373-382"
+  ],
+  "abstractText": [
+    "Nail unit is a complex skin appendage offering natural barrier to drug penetration by virtue of its unique anatomy. This is the reason why topical as well as oral therapies can be largely ineffective when dealing with nail diseases. Intralesional (injectable therapies) offer a practical solution in this scenario. This review aims to summarise the role of different injectable drugs in various nail unit disorders. Various types of intralesional therapies in the nail unit, their techniques of administration, appropriate drugs to be used and optimum treatment protocols are summarised."
+  ],
+  "affiliation": [
+    "Department of Dermatology and STD, UCMS and GTB Hospital, New Delhi, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Bleomycin",
+        "Methotrexate",
+        "Triamcinolone acetonide",
+        "Insulin Syringe"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6232991"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/idoj.IDOJ_280_18"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-12-04"
+  ],
+  "firstIndexDate": [
+    "2018-12-05"
+  ],
+  "dateOfRevision": [
+    "2018-12-17"
+  ],
+  "firstPublicationDate": [
+    "2018-11-01"
+  ]
+}

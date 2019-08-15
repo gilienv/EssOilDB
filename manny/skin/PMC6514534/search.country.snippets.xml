@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6514534/results/search/country/results.xml">
+  <result pre="Chimiokines et Immunopathologie, INSERM UMR996, University Paris-Sud, Université Paris-Saclay Châtenay-Malabry" exact="France" post="[], 2 Allergy Research Group, Department of Dermatology, Faculty"/>
+  <result pre="Department of Dermatology, Faculty of Medicine, University of Freiburg Freiburg" exact="Germany" post="[], 3 UF Auto-immunité et Hypersensibilités, Hôpital Bichat APHP,"/>
+  <result pre="[], 3 UF Auto-immunité et Hypersensibilités, Hôpital Bichat APHP, Paris" exact="France" post="Edited by: Miriam Wittmann, University of Leeds, United Kingdom"/>
+  <result pre="APHP, Paris France Edited by: Miriam Wittmann, University of Leeds," exact="United Kingdom" post="Reviewed by: Caroline Jefferies, Cedars-Sinai Medical Center, United States;"/>
+  <result pre="Leeds, United Kingdom Reviewed by: Caroline Jefferies, Cedars-Sinai Medical Center," exact="United States;" post="Marie Louise Anna Schuttelaar, University Medical Center Groningen, Netherlands"/>
+  <result pre="United States; Marie Louise Anna Schuttelaar, University Medical Center Groningen," exact="Netherlands" post="*Correspondence: Saadia Kerdine-Römer saadia.kerdine-romer@u-psud.fr This article was submitted to"/>
+ </snippets>
+</snippetsTree>

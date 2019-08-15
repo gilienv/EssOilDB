@@ -1,0 +1,297 @@
+{
+  "id": [
+    "30820131"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30820131"
+  ],
+  "pmcid": [
+    "PMC6385512"
+  ],
+  "doi": [
+    "10.4103/ijt.ijt_16_18"
+  ],
+  "title": [
+    "Trigeminal Trophic Syndrome Simulating Pityriasis Amiantacea."
+  ],
+  "authorString": [
+    "Bandeira LG, Luce MCA, Souza BCE, Kakizaki P, Valente NYS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bandeira LG"
+          ],
+          "firstName": [
+            "Luisa Groba"
+          ],
+          "lastName": [
+            "Bandeira"
+          ],
+          "initials": [
+            "LG"
+          ],
+          "affiliation": [
+            "Department of Dermatology, Hospital of the State Public Servant of São Paulo, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Luce MCA"
+          ],
+          "firstName": [
+            "Maria Cláudia Alves"
+          ],
+          "lastName": [
+            "Luce"
+          ],
+          "initials": [
+            "MCA"
+          ],
+          "affiliation": [
+            "Department of Dermatology, Hospital of the State Public Servant of São Paulo, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Souza BCE"
+          ],
+          "firstName": [
+            "Bruno De Castro E"
+          ],
+          "lastName": [
+            "Souza"
+          ],
+          "initials": [
+            "BCE"
+          ],
+          "affiliation": [
+            "Department of Dermatology, Hospital of the State Public Servant of São Paulo, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Kakizaki P"
+          ],
+          "firstName": [
+            "Priscila"
+          ],
+          "lastName": [
+            "Kakizaki"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Dermatology, Hospital of the State Public Servant of São Paulo, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Valente NYS"
+          ],
+          "firstName": [
+            "Neusa Yuriko Sakai"
+          ],
+          "lastName": [
+            "Valente"
+          ],
+          "initials": [
+            "NYS"
+          ],
+          "affiliation": [
+            "Department of Dermatology, Hospital of the State Public Servant of São Paulo, Brazil."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2787211"
+      ],
+      "dateOfPublication": [
+        "2019 Jan-Feb"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of trichology"
+          ],
+          "ISOAbbreviation": [
+            "Int J Trichology"
+          ],
+          "medlineAbbreviation": [
+            "Int J Trichology"
+          ],
+          "NLMid": [
+            "101534370"
+          ],
+          "ISSN": [
+            "0974-7753"
+          ],
+          "ESSN": [
+            "0974-9241"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "31-33"
+  ],
+  "abstractText": [
+    "We report a case of trigeminal trophic syndrome (TTS) on the scalp of a 69-year-old woman. Initially, the diagnosis of pityriasis amiantacea was considered. The review of pathological antecedents and knowledge of TTS were fundamental for the diagnosis of this illness. We performed a brief review on TTS and differential diagnoses."
+  ],
+  "affiliation": [
+    "Department of Dermatology, Hospital of the State Public Servant of São Paulo, Brazil."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Case Reports",
+        "case-report"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Trigeminal nerve",
+        "Herpes Zoster",
+        "Trigeminal Trophic Syndrome",
+        "Pityriasis Amiantacea"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6385512"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/ijt.ijt_16_18"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-03-02"
+  ],
+  "firstIndexDate": [
+    "2019-03-02"
+  ],
+  "dateOfRevision": [
+    "2019-03-03"
+  ],
+  "firstPublicationDate": [
+    "2019-01-01"
+  ]
+}

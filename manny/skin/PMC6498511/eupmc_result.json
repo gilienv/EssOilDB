@@ -1,0 +1,412 @@
+{
+  "id": [
+    "30741495"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30741495"
+  ],
+  "pmcid": [
+    "PMC6498511"
+  ],
+  "doi": [
+    "10.1002/vms3.149"
+  ],
+  "title": [
+    "NIPAL4 deletion identified in an American Bully with autosomal recessive congenital ichthyosis and response to topical therapy."
+  ],
+  "authorString": [
+    "Briand A, Cochet-Faivre N, Reyes-Gomez E, Jaraud-Darnault A, Tiret L, Chevallier L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Briand A"
+          ],
+          "firstName": [
+            "Amaury"
+          ],
+          "lastName": [
+            "Briand"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3440-1270",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Parasitology, Mycology, Dermatology, EA 7380 UPEC Dynamyc, Ecole nationale vétérinaire d'Alfort, Maisons-Alfort, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Cochet-Faivre N"
+          ],
+          "firstName": [
+            "Noelle"
+          ],
+          "lastName": [
+            "Cochet-Faivre"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1820-0006",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Parasitology, Mycology, Dermatology, EA 7380 UPEC Dynamyc, Ecole nationale vétérinaire d'Alfort, Maisons-Alfort, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Reyes-Gomez E"
+          ],
+          "firstName": [
+            "Edouard"
+          ],
+          "lastName": [
+            "Reyes-Gomez"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0017-6930",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Anatomical Pathology Unit, BioPôle Alfort, Ecole nationale vétérinaire d'Alfort, Maisons-Alfort, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Jaraud-Darnault A"
+          ],
+          "firstName": [
+            "Ambre"
+          ],
+          "lastName": [
+            "Jaraud-Darnault"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "U955 - IMRB, Team 10 - Biology of the neuromuscular system, Inserm, UPEC, Ecole nationale vétérinaire d'Alfort, Maisons-Alfort, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Tiret L"
+          ],
+          "firstName": [
+            "Laurent"
+          ],
+          "lastName": [
+            "Tiret"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8573-8335",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "U955 - IMRB, Team 10 - Biology of the neuromuscular system, Inserm, UPEC, Ecole nationale vétérinaire d'Alfort, Maisons-Alfort, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Chevallier L"
+          ],
+          "firstName": [
+            "Lucie"
+          ],
+          "lastName": [
+            "Chevallier"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8602-1993",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "U955 - IMRB, Team 10 - Biology of the neuromuscular system, Inserm, UPEC, Ecole nationale vétérinaire d'Alfort, Maisons-Alfort, France."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3440-1270",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1820-0006",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0017-6930",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8602-1993",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8573-8335",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2811624"
+      ],
+      "dateOfPublication": [
+        "2019 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Veterinary medicine and science"
+          ],
+          "ISOAbbreviation": [
+            "Vet Med Sci"
+          ],
+          "medlineAbbreviation": [
+            "Vet Med Sci"
+          ],
+          "NLMid": [
+            "101678837"
+          ],
+          "ISSN": [
+            "2053-1095"
+          ],
+          "ESSN": [
+            "2053-1095"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "112-117"
+  ],
+  "abstractText": [
+    "Ichthyoses represent a heterogeneous group of hereditary cornification disorders characterized by generalized scaling of the skin. An autosomal recessive congenital ichthyosis (ARCI) has been described in American Bulldogs and is caused by a variant in the NIPAL4 gene encoding for the ICHTHYIN protein. So far, this variant has not been described in other breeds. A 1.5-year-old female pedigreed American Bully was referred for generalized scaling and bad coat quality since adoption at 8 weeks of age. Clinical examination, cytological and histopathological examination, and DNA testing were performed. Clinical examination revealed a generalized scaling; cytological evaluation using impression with acetate tapes showed a secondary Malassezia dermatitis. Histopathological examination revealed a moderate to marked, diffuse, compact orthokeratotic hyperkeratosis with the formation of large scales. Few Malassezia were observed in the stratum corneum associated with minimal mixed perivascular inflammation and moderate epidermal hyperplasia. DNA testing of the dog revealed that he carries two defective alleles of the NIPAL4 gene previously described in the American Bulldog. We performed a commercially available breed detection test which, although not specifically testing for \"American Bully\" signatures, revealed a high probability of American Bulldog DNA signature within the past three generations. Topical treatment using a combination of keratolytic and keratomodulator shampoo, emollient and moisturizers spray and antimicrobial wipes achieved a marked clinical improvement after only 1 month. Continuous topical treatment was necessary to maintain clinical improvement. To the authors' knowledge, this is the first description of the deleterious NIPAL4 variant in an American Bully as well as the first description of clinical management and follow-up of ARCI in this breed."
+  ],
+  "affiliation": [
+    "Department of Parasitology, Mycology, Dermatology, EA 7380 UPEC Dynamyc, Ecole nationale vétérinaire d'Alfort, Maisons-Alfort, France."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Case Reports",
+        "case-report"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Dog",
+        "Genetic Testing",
+        "Hereditary Disorder",
+        "American Bully",
+        "Canine Dermatology",
+        "Nipal4 Variant"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6498511?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6498511"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/vms3.149"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-02-12"
+  ],
+  "firstIndexDate": [
+    "2019-02-11"
+  ],
+  "dateOfRevision": [
+    "2019-07-25"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-11"
+  ],
+  "firstPublicationDate": [
+    "2019-02-11"
+  ]
+}

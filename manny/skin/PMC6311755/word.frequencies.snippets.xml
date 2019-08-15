@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6311755/results/word/frequencies/results.xml">
+  <result title="frequency" word="EUG" count="93"/>
+  <result title="frequency" word="human" count="32"/>
+  <result title="frequency" word="cells" count="30"/>
+  <result title="frequency" word="skin" count="30"/>
+  <result title="frequency" word="ear" count="27"/>
+  <result title="frequency" word="NCEUG" count="25"/>
+  <result title="frequency" word="Figure" count="23"/>
+  <result title="frequency" word="contact" count="22"/>
+  <result title="frequency" word="control" count="22"/>
+  <result title="frequency" word="cell" count="21"/>
+  <result title="frequency" word="dermatitis" count="21"/>
+  <result title="frequency" word="mice" count="21"/>
+ </snippets>
+</snippetsTree>

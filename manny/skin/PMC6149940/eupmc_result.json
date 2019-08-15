@@ -1,0 +1,417 @@
+{
+  "id": [
+    "30271169"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30271169"
+  ],
+  "pmcid": [
+    "PMC6149940"
+  ],
+  "doi": [
+    "10.2147/OTT.S155438"
+  ],
+  "title": [
+    "Evaluation of supportive and barrier-protective skin care products in the daily prevention and treatment of cutaneous toxicity during systemic chemotherapy."
+  ],
+  "authorString": [
+    "Lüftner D, Dell'Acqua V, Selle F, Khalil A, Leonardi MC, De La Torre Tomás A, Shenouda G, Romero Fernandez J, Orecchia R, Moyal D, Seité S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lüftner D"
+          ],
+          "firstName": [
+            "Diana"
+          ],
+          "lastName": [
+            "Lüftner"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Hematology, Oncology and Tumor Immunology, Charité University Hospital Berlin, Campus Benjamin Franklin, Berlin, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Dell'Acqua V"
+          ],
+          "firstName": [
+            "Veronica"
+          ],
+          "lastName": [
+            "Dell'Acqua"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Department of Radiotherapy, IEO, European Institute of Oncology IRCCS, Milan, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Selle F"
+          ],
+          "firstName": [
+            "Frédéric"
+          ],
+          "lastName": [
+            "Selle"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Tenon Hospital, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Khalil A"
+          ],
+          "firstName": [
+            "Ahmed"
+          ],
+          "lastName": [
+            "Khalil"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Tenon Hospital, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Leonardi MC"
+          ],
+          "firstName": [
+            "Maria Cristina"
+          ],
+          "lastName": [
+            "Leonardi"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "affiliation": [
+            "Department of Radiotherapy, IEO, European Institute of Oncology IRCCS, Milan, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "De La Torre Tomás A"
+          ],
+          "firstName": [
+            "Alejandro"
+          ],
+          "lastName": [
+            "De La Torre Tomás"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Puerta de Hierro Hospital, Madrid, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Shenouda G"
+          ],
+          "firstName": [
+            "George"
+          ],
+          "lastName": [
+            "Shenouda"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "McGill Hospital, Montreal, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Romero Fernandez J"
+          ],
+          "firstName": [
+            "Jesus"
+          ],
+          "lastName": [
+            "Romero Fernandez"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Puerta de Hierro Hospital, Madrid, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Orecchia R"
+          ],
+          "firstName": [
+            "Roberto"
+          ],
+          "lastName": [
+            "Orecchia"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Radiotherapy, IEO, European Institute of Oncology IRCCS, Milan, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Moyal D"
+          ],
+          "firstName": [
+            "Dominique"
+          ],
+          "lastName": [
+            "Moyal"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "La Roche-Posay Dermatological Laboratory, Levallois-Perret, France, sophie.seite@loreal.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Seité S"
+          ],
+          "firstName": [
+            "Sophie"
+          ],
+          "lastName": [
+            "Seité"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "La Roche-Posay Dermatological Laboratory, Levallois-Perret, France, sophie.seite@loreal.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2635324"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "OncoTargets and therapy"
+          ],
+          "ISOAbbreviation": [
+            "Onco Targets Ther"
+          ],
+          "medlineAbbreviation": [
+            "Onco Targets Ther"
+          ],
+          "NLMid": [
+            "101514322"
+          ],
+          "ISSN": [
+            "1178-6930"
+          ],
+          "ESSN": [
+            "1178-6930"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "5865-5872"
+  ],
+  "abstractText": [
+    "Introduction:The purpose of this multicenter, prospective, observational, open-label study was to evaluate the use and tolerability of dermo-cosmetic products in preventing skin reactions associated with cancer treatments. Patients and methods:A 12-product kit was supplied to patients before chemotherapy began and was to be used throughout the treatment phase. Cutaneous adverse events were evaluated at each treatment session. Physicians evaluated skin reactions (edema, erythema, dryness, desquamation, pigmentation disorders, and cracks) and gave their opinion on the skin benefit for patients at the end of the study. Patients also evaluated the product benefit using the Patient Benefit Index (PBI) questionnaire. Results were analyzed by subgroups of casual and regular users, based on number and frequency of products used. Results:A total of 147 patients were enrolled in cancer services in Germany, France, Italy, Spain, and Canada. Mean age was 59 years with 71% being female. Product tolerance on whole body was rated good to excellent for at least 89% of the patients for each product. Aggravated skin reactions during the study were reported more frequently by casual users than regular users (39.5% versus 22%; p=0.029). Similarly, casual users reported more erythema aggravation (p=0.02) and desquamation (p=0.03) than regular users. PBI >1 was reported for 95.5% of patients and regular users had significantly higher scores than casual users (p=0.049). Discussion:Overall, the 12-product kit was very well tolerated, with regular users reporting benefits more frequently than casual users. Results support international recommendations to use appropriate skin care products to minimize the impact of cutaneous reactions associated with chemotherapy."
+  ],
+  "affiliation": [
+    "Department of Hematology, Oncology and Tumor Immunology, Charité University Hospital Berlin, Campus Benjamin Franklin, Berlin, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Palliative care",
+        "Skin Reaction",
+        "Dermatological Toxicity",
+        "Dermocosmetic",
+        "Skin Side Effect"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6149940?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6149940"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2147/OTT.S155438"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-10-02"
+  ],
+  "firstIndexDate": [
+    "2018-10-01"
+  ],
+  "dateOfRevision": [
+    "2018-10-03"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-17"
+  ],
+  "firstPublicationDate": [
+    "2018-09-17"
+  ]
+}

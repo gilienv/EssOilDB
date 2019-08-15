@@ -1,0 +1,286 @@
+{
+  "id": [
+    "31110953"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31110953"
+  ],
+  "pmcid": [
+    "PMC6506429"
+  ],
+  "doi": [
+    "10.5223/pghn.2019.22.3.207"
+  ],
+  "title": [
+    "Functional Gastrointestinal Disorders in Infancy: Impact on the Health of the Infant and Family."
+  ],
+  "authorString": [
+    "Vandenplas Y, Hauser B, Salvatore S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Vandenplas Y"
+          ],
+          "firstName": [
+            "Yvan"
+          ],
+          "lastName": [
+            "Vandenplas"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "KidZ Health Castle, UZ Brussel; Vrije Universiteit Brussel, Brussels, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Hauser B"
+          ],
+          "firstName": [
+            "Bruno"
+          ],
+          "lastName": [
+            "Hauser"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "KidZ Health Castle, UZ Brussel; Vrije Universiteit Brussel, Brussels, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Salvatore S"
+          ],
+          "firstName": [
+            "Silvia"
+          ],
+          "lastName": [
+            "Salvatore"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, University of Insubria, Varese, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "22"
+      ],
+      "journalIssueId": [
+        "2819252"
+      ],
+      "dateOfPublication": [
+        "2019 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Pediatric gastroenterology, hepatology & nutrition"
+          ],
+          "ISOAbbreviation": [
+            "Pediatr Gastroenterol Hepatol Nutr"
+          ],
+          "medlineAbbreviation": [
+            "Pediatr Gastroenterol Hepatol Nutr"
+          ],
+          "NLMid": [
+            "101590471"
+          ],
+          "ISSN": [
+            "2234-8646"
+          ],
+          "ESSN": [
+            "2234-8840"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "207-216"
+  ],
+  "abstractText": [
+    "Functional gastrointestinal disorders (FGIDs) such as infantile colic, constipation and colic occur in almost half of the infants. The aim of this paper is to provide a critical and updated review on the management of FGIDs and their impact on the health of the infant and family to health care physicians. Guidelines and expert recommendations were reviewed. FGIDs are a frequent cause of parental concern, impairment in quality of life of infants and relatives, and impose a financial burden to families, health care, and insurance. Therefore, primary management of the FGIDs should be focused on improving the infants' symptoms and quality of life of the family. If more than parental reassurance is needed, available evidence recommends nutritional advice as it is an effective strategy and most of the time devoid of adverse effects. The role of healthcare providers in reassuring parents and proposing the correct behavior and nutritional intervention by avoiding inappropriate use of medication, is essential in the management of FGIDs."
+  ],
+  "affiliation": [
+    "KidZ Health Castle, UZ Brussel; Vrije Universiteit Brussel, Brussels, Belgium."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Infant",
+        "Constipation",
+        "Functional Gastrointestinal Disorders",
+        "Gastro-esophageal Reflux",
+        "Infantile Colic",
+        "Nutrition Therapy"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6506429?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6506429"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.5223/pghn.2019.22.3.207"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-05-22"
+  ],
+  "firstIndexDate": [
+    "2019-05-22"
+  ],
+  "dateOfRevision": [
+    "2019-06-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-16"
+  ],
+  "firstPublicationDate": [
+    "2019-04-16"
+  ]
+}

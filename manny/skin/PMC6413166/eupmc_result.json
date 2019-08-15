@@ -1,0 +1,571 @@
+{
+  "id": [
+    "30678053"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30678053"
+  ],
+  "pmcid": [
+    "PMC6413166"
+  ],
+  "doi": [
+    "10.3390/nu11020249"
+  ],
+  "title": [
+    "Fasting and Its Impact on Skin Anatomy, Physiology, and Physiopathology: A Comprehensive Review of the Literature."
+  ],
+  "authorString": [
+    "Bragazzi NL, Sellami M, Salem I, Conic R, Kimak M, Pigatto PDM, Damiani G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bragazzi NL"
+          ],
+          "firstName": [
+            "Nicola Luigi"
+          ],
+          "lastName": [
+            "Bragazzi"
+          ],
+          "initials": [
+            "NL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8409-868X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Postgraduate School of Public Health, Department of Health Sciences (DISSAL), Via Antonio Pastore 1, University of Genoa, 16132 Genoa, Italy. robertobragazzi@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Sellami M"
+          ],
+          "firstName": [
+            "Maha"
+          ],
+          "lastName": [
+            "Sellami"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Sport Science Program, College of Arts and Sciences (QU-CAS), University of Qatar, Doha 2713, Qatar. maha.sellami@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Salem I"
+          ],
+          "firstName": [
+            "Iman"
+          ],
+          "lastName": [
+            "Salem"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Department of Dermatology, Case Western Reserve University, Cleveland, OH 44106, USA. ims31@case.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Conic R"
+          ],
+          "firstName": [
+            "Rosalynn"
+          ],
+          "lastName": [
+            "Conic"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9209-2883",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Dermatology, Case Western Reserve University, Cleveland, OH 44106, USA. ruzica.conic@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Kimak M"
+          ],
+          "firstName": [
+            "Mark"
+          ],
+          "lastName": [
+            "Kimak"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Dermatology, Case Western Reserve University, Cleveland, OH 44106, USA. mar.kimak@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Pigatto PDM"
+          ],
+          "firstName": [
+            "Paolo Daniele Maria"
+          ],
+          "lastName": [
+            "Pigatto"
+          ],
+          "initials": [
+            "PDM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6599-9538",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Clinical Dermatology, IRCCS Istituto Ortopedico Galeazzi, Milan, Italy; Department of Biomedical, Surgical and Dental Sciences, University of Milan, 20161 Milan, Italy. paolopigatto@valeo.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Damiani G"
+          ],
+          "firstName": [
+            "Giovanni"
+          ],
+          "lastName": [
+            "Damiani"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2390-6505",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Dermatology, Case Western Reserve University, Cleveland, OH 44106, USA. dr.giovanni.damiani@gmail.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8409-868X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6599-9538",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2390-6505",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9209-2883",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2774077"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nutrients"
+          ],
+          "ISOAbbreviation": [
+            "Nutrients"
+          ],
+          "medlineAbbreviation": [
+            "Nutrients"
+          ],
+          "NLMid": [
+            "101521595"
+          ],
+          "ISSN": [
+            "2072-6643"
+          ],
+          "ESSN": [
+            "2072-6643"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Skin serves as the first protective line and barrier of the body. Like many other organs, skin can be affected by several disorders in response to external factors such as pathogens, ultraviolet light, and pollution, as well as endogenous alterations related to aging and/or oxidative stress disturbance. Researchers have reported new insights into how skin cells are altered in response to caloric restriction diets in mammals. One of the most well-known caloric restriction diets is the Ramadan intermittent fasting, which is a radical change in the diet plan of practitioners for the period of one lunar month. Ramadan fasting represents the fourth of the five pillars of the Islamic creed. Even though infirm individuals are waived to take part in this religious duty, patients with various health problems, including those with different skin disorders, might choose to share this event with peers and family members. No standardized protocols or guidelines exist, however, to advise their physicians on the proper management of their patients' condition during fasting. With an increasing Muslim population living in Western countries, this topic has started to draw substantial attention, not only of Middle-Eastern physicians, but also of clinicians in the West. For this purpose, we carried out a comprehensive overview on the topic. Our main findings are that: (1) there is a strong need for evidence-based suggestions and guidance. Literature on the impact of the Ramadan fasting, as well as of other kinds of fasting, on skin diseases is scarce and of poor quality, as well as the information available from the Internet; (2) patients willing to fast should be advised about the importance of taking proper treatments or consider alternative options including administration of trans-dermal/topical drugs, as they are permitted during daylight hours. Further, non-compliance has important, clinical and economic implications for an effective patient management."
+  ],
+  "affiliation": [
+    "Postgraduate School of Public Health, Department of Health Sciences (DISSAL), Via Antonio Pastore 1, University of Genoa, 16132 Genoa, Italy. robertobragazzi@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Skin"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Rats"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Skin Diseases"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fasting"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biomedical Research"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Islam"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Skin Physiological Phenomena"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Caloric restriction",
+        "Skin Disorders",
+        "Chronotherapy And Chronomedicine",
+        "Compliance And Adherence To Treatment",
+        "Ramadan Or Intermittent Fasting"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6413166?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6413166"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/nu11020249"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-03-27"
+  ],
+  "dateOfCreation": [
+    "2019-01-26"
+  ],
+  "firstIndexDate": [
+    "2019-01-26"
+  ],
+  "dateOfRevision": [
+    "2019-04-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-23"
+  ],
+  "firstPublicationDate": [
+    "2019-01-23"
+  ]
+}

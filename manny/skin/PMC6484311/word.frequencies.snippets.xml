@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6484311/results/word/frequencies/results.xml">
+  <result title="frequency" word="YAP" count="114"/>
+  <result title="frequency" word="mice" count="59"/>
+  <result title="frequency" word="Hippo" count="41"/>
+  <result title="frequency" word="&amp;lt;" count="37"/>
+  <result title="frequency" word="SREBPs" count="37"/>
+  <result title="frequency" word="SREBP‐c" count="35"/>
+  <result title="frequency" word="cholesterol" count="34"/>
+  <result title="frequency" word="(Figure" count="32"/>
+  <result title="frequency" word="diet" count="31"/>
+  <result title="frequency" word="pathway" count="31"/>
+  <result title="frequency" word="Lats" count="30"/>
+  <result title="frequency" word="HFHS" count="27"/>
+  <result title="frequency" word="insulin" count="27"/>
+  <result title="frequency" word="signalling" count="27"/>
+  <result title="frequency" word="SREBP‐" count="26"/>
+  <result title="frequency" word="diabetic" count="25"/>
+  <result title="frequency" word="levels" count="25"/>
+  <result title="frequency" word="protein" count="24"/>
+  <result title="frequency" word="FAS" count="23"/>
+  <result title="frequency" word="activity" count="23"/>
+  <result title="frequency" word="liver" count="23"/>
+  <result title="frequency" word="hepatic" count="22"/>
+  <result title="frequency" word="hepatocytes" count="22"/>
+  <result title="frequency" word="cell" count="21"/>
+  <result title="frequency" word="expression" count="21"/>
+ </snippets>
+</snippetsTree>

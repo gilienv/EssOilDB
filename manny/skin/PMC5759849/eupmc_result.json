@@ -1,0 +1,434 @@
+{
+  "id": [
+    "29379309"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29379309"
+  ],
+  "pmcid": [
+    "PMC5759849"
+  ],
+  "doi": [
+    "10.2147/CCID.S145561"
+  ],
+  "title": [
+    "Comparison of linoleic acid-containing water-in-oil emulsion with urea-containing water-in-oil emulsion in the treatment of atopic dermatitis: a randomized clinical trial."
+  ],
+  "authorString": [
+    "Nasrollahi SA, Ayatollahi A, Yazdanparast T, Samadi A, Hosseini H, Shamsipour M, Akhlaghi AA, Yadangi S, Abels C, Firooz A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Nasrollahi SA"
+          ],
+          "firstName": [
+            "Saman Ahmad"
+          ],
+          "lastName": [
+            "Nasrollahi"
+          ],
+          "initials": [
+            "SA"
+          ],
+          "affiliation": [
+            "Center for Research and Training in Skin Diseases and Leprosy."
+          ]
+        },
+        {
+          "fullName": [
+            "Ayatollahi A"
+          ],
+          "firstName": [
+            "Azin"
+          ],
+          "lastName": [
+            "Ayatollahi"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Center for Research and Training in Skin Diseases and Leprosy."
+          ]
+        },
+        {
+          "fullName": [
+            "Yazdanparast T"
+          ],
+          "firstName": [
+            "Taraneh"
+          ],
+          "lastName": [
+            "Yazdanparast"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Center for Research and Training in Skin Diseases and Leprosy."
+          ]
+        },
+        {
+          "fullName": [
+            "Samadi A"
+          ],
+          "firstName": [
+            "Aniseh"
+          ],
+          "lastName": [
+            "Samadi"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0134-429X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for Research and Training in Skin Diseases and Leprosy."
+          ]
+        },
+        {
+          "fullName": [
+            "Hosseini H"
+          ],
+          "firstName": [
+            "Hamed"
+          ],
+          "lastName": [
+            "Hosseini"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Clinical Trial Center."
+          ]
+        },
+        {
+          "fullName": [
+            "Shamsipour M"
+          ],
+          "firstName": [
+            "Mansour"
+          ],
+          "lastName": [
+            "Shamsipour"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Research Methodology and Data Analysis, Institute for Environmental Research, Tehran University of Medical Sciences."
+          ]
+        },
+        {
+          "fullName": [
+            "Akhlaghi AA"
+          ],
+          "firstName": [
+            "Ali Asghar"
+          ],
+          "lastName": [
+            "Akhlaghi"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "affiliation": [
+            "Department of Epidemiology and Reproductive Health, Reproductive Epidemiology Research Center, Royan Institute for Reproductive Biomedicine, ACECR, Tehran, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Yadangi S"
+          ],
+          "firstName": [
+            "Somayeh"
+          ],
+          "lastName": [
+            "Yadangi"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Center for Research and Training in Skin Diseases and Leprosy."
+          ]
+        },
+        {
+          "fullName": [
+            "Abels C"
+          ],
+          "firstName": [
+            "Christoph"
+          ],
+          "lastName": [
+            "Abels"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Dr. August Wolff GmbH & Co. KG Arzneimittel, Bielefeld, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Firooz A"
+          ],
+          "firstName": [
+            "Alireza"
+          ],
+          "lastName": [
+            "Firooz"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7274-4840",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for Research and Training in Skin Diseases and Leprosy."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0134-429X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7274-4840",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2634227"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Clinical, cosmetic and investigational dermatology"
+          ],
+          "ISOAbbreviation": [
+            "Clin Cosmet Investig Dermatol"
+          ],
+          "medlineAbbreviation": [
+            "Clin Cosmet Investig Dermatol"
+          ],
+          "NLMid": [
+            "101543449"
+          ],
+          "ISSN": [
+            "1178-7015"
+          ],
+          "ESSN": [
+            "1178-7015"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "21-28"
+  ],
+  "abstractText": [
+    "Application of topical moisturizers is an essential part of the management of atopic dermatitis (AD). Linoleic acid (LA), the most abundant fatty acid in the epidermis, and its derivatives have an essential role in the structure and function of the epidermal barrier, and their defects are prominent in AD. The aim of this study was to compare the efficacy and safety of two cosmetic products containing either LA or urea in patients with AD.A total of 20 patients with AD who met the eligibility criteria and provided written informed consents were enrolled in this randomized, intra-individual split-body, single-center trial. Symmetrical lesions of patients were randomized for treatment with LA- or urea-containing water-in-oil (w/o) emulsions applied two to three times daily for 4 weeks. The efficacy of the two products was evaluated by local Scoring Atopic Dermatitis (SCORAD) of both lesions and also patient (or guardian) satisfaction. In addition, trans-epidermal water loss (TEWL), stratum corneum (SC) hydration, pH, sebum, temperature, erythema, melanin content, and ultrasonographic thickness and echo density of epidermis and dermis were measured before, and 2 and 4 weeks after, treatment.Four weeks of treatment with the LA-containing product resulted in a significant decrease in local SCORAD, TEWL, erythema, and echo density of dermis, as well as an increase in SC hydration compared to baseline. The urea-containing product also reduced the local SCO-RAD and echo density of dermis and increased SC hydration. In contrast to the LA-containing product, changes in TEWL and erythema were not significant. Moreover, the reduction of erythema was significantly higher in the LA-containing product-treated side compared to the urea-containing product-treated side (p = 0.006).Both LA- or urea-containing w/o emulsions can significantly improve barrier dysfunction and clinical severity of AD. In agreement with literature, it was confirmed that an LA-containing w/o emulsion exhibited erythema-reducing effects. Since emollients should be used on a regular basis, patients should choose a product by individual preference following recommendation by their dermatologists."
+  ],
+  "affiliation": [
+    "Center for Research and Training in Skin Diseases and Leprosy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Erythema",
+        "Moisturizer",
+        "Emollient",
+        "Epidermal Barrier",
+        "Humectants"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5759849?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5759849"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2147/CCID.S145561"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-01-31"
+  ],
+  "firstIndexDate": [
+    "2018-01-31"
+  ],
+  "dateOfRevision": [
+    "2018-02-01"
+  ],
+  "electronicPublicationDate": [
+    "2018-01-05"
+  ],
+  "firstPublicationDate": [
+    "2018-01-05"
+  ]
+}

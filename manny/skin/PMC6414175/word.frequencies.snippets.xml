@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6414175/results/word/frequencies/results.xml">
+  <result title="frequency" word="ATRA" count="60"/>
+  <result title="frequency" word="skin" count="59"/>
+  <result title="frequency" word="protein" count="50"/>
+  <result title="frequency" word="epidermal" count="49"/>
+  <result title="frequency" word="Gene" count="46"/>
+  <result title="frequency" word="Keratin" count="46"/>
+  <result title="frequency" word="expression" count="44"/>
+  <result title="frequency" word="associated" count="42"/>
+  <result title="frequency" word="Claudin-" count="41"/>
+  <result title="frequency" word="barrier" count="38"/>
+  <result title="frequency" word="mouse" count="37"/>
+  <result title="frequency" word="genes" count="34"/>
+  <result title="frequency" word="HaCaT" count="32"/>
+  <result title="frequency" word="cells" count="31"/>
+  <result title="frequency" word="mice" count="30"/>
+  <result title="frequency" word="CLDN" count="29"/>
+  <result title="frequency" word="following" count="26"/>
+  <result title="frequency" word="ATRA-treated" count="25"/>
+  <result title="frequency" word="NM_" count="25"/>
+  <result title="frequency" word="no." count="25"/>
+  <result title="frequency" word="KRTAP-" count="23"/>
+  <result title="frequency" word="used" count="23"/>
+  <result title="frequency" word="treatment" count="22"/>
+  <result title="frequency" word="KRT" count="21"/>
+  <result title="frequency" word="function" count="21"/>
+  <result title="frequency" word="junction" count="21"/>
+  <result title="frequency" word="observed" count="21"/>
+  <result title="frequency" word="present" count="21"/>
+  <result title="frequency" word="using" count="21"/>
+ </snippets>
+</snippetsTree>

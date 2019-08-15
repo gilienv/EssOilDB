@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6183694/results/search/disease/results.xml">
+  <result pre="therapy is the mainstay for treating skin conditions such as" exact="atopic dermatitis" post="and psoriasis. New emollients have been introduced recently and"/>
+  <result pre="is the mainstay for treating skin conditions such as atopic" exact="dermatitis" post="and psoriasis. New emollients have been introduced recently and"/>
+  <result pre="treatment and management of dry skin conditions, such as AE," exact="contact dermatitis," post="and psoriasis. 3 Informed selection of emollients is imperative"/>
+  <result pre="latter was chosen because, even though cosmetically unacceptable for most" exact="atopic dermatitis" post="patients owing to its greasiness on the skin and"/>
+  <result pre="was chosen because, even though cosmetically unacceptable for most atopic" exact="dermatitis" post="patients owing to its greasiness on the skin and"/>
+ </snippets>
+</snippetsTree>

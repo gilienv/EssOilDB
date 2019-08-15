@@ -1,0 +1,552 @@
+{
+  "id": [
+    "29849880"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29849880"
+  ],
+  "pmcid": [
+    "PMC5904770"
+  ],
+  "doi": [
+    "10.1155/2018/3232080"
+  ],
+  "title": [
+    "Preventive and Therapeutic Role of Functional Ingredients of Barley Grass for Chronic Diseases in Human Beings."
+  ],
+  "authorString": [
+    "Zeng Y, Pu X, Yang J, Du J, Yang X, Li X, Li L, Zhou Y, Yang T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zeng Y"
+          ],
+          "firstName": [
+            "Yawen"
+          ],
+          "lastName": [
+            "Zeng"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7616-9177",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Biotechnology and Germplasm Resources Institute, Yunnan Academy of Agricultural Sciences, Agricultural Biotechnology Key Laboratory of Yunnan Province, Kunming 650205, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Pu X"
+          ],
+          "firstName": [
+            "Xiaoying"
+          ],
+          "lastName": [
+            "Pu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7835-5678",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Biotechnology and Germplasm Resources Institute, Yunnan Academy of Agricultural Sciences, Agricultural Biotechnology Key Laboratory of Yunnan Province, Kunming 650205, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang J"
+          ],
+          "firstName": [
+            "Jiazhen"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2201-3059",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Biotechnology and Germplasm Resources Institute, Yunnan Academy of Agricultural Sciences, Agricultural Biotechnology Key Laboratory of Yunnan Province, Kunming 650205, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Du J"
+          ],
+          "firstName": [
+            "Juan"
+          ],
+          "lastName": [
+            "Du"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Biotechnology and Germplasm Resources Institute, Yunnan Academy of Agricultural Sciences, Agricultural Biotechnology Key Laboratory of Yunnan Province, Kunming 650205, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang X"
+          ],
+          "firstName": [
+            "Xiaomeng"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Biotechnology and Germplasm Resources Institute, Yunnan Academy of Agricultural Sciences, Agricultural Biotechnology Key Laboratory of Yunnan Province, Kunming 650205, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li X"
+          ],
+          "firstName": [
+            "Xia"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Biotechnology and Germplasm Resources Institute, Yunnan Academy of Agricultural Sciences, Agricultural Biotechnology Key Laboratory of Yunnan Province, Kunming 650205, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li L"
+          ],
+          "firstName": [
+            "Ling"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Biomedical Engineering Research Center, Kunming Medical University, Kunming 650500, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou Y"
+          ],
+          "firstName": [
+            "Yan"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Clinical Nutrition Department, The Second People's Hospital of Yunnan Province, Kunming Yunnan 650021, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang T"
+          ],
+          "firstName": [
+            "Tao"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Biotechnology and Germplasm Resources Institute, Yunnan Academy of Agricultural Sciences, Agricultural Biotechnology Key Laboratory of Yunnan Province, Kunming 650205, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2201-3059",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7616-9177",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7835-5678",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2018"
+      ],
+      "journalIssueId": [
+        "2654971"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Oxidative medicine and cellular longevity"
+          ],
+          "ISOAbbreviation": [
+            "Oxid Med Cell Longev"
+          ],
+          "medlineAbbreviation": [
+            "Oxid Med Cell Longev"
+          ],
+          "NLMid": [
+            "101479826"
+          ],
+          "ISSN": [
+            "1942-0900"
+          ],
+          "ESSN": [
+            "1942-0994"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "3232080"
+  ],
+  "abstractText": [
+    "Barley grass powder is the best functional food that provides nutrition and eliminates toxins from cells in human beings; however, its functional ingredients have played an important role as health benefit. In order to better cognize the preventive and therapeutic role of barley grass for chronic diseases, we carried out the systematic strategies for functional ingredients of barley grass, based on the comprehensive databases, especially the PubMed, Baidu, ISI Web of Science, and CNKI, between 2008 and 2017. Barley grass is rich in functional ingredients, such as gamma-aminobutyric acid (GABA), flavonoids, saponarin, lutonarin, superoxide dismutase (SOD), K, Ca, Se, tryptophan, chlorophyll, vitamins (A, B1, C, and E), dietary fiber, polysaccharide, alkaloid, metallothioneins, and polyphenols. Barley grass promotes sleep; has antidiabetic effect; regulates blood pressure; enhances immunity; protects liver; has anti-acne/detoxifying and antidepressant effects; improves gastrointestinal function; has anticancer, anti-inflammatory, antioxidant, hypolipidemic, and antigout effects; reduces hyperuricemia; prevents hypoxia, cardiovascular diseases, fatigue, and constipation; alleviates atopic dermatitis; is a calcium supplement; improves cognition; and so on. These results support that barley grass may be one of the best functional foods for preventive chronic diseases and the best raw material of modern diet structure in promoting the development of large health industry and further reveal that GABA, flavonoids, SOD, K-Ca, vitamins, and tryptophan mechanism of barley grass have preventive and therapeutic role for chronic diseases. This paper can be used as a scientific evidence for developing functional foods and novel drugs for barley grass for preventive chronic diseases."
+  ],
+  "affiliation": [
+    "Biotechnology and Germplasm Resources Institute, Yunnan Academy of Agricultural Sciences, Agricultural Biotechnology Key Laboratory of Yunnan Province, Kunming 650205, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hordeum"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chronic Disease"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dietary Supplements"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Herbal Medicine"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5904770?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5904770"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2018/3232080"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-10-16"
+  ],
+  "dateOfCreation": [
+    "2018-06-01"
+  ],
+  "firstIndexDate": [
+    "2018-06-01"
+  ],
+  "dateOfRevision": [
+    "2018-10-16"
+  ],
+  "electronicPublicationDate": [
+    "2018-04-04"
+  ],
+  "firstPublicationDate": [
+    "2018-04-04"
+  ]
+}

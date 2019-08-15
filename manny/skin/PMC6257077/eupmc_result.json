@@ -1,0 +1,369 @@
+{
+  "id": [
+    "30538521"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30538521"
+  ],
+  "pmcid": [
+    "PMC6257077"
+  ],
+  "doi": [
+    "10.2147/CCID.S180904"
+  ],
+  "title": [
+    "A 10-point plan for avoiding hyaluronic acid dermal filler-related complications during facial aesthetic procedures and algorithms for management."
+  ],
+  "authorString": [
+    "Heydenrych I, Kapoor KM, De Boulle K, Goodman G, Swift A, Kumar N, Rahman E."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Heydenrych I"
+          ],
+          "firstName": [
+            "Izolda"
+          ],
+          "lastName": [
+            "Heydenrych"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Cape Town Cosmetic Dermatology Centre, Central Park on Esplanade, Century City, Cape Town, South Africa, izoldaheydenrych@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Kapoor KM"
+          ],
+          "firstName": [
+            "Krishan M"
+          ],
+          "lastName": [
+            "Kapoor"
+          ],
+          "initials": [
+            "KM"
+          ],
+          "affiliation": [
+            "Department of Plastic Surgery, Fortis Hospital, Mohali, India."
+          ]
+        },
+        {
+          "fullName": [
+            "De Boulle K"
+          ],
+          "firstName": [
+            "Koenraad"
+          ],
+          "lastName": [
+            "De Boulle"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Aalst Dermatology Clinic, Aalst, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Goodman G"
+          ],
+          "firstName": [
+            "Greg"
+          ],
+          "lastName": [
+            "Goodman"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4089-9690",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Primary Heath Care, Monash University, Clayton, Victoria, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Swift A"
+          ],
+          "firstName": [
+            "Arthur"
+          ],
+          "lastName": [
+            "Swift"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Westmount Institute of Plastic Surgery, Montreal, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Kumar N"
+          ],
+          "firstName": [
+            "Narendra"
+          ],
+          "lastName": [
+            "Kumar"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Faculty of Medical Science, Anglia Ruskin University, Chelmsford, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Rahman E"
+          ],
+          "firstName": [
+            "Eqram"
+          ],
+          "lastName": [
+            "Rahman"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Institute of Medical and Biomedical Education, St George's University of London, London, UK."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4089-9690",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2634227"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Clinical, cosmetic and investigational dermatology"
+          ],
+          "ISOAbbreviation": [
+            "Clin Cosmet Investig Dermatol"
+          ],
+          "medlineAbbreviation": [
+            "Clin Cosmet Investig Dermatol"
+          ],
+          "NLMid": [
+            "101543449"
+          ],
+          "ISSN": [
+            "1178-7015"
+          ],
+          "ESSN": [
+            "1178-7015"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "603-611"
+  ],
+  "abstractText": [
+    "The recent rapid growth in dermal filler use, in conjunction with inadequate product and injector control, has heralded a concerning increase in filler complications. The 10-point plan has been developed to minimize complications through careful preconsideration of causative factors, categorized as patient, product, and procedure related. Patient-related factors include history, which involves a preprocedural consultation with careful elucidation of skin conditions, systemic disease, medications, and previous cosmetic procedures. Other exclusion criteria include autoimmune diseases and multiple allergies. The temporal proximity of dental or routine medical procedures is discouraged. Insightful patient assessment, with the consideration of ethnicity, gender, and generational needs, is of paramount importance. Specified informed consent is vital due to the concerning increase in vascular complications, which carry the risk for skin compromise and loss of vision. Informed consent should be signed for both adverse events and their treatment. Product-related factors include reversibility, which is a powerful advantage when using hyaluronic acid (HA) products. Complications from nonreversible or minimally degradable products, especially when layered over vital structures, are more difficult to control. Product characteristics such as HA concentration and proprietary cross-linking should be understood in the context of ideal depth, placement, and expected duration. Product layering over late or minimally degradable fillers is discouraged, while layering of HA of over the same brand, or even across brands, seems to be feasible. Procedural factors such as photographic documentation, procedural planning, aseptic technique, and anatomical and technical knowledge are of pivotal importance. A final section is dedicated to algorithms and protocols for the management and treatment of complications such as hypersensitivity, vascular events, infection, and late-onset nodules. The 10-point plan is a systematic, effective strategy aimed at reducing the risk of dermal filler complications."
+  ],
+  "affiliation": [
+    "Cape Town Cosmetic Dermatology Centre, Central Park on Esplanade, Century City, Cape Town, South Africa, izoldaheydenrych@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Assessment",
+        "Prevention",
+        "Treatment",
+        "Complications",
+        "Dermal Fillers"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6257077?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6257077"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2147/CCID.S180904"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-12-13"
+  ],
+  "firstIndexDate": [
+    "2018-12-13"
+  ],
+  "dateOfRevision": [
+    "2018-12-17"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-23"
+  ],
+  "firstPublicationDate": [
+    "2018-11-23"
+  ]
+}

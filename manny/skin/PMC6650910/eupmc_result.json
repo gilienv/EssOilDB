@@ -1,0 +1,323 @@
+{
+  "id": [
+    "31277423"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31277423"
+  ],
+  "pmcid": [
+    "PMC6650910"
+  ],
+  "doi": [
+    "10.3390/molecules24132456"
+  ],
+  "title": [
+    "Application of Porphyrins in Antibacterial Photodynamic Therapy."
+  ],
+  "authorString": [
+    "Amos-Tautua BM, Songca SP, Oluwafemi OS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Amos-Tautua BM"
+          ],
+          "firstName": [
+            "Bamidele M"
+          ],
+          "lastName": [
+            "Amos-Tautua"
+          ],
+          "initials": [
+            "BM"
+          ],
+          "affiliation": [
+            "Department of Chemical Sciences, University of Johannesburg, Doornfontein Campus, P.O. Box 17011, Doornfontein 2028, South Africa."
+          ]
+        },
+        {
+          "fullName": [
+            "Songca SP"
+          ],
+          "firstName": [
+            "Sandile P"
+          ],
+          "lastName": [
+            "Songca"
+          ],
+          "initials": [
+            "SP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2522-5567",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Chemistry, University of KwaZulu-Natal, Private Bag X 54001, Durban 4000, South Africa."
+          ]
+        },
+        {
+          "fullName": [
+            "Oluwafemi OS"
+          ],
+          "firstName": [
+            "Oluwatobi S"
+          ],
+          "lastName": [
+            "Oluwafemi"
+          ],
+          "initials": [
+            "OS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8964-5646",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Chemical Sciences, University of Johannesburg, Doornfontein Campus, P.O. Box 17011, Doornfontein 2028, South Africa. oluwafemi.oluwatobi@gmail.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2522-5567",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8964-5646",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "13"
+      ],
+      "volume": [
+        "24"
+      ],
+      "journalIssueId": [
+        "2834189"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecules (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Molecules"
+          ],
+          "medlineAbbreviation": [
+            "Molecules"
+          ],
+          "NLMid": [
+            "100964009"
+          ],
+          "ISSN": [
+            "1420-3049"
+          ],
+          "ESSN": [
+            "1420-3049"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Antibiotics are commonly used to control, treat, or prevent bacterial infections, however bacterial resistance to all known classes of traditional antibiotics has greatly increased in the past years especially in hospitals rendering certain therapies ineffective. To limit this emerging public health problem, there is a need to develop non-incursive, non-toxic, and new antimicrobial techniques that act more effectively and quicker than the current antibiotics. One of these effective techniques is antibacterial photodynamic therapy (aPDT). This review focuses on the application of porphyrins in the photo-inactivation of bacteria. Mechanisms of bacterial resistance and some of the current 'greener' methods of synthesis of meso-phenyl porphyrins are discussed. In addition, significance and limitations of aPDT are also discussed. Furthermore, we also elaborate on the current clinical applications and the future perspectives and directions of this non-antibiotic therapeutic strategy in combating infectious diseases."
+  ],
+  "affiliation": [
+    "Department of Chemical Sciences, University of Johannesburg, Doornfontein Campus, P.O. Box 17011, Doornfontein 2028, South Africa."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Light",
+        "Bacteria",
+        "Nanoparticles",
+        "Porphyrins",
+        "Antibacterial Photodynamic Therapy"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6650910?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6650910"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/molecules24132456"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-07-07"
+  ],
+  "firstIndexDate": [
+    "2019-07-06"
+  ],
+  "dateOfRevision": [
+    "2019-08-08"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-04"
+  ],
+  "firstPublicationDate": [
+    "2019-07-04"
+  ]
+}

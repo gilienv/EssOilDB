@@ -1,0 +1,404 @@
+{
+  "id": [
+    "26862380"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26862380"
+  ],
+  "pmcid": [
+    "PMC4740760"
+  ],
+  "doi": [
+    "10.5812/jjm.25580"
+  ],
+  "title": [
+    "Medicinal Plants for the Treatment of Acne Vulgaris: A Review of Recent Evidences."
+  ],
+  "authorString": [
+    "Nasri H, Bahmani M, Shahinfard N, Moradi Nafchi A, Saberianpour S, Rafieian Kopaei M, Rafieian Kopaei M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Nasri H"
+          ],
+          "firstName": [
+            "Hamid"
+          ],
+          "lastName": [
+            "Nasri"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Nephrology, Division of Nephropathology, Isfahan University of Medical Sciences, Isfahan, IR Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Bahmani M"
+          ],
+          "firstName": [
+            "Mahmoud"
+          ],
+          "lastName": [
+            "Bahmani"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Razi Herbal Medicines Research Center, Lorestan University of Medical Sciences, Khorramabad, IR Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Shahinfard N"
+          ],
+          "firstName": [
+            "Najmeh"
+          ],
+          "lastName": [
+            "Shahinfard"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0791-8757",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Virtual School, Department of E-Learning in Medical Education, Tehran University of Medical Sciences, Tehran, IR Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Moradi Nafchi A"
+          ],
+          "firstName": [
+            "Atefeh"
+          ],
+          "lastName": [
+            "Moradi Nafchi"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Medical Plants Research Center, Shahrekord University of Medical Sciences, Shahrekord, IR Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Saberianpour S"
+          ],
+          "firstName": [
+            "Shirin"
+          ],
+          "lastName": [
+            "Saberianpour"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Medical Plants Research Center, Shahrekord University of Medical Sciences, Shahrekord, IR Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Rafieian Kopaei M"
+          ],
+          "firstName": [
+            "Mahmoud"
+          ],
+          "lastName": [
+            "Rafieian Kopaei"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1860-1141",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Medical Plants Research Center, Shahrekord University of Medical Sciences, Shahrekord, IR Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Rafieian Kopaei M"
+          ],
+          "firstName": [
+            "Mahmoud"
+          ],
+          "lastName": [
+            "Rafieian Kopaei"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3190-7863",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Medical Plants Research Center, Shahrekord University of Medical Sciences, Shahrekord, IR Iran."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0791-8757",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3190-7863",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1860-1141",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2373241"
+      ],
+      "dateOfPublication": [
+        "2015 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Jundishapur journal of microbiology"
+          ],
+          "ISOAbbreviation": [
+            "Jundishapur J Microbiol"
+          ],
+          "medlineAbbreviation": [
+            "Jundishapur J Microbiol"
+          ],
+          "NLMid": [
+            "101515122"
+          ],
+          "ISSN": [
+            "2008-3645"
+          ],
+          "ESSN": [
+            "2008-4161"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "e25580"
+  ],
+  "abstractText": [
+    "Acne vulgaris affects about 85% of teenagers and may continue to adulthood. There are about two million visits to physicians per year for teenagers and the direct cost of acne treatment in the US exceeds $1 billion per year.A wide variety of treatment regimens exist for acne vulgaris including benzoil peroxide, retinoids, isotretinoids, keratolytic soaps, alpha hydroxy acids, azelaic acid, salicilic acid as well as hormonal, anti-androgen or antiseborrheic treatments. However, none of these methods is free of side effects and their exact role in therapy is not clear. In this paper apart from presenting the possible causes of acne vulgaris and its available drugs, recently published papers about medicinal plants used in the treatment of acne vulgaris were reviewed.Consumption of alternative and complementary medicine, including medicinal plants, is increasing and is common amongst patients affected by acne and infectious skin diseases. Medicinal plants have a long history of use and have been shown to possess low side effects. These plants are a reliable source for preparation of new drugs.Many plants seem to have inhibitory effects on the growth of bacteria, fungi and viruses in vitro. However, there are a few clinical evidences about the effectiveness and safety of these plants in the treatment of acne and other skin infections."
+  ],
+  "affiliation": [
+    "Department of Nephrology, Division of Nephropathology, Isfahan University of Medical Sciences, Isfahan, IR Iran."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Medicinal plants",
+        "Infectious disease",
+        "Acne vulgaris",
+        "Skin Diseases",
+        "Herbal Medicines"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4740760?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4740760"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.5812/jjm.25580"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-02-10"
+  ],
+  "dateOfCreation": [
+    "2016-02-10"
+  ],
+  "firstIndexDate": [
+    "2016-02-11"
+  ],
+  "dateOfRevision": [
+    "2016-02-12"
+  ],
+  "electronicPublicationDate": [
+    "2015-11-21"
+  ],
+  "firstPublicationDate": [
+    "2015-11-21"
+  ]
+}

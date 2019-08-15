@@ -1,0 +1,273 @@
+{
+  "id": [
+    "30002675"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30002675"
+  ],
+  "pmcid": [
+    "PMC5996413"
+  ],
+  "doi": [
+    "10.1155/2018/6974045"
+  ],
+  "title": [
+    "Is Oral Omega-3 Effective in Reducing Mucocutaneous Side Effects of Isotretinoin in Patients with Acne Vulgaris?"
+  ],
+  "authorString": [
+    "Mirnezami M, Rahimi H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mirnezami M"
+          ],
+          "firstName": [
+            "Mina"
+          ],
+          "lastName": [
+            "Mirnezami"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Dermatology, Faculty of Medicine, Arak University of Medical Sciences, Arak, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Rahimi H"
+          ],
+          "firstName": [
+            "Hoda"
+          ],
+          "lastName": [
+            "Rahimi"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1899-2330",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Skin Research Center, Shahid Beheshti University of Medical Sciences, Tehran, Iran."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1899-2330",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2018"
+      ],
+      "journalIssueId": [
+        "2674164"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Dermatology research and practice"
+          ],
+          "ISOAbbreviation": [
+            "Dermatol Res Pract"
+          ],
+          "medlineAbbreviation": [
+            "Dermatol Res Pract"
+          ],
+          "NLMid": [
+            "101312803"
+          ],
+          "ISSN": [
+            "1687-6105"
+          ],
+          "ESSN": [
+            "1687-6113"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "6974045"
+  ],
+  "abstractText": [
+    "Background. Acne vulgaris is an inflammatory disease of pilosebaceous units which may cause permanent dyspigmentation and/or scars if not treated. Isotretinoin is recommended in the treatment of recalcitrant or severe acne, but it is associated with common adverse effects that frequently result in patients incompliance and discontinuation of the drug. The present study was designed to assess the efficacy of oral omega-3 in decreasing the adverse effects of isotretinoin. Materials and Methods. In this randomized double-blind clinical trial, a total of 118 patients with moderate or severe acne were randomly divided into two (case and control) groups. The control group was treated with isotretinoin 0.5 mg/kg, and the case group was treated with the same dose of isotretinoin combined with oral omega-3 (1 g/day). The treatment was lasted for 16 weeks and mucocutaneous side effects of isotretinoin were recorded and compared between the two groups in weeks 4, 8, 12, and 16. Results. Cheilitis (at weeks 4, 8, and 12), xerosis, dryness of nose at all weeks, and dryness of eyes (at week 4) were less frequent in the group that received isotretinoin combined with oral omega-3 compared to the group that received isotretinoin alone. Conclusion. Administration of oral omega-3 in acne patients who are receiving isotretinoin decreases the mucocutaneous side effects of isotretinoin. This trial is registered with  IRCT201306238241N2."
+  ],
+  "affiliation": [
+    "Department of Dermatology, Faculty of Medicine, Arak University of Medical Sciences, Arak, Iran."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5996413?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5996413"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2018/6974045"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-07-14"
+  ],
+  "firstIndexDate": [
+    "2018-07-14"
+  ],
+  "dateOfRevision": [
+    "2018-07-15"
+  ],
+  "electronicPublicationDate": [
+    "2018-05-29"
+  ],
+  "firstPublicationDate": [
+    "2018-05-29"
+  ]
+}

@@ -1,0 +1,381 @@
+{
+  "id": [
+    "30911021"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30911021"
+  ],
+  "pmcid": [
+    "PMC6434013"
+  ],
+  "doi": [
+    "10.1038/s41598-019-41322-x"
+  ],
+  "title": [
+    "Effects of Intradermal Radiofrequency Treatment and Intense Pulsed Light Therapy in an Acne-induced Rabbit Ear Model."
+  ],
+  "authorString": [
+    "Seok J, Kim JH, Kim JM, Kwon TR, Choi SY, Li K, Kim BJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Seok J"
+          ],
+          "firstName": [
+            "Joon"
+          ],
+          "lastName": [
+            "Seok"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Dermatology, Chung-Ang University College of Medicine, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim JH"
+          ],
+          "firstName": [
+            "Jong Hwan"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "JH"
+          ],
+          "affiliation": [
+            "Department of Dermatology, Chung-Ang University College of Medicine, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim JM"
+          ],
+          "firstName": [
+            "Jae Min"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "Department of Dermatology, Chung-Ang University College of Medicine, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kwon TR"
+          ],
+          "firstName": [
+            "Tae Rin"
+          ],
+          "lastName": [
+            "Kwon"
+          ],
+          "initials": [
+            "TR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9892-7714",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Dermatology, Chung-Ang University College of Medicine, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Choi SY"
+          ],
+          "firstName": [
+            "Sun Young"
+          ],
+          "lastName": [
+            "Choi"
+          ],
+          "initials": [
+            "SY"
+          ],
+          "affiliation": [
+            "Department of Dermatology, Seoul Paik Hospital, Inje University, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Li K"
+          ],
+          "firstName": [
+            "Kapsok"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Dermatology, Chung-Ang University College of Medicine, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim BJ"
+          ],
+          "firstName": [
+            "Beom Joon"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "BJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2320-7621",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Dermatology, Chung-Ang University College of Medicine, Seoul, Korea. beomjoon74@gmail.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9892-7714",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2320-7621",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6201-9602",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2787935"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "5056"
+  ],
+  "abstractText": [
+    "Acne vulgaris is a common condition that can have psychologically deleterious effects. Since current treatments carry the risks of antibiotic resistance or teratogenicity, novel treatment modalities are under investigation. Our study investigated the efficacy of intradermal radiofrequency treatment (RF) and intense pulsed light (IPL) in the treatment of acne vulgaris in a rabbit ear model. We evaluated the effectiveness of IPL, RF, and a combination treatment on cultured Cuticobacterium acnes strains in an induced rabbit ear model, according to clinical outcomes as well as histological and immunological approaches. We found that RF treatment markedly decreases papule volume, while IPL appears to have an immunomodulatory effect. In combination, the two have an additive effect in treatment. These findings suggest that combination of RF and IPL may be an effective therapeutic option for the treatment of acne vulgaris."
+  ],
+  "affiliation": [
+    "Department of Dermatology, Chung-Ang University College of Medicine, Seoul, Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6434013?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6434013"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-41322-x"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-03-27"
+  ],
+  "firstIndexDate": [
+    "2019-03-27"
+  ],
+  "dateOfRevision": [
+    "2019-04-03"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-25"
+  ],
+  "firstPublicationDate": [
+    "2019-03-25"
+  ]
+}

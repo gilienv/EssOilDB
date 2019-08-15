@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC5801582/results/word/frequencies/results.xml">
+  <result title="frequency" word="micelles" count="61"/>
+  <result title="frequency" word="drug" count="53"/>
+  <result title="frequency" word="skin" count="51"/>
+  <result title="frequency" word="delivery" count="46"/>
+  <result title="frequency" word="polymeric" count="42"/>
+  <result title="frequency" word="penetration" count="22"/>
+ </snippets>
+</snippetsTree>

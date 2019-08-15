@@ -1,0 +1,516 @@
+{
+  "id": [
+    "30875764"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30875764"
+  ],
+  "pmcid": [
+    "PMC6471406"
+  ],
+  "doi": [
+    "10.3390/nu11030619"
+  ],
+  "title": [
+    "Dietary Patterns Associated with Sebum Content, Skin Hydration and pH, and Their Sex-Dependent Differences in Healthy Korean Adults."
+  ],
+  "authorString": [
+    "Lim S, Shin J, Cho Y, Kim KP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lim S"
+          ],
+          "firstName": [
+            "Sunhee"
+          ],
+          "lastName": [
+            "Lim"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Medical Nutrition, Graduate School of East-West Medical Science, Kyung Hee University, Yongin-si 17104, Korea. by_catherine@naver.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Shin J"
+          ],
+          "firstName": [
+            "Jihye"
+          ],
+          "lastName": [
+            "Shin"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Medical Nutrition, Graduate School of East-West Medical Science, Kyung Hee University, Yongin-si 17104, Korea. hleany@nate.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Cho Y"
+          ],
+          "firstName": [
+            "Yunhi"
+          ],
+          "lastName": [
+            "Cho"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Medical Nutrition, Graduate School of East-West Medical Science, Kyung Hee University, Yongin-si 17104, Korea. choyunhi@khu.ac.kr."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim KP"
+          ],
+          "firstName": [
+            "Kun-Pyo"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "KP"
+          ],
+          "affiliation": [
+            "Department of Medical Nutrition, Graduate School of East-West Medical Science, Kyung Hee University, Yongin-si 17104, Korea. kunpyokim@khu.ac.kr."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2787687"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nutrients"
+          ],
+          "ISOAbbreviation": [
+            "Nutrients"
+          ],
+          "medlineAbbreviation": [
+            "Nutrients"
+          ],
+          "NLMid": [
+            "101521595"
+          ],
+          "ISSN": [
+            "2072-6643"
+          ],
+          "ESSN": [
+            "2072-6643"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Sebum content, skin hydration and acidic skin pH are major factors in maintaining skin health. Various nutrients are reported to influence skin health, but the effect of dietary patterns (DPs) on skin health is unclear. In this study, we considered the DPs associated with these three skin health parameters in 84 healthy adults aged 19⁻37 years. Dietary intake was assessed using a food frequency questionnaire (FFQ) and skin health parameters were determined on the forehead of each subject. Among the four DPs extracted from the FFQ, DP2, characterized by a high intake of cereals, potatoes and starch, saccharides and fish and shellfish, was negatively associated with skin hydration. DP3, characterized by a high intake of potatoes and starch, seeds and nuts, fruits and eggs, was positively associated with acidic skin pH only before adjusting for potential confounders. On the other hand, DP4, characterized by a low intake of beans, and a high intake of meats, dairy products and beverages and alcohol, was negatively associated with acidic skin pH and positively associated with sebum content. The data stratified by sex revealed a negative association between skin hydration and DP2 in males and a negative association between sebum content and DP3 and a positive association between sebum content and DP4 in females. In conclusion, we demonstrated that specific DPs were associated with sebum content, skin hydration and pH in healthy Korean adults and that those associations were affected by sex."
+  ],
+  "affiliation": [
+    "Department of Medical Nutrition, Graduate School of East-West Medical Science, Kyung Hee University, Yongin-si 17104, Korea. by_catherine@naver.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article",
+        "Observational Study"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2017R1A6A3A01006478"
+          ],
+          "agency": [
+            "National Research Foundation of Korea"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sebum"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Skin"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Diet"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cross-Sectional Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Feeding Behavior"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sex Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hydrogen-Ion Concentration"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Skin Physiological Phenomena"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Republic of Korea"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Sex difference",
+        "dietary pattern",
+        "Skin Hydration",
+        "Skin Ph",
+        "Sebum Content"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6471406?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6471406"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/nu11030619"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-07-25"
+  ],
+  "dateOfCreation": [
+    "2019-03-17"
+  ],
+  "firstIndexDate": [
+    "2019-03-16"
+  ],
+  "dateOfRevision": [
+    "2019-07-25"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-14"
+  ],
+  "firstPublicationDate": [
+    "2019-03-14"
+  ]
+}

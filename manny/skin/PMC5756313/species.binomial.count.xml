@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="frequencies">
+ <result title="frequency" count="10">Lavandula major</result>
+ <result title="frequency" count="8">Lavandula angustifolia</result>
+ <result title="frequency" count="4">Rosmarinus officinalis</result>
+ <result title="frequency" count="2">Trichomonas vaginalis</result>
+ <result title="frequency" count="1">Hexamita inflata</result>
+ <result title="frequency" count="1">Hexamita inflate</result>
+ <result title="frequency" count="1">Enterobacter aerogenes</result>
+ <result title="frequency" count="1">Citrobacter freundii</result>
+ <result title="frequency" count="1">Lavandula xintermedia</result>
+ <result title="frequency" count="1">Rosmarinus officinal</result>
+ <result title="frequency" count="1">Pseudomonas aeruginosa</result>
+ <result title="frequency" count="1">Giardia duodenalis</result>
+ <result title="frequency" count="1">Propionibacterium acnes</result>
+ <result title="frequency" count="1">Proteus vulgaris</result>
+ <result title="frequency" count="1">Staphylococcus aureus</result>
+</results>

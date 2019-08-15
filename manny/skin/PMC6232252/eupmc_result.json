@@ -1,0 +1,368 @@
+{
+  "id": [
+    "30459600"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30459600"
+  ],
+  "pmcid": [
+    "PMC6232252"
+  ],
+  "doi": [
+    "10.3389/fphar.2018.01175"
+  ],
+  "title": [
+    "Human Adipose Tissue-Derived Mesenchymal Stem Cells Attenuate Atopic Dermatitis by Regulating the Expression of MIP-2, miR-122a-SOCS1 Axis, and Th1/Th2 Responses."
+  ],
+  "authorString": [
+    "Kim M, Lee SH, Kim Y, Kwon Y, Park Y, Lee HK, Jung HS, Jeoung D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kim M"
+          ],
+          "firstName": [
+            "Misun"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Biochemistry, Kangwon National University, Chunchon, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee SH"
+          ],
+          "firstName": [
+            "Sung-Hoon"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "SH"
+          ],
+          "affiliation": [
+            "Biotechnology Institute, EHL-BIO Co., Ltd., Uiwang, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim Y"
+          ],
+          "firstName": [
+            "Youngmi"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Biochemistry, Kangwon National University, Chunchon, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kwon Y"
+          ],
+          "firstName": [
+            "Yoojung"
+          ],
+          "lastName": [
+            "Kwon"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Biochemistry, Kangwon National University, Chunchon, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Park Y"
+          ],
+          "firstName": [
+            "Yeongseo"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Biochemistry, Kangwon National University, Chunchon, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee HK"
+          ],
+          "firstName": [
+            "Hong-Ki"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "HK"
+          ],
+          "affiliation": [
+            "Biotechnology Institute, EHL-BIO Co., Ltd., Uiwang, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Jung HS"
+          ],
+          "firstName": [
+            "Hyun Suk"
+          ],
+          "lastName": [
+            "Jung"
+          ],
+          "initials": [
+            "HS"
+          ],
+          "affiliation": [
+            "Department of Biochemistry, Kangwon National University, Chunchon, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Jeoung D"
+          ],
+          "firstName": [
+            "Dooil"
+          ],
+          "lastName": [
+            "Jeoung"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Biochemistry, Kangwon National University, Chunchon, South Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2645047"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in pharmacology"
+          ],
+          "ISOAbbreviation": [
+            "Front Pharmacol"
+          ],
+          "medlineAbbreviation": [
+            "Front Pharmacol"
+          ],
+          "NLMid": [
+            "101548923"
+          ],
+          "ISSN": [
+            "1663-9812"
+          ],
+          "ESSN": [
+            "1663-9812"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "1175"
+  ],
+  "abstractText": [
+    "The objective of this study was to investigate the effect of human adipose tissue-derived mesenchymal stem cells (AdMSCs) on atopic dermatitis (AD) in the BALB/c mouse model. The AdMSCs attenuated clinical symptoms associated with AD, decreased numbers of degranulated mast cells (MCs), IgE level, amount of histamine released, and prostaglandin E2 level. Atopic dermatitis increased the expression levels of cytokines/chemokines, such as interleukin-5 (IL-5), macrophage inflammatory protein-1ß (MIP-1ß), MIP-2, chemokine (C-C motif) ligand 5 (CCL5), and IL-17, in BALB/c mouse. The AdMSCs showed decreased expression levels of these cytokines in the mouse model of AD. In vivo downregulation of MIP-2 attenuated the clinical symptoms associated with AD. Atopic dermatitis increased the expression levels of hallmarks of allergic inflammation, induced interactions of Fc𝜀RIβ with histone deacetylase 3 (HDAC3) and Lyn, increased ß-hexosaminidase activity, increased serum IgE level, and increased the amount of histamine released in an MIP-2-dependent manner. Downregulation of MIP-2 increased the levels of several miRNAs, including miR-122a-5p. Mouse miR-122a-5p mimic inhibited AD, while suppressor of cytokine signaling 1 (SOCS1), a predicted downstream target of miR-122a-5p, was required for AD. The downregulation of SOCS1 decreased the expression levels of MIP-2 and chemokine (C-X-C motif) ligand 13 (CXCL13) in the mouse model of AD. The downregulation of CXCL13 attenuated AD and allergic inflammation such as passive cutaneous anaphylaxis. The role of T cell transcription factors in AD was also investigated. Atopic dermatitis increased the expression levels of T-bet and GATA-3 [transcription factors of T-helper 1 (Th1) and T-helper 2 (Th2) cells, respectively] but decreased the expression of Foxp3, a transcription factor of regulatory T (Treg) cells, in an SOCS1-dependent manner. In addition to this, miR-122a-5p mimic also prevented AD from regulating the expression of T-bet, GATA-3, and Foxp3. Atopic dermatitis increased the expression of cluster of differentiation 163 (CD163), a marker of M2 macrophages, but decreased the expression of inducible nitric oxide synthase (iNOS), a marker of M1 macrophages. Additionally, SOCS1 and miR-122a-5p mimic regulated the expression of CD163 and iNOS in the mouse model of AD. Experiments employing conditioned medium showed interactions between MCs and macrophages in AD. The conditioned medium of AdMSCs, but not the conditioned medium of human dermal fibroblasts, negatively inhibited the features of allergic inflammation. In summary, we investigated the anti-atopic effects of AdMSCs, identified targets of AdMSCs, and determined the underlying mechanism for the anti-atopic effects of AdMSCs."
+  ],
+  "affiliation": [
+    "Department of Biochemistry, Kangwon National University, Chunchon, South Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "SOCS1",
+        "Atopic Dermatitis",
+        "Cellular Interactions",
+        "Mip-2",
+        "Adipose Tissue-derived Stem Cells",
+        "Mir-122a-5p",
+        "Targets Of Stem Cells"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6232252?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6232252"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fphar.2018.01175"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-11-22"
+  ],
+  "firstIndexDate": [
+    "2018-11-22"
+  ],
+  "dateOfRevision": [
+    "2018-11-23"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-06"
+  ],
+  "firstPublicationDate": [
+    "2018-11-06"
+  ]
+}

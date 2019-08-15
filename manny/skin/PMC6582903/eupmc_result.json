@@ -1,0 +1,290 @@
+{
+  "id": [
+    "31275409"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31275409"
+  ],
+  "pmcid": [
+    "PMC6582903"
+  ],
+  "doi": [
+    "10.1155/2019/3190670"
+  ],
+  "title": [
+    "Ethnobotanical Study of Indigenous Medicinal Plants of Jazan Region, Saudi Arabia."
+  ],
+  "authorString": [
+    "Tounekti T, Mahdhi M, Khemira H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tounekti T"
+          ],
+          "firstName": [
+            "Taieb"
+          ],
+          "lastName": [
+            "Tounekti"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7296-2338",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre for Environmental Research and Studies, Jazan University, Jazan, Saudi Arabia."
+          ]
+        },
+        {
+          "fullName": [
+            "Mahdhi M"
+          ],
+          "firstName": [
+            "Mosbah"
+          ],
+          "lastName": [
+            "Mahdhi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Centre for Environmental Research and Studies, Jazan University, Jazan, Saudi Arabia."
+          ]
+        },
+        {
+          "fullName": [
+            "Khemira H"
+          ],
+          "firstName": [
+            "Habib"
+          ],
+          "lastName": [
+            "Khemira"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Centre for Environmental Research and Studies, Jazan University, Jazan, Saudi Arabia."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7296-2338",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2019"
+      ],
+      "journalIssueId": [
+        "2777626"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Evidence-based Complementary and Alternative Medicine : eCAM"
+          ],
+          "ISOAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "medlineAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "NLMid": [
+            "101215021"
+          ],
+          "ISSN": [
+            "1741-427X"
+          ],
+          "ESSN": [
+            "1741-4288"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "3190670"
+  ],
+  "abstractText": [
+    "For a long time, the people of Saudi Arabia have been using medicinal plants (MPs) as conventional medicine to heal diverse human and livestock diseases. The present work is the first study on ethnobotanical uses of 124 MPs species used by the local tribal communities of Jazan province in the Southwest of Saudi Arabia. Ethnobotanical data were collected by interviewing 174 local informants using semistructured interviews. Informants of different ages, from several settlements belonging to several tribal communities, were interviewed. It is worth noticing that the age of informants and their knowledge of MPs were positively correlated, whereas the educational level and MP knowledge of participants were negatively correlated. To find out if there was agreement in the use of certain plants in the treatment of given ailments, we used Informant Consensus Factor (ICF). To determine the most frequently used plant species for treating a particular ailment category by local people we used the fidelity level (FL%). The Relative Frequency of Citation (RFC) was used to indicate the local importance of a species and the relative importance (RI) level was used to check the therapeutic potentials of the cited plants. A total of 124 MPs belonging to 103 genera and 48 families were collected and identified. The majority of these plants were shrubs (45%), perennial herbs (21%), annual herbs (19%), or trees (18%). The Asteraceae (10.48%), Fabaceae (7.25%), and Apocynaceae (7.25%) families were the most represented. Leaves, fruits, and whole plant (24%, 18%, and 16%, respectively) were the most used plant parts in formulating traditional medicines. Ziziphus spina-christi and Calotropis procera with the highest RI level (2.0) were found to have the highest range of therapeutic uses. They were followed by Datura stramonium (1.86), Withania somnifera, and Aloe vera (1.81). The ICF ranged from 0.02 to 0.42 covering 12 disease categories with a prevalence of disease categories related to skin and hair problems (ICF=0.42) having 75 species cited, while 73 species were cited for gastrointestinal tract (GIT) disorders (ICF = 0.40). Senna alexandrina (67%), Tribulus terrestris (64%), Pulicaria undulata (60%), Leptadenia pyrotechnica (55%), and Rumex nervosus (55%) had the highest FL which indicates their good healing potential against specific diseases. The high-FL species are the most promising candidate plants for in-depth pharmacological screening and merit further consideration. Accordingly, Jazan flora has good ethnobotanical potential. Unfortunately, many MP species are endangered by drought, overgrazing, and overexploitation. Some protection measures should be undertaken to prevent these species from becoming extinct. Natural reserves and wild nurseries are typical settings to retain medically important plants in their natural habitats, while botanic gardens and seed banks are important paradigms for ex situ conservation."
+  ],
+  "affiliation": [
+    "Centre for Environmental Research and Studies, Jazan University, Jazan, Saudi Arabia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6582903?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6582903"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2019/3190670"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-06"
+  ],
+  "firstIndexDate": [
+    "2019-07-06"
+  ],
+  "dateOfRevision": [
+    "2019-07-07"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-02"
+  ],
+  "firstPublicationDate": [
+    "2019-06-02"
+  ]
+}

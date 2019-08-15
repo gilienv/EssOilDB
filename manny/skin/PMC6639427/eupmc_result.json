@@ -1,0 +1,333 @@
+{
+  "id": [
+    "31354479"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31354479"
+  ],
+  "pmcid": [
+    "PMC6639427"
+  ],
+  "doi": [
+    "10.3389/fphar.2019.00758"
+  ],
+  "title": [
+    "Apoptotic Pathway as the Therapeutic Target for Anticancer Traditional Chinese Medicines."
+  ],
+  "authorString": [
+    "An W, Lai H, Zhang Y, Liu M, Lin X, Cao S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "An W"
+          ],
+          "firstName": [
+            "Weixiao"
+          ],
+          "lastName": [
+            "An"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Department of Pharmacology, School of Pharmacy, Southwest Medical University, Luzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Lai H"
+          ],
+          "firstName": [
+            "Honglin"
+          ],
+          "lastName": [
+            "Lai"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Pharmacology, School of Pharmacy, Southwest Medical University, Luzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yangyang"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Pharmacology, School of Pharmacy, Southwest Medical University, Luzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu M"
+          ],
+          "firstName": [
+            "Minghua"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Pharmacology, School of Pharmacy, Southwest Medical University, Luzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Lin X"
+          ],
+          "firstName": [
+            "Xiukun"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Department of Pharmacology, School of Pharmacy, Southwest Medical University, Luzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Cao S"
+          ],
+          "firstName": [
+            "Shousong"
+          ],
+          "lastName": [
+            "Cao"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Pharmacology, School of Pharmacy, Southwest Medical University, Luzhou, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2779305"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in pharmacology"
+          ],
+          "ISOAbbreviation": [
+            "Front Pharmacol"
+          ],
+          "medlineAbbreviation": [
+            "Front Pharmacol"
+          ],
+          "NLMid": [
+            "101548923"
+          ],
+          "ISSN": [
+            "1663-9812"
+          ],
+          "ESSN": [
+            "1663-9812"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "758"
+  ],
+  "abstractText": [
+    "Cancer is a leading cause of morbidity and mortality worldwide. Apoptosis is a process of programmed cell death and it plays a vital role in human development and tissue homeostasis. Mounting evidence indicates that apoptosis is closely related to the survival of cancer and it has emerged as a key target for the discovery and development of novel anticancer drugs. Various studies indicate that targeting the apoptotic signaling pathway by anticancer drugs is an important mechanism in cancer therapy. Therefore, numerous novel anticancer agents have been discovered and developed from traditional Chinese medicines (TCMs) by targeting the cellular apoptotic pathway of cancer cells and shown clinically beneficial effects in cancer therapy. This review aims to provide a comprehensive discussion for the role, pharmacology, related biology, and possible mechanism(s) of a number of important anticancer TCMs and their derivatives mainly targeting the cellular apoptotic pathway. It may have important clinical implications in cancer therapy."
+  ],
+  "affiliation": [
+    "Department of Pharmacology, School of Pharmacy, Southwest Medical University, Luzhou, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Apoptosis",
+        "Cancer",
+        "Cancer therapy",
+        "Traditional Chinese medicine",
+        "Cellular Signaling Pathway"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6639427?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6639427"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fphar.2019.00758"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-30"
+  ],
+  "firstIndexDate": [
+    "2019-07-31"
+  ],
+  "dateOfRevision": [
+    "2019-08-02"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-12"
+  ],
+  "firstPublicationDate": [
+    "2019-07-12"
+  ]
+}

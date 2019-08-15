@@ -1,0 +1,421 @@
+{
+  "id": [
+    "30521155"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30521155"
+  ],
+  "pmcid": [
+    "PMC6364281"
+  ],
+  "doi": [
+    "10.5935/1518-0557.20180083"
+  ],
+  "title": [
+    "An update and systematic review on the treatment of primary dysmenorrhea."
+  ],
+  "authorString": [
+    "Sharghi M, Mansurkhani SM, Larky DA, Kooti W, Niksefat M, Firoozbakht M, Behzadifar M, Azami M, Servatyari K, Jouybari L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sharghi M"
+          ],
+          "firstName": [
+            "Maedeh"
+          ],
+          "lastName": [
+            "Sharghi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Student Research Committee, Kurdistan University of Medical Sciences, Sanandaj, IR Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Mansurkhani SM"
+          ],
+          "firstName": [
+            "Shabnam Malekpour"
+          ],
+          "lastName": [
+            "Mansurkhani"
+          ],
+          "initials": [
+            "SM"
+          ],
+          "affiliation": [
+            "Department of Biology, School of Science, Shiraz University, Shiraz, IR Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Larky DA"
+          ],
+          "firstName": [
+            "Damoon Ashtary"
+          ],
+          "lastName": [
+            "Larky"
+          ],
+          "initials": [
+            "DA"
+          ],
+          "affiliation": [
+            "Nutrition and Metabolic Diseases Research Center, Ahvaz Jundishapur University of Medical Sciences, Ahvaz, IR Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Kooti W"
+          ],
+          "firstName": [
+            "Wesam"
+          ],
+          "lastName": [
+            "Kooti"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Cellular and Molecular Research Center, Sabzevar University of Medical Sciences, Sabzevar, IR Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Niksefat M"
+          ],
+          "firstName": [
+            "Mehdi"
+          ],
+          "lastName": [
+            "Niksefat"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Student Research Committee, Ahvaz Jundishapur University of Medical Sciences, Ahvaz, IR Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Firoozbakht M"
+          ],
+          "firstName": [
+            "Mohammad"
+          ],
+          "lastName": [
+            "Firoozbakht"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Student Research Committee, Dezful University of Medical Sciences, Dezful, IR Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Behzadifar M"
+          ],
+          "firstName": [
+            "Masoud"
+          ],
+          "lastName": [
+            "Behzadifar"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Health Management and Economics Research Center, Iran University of Medical Sciences, Tehran, IR Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Azami M"
+          ],
+          "firstName": [
+            "Milad"
+          ],
+          "lastName": [
+            "Azami"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4509-5520",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Faculty of Medicine, Ilam University of Medical Sciences, Ilam, IR Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Servatyari K"
+          ],
+          "firstName": [
+            "Karo"
+          ],
+          "lastName": [
+            "Servatyari"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Student Research Committee, Kurdistan University of Medical Sciences, Sanandaj, IR Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Jouybari L"
+          ],
+          "firstName": [
+            "Leila"
+          ],
+          "lastName": [
+            "Jouybari"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Nursing Research Center, Golestan University of Medical Sciences, Gorgan, IR Iran."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4509-5520",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "23"
+      ],
+      "journalIssueId": [
+        "2775482"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "JBRA assisted reproduction"
+          ],
+          "ISOAbbreviation": [
+            "JBRA Assist Reprod"
+          ],
+          "medlineAbbreviation": [
+            "JBRA Assist Reprod"
+          ],
+          "NLMid": [
+            "101684552"
+          ],
+          "ISSN": [
+            "1517-5693"
+          ],
+          "ESSN": [
+            "1518-0557"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "51-57"
+  ],
+  "abstractText": [
+    "OBJECTIVES:Primary dysmenorrhea is a painful uterine contraction caused by endometrial laceration. Drug therapies and complementary medicine have been used to treat dysmenorrhea. The aim of this study was to investigate and offer an updated perspective on the treatments for dysmenorrhea. METHODS:The present study was conducted in accordance with the PRISMA checklist for systematic reviews and meta-analyses. The required information was collected based on searches for the following keywords: treatment, primary dysmenorrhea, medicinal plants, chemical drugs, and herbs. Searches were performed on databases Pubmed, Web of Sciences, Scopus, Iran medex, and SID by March 2018 to find literature in the English and Persian languages on this subject without a time limit. RESULTS:This review included 17 papers, 10 of which on complementary medicine, three on drug therapies, and four on acupuncture and acupressure. The largest and smallest samples had 303 and 24 patients, respectively. Length of treatment ranged from one to six months and the measures most commonly used in the studies were the visual analogue scale and clinical efficacy. Reported complications included gastrointestinal events, nausea, vomiting, diarrhea, abdominal pain, and liver and kidney disorders. CONCLUSION:Medicinal plants, drugs, and acupressure seem to suppress pain by reducing the level of prostaglandins, mediating nitric oxide, increasing beta-endorphin levels, blocking the calcium channel, and enhancing circulatory flow through the uterine pathway. Further trials are required to confirm the benefits of the procedures described and ensure the absence of complications."
+  ],
+  "affiliation": [
+    "Student Research Committee, Kurdistan University of Medical Sciences, Sanandaj, IR Iran."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Medicinal plants",
+        "primary dysmenorrhea",
+        "Chemical Drugs"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6364281?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6364281"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.5935/1518-0557.20180083"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-12-07"
+  ],
+  "firstIndexDate": [
+    "2018-12-08"
+  ],
+  "dateOfRevision": [
+    "2019-02-07"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-31"
+  ],
+  "firstPublicationDate": [
+    "2019-01-31"
+  ]
+}

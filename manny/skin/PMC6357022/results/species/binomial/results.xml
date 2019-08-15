@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="binomial">
+ <result pre="e presence of EPA and ALA [ 8] as well as green seaweeds, such as " exact="Ulva pertusa" xpath="/html[1]/body[1]/div[2]/div[7]/div[3]/p[4]" match="Ulva pertusa" post=", which are rich in hexadecatetraenoic acid [ 9], and octadecatetr" name="binomial"/>
+ <result pre="nutrients-11-00046&quot;&gt;9], and octadecatetraenoic acid, which is abundant in Laminaria sp. and " exact="Undaria pinnatifida" xpath="/html[1]/body[1]/div[2]/div[7]/div[3]/p[4]" match="Undaria pinnatifida" post=" [ 10]. " name="binomial"/>
+ <result pre="Similarly, a New Zealand green lipped mussel " exact="Perna canaliculus" xpath="/html[1]/body[1]/div[2]/div[7]/div[3]/p[4]" match="Perna canaliculus" post=" representing another potential source of n-3 PUFAs was reported to reduce inflammation in b" name="binomial"/>
+ <result pre="ved quality of life. A 12-week supplementation of 400 mg PCSO-524™ (a non polar lipid extract from " exact="Perna canaliculus" match="Perna canaliculus" post=") achieved the same anti-inflammatory benefits as 1200 mg of standardized fish oil, which resulted " name="binomial"/>
+</results>

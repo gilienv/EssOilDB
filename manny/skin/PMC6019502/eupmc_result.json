@@ -1,0 +1,303 @@
+{
+  "id": [
+    "29973880"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29973880"
+  ],
+  "pmcid": [
+    "PMC6019502"
+  ],
+  "doi": [
+    "10.3389/fphar.2018.00652"
+  ],
+  "title": [
+    "Major Bioactive Compounds in Essential Oils Extracted From the Rhizomes of Zingiber zerumbet (L) Smith: A Mini-Review on the Anti-allergic and Immunomodulatory Properties."
+  ],
+  "authorString": [
+    "Tan JW, Israf DA, Tham CL."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tan JW"
+          ],
+          "firstName": [
+            "Ji Wei"
+          ],
+          "lastName": [
+            "Tan"
+          ],
+          "initials": [
+            "JW"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6806-0358",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biomedical Science, Faculty of Medicine and Health Sciences, Universiti Putra Malaysia, Seri Kembangan, Malaysia."
+          ]
+        },
+        {
+          "fullName": [
+            "Israf DA"
+          ],
+          "firstName": [
+            "Daud Ahmad"
+          ],
+          "lastName": [
+            "Israf"
+          ],
+          "initials": [
+            "DA"
+          ],
+          "affiliation": [
+            "Department of Biomedical Science, Faculty of Medicine and Health Sciences, Universiti Putra Malaysia, Seri Kembangan, Malaysia."
+          ]
+        },
+        {
+          "fullName": [
+            "Tham CL"
+          ],
+          "firstName": [
+            "Chau Ling"
+          ],
+          "lastName": [
+            "Tham"
+          ],
+          "initials": [
+            "CL"
+          ],
+          "affiliation": [
+            "Department of Biomedical Science, Faculty of Medicine and Health Sciences, Universiti Putra Malaysia, Seri Kembangan, Malaysia."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6806-0358",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2645047"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in pharmacology"
+          ],
+          "ISOAbbreviation": [
+            "Front Pharmacol"
+          ],
+          "medlineAbbreviation": [
+            "Front Pharmacol"
+          ],
+          "NLMid": [
+            "101548923"
+          ],
+          "ISSN": [
+            "1663-9812"
+          ],
+          "ESSN": [
+            "1663-9812"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "652"
+  ],
+  "abstractText": [
+    "Zingiber zerumbet (L) Smith is part of the Zingiberaceae family, one of the largest families of the plant kingdom. Z. zerumbet is a perennial, aromatic and tuberose plant that grows in humid locations where its center of distribution is located in the South-East Asia region. This plant has been traditionally used in foods and beverages and for ornamental purposes. Although many studies have reported on the biomedical applications of Z. zerumbet, the anti-allergic effects of Z. zerumbet and its major bioactive compounds have not yet been summarized in detail. Many major metabolites that have been reported to contain anti-allergic properties are terpene compounds which can be found in the essential oil extracted from the rhizomes of Z. zerumbet, such as zerumbone, limonene, and humulene. The rhizome is among the part of Z. zerumbet that has been widely used for many studies due to its exceptional biomedical applications. Most of these studies have shown that the essential oil, which can be obtained through hydro-distillation of the rhizomes from Z. zerumbet, is enriched with various active metabolites. Therefore, this mini-review provides an overview of the main aspects related to the anti-allergic and immunomodulatory properties of the major bioactive compounds found in the essential oils extracted from the rhizomes of Z. zerumbet, with the aim of demonstrating the importance of essential oil extracted from the rhizomes of Z. zerumbet and its bioactive compounds in the treatment of allergy and allergy-related diseases, in addition to other widely reported and extensively studied biomedical applications."
+  ],
+  "affiliation": [
+    "Department of Biomedical Science, Faculty of Medicine and Health Sciences, Universiti Putra Malaysia, Seri Kembangan, Malaysia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Rhizome",
+        "Essential oil",
+        "Zingiber zerumbet",
+        "Immunomodulatory",
+        "Anti-allergic",
+        "Mini-review"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6019502?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6019502"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fphar.2018.00652"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-07-06"
+  ],
+  "firstIndexDate": [
+    "2018-07-06"
+  ],
+  "dateOfRevision": [
+    "2018-07-08"
+  ],
+  "electronicPublicationDate": [
+    "2018-06-20"
+  ],
+  "firstPublicationDate": [
+    "2018-06-20"
+  ]
+}

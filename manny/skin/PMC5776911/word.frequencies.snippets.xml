@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC5776911/results/word/frequencies/results.xml">
+  <result title="frequency" word="IL-" count="53"/>
+  <result title="frequency" word="atopic" count="47"/>
+  <result title="frequency" word="skin" count="45"/>
+  <result title="frequency" word="dermatitis" count="44"/>
+  <result title="frequency" word="mice" count="39"/>
+  <result title="frequency" word="expression" count="35"/>
+  <result title="frequency" word="protein" count="31"/>
+  <result title="frequency" word="mRNA" count="26"/>
+  <result title="frequency" word="filaggrin" count="25"/>
+ </snippets>
+</snippetsTree>

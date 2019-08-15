@@ -1,0 +1,304 @@
+{
+  "id": [
+    "28398231"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28398231"
+  ],
+  "pmcid": [
+    "PMC5489923"
+  ],
+  "doi": [
+    "10.3390/scipharm85020019"
+  ],
+  "title": [
+    "Antibacterial Activity of Ethanolic Extract of Cinnamon Bark, Honey, and Their Combination Effects against Acne-Causing Bacteria."
+  ],
+  "authorString": [
+    "Julianti E, Rajah KK, Fidrianny I."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Julianti E"
+          ],
+          "firstName": [
+            "Elin"
+          ],
+          "lastName": [
+            "Julianti"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "School of Pharmacy, Bandung Institute of Technology, Labtek VII, JL. Ganesha 10, Bandung 40132, West Java, Indonesia. elin_julianti@fa.itb.ac.id."
+          ]
+        },
+        {
+          "fullName": [
+            "Rajah KK"
+          ],
+          "firstName": [
+            "Kasturi K"
+          ],
+          "lastName": [
+            "Rajah"
+          ],
+          "initials": [
+            "KK"
+          ],
+          "affiliation": [
+            "School of Pharmacy, Bandung Institute of Technology, Labtek VII, JL. Ganesha 10, Bandung 40132, West Java, Indonesia. kasturi_mas@yahoo.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Fidrianny I"
+          ],
+          "firstName": [
+            "Irda"
+          ],
+          "lastName": [
+            "Fidrianny"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "School of Pharmacy, Bandung Institute of Technology, Labtek VII, JL. Ganesha 10, Bandung 40132, West Java, Indonesia. irda@fa.itb.ac.id."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "85"
+      ],
+      "journalIssueId": [
+        "2546703"
+      ],
+      "dateOfPublication": [
+        "2017 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientia pharmaceutica"
+          ],
+          "ISOAbbreviation": [
+            "Sci Pharm"
+          ],
+          "medlineAbbreviation": [
+            "Sci Pharm"
+          ],
+          "NLMid": [
+            "0026251"
+          ],
+          "ISSN": [
+            "0036-8709"
+          ],
+          "ESSN": [
+            "2218-0532"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "abstractText": [
+    "Propionibacterium acnes and Staphylococcus epidermidis are the major skin bacteria that cause the formation of acne. The present study was conducted to investigate antibacterial activity of ethanolic extract of cinnamon bark, honey, and their combination against acne bacteria. The antibacterial activity of extract of cinnamon bark and honey were investigated against P. acnes and S. epidermidis using disc diffusion. Minimum inhibitory concentrations (MICs) and minimum bactericidal concentrations (MBCs) were attained using Clinical and Laboratory Standard Institute (CLSI) methods. The interaction between cinnamon bark extract and honey was determined using a checkerboards method. The results showed that the MICs of cinnamon bark extract and honey against P. acne were 256 µg/mL and 50% v/v, respectively, while those against S. epidermidis were 1024 µg/mL and 50% v/v, respectively. The MBC of cinnamon bark extract against P. acnes and S. epidermidis were more than 2048 µg/mL, whereas the MBC for honey against P. acnes and S. epidermidis were 100%. The combination of cinnamon bark extract and honey against P. acnes and S. epidermidis showed additive activity with a fractional inhibitory concentration index (FICI) value of 0.625. Therefore, the combination of cinnamon bark extract and honey has potential activity against acne-causing bacteria."
+  ],
+  "affiliation": [
+    "School of Pharmacy, Bandung Institute of Technology, Labtek VII, JL. Ganesha 10, Bandung 40132, West Java, Indonesia. elin_julianti@fa.itb.ac.id."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Antibacterial activity",
+        "Honey",
+        "Cinnamon",
+        "Additive Activity",
+        "Checkerboards Method"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5489923?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5489923"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/scipharm85020019"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR53683"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-04-12"
+  ],
+  "firstIndexDate": [
+    "2017-04-11"
+  ],
+  "dateOfRevision": [
+    "2018-11-07"
+  ],
+  "electronicPublicationDate": [
+    "2017-04-11"
+  ],
+  "firstPublicationDate": [
+    "2017-04-11"
+  ]
+}

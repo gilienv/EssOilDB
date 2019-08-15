@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="frequencies">
+ <result title="frequency" count="76">Propionibacterium acnes</result>
+ <result title="frequency" count="3">Cutibacterium acnes</result>
+ <result title="frequency" count="2">Escherichia coli</result>
+ <result title="frequency" count="1">Corynebacterium acnes</result>
+ <result title="frequency" count="1">Streptococcus pyogenes</result>
+ <result title="frequency" count="1">Streptococcus epidermidis</result>
+ <result title="frequency" count="1">Corynebacterium xerosis</result>
+ <result title="frequency" count="1">Staphylococcus aureus</result>
+ <result title="frequency" count="1">Propionibacterium bacteriophages</result>
+</results>

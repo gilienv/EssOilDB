@@ -1,0 +1,353 @@
+{
+  "id": [
+    "31157220"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31157220"
+  ],
+  "pmcid": [
+    "PMC6530250"
+  ],
+  "doi": [
+    "10.3389/fbioe.2019.00108"
+  ],
+  "title": [
+    "Bioproducts From Euglena gracilis: Synthesis and Applications."
+  ],
+  "authorString": [
+    "Gissibl A, Sun A, Care A, Nevalainen H, Sunna A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gissibl A"
+          ],
+          "firstName": [
+            "Alexander"
+          ],
+          "lastName": [
+            "Gissibl"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Molecular Sciences, Macquarie University, Sydney, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Sun A"
+          ],
+          "firstName": [
+            "Angela"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Molecular Sciences, Macquarie University, Sydney, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Care A"
+          ],
+          "firstName": [
+            "Andrew"
+          ],
+          "lastName": [
+            "Care"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0035-7961",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Molecular Sciences, Macquarie University, Sydney, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Nevalainen H"
+          ],
+          "firstName": [
+            "Helena"
+          ],
+          "lastName": [
+            "Nevalainen"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Molecular Sciences, Macquarie University, Sydney, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Sunna A"
+          ],
+          "firstName": [
+            "Anwar"
+          ],
+          "lastName": [
+            "Sunna"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1467-9937",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Molecular Sciences, Macquarie University, Sydney, NSW, Australia."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0035-7961",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1467-9937",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2775597"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in bioengineering and biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Front Bioeng Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Front Bioeng Biotechnol"
+          ],
+          "NLMid": [
+            "101632513"
+          ],
+          "ISSN": [
+            "2296-4185"
+          ],
+          "ESSN": [
+            "2296-4185"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "108"
+  ],
+  "abstractText": [
+    "In recent years, the versatile phototrophic protist Euglena gracilis has emerged as an interesting candidate for application-driven research and commercialisation, as it is an excellent source of dietary protein, pro(vitamins), lipids, and the β-1,3-glucan paramylon only found in euglenoids. From these, paramylon is already marketed as an immunostimulatory agent in nutraceuticals. Bioproducts from E. gracilis can be produced under various cultivation conditions discussed in this review, and their yields are relatively high when compared with those achieved in microalgal systems. Future challenges include achieving the economy of large-scale cultivation. Recent insights into the complex metabolism of E. gracilis have highlighted unique metabolic pathways, which could provide new leads for product enhancement by genetic modification of the organism. Also, development of molecular tools for strain improvement are emerging rapidly, making E. gracilis a noteworthy challenger for microalgae such as Chlorella spp. and their products currently on the market."
+  ],
+  "affiliation": [
+    "Department of Molecular Sciences, Macquarie University, Sydney, NSW, Australia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Biosynthesis",
+        "Vitamins",
+        "Dietary protein",
+        "Polyunsaturated fatty acids",
+        "Euglena gracilis",
+        "Wax esters",
+        "Paramylon",
+        "Large-scale Cultivation"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6530250?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6530250"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fbioe.2019.00108"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-04"
+  ],
+  "firstIndexDate": [
+    "2019-06-03"
+  ],
+  "dateOfRevision": [
+    "2019-06-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-15"
+  ],
+  "firstPublicationDate": [
+    "2019-05-15"
+  ]
+}

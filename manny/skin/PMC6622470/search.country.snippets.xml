@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6622470/results/search/country/results.xml">
+  <result pre="Biology Program, Department of Surgery, Boston Children’s Hospital, Boston, Massachusetts," exact="United States" post="of America [2], Department of Surgery, Beth Israel Deaconess"/>
+  <result pre="Massachusetts, United States of America [2], Department of Surgery, Beth" exact="Israel" post="Deaconess Medical Center, Boston, Massachusetts, United States of America"/>
+  <result pre="Department of Surgery, Beth Israel Deaconess Medical Center, Boston, Massachusetts," exact="United States" post="of America [3], Department of Pathology, Massachusetts General Hospital,"/>
+  <result pre="America [3], Department of Pathology, Massachusetts General Hospital, Boston, Massachusetts," exact="United States" post="of America [4], Department of Pharmacy, Boston Children’s Hospital,"/>
+  <result pre="America [4], Department of Pharmacy, Boston Children’s Hospital, Boston, Massachusetts," exact="United States" post="of America Schunck Wolf-Hagen Editor [], Max Delbrueck Center"/>
+  <result pre="travel in the circulation without causing embolic events. In the" exact="United States," post="the United States Pharmacopeia (USP) has set standards that"/>
+  <result pre="circulation without causing embolic events. In the United States, the" exact="United States" post="Pharmacopeia (USP) has set standards that intravenous fat emulsions"/>
+  <result pre="most commonly used parenteral fat sources. Until recently in the" exact="United States," post="the only parenteral fat sources approved by the Food"/>
+  <result pre=". Chapter 729: Globule Size Distribution in Lipid Injectable Emulsions" exact="United States" post="Pharmacopeia and National Formulary (USP 36—NF 31). 2012 pp."/>
+ </snippets>
+</snippetsTree>

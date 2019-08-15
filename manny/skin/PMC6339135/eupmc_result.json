@@ -1,0 +1,441 @@
+{
+  "id": [
+    "30609834"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30609834"
+  ],
+  "pmcid": [
+    "PMC6339135"
+  ],
+  "doi": [
+    "10.3390/ijerph16010111"
+  ],
+  "title": [
+    "Gulf War Illness: Unifying Hypothesis for a Continuing Health Problem."
+  ],
+  "authorString": [
+    "Mawson AR, Croft AM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mawson AR"
+          ],
+          "firstName": [
+            "Anthony R"
+          ],
+          "lastName": [
+            "Mawson"
+          ],
+          "initials": [
+            "AR"
+          ],
+          "affiliation": [
+            "Department of Epidemiology and Biostatistics, School of Public Health, Jackson State University, Jackson, MS 39213, USA. anthony.r.mawson@jsums.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Croft AM"
+          ],
+          "firstName": [
+            "Ashley M"
+          ],
+          "lastName": [
+            "Croft"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "affiliation": [
+            "School of Health Sciences and Social Work, University of Portsmouth, Portsmouth P01 2DT, UK. Ashley.croft@myport.ac.uk."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2766955"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of environmental research and public health"
+          ],
+          "ISOAbbreviation": [
+            "Int J Environ Res Public Health"
+          ],
+          "medlineAbbreviation": [
+            "Int J Environ Res Public Health"
+          ],
+          "NLMid": [
+            "101238455"
+          ],
+          "ISSN": [
+            "1661-7827"
+          ],
+          "ESSN": [
+            "1660-4601"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "An estimated 25%⁻32% of veterans of the 1991 Gulf War continue to experience multiple unexplained health problems known as Gulf War Illness (GWI). GWI encompasses chronic pain, musculoskeletal weakness, headache, fatigue, cognitive deficits, alterations in mood, and numerous multi-system complaints. Most potential exposures implicated in GWI were not well documented but included varying levels of several neurotoxicants as well as the anticholinergic drug pyridostigmine bromide (PB), which was routinely taken as prophylaxis against the nerve agent soman. While some veterans also took chloroquine as an antimalarial agent, the literature suggests an association between receipt of multiple vaccinations prior to or during the conflict (perhaps combined with other exposures), and GWI. In-theater exposures may account for any single individual veteran's ill health but many veterans of the same era who were not deployed overseas also suffer the same or similar symptoms. The features of GWI also overlap with those of fibromyalgia, chronic fatigue syndrome and multiple chemical sensitivity, in all of which liver dysfunction has been documented, suggesting a unifying hypothesis. It is proposed that multiple vaccinations, with concurrent or subsequent exposure to PB or additional chemical insults of a liver-damaging nature, plausibly explain the pathogenesis and the observed chronicity of GWI. The suggested mechanism for GWI is thus a chemically-induced impaired liver function, with the spillage of stored vitamin A compounds (\"retinoids\") into the circulation in toxic concentrations, resulting in an endogenous chronic form of hypervitaminosis A. Implications of the hypothesis are briefly reviewed."
+  ],
+  "affiliation": [
+    "Department of Epidemiology and Biostatistics, School of Public Health, Jackson State University, Jackson, MS 39213, USA. anthony.r.mawson@jsums.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Persian Gulf Syndrome"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pyridostigmine Bromide"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cholinesterase Inhibitors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Vaccination"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Environmental Exposure"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Veterans"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Vaccines",
+        "Cognition",
+        "Chemicals",
+        "Pathogenesis",
+        "Retinoids",
+        "Fatigue",
+        "risk factors",
+        "Headache",
+        "Veterans",
+        "Exposures",
+        "Musculoskeletal Pain",
+        "Gulf War Illness"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Cholinesterase Inhibitors"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Pyridostigmine Bromide"
+          ],
+          "registryNumber": [
+            "KVI301NA53"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6339135?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6339135"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijerph16010111"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-05-14"
+  ],
+  "dateOfCreation": [
+    "2019-01-06"
+  ],
+  "firstIndexDate": [
+    "2019-01-05"
+  ],
+  "dateOfRevision": [
+    "2019-05-14"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-03"
+  ],
+  "firstPublicationDate": [
+    "2019-01-03"
+  ]
+}

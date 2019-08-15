@@ -1,0 +1,262 @@
+{
+  "id": [
+    "31391681"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31391681"
+  ],
+  "pmcid": [
+    "PMC6644182"
+  ],
+  "doi": [
+    "10.4103/ijp.IJP_262_18"
+  ],
+  "title": [
+    "Are plants used in the Eastern Cape province for cosmetics fully commercialized?"
+  ],
+  "authorString": [
+    "Sagbo IJ, Mbeng WO."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sagbo IJ"
+          ],
+          "firstName": [
+            "Idowu Jonas"
+          ],
+          "lastName": [
+            "Sagbo"
+          ],
+          "initials": [
+            "IJ"
+          ],
+          "affiliation": [
+            "School of Biology and Environmental Sciences, University of Mpumalanga, Mbombela, South Africa."
+          ]
+        },
+        {
+          "fullName": [
+            "Mbeng WO"
+          ],
+          "firstName": [
+            "Wilfred Otang"
+          ],
+          "lastName": [
+            "Mbeng"
+          ],
+          "initials": [
+            "WO"
+          ],
+          "affiliation": [
+            "School of Biology and Environmental Sciences, University of Mpumalanga, Mbombela, South Africa."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "51"
+      ],
+      "journalIssueId": [
+        "2847103"
+      ],
+      "dateOfPublication": [
+        "2019 May-Jun"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Indian journal of pharmacology"
+          ],
+          "ISOAbbreviation": [
+            "Indian J Pharmacol"
+          ],
+          "medlineAbbreviation": [
+            "Indian J Pharmacol"
+          ],
+          "NLMid": [
+            "7902477"
+          ],
+          "ISSN": [
+            "0253-7613"
+          ],
+          "ESSN": [
+            "1998-3751"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "140-149"
+  ],
+  "abstractText": [
+    "Plants have been used for years for various cosmetic purposes. In the Eastern Cape province of South Africa, a large proportion of the population reliant (to some extent) on botanical resources for beauty and health. Despite the use of these botanical resources for various cosmetic purposes, only a few have been fully commercialized or used as ingredients in cosmetic formulation. The present study aimed to review plant species that are fully explored commercially for cosmetic products in the Eastern Cape province. A survey of cosmetic products with plant-based ingredients was done covering the major supermarkets (SPAR, Shoprite, and Pick n Pay), cosmetic shops (Clicks), and pharmacies in the Eastern Cape province, and electronic databases including Embase, Google Scholar, Medline, PubMed, Scopus, SciFinder®, Springer, Science Direct, and Web of Science were used as data sources for ethnobotanical information. Surprisingly, out of 150 plant species used by both Xhosa men and women for various cosmeceutical purposes, only six plant species have been used commercially with regard to cosmeceutical application. These plants species belong to five major plant families, namely Lamiaceae (two species), Asphodelaceae (one species) Cucurbitaceae (one species), Oleaceae (one species), and Verbenaceae (one species). The findings revealed that the use of Eastern Cape plants for cosmetic purposes has not been fully explored commercially. Thus, there is a need for cosmeceutical industries to explore these species commercially in order to develop new possible cosmetic products for local and international markets."
+  ],
+  "affiliation": [
+    "School of Biology and Environmental Sciences, University of Mpumalanga, Mbombela, South Africa."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Plants",
+        "Commercialization",
+        "Cosmetics",
+        "Eastern Cape",
+        "Xhosa"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6644182"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/ijp.IJP_262_18"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-08-09"
+  ],
+  "firstIndexDate": [
+    "2019-08-10"
+  ],
+  "dateOfRevision": [
+    "2019-08-11"
+  ],
+  "firstPublicationDate": [
+    "2019-05-01"
+  ]
+}

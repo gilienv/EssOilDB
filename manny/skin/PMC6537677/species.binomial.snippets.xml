@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6537677/results/species/binomial/results.xml">
+  <result pre="t appropriate. Some studies suggest silver-coated textiles can significantly reduce the numbers of " exact="Staphylococcus aureus" xpath="/html[1]/body[1]/div[2]/div[5]/div[2]/div[9]/p[1]" match="Staphylococcus aureus" post=" and improve the symptoms of AD.[ 16] Another fabric, derma silk, is also suggeste" name="binomial"/>
+  <result pre="as staphylococcus, streptococcus, herpes simplex, molluscum contagiosum, human papillomavirus, and " exact="Malassezia furfur" match="Malassezia furfur" post=" infection. There is a lack of quality trials to support the use of antimicrobial and antiseptic pr" name="binomial"/>
+ </snippets>
+</snippetsTree>

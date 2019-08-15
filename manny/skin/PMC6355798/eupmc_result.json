@@ -1,0 +1,324 @@
+{
+  "id": [
+    "30705373"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30705373"
+  ],
+  "pmcid": [
+    "PMC6355798"
+  ],
+  "doi": [
+    "10.1038/s41598-018-37665-6"
+  ],
+  "title": [
+    "Biological activities of Ficus carica latex for potential therapeutics in Human Papillomavirus (HPV) related cervical cancers."
+  ],
+  "authorString": [
+    "Ghanbari A, Le Gresley A, Naughton D, Kuhnert N, Sirbu D, Ashrafi GH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ghanbari A"
+          ],
+          "firstName": [
+            "Arshia"
+          ],
+          "lastName": [
+            "Ghanbari"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Kingston University London, Cancer theme, School of Life Science, Pharmacy and Chemistry, SEC Faculty, Kingston upon Thames, KT1 2EE, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Le Gresley A"
+          ],
+          "firstName": [
+            "Adam"
+          ],
+          "lastName": [
+            "Le Gresley"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Kingston University London, School of Life Science, Pharmacy and Chemistry, SEC Faculty, Kingston upon Thames, KT1 2EE, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Naughton D"
+          ],
+          "firstName": [
+            "Declan"
+          ],
+          "lastName": [
+            "Naughton"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Kingston University London, School of Life Science, Pharmacy and Chemistry, SEC Faculty, Kingston upon Thames, KT1 2EE, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Kuhnert N"
+          ],
+          "firstName": [
+            "Nikolai"
+          ],
+          "lastName": [
+            "Kuhnert"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Life Sciences & Chemistry Faculty of Health, Jacobs University Bremen, Campusring 8, 28759, Bremen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Sirbu D"
+          ],
+          "firstName": [
+            "Diana"
+          ],
+          "lastName": [
+            "Sirbu"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Life Sciences & Chemistry Faculty of Health, Jacobs University Bremen, Campusring 8, 28759, Bremen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Ashrafi GH"
+          ],
+          "firstName": [
+            "G Hossein"
+          ],
+          "lastName": [
+            "Ashrafi"
+          ],
+          "initials": [
+            "GH"
+          ],
+          "affiliation": [
+            "Kingston University London, Cancer theme, School of Life Science, Pharmacy and Chemistry, SEC Faculty, Kingston upon Thames, KT1 2EE, London, UK. H.ashrafi@kingston.ac.uk."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2769857"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1013"
+  ],
+  "abstractText": [
+    "Infection caused by high-risk human papillomaviruses (HPVs) are implicated in the aetiology of cervical cancer. Although current methods of treatment for cervical cancer can ablate lesions, preventing metastatic disseminations and excessive tissue injuries still remains a major concern. Hence, development of a safer and more efficient treatment modality is of vital importance. Natural products from plants are one of the principal sources of precursors to lead compounds with direct pharmaceutical application across all disease classes. One of these plants is Ficus carica, whose fruit latex, when applied on HPV-induced skin warts, has shown potential as a possible cure for this virus related lesions. This study explores the in vitro biological activities of fig latex and elucidates its possible mechanisms of action on cervical cancer cell lines CaSki and HeLa positive for HPV type 16 and 18, respectively. Our data shows that fig latex inhibits properties that are associated with HPV-positive cervical cancer transformed cells such as rapid growth and invasion and substantially downregulated the expression of p16 and HPV onco-proteins E6, E7. These findings suggest Ficus carica latex has the potential to be used in the development of therapeutic modalities for the possible treatment, cure and prevention of HPV related cervical cancer."
+  ],
+  "affiliation": [
+    "Kingston University London, Cancer theme, School of Life Science, Pharmacy and Chemistry, SEC Faculty, Kingston upon Thames, KT1 2EE, London, UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6355798?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6355798"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-018-37665-6"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-02-02"
+  ],
+  "firstIndexDate": [
+    "2019-02-07"
+  ],
+  "dateOfRevision": [
+    "2019-02-03"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-31"
+  ],
+  "firstPublicationDate": [
+    "2019-01-31"
+  ]
+}

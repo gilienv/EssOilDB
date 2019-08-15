@@ -1,0 +1,625 @@
+{
+  "id": [
+    "30909386"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30909386"
+  ],
+  "pmcid": [
+    "PMC6470929"
+  ],
+  "doi": [
+    "10.3390/nu11030681"
+  ],
+  "title": [
+    "Vitamin A and Pregnancy: A Narrative Review."
+  ],
+  "authorString": [
+    "Bastos Maia S, Rolland Souza AS, Costa Caminha MF, Lins da Silva S, Callou Cruz RSBL, Carvalho Dos Santos C, Batista Filho M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bastos Maia S"
+          ],
+          "firstName": [
+            "Sabina"
+          ],
+          "lastName": [
+            "Bastos Maia"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4974-5073",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Maternal and Child Healthcare Postgraduate Program, Instituto de Medicina Integral Prof. Fernando Figueira (IMIP), Recife 50070-550, Pernambuco, Brazil. sabinamaia@hotmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Rolland Souza AS"
+          ],
+          "firstName": [
+            "Alex Sandro"
+          ],
+          "lastName": [
+            "Rolland Souza"
+          ],
+          "initials": [
+            "AS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7039-2052",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Maternal and Child Healthcare Postgraduate Program, Instituto de Medicina Integral Prof. Fernando Figueira (IMIP), Recife 50070-550, Pernambuco, Brazil. alexrolland@uol.com.br."
+          ]
+        },
+        {
+          "fullName": [
+            "Costa Caminha MF"
+          ],
+          "firstName": [
+            "Maria de Fátima"
+          ],
+          "lastName": [
+            "Costa Caminha"
+          ],
+          "initials": [
+            "MF"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0653-5324",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Maternal and Child Healthcare Postgraduate Program, Instituto de Medicina Integral Prof. Fernando Figueira (IMIP), Recife 50070-550, Pernambuco, Brazil. fatimacaminha@imip.org.br."
+          ]
+        },
+        {
+          "fullName": [
+            "Lins da Silva S"
+          ],
+          "firstName": [
+            "Suzana"
+          ],
+          "lastName": [
+            "Lins da Silva"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Maternal and Child Healthcare Postgraduate Program, Instituto de Medicina Integral Prof. Fernando Figueira (IMIP), Recife 50070-550, Pernambuco, Brazil. suzanalinsilva@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Callou Cruz RSBL"
+          ],
+          "firstName": [
+            "Rachel de Sá Barreto Luna"
+          ],
+          "lastName": [
+            "Callou Cruz"
+          ],
+          "initials": [
+            "RSBL"
+          ],
+          "affiliation": [
+            "Department of Nursing, Regional University of Cariri (URCA), Crato 63105-000, Ceará, Brazil. rachel.callou@hotmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Carvalho Dos Santos C"
+          ],
+          "firstName": [
+            "Camila"
+          ],
+          "lastName": [
+            "Carvalho Dos Santos"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Research Directorate, IMIP, Recife 50070-550, Pernambuco, Brazil. camilacarvalhoupe@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Batista Filho M"
+          ],
+          "firstName": [
+            "Malaquias"
+          ],
+          "lastName": [
+            "Batista Filho"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Maternal and Child Healthcare Postgraduate Program, Instituto de Medicina Integral Prof. Fernando Figueira (IMIP), Recife 50070-550, Pernambuco, Brazil. malaquias.imip@gmail.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0653-5324",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7039-2052",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4974-5073",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2787687"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nutrients"
+          ],
+          "ISOAbbreviation": [
+            "Nutrients"
+          ],
+          "medlineAbbreviation": [
+            "Nutrients"
+          ],
+          "NLMid": [
+            "101521595"
+          ],
+          "ISSN": [
+            "2072-6643"
+          ],
+          "ESSN": [
+            "2072-6643"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Vitamin A is a crucial micronutrient for pregnant women and their fetuses. In addition to being essential for morphological and functional development and for ocular integrity, vitamin A exerts systemic effects on several fetal organs and on the fetal skeleton. Vitamin A requirements during pregnancy are therefore greater. Vitamin A deficiency (VAD) remains the leading cause of preventable blindness in the world. VAD in pregnant women is a public health issue in most developing countries. In contrast, in some developed countries, excessive vitamin A intake during pregnancy can be a concern since, when in excess, this micronutrient may exert teratogenic effects in the first 60 days following conception. Routine prenatal vitamin A supplementation for the prevention of maternal and infant morbidity and mortality is not recommended; however, in regions where VAD is a public health issue, vitamin A supplementation is recommended to prevent night blindness. Given the importance of this topic and the lack of a complete, up-to-date review on vitamin A and pregnancy, an extensive review of the literature was conducted to identify conflicting or incomplete data on the topic as well as any gaps in existing data."
+  ],
+  "affiliation": [
+    "Maternal and Child Healthcare Postgraduate Program, Instituto de Medicina Integral Prof. Fernando Figueira (IMIP), Recife 50070-550, Pernambuco, Brazil. sabinamaia@hotmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Night Blindness"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pregnancy Complications"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Vitamin A Deficiency"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Vitamin A"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Vitamins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prenatal Care"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pregnancy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Dietary Supplements"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Infant, Newborn"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Maternal Nutritional Physiological Phenomena"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Pregnancy",
+        "Vitamin A",
+        "Vitamin A Deficiency"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Vitamins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Vitamin A"
+          ],
+          "registryNumber": [
+            "11103-57-4"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6470929?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6470929"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/nu11030681"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-07-25"
+  ],
+  "dateOfCreation": [
+    "2019-03-27"
+  ],
+  "firstIndexDate": [
+    "2019-03-26"
+  ],
+  "dateOfRevision": [
+    "2019-07-25"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-22"
+  ],
+  "firstPublicationDate": [
+    "2019-03-22"
+  ]
+}

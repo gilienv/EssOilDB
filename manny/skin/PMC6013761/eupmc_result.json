@@ -1,0 +1,321 @@
+{
+  "id": [
+    "29983912"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29983912"
+  ],
+  "pmcid": [
+    "PMC6013761"
+  ],
+  "doi": [
+    "10.12688/f1000research.13499.1"
+  ],
+  "title": [
+    "Recent advances in understanding and managing contact dermatitis."
+  ],
+  "authorString": [
+    "Martin SF, Rustemeyer T, Thyssen JP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Martin SF"
+          ],
+          "firstName": [
+            "Stefan F"
+          ],
+          "lastName": [
+            "Martin"
+          ],
+          "initials": [
+            "SF"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1617-1280",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Allergy Research Group, Department of Dermatology, Faculty of Medicine, University of Freiburg, Freiburg, D-79104, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Rustemeyer T"
+          ],
+          "firstName": [
+            "Thomas"
+          ],
+          "lastName": [
+            "Rustemeyer"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Dermatology, VU University Medical Centre (VUmc), De Boelelaan 1117, Amsterdam, 1081HV, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Thyssen JP"
+          ],
+          "firstName": [
+            "Jacob P"
+          ],
+          "lastName": [
+            "Thyssen"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "affiliation": [
+            "Department of Dermatology and Allergy, Herlev and Gentofte Hospital, Hellerup, DK-2900, Denmark."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1617-1280",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2640457"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "F1000Research"
+          ],
+          "ISOAbbreviation": [
+            "F1000Res"
+          ],
+          "medlineAbbreviation": [
+            "F1000Res"
+          ],
+          "NLMid": [
+            "101594320"
+          ],
+          "ISSN": [
+            "2046-1402"
+          ],
+          "ESSN": [
+            "2046-1402"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "About 20% of the general population is contact-sensitized to common haptens such as fragrances, preservatives, and metals. Many also develop allergic contact dermatitis (ACD), the clinical manifestation of contact sensitization. ACD represents a common health issue and is also one of the most important occupational diseases. Although this inflammatory skin disease is mediated predominantly by memory T lymphocytes recognizing low-molecular-weight chemicals after skin contact, the innate immune system also plays an important role. Along that line, the presence of irritants may increase the risk of ACD and therefore ACD is often seen in the context of irritant contact dermatitis. In this review article, we discuss recent progress in basic research that has dramatically increased our understanding of the pathomechanisms of ACD and provides a basis for the development of novel diagnostic and therapeutic measures. Current methods for diagnosis as well as treatment options of ACD are also discussed."
+  ],
+  "affiliation": [
+    "Allergy Research Group, Department of Dermatology, Faculty of Medicine, University of Freiburg, Freiburg, D-79104, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Chemical",
+        "Treatment",
+        "Contact dermatitis",
+        "SKin"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6013761?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6013761"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.12688/f1000research.13499.1"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR41528"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-07-10"
+  ],
+  "firstIndexDate": [
+    "2018-07-09"
+  ],
+  "dateOfRevision": [
+    "2019-01-24"
+  ],
+  "electronicPublicationDate": [
+    "2018-06-20"
+  ],
+  "firstPublicationDate": [
+    "2018-06-20"
+  ]
+}

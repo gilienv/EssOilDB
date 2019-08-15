@@ -1,0 +1,281 @@
+{
+  "id": [
+    "30971936"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30971936"
+  ],
+  "pmcid": [
+    "PMC6443891"
+  ],
+  "doi": [
+    "10.3389/fphys.2019.00254"
+  ],
+  "title": [
+    "Use of Advanced Imaging Techniques for the Characterization of Oily Skin."
+  ],
+  "authorString": [
+    "Maia Campos PMBG, Melo MO, Mercurio DG."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Maia Campos PMBG"
+          ],
+          "firstName": [
+            "Patricia M B G"
+          ],
+          "lastName": [
+            "Maia Campos"
+          ],
+          "initials": [
+            "PMBG"
+          ],
+          "affiliation": [
+            "School of Pharmaceutical Sciences of Ribeirão Preto, University of São Paulo, São Paulo, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Melo MO"
+          ],
+          "firstName": [
+            "Maisa O"
+          ],
+          "lastName": [
+            "Melo"
+          ],
+          "initials": [
+            "MO"
+          ],
+          "affiliation": [
+            "School of Pharmaceutical Sciences of Ribeirão Preto, University of São Paulo, São Paulo, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Mercurio DG"
+          ],
+          "firstName": [
+            "Daiane G"
+          ],
+          "lastName": [
+            "Mercurio"
+          ],
+          "initials": [
+            "DG"
+          ],
+          "affiliation": [
+            "School of Pharmaceutical Sciences of Ribeirão Preto, University of São Paulo, São Paulo, Brazil."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2777617"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in physiology"
+          ],
+          "ISOAbbreviation": [
+            "Front Physiol"
+          ],
+          "medlineAbbreviation": [
+            "Front Physiol"
+          ],
+          "NLMid": [
+            "101549006"
+          ],
+          "ISSN": [
+            "1664-042X"
+          ],
+          "ESSN": [
+            "1664-042X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "254"
+  ],
+  "abstractText": [
+    "Excessively oily skin leads to clinical signs that cause discomfort to patients, such as excessive shine, enlarged pores, acne, and an imbalance of the hydrolipidic layer. In this context, a constant demand for the research and development of products that prevent these features, has been noted in the field of cosmetics and dermatology. Thus, the objective of this study is to evaluate the cutaneous characteristics of oily skin due an excessive production of sebum through biophysical and skin imaging techniques. 19 participants with different skin types were selected and the following parameters were evaluated: pore count, determination of the number of sebaceous glands and amount of sebum in infundibulum, determination of cutaneous microrelief, count of comedones, evaluation of epidermis thickness, characterization of the cellular, and comedone size and its characteristics. These evaluations were done through biophysical and skin imaging techniques. The obtained results showed that different regions of the face presented different characteristics related to oiliness, quantity, and the appearance of pores and comedones. The malar region had a lower epidermis thickness and a larger number of large pores. Moreover, in this region excessive sebum production, which can be related to pores, not comedones, was noted. The nose region presented higher sebum content in the infundibulum and lower active sebaceous glands, showing a higher activity of sebaceous production in this region. The chin region presented a positive correlation between the sebum content, roughness parameter and the number of pores and comedones. As different skin properties are related and influence the appearance of undesirable clinical signs, we identified the need for a multifactorial approach for the effective treatment of oily skin. The rational development of multifunctional cosmetic products that promote the control of oily skin, that regulate the keratinization process, improve the microrelief and leads to a better epidermis and dermis structure, will not only improve oily skin conditions but will also allow for the reduction or disappearance of clinical signs that result from excessive oiliness, all of which causes concern and results in a relentless search for cosmetic and dermatological products that address the unaesthetic nature of these conditions."
+  ],
+  "affiliation": [
+    "School of Pharmaceutical Sciences of Ribeirão Preto, University of São Paulo, São Paulo, Brazil."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Confocal microscopy",
+        "ACNE",
+        "Cosmetics",
+        "Oily Skin",
+        "Biophysical And Skin Imaging Techniques"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6443891?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6443891"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fphys.2019.00254"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-04-12"
+  ],
+  "firstIndexDate": [
+    "2019-04-12"
+  ],
+  "dateOfRevision": [
+    "2019-04-14"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-26"
+  ],
+  "firstPublicationDate": [
+    "2019-03-26"
+  ]
+}

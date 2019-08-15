@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6475152/results/word/frequencies/results.xml">
+  <result title="frequency" word="prescriptions" count="58"/>
+  <result title="frequency" word="(.)" count="45"/>
+  <result title="frequency" word="Inappropriate" count="33"/>
+  <result title="frequency" word="use" count="32"/>
+  <result title="frequency" word="PIMs" count="30"/>
+  <result title="frequency" word="patients" count="30"/>
+  <result title="frequency" word="drug" count="28"/>
+  <result title="frequency" word="prescription" count="27"/>
+  <result title="frequency" word="PIM" count="26"/>
+  <result title="frequency" word="study" count="26"/>
+  <result title="frequency" word="hospital" count="23"/>
+  <result title="frequency" word="inappropriate" count="23"/>
+  <result title="frequency" word="number" count="23"/>
+  <result title="frequency" word="Omissions" count="22"/>
+  <result title="frequency" word="potentially" count="21"/>
+ </snippets>
+</snippetsTree>

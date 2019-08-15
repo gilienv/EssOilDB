@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="frequencies">
+ <result title="frequency" count="4">Escherichia coli</result>
+ <result title="frequency" count="3">Nicotiana benthamiana</result>
+ <result title="frequency" count="3">Schizosaccharomyces cerevisiae</result>
+ <result title="frequency" count="2">Pichia pastoris</result>
+ <result title="frequency" count="2">Nicotiana tabacum</result>
+ <result title="frequency" count="2">Listeria monocytogenes</result>
+ <result title="frequency" count="1">Lactococcus lactis</result>
+ <result title="frequency" count="1">Lactobacillus casei</result>
+ <result title="frequency" count="1">Trichoplusia ni</result>
+ <result title="frequency" count="1">Bupleurum chinense</result>
+ <result title="frequency" count="1">Haemophilus influenzae</result>
+ <result title="frequency" count="1">Arabidopsis thaliana</result>
+ <result title="frequency" count="1">Salmonella enterica</result>
+ <result title="frequency" count="1">Clostridium thermocellum</result>
+ <result title="frequency" count="1">Listeria casei</result>
+ <result title="frequency" count="1">Schizosaccharomyces pombe</result>
+ <result title="frequency" count="1">Shigella sonnei</result>
+ <result title="frequency" count="1">Mycobacterium bovis</result>
+ <result title="frequency" count="1">Citrullus colocynthis</result>
+ <result title="frequency" count="1">Spodoptera frugiperda</result>
+ <result title="frequency" count="1">Bordetella pertussis</result>
+ <result title="frequency" count="1">Listeria lactis</result>
+ <result title="frequency" count="1">Mycobacterium tuberculosis</result>
+ <result title="frequency" count="1">Aloe vera</result>
+ <result title="frequency" count="1">Saccharomyces cerevisiae</result>
+</results>

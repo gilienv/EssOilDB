@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6232252/results/search/country/results.xml">
+  <result pre="Patrizia Ballerini, Università degli Studi &quot;G. d’Annunzio&quot; Chieti - Pescara," exact="Italy" post="Reviewed by: Eldi Schonfeld-Dado, Stanford University, United States; Dan"/>
+  <result pre="Chieti - Pescara, Italy Reviewed by: Eldi Schonfeld-Dado, Stanford University," exact="United States;" post="Dan Hu, Wuhan University, China *Correspondence: Dooil Jeoung, jeoungd@kangwon.ac.kr"/>
+  <result pre="Eldi Schonfeld-Dado, Stanford University, United States; Dan Hu, Wuhan University," exact="China" post="*Correspondence: Dooil Jeoung, jeoungd@kangwon.ac.kr †These authors have contributed equally"/>
+ </snippets>
+</snippetsTree>

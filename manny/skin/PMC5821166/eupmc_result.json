@@ -1,0 +1,300 @@
+{
+  "id": [
+    "29484100"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29484100"
+  ],
+  "pmcid": [
+    "PMC5821166"
+  ],
+  "doi": [
+    "10.1080/19381980.2017.1375636"
+  ],
+  "title": [
+    "Sebaceous-immunobiology is orchestrated by sebum lipids."
+  ],
+  "authorString": [
+    "Lovászi M, Szegedi A, Zouboulis CC, Törőcsik D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lovászi M"
+          ],
+          "firstName": [
+            "Marianna"
+          ],
+          "lastName": [
+            "Lovászi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Dermatology, Faculty of Medicine, University of Debrecen, Debrecen, Hungary."
+          ]
+        },
+        {
+          "fullName": [
+            "Szegedi A"
+          ],
+          "firstName": [
+            "Andrea"
+          ],
+          "lastName": [
+            "Szegedi"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Dermatology, Faculty of Medicine, University of Debrecen, Debrecen, Hungary."
+          ]
+        },
+        {
+          "fullName": [
+            "Zouboulis CC"
+          ],
+          "firstName": [
+            "Christos C"
+          ],
+          "lastName": [
+            "Zouboulis"
+          ],
+          "initials": [
+            "CC"
+          ],
+          "affiliation": [
+            "Departments of Dermatology, Venereology, Allergology and Immunology, Dessau Medical Center, Brandenburg Medical School Theodore Fontane, Dessau, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Törőcsik D"
+          ],
+          "firstName": [
+            "Dániel"
+          ],
+          "lastName": [
+            "Törőcsik"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Dermatology, Faculty of Medicine, University of Debrecen, Debrecen, Hungary."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2547449"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Dermato-endocrinology"
+          ],
+          "ISOAbbreviation": [
+            "Dermatoendocrinol"
+          ],
+          "medlineAbbreviation": [
+            "Dermatoendocrinol"
+          ],
+          "NLMid": [
+            "101495367"
+          ],
+          "ISSN": [
+            "1938-1972"
+          ],
+          "ESSN": [
+            "1938-1980"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "e1375636"
+  ],
+  "abstractText": [
+    "The major role of sebaceous glands in mammals is to produce sebum, which coats the epidermis and the hair providing waterproofing, thermoregulation and photoprotection. However, as the need for these functions decreased along the evolutionary changes in humans, a relevant question has been raised: are sebaceous glands and sebum the remnants of our mammalian heritage or do they have overtaken a far more complex role in human skin biology? Trying to provide answers to this question, this review introduces the evolving field of sebaceous immunobiology and puts into the focus the pathways that sebum lipids use to influence the immune milieu of the skin. By introducing possible modifiers of sebaceous lipogenesis and discussing the - human-specific - alterations in composition and amount of sebum, the attribute of sebum as a sensitive tool, which is capable of translating multiple signalling pathways into the dermal micro environment is presented. Further their interaction with macrophages and keratinocytes involves sebum lipid fractions into disease pathogenesis, which could lead - on the other side - to the development of novel sebum-based therapeutic strategies."
+  ],
+  "affiliation": [
+    "Department of Dermatology, Faculty of Medicine, University of Debrecen, Debrecen, Hungary."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Bioactive Sebum Lipids",
+        "Dermal Immunity",
+        "Sebaceous-immunobiology"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5821166?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5821166"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/19381980.2017.1375636"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-02-28"
+  ],
+  "firstIndexDate": [
+    "2018-02-28"
+  ],
+  "dateOfRevision": [
+    "2018-03-01"
+  ],
+  "electronicPublicationDate": [
+    "2017-10-17"
+  ],
+  "firstPublicationDate": [
+    "2017-10-17"
+  ]
+}

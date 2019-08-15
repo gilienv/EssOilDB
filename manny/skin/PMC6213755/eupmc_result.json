@@ -1,0 +1,526 @@
+{
+  "id": [
+    "30301271"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30301271"
+  ],
+  "pmcid": [
+    "PMC6213755"
+  ],
+  "doi": [
+    "10.3390/ijms19103059"
+  ],
+  "title": [
+    "Enhancing Skin Health: By Oral Administration of Natural Compounds and Minerals with Implications to the Dermal Microbiome."
+  ],
+  "authorString": [
+    "Vollmer DL, West VA, Lephart ED."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Vollmer DL"
+          ],
+          "firstName": [
+            "David L"
+          ],
+          "lastName": [
+            "Vollmer"
+          ],
+          "initials": [
+            "DL"
+          ],
+          "affiliation": [
+            "4Life Research, Scientific Research Division, Sandy, UT 84070, USA. Davidv@4Life.com."
+          ]
+        },
+        {
+          "fullName": [
+            "West VA"
+          ],
+          "firstName": [
+            "Virginia A"
+          ],
+          "lastName": [
+            "West"
+          ],
+          "initials": [
+            "VA"
+          ],
+          "affiliation": [
+            "4Life Research, Scientific Research Division, Sandy, UT 84070, USA. Virginiap@4Life.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Lephart ED"
+          ],
+          "firstName": [
+            "Edwin D"
+          ],
+          "lastName": [
+            "Lephart"
+          ],
+          "initials": [
+            "ED"
+          ],
+          "affiliation": [
+            "Department of Physiology, Developmental Biology and The Neuroscience Center, Brigham Young University, Provo, UT 84602, USA. Edwin_Lephart@byu.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2732859"
+      ],
+      "dateOfPublication": [
+        "2018 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of molecular sciences"
+          ],
+          "ISOAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "medlineAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "NLMid": [
+            "101092791"
+          ],
+          "ISSN": [
+            "1422-0067"
+          ],
+          "ESSN": [
+            "1422-0067"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "The history of cosmetics goes back to early Egyptian times for hygiene and health benefits while the history of topical applications that provide a medicinal treatment to combat dermal aging is relatively new. For example, the term cosmeceutical was first coined by Albert Kligman in 1984 to describe topical products that afford both cosmetic and therapeutic benefits. However, beauty comes from the inside. Therefore, for some time scientists have considered how nutrition reflects healthy skin and the aging process. The more recent link between nutrition and skin aging began in earnest around the year 2000 with the demonstrated increase in peer-reviewed scientific journal reports on this topic that included biochemical and molecular mechanisms of action. Thus, the application of: (a) topical administration from outside into the skin and (b) inside by oral consumption of nutritionals to the outer skin layers is now common place and many journal reports exhibit significant improvement for both on a variety of dermal parameters. Therefore, this review covers, where applicable, the history, chemical structure, and sources such as biological and biomedical properties in the skin along with animal and clinical data on the oral applications of: (a) collagen, (b) ceramide, (c) β-carotene, (d) astaxanthin, (e) coenzyme Q10, (f) colostrum, (g) zinc, and (h) selenium in their mode of action or function in improving dermal health by various quantified endpoints. Lastly, the importance of the human skin microbiome is briefly discussed in reference to the genomics, measurement, and factors influencing its expression and how it may alter the immune system, various dermal disorders, and potentially be involved in chemoprevention."
+  ],
+  "affiliation": [
+    "4Life Research, Scientific Research Division, Sandy, UT 84070, USA. Davidv@4Life.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "19-2215"
+          ],
+          "agency": [
+            "Technology Transfer Office (TTO)/Life Sciences College"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Skin"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Trace Elements"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Vitamins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biological Products"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Administration, Oral"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Microbiota"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Collagen",
+        "Zinc",
+        "Selenium",
+        "Ceramide",
+        "Coenzyme Q10",
+        "β-carotene",
+        "astaxanthin",
+        "Human Skin",
+        "Microbiome",
+        "colostrum",
+        "Oral Applications"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Vitamins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Trace Elements"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Biological Products"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6213755?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6213755"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijms19103059"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-01-22"
+  ],
+  "dateOfCreation": [
+    "2018-10-11"
+  ],
+  "firstIndexDate": [
+    "2018-10-10"
+  ],
+  "dateOfRevision": [
+    "2019-01-22"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-07"
+  ],
+  "firstPublicationDate": [
+    "2018-10-07"
+  ]
+}

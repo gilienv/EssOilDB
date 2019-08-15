@@ -1,0 +1,545 @@
+{
+  "id": [
+    "29273721"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29273721"
+  ],
+  "pmcid": [
+    "PMC5741767"
+  ],
+  "doi": [
+    "10.1038/s41598-017-18181-5"
+  ],
+  "title": [
+    "Topographical diversity of common skin microflora and its association with skin environment type: An observational study in Chinese women."
+  ],
+  "authorString": [
+    "Li X, Yuan C, Xing L, Humbert P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Li X"
+          ],
+          "firstName": [
+            "Xi"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Clinical Research APAC, Johnson & Johnson (China) Ltd., Worldwide EM Innovation Center, 3285 Dongchuan Road, Minhang District, Shanghai, 200245, China. cli9@its.jnj.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Yuan C"
+          ],
+          "firstName": [
+            "Chao"
+          ],
+          "lastName": [
+            "Yuan"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Skin & Cosmetic Research Department, Shanghai Skin Disease Hospital, 1278 Bao De Road, Jing'an District, Shanghai, 200443, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xing L"
+          ],
+          "firstName": [
+            "Licong"
+          ],
+          "lastName": [
+            "Xing"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Clinical Research APAC, Johnson & Johnson (China) Ltd., Worldwide EM Innovation Center, 3285 Dongchuan Road, Minhang District, Shanghai, 200245, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Humbert P"
+          ],
+          "firstName": [
+            "Philippe"
+          ],
+          "lastName": [
+            "Humbert"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Dermatology, Research and Clinic Centre on the Tegument, Clinical Investigation Center, Besançon University Hospital, Besançon, France."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2518599"
+      ],
+      "dateOfPublication": [
+        "2017 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "18046"
+  ],
+  "abstractText": [
+    "This study evaluated cutaneous microbial distribution, and microbial co-occurrence at different body sites and skin environments in Chinese women (39.6 ± 11.9 years, N = 100) during the winter season. Microbial distribution (Propionibacterium acnes, Staphylococcus aureus, Staphylococcus epidermidis, Lactobacillus, Pseudomonadaceae, and Malassezia furfur), association with biomarkers (antimicrobial peptides: LL-37, β-defensins [HBD-2, HBD-3]), and claudin-1) and skin biophysical parameters (transepidermal water loss, pH, skin scaliness and roughness, sebum and hydration levels) were also determined. Skin sites (glabella [GL], hand-back [HB], interdigital web-space [IS], antecubital fossa [AF], volar forearm [VF], back [BA]) were classified as normal, oily or dry based on two-step cluster analysis and exposed or unexposed (uncovered or covered by clothes, respectively) based on seasonal apparel. Pseudomonadaceae and Staphylococcus aureus had the highest and lowest detection rate respectively at all sites. Cluster analysis identified skin sites as 'normal' (HB, BA, AF, VF), 'dry' (IS) and 'oily' (GL). Bacterial alpha diversity was higher in exposed (HB, IS, and GL) compared with unexposed sites (BA, AF and VF). Co-occurrence of Staphylococcus aureus with any of the other five microorganisms was lower in dry and oily skin versus normal skin. Skin exposure, biophysical/barrier profile and biomarkers were found to be associated with bacterial distribution and co-occurrence."
+  ],
+  "affiliation": [
+    "Clinical Research APAC, Johnson & Johnson (China) Ltd., Worldwide EM Innovation Center, 3285 Dongchuan Road, Minhang District, Shanghai, 200245, China. cli9@its.jnj.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article",
+        "Observational Study"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Skin"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pseudomonadaceae"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Propionibacterium acnes"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Staphylococcus aureus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Staphylococcus epidermidis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Lactobacillus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Malassezia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Water Loss, Insensible"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "China"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5741767?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5741767"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-017-18181-5"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-07-17"
+  ],
+  "dateOfCreation": [
+    "2017-12-24"
+  ],
+  "firstIndexDate": [
+    "2017-12-24"
+  ],
+  "dateOfRevision": [
+    "2019-07-17"
+  ],
+  "electronicPublicationDate": [
+    "2017-12-22"
+  ],
+  "firstPublicationDate": [
+    "2017-12-22"
+  ]
+}

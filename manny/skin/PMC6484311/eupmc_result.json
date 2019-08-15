@@ -1,0 +1,406 @@
+{
+  "id": [
+    "30821074"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30821074"
+  ],
+  "pmcid": [
+    "PMC6484311"
+  ],
+  "doi": [
+    "10.1111/jcmm.14262"
+  ],
+  "title": [
+    "A functional interaction between Hippo-YAP signalling and SREBPs mediates hepatic steatosis in diabetic mice."
+  ],
+  "authorString": [
+    "Shu Z, Gao Y, Zhang G, Zhou Y, Cao J, Wan D, Zhu X, Xiong W."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shu Z"
+          ],
+          "firstName": [
+            "Zhiping"
+          ],
+          "lastName": [
+            "Shu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of Nuclear Medicine, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Gao Y"
+          ],
+          "firstName": [
+            "Yuan"
+          ],
+          "lastName": [
+            "Gao"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Nuclear Medicine, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang G"
+          ],
+          "firstName": [
+            "Guopeng"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Nuclear Medicine, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou Y"
+          ],
+          "firstName": [
+            "Yu"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Nuclear Medicine, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Cao J"
+          ],
+          "firstName": [
+            "Jing"
+          ],
+          "lastName": [
+            "Cao"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Nuclear Medicine, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wan D"
+          ],
+          "firstName": [
+            "Dongyi"
+          ],
+          "lastName": [
+            "Wan"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Nuclear Medicine, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu X"
+          ],
+          "firstName": [
+            "Xiaohua"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Department of Nuclear Medicine, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xiong W"
+          ],
+          "firstName": [
+            "Wenqian"
+          ],
+          "lastName": [
+            "Xiong"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7136-9265",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Obstetrics and Gynecology, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7136-9265",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "23"
+      ],
+      "journalIssueId": [
+        "2809323"
+      ],
+      "dateOfPublication": [
+        "2019 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of cellular and molecular medicine"
+          ],
+          "ISOAbbreviation": [
+            "J. Cell. Mol. Med."
+          ],
+          "medlineAbbreviation": [
+            "J Cell Mol Med"
+          ],
+          "NLMid": [
+            "101083777"
+          ],
+          "ISSN": [
+            "1582-1838"
+          ],
+          "ESSN": [
+            "1582-4934"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "3616-3628"
+  ],
+  "abstractText": [
+    "The Hippo pathway is an evolutionarily conserved regulator of organ size and tumorigenesis that negatively regulates cell growth and survival. Whether the Hippo pathway regulates cell metabolism is unknown. Here, we report that in the nucleus of hepatocytes, Yes-associated protein(YAP)-the terminal effector of the Hippo pathway-directly interacts with sterol regulatory element binding proteins (SREBP-1c and SREBP-2) on the promoters of the fatty acid synthase (FAS) and 30-hydroxylmethyl glutaryl coenzyme A reductase (HMGCR), thereby stimulating their transcription and promoting hepatocyte lipogenesis and cholesterol synthesis. In diet-induced diabetic mice, either Lats1 overexpression or YAP knockdown protects against hepatic steatosis and hyperlipidaemia through suppression of the interaction between YAP and SREBP-1c/SREBP-2. These results suggest that YAP is a nuclear co-factor of SREBPs and that the Hippo pathway negatively affects hepatocyte lipogenesis by inhibiting the function of YAP-SREBP complexes."
+  ],
+  "affiliation": [
+    "Department of Nuclear Medicine, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "81701417"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "SREBPs",
+        "YAP",
+        "Transcriptional activity",
+        "hepatic steatosis",
+        "Hippo Signalling"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6484311?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6484311"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1111/jcmm.14262"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-03-02"
+  ],
+  "firstIndexDate": [
+    "2019-03-02"
+  ],
+  "dateOfRevision": [
+    "2019-05-03"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-01"
+  ],
+  "firstPublicationDate": [
+    "2019-03-01"
+  ]
+}

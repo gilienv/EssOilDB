@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6304883/results/species/binomial/results.xml">
+  <result pre=", Zn is required for histidine conversion to UCA [ 35] ( Figure 2). " exact="Propionibacterium acnes" xpath="/html[1]/body[1]/div[2]/div[2]/div[2]/div[2]/p[3]" match="Propionibacterium acnes" post=" ( P. acnes) induce excess KC proliferation and FLG expression in the epidermis through the " name="binomial"/>
+  <result pre="nversion to UCA [ 35] ( Figure 2). Propionibacterium acnes ( " exact="P. acnes" match="Propionibacterium acnes" post=") induce excess KC proliferation and FLG expression in the epidermis through the induction of IGF-1" name="binomial"/>
+ </snippets>
+</snippetsTree>

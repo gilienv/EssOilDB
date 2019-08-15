@@ -1,0 +1,1872 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Eur Acad Dermatol Venereol</journal-id><journal-id journal-id-type="iso-abbrev">J Eur Acad Dermatol Venereol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1468-3083</journal-id><journal-id journal-id-type="publisher-id">JDV</journal-id><journal-title-group><journal-title>Journal of the European Academy of Dermatology and Venereology</journal-title></journal-title-group><issn pub-type="ppub">0926-9959</issn><issn pub-type="epub">1468-3083</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5947266</article-id><article-id pub-id-type="doi">10.1111/jdv.14820</article-id><article-id pub-id-type="publisher-id">JDV14820</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Acne and Rosacea</subject></subj-group></article-categories><title-group><article-title>The influence of exposome on acne</article-title><alt-title alt-title-type="left-running-head">Dr&#x000e9;no <italic>et&#x000a0;al</italic>.</alt-title></title-group><contrib-group><contrib id="jdv14820-cr-0001" contrib-type="author" corresp="yes"><name><surname>Dr&#x000e9;no</surname><given-names>B.</given-names></name><address><email>brigitte.dreno@wanadoo.fr</email></address><xref ref-type="aff" rid="jdv14820-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jdv14820-cr-0002" contrib-type="author"><name><surname>Bettoli</surname><given-names>V.</given-names></name><xref ref-type="aff" rid="jdv14820-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jdv14820-cr-0003" contrib-type="author"><name><surname>Araviiskaia</surname><given-names>E.</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-6378-8582</contrib-id><xref ref-type="aff" rid="jdv14820-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="jdv14820-cr-0004" contrib-type="author"><name><surname>Sanchez Viera</surname><given-names>M.</given-names></name><xref ref-type="aff" rid="jdv14820-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="jdv14820-cr-0005" contrib-type="author"><name><surname>Bouloc</surname><given-names>A.</given-names></name><xref ref-type="aff" rid="jdv14820-aff-0005">
+<sup>5</sup>
+</xref></contrib></contrib-group><aff id="jdv14820-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Service de Dermatologie</named-content>
+<institution>CIC 1413</institution>
+<institution>CRCINA Inserm 1232</institution>
+<institution>University Hospital Nantes</institution>
+<named-content content-type="city">Nantes</named-content>
+<country country="FR">France</country>
+</aff><aff id="jdv14820-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Clinical and Experimental Medicine</named-content>
+<institution>Azienda Ospedaliero&#x02010;Universitaria di Ferrara</institution>
+<named-content content-type="city">Ferrara</named-content>
+<country country="IT">Italy</country>
+</aff><aff id="jdv14820-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Dermatology</named-content>
+<institution>First Pavlov State Medical University of St. Petersburg</institution>
+<named-content content-type="city">St. Petersburg</named-content>
+<country>Russia</country>
+</aff><aff id="jdv14820-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Skin Health, Aging and Cancer</named-content>
+<institution>Institute for Dermatology</institution>
+<named-content content-type="city">Madrid</named-content>
+<country country="ES">Spain</country>
+</aff><aff id="jdv14820-aff-0005">
+<label><sup>5</sup></label>
+<institution>Laboratoires Vichy</institution>
+<named-content content-type="city">Levallois Perret</named-content>
+<country country="FR">France</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>Correspondence: B. Dr&#x000e9;no. E&#x02010;mail: <email>brigitte.dreno@wanadoo.fr</email></corresp></author-notes><pub-date pub-type="epub"><day>15</day><month>2</month><year>2018</year></pub-date><pub-date pub-type="ppub"><month>5</month><year>2018</year></pub-date><volume>32</volume><issue>5</issue><issue-id pub-id-type="doi">10.1111/jdv.2018.32.issue-5</issue-id><fpage>812</fpage><lpage>819</lpage><history><date date-type="received"><day>30</day><month>11</month><year>2017</year></date><date date-type="accepted"><day>10</day><month>1</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2018 European Academy of Dermatology and Venereology <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. <italic>Journal of the European Academy of Dermatology and Venereology</italic> published by John Wiley &#x00026; Sons Ltd on behalf of European Academy of Dermatology and Venereology.</copyright-statement><license license-type="creativeCommonsBy-nc"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:JDV-32-812.pdf"/><abstract id="jdv14820-abs-0001"><title>Abstract</title><sec id="jdv14820-sec-0001"><title>Background</title><p>
+<italic>Acne vulgaris</italic> is one of the main reasons for dermatological consultations. Severity and response to treatment may be impacted by various external factors or exposome.</p></sec><sec id="jdv14820-sec-0002"><title>Aim</title><p>To assess the impact of environmental factors on acne and to provide a comprehensive overview of the acne exposome.</p></sec><sec id="jdv14820-sec-0003"><title>Methods</title><p>Two consensus meetings of five European dermatologists and a comprehensive literature search on exposome factors triggering acne served as a basis for this review.</p></sec><sec id="jdv14820-sec-0004"><title>Results</title><p>Acne exposome was defined as the sum of all environmental factors influencing the occurrence, duration and severity of acne. Exposome factors impact on the response and the frequency of relapse to treatments by interacting with the skin barrier, sebaceous gland, innate immunity and cutaneous microbiota. They may be classified into the following six main categories: nutrition, psychological and lifestyle factors, occupational factors including cosmetics, as well as pollutants, medication and climatic factors. Moreover, practical considerations for the dermatologist's clinical practice are proposed.</p></sec><sec id="jdv14820-sec-0005"><title>Conclusion</title><p>Exposome factors including nutrition, medication, occupational factors, pollutants, climatic factors, and psychosocial and lifestyle factors may impact on the course and severity of acne and on treatment efficacy. Identifying and reducing the impact of exposome is important for an adequate acne disease management.</p></sec></abstract><funding-group><award-group><funding-source>Laboratoires Vichy International</funding-source></award-group></funding-group><counts><fig-count count="1"/><table-count count="2"/><page-count count="8"/><word-count count="7488"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>jdv14820</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>May 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.3.8.2 mode:remove_FC converted:11.05.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group id="jdv14820-ntgp-0001"><fn id="jdv14820-note-1001"><p>Conflicts of interest</p><p>The authors have no conflict of interest to disclose. The authors received honoraria from Laboratoires Vichy International.</p></fn><fn fn-type="funding" id="jdv14820-note-1002"><p>Funding sources</p><p>This Expert Board was organized and supported by Laboratoires Vichy International.</p></fn></fn-group></notes></front><body><sec id="jdv14820-sec-0006"><title>Introduction</title><p>The term &#x02018;exposome&#x02019; was used for the first time by Wild in 2005 to describe the sum of environmental exposures to which an individual is subjected from conception to death.<xref rid="jdv14820-bib-0001" ref-type="ref">1</xref> The definition of exposome varied over time (Table&#x000a0;<xref rid="jdv14820-tbl-0001" ref-type="table-wrap">1</xref>).<xref rid="jdv14820-bib-0001" ref-type="ref">1</xref>, <xref rid="jdv14820-bib-0002" ref-type="ref">2</xref>, <xref rid="jdv14820-bib-0003" ref-type="ref">3</xref>, <xref rid="jdv14820-bib-0004" ref-type="ref">4</xref>, <xref rid="jdv14820-bib-0005" ref-type="ref">5</xref> In 2014, Miller and Jones refined this term as &#x02018;the cumulative measure of environmental influences and the associated biological responses throughout the lifespan, including exposures from the environment, diet, behaviour, and endogenous processes&#x02019;.<xref rid="jdv14820-bib-0002" ref-type="ref">2</xref>
+</p><table-wrap id="jdv14820-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Definitions of exposome</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><tbody><tr><td align="left" rowspan="1" colspan="1">Wild (2005)<xref rid="jdv14820-bib-0001" ref-type="ref">1</xref>
+</td><td align="left" rowspan="1" colspan="1">Exposome is all life&#x02010;course environmental exposures (including lifestyle factors) from prenatal period onwards</td></tr><tr><td align="left" rowspan="1" colspan="1">Rappaport <italic>et&#x000a0;al</italic>. (2010)<xref rid="jdv14820-bib-0004" ref-type="ref">4</xref>
+</td><td align="left" rowspan="1" colspan="1">Exposome is the sum of all exposures throughout life, where the environment is the body's internal chemical environment and exposures are all biologically active chemicals in this internal environment</td></tr><tr><td align="left" rowspan="1" colspan="1">Buck Louis and Sundaram (2012)<xref rid="jdv14820-bib-0003" ref-type="ref">3</xref>
+</td><td align="left" rowspan="1" colspan="1">Exposome is a mixture of environmental exposures, including man&#x02010;made and naturally occurring chemicals, physical agents (such as noise, vibration and temperature), macrolevel factors (including population density and sanitation) and lifestyle factors</td></tr><tr><td align="left" rowspan="1" colspan="1">National Research Council (2012)<xref rid="jdv14820-bib-0005" ref-type="ref">5</xref>
+</td><td align="left" rowspan="1" colspan="1">&#x02018;Eco&#x02010;exposome&#x02019; extends the concept from the point of contact between the stressor and the receptor, inwards into the organism and outwards to general environment</td></tr><tr><td align="left" rowspan="1" colspan="1">Miller and Jones (2014)<xref rid="jdv14820-bib-0002" ref-type="ref">2</xref>
+</td><td align="left" rowspan="1" colspan="1">Exposome is the cumulative measure of environmental influences and associated biological responses throughout the lifespan including exposures from the environment, diet, behaviour and endogenous processes</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>In 2016, the impact of exposome on chronic diseases was estimated at almost 80%; conversely, that of genomewide&#x02010;associated diseases did not exceed 20%.<xref rid="jdv14820-bib-0006" ref-type="ref">6</xref> Exposome&#x02010;wide association studies may allow discovering factors that, over time, cause complex chronic diseases.</p><p>Skin is one of the major interfaces between the body and the external environment and one of the main routes of penetration of environmental factors and pathogens. It plays a protective role due to its barrier function and its microbiota.<xref rid="jdv14820-bib-0007" ref-type="ref">7</xref> Until recently, the role of exposome in dermatology was not investigated. In 2017, Krutmann <italic>et&#x000a0;al</italic>. studied the role of exposome in skin ageing and proposed that environmental factors belonging to the skin ageing exposome fall into the following categories: (i) sun radiations: ultraviolet radiation, visible light and infrared radiation; (ii) air pollution, (iii) tobacco smoke; (iv) nutrition; (v) a number of less well&#x02010;studied, miscellaneous factors; as well as (vi) cosmetic products.<xref rid="jdv14820-bib-0008" ref-type="ref">8</xref>
+</p><p>Acne is one of the main reasons for dermatologic consultation. It is an inflammatory disease of the pilosebaceous follicle occurring commonly in adolescents and some adults. It is associated with hyperseborrhoea altering the epithelium of the follicle with formation of comedones, a modification of the microbiote called dysbiosis targeting mainly <italic>Propionibacterium acnes</italic> (<italic>P.&#x000a0;acnes</italic>) causing an activation of the innate immunity and thus inflammation.<xref rid="jdv14820-bib-0009" ref-type="ref">9</xref> A family factor is frequently associated with acne severity.<xref rid="jdv14820-bib-0010" ref-type="ref">10</xref> However, severity and response to treatment may also be impacted by different external or environmental factors.</p><p>With this article, we aimed at assessing the influence of environmental factors on acne and at providing a comprehensive overview of the acne exposome. Moreover, we propose practical considerations for the dermatologist's clinical practice.</p></sec><sec id="jdv14820-sec-0007"><title>Methodology</title><p>This article results from two consensus meetings of a board of European dermatologists held in July and October 2017.</p><p>Prior to the meetings, we conducted a comprehensive literature search through PubMed, combining the following key words: acne and exposome, sunlight, UV radiation, UVB radiation, UVA radiation, visible light, infrared radiation, air pollution, ozone, PM<sub>10</sub>, PM<sub>2.5</sub>, pollutants, tar, oil, nitrogen dioxide, tobacco, cannabis, smoking, stress, physical activity, occupation, nutrition, diet, alcohol, oil, whey proteins, hydrocarbons, cosmetics, skin care, make&#x02010;up, cosmetic procedures, heat, cold, climate, water, lack of sleep. All relevant articles including epidemiological, <italic>in&#x000a0;vitro</italic>,<italic> ex&#x000a0;vivo</italic> and clinical studies were selected.</p><p>During the meetings, we defined and analysed key elements of acne exposome factors based on published literature (Fig.&#x000a0;<xref rid="jdv14820-fig-0001" ref-type="fig">1</xref>).</p><fig fig-type="Figure" xml:lang="en" id="jdv14820-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>External exposome factors impacting on acne</p></caption><graphic id="nlm-graphic-1" xlink:href="JDV-32-812-g001"/></fig></sec><sec id="jdv14820-sec-0008"><title>Results</title><sec id="jdv14820-sec-0009"><title>Definition of the acne exposome</title><p>We defined acne exposome as the sum of all environmental factors influencing the occurrence, duration and severity of acne. Exposome factors impact on the response and the frequency of relapse to treatments by interacting with the skin barrier, sebaceous gland, innate immunity and cutaneous microbiota.<xref rid="jdv14820-bib-0011" ref-type="ref">11</xref>, <xref rid="jdv14820-bib-0012" ref-type="ref">12</xref>
+</p><p>They may be classified into the following six main categories: nutrition, medication, occupational factors including cosmetics, pollutants, climatic factors, and psychological and lifestyle factors.</p></sec><sec id="jdv14820-sec-0010"><title>Acne exposome factors</title><sec id="jdv14820-sec-0011"><title>Nutrition</title><p>This first category is by far the most published acne exposome factor. In the past, nutrition was not a proven cause of acne. However, recent publications show a link between some dietary factors and acne.<xref rid="jdv14820-bib-0013" ref-type="ref">13</xref>, <xref rid="jdv14820-bib-0014" ref-type="ref">14</xref>, <xref rid="jdv14820-bib-0015" ref-type="ref">15</xref>, <xref rid="jdv14820-bib-0016" ref-type="ref">16</xref>, <xref rid="jdv14820-bib-0017" ref-type="ref">17</xref>, <xref rid="jdv14820-bib-0018" ref-type="ref">18</xref>, <xref rid="jdv14820-bib-0019" ref-type="ref">19</xref>, <xref rid="jdv14820-bib-0020" ref-type="ref">20</xref>, <xref rid="jdv14820-bib-0021" ref-type="ref">21</xref>, <xref rid="jdv14820-bib-0022" ref-type="ref">22</xref>, <xref rid="jdv14820-bib-0023" ref-type="ref">23</xref>, <xref rid="jdv14820-bib-0024" ref-type="ref">24</xref>, <xref rid="jdv14820-bib-0025" ref-type="ref">25</xref>, <xref rid="jdv14820-bib-0026" ref-type="ref">26</xref>, <xref rid="jdv14820-bib-0027" ref-type="ref">27</xref>, <xref rid="jdv14820-bib-0028" ref-type="ref">28</xref> Nowadays, main food classes considered triggering acne are dairy products (especially skim milk) and hyperglycaemic carbohydrates.<xref rid="jdv14820-bib-0010" ref-type="ref">10</xref>, <xref rid="jdv14820-bib-0029" ref-type="ref">29</xref>, <xref rid="jdv14820-bib-0030" ref-type="ref">30</xref>, <xref rid="jdv14820-bib-0031" ref-type="ref">31</xref>, <xref rid="jdv14820-bib-0032" ref-type="ref">32</xref>, <xref rid="jdv14820-bib-0033" ref-type="ref">33</xref>, <xref rid="jdv14820-bib-0034" ref-type="ref">34</xref>, <xref rid="jdv14820-bib-0035" ref-type="ref">35</xref>, <xref rid="jdv14820-bib-0036" ref-type="ref">36</xref>, <xref rid="jdv14820-bib-0037" ref-type="ref">37</xref>
+</p><p>An average regimen of dairy products has been reported impacting on acne, and one paper indicated that cow milk impacts on acne after already two glasses per day.<xref rid="jdv14820-bib-0038" ref-type="ref">38</xref>, <xref rid="jdv14820-bib-0039" ref-type="ref">39</xref> Conversely, acne is not observed in native non&#x02010;Westernized populations consuming low glycaemic load diet and in populations not consuming refined sugars, grains, milk and dairy products.<xref rid="jdv14820-bib-0040" ref-type="ref">40</xref> Moreover, individuals with congenital deficiencies of the insulin growth factor&#x02010;1 (IGF&#x02010;1) have been reported to present only rarely with acne.<xref rid="jdv14820-bib-0023" ref-type="ref">23</xref> Recent papers provide additional arguments supporting the link at a transcriptional level between IGF&#x02010;1, leptin and liponectin and high glycaemic index through the activation of mTOR and FOXP1 pathways.<xref rid="jdv14820-bib-0013" ref-type="ref">13</xref>, <xref rid="jdv14820-bib-0014" ref-type="ref">14</xref>, <xref rid="jdv14820-bib-0028" ref-type="ref">28</xref>, <xref rid="jdv14820-bib-0029" ref-type="ref">29</xref>
+</p><p>Although there is convincing evidence of a correlation between nutritional elements and acne, there are no interventional studies supporting that dietary regimes are of clinical relevance.<xref rid="jdv14820-bib-0037" ref-type="ref">37</xref> Further research is required, in particular studies with larger sample sizes combining a low glycaemic index diet and restricted intake of cow milk products.</p><p>Nevertheless, we strongly support the idea of a subgroup of patients in whom acne severity relates to nutrition: these patients present with a moderate&#x02010;to&#x02010;severe acne with frequent relapses, an increased body mass index equal or superior to 25 and increased IGF&#x02010;1 and decreased leptin and liponectin levels.<xref rid="jdv14820-bib-0013" ref-type="ref">13</xref>
+</p><p>Nutritional supplements such as whey proteins containing leucine used by athletes may trigger or worsen acne.<xref rid="jdv14820-bib-0041" ref-type="ref">41</xref>, <xref rid="jdv14820-bib-0042" ref-type="ref">42</xref>, <xref rid="jdv14820-bib-0043" ref-type="ref">43</xref> Leucine stimulates the production of IGF&#x02010;1.<xref rid="jdv14820-bib-0031" ref-type="ref">31</xref>, <xref rid="jdv14820-bib-0041" ref-type="ref">41</xref>, <xref rid="jdv14820-bib-0042" ref-type="ref">42</xref>, <xref rid="jdv14820-bib-0043" ref-type="ref">43</xref>, <xref rid="jdv14820-bib-0044" ref-type="ref">44</xref>
+</p><p>Very few controlled studies have investigated the benefit of oral probiotics in the treatment of acne. When compared to the placebo in 20 patients, the probiotic containing <italic>Lactobacillus rhamnosus SP1</italic> provided a better clinical outcome according to the investigators.<xref rid="jdv14820-bib-0045" ref-type="ref">45</xref> An adjunctive supplementation of lyophilized <italic>Lactobacillus acidophilus</italic> and <italic>Bifidobacterium bifidum</italic> adjunctively to standard antibiotics improved acne in 40 patients.<xref rid="jdv14820-bib-0046" ref-type="ref">46</xref> Oral antibiotics and probiotics provided a synergistic benefit in inflammatory acne in decreasing both, inflammatory and non&#x02010;inflammatory lesions after 12&#x000a0;weeks compared to probiotics or oral antibiotics alone in three groups of 15 patients each.<xref rid="jdv14820-bib-0047" ref-type="ref">47</xref>
+</p><p>The capability of oral probiotics to reduce systemic oxidative stress, to regulate cytokines and to reduce inflammatory markers may contribute to its effects on acne.<xref rid="jdv14820-bib-0048" ref-type="ref">48</xref> Despite encouraging results, further investigations are still necessary to confirm the clinical benefit of probiotics in acne.</p></sec><sec id="jdv14820-sec-0012"><title>Medications</title><sec id="jdv14820-sec-0013"><title>Hormonal treatments</title><p>There is evidence that in first&#x02010; and second&#x02010;generation oral contraceptives, progestin is changed in metabolites of testosterone that may exacerbate acne in adolescents and mainly in adult females.<xref rid="jdv14820-bib-0049" ref-type="ref">49</xref>, <xref rid="jdv14820-bib-0050" ref-type="ref">50</xref> The following androgenic progestins have been identified to cause or worsen acne: desogestrel and 3&#x02010;cetodesogestrel, levonorgestrel, lynestrenol, norgestrienone, norethisterone, norgestrel, gestodene, norgestimate and etonogestrel.</p><p>Conversely, chlormadinone acetate, dienogest, drospirenone and norgestimate oral contraceptive pills have been reported to be beneficial in the treatment of acne.<xref rid="jdv14820-bib-0049" ref-type="ref">49</xref>, <xref rid="jdv14820-bib-0051" ref-type="ref">51</xref>, <xref rid="jdv14820-bib-0052" ref-type="ref">52</xref>, <xref rid="jdv14820-bib-0053" ref-type="ref">53</xref>
+</p><p>Cyproterone acetate present in combined hormonal antiacne treatments has also been reported to be efficient in acne.<xref rid="jdv14820-bib-0054" ref-type="ref">54</xref>
+</p><p>Anabolic steroids trigger acne through targeting androgen receptors on sebocytes and keratinocytes.<xref rid="jdv14820-bib-0055" ref-type="ref">55</xref>, <xref rid="jdv14820-bib-0056" ref-type="ref">56</xref>, <xref rid="jdv14820-bib-0057" ref-type="ref">57</xref>, <xref rid="jdv14820-bib-0058" ref-type="ref">58</xref>
+</p></sec><sec id="jdv14820-sec-0014"><title>Other medical treatments</title><p>Corticosteroids, halogens, isoniazid, lithium, vitamin B12, immunosuppressants and certain anticancer agents and radiotherapy have been reported causing acneiform eruptions.<xref rid="jdv14820-bib-0059" ref-type="ref">59</xref>, <xref rid="jdv14820-bib-0060" ref-type="ref">60</xref>, <xref rid="jdv14820-bib-0061" ref-type="ref">61</xref>, <xref rid="jdv14820-bib-0062" ref-type="ref">62</xref>, <xref rid="jdv14820-bib-0063" ref-type="ref">63</xref>, <xref rid="jdv14820-bib-0064" ref-type="ref">64</xref>, <xref rid="jdv14820-bib-0065" ref-type="ref">65</xref>, <xref rid="jdv14820-bib-0066" ref-type="ref">66</xref>, <xref rid="jdv14820-bib-0067" ref-type="ref">67</xref>, <xref rid="jdv14820-bib-0068" ref-type="ref">68</xref>, <xref rid="jdv14820-bib-0069" ref-type="ref">69</xref>, <xref rid="jdv14820-bib-0070" ref-type="ref">70</xref> We consider these dermatoses as a differential diagnosis of acne.</p></sec></sec><sec id="jdv14820-sec-0015"><title>Occupational factors</title><sec id="jdv14820-sec-0016"><title>Cosmetics</title><p>The use of aggressive skin care regimens and inappropriate cosmetics may cause acne flare&#x02010;ups. These products modify the skin barrier and the skin microbiota balance especially in the sebaceous area, thus activating the innate immunity triggering inflammation.</p><p>Acne cosmetica was described for the first time by Kligman and Mills in 1972.<xref rid="jdv14820-bib-0071" ref-type="ref">71</xref> It is characterized by small scattered comedones on the face with only very few inflammatory lesions such as papules, pustules. Acne flare&#x02010;up triggers in cosmetics include comedogenic ingredients, essential oils or too greasy or oily foundations, powder make&#x02010;up, aggressive skin cleansers and soaps with pH of 8.0.<xref rid="jdv14820-bib-0072" ref-type="ref">72</xref>, <xref rid="jdv14820-bib-0073" ref-type="ref">73</xref> Some hair care products, such as brilliantine, have been reported to cause comedones and cysts on the forehead and temple.<xref rid="jdv14820-bib-0074" ref-type="ref">74</xref>
+</p></sec><sec id="jdv14820-sec-0017"><title>Mechanical factors</title><p>Mechanical factors comprising rubbing, scrubbing, the use of home devices or medical devices such as sonic brushes, dermarollers or microneedling systems may trigger acne flare&#x02010;up.<xref rid="jdv14820-bib-0075" ref-type="ref">75</xref> Dreno <italic>et&#x000a0;al</italic>. reported that mechanical factors cause two types of mainly inflammatory cutaneous lesions: one &#x02018;<italic>folliculitis mechanica</italic>&#x02019; presenting with inflammatory papules, open comedones or no comedonal lesions and the other one corresponding to a flare&#x02010;up of acne in areas prone to the condition. The authors also presented a clinical case of a patient using essential oils combined with a roller&#x02010;microdermabrasion device, diagnosed with severe inflammatory acne due a combination of a facial skin massage device and topical products.</p><p>Currently, the physiopathology of inflammatory cutaneous lesions caused by mechanical injury remains to be elucidated. Two different mechanisms may be involved: a first mechanism results in thickening of the epidermis leading to hyperkeratosis, with a modification of the <italic>stratum corneum</italic>, reduced water content, irritation and, finally, a disturbed skin barrier.<xref rid="jdv14820-bib-0075" ref-type="ref">75</xref>, <xref rid="jdv14820-bib-0076" ref-type="ref">76</xref> A second mechanism impacts on the microbiome and the innate immunity. Repeated pressure, friction and rubbing may cause both a modification of the lipid film at the surface of the corneocytes and of the cutaneous microbiome.<xref rid="jdv14820-bib-0075" ref-type="ref">75</xref>
+</p></sec></sec><sec id="jdv14820-sec-0018"><title>Pollutants</title><sec id="jdv14820-sec-0019"><title>Air pollutants</title><p>Air pollutants exert a harmful effect on the skin by increasing oxidative stress inducing severe alterations of the normal functions of lipids, deoxyribonucleic acid and/or proteins in the human skin.<xref rid="jdv14820-bib-0077" ref-type="ref">77</xref> This phenomenon is more marked in acne patients as in this population the skin lipid film on the surface of the <italic>stratum corneum</italic> is altered through an increase in oxidized squalene and a decrease in linoleic acid.<xref rid="jdv14820-bib-0078" ref-type="ref">78</xref> Two clinical studies comparing subjects in the Shanghai area and Mexico City, both highly polluted to less polluted areas, found skin quality changes with chronic exposure to ambient pollution.<xref rid="jdv14820-bib-0079" ref-type="ref">79</xref>, <xref rid="jdv14820-bib-0080" ref-type="ref">80</xref> Vitamin E and squalene levels, both signs of sebum oxidation, were reduced. Although the Mexican study did not measure clinical signs of acne, raised sebum levels were observed.<xref rid="jdv14820-bib-0079" ref-type="ref">79</xref> Another Chinese study, conducted during 8&#x000a0;weeks on 64 acne patients, showed a relationship between exposure to environmental pollutants and increased sebum levels and a higher number of inflammatory and non&#x02010;inflammatory acne lesions.<xref rid="jdv14820-bib-0080" ref-type="ref">80</xref>
+</p><p>Even though there is growing evidence that air pollutants exert their harmful effects by means of reactive oxygen species and inflammation,<xref rid="jdv14820-bib-0077" ref-type="ref">77</xref> more research is needed to better understand the link between air pollution and acne.</p></sec><sec id="jdv14820-sec-0020"><title>Industrial pollutants</title><p>Acne has been frequently observed in industry workers after prolonged exposure to certain organic molecules, such as coal tar or crude oil.<xref rid="jdv14820-bib-0081" ref-type="ref">81</xref>, <xref rid="jdv14820-bib-0082" ref-type="ref">82</xref>, <xref rid="jdv14820-bib-0083" ref-type="ref">83</xref>, <xref rid="jdv14820-bib-0084" ref-type="ref">84</xref>, <xref rid="jdv14820-bib-0085" ref-type="ref">85</xref> Today, exposure to these molecules has become less common.<xref rid="jdv14820-bib-0086" ref-type="ref">86</xref> Only sparse information about their impact on acne aetiology is available from the literature: it seems as if these insoluble products obstruct the sebaceous follicle by a mixture of coal tar or oil and keratin products.<xref rid="jdv14820-bib-0083" ref-type="ref">83</xref>, <xref rid="jdv14820-bib-0086" ref-type="ref">86</xref>, <xref rid="jdv14820-bib-0087" ref-type="ref">87</xref>, <xref rid="jdv14820-bib-0088" ref-type="ref">88</xref> Males are more commonly affected than females. This can be linked to the fact that males are more prone to acne or have been more frequently exposed.<xref rid="jdv14820-bib-0089" ref-type="ref">89</xref>
+</p><p>Chloracne, a chronic type of acneiform eruption, is induced by halogenated aromatic hydrocarbons and is a differential diagnosis with <italic>acne vulgaris</italic>.<xref rid="jdv14820-bib-0081" ref-type="ref">81</xref>, <xref rid="jdv14820-bib-0083" ref-type="ref">83</xref>, <xref rid="jdv14820-bib-0090" ref-type="ref">90</xref>, <xref rid="jdv14820-bib-0091" ref-type="ref">91</xref>
+</p></sec><sec id="jdv14820-sec-0021"><title>Human&#x02010;dependent pollutants</title><p>Tobacco and cannabis consumption may be considered human&#x02010;dependent pollutants which may play a role in acne.</p><p>To date, the link between acne and tobacco is not confirmed. While Capitanio <italic>et&#x000a0;al</italic>. reported that tobacco smoking may have an impact on acne, two recent online surveys reported contradictory information with a protective effect on acne.<xref rid="jdv14820-bib-0092" ref-type="ref">92</xref>, <xref rid="jdv14820-bib-0093" ref-type="ref">93</xref>, <xref rid="jdv14820-bib-0094" ref-type="ref">94</xref>, <xref rid="jdv14820-bib-0095" ref-type="ref">95</xref>
+</p><p>Cigarette smoke (CS) is a highly complex aerosol composed of thousands of chemical substances, including nicotine, carbon monoxide, tar, formaldehyde, cyanhydric acid, ammonia, mercury, lead and cadmium.<xref rid="jdv14820-bib-0096" ref-type="ref">96</xref>, <xref rid="jdv14820-bib-0097" ref-type="ref">97</xref>, <xref rid="jdv14820-bib-0098" ref-type="ref">98</xref> These chemical substances from CS increase transepidermal water loss, degeneration of connective tissue in the skin and upregulation of matrix metalloproteinases 1 and 3 which degrade collagen and elastic fibres, and lastly impact on the natural skin barrier.<xref rid="jdv14820-bib-0099" ref-type="ref">99</xref>, <xref rid="jdv14820-bib-0100" ref-type="ref">100</xref>, <xref rid="jdv14820-bib-0101" ref-type="ref">101</xref>
+</p><p>To date, it is still unclear how CS may trigger acne.<xref rid="jdv14820-bib-0102" ref-type="ref">102</xref> Tobacco consumption may prompt acne by inducing interleukin&#x02010;1&#x003b1; and exacerbate comedogenesis and inflammatory changes in comedones that results in oxidative stress and the subsequent accumulation of lipid peroxide.<xref rid="jdv14820-bib-0094" ref-type="ref">94</xref>, <xref rid="jdv14820-bib-0095" ref-type="ref">95</xref>, <xref rid="jdv14820-bib-0103" ref-type="ref">103</xref>, <xref rid="jdv14820-bib-0104" ref-type="ref">104</xref> In keratinocytes and/or sebocytes cultures, CS exposure induced a scavenger receptor class B member 1 (SRB1 protein) loss. CS&#x02010;induced SRB1 protein loss caused an alteration of the sebocyte lipid content.<xref rid="jdv14820-bib-0105" ref-type="ref">105</xref>, <xref rid="jdv14820-bib-0106" ref-type="ref">106</xref>
+</p><p>Regular use of cannabis was highly associated with acne (odds ratio of 2.88 (95% CI: 1.55&#x02013;5.37)) according to a French survey in more than 10&#x000a0;000 subjects.<xref rid="jdv14820-bib-0092" ref-type="ref">92</xref> No further data about acne and cannabis consumption has been published to date. However, our own clinical experience corroborates this observed relationship.</p></sec></sec><sec id="jdv14820-sec-0022"><title>Climatic conditions</title><p>Climatic conditions and seasonal variations resulting in a combination of heat, humidity and intensive UVR may trigger inflammatory acne flare&#x02010;up, which has been called acne tropicana, acne majorca or tropical acne.<xref rid="jdv14820-bib-0107" ref-type="ref">107</xref>, <xref rid="jdv14820-bib-0108" ref-type="ref">108</xref>, <xref rid="jdv14820-bib-0109" ref-type="ref">109</xref>, <xref rid="jdv14820-bib-0110" ref-type="ref">110</xref>, <xref rid="jdv14820-bib-0111" ref-type="ref">111</xref>
+</p><p>One of the major environmental factors affecting the skin is ultraviolet radiation (UVR). Both UVB and UVA have been reported to cause hyperplasia of the sebaceous gland, thickening of the <italic>stratum corneum</italic>, increase in sebum secretion and in the number of comedones.<xref rid="jdv14820-bib-0112" ref-type="ref">112</xref>, <xref rid="jdv14820-bib-0113" ref-type="ref">113</xref>, <xref rid="jdv14820-bib-0114" ref-type="ref">114</xref>, <xref rid="jdv14820-bib-0115" ref-type="ref">115</xref>, <xref rid="jdv14820-bib-0116" ref-type="ref">116</xref> By targeting the cells and molecules within the skin, UVR triggers the production and release of antimicrobial peptides, activates the innate immune system and ultimately suppresses the adaptive cellular immune response. As a consequence, skin microbiota may be altered and <italic>P.&#x000a0;acnes</italic> may overcolonize the skin causing flares of acne. Alternately, or in concert with this, direct UVR&#x02010;induced DNA and membrane damage to the microbiome may cause pathogen&#x02010;associated molecular patterns that interfere with UVR&#x02010;induced immune suppression.<xref rid="jdv14820-bib-0117" ref-type="ref">117</xref>
+</p></sec><sec id="jdv14820-sec-0023"><title>Psychosocial and lifestyle factors</title><p>Clinical evidence about the impact of psychosocial and lifestyle factors on acne is sparse and clinical wisdom and experience, as well as anecdotal observations and uncontrolled case series support this situation.<xref rid="jdv14820-bib-0118" ref-type="ref">118</xref>, <xref rid="jdv14820-bib-0119" ref-type="ref">119</xref>, <xref rid="jdv14820-bib-0120" ref-type="ref">120</xref>, <xref rid="jdv14820-bib-0121" ref-type="ref">121</xref>, <xref rid="jdv14820-bib-0122" ref-type="ref">122</xref>, <xref rid="jdv14820-bib-0123" ref-type="ref">123</xref> Nevertheless, there is some evidence that psychosocial and lifestyle factors including stress, emotions, sleep deprivation and modern lifestyle impact on inflammatory skin diseases.<xref rid="jdv14820-bib-0119" ref-type="ref">119</xref>, <xref rid="jdv14820-bib-0121" ref-type="ref">121</xref>, <xref rid="jdv14820-bib-0122" ref-type="ref">122</xref>, <xref rid="jdv14820-bib-0124" ref-type="ref">124</xref>, <xref rid="jdv14820-bib-0125" ref-type="ref">125</xref>, <xref rid="jdv14820-bib-0126" ref-type="ref">126</xref>, <xref rid="jdv14820-bib-0127" ref-type="ref">127</xref>, <xref rid="jdv14820-bib-0128" ref-type="ref">128</xref>, <xref rid="jdv14820-bib-0129" ref-type="ref">129</xref>, <xref rid="jdv14820-bib-0130" ref-type="ref">130</xref> Cultural factors may influence the experience and presentation of acne.<xref rid="jdv14820-bib-0118" ref-type="ref">118</xref>, <xref rid="jdv14820-bib-0131" ref-type="ref">131</xref>
+</p><p>Corticotropin&#x02010;releasing hormones and neuropeptides are present in the sebaceous glands, possibly activating pathways affecting immune and inflammatory processes leading to the development and stress&#x02010; and neurologically induced exacerbation of acne.<xref rid="jdv14820-bib-0132" ref-type="ref">132</xref>, <xref rid="jdv14820-bib-0133" ref-type="ref">133</xref> Short wavelength visible light emitted from smartphones and tablets has been reported to increase the proliferation of <italic>Staphylococcus aureus</italic> thus unbalancing the skin microbiota and thus impacting on acne.<xref rid="jdv14820-bib-0123" ref-type="ref">123</xref>, <xref rid="jdv14820-bib-0134" ref-type="ref">134</xref> Therefore, modern lifestyle, defined as stressful situations including urban noises, socioeconomic pressures and light exposure, may play a role in acne.</p></sec></sec><sec id="jdv14820-sec-0024"><title>Future research</title><p>Future research should be devoted to a better understanding of the interactions between the different exposome factors and between these factors and the skin barrier cells, innate immunity and skin microbiota.</p><p>Protecting the microbiota spectrum is crucial as it protects from activation of the innate immunity leading to inflammation. Moreover, besides exposome factors, genetic factors may also influence the reaction of the skin against different environmental factors. As a result, acquiring detailed knowledge about such gene/environment interactions may help identify different patient subgroups and thus allow the development of specific and efficient measures against the alteration of the microbiota and skin barrier.</p><p>Regarding the role of nutrition in acne, still many facets such as the skin&#x02013;gut axis in patients with acne, the benefit of pre&#x02010; and probiotics and specific regimens combining a low glycaemic index diet and restricted intake of cow milk remain to be investigated through randomized and prospective and large clinical studies. The development of validated specific nutrition recommendations will be a challenge in the future.</p><p>Regarding pollution, large clinical studies to assess its impact on acne still have to be conducted. The efficacy of topical or oral antioxidants to block the effect of pollution in acne patients remains to be demonstrated. Further improvement of cleansers and of antiparticle adhesion products could be of interest to protect the microbiota and skin barrier.</p><p>The impact of climatic factors, especially radiation other than UVR such as visible light and the role of psychosocial and modern lifestyle factors, should be more investigated through well&#x02010;designed studies.</p></sec><sec id="jdv14820-sec-0025"><title>Practical considerations</title><p>According to the above&#x02010;described exposome factors that can worsen acne, we propose the following practical considerations for managing acne patients:
+<list list-type="bullet" id="jdv14820-list-0001"><list-item><p>Prior to any prescription, identify potential negative exposome factors, especially in patients with moderate&#x02010;to&#x02010;severe acne as these may impact on the treatment success. Table&#x000a0;<xref rid="jdv14820-tbl-0002" ref-type="table-wrap">2</xref> lists factors to be checked together with the patient during the first visit.
+</p><p>
+<table-wrap id="jdv14820-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Exposome factors to be checked at the patient's 1st visit</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>Nutrition</bold>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Skim milk, rapidly assimilated saccharides, nibbling</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Nutritional supplements containing whey proteins/leucine 1</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Medication</bold>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Contraception: type of progestin used</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Use of anabolic steroids, testosterone</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Occupational factors</bold>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Cosmetics</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mechanical factors</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Pollutants</bold>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Air and industrial pollutants</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Tobacco and cannabis consumption</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Climatic factors</bold>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Heat, humidity, UVR</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Psychosocial factors modern lifestyle</bold>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Stress, emotions, sleep deprivation</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Socioeconomic pressures</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Excessive light exposure (tablets, smartphones, computers)</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap>
+</p></list-item><list-item><p>The identified negative exposome impact should be limited as much as possible to allow the main exposome targets, the natural skin barrier and its microbiota to recover. Limitation of high glycaemic index food in predisposed patients and food supplements containing weigh proteins, decrease in smoking tobacco/cannabis, modifications of contraceptives and skin care regimens might be suggested.</p></list-item><list-item><p>The use of topical antibiotics in monotherapy is not recommended. This is to avoid increase in antibacterial resistance and modifications in the natural skin microbiome. Topical retinoids combined or not with benzoyl peroxide should be prescribed to be applied in the evening according to current guidelines to avoid irritation and damaging of skin barrier.<xref rid="jdv14820-bib-0135" ref-type="ref">135</xref>, <xref rid="jdv14820-bib-0136" ref-type="ref">136</xref>, <xref rid="jdv14820-bib-0137" ref-type="ref">137</xref>
+</p></list-item><list-item><p>Patients should be reminded to avoid harsh washing of their skin (avoid scrubs or exfoliating devices) as this may damage the natural skin barrier function. Cleansers with a pH of 5.5 (syndet) should be favoured over traditional detergents (i.e. soaps) allowing for a gentle cleansing of the skin and also for a reduction of the particle load on the skin in the evening. Optimal frequency of cleansing should be twice a day.<xref rid="jdv14820-bib-0138" ref-type="ref">138</xref>
+</p></list-item><list-item><p>Skin care products are important for the maintenance of the healthy skin microbiota, preventing the alteration of the skin barrier and thus its inflammation through the innate immunity. Moisturizers should be used in the morning to restore/improve the natural skin barrier function in order to reduce cutaneous pollutant penetration during the day and to limit irritation, frequently observed with topical retinoids, especially during the first few weeks of therapy.</p></list-item><list-item><p>Moreover patients should be advised to use non&#x02010;comedogenic make&#x02010;up and to apply sun&#x02010;protecting products with a sun&#x02010;protecting factor of at least 30 to prevent from postinflammatory hyperpigmentation as well as from phototoxicity reactions. Daily photoprotection is of importance as UV radiation may increase the impacts of pollutant particles on the skin.<xref rid="jdv14820-bib-0076" ref-type="ref">76</xref>
+</p></list-item></list>
+</p></sec></sec><sec id="jdv14820-sec-0026"><title>Conclusion</title><p>Exposome factors including nutrition, medication occupational factors, pollutants, climatic factors and psychosocial and lifestyle factors may impact on the course and severity of acne and on the treatment efficacy. Exposome factors act on the natural skin barrier and on the skin microbiota, resulting in increased sebum production, hyperkeratinization, modification of the microbiote, activation of the innate immunity thus resulting in acne worsening.</p><p>Identifying the negative exposome factors and thus reducing their impact are mandatory for an adequate acne management.</p></sec></body><back><ack id="jdv14820-sec-0027"><title>Acknowledgements</title><p>The authors acknowledge Karl Patrick G&#x000f6;ritz, SMWS, Scientific and Medical Writing Services, France, for writing and editing support.</p></ack><ref-list content-type="cited-references" id="jdv14820-bibl-0001"><title>References</title><ref id="jdv14820-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jdv14820-cit-0001">
+<string-name>
+<surname>Wild</surname>
+<given-names>CP</given-names>
+</string-name>. <article-title>Complementing the genome with an &#x0201c;exposome&#x0201d;: the outstanding challenge of environmental exposure measurement in molecular epidemiology</article-title>. <source xml:lang="en">Cancer Epidemiol Biomarkers Prev</source>
+<year>2005</year>; <volume>14</volume>: <fpage>1847</fpage>&#x02013;<lpage>1850</lpage>.<pub-id pub-id-type="pmid">16103423</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jdv14820-cit-0002">
+<string-name>
+<surname>Miller</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>
+<given-names>DP</given-names>
+</string-name>. <article-title>The nature of nurture: refining the definition of the exposome</article-title>. <source xml:lang="en">Toxicol Sci</source>
+<year>2014</year>; <volume>137</volume>: <fpage>1</fpage>&#x02013;<lpage>2</lpage>.<pub-id pub-id-type="pmid">24213143</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jdv14820-cit-0003">
+<string-name>
+<surname>Buck Louis</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name>
+<surname>Sundaram</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Exposome: time for transformative research</article-title>. <source xml:lang="en">Stat Med</source>
+<year>2012</year>; <volume>31</volume>: <fpage>2569</fpage>&#x02013;<lpage>2575</lpage>.<pub-id pub-id-type="pmid">22969025</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jdv14820-cit-0004">
+<string-name>
+<surname>Rappaport</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>MT</given-names>
+</string-name>. <article-title>Epidemiology. Environment and disease risks</article-title>. <source xml:lang="en">Science (New York, NY)</source>
+<year>2010</year>; <volume>330</volume>: <fpage>460</fpage>&#x02013;<lpage>461</lpage>.</mixed-citation></ref><ref id="jdv14820-bib-0005"><label>5</label><mixed-citation publication-type="book" id="jdv14820-cit-0005">
+<collab collab-type="authors">National Research Council</collab>
+. <source xml:lang="en">Exposure Science in the 21st Century: A Vision and a Strategy</source>. <publisher-name>The National Academies Press</publisher-name>, <publisher-loc>Washington, DC</publisher-loc>, <year>2012</year>.</mixed-citation></ref><ref id="jdv14820-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jdv14820-cit-0006">
+<string-name>
+<surname>Rappaport</surname>
+<given-names>SM</given-names>
+</string-name>. <article-title>Genetic factors are not the major causes of chronic diseases</article-title>. <source xml:lang="en">PLoS ONE</source>
+<year>2016</year>; <volume>11</volume>: <fpage>e0154387</fpage>.<pub-id pub-id-type="pmid">27105432</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jdv14820-cit-0007">
+<string-name>
+<surname>Grice</surname>
+<given-names>EA</given-names>
+</string-name>. <article-title>The skin microbiome: potential for novel diagnostic and therapeutic approaches to cutaneous disease</article-title>. <source xml:lang="en">Semin Cutan Med Surg</source>
+<year>2014</year>; <volume>33</volume>: <fpage>98</fpage>&#x02013;<lpage>103</lpage>.<pub-id pub-id-type="pmid">25085669</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jdv14820-cit-0008">
+<string-name>
+<surname>Krutmann</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Bouloc</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Sore</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Bernard</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name>
+<surname>Passeron</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>The skin aging exposome</article-title>. <source xml:lang="en">J Dermatol Sci</source>
+<year>2017</year>; <volume>85</volume>: <fpage>152</fpage>&#x02013;<lpage>161</lpage>.<pub-id pub-id-type="pmid">27720464</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jdv14820-cit-0009">
+<string-name>
+<surname>Dreno</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>What is new in the pathophysiology of acne, an overview</article-title>. <source xml:lang="en">J Eur Acad Dermatol Venereol</source>
+<year>2017</year>; <volume>31</volume>(<issue>Suppl 5</issue>): <fpage>8</fpage>&#x02013;<lpage>12</lpage>.</mixed-citation></ref><ref id="jdv14820-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jdv14820-cit-0010">
+<string-name>
+<surname>Di Landro</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Cazzaniga</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Parazzini</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Ingordo</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Cusano</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Atzori</surname>
+<given-names>L</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>Family history, body mass index, selected dietary factors, menstrual history, and risk of moderate to severe acne in adolescents and young adults</article-title>. <source xml:lang="en">J Am Acad Dermatol</source>
+<year>2012</year>; <volume>67</volume>: <fpage>1129</fpage>&#x02013;<lpage>1135</lpage>.<pub-id pub-id-type="pmid">22386050</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jdv14820-cit-0011">
+<string-name>
+<surname>Murillo</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Raoult</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Skin microbiota: overview and role in the skin diseases acne vulgaris and rosacea</article-title>. <source xml:lang="en">Future Microbiol</source>
+<year>2013</year>; <volume>8</volume>: <fpage>209</fpage>&#x02013;<lpage>222</lpage>.<pub-id pub-id-type="pmid">23374126</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jdv14820-cit-0012">
+<string-name>
+<surname>Wolf</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Parish</surname>
+<given-names>LC</given-names>
+</string-name>. <article-title>Effect of soaps and detergents on epidermal barrier function</article-title>. <source xml:lang="en">Clin Dermatol</source>
+<year>2012</year>; <volume>30</volume>: <fpage>297</fpage>&#x02013;<lpage>300</lpage>.<pub-id pub-id-type="pmid">22507044</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jdv14820-cit-0013">
+<string-name>
+<surname>Melnik</surname>
+<given-names>BC</given-names>
+</string-name>, <string-name>
+<surname>John</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Plewig</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Acne: risk indicator for increased body mass index and insulin resistance</article-title>. <source xml:lang="en">Acta Derm Venereol</source>
+<year>2013</year>; <volume>93</volume>: <fpage>644</fpage>&#x02013;<lpage>649</lpage>.<pub-id pub-id-type="pmid">23975508</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jdv14820-cit-0014">
+<string-name>
+<surname>Cerman</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Aktas</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Altunay</surname>
+<given-names>IK</given-names>
+</string-name>, <string-name>
+<surname>Arici</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Tulunay</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ozturk</surname>
+<given-names>FY</given-names>
+</string-name>. <article-title>Dietary glycemic factors, insulin resistance, and adiponectin levels in acne vulgaris</article-title>. <source xml:lang="en">J Am Acad Dermatol</source>
+<year>2016</year>; <volume>75</volume>: <fpage>155</fpage>&#x02013;<lpage>162</lpage>.<pub-id pub-id-type="pmid">27061046</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jdv14820-cit-0015">
+<string-name>
+<surname>Kucharska</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Szmurlo</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Sinska</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Significance of diet in treated and untreated acne vulgaris</article-title>. <source xml:lang="en">Postepy Dermatol Alergol</source>
+<year>2016</year>; <volume>33</volume>: <fpage>81</fpage>&#x02013;<lpage>86</lpage>.<pub-id pub-id-type="pmid">27279815</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jdv14820-cit-0016">
+<string-name>
+<surname>Kwon</surname>
+<given-names>HH</given-names>
+</string-name>, <string-name>
+<surname>Yoon</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name>
+<surname>Hong</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Jung</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Suh</surname>
+<given-names>DH</given-names>
+</string-name>. <article-title>Clinical and histological effect of a low glycaemic load diet in treatment of acne vulgaris in Korean patients: a randomized, controlled trial</article-title>. <source xml:lang="en">Acta Derm Venereol</source>
+<year>2012</year>; <volume>92</volume>: <fpage>241</fpage>&#x02013;<lpage>246</lpage>.<pub-id pub-id-type="pmid">22678562</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jdv14820-cit-0017">
+<string-name>
+<surname>Smith</surname>
+<given-names>RN</given-names>
+</string-name>, <string-name>
+<surname>Braue</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Varigos</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Mann</surname>
+<given-names>NJ</given-names>
+</string-name>. <article-title>The effect of a low glycemic load diet on acne vulgaris and the fatty acid composition of skin surface triglycerides</article-title>. <source xml:lang="en">J Dermatol Sci</source>
+<year>2008</year>; <volume>50</volume>: <fpage>41</fpage>&#x02013;<lpage>52</lpage>.<pub-id pub-id-type="pmid">18178063</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jdv14820-cit-0018">
+<string-name>
+<surname>Mahmood</surname>
+<given-names>SN</given-names>
+</string-name>, <string-name>
+<surname>Bowe</surname>
+<given-names>WP</given-names>
+</string-name>. <article-title>Diet and acne update: carbohydrates emerge as the main culprit</article-title>. <source xml:lang="en">J Drugs Dermatol</source>
+<year>2014</year>; <volume>13</volume>: <fpage>428</fpage>&#x02013;<lpage>435</lpage>.<pub-id pub-id-type="pmid">24719062</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jdv14820-cit-0019">
+<string-name>
+<surname>Reynolds</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name>
+<surname>Atkinson</surname>
+<given-names>FS</given-names>
+</string-name>, <string-name>
+<surname>Stockmann</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name>
+<surname>Petocz</surname>
+<given-names>P</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>Effect of the glycemic index of carbohydrates on Acne vulgaris</article-title>. <source xml:lang="en">Nutrients</source>
+<year>2010</year>; <volume>2</volume>: <fpage>1060</fpage>&#x02013;<lpage>1072</lpage>.<pub-id pub-id-type="pmid">22253996</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jdv14820-cit-0020">
+<string-name>
+<surname>Fabbrocini</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Izzo</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Faggiano</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Del Prete</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Donnarumma</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Marasca</surname>
+<given-names>C</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>Low glycaemic diet and metformin therapy: a new approach in male subjects with acne resistant to common treatments</article-title>. <source xml:lang="en">Clin Exp Dermatol</source>
+<year>2016</year>; <volume>41</volume>: <fpage>38</fpage>&#x02013;<lpage>42</lpage>.<pub-id pub-id-type="pmid">26053680</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jdv14820-cit-0021">
+<string-name>
+<surname>Smith</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Mann</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Makelainen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Roper</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Braue</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Varigos</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>A pilot study to determine the short&#x02010;term effects of a low glycemic load diet on hormonal markers of acne: a nonrandomized, parallel, controlled feeding trial</article-title>. <source xml:lang="en">Mol Nutr Food Res</source>
+<year>2008</year>; <volume>52</volume>: <fpage>718</fpage>&#x02013;<lpage>726</lpage>.<pub-id pub-id-type="pmid">18496812</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jdv14820-cit-0022">
+<string-name>
+<surname>Kim</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Moon</surname>
+<given-names>SY</given-names>
+</string-name>, <string-name>
+<surname>Sohn</surname>
+<given-names>MY</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>WJ</given-names>
+</string-name>. <article-title>Insulin&#x02010;like growth factor&#x02010;1 increases the expression of inflammatory biomarkers and sebum&#x000a0;production in cultured sebocytes</article-title>. <source xml:lang="en">Ann Dermatol</source>
+<year>2017</year>; <volume>29</volume>: <fpage>20</fpage>&#x02013;<lpage>25</lpage>.<pub-id pub-id-type="pmid">28223742</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jdv14820-cit-0023">
+<string-name>
+<surname>Ben&#x02010;Amitai</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Laron</surname>
+<given-names>Z</given-names>
+</string-name>. <article-title>Effect of insulin&#x02010;like growth factor&#x02010;1 deficiency or administration on the occurrence of acne</article-title>. <source xml:lang="en">J Eur Acad Dermatol Venereol</source>
+<year>2011</year>; <volume>25</volume>: <fpage>950</fpage>&#x02013;<lpage>954</lpage>.<pub-id pub-id-type="pmid">21054577</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jdv14820-cit-0024">
+<string-name>
+<surname>Ferdowsian</surname>
+<given-names>HR</given-names>
+</string-name>, <string-name>
+<surname>Levin</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Does diet really affect acne?</article-title>
+<source xml:lang="en">Skin Therapy Lett</source>
+<year>2010</year>; <volume>15</volume>: <fpage>1</fpage>&#x02013;<lpage>2</lpage>, 5.</mixed-citation></ref><ref id="jdv14820-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jdv14820-cit-0025">
+<string-name>
+<surname>Berra</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Rizzo</surname>
+<given-names>AM</given-names>
+</string-name>. <article-title>Glycemic index, glycemic load: new evidence for a link with acne</article-title>. <source xml:lang="en">J Am Coll Nutr</source>
+<year>2009</year>; <volume>28</volume>(<issue>Suppl</issue>): <fpage>450s</fpage>&#x02013;<lpage>454s</lpage>.<pub-id pub-id-type="pmid">20234032</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jdv14820-cit-0026">
+<string-name>
+<surname>Cemil</surname>
+<given-names>BC</given-names>
+</string-name>, <string-name>
+<surname>Ayvaz</surname>
+<given-names>HH</given-names>
+</string-name>, <string-name>
+<surname>Ozturk</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Ergin</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Akis</surname>
+<given-names>HK</given-names>
+</string-name>, <string-name>
+<surname>Gonul</surname>
+<given-names>M</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>Effects of isotretinoin on body mass index, serum adiponectin, leptin, and ghrelin levels in acne vulgaris patients</article-title>. <source xml:lang="en">Postepy Dermatol Alergol</source>
+<year>2016</year>; <volume>33</volume>: <fpage>294</fpage>&#x02013;<lpage>299</lpage>.<pub-id pub-id-type="pmid">27605902</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jdv14820-cit-0027">
+<string-name>
+<surname>Abulnaja</surname>
+<given-names>KO</given-names>
+</string-name>. <article-title>Changes in the hormone and lipid profile of obese adolescent Saudi females with acne vulgaris</article-title>. <source xml:lang="en">Braz J Med Biol Res</source>
+<year>2009</year>; <volume>42</volume>: <fpage>501</fpage>&#x02013;<lpage>505</lpage>.<pub-id pub-id-type="pmid">19448897</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jdv14820-cit-0028">
+<string-name>
+<surname>Agamia</surname>
+<given-names>NF</given-names>
+</string-name>, <string-name>
+<surname>Abdallah</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Sorour</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Mourad</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Younan</surname>
+<given-names>DN</given-names>
+</string-name>. <article-title>Skin expression of mammalian target of rapamycin and forkhead box transcription factor O1, and serum insulin&#x02010;like growth factor&#x02010;1 in patients with acne vulgaris and their relationship with diet</article-title>. <source xml:lang="en">Br J Dermatol</source>
+<year>2016</year>; <volume>174</volume>: <fpage>1299</fpage>&#x02013;<lpage>1307</lpage>.<pub-id pub-id-type="pmid">26799159</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jdv14820-cit-0029">
+<string-name>
+<surname>Melnik</surname>
+<given-names>BC</given-names>
+</string-name>. <article-title>Linking diet to acne metabolomics, inflammation, and comedogenesis: an update</article-title>. <source xml:lang="en">Clin Cosmet Investig Dermatol</source>
+<year>2015</year>; <volume>8</volume>: <fpage>371</fpage>&#x02013;<lpage>388</lpage>.</mixed-citation></ref><ref id="jdv14820-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jdv14820-cit-0030">
+<string-name>
+<surname>Ismail</surname>
+<given-names>NH</given-names>
+</string-name>, <string-name>
+<surname>Manaf</surname>
+<given-names>ZA</given-names>
+</string-name>, <string-name>
+<surname>Azizan</surname>
+<given-names>NZ</given-names>
+</string-name>. <article-title>High glycemic load diet, milk and ice cream consumption are related to acne vulgaris in Malaysian young adults: a case control study</article-title>. <source xml:lang="en">BMC Dermatol</source>
+<year>2012</year>; <volume>12</volume>: <fpage>13</fpage>.<pub-id pub-id-type="pmid">22898209</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jdv14820-cit-0031">
+<string-name>
+<surname>Vongraviopap</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Asawanonda</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Dark chocolate exacerbates acne</article-title>. <source xml:lang="en">Int J Dermatol</source>
+<year>2016</year>; <volume>55</volume>: <fpage>587</fpage>&#x02013;<lpage>591</lpage>.<pub-id pub-id-type="pmid">26711092</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jdv14820-cit-0032">
+<string-name>
+<surname>Delost</surname>
+<given-names>GR</given-names>
+</string-name>, <string-name>
+<surname>Delost</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Lloyd</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>The impact of chocolate consumption on acne vulgaris in college students: a randomized crossover study</article-title>. <source xml:lang="en">J Am Acad Dermatol</source>
+<year>2016</year>; <volume>75</volume>: <fpage>220</fpage>&#x02013;<lpage>222</lpage>.<pub-id pub-id-type="pmid">27317522</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jdv14820-cit-0033">
+<string-name>
+<surname>Szabo</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Erdei</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Bolla</surname>
+<given-names>BS</given-names>
+</string-name>, <string-name>
+<surname>Tax</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Biro</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Kemeny</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Factors shaping the composition of the cutaneous microbiota</article-title>. <source xml:lang="en">Br J Dermatol</source>
+<year>2017</year>; <volume>176</volume>: <fpage>344</fpage>&#x02013;<lpage>351</lpage>.<pub-id pub-id-type="pmid">27518483</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jdv14820-cit-0034">
+<string-name>
+<surname>Grice</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Segre</surname>
+<given-names>JA</given-names>
+</string-name>. <article-title>The skin microbiome</article-title>. <source xml:lang="en">Nat Rev Microbiol</source>
+<year>2011</year>; <volume>9</volume>: <fpage>244</fpage>&#x02013;<lpage>253</lpage>.<pub-id pub-id-type="pmid">21407241</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="jdv14820-cit-0035">
+<string-name>
+<surname>Katta</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Desai</surname>
+<given-names>SP</given-names>
+</string-name>. <article-title>Diet and dermatology: the role of dietary intervention in skin disease</article-title>. <source xml:lang="en">J Clin Aesthet Dermatol</source>
+<year>2014</year>; <volume>7</volume>: <fpage>46</fpage>&#x02013;<lpage>51</lpage>.</mixed-citation></ref><ref id="jdv14820-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="jdv14820-cit-0036">
+<string-name>
+<surname>Veith</surname>
+<given-names>WB</given-names>
+</string-name>, <string-name>
+<surname>Silverberg</surname>
+<given-names>NB</given-names>
+</string-name>. <article-title>The association of acne vulgaris with diet</article-title>. <source xml:lang="en">Cutis</source>
+<year>2011</year>; <volume>88</volume>: <fpage>84</fpage>&#x02013;<lpage>91</lpage>.<pub-id pub-id-type="pmid">21916275</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="jdv14820-cit-0037">
+<string-name>
+<surname>Norstedt</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Lindberg</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Dietary regimes for treatment of acne vulgaris: a critical review of published clinical trials</article-title>. <source xml:lang="en">Acta Derm Venereol</source>
+<year>2016</year>; <volume>96</volume>: <fpage>283</fpage>&#x02013;<lpage>284</lpage>.<pub-id pub-id-type="pmid">26338511</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="jdv14820-cit-0038">
+<string-name>
+<surname>Adebamowo</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Spiegelman</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Berkey</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name>
+<surname>Danby</surname>
+<given-names>FW</given-names>
+</string-name>, <string-name>
+<surname>Rockett</surname>
+<given-names>HH</given-names>
+</string-name>, <string-name>
+<surname>Colditz</surname>
+<given-names>GA</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>Milk consumption and acne in teenaged boys</article-title>. <source xml:lang="en">J Am Acad Dermatol</source>
+<year>2008</year>; <volume>58</volume>: <fpage>787</fpage>&#x02013;<lpage>793</lpage>.<pub-id pub-id-type="pmid">18194824</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="jdv14820-cit-0039">
+<string-name>
+<surname>Adebamowo</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Spiegelman</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Danby</surname>
+<given-names>FW</given-names>
+</string-name>, <string-name>
+<surname>Frazier</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Willett</surname>
+<given-names>WC</given-names>
+</string-name>, <string-name>
+<surname>Holmes</surname>
+<given-names>MD</given-names>
+</string-name>. <article-title>High school dietary dairy intake and teenage acne</article-title>. <source xml:lang="en">J Am Acad Dermatol</source>
+<year>2005</year>; <volume>52</volume>: <fpage>207</fpage>&#x02013;<lpage>214</lpage>.<pub-id pub-id-type="pmid">15692464</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="jdv14820-cit-0040">
+<string-name>
+<surname>Cordain</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Lindeberg</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Hurtado</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hill</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Eaton</surname>
+<given-names>SB</given-names>
+</string-name>, <string-name>
+<surname>Brand&#x02010;Miller</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Acne vulgaris: a disease of Western civilization</article-title>. <source xml:lang="en">Arch Dermatol</source>
+<year>2002</year>; <volume>138</volume>: <fpage>1584</fpage>&#x02013;<lpage>1590</lpage>.<pub-id pub-id-type="pmid">12472346</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="jdv14820-cit-0041">
+<string-name>
+<surname>Simonart</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Acne and whey protein supplementation among bodybuilders</article-title>. <source xml:lang="en">Dermatology</source>
+<year>2012</year>; <volume>225</volume>: <fpage>256</fpage>&#x02013;<lpage>258</lpage>.<pub-id pub-id-type="pmid">23257731</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="jdv14820-cit-0042">
+<string-name>
+<surname>Melnik</surname>
+<given-names>BC</given-names>
+</string-name>. <article-title>Evidence for acne&#x02010;promoting effects of milk and other insulinotropic dairy products</article-title>. <source xml:lang="en">Nestle Nutr Workshop Ser Pediatr Program</source>
+<year>2011</year>; <volume>67</volume>: <fpage>131</fpage>&#x02013;<lpage>145</lpage>.</mixed-citation></ref><ref id="jdv14820-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="jdv14820-cit-0043">
+<string-name>
+<surname>Cengiz</surname>
+<given-names>FP</given-names>
+</string-name>, <string-name>
+<surname>Cevirgen Cemil</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Emiroglu</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Gulsel Bahali</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Onsun</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Acne located on the trunk, whey protein supplementation: is there any association?</article-title>
+<source xml:lang="en">Health Promot Perspect</source>
+<year>2017</year>; <volume>7</volume>: <fpage>106</fpage>&#x02013;<lpage>108</lpage>.<pub-id pub-id-type="pmid">28326292</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="jdv14820-cit-0044">
+<string-name>
+<surname>Silverberg</surname>
+<given-names>NB</given-names>
+</string-name>. <article-title>Whey protein precipitating moderate to severe acne flares in 5 teenaged athletes</article-title>. <source xml:lang="en">Cutis</source>
+<year>2012</year>; <volume>90</volume>: <fpage>70</fpage>&#x02013;<lpage>72</lpage>.<pub-id pub-id-type="pmid">22988649</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="jdv14820-cit-0045">
+<string-name>
+<surname>Fabbrocini</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Bertona</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Picazo</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Pareja&#x02010;Galeano</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Monfrecola</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Emanuele</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Supplementation with <italic>Lactobacillus rhamnosus</italic> SP1 normalises skin expression of genes implicated in insulin signalling and improves adult acne</article-title>. <source xml:lang="en">Benef Microbes</source>
+<year>2016</year>; <volume>7</volume>: <fpage>625</fpage>&#x02013;<lpage>630</lpage>.<pub-id pub-id-type="pmid">27596801</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="jdv14820-cit-0046">
+<string-name>
+<surname>Marchetti</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Capizzi</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Tulli</surname>
+<given-names>A</given-names>
+</string-name>. [<article-title>Efficacy of regulators of the intestinal bacterial flora in the therapy of acne vulgaris</article-title>]. <source xml:lang="en">Clin Ter</source>
+<year>1987</year>; <volume>122</volume>: <fpage>339</fpage>&#x02013;<lpage>343</lpage>.<pub-id pub-id-type="pmid">2972450</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="jdv14820-cit-0047">
+<string-name>
+<surname>Jung</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name>
+<surname>Tse</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Guiha</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Rao</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Prospective, randomized, open&#x02010;label trial comparing the safety, efficacy, and tolerability of an acne treatment regimen with and without a probiotic supplement and minocycline in subjects with mild to moderate acne</article-title>. <source xml:lang="en">J Cutan Med Surg</source>
+<year>2013</year>; <volume>17</volume>: <fpage>114</fpage>&#x02013;<lpage>122</lpage>.<pub-id pub-id-type="pmid">23582165</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="jdv14820-cit-0048">
+<string-name>
+<surname>Clark</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name>
+<surname>Haas</surname>
+<given-names>KN</given-names>
+</string-name>, <string-name>
+<surname>Sivamani</surname>
+<given-names>RK</given-names>
+</string-name>. <article-title>Edible plants and their influence on the gut microbiome and acne</article-title>. <source xml:lang="en">Int J Mol Sci</source>
+<year>2017</year>; <volume>18</volume>. pii: E1070.</mixed-citation></ref><ref id="jdv14820-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="jdv14820-cit-0049">
+<string-name>
+<surname>Faure</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Drapier&#x02010;Faure</surname>
+<given-names>E</given-names>
+</string-name>. [<article-title>Acne and hormonal contraceptives</article-title>]. <source xml:lang="en">Ann Dermatol Venereol</source>
+<year>2010</year>; <volume>137</volume>: <fpage>746</fpage>&#x02013;<lpage>749</lpage>; quiz 5,50&#x02010;1.<pub-id pub-id-type="pmid">21074664</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="jdv14820-cit-0050">
+<string-name>
+<surname>Tyler</surname>
+<given-names>KH</given-names>
+</string-name>, <string-name>
+<surname>Zirwas</surname>
+<given-names>MJ</given-names>
+</string-name>. <article-title>Contraception and the dermatologist</article-title>. <source xml:lang="en">J Am Acad Dermatol</source>
+<year>2013</year>; <volume>68</volume>: <fpage>1022</fpage>&#x02013;<lpage>1029</lpage>.<pub-id pub-id-type="pmid">23332517</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="jdv14820-cit-0051">
+<string-name>
+<surname>Lortscher</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Admani</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Satur</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Eichenfield</surname>
+<given-names>LF</given-names>
+</string-name>. <article-title>Hormonal contraceptives and acne: a retrospective analysis of 2147 patients</article-title>. <source xml:lang="en">J Drugs Dermatol</source>
+<year>2016</year>; <volume>15</volume>: <fpage>670</fpage>&#x02013;<lpage>674</lpage>.<pub-id pub-id-type="pmid">27272072</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="jdv14820-cit-0052">
+<string-name>
+<surname>Ilse</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Greenberg</surname>
+<given-names>HL</given-names>
+</string-name>, <string-name>
+<surname>Bennett</surname>
+<given-names>DD</given-names>
+</string-name>. <article-title>Levonorgestrel&#x02010;releasing intrauterine system and new&#x02010;onset acne</article-title>. <source xml:lang="en">Cutis</source>
+<year>2008</year>; <volume>82</volume>: <fpage>158</fpage>.<pub-id pub-id-type="pmid">18792549</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="jdv14820-cit-0053">
+<string-name>
+<surname>Cohen</surname>
+<given-names>EB</given-names>
+</string-name>, <string-name>
+<surname>Rossen</surname>
+<given-names>NN</given-names>
+</string-name>. [<article-title>Acne vulgaris in connection with the use of progestagens in a hormonal IUD or a subcutaneous implant</article-title>]. <source xml:lang="en">Ned Tijdschr Geneeskd</source>
+<year>2003</year>; <volume>147</volume>: <fpage>2137</fpage>&#x02013;<lpage>2139</lpage>.<pub-id pub-id-type="pmid">14619207</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="jdv14820-cit-0054">
+<string-name>
+<surname>Palatsi</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Ylostalo</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Taipale</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Treatment of acne with cyproterone acetate and ethinyl estradiol</article-title>. <source xml:lang="en">Acta Derm Venereol</source>
+<year>1978</year>; <volume>58</volume>: <fpage>449</fpage>&#x02013;<lpage>454</lpage>.<pub-id pub-id-type="pmid">82357</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="jdv14820-cit-0055">
+<string-name>
+<surname>Wierckx</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Van de Peer</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Verhaeghe</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Dedecker</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Van Caenegem</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Toye</surname>
+<given-names>K</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>Short&#x02010; and long&#x02010;term clinical skin effects of testosterone treatment in trans men</article-title>. <source xml:lang="en">J Sex Med</source>
+<year>2014</year>; <volume>11</volume>: <fpage>222</fpage>&#x02013;<lpage>229</lpage>.<pub-id pub-id-type="pmid">24344810</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="jdv14820-cit-0056">
+<string-name>
+<surname>Walker</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Adams</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Cutaneous manifestations of anabolic&#x02010;androgenic steroid use in athletes</article-title>. <source xml:lang="en">Int J Dermatol</source>
+<year>2009</year>; <volume>48</volume>: <fpage>1044</fpage>&#x02013;<lpage>1048</lpage>; quiz 8.<pub-id pub-id-type="pmid">19785085</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="jdv14820-cit-0057">
+<string-name>
+<surname>Kraus</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Emmert</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Schon</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name>
+<surname>Haenssle</surname>
+<given-names>HA</given-names>
+</string-name>. <article-title>The dark side of beauty: acne fulminans induced by anabolic steroids in a male bodybuilder</article-title>. <source xml:lang="en">Arch Dermatol</source>
+<year>2012</year>; <volume>148</volume>: <fpage>1210</fpage>&#x02013;<lpage>1212</lpage>.<pub-id pub-id-type="pmid">23069972</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="jdv14820-cit-0058">
+<string-name>
+<surname>Perez</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Navajas&#x02010;Galimany</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Antunez&#x02010;Lay</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Hasson</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>When strength turns into disease: acne fulminans in a bodybuilder</article-title>. <source xml:lang="en">An Bras Dermatol</source>
+<year>2016</year>; <volume>91</volume>: <fpage>706</fpage>.<pub-id pub-id-type="pmid">27828663</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="jdv14820-cit-0059">
+<string-name>
+<surname>Monk</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Cunliffe</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name>
+<surname>Layton</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Rhodes</surname>
+<given-names>DJ</given-names>
+</string-name>. <article-title>Acne induced by inhaled corticosteroids</article-title>. <source xml:lang="en">Clin Exp Dermatol</source>
+<year>1993</year>; <volume>18</volume>: <fpage>148</fpage>&#x02013;<lpage>150</lpage>.<pub-id pub-id-type="pmid">8481992</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="jdv14820-cit-0060">
+<string-name>
+<surname>Kazandjieva</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Tsankov</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Drug&#x02010;induced acne</article-title>. <source xml:lang="en">Clin Dermatol</source>
+<year>2017</year>; <volume>35</volume>: <fpage>156</fpage>&#x02013;<lpage>162</lpage>.<pub-id pub-id-type="pmid">28274352</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="jdv14820-cit-0061">
+<string-name>
+<surname>Moroni</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Pierini</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Zerboni</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Nava</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Pigatto</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Riboldi</surname>
+<given-names>A</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>Skin pathology in industrial workers exposed to synthetic corticosteroids</article-title>. <source xml:lang="en">Derm Beruf Umwelt</source>
+<year>1985</year>; <volume>33</volume>: <fpage>220</fpage>&#x02013;<lpage>222</lpage>.<pub-id pub-id-type="pmid">2936595</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="jdv14820-cit-0062">
+<string-name>
+<surname>Mackesy</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Selhorst</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Raza</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Immunosuppressant&#x02010;induced acneiform eruption of the breast</article-title>. <source xml:lang="en">Breast J</source>
+<year>2014</year>; <volume>20</volume>: <fpage>650</fpage>&#x02013;<lpage>652</lpage>.<pub-id pub-id-type="pmid">25229395</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="jdv14820-cit-0063">
+<string-name>
+<surname>Balta</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Ozuguz</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Vitamin B12&#x02010;induced acneiform eruption</article-title>. <source xml:lang="en">Cutan Ocul Toxicol</source>
+<year>2014</year>; <volume>33</volume>: <fpage>94</fpage>&#x02013;<lpage>95</lpage>.<pub-id pub-id-type="pmid">23815241</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="jdv14820-cit-0064">
+<string-name>
+<surname>Scarfi</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Arunachalam</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Lithium acne</article-title>. <source xml:lang="en">CMAJ</source>
+<year>2013</year>; <volume>185</volume>: <fpage>1525</fpage>.<pub-id pub-id-type="pmid">23713068</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="jdv14820-cit-0065">
+<string-name>
+<surname>Thaler</surname>
+<given-names>CJ</given-names>
+</string-name>. <article-title>Folate metabolism and human reproduction</article-title>. <source xml:lang="en">Geburtshilfe Frauenheilkd</source>
+<year>2014</year>; <volume>74</volume>: <fpage>845</fpage>&#x02013;<lpage>851</lpage>.<pub-id pub-id-type="pmid">25278626</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="jdv14820-cit-0066">
+<string-name>
+<surname>Hubiche</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Sibaud</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>Localized acne induced by radiation therapy</article-title>. <source xml:lang="en">Dermatol Online J</source>
+<year>2014</year>; <volume>20</volume>. pii: doj_21545.</mixed-citation></ref><ref id="jdv14820-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="jdv14820-cit-0067">
+<string-name>
+<surname>Martin</surname>
+<given-names>WM</given-names>
+</string-name>, <string-name>
+<surname>Bardsley</surname>
+<given-names>AF</given-names>
+</string-name>. <article-title>The comedo skin reaction to radiotherapy</article-title>. <source xml:lang="en">Br J Radiol</source>
+<year>2002</year>; <volume>75</volume>: <fpage>478</fpage>&#x02013;<lpage>481</lpage>.<pub-id pub-id-type="pmid">12036846</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="jdv14820-cit-0068">
+<string-name>
+<surname>Klemke</surname>
+<given-names>CD</given-names>
+</string-name>, <string-name>
+<surname>Nestoris</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Wolfer</surname>
+<given-names>LU</given-names>
+</string-name>, <string-name>
+<surname>Krengel</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Zouboulis</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name>
+<surname>Tebbe</surname>
+<given-names>B</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> [<article-title>Radiation&#x02010;induced acne</article-title>]. <source xml:lang="en">Hautarzt</source>
+<year>2000</year>; <volume>51</volume>: <fpage>187</fpage>&#x02013;<lpage>191</lpage>.<pub-id pub-id-type="pmid">10789081</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0069"><label>69</label><mixed-citation publication-type="journal" id="jdv14820-cit-0069">
+<string-name>
+<surname>Kang</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Erfe</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Craft</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Vitamin B12 modulates the transcriptome of the skin microbiota in acne pathogenesis</article-title>. <source xml:lang="en">Sci Transl Med</source>
+<year>2015</year>; <volume>7</volume>: <fpage>293ra103</fpage>.</mixed-citation></ref><ref id="jdv14820-bib-0070"><label>70</label><mixed-citation publication-type="journal" id="jdv14820-cit-0070">
+<string-name>
+<surname>Kimyai&#x02010;Asadi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Jih</surname>
+<given-names>MH</given-names>
+</string-name>. <article-title>Follicular toxic effects of chimeric anti&#x02010;epidermal growth factor receptor antibody cetuximab used to treat human solid tumors</article-title>. <source xml:lang="en">Arch Dermatol</source>
+<year>2002</year>; <volume>138</volume>: <fpage>129</fpage>&#x02013;<lpage>131</lpage>.<pub-id pub-id-type="pmid">11790188</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0071"><label>71</label><mixed-citation publication-type="journal" id="jdv14820-cit-0071">
+<string-name>
+<surname>Kligman</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Mills</surname>
+<given-names>OH</given-names>
+<suffix>Jr</suffix>
+</string-name>. <article-title>Acne cosmetica</article-title>. <source xml:lang="en">Arch Dermatol</source>
+<year>1972</year>; <volume>106</volume>: <fpage>843</fpage>&#x02013;<lpage>850</lpage>.<pub-id pub-id-type="pmid">4264346</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0072"><label>72</label><mixed-citation publication-type="journal" id="jdv14820-cit-0072">
+<string-name>
+<surname>Nguyen</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name>
+<surname>Dang</surname>
+<given-names>TP</given-names>
+</string-name>, <string-name>
+<surname>Maibach</surname>
+<given-names>HI</given-names>
+</string-name>. <article-title>Comedogenicity in rabbit: some cosmetic ingredients/vehicles</article-title>. <source xml:lang="en">Cutan Ocul Toxicol</source>
+<year>2007</year>; <volume>26</volume>: <fpage>287</fpage>&#x02013;<lpage>292</lpage>.<pub-id pub-id-type="pmid">18058303</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0073"><label>73</label><mixed-citation publication-type="journal" id="jdv14820-cit-0073">
+<string-name>
+<surname>Tarun</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Susan</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Suria</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Susan</surname>
+<given-names>VJ</given-names>
+</string-name>, <string-name>
+<surname>Criton</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Evaluation of pH of bathing soaps and shampoos for skin and hair care</article-title>. <source xml:lang="en">Indian J Dermatol</source>
+<year>2014</year>; <volume>59</volume>: <fpage>442</fpage>&#x02013;<lpage>444</lpage>.<pub-id pub-id-type="pmid">25284846</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0074"><label>74</label><mixed-citation publication-type="journal" id="jdv14820-cit-0074">
+<string-name>
+<surname>Plewig</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Fulton</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Kligman</surname>
+<given-names>AM</given-names>
+</string-name>. <article-title>Pomade acne</article-title>. <source xml:lang="en">Arch Dermatol</source>
+<year>1970</year>; <volume>101</volume>: <fpage>580</fpage>&#x02013;<lpage>584</lpage>.<pub-id pub-id-type="pmid">4245751</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0075"><label>75</label><mixed-citation publication-type="journal" id="jdv14820-cit-0075">
+<string-name>
+<surname>Dreno</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Bettoli</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Perez</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bouloc</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ochsendorf</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Cutaneous lesions caused by mechanical injury</article-title>. <source xml:lang="en">Eur J Dermatol</source>
+<year>2015</year>; <volume>25</volume>: <fpage>114</fpage>&#x02013;<lpage>121</lpage>.<pub-id pub-id-type="pmid">26069089</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0076"><label>76</label><mixed-citation publication-type="journal" id="jdv14820-cit-0076">
+<string-name>
+<surname>Lebwohl</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Herrmann</surname>
+<given-names>LG</given-names>
+</string-name>. <article-title>Impaired skin barrier function in dermatologic disease and repair with moisturization</article-title>. <source xml:lang="en">Cutis</source>
+<year>2005</year>; <volume>76</volume>(<issue>6 Suppl</issue>): <fpage>7</fpage>&#x02013;<lpage>12</lpage>.<pub-id pub-id-type="pmid">16869176</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0077"><label>77</label><mixed-citation publication-type="journal" id="jdv14820-cit-0077">
+<string-name>
+<surname>Krutmann</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Moyal</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Kandahari</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>GS</given-names>
+</string-name>, <string-name>
+<surname>Nopadon</surname>
+<given-names>N</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>Pollution and acne: is there a link?</article-title>
+<source xml:lang="en">Clin Cosmet Investig Dermatol</source>
+<year>2017</year>; <volume>10</volume>: <fpage>199</fpage>&#x02013;<lpage>204</lpage>.</mixed-citation></ref><ref id="jdv14820-bib-0078"><label>78</label><mixed-citation publication-type="journal" id="jdv14820-cit-0078">
+<string-name>
+<surname>Pham</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Boussouira</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Moyal</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Nguyen</surname>
+<given-names>QL</given-names>
+</string-name>. <article-title>Oxidization of squalene, a human skin lipid: a new and reliable marker of environmental pollution studies</article-title>. <source xml:lang="en">Int J Cosmet Sci</source>
+<year>2015</year>; <volume>37</volume>: <fpage>357</fpage>&#x02013;<lpage>365</lpage>.<pub-id pub-id-type="pmid">25656265</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0079"><label>79</label><mixed-citation publication-type="journal" id="jdv14820-cit-0079">
+<string-name>
+<surname>Lefebvre</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Pham</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Boussouira</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Bernard</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Camus</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Nguyen</surname>
+<given-names>QL</given-names>
+</string-name>. <article-title>Evaluation of the impact of urban pollution on the quality of skin: a multicentre study in Mexico</article-title>. <source xml:lang="en">Int J Cosmet Sci</source>
+<year>2015</year>; <volume>37</volume>: <fpage>329</fpage>&#x02013;<lpage>338</lpage>.<pub-id pub-id-type="pmid">25655908</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0080"><label>80</label><mixed-citation publication-type="journal" id="jdv14820-cit-0080">
+<string-name>
+<surname>Lefebvre</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Pham</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Boussouira</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Qiu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Ye</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Long</surname>
+<given-names>X</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>Consequences of urban pollution upon skin status. A controlled study in Shanghai area</article-title>. <source xml:lang="en">Int J Cosmet Sci</source>
+<year>2016</year>; <volume>38</volume>: <fpage>217</fpage>&#x02013;<lpage>223</lpage>.<pub-id pub-id-type="pmid">26291783</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0081"><label>81</label><mixed-citation publication-type="journal" id="jdv14820-cit-0081">
+<string-name>
+<surname>Das</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Misra</surname>
+<given-names>MP</given-names>
+</string-name>. <article-title>Acne and folliculitis due to diesel oil</article-title>. <source xml:lang="en">Contact Dermatitis</source>
+<year>1988</year>; <volume>18</volume>: <fpage>120</fpage>&#x02013;<lpage>121</lpage>.<pub-id pub-id-type="pmid">2966703</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0082"><label>82</label><mixed-citation publication-type="journal" id="jdv14820-cit-0082">
+<string-name>
+<surname>Adams</surname>
+<given-names>BB</given-names>
+</string-name>, <string-name>
+<surname>Chetty</surname>
+<given-names>VB</given-names>
+</string-name>, <string-name>
+<surname>Mutasim</surname>
+<given-names>DF</given-names>
+</string-name>. <article-title>Periorbital comedones and their relationship to pitch tar: a cross&#x02010;sectional analysis and a review of the literature</article-title>. <source xml:lang="en">J Am Acad Dermatol</source>
+<year>2000</year>; <volume>42</volume>: <fpage>624</fpage>&#x02013;<lpage>627</lpage>.<pub-id pub-id-type="pmid">10727308</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0083"><label>83</label><mixed-citation publication-type="journal" id="jdv14820-cit-0083">
+<string-name>
+<surname>Moustafa</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Xanthopoulou</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Riza</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Linos</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Skin disease after occupational dermal exposure to coal tar: a review of the scientific literature</article-title>. <source xml:lang="en">Int J Dermatol</source>
+<year>2015</year>; <volume>54</volume>: <fpage>868</fpage>&#x02013;<lpage>879</lpage>.<pub-id pub-id-type="pmid">26183242</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0084"><label>84</label><mixed-citation publication-type="journal" id="jdv14820-cit-0084">
+<string-name>
+<surname>Wolf</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Gruber</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Jakac</surname>
+<given-names>D</given-names>
+</string-name>. [<article-title>Acneiform eruptions in female workers at a cable factory</article-title>]. <source xml:lang="en">Berufsdermatosen</source>
+<year>1977</year>; <volume>25</volume>: <fpage>229</fpage>&#x02013;<lpage>236</lpage>.<pub-id pub-id-type="pmid">146482</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0085"><label>85</label><mixed-citation publication-type="journal" id="jdv14820-cit-0085">
+<string-name>
+<surname>Fabbrocini</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Kaya</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Caseiro Silverio</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>De Vita</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Kaya</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Fontao</surname>
+<given-names>F</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>Aryl hydrocarbon receptor activation in acne vulgaris skin: a case series from the region of Naples, Italy</article-title>. <source xml:lang="en">Dermatology</source>
+<year>2015</year>; <volume>231</volume>: <fpage>334</fpage>&#x02013;<lpage>338</lpage>.<pub-id pub-id-type="pmid">26440531</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0086"><label>86</label><mixed-citation publication-type="journal" id="jdv14820-cit-0086">
+<string-name>
+<surname>Ancona</surname>
+<given-names>AA</given-names>
+</string-name>. <article-title>Occupational acne</article-title>. <source xml:lang="en">Occup Med</source>
+<year>1986</year>; <volume>1</volume>: <fpage>229</fpage>&#x02013;<lpage>243</lpage>.<pub-id pub-id-type="pmid">2956707</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0087"><label>87</label><mixed-citation publication-type="book" id="jdv14820-cit-0087">
+<string-name>
+<surname>Demir</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Cicek</surname>
+<given-names>D</given-names>
+</string-name>. <chapter-title>Occupational acne</chapter-title> In <person-group person-group-type="editor"><name><surname>Kartal</surname><given-names>SP</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Gonul</surname><given-names>M</given-names></name></person-group>, eds. <source xml:lang="en">Acne and Acneiform Eruptions</source>. <publisher-name>InTech</publisher-name>, <publisher-loc>Rijeka, Croatia</publisher-loc>, <year>2017</year>: <fpage>04</fpage>.</mixed-citation></ref><ref id="jdv14820-bib-0088"><label>88</label><mixed-citation publication-type="journal" id="jdv14820-cit-0088">
+<string-name>
+<surname>Kokelj</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Occupational acne</article-title>. <source xml:lang="en">Clin Dermatol</source>
+<year>1992</year>; <volume>10</volume>: <fpage>213</fpage>&#x02013;<lpage>217</lpage>.<pub-id pub-id-type="pmid">1393957</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0089"><label>89</label><mixed-citation publication-type="journal" id="jdv14820-cit-0089">
+<string-name>
+<surname>Farkas</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Oil acne from mineral oil among workers making prefabricated concrete panels</article-title>. <source xml:lang="en">Contact Dermatitis</source>
+<year>1982</year>; <volume>8</volume>: <fpage>141</fpage>.<pub-id pub-id-type="pmid">6461504</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0090"><label>90</label><mixed-citation publication-type="journal" id="jdv14820-cit-0090">
+<string-name>
+<surname>Ju</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Zouboulis</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name>
+<surname>Xia</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Environmental pollution and acne: chloracne</article-title>. <source xml:lang="en">Dermatoendocrinology</source>
+<year>2009</year>; <volume>1</volume>: <fpage>125</fpage>&#x02013;<lpage>128</lpage>.</mixed-citation></ref><ref id="jdv14820-bib-0091"><label>91</label><mixed-citation publication-type="journal" id="jdv14820-cit-0091">
+<string-name>
+<surname>Caramaschi</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>del Corno</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Favaretti</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Giambelluca</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Montesarchio</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Fara</surname>
+<given-names>GM</given-names>
+</string-name>. <article-title>Chloracne following environmental contamination by TCDD in Seveso, Italy</article-title>. <source xml:lang="en">Int J Epidemiol</source>
+<year>1981</year>; <volume>10</volume>: <fpage>135</fpage>&#x02013;<lpage>143</lpage>.<pub-id pub-id-type="pmid">6457009</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0092"><label>92</label><mixed-citation publication-type="journal" id="jdv14820-cit-0092">
+<string-name>
+<surname>Wolkenstein</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Misery</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Amici</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Maghia</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Branchoux</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Cazeau</surname>
+<given-names>C</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>Smoking and dietary factors associated with moderate&#x02010;to&#x02010;severe acne in French adolescents and young adults: results of a survey using a representative sample</article-title>. <source xml:lang="en">Dermatology</source>
+<year>2015</year>; <volume>230</volume>: <fpage>34</fpage>&#x02013;<lpage>39</lpage>.<pub-id pub-id-type="pmid">25413494</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0093"><label>93</label><mixed-citation publication-type="journal" id="jdv14820-cit-0093">
+<string-name>
+<surname>Wolkenstein</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Machovcova</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Szepietowski</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Tennstedt</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Veraldi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Delarue</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Acne prevalence and associations with lifestyle: a cross&#x02010;sectional online survey of adolescents/young adults in 7 European countries</article-title>. <source xml:lang="en">J Eur Acad Dermatol Venereol</source>
+<year>2017</year>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/jdv.14475">https://doi.org/10.1111/jdv.14475</ext-link>.</mixed-citation></ref><ref id="jdv14820-bib-0094"><label>94</label><mixed-citation publication-type="journal" id="jdv14820-cit-0094">
+<string-name>
+<surname>Capitanio</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Sinagra</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Ottaviani</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bordignon</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Amantea</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Picardo</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Acne and smoking</article-title>. <source xml:lang="en">Dermatoendocrinology</source>
+<year>2009</year>; <volume>1</volume>: <fpage>129</fpage>&#x02013;<lpage>135</lpage>.</mixed-citation></ref><ref id="jdv14820-bib-0095"><label>95</label><mixed-citation publication-type="journal" id="jdv14820-cit-0095">
+<string-name>
+<surname>Capitanio</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Sinagra</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Bordignon</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Cordiali Fei</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Picardo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Zouboulis</surname>
+<given-names>CC</given-names>
+</string-name>. <article-title>Underestimated clinical features of postadolescent acne</article-title>. <source xml:lang="en">J Am Acad Dermatol</source>
+<year>2010</year>; <volume>632010</volume>: <fpage>782</fpage>&#x02013;<lpage>788</lpage>.</mixed-citation></ref><ref id="jdv14820-bib-0096"><label>96</label><mixed-citation publication-type="journal" id="jdv14820-cit-0096">
+<string-name>
+<surname>Puri</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Nandar</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Kathuria</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ramesh</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>Effects of air pollution on the skin: a review</article-title>. <source xml:lang="en">Indian J Dermatol Venereol Leprol</source>
+<year>2017</year>; <volume>83</volume>: <fpage>415</fpage>&#x02013;<lpage>423</lpage>.<pub-id pub-id-type="pmid">28195077</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0097"><label>97</label><mixed-citation publication-type="journal" id="jdv14820-cit-0097">
+<string-name>
+<surname>Belushkin</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Jaccard</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Kondylis</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Considerations for comparative tobacco product assessments based on smoke constituent yields</article-title>. <source xml:lang="en">Regul Toxicol Pharmacol</source>
+<year>2015</year>; <volume>73</volume>: <fpage>105</fpage>&#x02013;<lpage>113</lpage>.<pub-id pub-id-type="pmid">26140819</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0098"><label>98</label><mixed-citation publication-type="journal" id="jdv14820-cit-0098">
+<string-name>
+<surname>Calafat</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Polzin</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name>
+<surname>Saylor</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Richter</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Ashley</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name>
+<surname>Watson</surname>
+<given-names>CH</given-names>
+</string-name>. <article-title>Determination of tar, nicotine, and carbon monoxide yields in the mainstream smoke of selected international cigarettes</article-title>. <source xml:lang="en">Tob Control</source>
+<year>2004</year>; <volume>13</volume>: <fpage>45</fpage>&#x02013;<lpage>51</lpage>.<pub-id pub-id-type="pmid">14985595</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0099"><label>99</label><mixed-citation publication-type="journal" id="jdv14820-cit-0099">
+<string-name>
+<surname>Valacchi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Sticozzi</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Pecorelli</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Cervellati</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Cervellati</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Maioli</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Cutaneous responses to environmental stressors</article-title>. <source xml:lang="en">Ann N Y Acad Sci</source>
+<year>2012</year>; <volume>1271</volume>: <fpage>75</fpage>&#x02013;<lpage>81</lpage>.<pub-id pub-id-type="pmid">23050967</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0100"><label>100</label><mixed-citation publication-type="journal" id="jdv14820-cit-0100">
+<string-name>
+<surname>Jorgensen</surname>
+<given-names>LN</given-names>
+</string-name>, <string-name>
+<surname>Kallehave</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Christensen</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Siana</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Gottrup</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Less collagen production in smokers</article-title>. <source xml:lang="en">Surgery</source>
+<year>1998</year>; <volume>123</volume>: <fpage>450</fpage>&#x02013;<lpage>455</lpage>.<pub-id pub-id-type="pmid">9551072</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0101"><label>101</label><mixed-citation publication-type="journal" id="jdv14820-cit-0101">
+<string-name>
+<surname>Just</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ribera</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Monso</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Lorenzo</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Ferrandiz</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Effect of smoking on skin elastic fibres: morphometric and immunohistochemical analysis</article-title>. <source xml:lang="en">Br J Dermatol</source>
+<year>2007</year>; <volume>156</volume>: <fpage>85</fpage>&#x02013;<lpage>91</lpage>.<pub-id pub-id-type="pmid">17199572</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0102"><label>102</label><mixed-citation publication-type="journal" id="jdv14820-cit-0102">
+<string-name>
+<surname>Patterson</surname>
+<given-names>AT</given-names>
+</string-name>, <string-name>
+<surname>Tian</surname>
+<given-names>FT</given-names>
+</string-name>, <string-name>
+<surname>Elston</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Kaffenberger</surname>
+<given-names>BH</given-names>
+</string-name>. <article-title>Occluded cigarette smoke exposure causing localized chloracne&#x02010;like comedones</article-title>. <source xml:lang="en">Dermatology</source>
+<year>2015</year>; <volume>231</volume>: <fpage>322</fpage>&#x02013;<lpage>325</lpage>.<pub-id pub-id-type="pmid">26360246</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0103"><label>103</label><mixed-citation publication-type="journal" id="jdv14820-cit-0103">
+<string-name>
+<surname>Yang</surname>
+<given-names>YS</given-names>
+</string-name>, <string-name>
+<surname>Lim</surname>
+<given-names>HK</given-names>
+</string-name>, <string-name>
+<surname>Hong</surname>
+<given-names>KK</given-names>
+</string-name>, <string-name>
+<surname>Shin</surname>
+<given-names>MK</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>SW</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>Cigarette smoke&#x02010;induced interleukin&#x02010;1 alpha may be involved in the pathogenesis of adult acne</article-title>. <source xml:lang="en">Ann Dermatol</source>
+<year>2014</year>; <volume>26</volume>: <fpage>11</fpage>&#x02013;<lpage>16</lpage>.<pub-id pub-id-type="pmid">24648681</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0104"><label>104</label><mixed-citation publication-type="journal" id="jdv14820-cit-0104">
+<string-name>
+<surname>Klaz</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Kochba</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Shohat</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Zarka</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Brenner</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Severe acne vulgaris and tobacco smoking in young men</article-title>. <source xml:lang="en">J Invest Dermatol</source>
+<year>2006</year>; <volume>126</volume>: <fpage>1749</fpage>&#x02013;<lpage>1752</lpage>.<pub-id pub-id-type="pmid">16645586</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0105"><label>105</label><mixed-citation publication-type="journal" id="jdv14820-cit-0105">
+<string-name>
+<surname>Crivellari</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Sticozzi</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Belmonte</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Muresan</surname>
+<given-names>XM</given-names>
+</string-name>, <string-name>
+<surname>Cervellati</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Pecorelli</surname>
+<given-names>A</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>SRB1 as a new redox target of cigarette smoke in human sebocytes</article-title>. <source xml:lang="en">Free Radic Biol Med</source>
+<year>2017</year>; <volume>102</volume>: <fpage>47</fpage>&#x02013;<lpage>56</lpage>.<pub-id pub-id-type="pmid">27865981</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0106"><label>106</label><mixed-citation publication-type="journal" id="jdv14820-cit-0106">
+<string-name>
+<surname>Sticozzi</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Belmonte</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Pecorelli</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Arezzini</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Gardi</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Maioli</surname>
+<given-names>E</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>Cigarette smoke affects keratinocytes SRB1 expression and localization via H<sub>2</sub>O<sub>2</sub> production and HNE protein adducts formation</article-title>. <source xml:lang="en">PLoS ONE</source>
+<year>2012</year>; <volume>7</volume>: <fpage>e33592</fpage>.<pub-id pub-id-type="pmid">22442701</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0107"><label>107</label><mixed-citation publication-type="journal" id="jdv14820-cit-0107">
+<string-name>
+<surname>Tucker</surname>
+<given-names>SB</given-names>
+</string-name>. <article-title>Occupational tropical acne</article-title>. <source xml:lang="en">Cutis</source>
+<year>1983</year>; <volume>31</volume>: <fpage>79</fpage>&#x02013;<lpage>81</lpage>.<pub-id pub-id-type="pmid">6218968</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0108"><label>108</label><mixed-citation publication-type="book" id="jdv14820-cit-0108">
+<string-name>
+<surname>Plewig</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Kligman</surname>
+<given-names>AM</given-names>
+</string-name>. <source xml:lang="en">Acne Tropicalis (Tropical Acne). ACNE and ROSACEA</source>. <publisher-name>Springer Verlag</publisher-name>, <publisher-loc>Berlin Heidelberg, Germany</publisher-loc>, <year>2000</year>.</mixed-citation></ref><ref id="jdv14820-bib-0109"><label>109</label><mixed-citation publication-type="journal" id="jdv14820-cit-0109">
+<string-name>
+<surname>Novy</surname>
+<given-names>FG</given-names>
+<suffix>Jr</suffix>
+</string-name>. <article-title>Tropical acne</article-title>. <source xml:lang="en">Calif Med</source>
+<year>1946</year>; <volume>65</volume>: <fpage>274</fpage>&#x02013;<lpage>277</lpage>.<pub-id pub-id-type="pmid">18731133</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0110"><label>110</label><mixed-citation publication-type="journal" id="jdv14820-cit-0110">
+<string-name>
+<surname>Sardana</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Sarkar</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Seasonal variation in acne vulgaris&#x02013;myth or reality</article-title>. <source xml:lang="en">J Dermatol</source>
+<year>2002</year>; <volume>29</volume>: <fpage>484</fpage>&#x02013;<lpage>488</lpage>.<pub-id pub-id-type="pmid">12227481</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0111"><label>111</label><mixed-citation publication-type="journal" id="jdv14820-cit-0111">
+<string-name>
+<surname>Gfesser</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Worret</surname>
+<given-names>WI</given-names>
+</string-name>. <article-title>Seasonal variations in the severity of acne vulgaris</article-title>. <source xml:lang="en">Int J Dermatol</source>
+<year>1996</year>; <volume>35</volume>: <fpage>116</fpage>&#x02013;<lpage>117</lpage>.<pub-id pub-id-type="pmid">8850040</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0112"><label>112</label><mixed-citation publication-type="journal" id="jdv14820-cit-0112">
+<string-name>
+<surname>Lee</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>KH</given-names>
+</string-name>, <string-name>
+<surname>Sohn</surname>
+<given-names>MY</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>WC</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>DW</given-names>
+</string-name>. <article-title>Ultraviolet B irradiation increases the expression of inflammatory cytokines in cultured sebocytes</article-title>. <source xml:lang="en">J Dermatol</source>
+<year>2013</year>; <volume>40</volume>: <fpage>993</fpage>&#x02013;<lpage>997</lpage>.<pub-id pub-id-type="pmid">24304049</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0113"><label>113</label><mixed-citation publication-type="journal" id="jdv14820-cit-0113">
+<string-name>
+<surname>Lee</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name>
+<surname>Chae</surname>
+<given-names>SY</given-names>
+</string-name>, <string-name>
+<surname>Ryu</surname>
+<given-names>HS</given-names>
+</string-name>, <string-name>
+<surname>Jang</surname>
+<given-names>YH</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>DW</given-names>
+</string-name>. <article-title>Inflammatory cytokine expression and sebum production after exposure of cultured human sebocytes to ultraviolet A radiation and light at wavelengths of 650&#x000a0;nm and 830&#x000a0;nm</article-title>. <source xml:lang="en">Ann Dermatol</source>
+<year>2015</year>; <volume>27</volume>: <fpage>163</fpage>&#x02013;<lpage>170</lpage>.<pub-id pub-id-type="pmid">25834355</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0114"><label>114</label><mixed-citation publication-type="book" id="jdv14820-cit-0114">
+<string-name>
+<surname>Plewig</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Kligman</surname>
+<given-names>AM</given-names>
+</string-name>. <source xml:lang="en">Ultraviolet Radiation. ACNE and ROSACEA</source>. <publisher-name>Springer Verlag</publisher-name>, <publisher-loc>Berlin Heidelberg, Germany</publisher-loc>, <year>2000</year>.</mixed-citation></ref><ref id="jdv14820-bib-0115"><label>115</label><mixed-citation publication-type="journal" id="jdv14820-cit-0115">
+<string-name>
+<surname>Scott</surname>
+<given-names>TL</given-names>
+</string-name>, <string-name>
+<surname>Christian</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Kesler</surname>
+<given-names>MV</given-names>
+</string-name>, <string-name>
+<surname>Donohue</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Shelton</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Wakamatsu</surname>
+<given-names>K</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>Pigment&#x02010;independent cAMP&#x02010;mediated epidermal thickening protects against cutaneous UV injury by keratinocyte proliferation</article-title>. <source xml:lang="en">Exp Dermatol</source>
+<year>2012</year>; <volume>21</volume>: <fpage>771</fpage>&#x02013;<lpage>777</lpage>.<pub-id pub-id-type="pmid">23078399</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0116"><label>116</label><mixed-citation publication-type="journal" id="jdv14820-cit-0116">
+<string-name>
+<surname>Suh</surname>
+<given-names>DH</given-names>
+</string-name>, <string-name>
+<surname>Kwon</surname>
+<given-names>TE</given-names>
+</string-name>, <string-name>
+<surname>Youn</surname>
+<given-names>JI</given-names>
+</string-name>. <article-title>Changes of comedonal cytokines and sebum secretion after UV irradiation in acne patients</article-title>. <source xml:lang="en">Eur J Dermatol</source>
+<year>2002</year>; <volume>12</volume>: <fpage>139</fpage>&#x02013;<lpage>144</lpage>.<pub-id pub-id-type="pmid">11872409</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0117"><label>117</label><mixed-citation publication-type="journal" id="jdv14820-cit-0117">
+<string-name>
+<surname>Patra</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Byrne</surname>
+<given-names>SN</given-names>
+</string-name>, <string-name>
+<surname>Wolf</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>The skin microbiome: is it affected by UV&#x02010;induced Immune suppression?</article-title>
+<source xml:lang="en">Front Microbiol</source>
+<year>2016</year>; <volume>7</volume>: <fpage>1235</fpage>.<pub-id pub-id-type="pmid">27559331</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0118"><label>118</label><mixed-citation publication-type="journal" id="jdv14820-cit-0118">
+<string-name>
+<surname>Shenoi</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name>
+<surname>Prabhu</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Role of cultural factors in the biopsychosocial model of psychosomatic skin diseases: an Indian perspective</article-title>. <source xml:lang="en">Clin Dermatol</source>
+<year>2013</year>; <volume>31</volume>: <fpage>62</fpage>&#x02013;<lpage>65</lpage>.<pub-id pub-id-type="pmid">23245975</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0119"><label>119</label><mixed-citation publication-type="journal" id="jdv14820-cit-0119">
+<string-name>
+<surname>Picardi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Abeni</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Stressful life events and skin diseases: disentangling evidence from myth</article-title>. <source xml:lang="en">Psychother Psychosom</source>
+<year>2001</year>; <volume>70</volume>: <fpage>118</fpage>&#x02013;<lpage>136</lpage>.<pub-id pub-id-type="pmid">11340413</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0120"><label>120</label><mixed-citation publication-type="journal" id="jdv14820-cit-0120">
+<string-name>
+<surname>Welp</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Gieler</surname>
+<given-names>U</given-names>
+</string-name>. [<article-title>Acne vulgaris: morphologic, endocrinologic and psychosomatic aspects</article-title>]. <source xml:lang="en">Z Hautkr</source>
+<year>1990</year>; <volume>65</volume>: <fpage>1139</fpage>&#x02013;<lpage>1145</lpage>.<pub-id pub-id-type="pmid">2150903</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0121"><label>121</label><mixed-citation publication-type="journal" id="jdv14820-cit-0121">
+<string-name>
+<surname>Lin</surname>
+<given-names>TK</given-names>
+</string-name>, <string-name>
+<surname>Man</surname>
+<given-names>MQ</given-names>
+</string-name>, <string-name>
+<surname>Santiago</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Scharschmidt</surname>
+<given-names>TC</given-names>
+</string-name>, <string-name>
+<surname>Hupe</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Martin&#x02010;Ezquerra</surname>
+<given-names>G</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>Paradoxical benefits of psychological stress in inflammatory dermatoses models are glucocorticoid mediated</article-title>. <source xml:lang="en">J Invest Dermatol</source>
+<year>2014</year>; <volume>134</volume>: <fpage>2890</fpage>&#x02013;<lpage>2897</lpage>.<pub-id pub-id-type="pmid">24991965</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0122"><label>122</label><mixed-citation publication-type="journal" id="jdv14820-cit-0122">
+<string-name>
+<surname>Chiu</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Chon</surname>
+<given-names>SY</given-names>
+</string-name>, <string-name>
+<surname>Kimball</surname>
+<given-names>AB</given-names>
+</string-name>. <article-title>The response of skin disease to stress: changes in the severity of acne vulgaris as affected by examination stress</article-title>. <source xml:lang="en">Arch Dermatol</source>
+<year>2003</year>; <volume>139</volume>: <fpage>897</fpage>&#x02013;<lpage>900</lpage>.<pub-id pub-id-type="pmid">12873885</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0123"><label>123</label><mixed-citation publication-type="journal" id="jdv14820-cit-0123">
+<string-name>
+<surname>Albuquerque</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name>
+<surname>Rocha</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Bagatin</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Tufik</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Andersen</surname>
+<given-names>ML</given-names>
+</string-name>. <article-title>Could adult female acne be associated with modern life?</article-title>
+<source xml:lang="en">Arch Dermatol Res</source>
+<year>2014</year>; <volume>306</volume>: <fpage>683</fpage>&#x02013;<lpage>688</lpage>.<pub-id pub-id-type="pmid">24952024</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0124"><label>124</label><mixed-citation publication-type="journal" id="jdv14820-cit-0124">
+<string-name>
+<surname>Dangoisse</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Atopic dermatitis</article-title>. <source xml:lang="en">Rev Med Brux</source>
+<year>2011</year>; <volume>32</volume>: <fpage>230</fpage>&#x02013;<lpage>234</lpage>.<pub-id pub-id-type="pmid">22034750</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0125"><label>125</label><mixed-citation publication-type="journal" id="jdv14820-cit-0125">
+<string-name>
+<surname>Peng</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Novak</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Pathogenesis of atopic dermatitis</article-title>. <source xml:lang="en">Clin Exp Allergy</source>
+<year>2015</year>; <volume>45</volume>: <fpage>566</fpage>&#x02013;<lpage>574</lpage>.<pub-id pub-id-type="pmid">25610977</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0126"><label>126</label><mixed-citation publication-type="journal" id="jdv14820-cit-0126">
+<string-name>
+<surname>Huynh</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Gupta</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Koo</surname>
+<given-names>JY</given-names>
+</string-name>. <article-title>Emotional stress as a trigger for inflammatory skin disorders</article-title>. <source xml:lang="en">Semin Cutan Med Surg</source>
+<year>2013</year>; <volume>32</volume>: <fpage>68</fpage>&#x02013;<lpage>72</lpage>.<pub-id pub-id-type="pmid">24049962</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0127"><label>127</label><mixed-citation publication-type="journal" id="jdv14820-cit-0127">
+<string-name>
+<surname>Heller</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name>
+<surname>Koo</surname>
+<given-names>JY</given-names>
+</string-name>. <article-title>Stress as an influencing factor in psoriasis</article-title>. <source xml:lang="en">Skin Therapy Lett</source>
+<year>2011</year>; <volume>16</volume>: <fpage>1</fpage>&#x02013;<lpage>4</lpage>.</mixed-citation></ref><ref id="jdv14820-bib-0128"><label>128</label><mixed-citation publication-type="journal" id="jdv14820-cit-0128">
+<string-name>
+<surname>Rokowska&#x02010;Waluch</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Pawlaczyk</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Cybulski</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Zurawski</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kaczmarek</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Michalak</surname>
+<given-names>M</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>Stressful events and serum concentration of substance P in acne patients</article-title>. <source xml:lang="en">Ann Dermatol</source>
+<year>2016</year>; <volume>28</volume>: <fpage>464</fpage>&#x02013;<lpage>469</lpage>.<pub-id pub-id-type="pmid">27489429</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0129"><label>129</label><mixed-citation publication-type="journal" id="jdv14820-cit-0129">
+<string-name>
+<surname>Martin&#x02010;Ezquerra</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Man</surname>
+<given-names>MQ</given-names>
+</string-name>, <string-name>
+<surname>Hupe</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Rodriguez&#x02010;Martin</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Youm</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name>
+<surname>Trullas</surname>
+<given-names>C</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>Psychological stress regulates antimicrobial peptide expression by both glucocorticoid and beta&#x02010;adrenergic mechanisms</article-title>. <source xml:lang="en">Eur J Dermatol</source>
+<year>2011</year>; <volume>21</volume>(<issue>Suppl 2</issue>): <fpage>48</fpage>&#x02013;<lpage>51</lpage>.<pub-id pub-id-type="pmid">21628130</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0130"><label>130</label><mixed-citation publication-type="journal" id="jdv14820-cit-0130">
+<string-name>
+<surname>Campbell</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name>
+<surname>Strassmann</surname>
+<given-names>BI</given-names>
+</string-name>. <article-title>The blemishes of modern society? Acne prevalence in the Dogon of Mali</article-title>. <source xml:lang="en">Evol Med Public Health</source>
+<year>2016</year>; <volume>2016</volume>: <fpage>325</fpage>&#x02013;<lpage>337</lpage>.<pub-id pub-id-type="pmid">27651516</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0131"><label>131</label><mixed-citation publication-type="journal" id="jdv14820-cit-0131">
+<string-name>
+<surname>Ghodsi</surname>
+<given-names>SZ</given-names>
+</string-name>, <string-name>
+<surname>Orawa</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Zouboulis</surname>
+<given-names>CC</given-names>
+</string-name>. <article-title>Prevalence, severity, and severity risk factors of acne in high school pupils: a community&#x02010;based study</article-title>. <source xml:lang="en">J Invest Dermatol</source>
+<year>2009</year>; <volume>129</volume>: <fpage>2136</fpage>&#x02013;<lpage>2141</lpage>.<pub-id pub-id-type="pmid">19282841</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0132"><label>132</label><mixed-citation publication-type="journal" id="jdv14820-cit-0132">
+<string-name>
+<surname>Ganceviciene</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Graziene</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Fimmel</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Zouboulis</surname>
+<given-names>CC</given-names>
+</string-name>. <article-title>Involvement of the corticotropin&#x02010;releasing hormone system in the pathogenesis of acne vulgaris</article-title>. <source xml:lang="en">Br J Dermatol</source>
+<year>2009</year>; <volume>160</volume>: <fpage>345</fpage>&#x02013;<lpage>352</lpage>.<pub-id pub-id-type="pmid">19077080</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0133"><label>133</label><mixed-citation publication-type="journal" id="jdv14820-cit-0133">
+<string-name>
+<surname>Toyoda</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Nakamura</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Morohashi</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Neuropeptides and sebaceous glands</article-title>. <source xml:lang="en">Eur J Dermatol</source>
+<year>2002</year>; <volume>12</volume>: <fpage>422</fpage>&#x02013;<lpage>427</lpage>.<pub-id pub-id-type="pmid">12370127</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0134"><label>134</label><mixed-citation publication-type="journal" id="jdv14820-cit-0134">
+<string-name>
+<surname>Taheri</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Darabyan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Izadbakhsh</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Nouri</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Haghani</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Mortazavi</surname>
+<given-names>SAR</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>Exposure to visible light emitted from smartphones and tablets increases the proliferation of <italic>Staphylococcus aureus</italic>: can this be linked to acne?</article-title>
+<source xml:lang="en">J Biomed Phys Eng</source>
+<year>2017</year>; <volume>7</volume>: <fpage>163</fpage>&#x02013;<lpage>168</lpage>.<pub-id pub-id-type="pmid">28580338</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0135"><label>135</label><mixed-citation publication-type="journal" id="jdv14820-cit-0135">
+<string-name>
+<surname>Nast</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Dreno</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Bettoli</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Bukvic Mokos</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Degitz</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Dressler</surname>
+<given-names>C</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>European evidence&#x02010;based (S3) guideline for the treatment of acne &#x02013; update 2016 &#x02013; short version</article-title>. <source xml:lang="en">J Eur Acad Dermatol Venereol</source>
+<year>2016</year>; <volume>30</volume>: <fpage>1261</fpage>&#x02013;<lpage>1268</lpage>.<pub-id pub-id-type="pmid">27514932</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0136"><label>136</label><mixed-citation publication-type="journal" id="jdv14820-cit-0136">
+<string-name>
+<surname>Gollnick</surname>
+<given-names>HP</given-names>
+</string-name>, <string-name>
+<surname>Bettoli</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Lambert</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Araviiskaia</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Binic</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Dessinioti</surname>
+<given-names>C</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>A consensus&#x02010;based practical and daily guide for the treatment of acne patients</article-title>. <source xml:lang="en">J Eur Acad Dermatol Venereol</source>
+<year>2016</year>; <volume>30</volume>: <fpage>1480</fpage>&#x02013;<lpage>1490</lpage>.<pub-id pub-id-type="pmid">27177989</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0137"><label>137</label><mixed-citation publication-type="journal" id="jdv14820-cit-0137">
+<string-name>
+<surname>Zaenglein</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Pathy</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Schlosser</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name>
+<surname>Alikhan</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Baldwin</surname>
+<given-names>HE</given-names>
+</string-name>, <string-name>
+<surname>Berson</surname>
+<given-names>DS</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>Guidelines of care for the management of acne vulgaris</article-title>. <source xml:lang="en">J Am Acad Dermatol</source>
+<year>2016</year>; <volume>74</volume>: <fpage>945</fpage>&#x02013;<lpage>973</lpage>.e33.<pub-id pub-id-type="pmid">26897386</pub-id></mixed-citation></ref><ref id="jdv14820-bib-0138"><label>138</label><mixed-citation publication-type="journal" id="jdv14820-cit-0138">
+<string-name>
+<surname>Choi</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Lew</surname>
+<given-names>VK</given-names>
+</string-name>, <string-name>
+<surname>Kimball</surname>
+<given-names>AB</given-names>
+</string-name>. <article-title>A single&#x02010;blinded, randomized, controlled clinical trial evaluating the effect of face washing on acne vulgaris</article-title>. <source xml:lang="en">Pediatr Dermatol</source>
+<year>2006</year>; <volume>23</volume>: <fpage>421</fpage>&#x02013;<lpage>427</lpage>.<pub-id pub-id-type="pmid">17014635</pub-id></mixed-citation></ref></ref-list></back></article>

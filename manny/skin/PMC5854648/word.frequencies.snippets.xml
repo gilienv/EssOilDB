@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC5854648/results/word/frequencies/results.xml">
+  <result title="frequency" word="PDE" count="105"/>
+  <result title="frequency" word="EISO" count="84"/>
+  <result title="frequency" word="activity" count="43"/>
+  <result title="frequency" word="&amp;lt;" count="42"/>
+  <result title="frequency" word="expression" count="42"/>
+  <result title="frequency" word="inflammatory" count="32"/>
+  <result title="frequency" word="skin" count="31"/>
+  <result title="frequency" word="LPS" count="29"/>
+  <result title="frequency" word="cells" count="29"/>
+  <result title="frequency" word="cAMP" count="26"/>
+  <result title="frequency" word="treatment" count="26"/>
+  <result title="frequency" word="levels" count="23"/>
+  <result title="frequency" word="cell" count="22"/>
+  <result title="frequency" word="NF-κB" count="21"/>
+ </snippets>
+</snippetsTree>

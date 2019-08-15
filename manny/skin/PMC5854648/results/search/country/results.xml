@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="country">
+ <result pre="Vancouver Prostate Centre, Vancouver Coastal Health Research Institute Vancouver, BC" exact="Canada" post="[], 2 Santalis Pharmaceuticals, Inc. San Antonio, TX United"/>
+ <result pre="BC Canada [], 2 Santalis Pharmaceuticals, Inc. San Antonio, TX" exact="United States" post="[], 3 Texas Dermatology and Laser Specialists San Antonio,"/>
+ <result pre="[], 3 Texas Dermatology and Laser Specialists San Antonio, TX" exact="United States" post="[], 4 Department of Urologic Sciences, The University of"/>
+ <result pre="of Urologic Sciences, The University of British Columbia Vancouver, BC" exact="Canada" post="Edited by: Cheorl-Ho Kim, Sungkyunkwan University, South Korea Reviewed"/>
+ <result pre="Sungkyunkwan University, South Korea Reviewed by: Ajay Bommareddy, Wilkes University," exact="United States;" post="William Chi-Shing Tai, The Hong Kong Polytechnic University, Hong"/>
+ <result pre="Ajay Bommareddy, Wilkes University, United States; William Chi-Shing Tai, The" exact="Hong Kong" post="Polytechnic University, Hong Kong *Correspondence: Michael E. Cox, mcox@prostatecentre.com"/>
+ <result pre="United States; William Chi-Shing Tai, The Hong Kong Polytechnic University," exact="Hong Kong" post="*Correspondence: Michael E. Cox, mcox@prostatecentre.com Manju Sharma, msharma@prostatecentre.com This"/>
+ <result pre="microscopic slides using DAPI-Mounting Medium (Vector Laboratories, Inc., Burlingame, CA," exact="United States;" post="H-1200) and imaged as single mid-cell confocal planes using"/>
+</results>

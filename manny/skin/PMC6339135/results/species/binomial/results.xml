@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="binomial">
+ <result pre=" " exact="Neurotoxic chemicals" xpath="/html[1]/body[1]/div[2]/div[6]/p[9]" match="Neurotoxic chemicals" post=" were thought to be implicated, as nervous system symptoms are prominent and many neurotoxicants we" name="binomial"/>
+ <result pre=" " exact="Liver damage" xpath="/html[1]/body[1]/div[2]/div[6]/p[9]" match="Liver damage" post=" is common to most if not all of these syndromes, as evidenced by increased liver enzymes and clini" name="binomial"/>
+ <result pre=" " exact="Reproductive disorders" match="Reproductive disorders" post="—In the Veterans Administration’s large national survey, Gulf war veterans reported significant exc" name="binomial"/>
+</results>

@@ -1,0 +1,377 @@
+{
+  "id": [
+    "31285746"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31285746"
+  ],
+  "pmcid": [
+    "PMC6589169"
+  ],
+  "doi": [
+    "10.1186/s13223-019-0353-2"
+  ],
+  "title": [
+    "Maternal diet before and during pregnancy and risk of asthma and allergic rhinitis in children."
+  ],
+  "authorString": [
+    "Baïz N, Just J, Chastang J, Forhan A, de Lauzon-Guillain B, Magnier AM, Annesi-Maesano I, EDEN Mother-Child Cohort Study Group."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Baïz N"
+          ],
+          "firstName": [
+            "Nour"
+          ],
+          "lastName": [
+            "Baïz"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6165-3935",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "1Epidemiology of Allergic and Respiratory Diseases Department (EPAR), Pierre Louis Institute of Epidemiology and Public Health (IPLESP UMRS 1136), Saint-Antoine Medical School, Sorbonne Université and INSERM, 27 Rue Chaligny, 75571 Paris Cedex 12, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Just J"
+          ],
+          "firstName": [
+            "Jocelyne"
+          ],
+          "lastName": [
+            "Just"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "1Epidemiology of Allergic and Respiratory Diseases Department (EPAR), Pierre Louis Institute of Epidemiology and Public Health (IPLESP UMRS 1136), Saint-Antoine Medical School, Sorbonne Université and INSERM, 27 Rue Chaligny, 75571 Paris Cedex 12, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Chastang J"
+          ],
+          "firstName": [
+            "Julie"
+          ],
+          "lastName": [
+            "Chastang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "1Epidemiology of Allergic and Respiratory Diseases Department (EPAR), Pierre Louis Institute of Epidemiology and Public Health (IPLESP UMRS 1136), Saint-Antoine Medical School, Sorbonne Université and INSERM, 27 Rue Chaligny, 75571 Paris Cedex 12, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Forhan A"
+          ],
+          "firstName": [
+            "Anne"
+          ],
+          "lastName": [
+            "Forhan"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "INSERM, UMR1153 Center for Research in Epidemiology and StatisticS (CRESS), Research Team on Early Life Origins of Heath (EAROH), Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "de Lauzon-Guillain B"
+          ],
+          "firstName": [
+            "Blandine"
+          ],
+          "lastName": [
+            "de Lauzon-Guillain"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "INSERM, UMR1153 Center for Research in Epidemiology and StatisticS (CRESS), Research Team on Early Life Origins of Heath (EAROH), Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Magnier AM"
+          ],
+          "firstName": [
+            "Anne-Marie"
+          ],
+          "lastName": [
+            "Magnier"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "affiliation": [
+            "1Epidemiology of Allergic and Respiratory Diseases Department (EPAR), Pierre Louis Institute of Epidemiology and Public Health (IPLESP UMRS 1136), Saint-Antoine Medical School, Sorbonne Université and INSERM, 27 Rue Chaligny, 75571 Paris Cedex 12, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Annesi-Maesano I"
+          ],
+          "firstName": [
+            "Isabella"
+          ],
+          "lastName": [
+            "Annesi-Maesano"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "1Epidemiology of Allergic and Respiratory Diseases Department (EPAR), Pierre Louis Institute of Epidemiology and Public Health (IPLESP UMRS 1136), Saint-Antoine Medical School, Sorbonne Université and INSERM, 27 Rue Chaligny, 75571 Paris Cedex 12, France."
+          ]
+        },
+        {
+          "collectiveName": [
+            "EDEN Mother-Child Cohort Study Group"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6165-3935",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2769179"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Allergy, asthma, and clinical immunology : official journal of the Canadian Society of Allergy and Clinical Immunology"
+          ],
+          "ISOAbbreviation": [
+            "Allergy Asthma Clin Immunol"
+          ],
+          "medlineAbbreviation": [
+            "Allergy Asthma Clin Immunol"
+          ],
+          "NLMid": [
+            "101244313"
+          ],
+          "ISSN": [
+            "1710-1484"
+          ],
+          "ESSN": [
+            "1710-1492"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "40"
+  ],
+  "abstractText": [
+    "Background:Consumption of certain foods during pregnancy has been shown to have beneficial effects on childhood asthma and allergic disease development and aggravation. However, most studies provide conflicting results and the relationships between maternal preconceptional diet and risks of childhood asthma and allergic disease have not previously been explored. The objective of this study was to assess maternal diet during the year before pregnancy and the last 3 months of pregnancy and investigate their associations with the risks of asthma, wheezing, allergic rhinitis and atopic dermatitis in young children. Methods:The study sample consisted of 1140 mother-child pairs from the EDEN cohort. Mothers had responded to the food frequency questionnaires used to assess diet before and during pregnancy. Children were followed up using health questionnaires. The health outcomes studied were: asthma, wheezing, allergic rhinitis and atopic dermatitis by the age of 3 years. Results:Using multivariable-adjusted logistic regression models, significant inverse associations were observed between cooked green vegetable consumption before pregnancy and childhood asthma; consumption of eggs and raw vegetables before and during pregnancy, consumption of grains before pregnancy, and consumption of cooked green vegetables during pregnancy and allergic rhinitis. For the first time, a significant positive association was found between meat intake during the preconceptional period and a risk of wheezing, allergic rhinitis and atopic dermatitis. Conclusions:Based on our findings, preconceptional and prenatal maternal intake of certain type of food groups may be preventive against asthma, wheezing and allergic rhinitis, whereas higher maternal intake of meat before pregnancy may increase the risk of wheezing, allergic rhinitis and atopic dermatitis in young children."
+  ],
+  "affiliation": [
+    "1Epidemiology of Allergic and Respiratory Diseases Department (EPAR), Pierre Louis Institute of Epidemiology and Public Health (IPLESP UMRS 1136), Saint-Antoine Medical School, Sorbonne Université and INSERM, 27 Rue Chaligny, 75571 Paris Cedex 12, France."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Pregnancy",
+        "Diet",
+        "Allergic diseases",
+        "allergic rhinitis",
+        "Wheezing",
+        "Preconception",
+        "Atopic Dermatitis",
+        "Mother–child Cohort"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6589169?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6589169"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13223-019-0353-2"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-10"
+  ],
+  "firstIndexDate": [
+    "2019-07-10"
+  ],
+  "dateOfRevision": [
+    "2019-07-11"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-22"
+  ],
+  "firstPublicationDate": [
+    "2019-06-22"
+  ]
+}

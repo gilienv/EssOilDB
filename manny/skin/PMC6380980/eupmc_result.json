@@ -1,0 +1,284 @@
+{
+  "id": [
+    "30539425"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30539425"
+  ],
+  "pmcid": [
+    "PMC6380980"
+  ],
+  "doi": [
+    "10.1007/s13555-018-0275-9"
+  ],
+  "title": [
+    "Propionibacterium (Cutibacterium) acnes Bacteriophage Therapy in Acne: Current Evidence and Future Perspectives."
+  ],
+  "authorString": [
+    "Castillo DE, Nanda S, Keri JE."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Castillo DE"
+          ],
+          "firstName": [
+            "David E"
+          ],
+          "lastName": [
+            "Castillo"
+          ],
+          "initials": [
+            "DE"
+          ],
+          "affiliation": [
+            "Department of Dermatology and Cutaneous Surgery, University of Miami Miller School of Medicine, Miami, FL, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Nanda S"
+          ],
+          "firstName": [
+            "Sonali"
+          ],
+          "lastName": [
+            "Nanda"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Dermatology and Cutaneous Surgery, University of Miami Miller School of Medicine, Miami, FL, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Keri JE"
+          ],
+          "firstName": [
+            "Jonette E"
+          ],
+          "lastName": [
+            "Keri"
+          ],
+          "initials": [
+            "JE"
+          ],
+          "affiliation": [
+            "Department of Dermatology and Cutaneous Surgery, University of Miami Miller School of Medicine, Miami, FL, USA. jkeri@med.miami.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2784499"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Dermatology and therapy"
+          ],
+          "ISOAbbreviation": [
+            "Dermatol Ther (Heidelb)"
+          ],
+          "medlineAbbreviation": [
+            "Dermatol Ther (Heidelb)"
+          ],
+          "NLMid": [
+            "101590450"
+          ],
+          "ISSN": [
+            "2193-8210"
+          ],
+          "ESSN": [
+            "2190-9172"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "19-31"
+  ],
+  "abstractText": [
+    "Acne vulgaris is the most common dermatological disorder worldwide. It is a multifactorial disease that involves increased sebum production, hyperkeratinization of the pilosebaceous unit, Propionibacterium acnes (Cutibacterium acnes) colonization, and inflammation. The human skin microbiome hosts a wide variety of microorganisms, including bacteria, viruses, and fungi. A delicate balance of these microorganisms is essential for the barrier function of the skin. Propionibacterium acnes represents nearly 90% of the human skin microbiome of healthy adults. Acne is a chronic recurrent disease that requires long-lasting treatment, which has led to the emergence of antibiotic resistance. New alternatives to traditional therapy are emerging, including antimicrobial peptides, natural engineered antibodies, and bacteriophages. Bacteriophages have been shown to play a role in human skin health and disease. There is evidence supporting phage therapy in many types of skin infections. P. acnes bacteriophages have been isolated and characterized. However, only a few in vitro studies have tested the ability of bacteriophages to kill P. acnes. Furthermore, there is no evidence on bacteriophage therapy in the treatment of acne in humans. In this review, we summarize the most recent evidence regarding P. acnes bacteriophages and the potential role of these bacteriophages in the treatment of acne. Further research on this field will provide the evidence to use phage therapy to decrease rates of antibiotic resistance and restore antibiotic susceptibility of P. acnes."
+  ],
+  "affiliation": [
+    "Department of Dermatology and Cutaneous Surgery, University of Miami Miller School of Medicine, Miami, FL, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Phages",
+        "Bacteriophages",
+        "ACNE",
+        "Antibiotic Resistance",
+        "Propionibacterium Acnes",
+        "Microbiome",
+        "Phage Therapy"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6380980?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6380980"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s13555-018-0275-9"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-12-13"
+  ],
+  "firstIndexDate": [
+    "2018-12-13"
+  ],
+  "dateOfRevision": [
+    "2019-03-10"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-11"
+  ],
+  "firstPublicationDate": [
+    "2018-12-11"
+  ]
+}

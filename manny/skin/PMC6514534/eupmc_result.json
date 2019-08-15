@@ -1,0 +1,316 @@
+{
+  "id": [
+    "31134077"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31134077"
+  ],
+  "pmcid": [
+    "PMC6514534"
+  ],
+  "doi": [
+    "10.3389/fimmu.2019.01004"
+  ],
+  "title": [
+    "Nrf2 Involvement in Chemical-Induced Skin Innate Immunity."
+  ],
+  "authorString": [
+    "Helou DG, Martin SF, Pallardy M, Chollet-Martin S, Kerdine-Römer S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Helou DG"
+          ],
+          "firstName": [
+            "Doumet Georges"
+          ],
+          "lastName": [
+            "Helou"
+          ],
+          "initials": [
+            "DG"
+          ],
+          "affiliation": [
+            "Inflammation, Chimiokines et Immunopathologie, INSERM UMR996, University Paris-Sud, Université Paris-Saclay, Châtenay-Malabry, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Martin SF"
+          ],
+          "firstName": [
+            "Stefan F"
+          ],
+          "lastName": [
+            "Martin"
+          ],
+          "initials": [
+            "SF"
+          ],
+          "affiliation": [
+            "Allergy Research Group, Department of Dermatology, Faculty of Medicine, University of Freiburg, Freiburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Pallardy M"
+          ],
+          "firstName": [
+            "Marc"
+          ],
+          "lastName": [
+            "Pallardy"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Inflammation, Chimiokines et Immunopathologie, INSERM UMR996, University Paris-Sud, Université Paris-Saclay, Châtenay-Malabry, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Chollet-Martin S"
+          ],
+          "firstName": [
+            "Sylvie"
+          ],
+          "lastName": [
+            "Chollet-Martin"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Inflammation, Chimiokines et Immunopathologie, INSERM UMR996, University Paris-Sud, Université Paris-Saclay, Châtenay-Malabry, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Kerdine-Römer S"
+          ],
+          "firstName": [
+            "Saadia"
+          ],
+          "lastName": [
+            "Kerdine-Römer"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Inflammation, Chimiokines et Immunopathologie, INSERM UMR996, University Paris-Sud, Université Paris-Saclay, Châtenay-Malabry, France."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2777618"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in Immunology"
+          ],
+          "ISOAbbreviation": [
+            "Front Immunol"
+          ],
+          "medlineAbbreviation": [
+            "Front Immunol"
+          ],
+          "NLMid": [
+            "101560960"
+          ],
+          "ISSN": [
+            "1664-3224"
+          ],
+          "ESSN": [
+            "1664-3224"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1004"
+  ],
+  "abstractText": [
+    "Exposure to certain chemicals disturbs skin homeostasis. In particular, protein-reactive chemical contact sensitizers trigger an inflammatory immune response resulting in eczema and allergic contact dermatitis. Chemical sensitizers activate innate immune cells which orchestrate the skin immune response. This involves oxidative and inflammatory pathways. In parallel, the Nrf2/Keap1 pathway, a major ubiquitous regulator of cellular oxidative and electrophilic stress is activated in the different skin innate immune cells including epidermal Langerhans cells and dermal dendritic cells, but also in keratinocytes. In this context, Nrf2 shows a strong protective capacity through the downregulation of both the oxidative stress and inflammatory pathways. In this review we highlight the important role of Nrf2 in the control of the innate immune response of the skin to chemical sensitizers."
+  ],
+  "affiliation": [
+    "Inflammation, Chimiokines et Immunopathologie, INSERM UMR996, University Paris-Sud, Université Paris-Saclay, Châtenay-Malabry, France."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "innate immunity",
+        "NRF2",
+        "Skin Cells",
+        "Contact Sensitizers",
+        "Xenoinflammation"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6514534?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6514534"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fimmu.2019.01004"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-05-29"
+  ],
+  "firstIndexDate": [
+    "2019-05-29"
+  ],
+  "dateOfRevision": [
+    "2019-06-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-07"
+  ],
+  "firstPublicationDate": [
+    "2019-05-07"
+  ]
+}

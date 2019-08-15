@@ -1,0 +1,506 @@
+{
+  "id": [
+    "30255691"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30255691"
+  ],
+  "pmcid": [
+    "PMC6249470"
+  ],
+  "doi": [
+    "10.22034/APJCP.2018.19.9.2391"
+  ],
+  "title": [
+    "The Sources of Essential Fatty Acids for Allergic and Cancer Patients; a Connection with Insight into Mammalian Target of Rapamycin: A Narrative Review"
+  ],
+  "authorString": [
+    "Arshad Z, Rezapour-Firouzi S, Mohammadian M, Ebrahimifar."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Arshad Z"
+          ],
+          "firstName": [
+            "Zhila"
+          ],
+          "lastName": [
+            "Arshad"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of Pathology of Anatomy, School of Medicine, Baku University of Medical Sciences, Baku, Azerbaijan. Email: s.rfirozi@gmail.com, ebrahimifar67@gmail.com"
+          ]
+        },
+        {
+          "fullName": [
+            "Rezapour-Firouzi S"
+          ],
+          "firstName": [
+            "Soheila"
+          ],
+          "lastName": [
+            "Rezapour-Firouzi"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Mohammadian M"
+          ],
+          "firstName": [
+            "Mahshid"
+          ],
+          "lastName": [
+            "Mohammadian"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9546-972X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ebrahimifar"
+          ],
+          "lastName": [
+            "Ebrahimifar"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9546-972X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2731076"
+      ],
+      "dateOfPublication": [
+        "2018 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Asian Pacific journal of cancer prevention : APJCP"
+          ],
+          "ISOAbbreviation": [
+            "Asian Pac. J. Cancer Prev."
+          ],
+          "medlineAbbreviation": [
+            "Asian Pac J Cancer Prev"
+          ],
+          "NLMid": [
+            "101130625"
+          ],
+          "ISSN": [
+            "1513-7368"
+          ],
+          "ESSN": [
+            "2476-762X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "2391-2401"
+  ],
+  "abstractText": [
+    "Background: Disturbance in essential fatty acids (EFA) metabolism plays a key role in autoimmune diseases, but\nEFA supplementation with sources of borage, evening primrose, hemp seed and fish oils was not effective in atopic\nand cancer diseases, as that seen in the case of multiple sclerosis. It seems that two complexes of the mammalian target\nof rapamycin (mTOR) signaling, mTORC1 and mTORC2, are congruent with the two bases of the Traditional Iranian\nMedicine (TIM) therapy, Cold and Hot nature, which are essential for the efficacy of functional oils for controlling\nimmune responses in autoimmune diseases. Methods: We searched PubMed database, Web of Science (WOS), Google\nScholar, Scopus and selected studies by predefined eligibility criteria. We then assessed their quality and extracted data.\nResults: The oils controlled by Cold or Hot nature may be helpful in maintaining homeostasis and preventing autoimmune\ndiseases. In summary, studies of randomized controlled trials for allergy and cancer patients found no improvement\nin the signs or response to tests, despite a remarkable change in EFA fractions in the blood by supplementation with\nsources of borage, evening primrose, hemp seed and fish oils. In contrast, portulaca oleracea oil exhibited protective\neffects by anti-inflammatory properties via the PI3K/Akt/mTORC2 pathway with a deviation immune response to Th1\nto treat atopic diseases and cancer. Conclusions: According to the concept of Traditional Iranian Medicine therapy, in\ncontrast to Cold-nature oils, EFA supplementation with the sources of Hot-nature oilsis not suitable for the treatment\nof atopic and cancerous diseases."
+  ],
+  "affiliation": [
+    "Department of Pathology of Anatomy, School of Medicine, Baku University of Medical Sciences, Baku, Azerbaijan. Email: s.rfirozi@gmail.com, ebrahimifar67@gmail.com"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hypersensitivity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fatty Acids, Essential"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Medicine, Traditional"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Randomized Controlled Trials as Topic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "TOR Serine-Threonine Kinases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Allergy",
+        "Cancer",
+        "Immune response",
+        "Polyunsaturated fatty acids",
+        "Thelper"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Fatty Acids, Essential"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "TOR Serine-Threonine Kinases"
+          ],
+          "registryNumber": [
+            "EC 2.7.1.1"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6249470?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6249470"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.22034/APJCP.2018.19.9.2391"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-01-03"
+  ],
+  "dateOfCreation": [
+    "2018-09-27"
+  ],
+  "firstIndexDate": [
+    "2018-09-26"
+  ],
+  "dateOfRevision": [
+    "2019-01-03"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-26"
+  ],
+  "firstPublicationDate": [
+    "2018-09-26"
+  ]
+}

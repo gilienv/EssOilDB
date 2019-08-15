@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="frequencies">
+ <result title="frequency" count="5">Staphylococcus aureus</result>
+ <result title="frequency" count="4">Acanthamoeba brasiliensis</result>
+ <result title="frequency" count="4">Acanthamoeba castellanii</result>
+ <result title="frequency" count="2">Candida spp</result>
+ <result title="frequency" count="2">Escherichia coli</result>
+ <result title="frequency" count="2">Penicillium spp</result>
+ <result title="frequency" count="2">Staphylococcus capitis</result>
+ <result title="frequency" count="2">Propionibacterium aeruginosa</result>
+ <result title="frequency" count="2">Propionibacterium acne</result>
+ <result title="frequency" count="1">Candida albicans</result>
+ <result title="frequency" count="1">Staphylococcus pneumonia</result>
+ <result title="frequency" count="1">Serratis marcescens</result>
+ <result title="frequency" count="1">Enterbacter aerogenes</result>
+ <result title="frequency" count="1">Clostridium prefringens</result>
+ <result title="frequency" count="1">Streptococcus saprophyticus</result>
+ <result title="frequency" count="1">Staphylococcus haemolyticus</result>
+ <result title="frequency" count="1">Pseudomonas aeruginosa</result>
+ <result title="frequency" count="1">Streptococcus pyogenes</result>
+ <result title="frequency" count="1">Proteus mirabilis</result>
+ <result title="frequency" count="1">Propionibacterium acnes</result>
+ <result title="frequency" count="1">Staphylocoocus aureus</result>
+ <result title="frequency" count="1">Morexella catarrhalis</result>
+ <result title="frequency" count="1">Staphylococcus lugdunensis</result>
+ <result title="frequency" count="1">Acinetobacter baumanii</result>
+ <result title="frequency" count="1">Streptococcus epidermidis</result>
+ <result title="frequency" count="1">Haemophillus influenza</result>
+ <result title="frequency" count="1">Acanthamoeba castellani</result>
+ <result title="frequency" count="1">Acanthamoeba baumanii</result>
+ <result title="frequency" count="1">Klebsiella pneumonia</result>
+ <result title="frequency" count="1">Bacteriodes fragilis</result>
+ <result title="frequency" count="1">Staphylococcus hominis</result>
+ <result title="frequency" count="1">Aspergillus brasiliensis</result>
+ <result title="frequency" count="1">St. haemolyticus</result>
+ <result title="frequency" count="1">Enterococcus faeccium</result>
+ <result title="frequency" count="1">Moraxella catarrhalis</result>
+ <result title="frequency" count="1">Trichophyton interdigitale</result>
+</results>

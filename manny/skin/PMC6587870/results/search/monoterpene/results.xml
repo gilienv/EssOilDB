@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="monoterpene">
+ <result pre="Contact Dermatitis. 2019; 80: 101– 109. 10.1111/cod.13137 30378131 1 INTRODUCTION" exact="Limonene" post="( d‐limonene) is the main ingredient of pressed oil"/>
+ <result pre="perfumes, and detergents, as well as industrial products. 3, 4" exact="Limonene" post="and linalool are ubiquitous fragrance terpenes with low sensitizing"/>
+ <result pre="Weak (+) Strong (++) Extreme (+++) Only hydroperoxides of limonene" exact="Limonene" post="26 26 (100.0) 0 0 Only hydroperoxides of linalool"/>
+ <result pre="Limonene 26 26 (100.0) 0 0 Only hydroperoxides of linalool" exact="Linalool" post="42 42 (100.0) 0 0 Both hydroperoxides of limolene"/>
+ <result pre="0 0 Both hydroperoxides of limolene and hydroperoxides of linalool" exact="Limonene" post="16 15 (93.8) 1 (6.3) 0 Linalool 16 13"/>
+ <result pre="hydroperoxides of linalool Limonene 16 15 (93.8) 1 (6.3) 0" exact="Linalool" post="16 13 (81.3) 3 (18.8) 0 Hydroperoxides of limonene + other"/>
+ <result pre="16 13 (81.3) 3 (18.8) 0 Hydroperoxides of limonene + other fragrance" exact="Limonene" post="13 9 (69.2) 4 (30.8) 0 Hydroperoxides of linalool + other"/>
+ <result pre="13 9 (69.2) 4 (30.8) 0 Hydroperoxides of linalool + other fragrance" exact="Linalool" post="16 14 (87.5) 2 (12.5) 0 Both hydroperoxides of"/>
+ <result pre="0 Both hydroperoxides of limonene and hydroperoxides of linalool + other fragrance" exact="Limonene" post="22 16 (72.7) 6 (27.3) 0 Linalool 22 16"/>
+ <result pre="of linalool + other fragrance Limonene 22 16 (72.7) 6 (27.3) 0" exact="Linalool" post="22 16 (72.2) 5 (22.7) 1 (4.5) Total hydroperoxides"/>
+ <result pre="16 (72.2) 5 (22.7) 1 (4.5) Total hydroperoxides of limonene" exact="Limonene" post="77 66 (85.7) 11 (14.3) 0 Total hydroperoxides of"/>
+ <result pre="77 66 (85.7) 11 (14.3) 0 Total hydroperoxides of linalool" exact="Linalool" post="96 85 (88.5) 10 (10.4) 1 (1.0) 3.3 Clinical"/>
+ <result pre="profile N(total) Unlikely/not Possible Probable Certain Only hydroperoxides of limonene" exact="Limonene" post="26 5 (19.2) 14 (53.8) 4 (15.4) 3 (11.5)"/>
+ <result pre="14 (53.8) 4 (15.4) 3 (11.5) Only hydroperoxides of linalool" exact="Linalool" post="42 7 (16.7) 19 (45.2) 11 (26.2) 5 (11.9)"/>
+ <result pre="5 (11.9) Both hydroperoxides of limonene and hydroperoxides of linalool" exact="Limonene" post="16 1 (6.3) 6 (37.5) 4 (25.0) 5 (31.3)"/>
+ <result pre="Limonene 16 1 (6.3) 6 (37.5) 4 (25.0) 5 (31.3)" exact="Linalool" post="16 0 6 (37.5) 4 (25.0) 6 (37.5) Hydroperoxides"/>
+ <result pre="6 (37.5) 4 (25.0) 6 (37.5) Hydroperoxides of limonene + other fragrance" exact="Limonene" post="13 3 (23.1) 7 (53.8) 3 (23.1) 0 Hydroperoxides"/>
+ <result pre="(23.1) 7 (53.8) 3 (23.1) 0 Hydroperoxides of linalool + other fragrance" exact="Linalool" post="16 1 (6.3) 8 (50.0) 5 (31.3) 2 (12.5)"/>
+ <result pre="(12.5) Both hydroperoxides of limonene and hydroperoxides of linalool + other fragrance" exact="Limonene" post="22 3 (13.6) 7 (31.8) 6 (27.3) 6 (27.3)"/>
+ <result pre="Limonene 22 3 (13.6) 7 (31.8) 6 (27.3) 6 (27.3)" exact="Linalool" post="22 3 (13.6) 7 (31.8) 6 (27.3) 6 (27.3)"/>
+ <result pre="7 (31.8) 6 (27.3) 6 (27.3) Total hydroperoxides of limonene" exact="Limonene" post="77 12 (15.6) 34 (44.2) 17 (22.1) 14 (18.2)"/>
+ <result pre="34 (44.2) 17 (22.1) 14 (18.2) Total hydroperoxides of linalool" exact="Linalool" post="96 11 (11.5) 40 (41.7) 26 (27.1) 19 (19.8)"/>
+ <result pre="6 (4.4) 1 (2.6) 1 (1.7) 4 (10.5) 10 (1.5)" exact="Citral" post="b 8 (5.9) 1 (2.6) 4 (6.9) 3 (7.9)"/>
+ <result pre="8 (5.9) 1 (2.6) 4 (6.9) 3 (7.9) 5 (0.7)" exact="Citronellol" post="b 4 (3.0) 1 (2.6) 2 (3.4) 1 (2.6)"/>
+ <result pre="b 4 (3.0) 0 1 (1.7) 3 (7.9) 1 (0.1)" exact="Geraniol" post="a 6 (4.4) 2 (5.1) 2 (3.4) 2 (5.3)"/>
+ <result pre="cinnamal b 1 (0.7) 0 0 1 (2.6) 2 (0.3)" exact="Hydroxycitronellal" post="a 7 (5.2) 0 4 (6.9) 3 (7.9) 7"/>
+ <result pre="1 (0.1) d‐Limonene 1 (0.7) 0 0 1 (2.6) 0" exact="Linalool" post="1 (0.7) 0 0 1 (2.6) 0 Subtotal (≥1"/>
+</results>

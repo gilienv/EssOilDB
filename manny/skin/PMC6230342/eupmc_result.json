@@ -1,0 +1,304 @@
+{
+  "id": [
+    "30443605"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30443605"
+  ],
+  "pmcid": [
+    "PMC6230342"
+  ],
+  "doi": [
+    "10.5811/cpcem.2018.10.40507"
+  ],
+  "title": [
+    "83-year-old Woman with a Fever and Emesis."
+  ],
+  "authorString": [
+    "Birch S, Dubbs SB, Bontempo LJ, Dezman ZDW."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Birch S"
+          ],
+          "firstName": [
+            "Shelly"
+          ],
+          "lastName": [
+            "Birch"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "University of Maryland Medical Center, Department of Emergency Medicine, Baltimore, Maryland."
+          ]
+        },
+        {
+          "fullName": [
+            "Dubbs SB"
+          ],
+          "firstName": [
+            "Sarah B"
+          ],
+          "lastName": [
+            "Dubbs"
+          ],
+          "initials": [
+            "SB"
+          ],
+          "affiliation": [
+            "University of Maryland School of Medicine, Department of Emergency Medicine, Baltimore, Maryland."
+          ]
+        },
+        {
+          "fullName": [
+            "Bontempo LJ"
+          ],
+          "firstName": [
+            "Laura J"
+          ],
+          "lastName": [
+            "Bontempo"
+          ],
+          "initials": [
+            "LJ"
+          ],
+          "affiliation": [
+            "University of Maryland School of Medicine, Department of Emergency Medicine, Baltimore, Maryland."
+          ]
+        },
+        {
+          "fullName": [
+            "Dezman ZDW"
+          ],
+          "firstName": [
+            "Zachary D W"
+          ],
+          "lastName": [
+            "Dezman"
+          ],
+          "initials": [
+            "ZDW"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6405-724X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "University of Maryland School of Medicine, Department of Emergency Medicine, Baltimore, Maryland."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6405-724X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "2750885"
+      ],
+      "dateOfPublication": [
+        "2018 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Clinical practice and cases in emergency medicine"
+          ],
+          "ISOAbbreviation": [
+            "Clin Pract Cases Emerg Med"
+          ],
+          "medlineAbbreviation": [
+            "Clin Pract Cases Emerg Med"
+          ],
+          "NLMid": [
+            "101718968"
+          ],
+          "ESSN": [
+            "2474-252X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "276-282"
+  ],
+  "affiliation": [
+    "University of Maryland Medical Center, Department of Emergency Medicine, Baltimore, Maryland."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6230342?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6230342"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.5811/cpcem.2018.10.40507"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-11-17"
+  ],
+  "firstIndexDate": [
+    "2018-11-17"
+  ],
+  "dateOfRevision": [
+    "2018-11-20"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-16"
+  ],
+  "firstPublicationDate": [
+    "2018-10-16"
+  ]
+}

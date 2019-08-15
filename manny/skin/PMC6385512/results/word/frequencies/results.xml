@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="frequencies">
+ <result title="frequency" word="{border-style" count="20"/>
+ <result title="frequency" word="px;}" count="18"/>
+ <result title="frequency" word="#ffffff;}" count="17"/>
+ <result title="frequency" word="TTS" count="10"/>
+ <result title="frequency" word="syndrome" count="9"/>
+ <result title="frequency" word="trigeminal" count="9"/>
+ <result title="frequency" word="trophic" count="9"/>
+ <result title="frequency" word="patient" count="8"/>
+ <result title="frequency" word="px;" count="8"/>
+ <result title="frequency" word="scalp" count="8"/>
+ <result title="frequency" word="{font-family" count="8"/>
+ <result title="frequency" word="diagnosis" count="7"/>
+ <result title="frequency" word="font-size" count="7"/>
+ <result title="frequency" word="Figure" count="6"/>
+ <result title="frequency" word="Trigeminal" count="6"/>
+ <result title="frequency" word="double;" count="6"/>
+ <result title="frequency" word="Dermatol" count="5"/>
+ <result title="frequency" word="border-color" count="5"/>
+ <result title="frequency" word="border-width" count="5"/>
+ <result title="frequency" word="clinical" count="5"/>
+ <result title="frequency" word="nasal" count="5"/>
+ <result title="frequency" word="pityriasis" count="5"/>
+ <result title="frequency" word="review" count="5"/>
+ <result title="frequency" word="solid;" count="5"/>
+ <result title="frequency" word="{font-style" count="5"/>
+ <result title="frequency" word="{font-weight" count="5"/>
+ <result title="frequency" word="bold" count="4"/>
+ <result title="frequency" word="courier;" count="4"/>
+ <result title="frequency" word="crust" count="4"/>
+ <result title="frequency" word="em;" count="4"/>
+ <result title="frequency" word="herpes" count="4"/>
+ <result title="frequency" word="pt;}" count="4"/>
+ <result title="frequency" word="upper" count="4"/>
+ <result title="frequency" word="zoster" count="4"/>
+</results>

@@ -1,0 +1,352 @@
+{
+  "id": [
+    "29593534"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29593534"
+  ],
+  "pmcid": [
+    "PMC5854648"
+  ],
+  "doi": [
+    "10.3389/fphar.2018.00200"
+  ],
+  "title": [
+    "East Indian Sandalwood Oil Is a Phosphodiesterase Inhibitor: A New Therapeutic Option in the Treatment of Inflammatory Skin Disease."
+  ],
+  "authorString": [
+    "Sharma M, Levenson C, Browning JC, Becker EM, Clements I, Castella P, Cox ME."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sharma M"
+          ],
+          "firstName": [
+            "Manju"
+          ],
+          "lastName": [
+            "Sharma"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "The Vancouver Prostate Centre, Vancouver Coastal Health Research Institute, Vancouver, BC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Levenson C"
+          ],
+          "firstName": [
+            "Corey"
+          ],
+          "lastName": [
+            "Levenson"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Santalis Pharmaceuticals, Inc., San Antonio, TX, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Browning JC"
+          ],
+          "firstName": [
+            "John C"
+          ],
+          "lastName": [
+            "Browning"
+          ],
+          "initials": [
+            "JC"
+          ],
+          "affiliation": [
+            "Texas Dermatology and Laser Specialists, San Antonio, TX, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Becker EM"
+          ],
+          "firstName": [
+            "Emily M"
+          ],
+          "lastName": [
+            "Becker"
+          ],
+          "initials": [
+            "EM"
+          ],
+          "affiliation": [
+            "Texas Dermatology and Laser Specialists, San Antonio, TX, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Clements I"
+          ],
+          "firstName": [
+            "Ian"
+          ],
+          "lastName": [
+            "Clements"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Santalis Pharmaceuticals, Inc., San Antonio, TX, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Castella P"
+          ],
+          "firstName": [
+            "Paul"
+          ],
+          "lastName": [
+            "Castella"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Santalis Pharmaceuticals, Inc., San Antonio, TX, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Cox ME"
+          ],
+          "firstName": [
+            "Michael E"
+          ],
+          "lastName": [
+            "Cox"
+          ],
+          "initials": [
+            "ME"
+          ],
+          "affiliation": [
+            "The Vancouver Prostate Centre, Vancouver Coastal Health Research Institute, Vancouver, BC, Canada."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2645047"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in pharmacology"
+          ],
+          "ISOAbbreviation": [
+            "Front Pharmacol"
+          ],
+          "medlineAbbreviation": [
+            "Front Pharmacol"
+          ],
+          "NLMid": [
+            "101548923"
+          ],
+          "ISSN": [
+            "1663-9812"
+          ],
+          "ESSN": [
+            "1663-9812"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "200"
+  ],
+  "abstractText": [
+    "Cyclic adenosine monophosphate phosphodiesterases (PDEs) regulate pro-inflammatory cytokine production. One isoform, PDE4, is overactive in chronic relapsing inflammatory skin diseases: psoriasis and eczema/atopic dermatitis, and in several cancers. East Indian sandalwood oil (EISO) has significant anti-inflammatory properties. Here, we report that 75% of pediatric eczema/atopic dermatitis patients treated with topical EISO formulations achieved a >50% reduction in their Eczema Area and Severity Index score. EISO treatment of a psoriasis model reduced PDE4 expression and reversed histopathology. EISO directly inhibited PDE enzymatic activity in vitro. In lipopolysaccharide-stimulated human dermal fibroblast, BEAS-2B, A549, and THP-1 cells, EISO suppressed total cellular PDE activity, PDE4, and 7 transcript levels, nuclear factor kappa B (NF-κB) activation, and pro-inflammatory cytokines/chemokine production. These results suggest that EISO anti-inflammatory activity is mediated through suppressing PDE activity, thus facilitating cAMP-regulated inhibition of NF-κB and indicate EISO as an attractive natural therapeutic for chronic and acute inflammatory disorders."
+  ],
+  "affiliation": [
+    "The Vancouver Prostate Centre, Vancouver Coastal Health Research Institute, Vancouver, BC, Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cancer",
+        "Phosphodiesterase",
+        "Psoriasis",
+        "Anti-inflammatory",
+        "Eczema",
+        "Atopic Dermatitis",
+        "Anti-proliferative",
+        "Skin Organoid"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5854648?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5854648"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fphar.2018.00200"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-03-30"
+  ],
+  "firstIndexDate": [
+    "2018-03-29"
+  ],
+  "dateOfRevision": [
+    "2018-06-15"
+  ],
+  "electronicPublicationDate": [
+    "2018-03-09"
+  ],
+  "firstPublicationDate": [
+    "2018-03-09"
+  ]
+}

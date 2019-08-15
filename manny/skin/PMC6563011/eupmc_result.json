@@ -1,0 +1,427 @@
+{
+  "id": [
+    "31109112"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31109112"
+  ],
+  "pmcid": [
+    "PMC6563011"
+  ],
+  "doi": [
+    "10.3390/cancers11050693"
+  ],
+  "title": [
+    "Modulating PKCα Activity to Target Wnt/β-Catenin Signaling in Colon Cancer."
+  ],
+  "authorString": [
+    "Dupasquier S, Blache P, Picque Lasorsa L, Zhao H, Abraham JD, Haigh JJ, Ychou M, Prévostel C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Dupasquier S"
+          ],
+          "firstName": [
+            "Sébastien"
+          ],
+          "lastName": [
+            "Dupasquier"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "UCL Louvain, IREC, 1348 Louvain-la-Neuve, Belgium. seb.dupasquier@laposte.net."
+          ]
+        },
+        {
+          "fullName": [
+            "Blache P"
+          ],
+          "firstName": [
+            "Philippe"
+          ],
+          "lastName": [
+            "Blache"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Campus Val d'Aurelle-Research team \"Integrative cancer research for personalized medicine in digestive oncology\", IRCM U1194, University of Montpellier, ICM, CNRS, CHU, 34298 Montpellier, France. philippe.blache@inserm.fr."
+          ]
+        },
+        {
+          "fullName": [
+            "Picque Lasorsa L"
+          ],
+          "firstName": [
+            "Laurence"
+          ],
+          "lastName": [
+            "Picque Lasorsa"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Campus Val d'Aurelle-Research team \"Integrative cancer research for personalized medicine in digestive oncology\", IRCM U1194, University of Montpellier, ICM, CNRS, CHU, 34298 Montpellier, France. laurence.lasorsa@icm.unicancer.fr."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao H"
+          ],
+          "firstName": [
+            "Han"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Campus Val d'Aurelle-Research team \"Integrative cancer research for personalized medicine in digestive oncology\", IRCM U1194, University of Montpellier, ICM, CNRS, CHU, 34298 Montpellier, France. zhaohan1204@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Abraham JD"
+          ],
+          "firstName": [
+            "Jean-Daniel"
+          ],
+          "lastName": [
+            "Abraham"
+          ],
+          "initials": [
+            "JD"
+          ],
+          "affiliation": [
+            "Campus Val d'Aurelle-Research team \"Integrative cancer research for personalized medicine in digestive oncology\", IRCM U1194, University of Montpellier, ICM, CNRS, CHU, 34298 Montpellier, France. jean-daniel.abraham@inserm.fr."
+          ]
+        },
+        {
+          "fullName": [
+            "Haigh JJ"
+          ],
+          "firstName": [
+            "Jody J"
+          ],
+          "lastName": [
+            "Haigh"
+          ],
+          "initials": [
+            "JJ"
+          ],
+          "affiliation": [
+            "Research Institute in Oncology and Hematology, University of Manitoba, Winnipeg, MB R3E 0V9, Canada. Jody.Haigh@umanitoba.ca."
+          ]
+        },
+        {
+          "fullName": [
+            "Ychou M"
+          ],
+          "firstName": [
+            "Marc"
+          ],
+          "lastName": [
+            "Ychou"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Campus Val d'Aurelle-Research team \"Integrative cancer research for personalized medicine in digestive oncology\", IRCM U1194, University of Montpellier, ICM, CNRS, CHU, 34298 Montpellier, France. Marc.Ychou@icm.unicancer.fr."
+          ]
+        },
+        {
+          "fullName": [
+            "Prévostel C"
+          ],
+          "firstName": [
+            "Corinne"
+          ],
+          "lastName": [
+            "Prévostel"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Campus Val d'Aurelle-Research team \"Integrative cancer research for personalized medicine in digestive oncology\", IRCM U1194, University of Montpellier, ICM, CNRS, CHU, 34298 Montpellier, France. corinne.prevostel@inserm.fr."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2812542"
+      ],
+      "dateOfPublication": [
+        "2019 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cancers"
+          ],
+          "ISOAbbreviation": [
+            "Cancers (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Cancers (Basel)"
+          ],
+          "NLMid": [
+            "101526829"
+          ],
+          "ISSN": [
+            "2072-6694"
+          ],
+          "ESSN": [
+            "2072-6694"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Inactivating mutations of the tumor suppressor Adenomatosis Polyposis Coli (APC), which are found in familial adenomatosis polyposis and in 80% of sporadic colorectal cancers (CRC), result in constitutive activation of the Wnt/β-catenin pathway and tumor development in the intestine. These mutations disconnect the Wnt/β-catenin pathway from its Wnt extracellular signal by inactivating the APC/GSK3-β/axin destruction complex of β-catenin. This results in sustained nuclear accumulation of β-catenin, followed by β-catenin-dependent co-transcriptional activation of Wnt/β-catenin target genes. Thus, mechanisms acting downstream of APC, such as those controlling β-catenin stability and/or co-transcriptional activity, are attractive targets for CRC treatment. Protein Kinase C-α (PKCα) phosphorylates the orphan receptor RORα that then inhibits β-catenin co-transcriptional activity. PKCα also phosphorylates β-catenin, leading to its degradation by the proteasome. Here, using both in vitro (DLD-1 cells) and in vivo (C57BL/6J mice) PKCα knock-in models, we investigated whether enhancing PKCα function could be beneficial in CRC treatment. We found that PKCα is infrequently mutated in CRC samples, and that inducing PKCα function is not deleterious for the normal intestinal epithelium. Conversely, di-terpene ester-induced PKCα activity triggers CRC cell death. Together, these data indicate that PKCα is a relevant drug target for CRC treatment."
+  ],
+  "affiliation": [
+    "UCL Louvain, IREC, 1348 Louvain-la-Neuve, Belgium. seb.dupasquier@laposte.net."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "-"
+          ],
+          "agency": [
+            "Lilly France"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "3636"
+          ],
+          "agency": [
+            "Fondation ARC pour la Recherche sur le Cancer"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Languedoc-Roussillon committee"
+          ],
+          "agency": [
+            "Ligue Contre le Cancer"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Languedoc-Roussillon committee"
+          ],
+          "agency": [
+            "GEFLUC"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Chercheur d'avenir committee"
+          ],
+          "agency": [
+            "Région Languedoc-Roussillon"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Drug target",
+        "Tumor suppressor",
+        "Colorectal Cancer",
+        "Protein Kinase Cα",
+        "Wnt/β-catenin"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6563011?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6563011"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/cancers11050693"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-05-22"
+  ],
+  "firstIndexDate": [
+    "2019-05-22"
+  ],
+  "dateOfRevision": [
+    "2019-06-18"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-18"
+  ],
+  "firstPublicationDate": [
+    "2019-05-18"
+  ]
+}

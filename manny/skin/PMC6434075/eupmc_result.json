@@ -1,0 +1,360 @@
+{
+  "id": [
+    "30911099"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30911099"
+  ],
+  "pmcid": [
+    "PMC6434075"
+  ],
+  "doi": [
+    "10.1038/s41598-019-41493-7"
+  ],
+  "title": [
+    "Amorphous silicon dioxide nanoparticles modulate immune responses in a model of allergic contact dermatitis."
+  ],
+  "authorString": [
+    "Palmer BC, Jatana S, Phelan-Dickinson SJ, DeLouise LA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Palmer BC"
+          ],
+          "firstName": [
+            "Brian C"
+          ],
+          "lastName": [
+            "Palmer"
+          ],
+          "initials": [
+            "BC"
+          ],
+          "affiliation": [
+            "Department of Environmental Medicine, University of Rochester Medical Center, New York, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Jatana S"
+          ],
+          "firstName": [
+            "Samreen"
+          ],
+          "lastName": [
+            "Jatana"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, University of Rochester, Rochester, New York, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Phelan-Dickinson SJ"
+          ],
+          "firstName": [
+            "Sarah J"
+          ],
+          "lastName": [
+            "Phelan-Dickinson"
+          ],
+          "initials": [
+            "SJ"
+          ],
+          "affiliation": [
+            "Department of Environmental Medicine, University of Rochester Medical Center, New York, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "DeLouise LA"
+          ],
+          "firstName": [
+            "Lisa A"
+          ],
+          "lastName": [
+            "DeLouise"
+          ],
+          "initials": [
+            "LA"
+          ],
+          "affiliation": [
+            "Department of Environmental Medicine, University of Rochester Medical Center, New York, USA. Lisa_DeLouise@urmc.rochester.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2787935"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "5085"
+  ],
+  "abstractText": [
+    "Amorphous silicon dioxide nanoparticles (SiNPs) are ubiquitous, and they are currently found in cosmetics, drugs, and foods. Biomedical research is also focused on using these nanoparticles as drug delivery and bio-sensing platforms. Due to the high potential for skin exposure to SiNPs, research into the effect of topical exposure on both healthy and inflammatory skin models is warranted. While we observe only minimal effects of SiNPs on healthy mouse skin, there is an immunomodulatory effect of these NPs in a model of allergic contact dermatitis. The effect appears to be mediated partly by keratinocytes and results in decreases in epidermal hyperplasia, inflammatory cytokine release, immune cell infiltration, and a subsequent reduction in skin swelling. Additional research is required to further our mechanistic understanding and to validate the extent of this immunomodulatory effect in human subjects in order to assess the potential prophylactic use of SiNPs for treating allergic skin conditions."
+  ],
+  "affiliation": [
+    "Department of Environmental Medicine, University of Rochester Medical Center, New York, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "ES021492"
+          ],
+          "agency": [
+            "U.S. Department of Health &amp; Human Services | NIH | National Institute of Environmental Health Sciences (NIEHS)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "ES07026"
+          ],
+          "agency": [
+            "U.S. Department of Health &amp; Human Services | NIH | National Institute of Environmental Health Sciences (NIEHS)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "T32 ES007026"
+          ],
+          "agency": [
+            "NIEHS NIH HHS"
+          ],
+          "acronym": [
+            "ES"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 ES021492"
+          ],
+          "agency": [
+            "NIEHS NIH HHS"
+          ],
+          "acronym": [
+            "ES"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 ES007026"
+          ],
+          "agency": [
+            "NIEHS NIH HHS"
+          ],
+          "acronym": [
+            "ES"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6434075?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6434075"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-41493-7"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-03-27"
+  ],
+  "firstIndexDate": [
+    "2019-03-27"
+  ],
+  "dateOfRevision": [
+    "2019-04-04"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-25"
+  ],
+  "firstPublicationDate": [
+    "2019-03-25"
+  ]
+}

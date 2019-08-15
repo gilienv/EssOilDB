@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6364281/results/species/binomial/results.xml">
+  <result pre="In the field of complementary medicine, five studies looked into " exact="Foeniculum vulgar " xpath="/html[1]/body[1]/div[2]/div[4]/p[4]" match="Foeniculum vulgar" post=" Mill (Fennel) (2014-2007), three into Matricaria chamomilla (Chamomile) (2010-2004), and t" name="binomial"/>
+  <result pre="medicine, five studies looked into Foeniculum vulgar Mill (Fennel) (2014-2007), three into " exact="Matricaria chamomilla " xpath="/html[1]/body[1]/div[2]/div[4]/p[4]" match="Matricaria chamomilla" post=" (Chamomile) (2010-2004), and three into Zataria multiflora (2014-2008). In the field of dr" name="binomial"/>
+  <result pre="nel) (2014-2007), three into Matricaria chamomilla (Chamomile) (2010-2004), and three into " exact="Zataria multiflora " xpath="/html[1]/body[1]/div[2]/div[4]/p[4]" match="Zataria multiflora" post=" (2014-2008). In the field of drug therapy, one study compared celexcib capsules with naproxen (200" name="binomial"/>
+  <result pre="fenac, vaginal sildenafil citrate, oral celecoxib, fennel capsules or drops, chamomile capsules or " exact="Zataria multiflora" xpath="/html[1]/body[1]/div[2]/div[4]/p[4]" match="Zataria multiflora" post=" drops. " name="binomial"/>
+  <result pre="Ten studies on complementary medicine looked into the use of plants such as fennel, chamomile, and " exact="Zataria multiflora" xpath="/html[1]/body[1]/div[2]/div[4]/p[4]" match="Zataria multiflora" post=". Fennel belong to the Umbelliferae family and the main ingredients found in it are anethole, limon" name="binomial"/>
+  <result pre=" " exact="Zataria multiflora" xpath="/html[1]/body[1]/div[2]/div[4]/p[4]" match="Zataria multiflora" post=" contains thymol, which inhibits contractions caused by cell scaling and blocks the calcium channel" name="binomial"/>
+  <result pre="aglandins. Iravani (2009) and Salmalian et al. (2014) concluded that " exact="Zataria multiflora " match="Zataria multiflora" post=" is a suitable drug to treat individuals with dysmenorrhea due to the absence of side effects. In a" name="binomial"/>
+ </snippets>
+</snippetsTree>

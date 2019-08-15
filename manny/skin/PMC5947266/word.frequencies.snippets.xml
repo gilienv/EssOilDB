@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC5947266/results/word/frequencies/results.xml">
+  <result title="frequency" word="acne" count="95"/>
+  <result title="frequency" word="Dermatol" count="67"/>
+  <result title="frequency" word="skin" count="59"/>
+  <result title="frequency" word="factors" count="49"/>
+  <result title="frequency" word="acne." count="35"/>
+  <result title="frequency" word="Acne" count="23"/>
+  <result title="frequency" word="exposome" count="23"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,350 @@
+{
+  "id": [
+    "30479073"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30479073"
+  ],
+  "pmcid": [
+    "PMC6267189"
+  ],
+  "doi": [
+    "10.4168/aair.2019.11.1.4"
+  ],
+  "title": [
+    "Mechanisms by Which Atopic Dermatitis Predisposes to Food Allergy and the Atopic March."
+  ],
+  "authorString": [
+    "Tham EH, Leung DY."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tham EH"
+          ],
+          "firstName": [
+            "Elizabeth Huiwen"
+          ],
+          "lastName": [
+            "Tham"
+          ],
+          "initials": [
+            "EH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1037-6143",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Paediatrics, Yong Loo Lin School of Medicine, National University of Singapore, Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Leung DY"
+          ],
+          "firstName": [
+            "Donald Ym"
+          ],
+          "lastName": [
+            "Leung"
+          ],
+          "initials": [
+            "DY"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0177-3844",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Pediatrics, National Jewish Health, Denver, CO, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1037-6143",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0177-3844",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2753453"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Allergy, asthma & immunology research"
+          ],
+          "ISOAbbreviation": [
+            "Allergy Asthma Immunol Res"
+          ],
+          "medlineAbbreviation": [
+            "Allergy Asthma Immunol Res"
+          ],
+          "NLMid": [
+            "101518382"
+          ],
+          "ISSN": [
+            "2092-7355"
+          ],
+          "ESSN": [
+            "2092-7363"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "4-15"
+  ],
+  "abstractText": [
+    "The Atopic march denotes the progression from atopic dermatitis (AD) to the development of other allergic disorders such as immunoglobulin (Ig) E-mediated food allergy, allergic rhinitis and asthma in later childhood. There is increasing evidence from prospective birth cohort studies that early-onset AD is a risk factor for other allergic diseases or is found in strong association with them. Animal studies now provide mechanistic insights into the pathways that may be responsible for triggering the progression from the skin barrier dysfunction seen in AD to epicutaneous sensitization, food allergy and allergic airway disorders. Recent large randomized controlled trials have demonstrated the efficacy of early interventions targeted at AD and food allergy prevention. These show great promise for research into future strategies aimed at prevention of the atopic march."
+  ],
+  "affiliation": [
+    "Department of Paediatrics, Yong Loo Lin School of Medicine, National University of Singapore, Singapore."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "1U19AI117673"
+          ],
+          "agency": [
+            "National Institutes of Health"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "UL1RR025780"
+          ],
+          "agency": [
+            "National Institutes of Health"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01AR41256"
+          ],
+          "agency": [
+            "National Institutes of Health"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "MH 095:003\\008-225"
+          ],
+          "agency": [
+            "National Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Atopic Dermatitis",
+        "Atopic March",
+        "Allergic Rhinitis, Asthma, Food Allergy"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6267189?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6267189"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4168/aair.2019.11.1.4"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-11-28"
+  ],
+  "firstIndexDate": [
+    "2018-11-28"
+  ],
+  "dateOfRevision": [
+    "2019-01-07"
+  ],
+  "firstPublicationDate": [
+    "2019-01-01"
+  ],
+  "embargoDate": [
+    "2019-01-01"
+  ]
+}

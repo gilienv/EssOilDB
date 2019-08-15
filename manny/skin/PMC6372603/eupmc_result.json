@@ -1,0 +1,443 @@
+{
+  "id": [
+    "30755657"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30755657"
+  ],
+  "pmcid": [
+    "PMC6372603"
+  ],
+  "doi": [
+    "10.1038/s41598-018-38156-4"
+  ],
+  "title": [
+    "IL-24 contributes to skin inflammation in Para-Phenylenediamine-induced contact hypersensitivity."
+  ],
+  "authorString": [
+    "Van Belle AB, Cochez PM, de Heusch M, Pointner L, Opsomer R, Raynaud P, Achouri Y, Hendrickx E, Cheou P, Warnier G, Renauld JC, Baeck M, Dumoutier L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Van Belle AB"
+          ],
+          "firstName": [
+            "Astrid B"
+          ],
+          "lastName": [
+            "Van Belle"
+          ],
+          "initials": [
+            "AB"
+          ],
+          "affiliation": [
+            "de Duve Institute, Université catholique de Louvain, Brussels, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Cochez PM"
+          ],
+          "firstName": [
+            "Perrine M"
+          ],
+          "lastName": [
+            "Cochez"
+          ],
+          "initials": [
+            "PM"
+          ],
+          "affiliation": [
+            "de Duve Institute, Université catholique de Louvain, Brussels, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "de Heusch M"
+          ],
+          "firstName": [
+            "Magali"
+          ],
+          "lastName": [
+            "de Heusch"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "de Duve Institute, Université catholique de Louvain, Brussels, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Pointner L"
+          ],
+          "firstName": [
+            "Lisa"
+          ],
+          "lastName": [
+            "Pointner"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "de Duve Institute, Université catholique de Louvain, Brussels, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Opsomer R"
+          ],
+          "firstName": [
+            "Remi"
+          ],
+          "lastName": [
+            "Opsomer"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Institut de Neurosciences, Université catholique de Louvain, Brussels, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Raynaud P"
+          ],
+          "firstName": [
+            "Peggy"
+          ],
+          "lastName": [
+            "Raynaud"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "de Duve Institute, Université catholique de Louvain, Brussels, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Achouri Y"
+          ],
+          "firstName": [
+            "Younes"
+          ],
+          "lastName": [
+            "Achouri"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "de Duve Institute, Université catholique de Louvain, Brussels, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Hendrickx E"
+          ],
+          "firstName": [
+            "Emilie"
+          ],
+          "lastName": [
+            "Hendrickx"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "de Duve Institute, Université catholique de Louvain, Brussels, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Cheou P"
+          ],
+          "firstName": [
+            "Pamela"
+          ],
+          "lastName": [
+            "Cheou"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "de Duve Institute, Université catholique de Louvain, Brussels, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Warnier G"
+          ],
+          "firstName": [
+            "Guy"
+          ],
+          "lastName": [
+            "Warnier"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Ludwig Institute for Cancer Research, Brussels branch, Brussels, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Renauld JC"
+          ],
+          "firstName": [
+            "Jean-Christophe"
+          ],
+          "lastName": [
+            "Renauld"
+          ],
+          "initials": [
+            "JC"
+          ],
+          "affiliation": [
+            "de Duve Institute, Université catholique de Louvain, Brussels, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Baeck M"
+          ],
+          "firstName": [
+            "Marie"
+          ],
+          "lastName": [
+            "Baeck"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Dermatology, Cliniques Universitaires Saint-Luc, UCL, B-1200, Brussels, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Dumoutier L"
+          ],
+          "firstName": [
+            "Laure"
+          ],
+          "lastName": [
+            "Dumoutier"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "de Duve Institute, Université catholique de Louvain, Brussels, Belgium. laure.dumoutier@uclouvain.be."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2776943"
+      ],
+      "dateOfPublication": [
+        "2019 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1852"
+  ],
+  "abstractText": [
+    "Para-Phenylenediamine (PPD) is an aromatic amine used in hair dyes and in temporary black henna tattoos, which is a frequent cause of allergic contact dermatitis (ACD). ACD is a skin inflammatory reaction characterized by modifications such as spongiosis, exocytosis and acanthosis. The aim of this study is to characterize the expression and the role of IL-20-related cytokines, including IL-19, IL-20, IL-22 and IL-24, in ACD. The expression of IL19, IL20, IL22 and IL24 is increased in affected skin from PPD allergic patients compared with uninvolved skin. In addition, the expression of these cytokines positively correlates with clinical symptoms. To assess their role in ACD, we set up a mouse model of PPD-induced allergic contact dermatitis and we showed that, in contrast to Il22-deficient mice, Il22ra1-, Il20rb- and Il24-deficient mice are partially protected against development of PPD-induced contact hypersensitivity. These mice have decreased ear thickening and less acanthosis compared with WT mice after PPD treatment. In addition, the absence of IL-22R, IL-20R2 or IL-24 affects the recruitment of neutrophils into the skin but not the total IgE production. Taken together, these results demonstrate the implication of IL-24 via the IL-20R type II receptor in the inflammatory process of ACD."
+  ],
+  "affiliation": [
+    "de Duve Institute, Université catholique de Louvain, Brussels, Belgium."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6372603?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6372603"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-018-38156-4"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-02-14"
+  ],
+  "firstIndexDate": [
+    "2019-02-14"
+  ],
+  "dateOfRevision": [
+    "2019-02-20"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-12"
+  ],
+  "firstPublicationDate": [
+    "2019-02-12"
+  ]
+}

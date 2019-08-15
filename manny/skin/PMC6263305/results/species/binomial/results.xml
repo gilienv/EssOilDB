@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="binomial">
+ <result pre="inflammatory markers that are more elevated than the muscle enzymes. 60–90% of cases are caused by " exact="Staphylococcus aureus" xpath="/html[1]/body[1]/div[2]/div[7]/p[11]" match="Staphylococcus aureus" post=", secondly Streptococcus pneumoniae, but type B, C, and G streptococci, and less comm" name="binomial"/>
+ <result pre="ated than the muscle enzymes. 60–90% of cases are caused by Staphylococcus aureus, secondly " exact="Streptococcus pneumoniae" xpath="/html[1]/body[1]/div[2]/div[7]/p[11]" match="Streptococcus pneumoniae" post=", but type B, C, and G streptococci, and less commonly Clostridium spp. , Mycobact" name="binomial"/>
+ <result pre="[ 52] occur in immunosuppressed patients. The most common causative pathogen is " exact="Candida tropicalis" match="Candida tropicalis" post=" or other Candida spp. Muscle MRI shows numerous microabscesses, and the disease is confirme" name="binomial"/>
+</results>

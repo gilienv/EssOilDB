@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6355798/results/word/frequencies/results.xml">
+  <result title="frequency" word="latex" count="102"/>
+  <result title="frequency" word="fig" count="73"/>
+  <result title="frequency" word="cervical" count="55"/>
+  <result title="frequency" word="cancer" count="54"/>
+  <result title="frequency" word="cells" count="54"/>
+  <result title="frequency" word="cell" count="52"/>
+  <result title="frequency" word="HPV" count="34"/>
+  <result title="frequency" word="Ficus" count="28"/>
+  <result title="frequency" word="treated" count="24"/>
+  <result title="frequency" word="carica" count="23"/>
+  <result title="frequency" word="expression" count="23"/>
+  <result title="frequency" word="using" count="22"/>
+ </snippets>
+</snippetsTree>

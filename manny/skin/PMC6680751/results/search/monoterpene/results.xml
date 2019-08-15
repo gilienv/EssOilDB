@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="monoterpene">
+ <result pre="geraniol were able to work against Gram-positive and Gram-negative bacteria." exact="Geraniol" post="was also later claimed to efficiently increase the susceptibility"/>
+ <result pre="borneol, bornyl acetate, and isoborneol, 1, 8-cineole, thujone, and camphor." exact="Thymol" post="and carvacrol were also noted to be powerful agents"/>
+ <result pre="Bernardini A.F. Berti L. Pagès J.M. Amaral L. Bolla J.L." exact="Geraniol" post="restores antibiotic activities against multidrug-resistant isolates from Gram-negative species"/>
+ <result pre="Chemical Compounds Tested Microorganism Antimicrobial Effect Reference Monoterpenes and monoterpenoids" exact="Carvacrol" post="Thymol Geraniol Resistant Enterobacter aerogenes Efflux pump inhibition ["/>
+ <result pre="Compounds Tested Microorganism Antimicrobial Effect Reference Monoterpenes and monoterpenoids Carvacrol" exact="Thymol" post="Geraniol Resistant Enterobacter aerogenes Efflux pump inhibition [ 60]"/>
+ <result pre="Tested Microorganism Antimicrobial Effect Reference Monoterpenes and monoterpenoids Carvacrol Thymol" exact="Geraniol" post="Resistant Enterobacter aerogenes Efflux pump inhibition [ 60] Linalyl"/>
+ <result pre="Thymol Geraniol Resistant Enterobacter aerogenes Efflux pump inhibition [ 60]" exact="Linalyl acetate" post="(+)- Menthol Thymol S. aureus E. coli Growth inhibition"/>
+ <result pre="Enterobacter aerogenes Efflux pump inhibition [ 60] Linalyl acetate (+)-" exact="Menthol" post="Thymol S. aureus E. coli Growth inhibition [ 61]"/>
+ <result pre="aerogenes Efflux pump inhibition [ 60] Linalyl acetate (+)- Menthol" exact="Thymol" post="S. aureus E. coli Growth inhibition [ 61] Carvacrol"/>
+ <result pre="Menthol Thymol S. aureus E. coli Growth inhibition [ 61]" exact="Carvacrol" post="Trans-cinnamaldehyde (+)-Carvone E. coli S. typhimurium Growth inhibition ["/>
+ <result pre="gypseum Histoplasma capsulatum Blastomyces dermatitidis …etc. Growth inhibition [ 63]" exact="Carvacrol" post="Eugenol Thymol Acinetobacter calcoacetica Aeromonas hydrophila B. subtilis Growth"/>
+ <result pre="capsulatum Blastomyces dermatitidis …etc. Growth inhibition [ 63] Carvacrol Eugenol" exact="Thymol" post="Acinetobacter calcoacetica Aeromonas hydrophila B. subtilis Growth inhibition ["/>
+ <result pre="Acinetobacter calcoacetica Aeromonas hydrophila B. subtilis Growth inhibition [ 64]" exact="Borneol" post="d-3-Carene Carvacrol Carvacrol methyl ester cis/trans Citral Eugenol Geraniol"/>
+ <result pre="Aeromonas hydrophila B. subtilis Growth inhibition [ 64] Borneol d-3-Carene" exact="Carvacrol" post="Carvacrol methyl ester cis/trans Citral Eugenol Geraniol Geranyl acetate"/>
+ <result pre="hydrophila B. subtilis Growth inhibition [ 64] Borneol d-3-Carene Carvacrol" exact="Carvacrol" post="methyl ester cis/trans Citral Eugenol Geraniol Geranyl acetate cis-hex-3-en-1-ol"/>
+ <result pre="inhibition [ 64] Borneol d-3-Carene Carvacrol Carvacrol methyl ester cis/trans" exact="Citral" post="Eugenol Geraniol Geranyl acetate cis-hex-3-en-1-ol R(+)Limonene (2)-Linalool Menthone Nerol"/>
+ <result pre="64] Borneol d-3-Carene Carvacrol Carvacrol methyl ester cis/trans Citral Eugenol" exact="Geraniol" post="Geranyl acetate cis-hex-3-en-1-ol R(+)Limonene (2)-Linalool Menthone Nerol α-Pinene β-Pinene"/>
+ <result pre="ester cis/trans Citral Eugenol Geraniol Geranyl acetate cis-hex-3-en-1-ol R(+)Limonene (2)-Linalool" exact="Menthone" post="Nerol α-Pinene β-Pinene (+)sabinene α-Terpinene Terpinen-4-ol α-terpineole (−)-Thujone Thymol"/>
+ <result pre="cis/trans Citral Eugenol Geraniol Geranyl acetate cis-hex-3-en-1-ol R(+)Limonene (2)-Linalool Menthone" exact="Nerol" post="α-Pinene β-Pinene (+)sabinene α-Terpinene Terpinen-4-ol α-terpineole (−)-Thujone Thymol S."/>
+ <result pre="acetate cis-hex-3-en-1-ol R(+)Limonene (2)-Linalool Menthone Nerol α-Pinene β-Pinene (+)sabinene α-Terpinene" exact="Terpinen-4-ol" post="α-terpineole (−)-Thujone Thymol S. aureus E. coli Salmonella typhia"/>
+ <result pre="(2)-Linalool Menthone Nerol α-Pinene β-Pinene (+)sabinene α-Terpinene Terpinen-4-ol α-terpineole (−)-Thujone" exact="Thymol" post="S. aureus E. coli Salmonella typhia S. typhimurium Salmonella"/>
+ <result pre="C. albicans Penicillium expansum Aspergillus niger…etc. Growth inhibition [ 65]" exact="Carvacrol" post="S.aureus S. typhimurium Biofilm inhibition [ 66] Linalool Resistant"/>
+ <result pre="[ 65] Carvacrol S.aureus S. typhimurium Biofilm inhibition [ 66]" exact="Linalool" post="Resistant K. pneumoniae carbapenemase (KPC) Cell membrane disruption ["/>
+ <result pre="Resistant K. pneumoniae carbapenemase (KPC) Cell membrane disruption [ 34]" exact="Terpinen-4-ol" post="α-Terpineol 1, 8-Cineole Linalool A. niger Botrytis cinerea Growth"/>
+ <result pre="(KPC) Cell membrane disruption [ 34] Terpinen-4-ol α-Terpineol 1, 8-Cineole" exact="Linalool" post="A. niger Botrytis cinerea Growth inhibition [ 67] α-Terpinene"/>
+ <result pre="Botrytis cinerea Growth inhibition [ 67] α-Terpinene γ-Terpinene α-Pinene ρ-Cymene" exact="Terpinen-4-ol" post="α-Terpineol Thymol Citral 1, 8-Cineole Borneol Bornyl acetate Isoborneol"/>
+ <result pre="Growth inhibition [ 67] α-Terpinene γ-Terpinene α-Pinene ρ-Cymene Terpinen-4-ol α-Terpineol" exact="Thymol" post="Citral 1, 8-Cineole Borneol Bornyl acetate Isoborneol 1, 8-Cineole"/>
+ <result pre="inhibition [ 67] α-Terpinene γ-Terpinene α-Pinene ρ-Cymene Terpinen-4-ol α-Terpineol Thymol" exact="Citral" post="1, 8-Cineole Borneol Bornyl acetate Isoborneol 1, 8-Cineole Thujone"/>
+ <result pre="α-Terpinene γ-Terpinene α-Pinene ρ-Cymene Terpinen-4-ol α-Terpineol Thymol Citral 1, 8-Cineole" exact="Borneol" post="Bornyl acetate Isoborneol 1, 8-Cineole Thujone Camphor Herpes simplex"/>
+ <result pre="Thymol Citral 1, 8-Cineole Borneol Bornyl acetate Isoborneol 1, 8-Cineole" exact="Thujone" post="Camphor Herpes simplex virus type 1 (HSV-1) Growth inhibition"/>
+ <result pre="Citral 1, 8-Cineole Borneol Bornyl acetate Isoborneol 1, 8-Cineole Thujone" exact="Camphor" post="Herpes simplex virus type 1 (HSV-1) Growth inhibition ["/>
+ <result pre="Herpes simplex virus type 1 (HSV-1) Growth inhibition [ 69]" exact="Thymol" post="Carvacrol Tobacco mosaic virus (TMV) Cucumber mosaic virus (CMV)"/>
+ <result pre="simplex virus type 1 (HSV-1) Growth inhibition [ 69] Thymol" exact="Carvacrol" post="Tobacco mosaic virus (TMV) Cucumber mosaic virus (CMV) Growth"/>
+ <result pre="Mycobacterium smegmatis Growth inhibition [ 77] Diterpenes and diterpenoids (-)-Carvone" exact="Thymol" post="Dihydrocarveol (-)-Perilla alcohol Carvacrol (-)-Carveol…etc. P. aeruginosa E. coli"/>
+ <result pre="[ 77] Diterpenes and diterpenoids (-)-Carvone Thymol Dihydrocarveol (-)-Perilla alcohol" exact="Carvacrol" post="(-)-Carveol…etc. P. aeruginosa E. coli S. aureus C. albicans"/>
+</results>

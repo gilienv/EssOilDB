@@ -1,0 +1,299 @@
+{
+  "id": [
+    "28449595"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28449595"
+  ],
+  "pmcid": [
+    "PMC5871277"
+  ],
+  "doi": [
+    "10.1177/2156587217703214"
+  ],
+  "title": [
+    "Pharmaceutical Perspectives of Spices and Condiments as Alternative Antimicrobial Remedy."
+  ],
+  "authorString": [
+    "D'Souza SP, Chavannavar SV, Kanchanashri B, Niveditha SB."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "D'Souza SP"
+          ],
+          "firstName": [
+            "Savita P"
+          ],
+          "lastName": [
+            "D'Souza"
+          ],
+          "initials": [
+            "SP"
+          ],
+          "affiliation": [
+            "1 University of Agricultural Sciences, Bangalore, Karnataka, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Chavannavar SV"
+          ],
+          "firstName": [
+            "Suvarna V"
+          ],
+          "lastName": [
+            "Chavannavar"
+          ],
+          "initials": [
+            "SV"
+          ],
+          "affiliation": [
+            "1 University of Agricultural Sciences, Bangalore, Karnataka, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Kanchanashri B"
+          ],
+          "firstName": [
+            "B"
+          ],
+          "lastName": [
+            "Kanchanashri"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "1 University of Agricultural Sciences, Bangalore, Karnataka, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Niveditha SB"
+          ],
+          "firstName": [
+            "S B"
+          ],
+          "lastName": [
+            "Niveditha"
+          ],
+          "initials": [
+            "SB"
+          ],
+          "affiliation": [
+            "1 University of Agricultural Sciences, Bangalore, Karnataka, India."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "22"
+      ],
+      "journalIssueId": [
+        "2632752"
+      ],
+      "dateOfPublication": [
+        "2017 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of evidence-based complementary & alternative medicine"
+          ],
+          "ISOAbbreviation": [
+            "J Evid Based Complementary Altern Med"
+          ],
+          "medlineAbbreviation": [
+            "J Evid Based Complementary Altern Med"
+          ],
+          "NLMid": [
+            "101556804"
+          ],
+          "ISSN": [
+            "2156-5872"
+          ],
+          "ESSN": [
+            "2156-5899"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "1002-1010"
+  ],
+  "abstractText": [
+    "Medicinal values of spices and condiments are being revived by biologists through in vitro and in vivo trials providing evidence for its antimicrobial activities. The essential oils and extracts of spices like black pepper, cloves, cinnamon, and nutmeg contain active compounds like piperine, eugenol, cinnamaldehyde, and lignans. Similarly, condiments like coriander, black cumin, turmeric, garlic, and ginger are recognized for constituents like linalool, thymoquinones, curcumin, allicin, and geranial respectively. These act as natural preventive components of several diseases and represent as antioxidants in body cells. Scientists have to investigate the biochemical nature, mode of action, and minimum concentration of administrating active ingredients effectively. This review reports findings of recent research carried out across South Asia and Middle East countries where spices and condiments form chief flavoring components of traditional foods. It narrates the history, myths, and facts people believe in these regions. There may not be scientific explanation but has evidence of cure for centuries."
+  ],
+  "affiliation": [
+    "1 University of Agricultural Sciences, Bangalore, Karnataka, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Antimicrobial agents",
+        "Condiments",
+        "Spices"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5871277?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5871277"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1177/2156587217703214"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-04-29"
+  ],
+  "firstIndexDate": [
+    "2017-04-28"
+  ],
+  "dateOfRevision": [
+    "2019-08-06"
+  ],
+  "electronicPublicationDate": [
+    "2017-04-28"
+  ],
+  "firstPublicationDate": [
+    "2017-04-28"
+  ]
+}

@@ -1,0 +1,372 @@
+{
+  "id": [
+    "30383446"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30383446"
+  ],
+  "pmcid": [
+    "PMC6404575"
+  ],
+  "doi": [
+    "10.1096/fj.201801805R"
+  ],
+  "title": [
+    "Dietary ω-3 fatty acids alter the lipid mediator profile and alleviate allergic conjunctivitis without modulating Th2 immune responses."
+  ],
+  "authorString": [
+    "Hirakata T, Lee HC, Ohba M, Saeki K, Okuno T, Murakami A, Matsuda A, Yokomizo T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hirakata T"
+          ],
+          "firstName": [
+            "Toshiaki"
+          ],
+          "lastName": [
+            "Hirakata"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Ophthalmology, Juntendo University Graduate School of Medicine, Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee HC"
+          ],
+          "firstName": [
+            "Hyeon-Cheol"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "HC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5493-8112",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biochemistry, Juntendo University Graduate School of Medicine, Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Ohba M"
+          ],
+          "firstName": [
+            "Mai"
+          ],
+          "lastName": [
+            "Ohba"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Biochemistry, Juntendo University Graduate School of Medicine, Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Saeki K"
+          ],
+          "firstName": [
+            "Kazuko"
+          ],
+          "lastName": [
+            "Saeki"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Biochemistry, Juntendo University Graduate School of Medicine, Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Okuno T"
+          ],
+          "firstName": [
+            "Toshiaki"
+          ],
+          "lastName": [
+            "Okuno"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Biochemistry, Juntendo University Graduate School of Medicine, Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Murakami A"
+          ],
+          "firstName": [
+            "Akira"
+          ],
+          "lastName": [
+            "Murakami"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Ophthalmology, Juntendo University Graduate School of Medicine, Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Matsuda A"
+          ],
+          "firstName": [
+            "Akira"
+          ],
+          "lastName": [
+            "Matsuda"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Ophthalmology, Juntendo University Graduate School of Medicine, Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Yokomizo T"
+          ],
+          "firstName": [
+            "Takehiko"
+          ],
+          "lastName": [
+            "Yokomizo"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Biochemistry, Juntendo University Graduate School of Medicine, Tokyo, Japan."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5493-8112",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "33"
+      ],
+      "journalIssueId": [
+        "2786949"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "FASEB journal : official publication of the Federation of American Societies for Experimental Biology"
+          ],
+          "ISOAbbreviation": [
+            "FASEB J."
+          ],
+          "medlineAbbreviation": [
+            "FASEB J"
+          ],
+          "NLMid": [
+            "8804484"
+          ],
+          "ISSN": [
+            "0892-6638"
+          ],
+          "ESSN": [
+            "1530-6860"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "3392-3403"
+  ],
+  "abstractText": [
+    "Allergic conjunctivitis (AC) is one of the most common ocular surface diseases in the world. In AC, T helper type 2 (Th2) immune responses play central roles in orchestrating inflammatory responses. However, the roles of lipid mediators in the onset and progression of AC remain to be fully explored. Although previous reports have shown the beneficial effects of supplementation of ω-3 fatty acids in asthma or atopic dermatitis, the underlying molecular mechanisms are poorly understood. In this study, a diet rich in ω-3 fatty acids alleviated AC symptoms in both early and late phases without affecting Th2 immune responses, but rather by altering the lipid mediator profiles. The ω-3 fatty acids completely suppressed scratching behavior toward the eyes, an allergic reaction provoked by itch. Although total serum IgE levels and the expression levels of Th2 cytokines and chemokines in the conjunctiva were not altered by ω-3 fatty acids, eosinophil infiltration into the conjunctiva was dramatically suppressed. The levels of ω-6-derived proinflammatory lipid mediators, including those with chemoattractant properties for eosinophils, were markedly reduced in the conjunctivae of ω-3 diet-fed mice. Dietary ω-3 fatty acids can alleviate a variety of symptoms of AC by altering the lipid mediator profile.-Hirakata, T., Lee, H.-C., Ohba, M., Saeki, K., Okuno, T., Murakami, A., Matsuda, A., Yokomizo, T. Dietary ω-3 fatty acids alter the lipid mediator profile and alleviate allergic conjunctivitis without modulating Th2 immune responses."
+  ],
+  "affiliation": [
+    "Department of Ophthalmology, Juntendo University Graduate School of Medicine, Tokyo, Japan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Inflammation",
+        "Eicosanoid",
+        "Fish oil",
+        "Hay Fever",
+        "Lipidomics"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6404575"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1096/fj.201801805R"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-11-02"
+  ],
+  "firstIndexDate": [
+    "2018-11-02"
+  ],
+  "dateOfRevision": [
+    "2019-07-17"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-01"
+  ],
+  "firstPublicationDate": [
+    "2018-11-01"
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "id": [
+    "28929050"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28929050"
+  ],
+  "pmcid": [
+    "PMC5553268"
+  ],
+  "doi": [
+    "10.4103/jphi.JPHI_12_17"
+  ],
+  "title": [
+    "Synergistic effect of Carum copticum and Mentha piperita essential oils with ciprofloxacin, vancomycin, and gentamicin on Gram-negative and Gram-positive bacteria."
+  ],
+  "authorString": [
+    "Talei GR, Mohammadi M, Bahmani M, Kopaei MR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Talei GR"
+          ],
+          "firstName": [
+            "Gholam-Reza"
+          ],
+          "lastName": [
+            "Talei"
+          ],
+          "initials": [
+            "GR"
+          ],
+          "affiliation": [
+            "Department of Microbiology, Razi Herbal Medicine Research Center, Lorestan University of Medical Sciences, Khorramabad, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Mohammadi M"
+          ],
+          "firstName": [
+            "Mohsen"
+          ],
+          "lastName": [
+            "Mohammadi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Microbiology, Razi Herbal Medicine Research Center, Lorestan University of Medical Sciences, Khorramabad, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Bahmani M"
+          ],
+          "firstName": [
+            "Mahmoud"
+          ],
+          "lastName": [
+            "Bahmani"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Microbiology, Leishmaniasis Research Center, Ilam University of Medical Sciences, Ilam, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Kopaei MR"
+          ],
+          "firstName": [
+            "Mahmoud Rafieian"
+          ],
+          "lastName": [
+            "Kopaei"
+          ],
+          "initials": [
+            "MR"
+          ],
+          "affiliation": [
+            "Department of Pharmacology, Medical Plants Research Center, Basic Health Sciences Institute, Shahrekord University of Medical Sciences, Shahrekord, Iran."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2599556"
+      ],
+      "dateOfPublication": [
+        "2017 Apr-Jun"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of pharmaceutical investigation"
+          ],
+          "ISOAbbreviation": [
+            "Int J Pharm Investig"
+          ],
+          "medlineAbbreviation": [
+            "Int J Pharm Investig"
+          ],
+          "NLMid": [
+            "101580610"
+          ],
+          "ISSN": [
+            "2230-973X"
+          ],
+          "ESSN": [
+            "2230-9713"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "82-87"
+  ],
+  "abstractText": [
+    "Infectious diseases have always been an important health issue in human communities. In the recent years, much research has been conducted on antimicrobial effects of nature-based compounds because of increased prevalence of antibiotic resistance. The present study was conducted to investigate synergistic effect of Carum copticum and Mentha piperita essential oils with ciprofloxacin, vancomycin, and gentamicin on Gram-negative and Gram-positive bacteria.In this experimental study, the synergistic effects of C. copticum and M. piperita essential oils with antibiotics on Staphylococcus aureus (ATCC 25923), Enterococcus faecalis (ATCC 29212), Escherichia coli (ATCC 8739), Pseudomonas aeruginosa (ATCC 9027), Staphylococcus epidermidis (ATCC 14990), and Listeria monocytogenes (ATCC 7644) were studied according to broth microdilution and the MIC and fractional inhibitory concentration (FIC) of these two essential oils determined.C. copticum essential oil at 30 μg/ml could inhibit S. aureus, and in combination with vancomycin, decreased MIC from 0.5 to 0.12 μg/ml. Moreover, the FIC was derived 0.24 μg/ml which represents a potent synergistic effect with vancomycin against S. aureus growth. C. copticum essential oil alone or combined with other antibiotics is effective in treating bacterial infections.In addition, C. copticum essential oil can strengthen the activities of certain antibiotics, which makes it possible to use this essential oil, especially in drug resistance or to lower dosage or toxicity of the drugs."
+  ],
+  "affiliation": [
+    "Department of Microbiology, Razi Herbal Medicine Research Center, Lorestan University of Medical Sciences, Khorramabad, Iran."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Essential oil",
+        "Plant",
+        "Synergism",
+        "Pathogenic bacteria",
+        "Antimicrobial effect"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5553268"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/jphi.JPHI_12_17"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-09-20"
+  ],
+  "firstIndexDate": [
+    "2017-09-21"
+  ],
+  "dateOfRevision": [
+    "2017-09-22"
+  ],
+  "firstPublicationDate": [
+    "2017-04-01"
+  ]
+}

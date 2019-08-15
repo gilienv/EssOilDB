@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6473432/results/word/frequencies/results.xml">
+  <result title="frequency" word="interactions" count="59"/>
+  <result title="frequency" word="data" count="51"/>
+  <result title="frequency" word="clinical" count="43"/>
+  <result title="frequency" word="use" count="42"/>
+  <result title="frequency" word="interaction" count="37"/>
+  <result title="frequency" word="potential" count="33"/>
+  <result title="frequency" word="information" count="30"/>
+  <result title="frequency" word="HMPs" count="28"/>
+  <result title="frequency" word="significant" count="28"/>
+  <result title="frequency" word="drug" count="27"/>
+  <result title="frequency" word="regarding" count="27"/>
+  <result title="frequency" word="health" count="25"/>
+  <result title="frequency" word="risk" count="25"/>
+  <result title="frequency" word="CVD" count="24"/>
+  <result title="frequency" word="drug–HMP" count="24"/>
+  <result title="frequency" word="DHIs" count="22"/>
+  <result title="frequency" word="products" count="22"/>
+  <result title="frequency" word="HMP" count="21"/>
+  <result title="frequency" word="specific" count="21"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,253 @@
+{
+  "id": [
+    "30288075"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30288075"
+  ],
+  "pmcid": [
+    "PMC6159789"
+  ],
+  "doi": [
+    "10.2147/CCID.S177448"
+  ],
+  "title": [
+    "Beyond photoaging: additional factors involved in the process of skin aging."
+  ],
+  "authorString": [
+    "Addor FAS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Addor FAS"
+          ],
+          "firstName": [
+            "Flavia Alvim Sant'Anna"
+          ],
+          "lastName": [
+            "Addor"
+          ],
+          "initials": [
+            "FAS"
+          ],
+          "affiliation": [
+            "MEDCIN Research, Private Clinical Research Center, Osasco, São Paulo, Brazil, flavia.addor@medcin.com.br."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2634227"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Clinical, cosmetic and investigational dermatology"
+          ],
+          "ISOAbbreviation": [
+            "Clin Cosmet Investig Dermatol"
+          ],
+          "medlineAbbreviation": [
+            "Clin Cosmet Investig Dermatol"
+          ],
+          "NLMid": [
+            "101543449"
+          ],
+          "ISSN": [
+            "1178-7015"
+          ],
+          "ESSN": [
+            "1178-7015"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "437-443"
+  ],
+  "abstractText": [
+    "Studies assessing the impact of extrinsic factors on skin aging have increased during the last with the increase in life expectancy. Although most of the studies are about the sun radiation impact, many factors should be considered in elderly people, beyond environmental conditions. Lifestyle factors, like diet, sleeping, smoking, should be analyzed carefully, as common age-related conditions (menopause, diabetes, pulmonary diseases, etc.). All these factors could accelerate the natural decline of skin structure and functions, possibly affecting the responses to treatments and drugs. This review demonstrates that growing evidence regarding environmental factors that are associated with lifestyle and comorbidities deserve greater attention from researchers and dermatologists and may require new approaches in the management of skin aging."
+  ],
+  "affiliation": [
+    "MEDCIN Research, Private Clinical Research Center, Osasco, São Paulo, Brazil, flavia.addor@medcin.com.br."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Diabetes mellitus",
+        "Glycation",
+        "Pollution",
+        "Oxidative stress",
+        "Nutrition",
+        "Sleep disorders",
+        "Skin Aging",
+        "Chronic stress",
+        "photoaging",
+        "Age-related Diseases"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6159789?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6159789"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2147/CCID.S177448"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-10-06"
+  ],
+  "firstIndexDate": [
+    "2018-10-05"
+  ],
+  "dateOfRevision": [
+    "2018-10-07"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-20"
+  ],
+  "firstPublicationDate": [
+    "2018-09-20"
+  ]
+}

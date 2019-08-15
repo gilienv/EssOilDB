@@ -1,0 +1,474 @@
+{
+  "id": [
+    "31328158"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31328158"
+  ],
+  "pmcid": [
+    "PMC6636983"
+  ],
+  "doi": [
+    "10.1126/sciadv.aav8152"
+  ],
+  "title": [
+    "The regulatory B cell-mediated peripheral tolerance maintained by mast cell IL-5 suppresses oxazolone-induced contact hypersensitivity."
+  ],
+  "authorString": [
+    "Kim HS, Lee MB, Lee D, Min KY, Koo J, Kim HW, Park YH, Kim SJ, Ikutani M, Takaki S, Kim YM, Choi WS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kim HS"
+          ],
+          "firstName": [
+            "Hyuk Soon"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "HS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0566-0142",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Immunology, School of Medicine, Konkuk University, Chungju 27478, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee MB"
+          ],
+          "firstName": [
+            "Min Bum"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "MB"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6873-1518",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Immunology, School of Medicine, Konkuk University, Chungju 27478, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee D"
+          ],
+          "firstName": [
+            "Dajeong"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Immunology, School of Medicine, Konkuk University, Chungju 27478, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Min KY"
+          ],
+          "firstName": [
+            "Keun Young"
+          ],
+          "lastName": [
+            "Min"
+          ],
+          "initials": [
+            "KY"
+          ],
+          "affiliation": [
+            "Department of Immunology, School of Medicine, Konkuk University, Chungju 27478, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Koo J"
+          ],
+          "firstName": [
+            "Jimo"
+          ],
+          "lastName": [
+            "Koo"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Immunology, School of Medicine, Konkuk University, Chungju 27478, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim HW"
+          ],
+          "firstName": [
+            "Hyun Woo"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "HW"
+          ],
+          "affiliation": [
+            "Department of Immunology, School of Medicine, Konkuk University, Chungju 27478, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Park YH"
+          ],
+          "firstName": [
+            "Young Hwan"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "YH"
+          ],
+          "affiliation": [
+            "Department of Immunology, School of Medicine, Konkuk University, Chungju 27478, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim SJ"
+          ],
+          "firstName": [
+            "Su Jeong"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "SJ"
+          ],
+          "affiliation": [
+            "Department of Immunology, School of Medicine, Konkuk University, Chungju 27478, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Ikutani M"
+          ],
+          "firstName": [
+            "Masashi"
+          ],
+          "lastName": [
+            "Ikutani"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Immune Regulation, The Research Center for Hepatitis and Immunology, Research Institute, National Center for Global Health and Medicine, Chiba 272-8516, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Takaki S"
+          ],
+          "firstName": [
+            "Satoshi"
+          ],
+          "lastName": [
+            "Takaki"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Immune Regulation, The Research Center for Hepatitis and Immunology, Research Institute, National Center for Global Health and Medicine, Chiba 272-8516, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim YM"
+          ],
+          "firstName": [
+            "Young Mi"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "YM"
+          ],
+          "affiliation": [
+            "Department of Preventive Pharmacy, College of Pharmacy, Duksung Women's University, Seoul 01369, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Choi WS"
+          ],
+          "firstName": [
+            "Wahn Soo"
+          ],
+          "lastName": [
+            "Choi"
+          ],
+          "initials": [
+            "WS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0643-2395",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Immunology, School of Medicine, Konkuk University, Chungju 27478, Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6873-1518",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0566-0142",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0643-2395",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2836221"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Science advances"
+          ],
+          "ISOAbbreviation": [
+            "Sci Adv"
+          ],
+          "medlineAbbreviation": [
+            "Sci Adv"
+          ],
+          "NLMid": [
+            "101653440"
+          ],
+          "ISSN": [
+            "2375-2548"
+          ],
+          "ESSN": [
+            "2375-2548"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "eaav8152"
+  ],
+  "abstractText": [
+    "The function of regulatory immune cells in peripheral tissues is crucial to the onset and severity of various diseases. Interleukin-10 (IL-10)-producing regulatory B (IL-10+ Breg) cells are known to suppress various inflammatory diseases. However, evidence for the mechanism by which IL-10+ Breg cells are generated and maintained is still very limited. Here, we found that IL-10+ Breg cells suppress the activation of IL-13-producing type 2 innate lymphoid cells (IL-13+ ILC2s) in an IL-10-dependent manner in mice with oxazolone-induced severe contact hypersensitivity (CHS). Mast cell (MC) IL-5 was important for maintaining the population of IL-10+ Breg cells in peripheral lymphoid tissues. Overall, these results uncover a previously unknown mechanism of MCs as a type of immunoregulatory cell and elucidate the cross-talk among MCs, IL-10+ Breg cells, and IL-13+ ILC2s in CHS."
+  ],
+  "affiliation": [
+    "Department of Immunology, School of Medicine, Konkuk University, Chungju 27478, Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6636983?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6636983"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1126/sciadv.aav8152"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-23"
+  ],
+  "firstIndexDate": [
+    "2019-07-26"
+  ],
+  "dateOfRevision": [
+    "2019-07-25"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-17"
+  ],
+  "firstPublicationDate": [
+    "2019-07-17"
+  ]
+}

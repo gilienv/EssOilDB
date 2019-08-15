@@ -1,0 +1,386 @@
+{
+  "id": [
+    "30941200"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30941200"
+  ],
+  "pmcid": [
+    "PMC6421018"
+  ],
+  "doi": [
+    "10.1155/2019/8497980"
+  ],
+  "title": [
+    "Subcutaneous Injection of Myrrh Essential Oil in Mice: Acute and Subacute Toxicity Study."
+  ],
+  "authorString": [
+    "Lamichhane R, Lee KH, Pandeya PR, Sung KK, Lee S, Kim YK, Jung HJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lamichhane R"
+          ],
+          "firstName": [
+            "Ramakanta"
+          ],
+          "lastName": [
+            "Lamichhane"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7975-542X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Wonkwang University, College of Pharmacy, Department of Oriental Pharmacy & Wonkwang Oriental Medicines Research Institute, Iksan, Jeonbuk, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee KH"
+          ],
+          "firstName": [
+            "Kyung-Hee"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "KH"
+          ],
+          "affiliation": [
+            "Wonkwang University, College of Pharmacy, Department of Oriental Pharmacy & Wonkwang Oriental Medicines Research Institute, Iksan, Jeonbuk, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Pandeya PR"
+          ],
+          "firstName": [
+            "Prakash Raj"
+          ],
+          "lastName": [
+            "Pandeya"
+          ],
+          "initials": [
+            "PR"
+          ],
+          "affiliation": [
+            "Wonkwang University, College of Pharmacy, Department of Oriental Pharmacy & Wonkwang Oriental Medicines Research Institute, Iksan, Jeonbuk, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Sung KK"
+          ],
+          "firstName": [
+            "Kang-Kyung"
+          ],
+          "lastName": [
+            "Sung"
+          ],
+          "initials": [
+            "KK"
+          ],
+          "affiliation": [
+            "Department of Internal Medicine and Neuroscience, Gwangju Oriental Medical Hospital and Jangheung Integrative Medical Hospital, Wonkwang University, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee S"
+          ],
+          "firstName": [
+            "SangKwan"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Internal Medicine and Neuroscience, Gwangju Oriental Medical Hospital and Jangheung Integrative Medical Hospital, Wonkwang University, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim YK"
+          ],
+          "firstName": [
+            "Yun-Kyung"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "YK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6169-0402",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Wonkwang University, College of Pharmacy, Department of Oriental Pharmacy & Wonkwang Oriental Medicines Research Institute, Iksan, Jeonbuk, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Jung HJ"
+          ],
+          "firstName": [
+            "Hyun-Ju"
+          ],
+          "lastName": [
+            "Jung"
+          ],
+          "initials": [
+            "HJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2756-0644",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Wonkwang University, College of Pharmacy, Department of Oriental Pharmacy & Wonkwang Oriental Medicines Research Institute, Iksan, Jeonbuk, Republic of Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6169-0402",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7975-542X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2756-0644",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2019"
+      ],
+      "journalIssueId": [
+        "2777626"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Evidence-based complementary and alternative medicine : eCAM"
+          ],
+          "ISOAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "medlineAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "NLMid": [
+            "101215021"
+          ],
+          "ISSN": [
+            "1741-427X"
+          ],
+          "ESSN": [
+            "1741-4288"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "8497980"
+  ],
+  "abstractText": [
+    "Myrrh essential oil (MEO) is widely used as remedies for the different human ailment in different parts of the world. The misuse of this natural product in higher doses may lead to fever, inflammation, and liver and kidney problems. In this study, we performed the acute and subacute toxicity analysis of MEO in mice model after subcutaneous injection and evaluated the safe dose to prevent the possible risk and side effects. Initially (first phase study) higher dose of MEO (20, 40, and 80 μL) was injected, and later in the second phase study lower dose of MEO (1, 5, and 10 μL) was injected for three days in each group of mice. Blood samples were taken for the investigation of hematological parameters and activity of various enzymes. The liver, kidney, spleen, lungs, and heart were excised for histological study. The body weight and skin abnormalities were also evaluated. In the first phase study, the mice showed granuloma formation at the site of injection. The liver showed dilated sinusoids and enlarged central vein. In the spleen the distinction between red and white pulp was lost. The kidney showed the degeneration of glomerulus. The enzyme activity and body weight were also decreased by the higher dose. The WBC count also increased nearly by twofold. Pruritus and self-trauma were also evident. Later in the second phase study, the skin abnormalities (granuloma) and damage in the structure of tissue (in liver, spleen, and kidney) were absent along with no change in enzyme levels, blood parameters, and body weight compared to the control. The MEO was toxic to liver, spleen, and kidney in the higher doses. The safe volume of MEO useful for various studies in mice was evaluated. The safe use of MEO should be assured, it should not be misused, being considered as a natural remedy, and there should be awareness of its toxicity and side effects."
+  ],
+  "affiliation": [
+    "Wonkwang University, College of Pharmacy, Department of Oriental Pharmacy & Wonkwang Oriental Medicines Research Institute, Iksan, Jeonbuk, Republic of Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6421018?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6421018"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2019/8497980"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-04-04"
+  ],
+  "firstIndexDate": [
+    "2019-04-04"
+  ],
+  "dateOfRevision": [
+    "2019-04-06"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-03"
+  ],
+  "firstPublicationDate": [
+    "2019-03-03"
+  ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6566388/results/species/binomial/results.xml">
+  <result pre="Astaxanthin is a xanthophyll biosynthesized by microalgae ( " exact="Haematococcus pluvialis" xpath="/html[1]/body[1]/div[2]/div[9]/div[3]/div[2]/p[1]" match="Haematococcus pluvialis" post=", Chlorella zofingiensis, and Chlorococcum sp), the yeast Phaffia rhodozyma an" name="binomial"/>
+  <result pre="Astaxanthin is a xanthophyll biosynthesized by microalgae ( Haematococcus pluvialis, " exact="Chlorella zofingiensis" xpath="/html[1]/body[1]/div[2]/div[9]/div[3]/div[2]/p[1]" match="Chlorella zofingiensis" post=", and Chlorococcum sp), the yeast Phaffia rhodozyma and the bacterium Agrobacteriu" name="binomial"/>
+  <result pre="Haematococcus pluvialis, Chlorella zofingiensis, and Chlorococcum sp), the yeast " exact="Phaffia rhodozyma" xpath="/html[1]/body[1]/div[2]/div[9]/div[3]/div[2]/p[1]" match="Phaffia rhodozyma" post=" and the bacterium Agrobacterium aurantiacum. Animals (zooplankton, crustaceans, fish) incor" name="binomial"/>
+  <result pre=" additive or human dietary supplement, is largely obtained by synthesis or biotechnologically from " exact="H. pluvialis" xpath="/html[1]/body[1]/div[2]/div[9]/div[3]/div[2]/p[1]" match="Haematococcus pluvialis" post=" [ 194]. There is evidence that astaxanthin could provide benefi" name="binomial"/>
+  <result pre="B199-nutrients-11-01093&quot;&gt;199]. On the other hand, a (9 Z)-β-carotene-rich algal powder from " exact="Dunaliella bardawil" xpath="/html[1]/body[1]/div[2]/div[9]/div[3]/div[2]/p[1]" match="Dunaliella bardawil" post=" has been shown to reduce the severity of psoriasis in adult patients with mild, chronic, plaque-ty" name="binomial"/>
+  <result pre="pt, used saffron profusely for cosmetic purposes. Saffron is a product derived from the stigmas of " exact="Crocus sativus" xpath="/html[1]/body[1]/div[2]/div[9]/div[3]/div[2]/p[1]" match="Crocus sativus" post=" that exhibits a vivid orangish colour due to the presence of high levels of the apocarotenoid croc" name="binomial"/>
+  <result pre=" paint their faces with carotenoid-rich products, like annatto. This is obtained from the seeds of " exact="Bixa orellana" match="Bixa orellana" post=", a small tree that bears in its scientific name the surname of the Spanish adventurer Francisco de" name="binomial"/>
+ </snippets>
+</snippetsTree>

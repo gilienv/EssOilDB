@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="binomial">
+ <result pre="&gt;15]. Scabies has high median attack rates for health care workers at 36%, only slightly less than " exact="Chlamydia pneumonia" xpath="/html[1]/body[1]/div[2]/div[2]/div[4]/p[1]" match="Chlamydia pneumonia" post=" (41%) and noroviruses (42%) [ 15]. " name="binomial"/>
+ <result pre="This ectoparasite infestation is caused by the mite " exact="Sarcoptes scabiei" xpath="/html[1]/body[1]/div[2]/div[2]/div[4]/p[1]" match="Sarcoptes scabiei" post=" variety hominis. S. scabiei is a member of the family Sarcoptidae, within the class Arachni" name="binomial"/>
+ <result pre=". Secondary skin infections are not limited to boils, cellulitis, pyoderma, or lymphangitis due to " exact="Streptococcal pyogenes" xpath="/html[1]/body[1]/div[2]/div[2]/div[4]/p[1]" match="Streptococcal pyogenes" post=". Streptococci and staphylococci have been isolated from skin burrows as well as mite fecal pellets" name="binomial"/>
+ <result pre="g in Western countries [ 34]. Secondary infection of scabies with " exact="S. pyogenes" match="Sarcoptes pyogenes" post=" is a major precipitant of acute post streptococcal glomerulonephritis and possibly rheumatic fever" name="binomial"/>
+</results>

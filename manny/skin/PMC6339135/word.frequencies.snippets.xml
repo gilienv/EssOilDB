@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6339135/results/word/frequencies/results.xml">
+  <result title="frequency" word="Gulf" count="114"/>
+  <result title="frequency" word="War" count="76"/>
+  <result title="frequency" word="veterans" count="74"/>
+  <result title="frequency" word="GWI" count="42"/>
+  <result title="frequency" word="health" count="37"/>
+  <result title="frequency" word="multiple" count="33"/>
+  <result title="frequency" word="vaccinations" count="32"/>
+  <result title="frequency" word="vaccines" count="28"/>
+  <result title="frequency" word="chronic" count="26"/>
+  <result title="frequency" word="vs." count="25"/>
+  <result title="frequency" word="received" count="24"/>
+  <result title="frequency" word="study" count="24"/>
+  <result title="frequency" word="symptoms" count="24"/>
+  <result title="frequency" word="associated" count="22"/>
+  <result title="frequency" word="deployed" count="22"/>
+  <result title="frequency" word="vitamin" count="22"/>
+  <result title="frequency" word="reported" count="21"/>
+ </snippets>
+</snippetsTree>

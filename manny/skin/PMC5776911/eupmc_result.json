@@ -1,0 +1,319 @@
+{
+  "id": [
+    "29371996"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29371996"
+  ],
+  "pmcid": [
+    "PMC5776911"
+  ],
+  "doi": [
+    "10.5487/TR.2018.34.1.007"
+  ],
+  "title": [
+    "Molecular Mechanism of Atopic Dermatitis Induction Following Sensitization and Challenge with 2,4-Dinitrochlorobenzene in Mouse Skin Tissue."
+  ],
+  "authorString": [
+    "Kim J, Lee J, Shin S, Cho A, Heo Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kim J"
+          ],
+          "firstName": [
+            "JiYoun"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Occupational Health, Catholic University of Daegu, Gyeongsan, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee J"
+          ],
+          "firstName": [
+            "JaeHee"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Occupational Health, Catholic University of Daegu, Gyeongsan, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Shin S"
+          ],
+          "firstName": [
+            "SoJung"
+          ],
+          "lastName": [
+            "Shin"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Occupational Health, Catholic University of Daegu, Gyeongsan, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Cho A"
+          ],
+          "firstName": [
+            "AhRang"
+          ],
+          "lastName": [
+            "Cho"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Occupational Health, Catholic University of Daegu, Gyeongsan, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Heo Y"
+          ],
+          "firstName": [
+            "Yong"
+          ],
+          "lastName": [
+            "Heo"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Occupational Health, Catholic University of Daegu, Gyeongsan, Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "34"
+      ],
+      "journalIssueId": [
+        "2643797"
+      ],
+      "dateOfPublication": [
+        "2018 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Toxicological research"
+          ],
+          "ISOAbbreviation": [
+            "Toxicol Res"
+          ],
+          "medlineAbbreviation": [
+            "Toxicol Res"
+          ],
+          "NLMid": [
+            "101483324"
+          ],
+          "ISSN": [
+            "1976-8257"
+          ],
+          "ESSN": [
+            "2234-2753"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "7-12"
+  ],
+  "abstractText": [
+    "Laboratory animal models have been developed to investigate preventive or therapeutic effect of medicinal products, or occurrence or progression mechanism of atopic dermatitis (AD), a pruritic and persistent inflammatory skin disease. The murine model with immunologic phenomena resembling human AD was introduced, which demonstrated skewedness toward predominance of type-2 helper T cell reactivity and pathophysiological changes similar as human AD following 2,4-dinitrochlorobenzene (DNCB) sensitization and challenge. Molecular mechanism on the DNCB-mediated AD was further evaluated. Skin tissues were collected from mice treated with DNCB, and each tissue was equally divided into two sections; one for protein and the other for mRNA analysis. Expression of filaggrin, an important protein for keratinocyte integrity, was evaluated through SDS-PAGE. Level of mRNA expression for cytokines was determined through semi-quantitative reverse transcriptase polymerase chain reaction. Expression of filaggrin protein was significantly enhanced in the mice treated with DNCB compared with the vehicle (acetone : olive oil = 4 : 1 mixture) treatment group or the normal group without any treatment. Level of tumor necrosis factor-alpha and interleukin-18 mRNA expression, cytokines involved in activity of type-1 helper T (TH1) cell, was significantly downregulated in the AD group compared with other control groups. These results suggest that suppression of TH1 cell-mediated immune response could be reflected into the skin tissue of mice treated with DNCB for AD induction, and disturbance of keratinocyte integrity might evoke a compensatory mechanism."
+  ],
+  "affiliation": [
+    "Department of Occupational Health, Catholic University of Daegu, Gyeongsan, Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "TNFα",
+        "Murine model",
+        "IL-18",
+        "filaggrin",
+        "Gene Expression",
+        "Atopic Dermatitis"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5776911?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5776911"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.5487/TR.2018.34.1.007"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-01-27"
+  ],
+  "firstIndexDate": [
+    "2018-01-27"
+  ],
+  "dateOfRevision": [
+    "2018-01-28"
+  ],
+  "electronicPublicationDate": [
+    "2018-01-15"
+  ],
+  "firstPublicationDate": [
+    "2018-01-15"
+  ]
+}

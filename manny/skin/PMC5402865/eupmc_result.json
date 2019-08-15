@@ -1,0 +1,337 @@
+{
+  "id": [
+    "28443180"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28443180"
+  ],
+  "pmcid": [
+    "PMC5402865"
+  ],
+  "doi": [
+    "10.5487/TR.2017.33.2.097"
+  ],
+  "title": [
+    "Terpenes from Forests and Human Health."
+  ],
+  "authorString": [
+    "Cho KS, Lim YR, Lee K, Lee J, Lee JH, Lee IS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Cho KS"
+          ],
+          "firstName": [
+            "Kyoung Sang"
+          ],
+          "lastName": [
+            "Cho"
+          ],
+          "initials": [
+            "KS"
+          ],
+          "affiliation": [
+            "Research Center for Coupled Human and Natural Systems for Ecowelfare, Konkuk University, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lim YR"
+          ],
+          "firstName": [
+            "Young-Ran"
+          ],
+          "lastName": [
+            "Lim"
+          ],
+          "initials": [
+            "YR"
+          ],
+          "affiliation": [
+            "Department of Biological Sciences, Konkuk University, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee K"
+          ],
+          "firstName": [
+            "Kyungho"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Research Center for Coupled Human and Natural Systems for Ecowelfare, Konkuk University, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee J"
+          ],
+          "firstName": [
+            "Jaeseok"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Research Center for Coupled Human and Natural Systems for Ecowelfare, Konkuk University, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee JH"
+          ],
+          "firstName": [
+            "Jang Ho"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "JH"
+          ],
+          "affiliation": [
+            "Department of Biological Sciences, Konkuk University, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee IS"
+          ],
+          "firstName": [
+            "Im-Soon"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "IS"
+          ],
+          "affiliation": [
+            "Research Center for Coupled Human and Natural Systems for Ecowelfare, Konkuk University, Seoul, Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "33"
+      ],
+      "journalIssueId": [
+        "2550534"
+      ],
+      "dateOfPublication": [
+        "2017 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Toxicological research"
+          ],
+          "ISOAbbreviation": [
+            "Toxicol Res"
+          ],
+          "medlineAbbreviation": [
+            "Toxicol Res"
+          ],
+          "NLMid": [
+            "101483324"
+          ],
+          "ISSN": [
+            "1976-8257"
+          ],
+          "ESSN": [
+            "2234-2753"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "97-106"
+  ],
+  "abstractText": [
+    "Forest bathing has beneficial effects on human health via showering of forest aerosols as well as physical relaxation. Terpenes that consist of multiple isoprene units are the largest class of organic compounds produced by various plants, and one of the major components of forest aerosols. Traditionally, terpene-containing plant oil has been used to treat various diseases without knowing the exact functions or the mechanisms of action of the individual bioactive compounds. This review categorizes various terpenes easily obtained from forests according to their anti-inflammatory, anti-tumorigenic, or neuroprotective activities. Moreover, potential action mechanisms of the individual terpenes and their effects on such processes, which are described in various in vivo and in vitro systems, are discussed. In conclusion, the studies that show the biological effectiveness of terpenes support the benefits of forest bathing and propose a potential use of terpenes as chemotherapeutic agents for treating various human diseases."
+  ],
+  "affiliation": [
+    "Research Center for Coupled Human and Natural Systems for Ecowelfare, Konkuk University, Seoul, Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cancer",
+        "Immune function",
+        "Health",
+        "Terpene",
+        "Forest Therapy",
+        "Neuronal Health"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5402865?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5402865"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.5487/TR.2017.33.2.097"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "8"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-04-26"
+  ],
+  "firstIndexDate": [
+    "2017-04-26"
+  ],
+  "dateOfRevision": [
+    "2017-08-16"
+  ],
+  "electronicPublicationDate": [
+    "2017-04-15"
+  ],
+  "firstPublicationDate": [
+    "2017-04-15"
+  ]
+}

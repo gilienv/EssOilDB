@@ -1,0 +1,570 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Cell Mol Med</journal-id><journal-id journal-id-type="iso-abbrev">J. Cell. Mol. Med</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1582-4934</journal-id><journal-id journal-id-type="publisher-id">JCMM</journal-id><journal-title-group><journal-title>Journal of Cellular and Molecular Medicine</journal-title></journal-title-group><issn pub-type="ppub">1582-1838</issn><issn pub-type="epub">1582-4934</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6484311</article-id><article-id pub-id-type="doi">10.1111/jcmm.14262</article-id><article-id pub-id-type="publisher-id">JCMM14262</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>A functional interaction between Hippo&#x02010;YAP signalling and SREBPs mediates hepatic steatosis in diabetic mice</article-title><alt-title alt-title-type="left-running-head">SHU et al.</alt-title></title-group><contrib-group><contrib id="jcmm14262-cr-0001" contrib-type="author"><name><surname>Shu</surname><given-names>Zhiping</given-names></name><xref ref-type="aff" rid="jcmm14262-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="author-notes" rid="jcmm14262-note-0001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="jcmm14262-cr-0002" contrib-type="author"><name><surname>Gao</surname><given-names>Yuan</given-names></name><xref ref-type="aff" rid="jcmm14262-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="author-notes" rid="jcmm14262-note-0001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="jcmm14262-cr-0003" contrib-type="author"><name><surname>Zhang</surname><given-names>Guopeng</given-names></name><xref ref-type="aff" rid="jcmm14262-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm14262-cr-0004" contrib-type="author"><name><surname>Zhou</surname><given-names>Yu</given-names></name><xref ref-type="aff" rid="jcmm14262-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm14262-cr-0005" contrib-type="author"><name><surname>Cao</surname><given-names>Jing</given-names></name><xref ref-type="aff" rid="jcmm14262-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm14262-cr-0006" contrib-type="author"><name><surname>Wan</surname><given-names>Dongyi</given-names></name><xref ref-type="aff" rid="jcmm14262-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm14262-cr-0007" contrib-type="author"><name><surname>Zhu</surname><given-names>Xiaohua</given-names></name><xref ref-type="aff" rid="jcmm14262-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="author-notes" rid="jcmm14262-note-0002">
+<sup>&#x02021;</sup>
+</xref></contrib><contrib id="jcmm14262-cr-0008" contrib-type="author" corresp="yes"><name><surname>Xiong</surname><given-names>Wenqian</given-names></name><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-7136-9265</contrib-id><address><email>176051948@qq.com</email></address><xref ref-type="aff" rid="jcmm14262-aff-0002">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="jcmm14262-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Nuclear Medicine</named-content>
+<institution>Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology</institution>
+<named-content content-type="city">Wuhan</named-content>
+<country country="CN">China</country>
+</aff><aff id="jcmm14262-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Obstetrics and Gynecology</named-content>
+<institution>Union Hospital, Tongji Medical College, Huazhong University of Science and Technology</institution>
+<named-content content-type="city">Wuhan</named-content>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Wenqian Xiong, Department of Obstetrics and Gynecology, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.<break/>
+Email: <email>176051948@qq.com</email><break/></corresp><fn id="jcmm14262-note-0001"><label>&#x02020;</label><p>These authors should be regarded as joint first authors.</p></fn><fn id="jcmm14262-note-0002"><label>&#x02021;</label><p>This author should be regarded as joint corresponding author.</p></fn></author-notes><pub-date pub-type="epub"><day>01</day><month>3</month><year>2019</year></pub-date><pub-date pub-type="ppub"><month>5</month><year>2019</year></pub-date><volume>23</volume><issue>5</issue><issue-id pub-id-type="doi">10.1111/jcmm.2019.23.issue-5</issue-id><fpage>3616</fpage><lpage>3628</lpage><history><date date-type="received"><day>25</day><month>10</month><year>2018</year></date><date date-type="rev-recd"><day>21</day><month>1</month><year>2019</year></date><date date-type="accepted"><day>11</day><month>2</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2019 Journal of Cellular and Molecular Medicine published by John Wiley & Sons Ltd and Foundation for Cellular and Molecular Medicine <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. Journal of Cellular and Molecular Medicine published by John Wiley &#x00026; Sons Ltd and Foundation for Cellular and Molecular Medicine.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:JCMM-23-3616.pdf"/><abstract id="jcmm14262-abs-0001"><title>Abstract</title><p>The Hippo pathway is an evolutionarily conserved regulator of organ size and tumorigenesis that negatively regulates cell growth and survival. Whether the Hippo pathway regulates cell metabolism is unknown. Here, we report that in the nucleus of hepatocytes, Yes&#x02010;associated protein(YAP)&#x02014;the terminal effector of the Hippo pathway&#x02014;directly interacts with sterol regulatory element binding proteins (SREBP&#x02010;1c and SREBP&#x02010;2) on the promoters of the fatty acid synthase (FAS) and 30&#x02010;hydroxylmethyl glutaryl coenzyme A reductase (HMGCR), thereby stimulating their transcription and promoting hepatocyte lipogenesis and cholesterol synthesis. In diet&#x02010;induced diabetic mice, either Lats1 overexpression or YAP knockdown protects against hepatic steatosis and hyperlipidaemia through suppression of the interaction between YAP and SREBP&#x02010;1c/SREBP&#x02010;2. These results suggest that YAP is a nuclear co&#x02010;factor of SREBPs and that the Hippo pathway negatively affects hepatocyte lipogenesis by inhibiting the function of YAP&#x02010;SREBP complexes.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jcmm14262-kwd-0001">hepatic steatosis</kwd><kwd id="jcmm14262-kwd-0002">Hippo signalling</kwd><kwd id="jcmm14262-kwd-0003">SREBPs</kwd><kwd id="jcmm14262-kwd-0004">transcriptional activity</kwd><kwd id="jcmm14262-kwd-0005">YAP</kwd></kwd-group><funding-group><award-group><funding-source>National Natural Science Foundation of China</funding-source><award-id>81701417</award-id></award-group></funding-group><counts><fig-count count="7"/><table-count count="0"/><page-count count="13"/><word-count count="7270"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>jcmm14262</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>May 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.6.2.1 mode:remove_FC converted:26.04.2019</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jcmm14262-cit-1001">
+<string-name>
+<surname>Shu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>A functional interaction between Hippo&#x02010;YAP signalling and SREBPs mediates hepatic steatosis in diabetic mice</article-title>. <source xml:lang="en">J Cell Mol Med</source>. <year>2019</year>;<volume>23</volume>:<fpage>3616</fpage>&#x02013;<lpage>3628</lpage>. <pub-id pub-id-type="doi">10.1111/jcmm.14262</pub-id>
+</mixed-citation>
+</p></notes></front><body><sec id="jcmm14262-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Obesity and type 2 diabetes are characterized by insulin resistance, non&#x02010;alcoholic fatty liver disease and dyslipidaemia, which leads to an increased risk of cardiovascular disease.<xref rid="jcmm14262-bib-0001" ref-type="ref">1</xref> Sterol regulatory element binding protein (SREBPs) are key lipogenic transcription factors that are mainly comprised of SREBP&#x02010;1c and SREBP&#x02010;2 in liver.<xref rid="jcmm14262-bib-0002" ref-type="ref">2</xref>, <xref rid="jcmm14262-bib-0003" ref-type="ref">3</xref> SREBP&#x02010;1c and SREBP&#x02010;2 regulate lipogenic process and cholesterol homeostasis respectively, by activating genes involved in these processes.<xref rid="jcmm14262-bib-0004" ref-type="ref">4</xref> When activated by insulin, the precursors of SREBPs migrate from the endoplasmic reticulum (ER) membrane to the Golgi and undergoes sequential proteolytic processing to release the transcriptionally active N&#x02010;terminal basichelix&#x02010;loop&#x02010;helix (bHLH&#x02010;Zip) domain. The active forms of SREBP&#x02010;1c and SREBP&#x02010;2 translocate into the nucleus, bind to sterol regulatory elements (SREs) present in the promoters of their own and target genes, and activate the transcription of SREBP&#x02010;responsive genes, thereby promoting the lipogenic process in the liver.<xref rid="jcmm14262-bib-0005" ref-type="ref">5</xref> The pathogenesis of hepatic steatosis, dyslipidaemia, and type 2 diabetes is closely related to the dysregulation of SREBPs.<xref rid="jcmm14262-bib-0006" ref-type="ref">6</xref>
+</p><p>The Hippo pathway was initially defined by genetic studies in Drosophila melanogaster, which is an evolutionarily conserved controller of both cell proliferation and apoptosis.<xref rid="jcmm14262-bib-0007" ref-type="ref">7</xref> Sterile 20&#x02010;like kinases Mst1 and Mst2 (Hippo in <italic>Drosophila</italic>), large tumour suppressors Lats1 and Lats2 (Warts in <italic>Drosophila</italic>), Yes&#x02010;associated protein YAP (Yorkie from <italic>Drosophila)</italic> and its PDZ&#x02010;binding motif&#x02010;containing paralogue TAZ represent the core components of the mammalian Hippo pathway. Mst1/2 phosphorylate and activate Lats1/2 kinases, which form a complex with a regulatory protein Mob1 and further induce phosphorylation, nuclear exclusion and proteolytic degradation of YAP/TAZ. As the co&#x02010;activators of the Hippo pathway, YAP/TAZ acts mainly through binding to TEAD family transcription factors to promote proliferation and inhibit apoptosis.<xref rid="jcmm14262-bib-0008" ref-type="ref">8</xref>, <xref rid="jcmm14262-bib-0009" ref-type="ref">9</xref>
+</p><p>YAP (Yorkie) and TAZ, relying on the regulation of Hippo pathway activity, control organ size and tissue homeostasis both in Drosophila and in mammals. Overexpression of YAP (Yorkie) or inactivation of the Hippo signalling pathway results in massive tissue overgrowth and leads to progression of tumorigenesis by promoting cell proliferation.<xref rid="jcmm14262-bib-0008" ref-type="ref">8</xref>, <xref rid="jcmm14262-bib-0010" ref-type="ref">10</xref>, <xref rid="jcmm14262-bib-0011" ref-type="ref">11</xref> Moreover, recent researches have shown that other physiological processes, including cell differentiation, stem cell self&#x02010;renewal, reprogramming and patterning, are also associated with the Hippo pathway.<xref rid="jcmm14262-bib-0007" ref-type="ref">7</xref>, <xref rid="jcmm14262-bib-0014" ref-type="ref">14</xref>, <xref rid="jcmm14262-bib-0015" ref-type="ref">15</xref> A key issue regarding to the Hippo signalling pathway is how this pathway cooperates with other signalling pathways in regulating a variety of processes.</p><p>Recent studies show that in transgenic mice, YAP promotes liver enlargement in a versible manner,<xref rid="jcmm14262-bib-0016" ref-type="ref">16</xref> suggesting that liver size control relies on tight regulation of Hippo pathway activity. Whether YAP affects the hepatocytes metabolism in this process needs further research. In addition, YAP/TAZ activation in tumour cells is promoted by increased levels of mevalonic acid produced by SREBPs transcriptional activity, which is induced by its oncogenic cofactor mutant p53.<xref rid="jcmm14262-bib-0017" ref-type="ref">17</xref> Furthermore, Lats2, a component of Hippo signalling, has been shown to suppress hepatic cholesterol accumulation by inhibiting SREBPs. As there are some connections between Hippo pathway and SREBPs, it is interesting for us to explore the role of Hippo&#x02010;YAP signalling in the lipid and cholesterol metabolism in liver.</p><p>Here, we show that SREBPs act as downstream effectors of Hippo&#x02010;YAP signalling to regulate the triglyceride and cholesterol metabolism of hepatocytes. Activation of Hippo signalling by ad&#x02010;Lats1 or sh&#x02010;YAP ameliorates insulin resistance, hepatic steatosis and hyperlipidaemia in diabetic mice.</p></sec><sec id="jcmm14262-sec-0002"><label>2</label><title>METHOD</title><sec id="jcmm14262-sec-0003"><label>2.1</label><title>Animal protocols and diet</title><p>Male 8&#x02010;week&#x02010;old C57BL/6J background was purchased from BEIJING HUAFUKANG BIOSCIENCE COMPANY and kept on a 12&#x000a0;hours light cycle and given free access to food and water in a dedicated pathogen&#x02010;free animal facility at Huazhong University of Science and Technology (Wuhan, China). All animal experiments were approved by the Animal Care and Use Committee of Wuhan Union Hospital and were conducted in accordance with the National Institutes of Health Guidelines. All mice were divided into three groups: a normal chow diet containing 4% fat (wt/wt) and 72% carbohydrate, a high fat/high sucrose (HFHS) diet and a HFHS diet supplemented with the ad&#x02010;Lats1 or sh&#x02010;YAP. The viruses were administrated via caudal vein injection with 5&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup>&#x000a0;pfu viruses of either control viruses or ad&#x02010;Lats1/sh&#x02010;YAP in a final volume of 200&#x000a0;&#x000b5;L of sterile NaCl 9% per mouse/month. The HFHS diet containing 35.5% fat (primarily lard), 36.6% carbohydrate (primarily sucrose) and no cholesterol (No. F1850, Bioserve, Frenchtown, NJ). Mice were maintained on the treatment for 16&#x000a0;weeks and afterwards were killed under isoflurane anaesthesia. Tissues were rapidly taken, freshly frozen in liquid nitrogen and stored at &#x02212;80&#x000b0;C until needed for immunoblot analysis. Other parts of tissues were fixed for histological and immunohistochemical analysis.</p></sec><sec id="jcmm14262-sec-0004"><label>2.2</label><title>Measurement of blood glucose, insulin level, plasma and liver lipids</title><p>Serum glucose concentrations were measured by FreeStyle blood glucose monitoring system (TheraSense, Alameda, CA). Plasma insulin levels were determined by ELISA (Linco Research, St.Charles, MO). The homeostasis model assessment of insulin resistance (HOMA&#x02010;IR) was calculated as previously described.<xref rid="jcmm14262-bib-0018" ref-type="ref">18</xref> Plasma, liver tissue and hepatocellular triglyceride and cholesterol levels were analysed as described.<xref rid="jcmm14262-bib-0019" ref-type="ref">19</xref>
+</p></sec><sec id="jcmm14262-sec-0005"><label>2.3</label><title>Primary mouse hepatocyte isolation and culture</title><p>Sodium pentobarbital (30&#x000a0;mg/kg intraperitoneally) were used to anaesthetize the C57BL/6 mouse. Primary mouse hepatocytes were isolated and cultured as described previously.<xref rid="jcmm14262-bib-0020" ref-type="ref">20</xref> Cell density was controlled at the same level by cell counting before the experiments.</p></sec><sec id="jcmm14262-sec-0006"><label>2.4</label><title>Antibodies</title><p>Antibodies used for immunoblots were purchased from the indicated companies: p&#x02010;YAP (Ser127) (NO.13008), YAP (NO.14074), Lats1 (NO.3477), pLats1 (Ser909) (NO.9157), and pLats1 (Thr1079) (NO.8654) were from (Cell Signalling Technology). SREBP&#x02010;1 (Cat#557036), SREBP&#x02010;2 (Cat#557037) were from BD Biosciences.</p></sec><sec id="jcmm14262-sec-0007"><label>2.5</label><title>Liver histological and immunohistochemical analysis</title><p>When experimental mice were sacrificed, livers of the mice were rapidly fixed in 10% phosphate&#x02010;buffered formalin acetate at 4&#x000b0;C overnight and embedded in paraffin wax. Paraffin sections (5&#x000a0;&#x003bc;m) were cut and mounted on glass slides. After dehydration, the haematoxylin and eosin and immunohistochemistry staining were made as according to the research.<xref rid="jcmm14262-bib-0019" ref-type="ref">19</xref>
+</p></sec><sec id="jcmm14262-sec-0008"><label>2.6</label><title>Plasmids and small interfering RNA</title><p>The mammalian expression vector for YAP (pcDNA3.0&#x02010;flag&#x02010;YAP1), SREBP&#x02010;1C (pcDNA3.1&#x02010;2&#x000a0;&#x000d7;&#x000a0;flag&#x02010;SREBP&#x02010;1C), SREBP2 (pcDNA3.1&#x02010;2&#x000a0;&#x000d7;&#x000a0;flag&#x02010;SREBP&#x02010;2) and Lats1 (pcDNA Lats1), mut&#x02010;YAP (pCMV&#x02010;flag S127A YAP) was from addgene.</p><p>siRNAsequence: siYAP: 5&#x02032;&#x02010;GCACCUAUCACUCUCGAGA&#x02010;3&#x02032;; siLATS1: 5&#x02032;&#x02010;GAACCAAACUCUCAAACAA&#x02010;3&#x02032;; si&#x02010;SREBP&#x02010;1c: 5&#x02032;&#x02010;CAACCAAGACAGUGACUUC&#x02010;3&#x02032;; si&#x02010;SREBP&#x02010;2: 5&#x02032;&#x02010;CAACAGACGGUAAUGAUCAUU&#x02010;3&#x02032;.</p></sec><sec id="jcmm14262-sec-0009"><label>2.7</label><title>Adenovirus constructs</title><p>Adenovirus harbouring Lats1 (ad&#x02010;Lats1) and adenovirus harbouring shRNA for YAP (Ad&#x02010;sh&#x02010;YAP) were made according to previous research.<xref rid="jcmm14262-bib-0021" ref-type="ref">21</xref>, <xref rid="jcmm14262-bib-0022" ref-type="ref">22</xref>Adeno&#x02010;X Maxi Purification Kit (Clontech) was used to purify the adenoviruses.</p></sec><sec id="jcmm14262-sec-0010"><label>2.8</label><title>Chip and sequential chip</title><p>ChIP and sequential ChIP were conducted according to previous research.<xref rid="jcmm14262-bib-0022" ref-type="ref">22</xref>
+</p><p>ChIP&#x02010;PCR primers: FAS&#x02010;PROMOTER: forward: CTCTCTGGCTCCCTCTAGGC, reverse: GATGGCCGCGGTTTAAATA; HMGCR&#x02010;PROMOTER: forward: TGCTGGGACTCGAACGGCTAT, reverse: TTACGCACGCTCGGAGCTGGAC&#x0ff1b;SREBP&#x02010;1C&#x02010;PROMOTER: forward: GCTCAGGGTGCCAGCGAACCAGTG, reverse: GGGTTACTAGCGGACGTCCGCC; SREBP&#x02010;2&#x02010;PROMOTER: forward: CAGGCATTCGCTCCGAGGC, reverse: TTGTTGTCAATGGGACCAG.</p></sec><sec id="jcmm14262-sec-0011"><label>2.9</label><title>Immunoprecipitation</title><p>Primary mouse hepatocytes lysates were prepared using lysis buffer (50&#x000a0;mmol/L Tris (pH 7.4), 150&#x000a0;mmol/L NaCl, 1% Triton X&#x02010;100 and 1&#x000a0;mmol/L EDTA)and incubated with specific antibodies and protein A/G&#x02010;Sepharose beads at 4&#x000b0;C overnight. After immunoprecipitation, the immunocomplexes were washed with lysis buffer three times and eluted with 2&#x000a0;&#x000d7;&#x000a0;SDS sample buffer. Finally, the precipitates were then analysed by immunoblots.</p></sec><sec id="jcmm14262-sec-0012"><label>2.10</label><title>Transient transfection and dual&#x02010;luciferase assays</title><p>The reporter gene plasmids including human SREBP&#x02010;1c&#x02010;luc, SREBP&#x02010;2&#x02010;luc (including three canonical SREBP&#x02010;1c &#x02010;response elements [SRE]) and the SRE mutant promoter of SREBP&#x02010;1c&#x02010;luc and SREBP&#x02010;2&#x02010;luc in the luciferase reporter vector pGL3&#x02010;Enhancer (Promega) were previously described.<xref rid="jcmm14262-bib-0023" ref-type="ref">23</xref>, <xref rid="jcmm14262-bib-0024" ref-type="ref">24</xref> The FAS&#x02010;Luc and HMGCR&#x02010;Luc reporter plasmid were previously reported.<xref rid="jcmm14262-bib-0025" ref-type="ref">25</xref>, <xref rid="jcmm14262-bib-0026" ref-type="ref">26</xref> Cells were plated on 12&#x02010;well plates and transfected with indicated luciferase vectors and Renilla luciferase plasmid pRL&#x02010;SV40 (Promega) as an internal control, the ratio of luciferase vector and Renilla plasmid was 50:1. The transcriptional activity was determined using a luciferase assay system (Promega).</p></sec><sec id="jcmm14262-sec-0013"><label>2.11</label><title>RNA isolation and quantitative RT&#x02010;PCR</title><p>Total RNA were isolated from cultured HepG2 cells or from mouse livers. Synthesized cDNA was subjected to real&#x02010;time PCR analysis.</p><p>Quantitative PCR primers:</p><p>Mouse: SREBP1a: forward: GGCCGAGATGTGCGAACT, reverse: TTGTTGATGAGCTGGAGCATGT;</p><p>SREBP1c: forward: GGAGCCATGGATTGCACATT, reverse: GGCCCGGGAAGTCACTGT; SREBP2: forward: GCGTTCTGGAGACCATGGA, reverse: ACAAAGTTGCTCTGAAAACAAATCA;</p><p>HMGCR: forward: CTTGTGGAATGCCTTGTGATTG, reverse: AGCCGAAGCAGCACATGAT; HMGCS: forward: GCCGTGAACTGGGTCGAA, reverse: GCATATATAGCAATGTCTCCTGCAA;</p><p>ACC1 forward: TGACAGACTGATCGCAGAGAAAG, reverse: TGGAGAGCCCCACACACA;</p><p>FAS: forward: GCTGCGGAAACTTCAGGAAAT, reverse: AGAGACGTGTCACTCCTGGACTT;</p><p>SCD1: forward: TTCTTCTCTCACGTGGGTTG, reverse: CGGGCTTGTAGTACCTCCTC.</p><p>Beta&#x02010;actin: forward: CCACAGCTGAGAGGGAAATC, reverse: AAGGAAGGCTGGAAAAGAGC.</p><p>Human: HMGCR: forward: TGATTGACCTTTCCAGAGCAAG, reverse: CTAAAATTGCCATTCCACGAGC;</p><p>FAS: forward: AGTACACACCCAAGGCCAAG, reverse: GGATACTTTCCCGTCGCATA.</p><p>Beta&#x02010;actin: forward: GATGAGATTGGCATGGCTTT, reverse: GTCACCTTCACCGTTCCAGT.</p><p>Values were standardized using &#x003b2;&#x02010;actin. Data were analysed using the &#x00394;&#x00394;CT threshold cycle method.</p></sec><sec id="jcmm14262-sec-0014"><label>2.12</label><title>Immunoblot analysis</title><p>Extracts of liver homogenates or cell lysates were prepared using the extraction reagent kit (Pierce Biotechnology Inc) according to the manufacturer's instructions. Equal amounts of protein (10&#x02010;20&#x000a0;&#x000b5;g) were subjected to 10%&#x02013;15% SDS&#x02013;PAGE, transferred to a PVDF membrane and probed with the indicated antibodies.</p></sec><sec id="jcmm14262-sec-0015"><label>2.13</label><title>Statistical analysis</title><p>All values are expressed as mean&#x000a0;&#x000b1;&#x000a0;SEM Statistical analysis between groups was conducted by unpaired Student's <italic>t</italic> test or one&#x02010;way analysis of variance (ANOVA) followed by a Newman&#x02010;Keuls comparison test. Values of <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 were considered to be significant.</p></sec></sec><sec id="jcmm14262-sec-0016"><label>3</label><title>RESULTS</title><sec id="jcmm14262-sec-0017"><label>3.1</label><title>YAP is dephosphorylated and translocates into nucleus of hepatocytes in HFHS&#x02010;fed mice</title><p>The diabetogenic diet composed of high fat and high sucrose (HFHS), previously described to promote obesity and type 2 diabetes in C57BL/6 mice, could induce hepatic steatosis, hyperlipidaemia, insulin resistance and enhanced atherosclerotic plaques in mice.<xref rid="jcmm14262-bib-0027" ref-type="ref">27</xref>, <xref rid="jcmm14262-bib-0028" ref-type="ref">28</xref> In order to explore the phosphorylation status of YAP in diabetic mice, C57BL/6 mice were placed on either a normal chow diet or a HFHS diet for 16&#x000a0;weeks. Immunohistochemistry of the liver showed YAP protein was mainly located in cytoplasm of hepatocytes in mice with normal diet. But in mice fed with HFHS diet, YAP protein accumulated and translocated into nucleus of hepatocytes (Figure <xref rid="jcmm14262-fig-0001" ref-type="fig">1</xref>A). Western blot was also performed and reflected that, in diabetic mice, the YAP protein was increased and dephosphorylated at serine 127 (Figure <xref rid="jcmm14262-fig-0002" ref-type="fig">2</xref>B), which promotes YAP nuclear translocation and activation.<xref rid="jcmm14262-bib-0007" ref-type="ref">7</xref> Furthermore, we cultured the primary hepatocytes of mice and stimulated the cells with mevalonic acid (MVA), which was accumulated in diabetic mice and reported to induced YAP nuclear localization and activation in tumour cells. Immunofluorescence showed YAP was mainly located in cytoplasm of primary hepatocytes and addition of MVA to the culture medium could induce nuclear YAP localization (Figure <xref rid="jcmm14262-fig-0001" ref-type="fig">1</xref>B). Also MVA stimulation dephosphorylated the YAP and increased its mRNA and protein levels apparently (Figure <xref rid="jcmm14262-fig-0001" ref-type="fig">1</xref>D,E). Taken together, these results suggested that YAP was dephosphorylated and translocated into nucleus of hepatocytes of diabetic mice and MVA may be one of the stimulators.</p><fig fig-type="Figure" xml:lang="en" id="jcmm14262-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>YAP protein is dephosphorylated and activated in liver of HFHS diet&#x02010;fed mice. A, Representative immunohistochemical staining for YAP protein in mice with normal diet or HFHS diet. YAP was accumulated in the nucleus of hepatocytes in mice with HFHS diet. Photographs were taken at magnifications of &#x000d7;400. Nuclear YAP were quantified (mean&#x000a0;&#x000b1;&#x000a0;SEM, *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05, vs Normal Diet, Scale bars, 50&#x000a0;&#x003bc;m). B, Primary hepatocytes from mice (n&#x000a0;=&#x000a0;4) were treated with dimethylsulphoxide (DMSO) or with 0.5&#x000a0;mmol/L MVA for 24&#x000a0;h before fixation. Representative images of immunofluorescence for YAP protein were shown. Primary hepatocytes with nuclear YAP were quantified (mean&#x000a0;&#x000b1;&#x000a0;SEM, *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05, vs DMSO, scale bars, 15&#x000a0;&#x003bc;m). C, Western blot analysis of YAP and pYAP (S127) in mice with normal diet or HFHS diet. D, The mRNA levels of YAP in primary hepatocytes from mice (n&#x000a0;=&#x000a0;4) were detected by RT&#x02010;PCR (mean&#x000a0;&#x000b1;&#x000a0;SEM, *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05, vs DMSO). E, Total YAP and pYAP (S127) protein were detected by Western blot</p></caption><graphic id="nlm-graphic-1" xlink:href="JCMM-23-3616-g001"/></fig><fig fig-type="Figure" xml:lang="en" id="jcmm14262-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Lats&#x02010;1 protects against insulin resistance and hepatic steatosis in HFHS diet&#x02010;fed mice. A and B, Plasma insulin levels and blood glucose were assessed in mice fed a normal chow diet with ad&#x02010;con (n&#x000a0;=&#x000a0;15), a HFHS diet with ad&#x02010;con (n&#x000a0;=&#x000a0;30) and a HFHS diet with ad&#x02010;Lats1 (n&#x000a0;=&#x000a0;30). C and D, Time course changes of plasma triglyceride and total cholesterol levels in mice following a 16&#x000a0;h fast (n&#x000a0;=&#x000a0;8&#x02010;16). E and F, mRNA levels of FAS and HMGCR and changes of body weight in mice (n&#x000a0;=&#x000a0;15&#x02010;30). G, Representative gross morphology of the mouse livers, Haematoxylin and eosin staining and oil red O staining of liver sections (n&#x000a0;=&#x000a0;8&#x02010;16). Photographs were taken at magnifications of &#x000d7;200. The degree of lipid infiltration on Haematoxylin and eosin staining was scored, scale bars, 50&#x000a0;&#x003bc;m. Data are shown as mean&#x000a0;&#x000b1;&#x000a0;SEM, *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05, vs normal diet mice with ad&#x02010;con; <sup>#</sup>
+<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05, vs HFHS&#x02010;fed mice with ad&#x02010;con</p></caption><graphic id="nlm-graphic-3" xlink:href="JCMM-23-3616-g002"/></fig></sec><sec id="jcmm14262-sec-0018"><label>3.2</label><title>Phosphorylation of YAP by ad&#x02010;Lats1 improves systemic insulin resistance and hepatic steatosis in diabetic mice</title><p>Lats1, acting directly upstream of the Hippo pathway effector YAP, phosphorylates YAP at Ser127 and induces YAP nuclear exclusion and cytoplasmic retention.<xref rid="jcmm14262-bib-0031" ref-type="ref">31</xref> To research the role of Hippo pathway in the lipid metabolism, we first phosphorylated or knocked down YAP in mice fed with normal chow diet with adenoviruses harbouring Lats1 (ad&#x02010;Lats1) or adenoviruses harbouring shRNA (sh&#x02010;YAP). Results showed neither the plasma triglyceride and cholesterol levels nor the mRNA levels of FAS and HMGCR were not significantly changed (Supplementary Figure <xref rid="jcmm14262-sup-0001" ref-type="supplementary-material">S1</xref>A,B). These phenomena may be due to the YAP protein mainly phosphorylated and accumulated in the cytoplasm, which was an inactivated state.</p><p>Then, we wanted to explore the role of Hippo pathway in the diabetic mice. C57BL/6 mice were fed with either a normal chow diet, a HFHS diet or a HFHS diet for 16&#x000a0;weeks and administrated with ad&#x02010;Lats1 or the control adenoviruses. As shown in Figure <xref rid="jcmm14262-fig-0002" ref-type="fig">2</xref>A,B, ad&#x02010;Lats1 caused an obvious reduction in plasma insulin and a mild decrease in plasma glucose in mice fed with HFHS diet and total plasma cholesterol and triglyceride levels at 12&#x000a0;weeks and 16&#x000a0;weeks apparently decreased by approximately 25% in diabetic mice after ad&#x02010;Lats1 administration (Figure <xref rid="jcmm14262-fig-0002" ref-type="fig">2</xref>C,D). The mRNA levels of FAS and HMGCR in liver, key enzymes for the synthesis of triglyceride and cholesterol, were also reduced by Lats1 overexpression (Figure <xref rid="jcmm14262-fig-0002" ref-type="fig">2</xref>E).Consistently, haematoxylin and eosin (H&#x00026;E) staining and oil red O staining experiments indicated administration of ad&#x02010;Lats1 reduced excess fat accumulation in hepatic intracellular vacuoles (Figure <xref rid="jcmm14262-fig-0002" ref-type="fig">2</xref>G). Due to these physiology changes, the body weight of mice with HFHS diet was mildly decreased by the Lats1 overexpression (Figure <xref rid="jcmm14262-fig-0002" ref-type="fig">2</xref>F). These results demonstrated that ad&#x02010;Lats1 effectively improves HFHS diet&#x02010;induced change of plasma cholesterol and triglyceride levels, hepatic steatosis and insulin resistance in mice.</p><p>Western blot showed HFHS diet induced inactivation and dephosphorylation of Mst1 and Lats1, increased total YAP protein and decreased pYAP protein, suggesting that Hippo signalling was inactivated in the liver of diabetic mice (Figure <xref rid="jcmm14262-fig-0003" ref-type="fig">3</xref>A&#x02010;D). Furthermore, ad&#x02010;Lats1 administration increased phosphorylated Lats1 and YAP protein in mice with HFHS diet, leading to Hippo signalling inactivation (Figure <xref rid="jcmm14262-fig-0003" ref-type="fig">3</xref>A,B). Taken into account previous results, these findings suggests that Lats1 and YAP phosphorylation in hepatocytes may contribute to the alleviated physiology alterations in diabetic mice.</p><fig fig-type="Figure" xml:lang="en" id="jcmm14262-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Hippo signalling is inactivated in the liver of diabetic mice. A&#x02010;D, Immunoblot analysis for YAP, pYAP (S127), p&#x02010;Lats1 (T1041 and S872), Lats1, p&#x02010;Mst1 (Thr183), Mst1 were detected. Quantification of the immunoblots were shown (*<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05, vs normal diet mice with ad&#x02010;con; <sup>#</sup>
+<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05, vs HFHS&#x02010;fed mice with ad&#x02010;con, mean&#x000a0;&#x000b1;&#x000a0;SEM, n&#x000a0;=&#x000a0;4)</p></caption><graphic id="nlm-graphic-5" xlink:href="JCMM-23-3616-g003"/></fig></sec><sec id="jcmm14262-sec-0019"><label>3.3</label><title>Knockdown of YAP ameliorates aberrant lipogenesis and suppresses expression of SREBPs and their target genes in the livers of diabetic mice</title><p>To determine whether the phenotypic alterations of ad&#x02010;Lats1&#x02013;treated mice might be due to the phosphorylation of activated YAP in hepatocytes, we knocked down the YAP protein in mice through administration of sh&#x02010;YAP. C57BL/6 mice were fed with either a normal chow diet, a HFHS diet, or a HFHS diet for 16&#x000a0;weeks, and administrated with sh&#x02010;YAP or the control adenoviruses. Similar to previous results, sh&#x02010;YAP also caused a moderate decrease in the insulin resistance, as the calculated HOMA&#x02010;IR was lower in the sh&#x02010;YAP treated mice (Figure <xref rid="jcmm14262-fig-0004" ref-type="fig">4</xref>A). Administration of sh&#x02010;YAP also lowered the total plasma cholesterol and triglyceride levels in insulin resistant mice after 16&#x000a0;weeks of HFHS diet (Figure <xref rid="jcmm14262-fig-0004" ref-type="fig">4</xref>B,C). The expression of fibrogenic genes, collagen I&#x003b1;1 and TGF&#x02010;&#x003b2;1, were also decreased by YAP knockdown in HFHS&#x02010;fed mice (Figure <xref rid="jcmm14262-fig-0004" ref-type="fig">4</xref>D,E). Haematoxylin and eosin staining and oil red O staining reflected the effective reduction of excess fat accumulation in hepatic intracellular vacuoles in sh&#x02010;YAP treated group (Figure <xref rid="jcmm14262-fig-0004" ref-type="fig">4</xref>F). Western blot revealed that the total YAP and phosphorylated YAP were apparently decreased, which contributed to the above changes (Figure <xref rid="jcmm14262-fig-0004" ref-type="fig">4</xref>G). Thus, these results demonstrated that YAP may function as the terminal effector of the Hippo signalling pathway in mediating the lipogenesis, cholesterol synthesis and hepatic steatosis in diabetic mice.</p><fig fig-type="Figure" xml:lang="en" id="jcmm14262-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>YAP knockdown by sh&#x02010;YAP inhibits expression of SREBPs and their target lipogenic enzymes, and reduces lipid accumulation in the liver of diabetic mice. A, Calculated HOMA&#x02010;IR were assessed in mice fed a normal chow diet with sh&#x02010;con (n&#x000a0;=&#x000a0;15), a HFHS diet with sh&#x02010;con (n&#x000a0;=&#x000a0;15) and a HFHS diet with sh&#x02010;YAP (n&#x000a0;=&#x000a0;20). B and C, Plasma triglyceride and total cholesterol levels in mice following a 16&#x000a0;h fast (n&#x000a0;=&#x000a0;8&#x02010;16). D and E, Gene expression changes related to fibrosis. Liver TGF&#x003b2;1, and collagen I&#x003b1;1 gene expression was determined by real&#x02010;time RT&#x02010;PCR (n&#x000a0;=&#x000a0;10). F, sh&#x02010;YAP treatment inhibits lipid accumulation in the liver of HFHS&#x02010;fed mice. Representative gross morphology of the mouse livers, Haematoxylin and eosin staining and oil red O staining of liver sections. Photographs were taken at magnifications of &#x000d7;200 (n&#x000a0;=&#x000a0;8&#x02010;16). The degree of lipid infiltration on Haematoxylin and eosin staining was scored, scale bars, 50&#x000a0;&#x003bc;m. G, Immunoblot analysis for YAP and pYAP (S127) were detected. H, The transcription of genes involved in triglyceride and cholesterol biosynthesis is decreased in the liver of sh&#x02010;YAP&#x02013;treated mice. The mRNA amounts of genes encoding SREBP&#x02010;1a, SREBP&#x02010;1c and SREBP&#x02010;2, as well as genes encoding ACC1, FAS, SCD1, HMGCS and HMGCR in the mouse livers, were determined by real&#x02010;time RT&#x02010;PCR (n&#x000a0;=&#x000a0;8&#x02010;16). Data are shown as mean&#x000a0;&#x000b1;&#x000a0;SEM, *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05, vs normal diet mice with sh&#x02010;con; <sup>#</sup>
+<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05, vs HFHS&#x02010;fed mice with sh&#x02010;con</p></caption><graphic id="nlm-graphic-7" xlink:href="JCMM-23-3616-g004"/></fig><p>As important metabolic transcription factors, SREBPs play critical roles in the lipogenesis and cholesterol synthesis through activating the relevant enzymes in the insulin resistance mice.<xref rid="jcmm14262-bib-0032" ref-type="ref">32</xref> We have been suggested that the phenotypic alterations of ad&#x02010;Lats1 or sh&#x02010;YAP&#x02013;treated mice might be owed to the inhibition of hyperactive SREBPs in hepatocytes. Previous researches show that the mRNA and protein levels for SREBPs could be increased by themselves via a feed&#x02010;forward mechanism.<xref rid="jcmm14262-bib-0002" ref-type="ref">2</xref> As the antibody used for the Western blot could recognize both SREBP&#x02010;1c and SREBP&#x02010;1a isoforms, we determined the expression of SREBPs with real&#x02010;time PCR. Furthermore, the mRNA levels of SREBP&#x02010;1c and SREBP&#x02010;2, mainly expressed in the liver, and SREBP&#x02010;1a, the less abundant isoform, were detected by real&#x02010;time PCR. As SREBP&#x02010;1a mRNA was not affected by either hyperinsulinaemia or sh&#x02010;YAP, the mRNA levels of hepatic SREBP&#x02010;1c and SREBP&#x02010;2 were apparently increased by the HFHS diet and reduced by sh&#x02010;YAP (Figure <xref rid="jcmm14262-fig-0004" ref-type="fig">4</xref>H). These results suggest that inhibition of YAP down&#x02010;regulates SREBP&#x02010;1c and SREBP&#x02010;2 and thereby inhibits the feed&#x02010;forward transcription of their own genes. In accordance with dynamically altered SREBP&#x02010;1c expression, the mRNA expression of its target genes, including acetyl&#x02010;CoA carboxylase 1 (ACC1), fatty acid synthase (FAS) and stearoyl CoA desaturase 1 (SCD1), which are enzymes involved in fatty acid and triglyceride synthesis, was obviously increased in HFHS&#x02010;fed mice and reduced apparently by administration of sh&#x02010;YAP (Figure <xref rid="jcmm14262-fig-0004" ref-type="fig">4</xref>H). Furthermore, due to the decreased SREBP&#x02010;2, the mRNA levels of two critical enzymes of cholesterol biosynthesis, namely, 30&#x02010;hydroxylmethyl glutaryl coenzyme A synthase (HMGCS) and 30&#x02010;hydroxylmethyl glutaryl coenzyme A reductase (HMGCR), were decreased in diabetic mice with sh&#x02010;YAP (Figure <xref rid="jcmm14262-fig-0004" ref-type="fig">4</xref>H).</p><p>These researches show that YAP knockdown decreases SREBPs expression and down&#x02010;regulates lipogenesis and cholesterol synthesis by suppressing auto&#x02010;loop regulation of SREBPs and decreasing their target genes expression.</p></sec><sec id="jcmm14262-sec-0020"><label>3.4</label><title>YAP binds to SREBPs and functions as a transcriptional co&#x02010;activator of SREBPs</title><p>Since the terminal effector of Hippo signalling pathway, YAP, always functions as a co&#x02010;activator of the transcription factor, we performed co&#x02010;immunoprecipitation assays to confirm that endogenous YAP associates with SREBP&#x02010;1c and SREBP&#x02010;2 in mouse liver hepatocytes (Figure <xref rid="jcmm14262-fig-0005" ref-type="fig">5</xref>A,B). Furthermore, IP showed the pYAP did not bind to SREBPs, demonstrating that only the dephosphorylated and activated YAP could associate with SREBPs (Supplementary Figure <xref rid="jcmm14262-sup-0002" ref-type="supplementary-material">S2</xref>H). Then, we evaluated transcriptional activity of the SREBP1c&#x02010;luciferase reporter gene (S1C&#x02010;luc) driven by three canonical SREBP&#x02010;1cresponse elements (SREs). YAP stimulated SREBP&#x02010;1c transcriptional activity in a dose&#x02010;dependent manner, and this effect was reduced by overexpressing Lats1 (Figure <xref rid="jcmm14262-fig-0005" ref-type="fig">5</xref>C). Similarly, Lats1 could reverse the stimulation effect of YAP on SREBP&#x02010;2&#x02010;luc (S2&#x02010;luc) (Figure <xref rid="jcmm14262-fig-0005" ref-type="fig">5</xref>C). Moreover, mut&#x02010;YAP (S127A), not being dephoryphoslated, could also increase more activity of S1C&#x02010;luc and S2&#x02010;luc, compared with the wild&#x02010;type YAP (Figure <xref rid="jcmm14262-fig-0005" ref-type="fig">5</xref>D). As SREBPs could bind to the promoter region of their own via a feed&#x02010;forward mechanism, chromatin immunoprecipitation (ChIP) was conducted to confirm YAP present at the same region in primary mice hepatocytes. ChIP results showed that YAP was shown at the SREBP&#x02010;binding motifs in the promoter regions of SREBPs and Lats1 overexpression could inhibit the process (Figure <xref rid="jcmm14262-fig-0005" ref-type="fig">5</xref>E). Taken together, these data indicate that YAP binds to SREBP&#x02010;1c and SREBP&#x02010;2, and acts as a transcriptional co&#x02010;activator of these two transcriptional factors.</p><fig fig-type="Figure" xml:lang="en" id="jcmm14262-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>YAP associates with the nuclear forms of SREBP&#x02010;1 and SREBP&#x02010;2 and enhances their activities in hepatocytes. A and B, Primary mouse hepatocytes were prepared and immunoprecipitated with YAP antibody or control IgG. The interaction between SREBP&#x02010;1c, SREBP&#x02010;2 and YAP was examined. Immunoblots of input lysate controls (5% of inputs) are also shown. C, HepG2 cells were co&#x02010;transfected with SREBP&#x02010;1c&#x02010;luc vector and the indicated expression vectors. After 48&#x000a0;h, the luciferase activity was measured, demonstrating that YAP enhanced SREBP&#x02010;1c transcriptional activity. Overexpression of Lats1 inhibited SREBP&#x02010;1c activity (*<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 vs empty vector, <sup>#</sup>
+<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 vs empty vector plus 50&#x000a0;ng YAP, &#x00394;<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 vs empty vector plus 100&#x000a0;ng YAP, mean&#x000a0;&#x000b1;&#x000a0;SEM, n&#x000a0;=&#x000a0;3). HepG2 cells were co&#x02010;transfected with SREBP&#x02010;2&#x02010;luc vector and the indicated expression vectors. After 48&#x000a0;h, the luciferase activity was measured, demonstrating that YAP enhanced SREBP&#x02010;2 transcriptional activity. Overexpression of Lats1 inhibited SREBP&#x02010;2 activity (*<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 vs empty vector, <sup>#</sup>
+<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 vs empty vector plus YAP, mean&#x000a0;&#x000b1;&#x000a0;SEM, n&#x000a0;=&#x000a0;3). D, YAP or mut&#x02010;YAP was co&#x02010;transfected with SREBP&#x02010;1c&#x02010;luc/SREBP&#x02010;2&#x02010;luc vector or mut&#x02010; SREBP&#x02010;1c&#x02010;luc/SREBP&#x02010;2&#x02010;luc vector in HepG2 cells. After 48&#x000a0;h, the luciferase activity was measured (*<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 vs empty vector plus S1C&#x02010;luc, <sup>#</sup>
+<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 vs YAP plus S1C&#x02010;luc, mean&#x000a0;&#x000b1;&#x000a0;SEM, n&#x000a0;=&#x000a0;3). E, ChIP analysis of in vivo YAP binding to the SREBP&#x02010;1c and SREBP&#x02010;2 promoters. Primary hepatocytes were transfected with indicated adenovirus for 48&#x000a0;h. Protein&#x02010;bound chromatin was prepared and immunoprecipitated with IgG and YAP antibodies. Lats1 overexpression attenuated the binding. The relative occupancy on the promoters was compared with the input signal (*<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 vs ad&#x02010;con plus IgG, <sup>#</sup>
+<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 vs ad&#x02010;con plus YAP, mean&#x000a0;&#x000b1;&#x000a0;SEM, n&#x000a0;=&#x000a0;3)</p></caption><graphic id="nlm-graphic-9" xlink:href="JCMM-23-3616-g005"/></fig></sec><sec id="jcmm14262-sec-0021"><label>3.5</label><title>The YAP&#x02010;SREBPs complex mediates SREBP target genes expression in vitro</title><p>To determine the role of YAP in SREBP target genes regulation, ChIP was performed with SREBP&#x02010;1c, SREBP&#x02010;2 and YAP antibodies in primary mice hepatocytes. The SREBP&#x02010;binding motifs present at the promoter of FAS and HMGCR, are essential for their transcriptional regulation in response to insulin.<xref rid="jcmm14262-bib-0002" ref-type="ref">2</xref> ChIP experiments revealed that YAP was present at the SREBP&#x02010;binding motifs at the promoter regions of both FAS and HMGCR (Figure <xref rid="jcmm14262-fig-0006" ref-type="fig">6</xref>A). To determine whether YAP was binding to SREBP&#x02010;1c or SREBP&#x02010;2 on the promoters of FAS or HMGCR, respectively, sequential ChIP experiments were performed. SREBP&#x02010;1c and SREBP&#x02010;2 antibodies were used to conduct the first ChIP, respectively. Then chromatin obtained from the first ChIP was applied to perform the second ChIP with YAP or SREBP antibodies. Results indicated that YAP and SREBPs were located at the same promoter regions of FAS and HMGCR, showing that YAP could bind to the SREBPs and form a complex at their promoters (Figure <xref rid="jcmm14262-fig-0006" ref-type="fig">6</xref>B,C). To further examine the functional role of the complex to regulate FAS and HMGCR, luciferase vectors of FAS (FAS&#x02010;luc) and HMGCR (HMGCR&#x02010;luc), containing one SREBP DNA&#x02010;binding site, were generated. Dual luciferase assay showed SREBP&#x02010;1c overexpression enhanced the FAS&#x02010;luc luciferase activity, and YAP knockdown partially attenuated this effect (Figure <xref rid="jcmm14262-fig-0006" ref-type="fig">6</xref>D). SREBP&#x02010;2 depletion could also abolish the enhancement of YAP on HMGCR&#x02010;luc activity (Figure <xref rid="jcmm14262-fig-0006" ref-type="fig">6</xref>E). RT&#x02010;PCR and Western blot showed YAP knockdown also apparently decreased the mRNA and protein levels of FAS and HMGCR (Figure <xref rid="jcmm14262-fig-0006" ref-type="fig">6</xref>F,G). These data demonstrate that YAP is an essential co&#x02010;activator of SREBP&#x02010;1c and SREBP&#x02010;2 and controls FAS and HMGCR genes expression in hepatocytes.</p><fig fig-type="Figure" xml:lang="en" id="jcmm14262-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>YAP is essential for SREBPs&#x02010;mediated genes expression in vitro. A, ChIP analysis of in vivo YAP and SREBP&#x02010;1c and SREBP&#x02010;2 binding to the FAS and HMGCR promoters. Protein&#x02010;bound chromatin was prepared from primary hepatocytes and immunoprecipitated with IgG and YAP antibodies. The relative occupancy on the promoters was compared with the input signal (*<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 vs IgG (FAS&#x02010;promoter), <sup>#</sup>
+<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 vs IgG (HMGCR&#x02010;promoter), mean&#x000a0;&#x000b1;&#x000a0;SEM, n&#x000a0;=&#x000a0;3). B and C, For sequential ChIP, the protein&#x02010;bound chromatin was first immunoprecipitated with the SREBP&#x02010;1c or SREBP&#x02010;2 antibody in primary hepatocytes. The second ChIP was then performed on the chromatin eluted from the first ChIP by immunoprecipitating it with the YAP, SREBP&#x02010;1c or SREBP&#x02010;2 antibody. Normal IgG was used as a negative control. The relative occupancy on the promoters was compared with the input signal (*<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 vs IgG, <sup>#</sup>
+<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 vs SREBP&#x02010;1c (B) or SREBP&#x02010;2 (C), mean&#x000a0;&#x000b1;&#x000a0;SEM, n&#x000a0;=&#x000a0;3). D, HepG2 cells were transfected with the FAS&#x02010;luc vector and the indicated vectors and siRNAs. After 48&#x000a0;h, luciferase activity was measured (*<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 vs empty vector plus si&#x02010;con, <sup>#</sup>
+<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 vs 50&#x000a0;ng nSREBP&#x02010;1c plus si&#x02010;con, &#x00394;<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 vs 100&#x000a0;ng nSREBP&#x02010;1c plus si&#x02010;con, mean&#x000a0;&#x000b1;&#x000a0;SEM, n&#x000a0;=&#x000a0;3). E, HepG2 cells were transfected with the HMGCR&#x02010;luc vector and the indicated vectors and siRNAs. After 48&#x000a0;h, luciferase activity was measured (*<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 vs empty vector plus si&#x02010;con, <sup>#</sup>
+<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 vs 50&#x000a0;ng YAP plus si&#x02010;con, &#x00394;<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 vs 100&#x000a0;ng YAP plus si&#x02010;con, mean&#x000a0;&#x000b1;&#x000a0;SEM, n&#x000a0;=&#x000a0;3). F, Primary hepatocytes transfected with the sh&#x02010;YAP were exposed to high glucose (HG) plus insulin. After 24&#x000a0;h, mRNA levels of FAS and HMGCR were detected by RT&#x02010;PCR (*<italic>P&#x000a0;</italic>&#x0003c;&#x000a0;0.05 vs control group, <sup>#</sup>
+<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 vs HG + insulin group, mean&#x000a0;&#x000b1;&#x000a0;SEM, n&#x000a0;=&#x000a0;3). G, Protein levels of FAS and HMGCR exposed to HG plus insulin were inhibited by sh&#x02010;YAP treatment in primary hepatocytes.</p></caption><graphic id="nlm-graphic-11" xlink:href="JCMM-23-3616-g006"/></fig></sec><sec id="jcmm14262-sec-0022"><label>3.6</label><title>Hippo signalling suppresses SREBPs target genes expression</title><p>We next explored the way Hippo signalling pathway regulates FAS and HMGCR expression. ChIP assays showed that Lats1 overexpression apparently decreased the quantity of YAP present at the SREBP&#x02010;binding sites in the promoter regions of FAS and HMGCR (Figure <xref rid="jcmm14262-fig-0007" ref-type="fig">7</xref>A,B). Lats1 knockdown in HepG2 cells enhanced the FAS&#x02013;luc transcriptional activity, and this effect was completely abolished by down&#x02010;regulation of either YAP or SREBP&#x02010;1c at the same time (Figure <xref rid="jcmm14262-fig-0007" ref-type="fig">7</xref>C). Furthermore, as high glucose (30&#x000a0;mmol/L) and insulin increase the mRNA levels of both FAS and HMGCR through nuclear translocation of SREBPs, Lats1 overexpression reversed these effects (Figure <xref rid="jcmm14262-fig-0007" ref-type="fig">7</xref>D,E). FAS and HMGCR can effectively promote lipogenesis and cholesterol synthesis, leading to the formation of lipid droplets in HepG2 cells exposed to high glucose and insulin. And lipid accumulation was substantially increased by Lats1 knockdown, an effect that was completely reversed by simultaneous down&#x02010;regulation of YAP or SREBP&#x02010;1c in HepG2 cells in response to glucose and insulin treatment (Figure <xref rid="jcmm14262-fig-0007" ref-type="fig">7</xref>F). These results suggest that Hippo signalling activation impairs lipogenesis through suppression of YAP&#x02010;SREBP complexes.</p><fig fig-type="Figure" xml:lang="en" id="jcmm14262-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Hippo inactivation promotes SREBPs activity and hepatocyte lipogenesis in vitro. A and B, ChIP analysis of in vivo YAP binding to the FAS and HMGCR promoters. Primary hepatocytes were transfected with the indicated adenovirus for 48&#x000a0;h. Protein&#x02010;bound chromatin was prepared and immunoprecipitated with IgG and YAP antibodies. Lats1 overexpression attenuated the binding. The relative occupancy on the promoters was compared with the input signal (*<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 vs ad&#x02010;con plus IgG, <sup>#</sup>
+<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 vs ad&#x02010;con plus YAP, mean&#x000a0;&#x000b1;&#x000a0;SEM, n&#x000a0;=&#x000a0;3). C, HepG2 cells were transfected with the FAS&#x02010;luc vector and the indicated si&#x02010;RNAs. After 48&#x000a0;h, luciferase activity was measured (*<italic>P&#x000a0;</italic>&#x0003c;&#x000a0;0.05 vs si&#x02010;con, <sup>#</sup>
+<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 vs si&#x02010;Lats1, mean&#x000a0;&#x000b1;&#x000a0;SEM, n&#x000a0;=&#x000a0;3). D, Overexpression of Lats1 reduced FAS and HMGCR mRNA and protein levels. Primary hepatocytes were exposed to high glucose (HG) plus insulin transfected with the ad&#x02010;Lats1. After 24&#x000a0;h, mRNA levels of FAS and HMGCR were detected by RT&#x02010;PCR (*<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 vs control group, <sup>#</sup>
+<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 vs HG + insulin group, mean&#x000a0;&#x000b1;&#x000a0;SEM, n&#x000a0;=&#x000a0;3). E, Protein levels of FAS and HMGCR exposed to HG plus insulin were inhibited by ad&#x02010;Lats treatment in primary hepatocytes. F, Knockdown of Lats1 increase lipid accumulation in HepG2 cells exposed to HG plus insulin, as reflected by oil red O staining, whereas knockdown of YAP or SREBP&#x02010;1c reverse this effect. Photographs were taken at magnifications of &#x000d7;400, scale bars, 50&#x000a0;&#x003bc;m</p></caption><graphic id="nlm-graphic-13" xlink:href="JCMM-23-3616-g007"/></fig></sec></sec><sec id="jcmm14262-sec-0023"><label>4</label><title>DISCUSSION</title><p>Our results reveal that there is a close connection between the Hippo&#x02010;YAP signalling pathway and SREBPs in lipid metabolism of hepatocytes. We discovered that YAP is a novel coactivator of SREBP&#x02010;1c and SREBP&#x02010;2 and that the YAP&#x02010;SREBP complexes bind to their own and their target genes&#x02019; promoters &#x02013;including FAS and HMGCR&#x02014;a step that is essential for expression of key enzymes for lipogenesis and cholesterol synthesis in hepatocytes. Activation of the Hippo&#x02010;YAP signalling pathway by Lats1 overexpression or YAP knockdown in diet induced diabetic mice inhibits the YAP&#x02010;SREBP complexes and inactivates expression of SREBP target genes, thereby down&#x02010;regulating hepatic and plasma triglyceride and cholesterol levels. This down&#x02010;regulation of lipid levels alleviates hepatic steatosis and insulin resistance in diabetic mice.</p><p>Recent researches indicate that YAP activity is regulated by the SREBP/mevalonate pathway in many tumour cells, such as breast cancer cells. Increased mevalonic acid could promote YAP nuclear translocation and regulate tumour cells proliferation. Oncogenic mutant p53, acting as a positive transcriptional cofactor for SREBPs, leads to the increased mevalonic acid and promotes YAP activity in tumour cells.<xref rid="jcmm14262-bib-0017" ref-type="ref">17</xref> These results reveal a tight connection between YAP activity and cell lipid and cholesterol metabolism.</p><p>In our researches, we discover that YAP could also be activated by mevalonic acid in primary mice hepatocytes. And in mice fed with HFHS diet, YAP is activated and translocated from cytoplasm into nucleus of hepatocytes, which may be attributed to the increased plasm and liver cholesterol. Although the mevalonic acid regulates YAP phosphorylation and activity independently of Lats1/2 kinases in tumour cells, the directly upstream regulator of the pathway effector YAP is also dephosphorylated and inactivated in HFHS fed mice, contributing to the YAP nuclear translocation and activation. The mechanism of dephosphorylation of both Lats1/2 and Mst1/2 still need exploring. In line with this, statins, inhibiting the enzyme HMG&#x02010;CoA reductase to lower cellular cholesterol levels, may also regulate YAP nuclear translocation in normal hepatocytes. These results manifest that Hippo&#x02010;YAP signalling may have important implications in metabolic diseases.</p><p>YAP, which binds to many transcription factors including the Runx family and TEAD, is negatively regulated by the Hippo signalling pathway and has redundant roles in several biological events, including tumorigenesis.<xref rid="jcmm14262-bib-0033" ref-type="ref">33</xref>, <xref rid="jcmm14262-bib-0034" ref-type="ref">34</xref> However, there has been no research into the role of Hippo signalling in cell metabolism. SREBP&#x02010;1c and SREBP&#x02010;2 are important transcription factors in lipid and cholesterol metabolism of hepatocytes, which plays a critical role in diabetic mice. In diabetic mice, Hippo signalling is inhibited and YAP is dephosphorylated and translocates into the nucleus of hepatocytes, functioning as a co&#x02010;activator of SREBP&#x02010;1c and SREBP&#x02010;2, which contributes to lipogenesis and cholesterol synthesis. As the relationship of Hippo pathway and many other nutrients metabolism still remains unclear, it would be interesting to explore the role of Hippo&#x02010;YAP signalling in other cell metabolic processes, such as proteometabolism and glycometabolism. Whether YAP could be a regulator for these processes needs further research.</p><p>In a recent research, Lats2 was shown to inhibit SREBPs and suppresses hepatic cholesterol accumulation through a Lats2&#x02010;p53 axis.<xref rid="jcmm14262-bib-0035" ref-type="ref">35</xref> Mice harbouring liver&#x02010;specific Lats2 conditional knockout displayed SREBP activation, leading to spontaneous fatty liver disease.<xref rid="jcmm14262-bib-0035" ref-type="ref">35</xref> Furthermore, only Lats2, not Lats1, could inhibit SREBPs and suppress hepatic cholesterol accumulation. This phenomenon suggests that the directly upstream regulator of YAP can suppress SREBPs independently of Hippo&#x02010;YAP signalling. Here, we showed that both MVA stimulation and Lats1 dephosphorylation in HFHS diet fed mice could activate YAP and promote SREBPs transcriptional activity in mice. So, SREBPs may be regulated by the components of the Hippo signalling through different mechanism, which may be stimulus&#x02010;specific or coordinately regulated by the triglyceride and cholesterol metabolism of hepatocytes.</p><p>Cancer cells share many common characteristic alterations in metabolism. Cellular proliferation is the common feature of all cancer cells, requiring fatty acids for synthesis of membranes and signalling molecules.<xref rid="jcmm14262-bib-0036" ref-type="ref">36</xref> Enhanced denovo lipogenesis is a key feature of cancer cells. Key enzymes related to fatty acid synthesis, such as FAS, ACC and SCD, are highly expressed in many cancer cells. The master transcriptional regulator is SREBP&#x02010;1c, and suppressing SREBP&#x02010;1c in cancer cells prevents fatty acid synthesis, leading to inhibition of cancer cell proliferation.<xref rid="jcmm14262-bib-0037" ref-type="ref">37</xref>, <xref rid="jcmm14262-bib-0038" ref-type="ref">38</xref> In addition, increasing lines of evidence suggest that the hyperactivation of YAP, due to inactivation of Hippo signalling, promotes cell proliferation and acts as a tumour promoter in many organs.<xref rid="jcmm14262-bib-0007" ref-type="ref">7</xref> Thus, it is tempting to speculate that YAP&#x02010;SREBPs complex may regulate tumorigenesis through controlling cell lipogenesis genes.</p><p>LXR&#x003b1; regulates fatty acid and triglyceride synthesis, as it induces SREBP&#x02010;1c activation and expression via an LXR response element in its promoter.<xref rid="jcmm14262-bib-0041" ref-type="ref">41</xref>, <xref rid="jcmm14262-bib-0042" ref-type="ref">42</xref> mTORC1 is also an critical controller of SREBP&#x02010;1c since it can activate SREBP&#x02010;1c transcription in response to insulin stimulation.<xref rid="jcmm14262-bib-0043" ref-type="ref">43</xref> Here, we show that YAP functions as a coactivator of SREBPs and YAP knockdown decreases their activities. These multiple transcriptional controllers of SREBPs may control their expression in a coordinated and stimulus&#x02010;specific manner.</p><p>It is known that SREBPs are associated with the SREBP cleavage activating protein (SCAP) and ER retention protein called Insig.<xref rid="jcmm14262-bib-0044" ref-type="ref">44</xref> To be activated, the SREBP&#x02010;SCAP complex should dissociate from Insig, associate with COPII&#x02010;coated vesicles and then migrate to the Golgi apparatus for proteolytic activation.<xref rid="jcmm14262-bib-0045" ref-type="ref">45</xref> We here showed that diabetic mice with ad&#x02010;Lats1 or sh&#x02010;YAP share some features with SCAP knockout mice or transgenic mice overexpressing Insig&#x02010;1, decreased nSREBPs.<xref rid="jcmm14262-bib-0046" ref-type="ref">46</xref>, <xref rid="jcmm14262-bib-0047" ref-type="ref">47</xref> In addition to the transcriptional regulation, it would be of interest to determine whether Hippo signalling regulates SREBPs proteolytic processing in hepatocytes.</p><p>In conclusion, our research reveals a novel relationship between the Hippo pathway and SREBPs through YAP, and describes the mechanism of this regulation in the pathogenesis of diabetic mice. We speculate that the connection between YAP and SREBPs is a point of convergence that allows Hippo pathway to precisely control many biological processes in metabolic disease.</p></sec><sec sec-type="COI-statement" id="jcmm14262-sec-0024"><title>CONFLICT OF INTEREST</title><p>The authors declare that there is no conflict of interest that could be perceived as prejudicing the impartiality of the research reported.</p></sec><sec id="jcmm14262-sec-0025"><title>AUTHORS' CONTRIBUTIONS</title><p>Wenqian Xiong and Zhiping Shu designed and performed the research. Wenqian Xiong analysed the data and wrote the paper. Xiaohua Zhu and Yuan Gao contributed the animal study. Guopeng Zhang, Yu Zhou, Jing Cao and Dongyi Wan reviewed the manuscript. All authors read and approved the final manuscript.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="jcmm14262-sup-0001"><caption><p>&#x000a0;</p></caption><media xlink:href="JCMM-23-3616-s001.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="jcmm14262-sup-0002"><caption><p>&#x000a0;</p></caption><media xlink:href="JCMM-23-3616-s002.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="jcmm14262-sec-0026"><title>ACKNOWLEDGEMENTS</title><p>This project was supported by the National Natural Science Foundation of China (Grant No. 81701417 Wenqian Xiong).</p></ack><ref-list content-type="cited-references" id="jcmm14262-bibl-0001"><title>REFERENCES</title><ref id="jcmm14262-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0001">
+<string-name>
+<surname>Semenkovich</surname>
+<given-names>CF</given-names>
+</string-name>. <article-title>Insulin resistance and atherosclerosis</article-title>. <source xml:lang="en">J Clin Invest</source>. <year>2006</year>;<volume>116</volume>:<fpage>1813</fpage>&#x02010;<lpage>1822</lpage>.<pub-id pub-id-type="pmid">16823479</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0002">
+<string-name>
+<surname>Horton</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Goldstein</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>
+<given-names>MS</given-names>
+</string-name>. <article-title>SREBPs: activators of the complete program of cholesterol and fatty acid synthesis in the liver</article-title>. <source xml:lang="en">J Clin Invest</source>. <year>2002</year>;<volume>109</volume>:<fpage>1125</fpage>&#x02010;<lpage>1131</lpage>.<pub-id pub-id-type="pmid">11994399</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0003">
+<string-name>
+<surname>Radhakrishnan</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Goldstein</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>McDonald</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>
+<given-names>MS</given-names>
+</string-name>. <article-title>Switch&#x02010;like control of SREBP&#x02010;2 transport triggered by small changes in ER cholesterol: a delicate balance</article-title>. <source xml:lang="en">Cell Metab</source>. <year>2008</year>;<volume>8</volume>:<fpage>512</fpage>&#x02010;<lpage>521</lpage>.<pub-id pub-id-type="pmid">19041766</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0004">
+<string-name>
+<surname>Stoeckman</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name>
+<surname>Towle</surname>
+<given-names>HC</given-names>
+</string-name>. <article-title>The role of SREBP&#x02010;1c in nutritional regulation of lipogenic enzyme gene expression</article-title>. <source xml:lang="en">J Biol Chem</source>. <year>2002</year>;<volume>277</volume>:<fpage>27029</fpage>&#x02010;<lpage>27035</lpage>.<pub-id pub-id-type="pmid">12016216</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0005">
+<string-name>
+<surname>Sakakura</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Shimano</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Sone</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Sterol regulatory element&#x02010;binding proteins induce an entire pathway of cholesterol synthesis</article-title>. <source xml:lang="en">Biochem Biophys Res Commun</source>. <year>2001</year>;<volume>286</volume>:<fpage>176</fpage>&#x02010;<lpage>183</lpage>.<pub-id pub-id-type="pmid">11485325</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0006">
+<string-name>
+<surname>Eberl&#x000e9;</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Hegarty</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Bossard</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Ferr&#x000e9;</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Foufelle</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>SREBP transcription factors: master regulators of lipid homeostasis</article-title>. <source xml:lang="en">Biochimie</source>. <year>2004</year>;<volume>86</volume>:<fpage>839</fpage>&#x02010;<lpage>848</lpage>.<pub-id pub-id-type="pmid">15589694</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0007">
+<string-name>
+<surname>Pan</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>The hippo signaling pathway in development and cancer</article-title>. <source xml:lang="en">Dev Cell</source>. <year>2010</year>;<volume>19</volume>:<fpage>491</fpage>&#x02010;<lpage>505</lpage>.<pub-id pub-id-type="pmid">20951342</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0008">
+<string-name>
+<surname>Edgar</surname>
+<given-names>BA</given-names>
+</string-name>. <article-title>From cell structure to transcription: Hippo forges a new path</article-title>. <source xml:lang="en">Cell</source>. <year>2006</year>;<volume>124</volume>:<fpage>267</fpage>&#x02010;<lpage>273</lpage>.<pub-id pub-id-type="pmid">16439203</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0009">
+<string-name>
+<surname>Harvey</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Tapon</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>The Salvador&#x02010;Warts&#x02010;Hippo pathway &#x02010; an emerging tumour&#x02010;suppressor network</article-title>. <source xml:lang="en">Nat Rev Cancer</source>. <year>2007</year>;<volume>7</volume>:<fpage>182</fpage>&#x02010;<lpage>191</lpage>.<pub-id pub-id-type="pmid">17318211</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0010">
+<string-name>
+<surname>Camargo</surname>
+<given-names>FD</given-names>
+</string-name>, <string-name>
+<surname>Gokhale</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Johnnidis</surname>
+<given-names>JB</given-names>
+</string-name>, et al. <article-title>YAP1 increases organ size and expands undifferentiated progenitor cells</article-title>. <source xml:lang="en">Curr Biol</source>. <year>2007</year>;<volume>17</volume>:<fpage>2054</fpage>&#x02010;<lpage>2060</lpage>.<pub-id pub-id-type="pmid">17980593</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0011">
+<string-name>
+<surname>Zhao</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Wei</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>Inactivation of YAP oncoprotein by the Hippo pathway is involved in cell contact inhibition and tissue growth control</article-title>. <source xml:lang="en">Genes Dev</source>. <year>2007</year>;<volume>21</volume>:<fpage>2747</fpage>&#x02010;<lpage>2761</lpage>.<pub-id pub-id-type="pmid">17974916</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0012">
+<string-name>
+<surname>Zhou</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Conrad</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Xia</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Mst1 and Mst2 maintain hepatocyte quiescence and suppress hepatocellular carcinoma development through inactivation of the Yap1 oncogene</article-title>. <source xml:lang="en">Cancer Cell</source>. <year>2009</year>;<volume>16</volume>:<fpage>425</fpage>&#x02010;<lpage>438</lpage>.<pub-id pub-id-type="pmid">19878874</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0013">
+<string-name>
+<surname>Zhang</surname>
+<given-names>WQ</given-names>
+</string-name>, <string-name>
+<surname>Dai</surname>
+<given-names>YY</given-names>
+</string-name>, <string-name>
+<surname>Hsu</surname>
+<given-names>PC</given-names>
+</string-name>, et al. <article-title>Targeting YAP in malignant pleural mesothelioma</article-title>. <source xml:lang="en">J Cell Mol Med</source>. <year>2017</year>;<volume>21</volume>:<fpage>2663</fpage>&#x02010;<lpage>2676</lpage>.<pub-id pub-id-type="pmid">28470935</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0014">
+<string-name>
+<surname>Hong</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Hwang</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name>
+<surname>McManus</surname>
+<given-names>MT</given-names>
+</string-name>, et al. <article-title>TAZ, a transcriptional modulator of mesenchymal stem cell differentiation</article-title>. <source xml:lang="en">Science</source>. <year>2005</year>;<volume>309</volume>:<fpage>1074</fpage>&#x02010;<lpage>1078</lpage>.<pub-id pub-id-type="pmid">16099986</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0015">
+<string-name>
+<surname>Nishioka</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Inoue</surname>
+<given-names>K&#x02010;I</given-names>
+</string-name>, <string-name>
+<surname>Adachi</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>The Hippo signaling pathway components Lats and Yap pattern Tead4 activity to distinguish mouse trophectoderm from inner cell mass</article-title>. <source xml:lang="en">Dev Cell</source>. <year>2009</year>;<volume>16</volume>:<fpage>398</fpage>&#x02010;<lpage>410</lpage>.<pub-id pub-id-type="pmid">19289085</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0016">
+<string-name>
+<surname>Dong</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Feldmann</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Elucidation of a universal size&#x02010;control mechanism in Drosophila and mammals</article-title>. <source xml:lang="en">Cell</source>. <year>2007</year>;<volume>130</volume>:<fpage>1120</fpage>.<pub-id pub-id-type="pmid">17889654</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0017">
+<string-name>
+<surname>Sorrentino</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Ruggeri</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Specchia</surname>
+<given-names>V</given-names>
+</string-name>, et al. <article-title>Metabolic control of YAP and TAZ by the mevalonate pathway</article-title>. <source xml:lang="en">Nat Cell Biol</source>. <year>2014</year>;<volume>16</volume>:<fpage>357</fpage>&#x02010;<lpage>366</lpage>.<pub-id pub-id-type="pmid">24658687</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0018">
+<string-name>
+<surname>Huang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Dedousis</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>O'Doherty</surname>
+<given-names>RM</given-names>
+</string-name>. <article-title>Hepatic steatosis and plasma dyslipidemia induced by a high&#x02010;sucrose diet are corrected by an acute leptin infusion</article-title>. <source xml:lang="en">J Appl Physiol</source>. <year>2007</year>;<volume>102</volume>:<fpage>2260</fpage>&#x02010;<lpage>2265</lpage>.<pub-id pub-id-type="pmid">17363621</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0019">
+<string-name>
+<surname>Li</surname>
+<given-names>Yu</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Mihaylova</surname>
+<given-names>MM</given-names>
+</string-name>, et al. <article-title>AMPK phosphorylates and inhibits SREBP activity to attenuate hepatic steatosis and atherosclerosis in diet&#x02010;induced insulin resistant mice</article-title>. <source xml:lang="en">Cell Metab</source>. <year>2011</year>;<volume>13</volume>:<fpage>376</fpage>&#x02010;<lpage>388</lpage>.<pub-id pub-id-type="pmid">21459323</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0020">
+<string-name>
+<surname>Radaeva</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Jaruga</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Hong</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Interferon&#x02010;&#x003b1; activates multiple STAT signals and down&#x02010;regulates c&#x02010;Met in primary human hepatocytes</article-title>. <source xml:lang="en">Gastroenterology</source>. <year>2002</year>;<volume>122</volume>:<fpage>1020</fpage>&#x02010;<lpage>1034</lpage>.<pub-id pub-id-type="pmid">11910354</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0021">
+<string-name>
+<surname>Matsui</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Nakano</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Shao</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Lats2 is a negative regulator of myocyte size in the heart</article-title>. <source xml:lang="en">Circ Res</source>. <year>2011</year>;<volume>103</volume>:<fpage>1309</fpage>&#x02010;<lpage>1318</lpage>.</mixed-citation></ref><ref id="jcmm14262-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0022">
+<string-name>
+<surname>Shao</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Zhai</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Re</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>A functional interaction between hippo&#x02010;YAP signaling and Foxo1 mediates the oxidative stress response</article-title>. <source xml:lang="en">Nat Commun</source>. <year>2014</year>;<volume>5</volume>:<fpage>3315</fpage>.<pub-id pub-id-type="pmid">24525530</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0023">
+<string-name>
+<surname>Sato</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Inoue</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kawabe</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Kodama</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Takano</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Maeda</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Sterol&#x02010;dependent transcriptional regulation of sterol regulatory element&#x02010;binding protein&#x02010;2</article-title>. <source xml:lang="en">J Biol Chem</source>. <year>1996</year>;<volume>271</volume>:<fpage>26461</fpage>&#x02010;<lpage>26464</lpage>.<pub-id pub-id-type="pmid">8900111</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0024">
+<string-name>
+<surname>Dif</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Euthine</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Gonnet</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Laville</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Vidal</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Lefai</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Insulin activates human sterol&#x02010;regulatory&#x02010;element&#x02010;binding protein&#x02010;1c (SREBP&#x02010;1c) promoter through SRE motifs</article-title>. <source xml:lang="en">Biochem J</source>. <year>2006</year>;<volume>400</volume>:<fpage>179</fpage>&#x02010;<lpage>188</lpage>.<pub-id pub-id-type="pmid">16831124</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0025">
+<string-name>
+<surname>Howe</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Sharpe</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name>
+<surname>Prabhu</surname>
+<given-names>AV</given-names>
+</string-name>, et al. <article-title>New insights into cellular cholesterol acquisition: Promoter analysis of human HMGCR and SQLE, two key control enzymes in cholesterol synthesis</article-title>. <source xml:lang="en">Biochem Biophys Acta</source>. <year>2017</year>;<volume>1862</volume>:<fpage>647</fpage>-<lpage>657</lpage>.</mixed-citation></ref><ref id="jcmm14262-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0026">
+<string-name>
+<surname>Joseph</surname>
+<given-names>SB</given-names>
+</string-name>, <string-name>
+<surname>Laffitte</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name>
+<surname>Patel</surname>
+<given-names>PH</given-names>
+</string-name>, et al. <article-title>Direct and indirect mechanisms for regulation of fatty acid synthase gene expression by liver X receptors</article-title>. <source xml:lang="en">J Biol Chem</source>. <year>2002</year>;<volume>277</volume>:<fpage>11019</fpage>.<pub-id pub-id-type="pmid">11790787</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0027">
+<string-name>
+<surname>Schreyer</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Chua</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Leboeuf</surname>
+<given-names>RC</given-names>
+</string-name>. <article-title>Obesity and diabetes in TNF&#x02010;&#x003b1; receptor&#x02010; deficient mice</article-title>. <source xml:lang="en">J Clin Invest</source>. <year>1998</year>;<volume>102</volume>:<fpage>402</fpage>&#x02010;<lpage>411</lpage>.<pub-id pub-id-type="pmid">9664082</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0028">
+<string-name>
+<surname>Surwit</surname>
+<given-names>Rs</given-names>
+</string-name>, <string-name>
+<surname>Seldin</surname>
+<given-names>Mf</given-names>
+</string-name>, <string-name>
+<surname>Kuhn</surname>
+<given-names>Cm</given-names>
+</string-name>, <string-name>
+<surname>Cochrane</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Feinglos</surname>
+<given-names>Mn</given-names>
+</string-name>. <article-title>Control of expression of insulin resistance and hyperglycemia by different genetic factors in diabetic C57BL/6J mice</article-title>. <source xml:lang="en">Diabetes</source>. <year>1991</year>;<volume>40</volume>:<fpage>82</fpage>.<pub-id pub-id-type="pmid">2015977</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0029">
+<string-name>
+<surname>Schreyer</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name>
+<surname>Leboeuf</surname>
+<given-names>RC</given-names>
+</string-name>. <article-title>C57BL/6 mice fed high fat diets as models for diabetes&#x02010;accelerated atherosclerosis</article-title>. <source xml:lang="en">Atherosclerosis</source>. <year>1998</year>;<volume>136</volume>:<fpage>17</fpage>&#x02010;<lpage>24</lpage>.<pub-id pub-id-type="pmid">9544727</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0030">
+<string-name>
+<surname>Surwit</surname>
+<given-names>Rs</given-names>
+</string-name>, <string-name>
+<surname>Kuhn</surname>
+<given-names>Cm</given-names>
+</string-name>, <string-name>
+<surname>Cochrane</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>McCubbin</surname>
+<given-names>Ja</given-names>
+</string-name>, <string-name>
+<surname>Feinglos</surname>
+<given-names>Mn</given-names>
+</string-name>. <article-title>Diet&#x02010;induced type II diabetes in C57BL/6J mice</article-title>. <source xml:lang="en">Diabetes</source>. <year>1988</year>;<volume>37</volume>:<fpage>1163</fpage>&#x02010;<lpage>1167</lpage>.<pub-id pub-id-type="pmid">3044882</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0031">
+<string-name>
+<surname>Meng</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Moroishi</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Guan</surname>
+<given-names>KL</given-names>
+</string-name>. <article-title>Mechanisms of Hippo pathway regulation</article-title>. <source xml:lang="en">Genes Dev</source>. <year>2016</year>;<volume>30</volume>:<fpage>3616</fpage>&#x02010;<lpage>17</lpage>.</mixed-citation></ref><ref id="jcmm14262-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0032">
+<string-name>
+<surname>Van Rooyen</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Farrell</surname>
+<given-names>GC</given-names>
+</string-name>. <article-title>SREBP&#x02010;2: a link between insulin resistance, hepatic cholesterol, and inflammation in NASH</article-title>. <source xml:lang="en">J Gastroenterol Hepatol</source>. <year>2011</year>;<volume>26</volume>:<fpage>789</fpage>&#x02010;<lpage>792</lpage>.<pub-id pub-id-type="pmid">21488942</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0033">
+<string-name>
+<surname>Zhang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>C&#x02010;Y</given-names>
+</string-name>, <string-name>
+<surname>Zha</surname>
+<given-names>Z&#x02010;Y</given-names>
+</string-name>, et al. <article-title>TEAD transcription factors mediate the function of TAZ in cell growth and epithelial&#x02010;mesenchymal transition</article-title>. <source xml:lang="en">J Biol Chem</source>. <year>2009</year>;<volume>284</volume>:<fpage>13355</fpage>&#x02010;<lpage>13362</lpage>.<pub-id pub-id-type="pmid">19324877</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0034">
+<string-name>
+<surname>Zhao</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Lei</surname>
+<given-names>QY</given-names>
+</string-name>, <string-name>
+<surname>Guan</surname>
+<given-names>KL</given-names>
+</string-name>. <article-title>The Hippo&#x02013;YAP pathway: new connections between regulation of organ size and cancer</article-title>. <source xml:lang="en">Curr Opin Cell Biol</source>. <year>2008</year>;<volume>20</volume>:<fpage>638</fpage>.<pub-id pub-id-type="pmid">18955139</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0035">
+<string-name>
+<surname>Aylon</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Gershoni</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Rotkopf</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>The LATS2 tumor suppressor inhibits SREBP and suppresses hepatic cholesterol accumulation</article-title>. <source xml:lang="en">Genes Dev</source>. <year>2016</year>;<volume>30</volume>:<fpage>786</fpage>.<pub-id pub-id-type="pmid">27013235</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0036">
+<string-name>
+<surname>Currie</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Schulze</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Zechner</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Walther</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Farese</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Cellular fatty acid metabolism and cancer</article-title>. <source xml:lang="en">Cell Metab</source>. <year>2013</year>;<volume>18</volume>:<fpage>153</fpage>&#x02010;<lpage>161</lpage>.<pub-id pub-id-type="pmid">23791484</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0037">
+<string-name>
+<surname>Guo</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Prins</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Dang</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>EGFR signaling through an Akt&#x02010;SREBP&#x02010;1&#x02010;dependent, rapamycin&#x02010;resistant pathway sensitizes glioblastomas to antilipogenic therapy</article-title>. <source xml:lang="en">Science Signaling</source>. <year>2009</year>;<volume>2</volume>:<fpage>ra82</fpage>.<pub-id pub-id-type="pmid">20009104</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0038">
+<string-name>
+<surname>Ettinger</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Sobel</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Whitmore</surname>
+<given-names>TG</given-names>
+</string-name>, et al. <article-title>Dysregulation of sterol response element&#x02010;binding proteins and downstream effectors in prostate cancer during progression to androgen independence</article-title>. <source xml:lang="en">Can Res</source>. <year>2004</year>;<volume>64</volume>:<fpage>2212</fpage>&#x02010;<lpage>2221</lpage>.</mixed-citation></ref><ref id="jcmm14262-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0039">
+<string-name>
+<surname>Williams</surname>
+<given-names>Kj</given-names>
+</string-name>, <string-name>
+<surname>Argus</surname>
+<given-names>Jp</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>An essential requirement for the SCAP/SREBP signaling axis to protect cancer cells from lipotoxicity</article-title>. <source xml:lang="en">Can Res</source>. <year>2013</year>;<volume>73</volume>:<fpage>2850</fpage>.</mixed-citation></ref><ref id="jcmm14262-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0040">
+<string-name>
+<surname>Griffiths</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Lewis</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Bensaad</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Sterol regulatory element binding protein&#x02010;dependent regulation of lipid synthesis supports cell survival and tumor growth</article-title>. <source xml:lang="en">Cancer Metab</source>. <year>2013</year>;<volume>1</volume>:<fpage>3</fpage>.<pub-id pub-id-type="pmid">24280005</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0041">
+<string-name>
+<surname>Chen</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Liang</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Ou</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Goldstein</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>
+<given-names>MS</given-names>
+</string-name>. <article-title>Central role for liver X receptor in insulin&#x02010;mediated activation of Srebp&#x02010;1c transcription and stimulation of fatty acid synthesis in liver</article-title>. <source xml:lang="en">Proc Natl Acad Sci U S A</source>. <year>2004</year>;<volume>101</volume>(<issue>31</issue>):<fpage>11245</fpage>&#x02013;<lpage>11250</lpage>
+<pub-id pub-id-type="pmid">15266058</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0042">
+<string-name>
+<surname>Repa</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Liang</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Ou</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Regulation of mouse sterol regulatory element&#x02010;binding protein&#x02010;1c gene (SREBP&#x02010;1c) by oxysterol receptors, LXRalpha and LXRbeta</article-title>. <source xml:lang="en">Genes Dev</source>. <year>2000</year>;<volume>14</volume>:<fpage>2819</fpage>.<pub-id pub-id-type="pmid">11090130</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0043">
+<string-name>
+<surname>Porstmann</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Santos</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name>
+<surname>Griffiths</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>SREBP activity is regulated by mTORC1 and contributes to Akt&#x02010;dependent cell growth</article-title>. <source xml:lang="en">Cell Metab</source>. <year>2008</year>;<volume>8</volume>:<fpage>224</fpage>&#x02010;<lpage>236</lpage>.<pub-id pub-id-type="pmid">18762023</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0044">
+<string-name>
+<surname>Goldstein</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Rawson</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>
+<given-names>MS</given-names>
+</string-name>. <article-title>Mutant mammalian cells as tools to delineate the sterol regulatory element&#x02010;binding protein pathway for feedback regulation of lipid synthesis</article-title>. <source xml:lang="en">Arch Biochem Biophys</source>. <year>2002</year>;<volume>397</volume>:<fpage>139</fpage>.<pub-id pub-id-type="pmid">11795864</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0045">
+<string-name>
+<surname>Sun</surname>
+<given-names>L&#x02010;p</given-names>
+</string-name>, <string-name>
+<surname>Seemann</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Goldstein</surname>
+<given-names>Jl</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>
+<given-names>Ms</given-names>
+</string-name>. <article-title>Sterol&#x02010;regulated transport of SREBPs from endoplasmic reticulum to Golgi: Insig renders sorting signal in Scap inaccessible to COPII proteins</article-title>. <source xml:lang="en">Proc Natl Acad Sci U S A</source>. <year>2007</year>;<volume>104</volume>(<issue>16</issue>):<fpage>6519</fpage>&#x02013;<lpage>6526</lpage>
+<pub-id pub-id-type="pmid">17428919</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0046">
+<string-name>
+<surname>Matsuda</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Korn</surname>
+<given-names>BS</given-names>
+</string-name>, <string-name>
+<surname>Hammer</surname>
+<given-names>RE</given-names>
+</string-name>, et al. <article-title>SREBP cleavage&#x02010;activating protein (SCAP) is required for increased lipid synthesis in liver induced by cholesterol deprivation and insulin elevation</article-title>. <source xml:lang="en">Genes Dev</source>. <year>2001</year>;<volume>15</volume>:<fpage>1206</fpage>.<pub-id pub-id-type="pmid">11358865</pub-id></mixed-citation></ref><ref id="jcmm14262-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="jcmm14262-cit-0047">
+<string-name>
+<surname>Engelking</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name>
+<surname>Kuriyama</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Hammer</surname>
+<given-names>RE</given-names>
+</string-name>, et al. <article-title>Overexpression of Insig&#x02010;1 in the livers of transgenic mice inhibits SREBP processing and reduces insulin&#x02010;stimulated lipogenesis</article-title>. <source xml:lang="en">J Clin Invest</source>. <year>2004</year>;<volume>113</volume>:<fpage>1168</fpage>&#x02010;<lpage>1175</lpage>.<pub-id pub-id-type="pmid">15085196</pub-id></mixed-citation></ref></ref-list></back></article>

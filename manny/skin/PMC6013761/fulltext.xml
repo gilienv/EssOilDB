@@ -1,0 +1,659 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">F1000Res</journal-id><journal-id journal-id-type="iso-abbrev">F1000Res</journal-id><journal-id journal-id-type="pmc">F1000Research</journal-id><journal-title-group><journal-title>F1000Research</journal-title></journal-title-group><issn pub-type="epub">2046-1402</issn><publisher><publisher-name>F1000 Research Limited</publisher-name><publisher-loc>London, UK</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6013761</article-id><article-id pub-id-type="doi">10.12688/f1000research.13499.1</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group><subj-group><subject>Articles</subject></subj-group></article-categories><title-group><article-title>Recent advances in understanding and managing contact dermatitis</article-title><fn-group content-type="pub-status"><fn><p>[version 1; referees: 3 approved]</p></fn></fn-group></title-group><contrib-group><contrib contrib-type="author"><name><surname>Martin</surname><given-names>Stefan F.</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft Preparation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026; Editing</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-1617-1280</contrib-id><xref ref-type="corresp" rid="c1">a</xref><xref ref-type="aff" rid="a1">1</xref></contrib><contrib contrib-type="author"><name><surname>Rustemeyer</surname><given-names>Thomas</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft Preparation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026; Editing</role><xref ref-type="aff" rid="a2">2</xref></contrib><contrib contrib-type="author"><name><surname>Thyssen</surname><given-names>Jacob P.</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft Preparation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026; Editing</role><xref ref-type="aff" rid="a3">3</xref></contrib><aff id="a1">
+<label>1</label>Allergy Research Group, Department of Dermatology, Faculty of Medicine, University of Freiburg, Freiburg, D-79104, Germany</aff><aff id="a2">
+<label>2</label>Department of Dermatology, VU University Medical Centre (VUmc), De Boelelaan 1117, Amsterdam, 1081HV, Netherlands</aff><aff id="a3">
+<label>3</label>Department of Dermatology and Allergy, Herlev and Gentofte Hospital, Hellerup, DK-2900, Denmark</aff></contrib-group><author-notes><corresp id="c1"><label>a</label><email xlink:href="mailto:stefan.martin@uniklinik-freiburg.de">stefan.martin@uniklinik-freiburg.de</email></corresp><fn fn-type="COI-statement"><p>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>20</day><month>6</month><year>2018</year></pub-date><pub-date pub-type="collection"><year>2018</year></pub-date><volume>7</volume><elocation-id>F1000 Faculty Rev-810</elocation-id><history><date date-type="accepted"><day>18</day><month>6</month><year>2018</year></date></history><permissions><copyright-statement>Copyright: &#x000a9; 2018 Martin SF et al.</copyright-statement><copyright-year>2018</copyright-year><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="f1000research-7-14657.pdf"/><abstract><p>About 20% of the general population is contact-sensitized to common haptens such as fragrances, preservatives, and metals. Many also develop allergic contact dermatitis (ACD), the clinical manifestation of contact sensitization. ACD represents a common health issue and is also one of the most important occupational diseases. Although this inflammatory skin disease is mediated predominantly by memory T lymphocytes recognizing low-molecular-weight chemicals after skin contact, the innate immune system also plays an important role. Along that line, the presence of irritants may increase the risk of ACD and therefore ACD is often seen in the context of irritant contact dermatitis. In this review article, we discuss recent progress in basic research that has dramatically increased our understanding of the pathomechanisms of ACD and provides a basis for the development of novel diagnostic and therapeutic measures. Current methods for diagnosis as well as treatment options of ACD are also discussed.</p></abstract><kwd-group kwd-group-type="author"><kwd>contact dermatitis</kwd><kwd>chemical</kwd><kwd>skin</kwd><kwd>treatment</kwd></kwd-group><funding-group><funding-statement>The author(s) declared that no grants were involved in supporting this work.</funding-statement></funding-group></article-meta><notes><sec sec-type="editor-note"><title>Editorial Note on the Review Process</title><p>
+<ext-link ext-link-type="uri" xlink:href="http://f1000research.com/browse/f1000-faculty-reviews">F1000 Faculty Reviews</ext-link> are commissioned from members of the prestigious
+<ext-link ext-link-type="uri" xlink:href="http://f1000.com/prime/thefaculty">F1000 Faculty</ext-link> and are edited as a service to readers. In order to make these reviews as comprehensive and accessible as possible, the referees provide input before publication and only the final, revised version is published. The referees who approved the final version are listed with their names and affiliations but without their reports on earlier versions (any comments will already have been addressed in the published version).</p><p>The referees who approved this article are: </p><list list-type="simple" list-content="reviewer-list"><list-item><p>
+<named-content content-type="reviewer-name">Bruce Brod</named-content>, Department of Dermatology, University of Pennsylvania, Philadelphia, PA, USA
+<fn fn-type="COI-statement"><p>No competing interests were disclosed.</p></fn>
+</p></list-item><list-item><p>
+<named-content content-type="reviewer-name">Donald V. Belsito</named-content>, Department of Dermatology, Columbia University Medical Center, New York, NY, USA
+<fn fn-type="COI-statement"><p>No competing interests were disclosed.</p></fn>
+</p></list-item><list-item><p>
+<named-content content-type="reviewer-name">Ann-Therese Karlberg</named-content>, Dermatochemistry and Skin Allergy, Department of Chemistry and Molecular Biology, University of Gothenburg, Gothenburg, Sweden
+<fn fn-type="COI-statement"><p>No competing interests were disclosed.</p></fn>
+</p></list-item></list></sec></notes></front><body><sec sec-type="intro"><title>Introduction</title><p>Allergic contact dermatitis (ACD) is an inflammatory skin disease that affects about 20% of the adult general population and is also an important occupational skin disease
+<sup><xref rid="ref-1" ref-type="bibr">1</xref>&#x02013;
+<xref rid="ref-3" ref-type="bibr">3</xref></sup>. A recent study showed that 27% of the general population from five European countries had contact allergy (that is, sensitization to at least one contact allergen of the European baseline series)
+<sup><xref rid="ref-4" ref-type="bibr">4</xref></sup>. A large proportion of these individuals are at risk of developing ACD following exposure to everyday products. Among the occupational diseases, 40% are skin-related
+<sup><xref rid="ref-5" ref-type="bibr">5</xref></sup>. Contact dermatitis (both irritant and allergic) accounts for about 90% of these. Collectively, these epidemiological data demonstrate the importance of ACD as a challenge to human health. Therefore, basic and clinical research is needed to understand the pathomechanisms of ACD and to develop better strategies for diagnosis and treatment.</p><p>ACD is mediated by T cells recognizing low-molecular-weight organic chemicals or metal ions in the context of major histocompatibility complex (MHC) molecules
+<sup><xref rid="ref-6" ref-type="bibr">6</xref></sup>. These usually electrophilic chemicals penetrate the skin and react with extracellular and cellular proteins. Their protein reactivity is mandatory and underlies their unusual ability to trigger innate immune as well as T-cell responses
+<sup><xref rid="ref-7" ref-type="bibr">7</xref>&#x02013;
+<xref rid="ref-9" ref-type="bibr">9</xref></sup>. Activation of the innate immune system is a prerequisite for the activation and skin migration of contact allergen-specific T cells. The first skin contact with allergens initiates the activation of skin cells, most importantly the epidermal Langerhans cells and dermal dendritic cells (DCs), which subsequently migrate to the local lymph nodes and present the contact allergen(s) to na&#x000ef;ve T cells. Contact allergen-specific T cells then proliferate and differentiate to effector T cells that enter the blood circulation. Repeated skin contact with the same contact allergen then results in the recruitment of these T cells into the skin and the elicitation of the clinical reaction of ACD (
+<xref ref-type="fig" rid="f1">Figure 1</xref>). The response is limited and downregulated by regulatory T and B cells, natural killer T (NKT) cells, and further cell types
+<sup><xref rid="ref-9" ref-type="bibr">9</xref></sup>. Here, we review recent progress in basic research aimed at understanding the cellular and molecular mechanisms underlying the innate immune responses as well as the pathogenic T-cell response and its regulation. Moreover, we will give an overview of the current status of the management of ACD in the clinic.</p><fig fig-type="figure" id="f1" orientation="portrait" position="anchor"><label>Figure 1. </label><caption><title>Sensitization phase of allergic contact dermatitis.</title><p>Contact allergens penetrate the skin and cause tissue stress and damage. Reactive oxygen species (ROS) are formed, ATP is released from stressed cells, and damage-associated molecular patterns (DAMPs) are formed/released from cells. DAMPs then trigger activation of the innate immune system via Toll-like receptors (TLRs) and NOD-like receptor pyrin containing 3 (NLRP3). This results in skin inflammation and consequently activation of dendritic cells (DCs) and migration to the skin-draining lymph nodes. DCs present contact allergens to na&#x000ef;ve T cells, leading to their activation and effector cell differentiation. This concludes the sensitization phase. In the elicitation phase, repeated skin contact with the same contact allergen induces inflammation, and T cells are recruited into the inflamed skin, where they exert their effector functions, leading to clinical symptoms of allergic contact dermatitis. MHC, major histocompatibility complex; PRR, pattern recognition receptor.</p></caption><graphic xlink:href="f1000research-7-14657-g0000"/></fig></sec><sec><title>Protein reactivity of contact allergens</title><p>The central role of the protein modification by contact allergens is underlined by the fact that two of the three validated
+<italic>in vitro</italic> assays for the identification of contact allergens are based on protein reactivity. The Direct Peptide Reactivity Assay&#x02014;Organisation for Economic Co-operation and Development (OECD) test guideline TG 442C&#x02014;detects the depletion of model peptides containing modifiable lysine or cysteine residues. Electrophilic chemicals binding covalently to the &#x003b5;-amino group of lysine or the thiol (SH) group of cysteine are classified as potential contact allergens. Similarly, covalent modification of cysteine residues in the cytosolic protein Keap1 and the subsequent release and DNA binding of the transcription factor Nrf2 lead to the activation of luciferase in HaCaT keratinocytes in the ARE-Nrf2 Luciferase Test Method (OECD test guideline TG 442D)
+<sup><xref rid="ref-10" ref-type="bibr">10</xref></sup>. The Keap1/Nrf2 pathway is central in the antioxidant phase 2 response.</p><p>One of the most challenging research questions is the identification of (a) the target proteins that, upon hapten modification, lead to activation of the innate immune system and cellular stress responses and (b) the natural T-cell epitopes generated after protein modification. Until now, the few known physiologically relevant protein targets of contact allergens have been identified in cell lines. Recent studies addressing these questions
+<italic>in vivo</italic> have identified keratins in mouse skin after topical application of bromobimanes
+<sup><xref rid="ref-11" ref-type="bibr">11</xref></sup> and the macrophage migration inhibition factor (MIF) in skin-draining lymph nodes after topical application of tetramethylrhodamine isothiocyanate (TRITC)
+<sup><xref rid="ref-12" ref-type="bibr">12</xref></sup> as protein targets for hapten modification. It is still not known whether these hapten modifications alter the function of the proteins or generate T-cell epitopes. In the case of MIF, an N-terminal proline modification was detected, but potential effects on the function of MIF were not investigated.</p></sec><sec><title>Role of mast cells and neutrophils in contact hypersensitivity</title><p>Skin inflammation is essential in the sensitization and elicitation phase of ACD. Its initiation requires the close cooperation of different cell types, which together orchestrate this complex response (
+<xref ref-type="fig" rid="f1">Figure 1</xref>). It was recently demonstrated that mast cells are important innate effector cells in murine contact hypersensitivity (CHS), the mouse model for ACD
+<sup><xref rid="ref-13" ref-type="bibr">13</xref></sup>. CHS was significantly reduced in mast cell-deficient or -depleted mice. The reasons for that were the lack of neutrophil extravasation into inflamed skin initiated by the localization of mast cells in proximity of blood vessels and by secretion of the pre-formed and
+<italic>de novo</italic> synthesized neutrophil-attracting chemokines CXCL1/CXCL2 as shown in a lipopolysaccharide-induced peritonitis model. Interestingly, macrophages were required for deeper neutrophil migration into the tissue
+<sup><xref rid="ref-14" ref-type="bibr">14</xref></sup>. Granule release and
+<italic>de novo</italic> chemokine synthesis were Toll-like receptor 4 (TLR4)-dependent. DC emigration from the skin was compromised by the selective absence of mast cells or neutrophils, as was T-cell recruitment to the skin
+<sup><xref rid="ref-13" ref-type="bibr">13</xref>&#x02013;
+<xref rid="ref-15" ref-type="bibr">15</xref></sup>.</p><p>A very interesting study in a model of chronic CHS showed that mast cells can also limit CHS
+<sup><xref rid="ref-16" ref-type="bibr">16</xref></sup>. Using mast cell-deficient Sash or mast cell-depleted Mcpt5-Cre diphtheria toxin receptor (DTR) mice, the authors showed a significant increase of the ear swelling reaction in mast cell-deficient mice which was dependent on CD8
+<sup>+</sup> tissue-resident memory T (T
+<sub>RM</sub>) cells. The effect correlated with elevated levels of interleukin (IL)-15 needed for cutaneous T
+<sub>RM</sub> cells. Thus, in this chronic CHS model, mast cells limited the CD8
+<sup>+</sup> T
+<sub>RM</sub> cell response by degrading IL-15 via proteases such as chymase and carboxypeptidase A.</p></sec><sec><title>Role of tissue-resident T cells and &#x003b3;&#x003b4; T cells in contact hypersensitivity</title><p>In general, T
+<sub>RM</sub> cells form local memory in tissues and are responsible for rapid and strong reactions upon re-exposure to a contact allergen. It was shown that T
+<sub>RM</sub> cells are generated from the same na&#x000ef;ve precursor as central memory T (T
+<sub>CM</sub>) cells in the skin-draining lymph nodes. They seed the contact allergen-exposed skin sites, reside there, and produce a rapid allergic response upon re-exposure
+<sup><xref rid="ref-17" ref-type="bibr">17</xref></sup>. Schmidt
+<italic>et al</italic>. identified IL-17- and interferon-gamma (IFN-&#x003b3;)-producing CD8
+<sup>+</sup> T
+<sub>RM</sub> cells in the 2,4-dinitrofluorobenzene (DNFB) CHS mouse model
+<sup><xref rid="ref-18" ref-type="bibr">18</xref></sup>. The generation of local memory due to T
+<sub>RM</sub> cells was shown for both mice and nickel-allergic humans.</p><p>It was recently reported in the CHS model that dendritic epidermal T cells (DETCs), which are not found in human skin, rapidly produced IL-17 in response to contact allergens
+<sup><xref rid="ref-19" ref-type="bibr">19</xref></sup>. However, how these cells were activated was unclear. Nielsen
+<italic>et al</italic>. revealed that the activating natural killer (NK) receptor NKG2D is involved in their activation
+<sup><xref rid="ref-20" ref-type="bibr">20</xref></sup>. NKG2D was found to be expressed on most DETCs and in human CLA
+<sup>+</sup> &#x003b3;&#x003b4; T cells. Mouse keratinocytes upregulated various stress-induced NKG2D ligands when exposed to contact allergens
+<italic>in vitro</italic>. Moreover, in the mouse system, the NKG2D ligand Mult1 was upregulated by contact allergens in the skin. Experiments with anti-NKG2D blocking antibodies showed a partial block in the activation of DETCs. This study suggests a contact allergen-induced interaction of epidermal &#x003b3;&#x003b4; T cells with keratinocytes which results in an IL-1&#x003b2;-driven and NKG2D/NKG2DL-dependent T-cell activation and production of IFN-&#x003b3; and IL-17. This may be part of the early antigen non-specific innate inflammatory response to contact allergens. Jiang
+<italic>et al</italic>. recently reported a role for dermal &#x003b3;&#x003b4; T cells in promoting CHS by IL-17-dependent neutrophil recruitment
+<sup><xref rid="ref-17" ref-type="bibr">17</xref></sup>. They identified a population of &#x003b3;&#x003b4; T cells which had characteristics of tissue-resident cells with low re-circulation potential. These dermal &#x003b3;&#x003b4; T cells produced IL-17 and IL-22. Importantly, DNFB-induced CHS was significantly reduced in mice selectively lacking dermal &#x003b3;&#x003b4; T cells but not DETCs. The authors showed that this was due to reduced neutrophil recruitment. This study underlines the important role of neutrophils in CHS
+<sup><xref rid="ref-15" ref-type="bibr">15</xref></sup>.</p><p>Much progress has been made in the field of metal allergies. Since nickel and cobalt were identified as the first contact allergens able to directly activate a pattern recognition receptor (that is, human TLR4 by inducing its dimerization and signaling
+<sup><xref rid="ref-21" ref-type="bibr">21</xref>&#x02013;
+<xref rid="ref-23" ref-type="bibr">23</xref></sup>), it was shown that nickel also activates the NLRP3 (NOD-like receptor pyrin containing 3) inflammasome
+<sup><xref rid="ref-24" ref-type="bibr">24</xref></sup>. Likewise, chromium VI, but not chromium III, compounds activate the NLRP3 inflammasome
+<sup><xref rid="ref-25" ref-type="bibr">25</xref></sup>. However, chromium fails to provide a priming signal, such as TLR4 activation in the case of nickel, which is needed for inflammasome activation. This was shown
+<italic>in vitro</italic>, and the findings are reminiscent of contact allergens such as 2,4,6-trinitrofluorobenzene (TNCB) and oxazolone which also fail to do that
+<italic>in vitro</italic>
+<sup><xref rid="ref-26" ref-type="bibr">26</xref>,
+<xref rid="ref-27" ref-type="bibr">27</xref></sup>. In that case, a tissue-derived priming signal was generated by induction of hyaluronic acid breakdown
+<sup><xref rid="ref-27" ref-type="bibr">27</xref></sup>. Thus, it may well be that chromium also has to induce a tissue-derived priming signal.</p><p>Recently, TLR3 was shown to modulate CHS responses in mice. Both irritant contact dermatitis (ICD) (croton oil) as well as ACD (TNCB) were reduced in the absence of TLR3 in knockout (KO) mice and increased in TLR3-overexpressing mice
+<sup><xref rid="ref-28" ref-type="bibr">28</xref></sup>. For ACD to TNCB, a role for TLR3 was confined to the elicitation phase. The mechanism of TLR3 activation was not identified, but the authors speculated on the release of self-RNA from necrotic skin cells. It must also be considered that TLR3 ligands may derive from the bacterial skin flora. Experiments in germ-free mice would be needed to clarify that. Up to now, CHS experiments in germ-free mice have indicated that the innate immune system activation can be triggered by contact allergens in the absence of a microbial flora
+<sup><xref rid="ref-26" ref-type="bibr">26</xref>,
+<xref rid="ref-27" ref-type="bibr">27</xref></sup>.</p><p>In general, the data published up to now for organic chemical allergens and metal allergens in humans and mice reveal a common mechanistic innate immune response pathway. Contact allergens generate tissue-derived activators of TLRs or are themselves direct activators. Following TLR activation, pro-inflammatory mediators, among them pro-IL-1&#x003b2;, a central cytokine in ACD, are produced. The NLRP3 inflammasome is then activated by different means depending on the contact allergen. Oxidative stress that promotes inflammation is induced (
+<xref ref-type="fig" rid="f1">Figure 1</xref>). In general, TLR triggering and inflammasome activation are essential steps in the innate immune response and the mechanisms underlying their activation present as variations of a common theme. It remains to be determined how general this theme is given the high number and physicochemical diversity of the more than 4,000 contact allergens known today.</p><p>Skin inflammation can also be induced by irritant chemicals such as detergents like sodium dodecyl sulfate (SDS). This is due in part to a damaging effect on the skin barrier. Therefore, a combination of irritants and contact allergens as often found in cosmetics, household products, and workplace materials can facilitate sensitization due to the amplification of skin inflammation resulting in, for example, the augmentation of DC activation
+<sup><xref rid="ref-29" ref-type="bibr">29</xref></sup>. Moreover, combinations of contact allergens show similar augmentation due to additive or synergistic effects of the so-called irritant effects of contact allergens (that is, their ability to activate the innate immune system)
+<sup><xref rid="ref-9" ref-type="bibr">9</xref>,
+<xref rid="ref-30" ref-type="bibr">30</xref>&#x02013;
+<xref rid="ref-32" ref-type="bibr">32</xref></sup>.</p></sec><sec><title>Genomics and proteomics</title><p>The identification of biomarkers would be very helpful in improving diagnostics and treatment of ACD
+<sup><xref rid="ref-33" ref-type="bibr">33</xref></sup>. Dhingra
+<italic>et al</italic>. performed gene array studies using skin samples from patch test biopsies
+<sup><xref rid="ref-34" ref-type="bibr">34</xref></sup>. Besides identifying 149 genes that were differentially expressed in all contact allergen-treated samples, they identified a significant number of genes that were regulated in a contact allergen-specific manner. This study nicely shows that the clinical appearance of ACD can be very similar for different contact allergens but that the underlying immune responses can be very different as highlighted here for the polarization of the T-cell response.</p><p>Quaranta
+<italic>et al</italic>. compared different forms of eczema (atopic and non-atopic) regarding gene expression profiles
+<sup><xref rid="ref-35" ref-type="bibr">35</xref></sup>. They made use of an interesting study population: patients with both psoriasis and eczema. In addition, some of these patients developed ACD when tested with nickel. This study allowed an inter-individual comparison of different types of eczema which could be differentiated on the basis of their characteristic gene expression. Comparing naturally occurring eczema with nickel-induced eczema revealed that 33 genes were commonly regulated but that 172 genes were exclusively regulated in induced and 28 exclusively in naturally occurring eczema. Pathway analysis revealed marked differences in genes regulating epithelial differentiation, extracellular matrix, cell&#x02013;cell adhesion, and the acute immune response. Examples for ACD-specific genes were genes for T-cell attraction (
+<italic>CXCL9</italic>,
+<italic>10</italic>, and
+<italic>11</italic>) that had already been described as discriminators for ACD
+<sup><xref rid="ref-36" ref-type="bibr">36</xref>,
+<xref rid="ref-37" ref-type="bibr">37</xref></sup>, LCE1 and LCE2 family genes, and
+<italic>HAS3</italic>,
+<italic>EPSTI1</italic>,
+<italic>ICAM-1</italic>,
+<italic>CXCL8</italic>,
+<italic>IL-1&#x003b2;</italic>, and
+<italic>AIM2</italic>. Interestingly, detailed data analysis led the authors to claim a two-gene classifier (
+<italic>NOS2</italic> and
+<italic>CCL27</italic>) for the distinction between psoriasis and atopic dermatitis
+<sup><xref rid="ref-38" ref-type="bibr">38</xref></sup>.</p><p>Besides analysis of gene expression, proteomics are being used to identify contact allergen-induced changes in protein profiles. Using matrix-assisted laser desorption/ionization-mass spectrometry analysis, Jakob
+<italic>et al</italic>. showed that Ni
+<sup>2+</sup> treatment of human CD14
+<sup>+</sup> monocytes isolated from peripheral blood mononuclear cells significantly altered the expression of 56 protein species
+<sup><xref rid="ref-39" ref-type="bibr">39</xref></sup>. Further analysis revealed the induction of proteins associated with apoptotic cell death at concentrations of around 250 &#x000b5;M and above, concentrations which did not affect T-cell viability. Interestingly, Schmidt
+<italic>et al</italic>. had previously shown a sensitization of human umbilical vein endothelial cells for TRAIL (tumor necrosis factor-related apoptosis-inducing ligand)-induced cell death by nickel
+<sup><xref rid="ref-40" ref-type="bibr">40</xref></sup>.</p><p>Mussotter
+<italic>et al</italic>. compared the protein profiles of bone marrow-derived dendritic cells (BMDCs) from C57BL/6 wild-type and Nrf2-deficient mice
+<sup><xref rid="ref-41" ref-type="bibr">41</xref></sup>. More than 50 proteins were upregulated upon BMDC treatment with cinnamic aldehyde and more than 30 upon 2,4-dinitrochlorobenzene (DNCB) treatment. Notably, almost all of these proteins were not upregulated in BMDCs from Nrf2-deficient mice. Nrf2-dependent proteins were associated with oxidative stress, cell survival/death, proteostasis, and other signaling pathways. In addition, metabolic reprogramming by contact sensitizers was revealed (for example, by upregulation of many glycolytic enzymes). This approach allows identification of Nrf2-dependent and -independent proteins and differentiation between contact sensitizer- and irritant-specific effects.</p><p>More recent profiling studies of patients with ACD used serum
+<sup><xref rid="ref-42" ref-type="bibr">42</xref></sup> samples from stratum corneum after tape stripping
+<sup><xref rid="ref-43" ref-type="bibr">43</xref></sup>, skin biopsies
+<sup><xref rid="ref-44" ref-type="bibr">44</xref>,
+<xref rid="ref-45" ref-type="bibr">45</xref></sup>, or monocytes
+<sup><xref rid="ref-36" ref-type="bibr">36</xref></sup>. Analyses were carried out by protein or gene arrays and mass spectrometry. Owing to the diversity of the samples, the different contact allergens used, and the different methods used, it is impossible to compare the data and search for common biomarkers. Nevertheless, inflammation and skin barrier-related genes and proteins are, not surprisingly, differentially regulated in all studies. The big challenge is the identification of biomarker profiles that allow differentiation between ACD and ICD and between ACD and other forms of eczema.</p><p>More such genomic and proteomic studies are needed to understand how contact sensitizers work on a mechanistic basis. Novel biomarkers can be identified that may aid in the improvement of ACD diagnostics, identification of novel drug targets, and
+<italic>in vitro</italic> assay development for contact allergen identification and replacement of animal testing.</p></sec><sec><title>Immune regulation and tolerance to contact allergens</title><p>Regulatory T cells (Tregs) are central regulators of the extent and duration of CHS responses. The important role of Tregs in CHS has been underlined by a recent study using CD103-deficient KO mice
+<sup><xref rid="ref-46" ref-type="bibr">46</xref></sup>. The integrin &#x003b1;E (CD103) is expressed on subsets of DCs and on Tregs localizing to epithelia. CHS to oxazolone or DNCB was significantly increased in the KO mice. The authors then found that the level of Foxp3 was significantly reduced in CD4
+<sup>+</sup>CD25
+<sup>+</sup> T cells and that Tregs from the KO mice were unable to suppress CHS. This study shows that CD103 has a role in the regulation of Foxp3 expression in addition to its function of retention of Tregs in inflamed skin.</p><p>Tregs express the ectonucleotidases CD73 and CD39, which degrade ATP to tolerogenic adenosine
+<sup><xref rid="ref-47" ref-type="bibr">47</xref></sup>. It has been shown that one consequence of this is the retention of CD8
+<sup>+</sup> effector T cells in the lymph nodes. Mahnke
+<italic>et al</italic>. showed that CD8
+<sup>+</sup> T cells shed CD62L in order to leave the lymph node, a process required for effector cell migration to inflamed skin in CHS
+<sup><xref rid="ref-48" ref-type="bibr">48</xref></sup>. ATP is released from skin cells following contact allergen application
+<sup><xref rid="ref-49" ref-type="bibr">49</xref></sup>. In T cells, ATP acts on P2X7R to upregulate ADAM17 which sheds CD62L from the T-cell surface. Moreover, CD73-dependent ATP degradation seems to limit the extent of DC emigration from skin and eventually the magnitude of CHS
+<sup><xref rid="ref-50" ref-type="bibr">50</xref></sup>.</p><p>Interestingly, similar to observations in viral infections
+<sup><xref rid="ref-51" ref-type="bibr">51</xref>,
+<xref rid="ref-52" ref-type="bibr">52</xref></sup>, IL-10-producing CD8
+<sup>+</sup> T cells can be detected in the late elicitation phase of CHS
+<sup><xref rid="ref-53" ref-type="bibr">53</xref></sup>. Although in respiratory syncytial virus lung infection an autocrine regulatory role of these effector cells has been shown
+<sup><xref rid="ref-52" ref-type="bibr">52</xref></sup>, in the CHS model this could not be confirmed. Nevertheless, one may speculate that the CD8
+<sup>+</sup> CHS effector T cells start to express IL-10 later in the elicitation phase and contribute to the limitation of the extent and the downregulation of the CHS response.</p><p>The previously reported roles of NKT cells and regulatory B cells (Bregs) in CHS were supported by Fjelbye
+<italic>et al</italic>.
+<sup><xref rid="ref-54" ref-type="bibr">54</xref></sup>. These authors showed increased CHS responses in CD1d-deficient mice. This was mostly due to a decrease of IL-10 and a predominant reduction in IL-10
+<sup>+</sup> Bregs in the spleen and peritoneal cavity. These data strongly suggest a regulation of Bregs by CD1d-restricted NKT cells, which have been identified as an important regulatory cell type in CHS
+<sup><xref rid="ref-55" ref-type="bibr">55</xref></sup>.</p><p>Tolerance to contact allergens can be induced experimentally by different means. Low zone tolerance (LZT) is induced by the repeated epicutaneous application of doses of contact allergens 100- to 1,000-fold lower than the dose used for sensitization. LZT involves IL-10-producing Foxp3
+<sup>+</sup> Tregs which induce tolerogenic CD8
+<sup>+</sup>CD11c
+<sup>+</sup> DCs and is most likely caused by the presentation of contact allergen to T cells in the absence of skin inflammation
+<sup><xref rid="ref-56" ref-type="bibr">56</xref></sup>. Another way of tolerance induction is oral tolerance. Hacini-Rachinel
+<italic>et al</italic>. showed that oral tolerance to DNFB given to mice by gavage was dependent on TLR4 expression on hematopoietic cells
+<sup><xref rid="ref-57" ref-type="bibr">57</xref></sup>. They demonstrated that TLR4 is necessary to induce the mobilization of tolerogenic CD103
+<sup>+</sup>CD11c
+<sup>+</sup> lamina propria DCs to migrate to the local lymph nodes and prime Foxp3
+<sup>+</sup> Tregs. Complexes of IL-2/anti-IL-2 antibodies have been shown to enhance IL-2 effects and are considered to treat inflammatory diseases on the basis of their expansion of Tregs. El Beidaq
+<italic>et al</italic>. demonstrated that tolerance to CHS mediated by TNCB can be enforced by injection of an IL-2/anti-IL-2 antibody reagent, IL-2/JES6-1
+<sup><xref rid="ref-58" ref-type="bibr">58</xref></sup>. This treatment, when given before or even after sensitization, established a state of tolerance by CTLA4
+<sup>+</sup>Foxp3
+<sup>+</sup> Treg expansion that was still evident upon re-challenge with contact allergen even 3 weeks after the last injection. IL-10 and transforming growth factor-beta (TGF-&#x003b2;) levels were increased while neutrophil and CD8
+<sup>+</sup> T-cell infiltration of the skin were reduced. This study is encouraging, since it shows that a longer-lasting re-establishment of tolerance to contact allergens is possible. The issue of establishing directed, antigen-specific tolerance needs to be solved. However, in a double-blinded, placebo-controlled study, Di Gioacchino
+<italic>et al</italic>. demonstrated the re-establishment of tolerance to nickel by oral hyposensitization
+<sup><xref rid="ref-59" ref-type="bibr">59</xref></sup>. A total of 113 patch test-positive patients with systemic nickel syndrome due to nickel-containing foods were given nickel orally for 1 year. Re-introduction of nickel-rich food revealed significant improvement of gastrointestinal symptoms. Skin manifestations also improved, but significance was not reached. On the other end of the spectrum, oral or systemic exposure to contact allergens in sensitized individuals may result in systemic contact dermatitis, a skin reaction characterized by flexural and inverse involvement of eczema. This may occur following high-dose nickel exposure in very nickel-sensitized individuals but also following oral exposure to sesquiterpene lactone allergens (for example, chamomile in tea) in plant-allergic individuals. Other examples include systemic contact dermatitis reactions in patients with an allergy to
+<italic>Myroxylon pereirae</italic> resin (balsam of Peru) who eat citrus fruits.</p></sec><sec><title>Diagnostics in clinical allergic contact dermatitis</title><p>From the clinical point of view, ACD has hardly any specific appearance, although vesicular morphology is frequent and ACD as opposed to ICD characteristically spreads and generalizes if the allergen is not removed. In general, ACD results in an eczematous reaction of the skin, although non-eczematous reactions such as lichenoid reactions and implant failure have also been reported in contact-allergic individuals. This lack of highly specific clinical characteristics indicates the need and benefit of reproducible diagnostic procedures. Since the beginning of clinical contact allergy diagnosis with Jadassohn in 1895, epicutaneous application of suspected contact allergens has been the diagnostic method of choice. The general principle is unchanged since then: contact allergens are dissolved in adequate vehicles such as water, alcohol, and petrolatum, allowing the allergens to penetrate out of the preparation into the epidermis. For most allergens, the highest non-irritating allergen concentrations are optimal
+<sup><xref rid="ref-60" ref-type="bibr">60</xref></sup>. Classic exceptions are glucocorticosteroids: too high a concentration causes immunosuppression rather than eliciting allergic reactions, although characteristic dermatitis is formed in a ring surrounding the chamber which contains the glucocorticosteroid. For glucocorticosteroids, optimal test concentrations are established on the basis of a more sophisticated balance of sufficient allergen to elicit the allergic reaction and too little to suppress it
+<sup><xref rid="ref-61" ref-type="bibr">61</xref></sup>. All test preparations for contact allergens are optimized for epicutaneous application, mostly under occlusion, for 48 hours. Patient products may also be applied directly (for example, a piece of a glove or shoe, a metallic disc, nail lacquer, or scrapping from spectacle frames in a chamber). Allergen preparations are kept in place by using adhesive materials with small allergen chambers. The chambers are made from either aluminum or polypropylene and in some products with an inlay from filter paper. The total amount of allergen preparation for one chamber depends on the chamber size. For most of the commercial patch test chambers, 15&#x02013;20 &#x003bc;L of allergen preparation suffices. Application of too high a volume can result in spoiling out of the test chamber and false-positive patch test reactions. Some allergens are volatile and might evaporate from the patch test material (for example, fragrance chemicals)
+<sup><xref rid="ref-62" ref-type="bibr">62</xref></sup>. This can occur during the preparation of the patch tests for one patient. Hence, test materials should be prepared directly before application onto the skin. The evaporation process starts for highly volatile allergens directly with manufacturing the test materials. For these allergens, transport and storage in fridges or freezers (especially for isocyanate allergens) are advisable.</p><p>In most patients, patch tests are applied onto the back of the patient. After 48 hours of application, patches are removed and test sites are read in accordance with the current guideline
+<sup><xref rid="ref-63" ref-type="bibr">63</xref></sup>. The readings have to be performed at at least two different time points. Common reading schedules are 48 hours, 72 hours, and 6&#x02013;7 days. But reading schedules skipping the first reading and including a 96-hour reading are practiced
+<sup><xref rid="ref-64" ref-type="bibr">64</xref></sup>. The reading of test readings is independent from interpretation of the results, which should be performed subsequently
+<sup><xref rid="ref-65" ref-type="bibr">65</xref></sup>. Exposure analysis is important before clinical relevance of positive test reactions is decided. Positive test reactions are grouped into current, past, and unknown clinical relevance on the basis of allergen exposure, patient history, and the clinical pattern.</p></sec><sec><title>Current and future treatment options</title><p>In the case of clinically relevant ACD, the disease resolves if the patient avoids future skin exposure to the culprit allergen. Thorough information about sources of allergen exposure is crucial, as is instruction about how to read ingredient labels and use spot tests for metal ion release. However, time from avoidance of allergen exposure to complete resolution can take months in the case of severe disease but in milder cases may occur within a few weeks. Topical application of emollients along with anti-inflammatory agents (for example, calcineurin inhibitors and corticosteroids) is first-line treatment and typically will rapidly heal the lesions. However, ACD often occurs in the context of other eczematous conditions, including ICD or atopic dermatitis. In these cases, patients may have a more chronic disease and resolution cannot be obtained through allergen avoidance alone. Here, ultraviolet irradiation or systemic immunosuppressants such as methotrexate, cyclosporine, and azathioprine may be necessary to control inflammation. This is often the case in patients with chronic hand eczema. Systemic corticosteroids should generally be avoided in patients with chronic dermatitis because of the risk of severe complication such as osteoporosis and type 2 diabetes but may be very useful in patients with acute severe ACD following exposure to, for example, poison ivy or para-phenylenediamine (PPD). So far, no biologics have been proven to be useful in the treatment of ACD, although only case series have been performed
+<sup><xref rid="ref-66" ref-type="bibr">66</xref></sup>. Based on the successful experience of patch testing patients who receive various biologics and immunosuppressants, none of these seems to really suppress ACD and therefore they are not suitable for treating ACD per se
+<sup><xref rid="ref-67" ref-type="bibr">67</xref></sup>. So far, oral tolerance induction has not been successful, but a randomized Italian study showed that an improvement of gastrointestinal symptoms following oral nickel exposure by food and a significant increase in patch test negativity may be obtained
+<sup><xref rid="ref-59" ref-type="bibr">59</xref></sup>. At the moment, it is impossible to envision any drugs that may directly inhibit ACD responses in affected patients, but it is possible that the innate immune system needs to be targeted at an early stage to prevent the cascade of reactions in chronic disease
+<sup><xref rid="ref-9" ref-type="bibr">9</xref></sup>.</p><p>Given the complexity of ACD, a multi-layered strategy for treatment seems necessary. Interference with mechanisms of inflammation, enforcement of immune regulation, and reduction, removal, or suppression of effector and memory T cells, including T
+<sub>RM</sub> cells, are areas to be exploited in the future. Based on our increasing understanding of the pathomechanisms, combination therapies may have to be developed for acute and hard-to-treat chronic ACD. The ongoing search for biomarkers will hopefully lead to the identification of profiles suitable for modern molecular diagnostics. New
+<italic>in vitro</italic> assays should be suitable to identify contact allergens for hazard identification
+<sup><xref rid="ref-10" ref-type="bibr">10</xref></sup>. Here, assays that allow potency assessment of contact allergens are urgently needed.</p><p>The ongoing basic and clinical research as well as
+<italic>in vitro</italic> testing for contact allergen identification, the recognition of the impact of contact dermatitis, and the continuing education and training to raise awareness for prevention and for improvement of workplaces
+<sup><xref rid="ref-5" ref-type="bibr">5</xref></sup> will result in avoidance of hazardous chemicals and improved management of this important skin disease.</p></sec><sec><title>Abbreviations</title><p>ACD, allergic contact dermatitis; BMDC, bone marrow-derived dendritic cell; Breg, regulatory B cell; CHS, contact hypersensitivity; DC, dendritic cell; DETC, dendritic epidermal T cell; DNCB, 2,4-dinitrochlorobenzene; DNFB, 2,4-dinitrofluorobenzene; ICD, irritant contact dermatitis; IFN-&#x003b3;, interferon-gamma; IL, interleukin; KO, knockout; LZT, low zone tolerance; MIF, macrophage migration inhibition factor; NK, natural killer; NKT, natural killer T; NLRP3, NOD-like receptor pyrin containing 3; OECD, Organisation for Economic Co-operation and Development; TLR, Toll-like receptor; TNCB, 2,4,6-trinitrofluorobenzene; Treg, regulatory T cell; T
+<sub>RM</sub>, tissue-resident memory T</p></sec></body><back><ref-list><ref id="ref-1"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Peiser</surname><given-names>M</given-names></name><name><surname>Tralau</surname><given-names>T</given-names></name><name><surname>Heidler</surname><given-names>J</given-names></name><etal/></person-group>:
+<article-title>Allergic contact dermatitis: epidemiology, molecular mechanisms,
+<italic>in vitro</italic> methods and regulatory aspects. Current knowledge assembled at an international workshop at BfR, Germany.</article-title>
+<source><italic>Cell Mol Life Sci.</italic></source>
+<year>2012</year>;<volume>69</volume>(<issue>5</issue>):<fpage>763</fpage>&#x02013;<lpage>81</lpage>.
+<pub-id pub-id-type="doi">10.1007/s00018-011-0846-8</pub-id>
+<!--<pub-id pub-id-type="pmcid">3276771</pub-id>-->
+<?supplied-pmid 21997384?><pub-id pub-id-type="pmid">21997384</pub-id></mixed-citation></ref><ref id="ref-2"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ring</surname><given-names>J</given-names></name></person-group>:
+<article-title>Occupational skin disease - a major health problem in Europe.</article-title>
+<source><italic>J Eur Acad Dermatol Venereol.</italic></source>
+<year>2017</year>;<volume>31</volume>(<issue>6</issue>):<fpage>919</fpage>&#x02013;<lpage>20</lpage>.
+<pub-id pub-id-type="doi">10.1111/jdv.14307</pub-id>
+<?supplied-pmid 28621500?><pub-id pub-id-type="pmid">28621500</pub-id></mixed-citation></ref><ref id="ref-3"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Thyssen</surname><given-names>JP</given-names></name><name><surname>Linneberg</surname><given-names>A</given-names></name><name><surname>Menn&#x000e9;</surname><given-names>T</given-names></name><etal/></person-group>:
+<article-title>The epidemiology of contact allergy in the general population--prevalence and main findings.</article-title>
+<source><italic>Contact Dermatitis.</italic></source>
+<year>2007</year>;<volume>57</volume>(<issue>5</issue>):<fpage>287</fpage>&#x02013;<lpage>99</lpage>.
+<pub-id pub-id-type="doi">10.1111/j.1600-0536.2007.01220.x</pub-id>
+<?supplied-pmid 17937743?><pub-id pub-id-type="pmid">17937743</pub-id></mixed-citation></ref><ref id="ref-4"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Diepgen</surname><given-names>TL</given-names></name><name><surname>Ofenloch</surname><given-names>RF</given-names></name><name><surname>Bruze</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>Prevalence of contact allergy in the general population in different European regions.</article-title>
+<source><italic>Br J Dermatol.</italic></source>
+<year>2016</year>;<volume>174</volume>(<issue>2</issue>):<fpage>319</fpage>&#x02013;<lpage>29</lpage>.
+<pub-id pub-id-type="doi">10.1111/bjd.14167</pub-id>
+<?supplied-pmid 26370659?><pub-id pub-id-type="pmid">26370659</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/725788028">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-5"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Alfonso</surname><given-names>JH</given-names></name><name><surname>Bauer</surname><given-names>A</given-names></name><name><surname>Bensefa-Colas</surname><given-names>L</given-names></name><etal/></person-group>:
+<article-title>Minimum standards on prevention, diagnosis and treatment of occupational and work-related skin diseases in Europe - position paper of the COST Action StanDerm (TD 1206).</article-title>
+<source><italic>J Eur Acad Dermatol Venereol.</italic></source>
+<year>2017</year>;<volume>31Suppl 4</volume>:<fpage>31</fpage>&#x02013;<lpage>43</lpage>.
+<pub-id pub-id-type="doi">10.1111/jdv.14319</pub-id>
+<?supplied-pmid 28656728?><pub-id pub-id-type="pmid">28656728</pub-id></mixed-citation></ref><ref id="ref-6"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Martin</surname><given-names>SF</given-names></name><name><surname>Esser</surname><given-names>PR</given-names></name><name><surname>Schmucker</surname><given-names>S</given-names></name><etal/></person-group>:
+<article-title>T-cell recognition of chemicals, protein allergens and drugs: towards the development of
+<italic>in vitro</italic> assays.</article-title>
+<source><italic>Cell Mol Life Sci.</italic></source>
+<year>2010</year>;<volume>67</volume>(<issue>24</issue>):<fpage>4171</fpage>&#x02013;<lpage>84</lpage>.
+<pub-id pub-id-type="doi">10.1007/s00018-010-0495-3</pub-id>
+<?supplied-pmid 20717835?><pub-id pub-id-type="pmid">20717835</pub-id></mixed-citation></ref><ref id="ref-7"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kaplan</surname><given-names>DH</given-names></name><name><surname>Igy&#x000e1;rt&#x000f3;</surname><given-names>BZ</given-names></name><name><surname>Gaspari</surname><given-names>AA</given-names></name></person-group>:
+<article-title>Early immune events in the induction of allergic contact dermatitis.</article-title>
+<source><italic>Nat Rev Immunol.</italic></source>
+<year>2012</year>;<volume>12</volume>(<issue>2</issue>):<fpage>114</fpage>&#x02013;<lpage>24</lpage>.
+<pub-id pub-id-type="doi">10.1038/nri3150</pub-id>
+<!--<pub-id pub-id-type="pmcid">3578582</pub-id>-->
+<?supplied-pmid 22240625?><pub-id pub-id-type="pmid">22240625</pub-id></mixed-citation></ref><ref id="ref-8"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Martin</surname><given-names>SF</given-names></name></person-group>:
+<article-title>Contact dermatitis: from pathomechanisms to immunotoxicology.</article-title>
+<source><italic>Exp Dermatol.</italic></source>
+<year>2012</year>;<volume>21</volume>(<issue>5</issue>):<fpage>382</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1111/j.1600-0625.2012.01471.x</pub-id>
+<?supplied-pmid 22509837?><pub-id pub-id-type="pmid">22509837</pub-id></mixed-citation></ref><ref id="ref-9"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Martin</surname><given-names>SF</given-names></name></person-group>:
+<article-title>New concepts in cutaneous allergy.</article-title>
+<source><italic>Contact Dermatitis.</italic></source>
+<year>2015</year>;<volume>72</volume>(<issue>1</issue>):<fpage>2</fpage>&#x02013;<lpage>10</lpage>.
+<pub-id pub-id-type="doi">10.1111/cod.12311</pub-id>
+<?supplied-pmid 25348820?><pub-id pub-id-type="pmid">25348820</pub-id></mixed-citation></ref><ref id="ref-10"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ezendam</surname><given-names>J</given-names></name><name><surname>Braakhuis</surname><given-names>HM</given-names></name><name><surname>Vandebriel</surname><given-names>RJ</given-names></name></person-group>:
+<article-title>State of the art in non-animal approaches for skin sensitization testing: from individual test methods towards testing strategies.</article-title>
+<source><italic>Arch Toxicol.</italic></source>
+<year>2016</year>;<volume>90</volume>(<issue>12</issue>):<fpage>2861</fpage>&#x02013;<lpage>83</lpage>.
+<pub-id pub-id-type="doi">10.1007/s00204-016-1842-4</pub-id>
+<?supplied-pmid 27629427?><pub-id pub-id-type="pmid">27629427</pub-id></mixed-citation></ref><ref id="ref-11"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Simonsson</surname><given-names>C</given-names></name><name><surname>Andersson</surname><given-names>SI</given-names></name><name><surname>Stenfeldt</surname><given-names>A</given-names></name><etal/></person-group>:
+<article-title>Caged fluorescent haptens reveal the generation of cryptic epitopes in allergic contact dermatitis.</article-title>
+<source><italic>J Invest Dermatol.</italic></source>
+<year>2011</year>;<volume>131</volume>(<issue>7</issue>):<fpage>1486</fpage>&#x02013;<lpage>93</lpage>.
+<pub-id pub-id-type="doi">10.1038/jid.2010.422</pub-id>
+<?supplied-pmid 21228815?><pub-id pub-id-type="pmid">21228815</pub-id></mixed-citation></ref><ref id="ref-12"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Karlsson</surname><given-names>I</given-names></name><name><surname>Samuelsson</surname><given-names>K</given-names></name><name><surname>Simonsson</surname><given-names>C</given-names></name><etal/></person-group>:
+<article-title>The Fate of a Hapten - From the Skin to Modification of Macrophage Migration Inhibitory Factor (MIF) in Lymph Nodes.</article-title>
+<source><italic>Sci Rep.</italic></source>
+<year>2018</year>;<volume>8</volume>(<issue>1</issue>): 2895.
+<pub-id pub-id-type="doi">10.1038/s41598-018-21327-8</pub-id>
+<!--<pub-id pub-id-type="pmcid">5811565</pub-id>-->
+<?supplied-pmid 29440696?><pub-id pub-id-type="pmid">29440696</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/732664883">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-13"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dudeck</surname><given-names>A</given-names></name><name><surname>Dudeck</surname><given-names>J</given-names></name><name><surname>Scholten</surname><given-names>J</given-names></name><etal/></person-group>:
+<article-title>Mast cells are key promoters of contact allergy that mediate the adjuvant effects of haptens.</article-title>
+<source><italic>Immunity.</italic></source>
+<year>2011</year>;<volume>34</volume>(<issue>6</issue>):<fpage>973</fpage>&#x02013;<lpage>84</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.immuni.2011.03.028</pub-id>
+<?supplied-pmid 21703544?><pub-id pub-id-type="pmid">21703544</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/12694956">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-14"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>De Filippo</surname><given-names>K</given-names></name><name><surname>Dudeck</surname><given-names>A</given-names></name><name><surname>Hasenberg</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>Mast cell and macrophage chemokines CXCL1/CXCL2 control the early stage of neutrophil recruitment during tissue inflammation.</article-title>
+<source><italic>Blood.</italic></source>
+<year>2013</year>;<volume>121</volume>(<issue>24</issue>):<fpage>4930</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.1182/blood-2013-02-486217</pub-id>
+<?supplied-pmid 23645836?><pub-id pub-id-type="pmid">23645836</pub-id></mixed-citation></ref><ref id="ref-15"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Weber</surname><given-names>FC</given-names></name><name><surname>N&#x000e9;meth</surname><given-names>T</given-names></name><name><surname>Csepregi</surname><given-names>JZ</given-names></name><etal/></person-group>:
+<article-title>Neutrophils are required for both the sensitization and elicitation phase of contact hypersensitivity.</article-title>
+<source><italic>J Exp Med.</italic></source>
+<year>2015</year>;<volume>212</volume>(<issue>1</issue>):<fpage>15</fpage>&#x02013;<lpage>22</lpage>.
+<pub-id pub-id-type="doi">10.1084/jem.20130062</pub-id>
+<!--<pub-id pub-id-type="pmcid">4291534</pub-id>-->
+<?supplied-pmid 25512469?><pub-id pub-id-type="pmid">25512469</pub-id></mixed-citation></ref><ref id="ref-16"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gimenez-Rivera</surname><given-names>VA</given-names></name><name><surname>Siebenhaar</surname><given-names>F</given-names></name><name><surname>Zimmermann</surname><given-names>C</given-names></name><etal/></person-group>:
+<article-title>Mast Cells Limit the Exacerbation of Chronic Allergic Contact Dermatitis in Response to Repeated Allergen Exposure.</article-title>
+<source><italic>J Immunol.</italic></source>
+<year>2016</year>;<volume>197</volume>(<issue>11</issue>):<fpage>4240</fpage>&#x02013;<lpage>6</lpage>.
+<pub-id pub-id-type="doi">10.4049/jimmunol.1600236</pub-id>
+<?supplied-pmid 27807191?><pub-id pub-id-type="pmid">27807191</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/726917548">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-17"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jiang</surname><given-names>X</given-names></name><name><surname>Park</surname><given-names>CO</given-names></name><name><surname>Geddes Sweeney</surname><given-names>J</given-names></name><etal/></person-group>:
+<article-title>Dermal &#x003b3;&#x003b4; T Cells Do Not Freely Re-Circulate Out of Skin and Produce IL-17 to Promote Neutrophil Infiltration during Primary Contact Hypersensitivity.</article-title>
+<source><italic>PLoS One.</italic></source>
+<year>2017</year>;<volume>12</volume>(<issue>1</issue>):<fpage>e0169397</fpage>.
+<pub-id pub-id-type="doi">10.1371/journal.pone.0169397</pub-id>
+<!--<pub-id pub-id-type="pmcid">5230790</pub-id>-->
+<?supplied-pmid 28081153?><pub-id pub-id-type="pmid">28081153</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/727195701">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-18"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schmidt</surname><given-names>JD</given-names></name><name><surname>Ahlstr&#x000f6;m</surname><given-names>MG</given-names></name><name><surname>Johansen</surname><given-names>JD</given-names></name><etal/></person-group>:
+<article-title>Rapid allergen-induced interleukin-17 and interferon-&#x003b3; secretion by skin-resident memory CD8+ T cells.</article-title>
+<source><italic>Contact Dermatitis.</italic></source>
+<year>2017</year>;<volume>76</volume>(<issue>4</issue>):<fpage>218</fpage>&#x02013;<lpage>27</lpage>.
+<pub-id pub-id-type="doi">10.1111/cod.12715</pub-id>
+<?supplied-pmid 27873334?><pub-id pub-id-type="pmid">27873334</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/733460460">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-19"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nielsen</surname><given-names>MM</given-names></name><name><surname>Lovato</surname><given-names>P</given-names></name><name><surname>MacLeod</surname><given-names>AS</given-names></name><etal/></person-group>:
+<article-title>IL-1&#x003b2;-dependent activation of dendritic epidermal T cells in contact hypersensitivity.</article-title>
+<source><italic>J Immunol.</italic></source>
+<year>2014</year>;<volume>192</volume>(<issue>7</issue>):<fpage>2975</fpage>&#x02013;<lpage>83</lpage>.
+<pub-id pub-id-type="doi">10.4049/jimmunol.1301689</pub-id>
+<!--<pub-id pub-id-type="pmcid">4020443</pub-id>-->
+<?supplied-pmid 24600030?><pub-id pub-id-type="pmid">24600030</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/718299761">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-20"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nielsen</surname><given-names>MM</given-names></name><name><surname>Dyring-Andersen</surname><given-names>B</given-names></name><name><surname>Schmidt</surname><given-names>JD</given-names></name><etal/></person-group>:
+<article-title>NKG2D-dependent activation of dendritic epidermal T cells in contact hypersensitivity.</article-title>
+<source><italic>J Invest Dermatol.</italic></source>
+<year>2015</year>;<volume>135</volume>(<issue>5</issue>):<fpage>1311</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1038/jid.2015.23</pub-id>
+<!--<pub-id pub-id-type="pmcid">4402141</pub-id>-->
+<?supplied-pmid 25634359?><pub-id pub-id-type="pmid">25634359</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/725332833">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-21"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schmidt</surname><given-names>M</given-names></name><name><surname>Raghavan</surname><given-names>B</given-names></name><name><surname>M&#x000fc;ller</surname><given-names>V</given-names></name><etal/></person-group>:
+<article-title>Crucial role for human Toll-like receptor 4 in the development of contact allergy to nickel.</article-title>
+<source><italic>Nat Immunol.</italic></source>
+<year>2010</year>;<volume>11</volume>(<issue>9</issue>):<fpage>814</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1038/ni.1919</pub-id>
+<?supplied-pmid 20711192?><pub-id pub-id-type="pmid">20711192</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/4848958">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-22"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Raghavan</surname><given-names>B</given-names></name><name><surname>Martin</surname><given-names>SF</given-names></name><name><surname>Esser</surname><given-names>PR</given-names></name><etal/></person-group>:
+<article-title>Metal allergens nickel and cobalt facilitate TLR4 homodimerization independently of MD2.</article-title>
+<source><italic>EMBO Rep.</italic></source>
+<year>2012</year>;<volume>13</volume>(<issue>12</issue>):<fpage>1109</fpage>&#x02013;<lpage>15</lpage>.
+<pub-id pub-id-type="doi">10.1038/embor.2012.155</pub-id>
+<!--<pub-id pub-id-type="pmcid">3512400</pub-id>-->
+<?supplied-pmid 23059983?><pub-id pub-id-type="pmid">23059983</pub-id></mixed-citation></ref><ref id="ref-23"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rachmawati</surname><given-names>D</given-names></name><name><surname>Bontkes</surname><given-names>HJ</given-names></name><name><surname>Verstege</surname><given-names>MI</given-names></name><etal/></person-group>:
+<article-title>Transition metal sensing by Toll-like receptor-4: next to nickel, cobalt and palladium are potent human dendritic cell stimulators.</article-title>
+<source><italic>Contact Dermatitis.</italic></source>
+<year>2013</year>;<volume>68</volume>(<issue>6</issue>):<fpage>331</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.1111/cod.12042</pub-id>
+<?supplied-pmid 23692033?><pub-id pub-id-type="pmid">23692033</pub-id></mixed-citation></ref><ref id="ref-24"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>X</given-names></name><name><surname>Zhong</surname><given-names>F</given-names></name></person-group>:
+<article-title>Nickel induces interleukin-1&#x003b2; secretion
+<italic>via</italic> the NLRP3-ASC-caspase-1 pathway.</article-title>
+<source><italic>Inflammation.</italic></source>
+<year>2014</year>;<volume>37</volume>(<issue>2</issue>):<fpage>457</fpage>&#x02013;<lpage>66</lpage>.
+<pub-id pub-id-type="doi">10.1007/s10753-013-9759-z</pub-id>
+<?supplied-pmid 24158569?><pub-id pub-id-type="pmid">24158569</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/718155383">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-25"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Adam</surname><given-names>C</given-names></name><name><surname>Wohlfarth</surname><given-names>J</given-names></name><name><surname>Hau&#x000df;mann</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>Allergy-Inducing Chromium Compounds Trigger Potent Innate Immune Stimulation Via ROS-Dependent Inflammasome Activation.</article-title>
+<source><italic>J Invest Dermatol.</italic></source>
+<year>2017</year>;<volume>137</volume>(<issue>2</issue>):<fpage>367</fpage>&#x02013;<lpage>76</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jid.2016.10.003</pub-id>
+<?supplied-pmid 27751866?><pub-id pub-id-type="pmid">27751866</pub-id></mixed-citation></ref><ref id="ref-26"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Martin</surname><given-names>SF</given-names></name><name><surname>Dudda</surname><given-names>JC</given-names></name><name><surname>Bachtanian</surname><given-names>E</given-names></name><etal/></person-group>:
+<article-title>Toll-like receptor and IL-12 signaling control susceptibility to contact hypersensitivity.</article-title>
+<source><italic>J Exp Med.</italic></source>
+<year>2008</year>;<volume>205</volume>(<issue>9</issue>):<fpage>2151</fpage>&#x02013;<lpage>62</lpage>.
+<pub-id pub-id-type="doi">10.1084/jem.20070509</pub-id>
+<!--<pub-id pub-id-type="pmcid">2526208</pub-id>-->
+<?supplied-pmid 18725520?><pub-id pub-id-type="pmid">18725520</pub-id></mixed-citation></ref><ref id="ref-27"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Esser</surname><given-names>PR</given-names></name><name><surname>W&#x000f6;lfle</surname><given-names>U</given-names></name><name><surname>D&#x000fc;rr</surname><given-names>C</given-names></name><etal/></person-group>:
+<article-title>Contact sensitizers induce skin inflammation via ROS production and hyaluronic acid degradation.</article-title>
+<source><italic>PLoS One.</italic></source>
+<year>2012</year>;<volume>7</volume>(<issue>7</issue>):<fpage>e41340</fpage>.
+<pub-id pub-id-type="doi">10.1371/journal.pone.0041340</pub-id>
+<!--<pub-id pub-id-type="pmcid">3405137</pub-id>-->
+<?supplied-pmid 22848468?><pub-id pub-id-type="pmid">22848468</pub-id></mixed-citation></ref><ref id="ref-28"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nakamura</surname><given-names>N</given-names></name><name><surname>Tamagawa-Mineoka</surname><given-names>R</given-names></name><name><surname>Ueta</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>Toll-like receptor 3 increases allergic and irritant contact dermatitis.</article-title>
+<source><italic>J Invest Dermatol.</italic></source>
+<year>2015</year>;<volume>135</volume>(<issue>2</issue>):<fpage>411</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.1038/jid.2014.402</pub-id>
+<?supplied-pmid 25229251?><pub-id pub-id-type="pmid">25229251</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/718880059">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-29"><label>29</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pedersen</surname><given-names>LK</given-names></name><name><surname>Johansen</surname><given-names>JD</given-names></name><name><surname>Held</surname><given-names>E</given-names></name><etal/></person-group>:
+<article-title>Augmentation of skin response by exposure to a combination of allergens and irritants - a review.</article-title>
+<source><italic>Contact Dermatitis.</italic></source>
+<year>2004</year>;<volume>50</volume>(<issue>5</issue>):<fpage>265</fpage>&#x02013;<lpage>73</lpage>.
+<pub-id pub-id-type="doi">10.1111/j.0105-1873.2004.00342.x</pub-id>
+<?supplied-pmid 15209808?><pub-id pub-id-type="pmid">15209808</pub-id></mixed-citation></ref><ref id="ref-30"><label>30</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Martin</surname><given-names>SF</given-names></name></person-group>:
+<article-title>Adaptation in the innate immune system and heterologous innate immunity.</article-title>
+<source><italic>Cell Mol Life Sci.</italic></source>
+<year>2014</year>;<volume>71</volume>(<issue>21</issue>):<fpage>4115</fpage>&#x02013;<lpage>30</lpage>.
+<pub-id pub-id-type="doi">10.1007/s00018-014-1676-2</pub-id>
+<?supplied-pmid 24997561?><pub-id pub-id-type="pmid">24997561</pub-id></mixed-citation></ref><ref id="ref-31"><label>31</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bonefeld</surname><given-names>CM</given-names></name><name><surname>Nielsen</surname><given-names>MM</given-names></name><name><surname>Rubin</surname><given-names>IM</given-names></name><etal/></person-group>:
+<article-title>Enhanced sensitization and elicitation responses caused by mixtures of common fragrance allergens.</article-title>
+<source><italic>Contact Dermatitis.</italic></source>
+<year>2011</year>;<volume>65</volume>(<issue>6</issue>):<fpage>336</fpage>&#x02013;<lpage>42</lpage>.
+<pub-id pub-id-type="doi">10.1111/j.1600-0536.2011.01945.x</pub-id>
+<?supplied-pmid 21767274?><pub-id pub-id-type="pmid">21767274</pub-id></mixed-citation></ref><ref id="ref-32"><label>32</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bonefeld</surname><given-names>CM</given-names></name><name><surname>Geisler</surname><given-names>C</given-names></name><name><surname>Gimen&#x000e9;z-Arnau</surname><given-names>E</given-names></name><etal/></person-group>:
+<article-title>Immunological, chemical and clinical aspects of exposure to mixtures of contact allergens.</article-title>
+<source><italic>Contact Dermatitis.</italic></source>
+<year>2017</year>;<volume>77</volume>(<issue>3</issue>):<fpage>133</fpage>&#x02013;<lpage>42</lpage>.
+<pub-id pub-id-type="doi">10.1111/cod.12847</pub-id>
+<?supplied-pmid 28677261?><pub-id pub-id-type="pmid">28677261</pub-id></mixed-citation></ref><ref id="ref-33"><label>33</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Koppes</surname><given-names>SA</given-names></name><name><surname>Engebretsen</surname><given-names>KA</given-names></name><name><surname>Agner</surname><given-names>T</given-names></name><etal/></person-group>:
+<article-title>Current knowledge on biomarkers for contact sensitization and allergic contact dermatitis.</article-title>
+<source><italic>Contact Dermatitis.</italic></source>
+<year>2017</year>;<volume>77</volume>(<issue>1</issue>):<fpage>1</fpage>&#x02013;<lpage>16</lpage>.
+<pub-id pub-id-type="doi">10.1111/cod.12789</pub-id>
+<?supplied-pmid 28497472?><pub-id pub-id-type="pmid">28497472</pub-id></mixed-citation></ref><ref id="ref-34"><label>34</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dhingra</surname><given-names>N</given-names></name><name><surname>Shemer</surname><given-names>A</given-names></name><name><surname>Correa da Rosa</surname><given-names>J</given-names></name><etal/></person-group>:
+<article-title>Molecular profiling of contact dermatitis skin identifies allergen-dependent differences in immune response.</article-title>
+<source><italic>J Allergy Clin Immunol.</italic></source>
+<year>2014</year>;<volume>134</volume>(<issue>2</issue>):<fpage>362</fpage>&#x02013;<lpage>72</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jaci.2014.03.009</pub-id>
+<?supplied-pmid 24768652?><pub-id pub-id-type="pmid">24768652</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/718363537">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-35"><label>35</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Quaranta</surname><given-names>M</given-names></name><name><surname>Knapp</surname><given-names>B</given-names></name><name><surname>Garzorz</surname><given-names>N</given-names></name><etal/></person-group>:
+<article-title>Intraindividual genome expression analysis reveals a specific molecular signature of psoriasis and eczema.</article-title>
+<source><italic>Sci Transl Med.</italic></source>
+<year>2014</year>;<volume>6</volume>(<issue>244</issue>):<fpage>244ra90</fpage>.
+<pub-id pub-id-type="doi">10.1126/scitranslmed.3008946</pub-id>
+<?supplied-pmid 25009230?><pub-id pub-id-type="pmid">25009230</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/718486922">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-36"><label>36</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Flier</surname><given-names>J</given-names></name><name><surname>Boorsma</surname><given-names>DM</given-names></name><name><surname>Bruynzeel</surname><given-names>DP</given-names></name><etal/></person-group>:
+<article-title>The CXCR3 activating chemokines IP-10, Mig, and IP-9 are expressed in allergic but not in irritant patch test reactions.</article-title>
+<source><italic>J Invest Dermatol.</italic></source>
+<year>1999</year>;<volume>113</volume>(<issue>4</issue>):<fpage>574</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.1046/j.1523-1747.1999.00730.x</pub-id>
+<?supplied-pmid 10504443?><pub-id pub-id-type="pmid">10504443</pub-id></mixed-citation></ref><ref id="ref-37"><label>37</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Meller</surname><given-names>S</given-names></name><name><surname>Lauerma</surname><given-names>AI</given-names></name><name><surname>Kopp</surname><given-names>FM</given-names></name><etal/></person-group>:
+<article-title>Chemokine responses distinguish chemical-induced allergic from irritant skin inflammation: memory T cells make the difference.</article-title>
+<source><italic>J Allergy Clin Immunol.</italic></source>
+<year>2007</year>;<volume>119</volume>(<issue>6</issue>):<fpage>1470</fpage>&#x02013;<lpage>80</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jaci.2006.12.654</pub-id>
+<?supplied-pmid 17337293?><pub-id pub-id-type="pmid">17337293</pub-id></mixed-citation></ref><ref id="ref-38"><label>38</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Garzorz-Stark</surname><given-names>N</given-names></name><name><surname>Krause</surname><given-names>L</given-names></name><name><surname>Lauffer</surname><given-names>F</given-names></name><etal/></person-group>:
+<article-title>A novel molecular disease classifier for psoriasis and eczema.</article-title>
+<source><italic>Exp Dermatol.</italic></source>
+<year>2016</year>;<volume>25</volume>(<issue>10</issue>):<fpage>767</fpage>&#x02013;<lpage>74</lpage>.
+<pub-id pub-id-type="doi">10.1111/exd.13077</pub-id>
+<?supplied-pmid 27193975?><pub-id pub-id-type="pmid">27193975</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/726366455">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-39"><label>39</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jakob</surname><given-names>A</given-names></name><name><surname>Mussotter</surname><given-names>F</given-names></name><name><surname>Ohnesorge</surname><given-names>S</given-names></name><etal/></person-group>:
+<article-title>Immunoproteomic identification and characterization of Ni
+<sup>2+</sup>-regulated proteins implicates Ni
+<sup>2+</sup> in the induction of monocyte cell death.</article-title>
+<source><italic>Cell Death Dis.</italic></source>
+<year>2017</year>;<volume>8</volume>(<issue>3</issue>):<fpage>e2684</fpage>.
+<pub-id pub-id-type="doi">10.1038/cddis.2017.112</pub-id>
+<!--<pub-id pub-id-type="pmcid">5386519</pub-id>-->
+<?supplied-pmid 28300831?><pub-id pub-id-type="pmid">28300831</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/727413216">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-40"><label>40</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schmidt</surname><given-names>M</given-names></name><name><surname>Hupe</surname><given-names>M</given-names></name><name><surname>Endres</surname><given-names>N</given-names></name><etal/></person-group>:
+<article-title>The contact allergen nickel sensitizes primary human endothelial cells and keratinocytes to TRAIL-mediated apoptosis.</article-title>
+<source><italic>J Cell Mol Med.</italic></source>
+<year>2010</year>;<volume>14</volume>(<issue>6B</issue>):<fpage>1760</fpage>&#x02013;<lpage>76</lpage>.
+<pub-id pub-id-type="doi">10.1111/j.1582-4934.2009.00823.x</pub-id>
+<!--<pub-id pub-id-type="pmcid">3829037</pub-id>-->
+<?supplied-pmid 19538462?><pub-id pub-id-type="pmid">19538462</pub-id></mixed-citation></ref><ref id="ref-41"><label>41</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mussotter</surname><given-names>F</given-names></name><name><surname>Tomm</surname><given-names>JM</given-names></name><name><surname>El Ali</surname><given-names>Z</given-names></name><etal/></person-group>:
+<article-title>Proteomics analysis of dendritic cell activation by contact allergens reveals possible biomarkers regulated by Nrf2.</article-title>
+<source><italic>Toxicol Appl Pharmacol.</italic></source>
+<year>2016</year>;<volume>313</volume>:<fpage>170</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.taap.2016.11.001</pub-id>
+<?supplied-pmid 27816475?><pub-id pub-id-type="pmid">27816475</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/726964633">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-42"><label>42</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zinkevi&#x0010d;ien&#x00117;</surname><given-names>A</given-names></name><name><surname>Kainov</surname><given-names>D</given-names></name><name><surname>Lastauskien&#x00117;</surname><given-names>E</given-names></name><etal/></person-group>:
+<article-title>Serum Biomarkers of Allergic Contact Dermatitis: A Pilot Study.</article-title>
+<source><italic>Int Arch Allergy Immunol.</italic></source>
+<year>2015</year>;<volume>168</volume>(<issue>3</issue>):<fpage>161</fpage>&#x02013;<lpage>4</lpage>.
+<pub-id pub-id-type="doi">10.1159/000442749</pub-id>
+<?supplied-pmid 26790150?><pub-id pub-id-type="pmid">26790150</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/726087751">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-43"><label>43</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Koppes</surname><given-names>SA</given-names></name><name><surname>Ljubojevic Hadzavdic</surname><given-names>S</given-names></name><name><surname>Jakasa</surname><given-names>I</given-names></name><etal/></person-group>:
+<article-title>Stratum corneum profiles of inflammatory mediators in patch test reactions to common contact allergens and sodium lauryl sulfate.</article-title>
+<source><italic>Br J Dermatol.</italic></source>
+<year>2017</year>;<volume>176</volume>(<issue>6</issue>):<fpage>1533</fpage>&#x02013;<lpage>40</lpage>.
+<pub-id pub-id-type="doi">10.1111/bjd.15163</pub-id>
+<?supplied-pmid 28382616?><pub-id pub-id-type="pmid">28382616</pub-id></mixed-citation></ref><ref id="ref-44"><label>44</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mose</surname><given-names>KF</given-names></name><name><surname>Burton</surname><given-names>M</given-names></name><name><surname>Thomassen</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>The gene expression and immunohistochemical time-course of diphenylcyclopropenone-induced contact allergy in healthy humans following repeated epicutaneous challenges.</article-title>
+<source><italic>Exp Dermatol.</italic></source>
+<year>2017</year>;<volume>26</volume>(<issue>10</issue>):<fpage>926</fpage>&#x02013;<lpage>33</lpage>.
+<pub-id pub-id-type="doi">10.1111/exd.13345</pub-id>
+<?supplied-pmid 28370374?><pub-id pub-id-type="pmid">28370374</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/727472237">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-45"><label>45</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Molin</surname><given-names>S</given-names></name><name><surname>Merl</surname><given-names>J</given-names></name><name><surname>Dietrich</surname><given-names>KA</given-names></name><etal/></person-group>:
+<article-title>The hand eczema proteome: imbalance of epidermal barrier proteins.</article-title>
+<source><italic>Br J Dermatol.</italic></source>
+<year>2015</year>;<volume>172</volume>(<issue>4</issue>):<fpage>994</fpage>&#x02013;<lpage>1001</lpage>.
+<pub-id pub-id-type="doi">10.1111/bjd.13418</pub-id>
+<?supplied-pmid 25244099?><pub-id pub-id-type="pmid">25244099</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/718882429">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-46"><label>46</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Braun</surname><given-names>A</given-names></name><name><surname>Dewert</surname><given-names>N</given-names></name><name><surname>Brunnert</surname><given-names>F</given-names></name><etal/></person-group>:
+<article-title>Integrin &#x003b1;
+<sub>E</sub>(CD103) Is Involved in Regulatory T-Cell Function in Allergic Contact Hypersensitivity.</article-title>
+<source><italic>J Invest Dermatol.</italic></source>
+<year>2015</year>;<volume>135</volume>(<issue>12</issue>):<fpage>2982</fpage>&#x02013;<lpage>91</lpage>.
+<pub-id pub-id-type="doi">10.1038/jid.2015.287</pub-id>
+<?supplied-pmid 26203637?><pub-id pub-id-type="pmid">26203637</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/725668311">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-47"><label>47</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Klein</surname><given-names>M</given-names></name><name><surname>Bopp</surname><given-names>T</given-names></name></person-group>:
+<article-title>Cyclic AMP Represents a Crucial Component of Treg Cell-Mediated Immune Regulation.</article-title>
+<source><italic>Front Immunol.</italic></source>
+<year>2016</year>;<volume>7</volume>:<fpage>315</fpage>.
+<pub-id pub-id-type="doi">10.3389/fimmu.2016.00315</pub-id>
+<!--<pub-id pub-id-type="pmcid">5002888</pub-id>-->
+<?supplied-pmid 27621729?><pub-id pub-id-type="pmid">27621729</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/726734896">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-48"><label>48</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mahnke</surname><given-names>K</given-names></name><name><surname>Useliene</surname><given-names>J</given-names></name><name><surname>Ring</surname><given-names>S</given-names></name><etal/></person-group>:
+<article-title>Down-Regulation of CD62L Shedding in T Cells by CD39
+<sup>+</sup> Regulatory T Cells Leads to Defective Sensitization in Contact Hypersensitivity Reactions.</article-title>
+<source><italic>J Invest Dermatol.</italic></source>
+<year>2017</year>;<volume>137</volume>(<issue>1</issue>):<fpage>106</fpage>&#x02013;<lpage>14</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jid.2016.08.023</pub-id>
+<!--<pub-id pub-id-type="pmcid">5472987</pub-id>-->
+<?supplied-pmid 27623510?><pub-id pub-id-type="pmid">27623510</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/726734209">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-49"><label>49</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Weber</surname><given-names>FC</given-names></name><name><surname>Esser</surname><given-names>PR</given-names></name><name><surname>M&#x000fc;ller</surname><given-names>T</given-names></name><etal/></person-group>:
+<article-title>Lack of the purinergic receptor P2X
+<sub>7</sub> results in resistance to contact hypersensitivity.</article-title>
+<source><italic>J Exp Med.</italic></source>
+<year>2010</year>;<volume>207</volume>(<issue>12</issue>):<fpage>2609</fpage>&#x02013;<lpage>19</lpage>.
+<pub-id pub-id-type="doi">10.1084/jem.20092489</pub-id>
+<!--<pub-id pub-id-type="pmcid">2989767</pub-id>-->
+<?supplied-pmid 21059855?><pub-id pub-id-type="pmid">21059855</pub-id></mixed-citation></ref><ref id="ref-50"><label>50</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Neuberger</surname><given-names>A</given-names></name><name><surname>Ring</surname><given-names>S</given-names></name><name><surname>Silva-Vilches</surname><given-names>C</given-names></name><etal/></person-group>:
+<article-title>Expression of CD73 slows down migration of skin dendritic cells, affecting the sensitization phase of contact hypersensitivity reactions in mice.</article-title>
+<source><italic>J Dermatol Sci.</italic></source>
+<year>2017</year>;<volume>87</volume>(<issue>3</issue>):<fpage>292</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jdermsci.2017.07.002</pub-id>
+<?supplied-pmid 28743609?><pub-id pub-id-type="pmid">28743609</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/727841890">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-51"><label>51</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sun</surname><given-names>J</given-names></name><name><surname>Madan</surname><given-names>R</given-names></name><name><surname>Karp</surname><given-names>CL</given-names></name><etal/></person-group>:
+<article-title>Effector T cells control lung inflammation during acute influenza virus infection by producing IL-10.</article-title>
+<source><italic>Nat Med.</italic></source>
+<year>2009</year>;<volume>15</volume>(<issue>3</issue>):<fpage>277</fpage>&#x02013;<lpage>84</lpage>.
+<pub-id pub-id-type="doi">10.1038/nm.1929</pub-id>
+<!--<pub-id pub-id-type="pmcid">2693210</pub-id>-->
+<?supplied-pmid 19234462?><pub-id pub-id-type="pmid">19234462</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/1157154">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-52"><label>52</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sun</surname><given-names>J</given-names></name><name><surname>Cardani</surname><given-names>A</given-names></name><name><surname>Sharma</surname><given-names>AK</given-names></name><etal/></person-group>:
+<article-title>Autocrine regulation of pulmonary inflammation by effector T-cell derived IL-10 during infection with respiratory syncytial virus.</article-title>
+<source><italic>PLoS Pathog.</italic></source>
+<year>2011</year>;<volume>7</volume>(<issue>8</issue>):<fpage>e1002173</fpage>.
+<pub-id pub-id-type="doi">10.1371/journal.ppat.1002173</pub-id>
+<!--<pub-id pub-id-type="pmcid">3150291</pub-id>-->
+<?supplied-pmid 21829368?><pub-id pub-id-type="pmid">21829368</pub-id></mixed-citation></ref><ref id="ref-53"><label>53</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dolch</surname><given-names>A</given-names></name><name><surname>Kunz</surname><given-names>S</given-names></name><name><surname>Dorn</surname><given-names>B</given-names></name><etal/></person-group>:
+<article-title>Contact allergens induce CD8
+<sup>+</sup> T cell-derived interleukin 10 that appears dispensable for regulation of contact hypersensitivity.</article-title>
+<source><italic>Exp Dermatol.</italic></source>
+<year>2017</year>;<volume>26</volume>(<issue>5</issue>):<fpage>449</fpage>&#x02013;<lpage>51</lpage>.
+<pub-id pub-id-type="doi">10.1111/exd.13237</pub-id>
+<?supplied-pmid 27714845?><pub-id pub-id-type="pmid">27714845</pub-id></mixed-citation></ref><ref id="ref-54"><label>54</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fjelbye</surname><given-names>J</given-names></name><name><surname>Antvorskov</surname><given-names>JC</given-names></name><name><surname>Buschard</surname><given-names>K</given-names></name><etal/></person-group>:
+<article-title>CD1d knockout mice exhibit aggravated contact hypersensitivity responses due to reduced interleukin-10 production predominantly by regulatory B cells.</article-title>
+<source><italic>Exp Dermatol.</italic></source>
+<year>2015</year>;<volume>24</volume>(<issue>11</issue>):<fpage>853</fpage>&#x02013;<lpage>6</lpage>.
+<pub-id pub-id-type="doi">10.1111/exd.12792</pub-id>
+<?supplied-pmid 26121177?><pub-id pub-id-type="pmid">26121177</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/728725959">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-55"><label>55</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gomez de Ag&#x000fc;ero</surname><given-names>M</given-names></name><name><surname>Vocanson</surname><given-names>M</given-names></name><name><surname>Hacini-Rachinel</surname><given-names>F</given-names></name><etal/></person-group>:
+<article-title>Langerhans cells protect from allergic contact dermatitis in mice by tolerizing CD8
+<sup>+</sup> T cells and activating Foxp3
+<sup>+</sup> regulatory T cells.</article-title>
+<source><italic>J Clin Invest.</italic></source>
+<year>2012</year>;<volume>122</volume>(<issue>5</issue>):<fpage>1700</fpage>&#x02013;<lpage>11</lpage>.
+<pub-id pub-id-type="doi">10.1172/JCI59725</pub-id>
+<!--<pub-id pub-id-type="pmcid">3336977</pub-id>-->
+<?supplied-pmid 22523067?><pub-id pub-id-type="pmid">22523067</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/717952230">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-56"><label>56</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Luckey</surname><given-names>U</given-names></name><name><surname>Schmidt</surname><given-names>T</given-names></name><name><surname>Pfender</surname><given-names>N</given-names></name><etal/></person-group>:
+<article-title>Crosstalk of regulatory T cells and tolerogenic dendritic cells prevents contact allergy in subjects with low zone tolerance.</article-title>
+<source><italic>J Allergy Clin Immunol.</italic></source>
+<year>2012</year>;<volume>130</volume>(<issue>3</issue>):<fpage>781</fpage>&#x02013;<lpage>797.e11</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jaci.2012.06.022</pub-id>
+<?supplied-pmid 22935591?><pub-id pub-id-type="pmid">22935591</pub-id></mixed-citation></ref><ref id="ref-57"><label>57</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hacini-Rachinel</surname><given-names>F</given-names></name><name><surname>Gomez de Ag&#x000fc;ero</surname><given-names>M</given-names></name><name><surname>Kanjarawi</surname><given-names>R</given-names></name><etal/></person-group>:
+<article-title>Intestinal dendritic cell licensing through Toll-like receptor 4 is required for oral tolerance in allergic contact dermatitis.</article-title>
+<source><italic>J Allergy Clin Immunol.</italic></source>
+<year>2018</year>;<volume>141</volume>(<issue>1</issue>):<fpage>163</fpage>&#x02013;<lpage>70</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jaci.2017.02.022</pub-id>
+<?supplied-pmid 28342908?><pub-id pub-id-type="pmid">28342908</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/727446785">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-58"><label>58</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>El Beidaq</surname><given-names>A</given-names></name><name><surname>Link</surname><given-names>CW</given-names></name><name><surname>Hofmann</surname><given-names>K</given-names></name><etal/></person-group>:
+<article-title>
+<italic>In Vivo</italic> Expansion of Endogenous Regulatory T Cell Populations Induces Long-Term Suppression of Contact Hypersensitivity.</article-title>
+<source><italic>J Immunol.</italic></source>
+<year>2016</year>;<volume>197</volume>(<issue>5</issue>):<fpage>1567</fpage>&#x02013;<lpage>76</lpage>.
+<pub-id pub-id-type="doi">10.4049/jimmunol.1600508</pub-id>
+<?supplied-pmid 27439515?><pub-id pub-id-type="pmid">27439515</pub-id></mixed-citation></ref><ref id="ref-59"><label>59</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Di Gioacchino</surname><given-names>M</given-names></name><name><surname>Ricciardi</surname><given-names>L</given-names></name><name><surname>De Pit&#x000e0;</surname><given-names>O</given-names></name><etal/></person-group>:
+<article-title>Nickel oral hyposensitization in patients with systemic nickel allergy syndrome.</article-title>
+<source><italic>Ann Med.</italic></source>
+<year>2014</year>;<volume>46</volume>(<issue>1</issue>):<fpage>31</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.3109/07853890.2013.861158</pub-id>
+<!--<pub-id pub-id-type="pmcid">4673509</pub-id>-->
+<?supplied-pmid 24256166?><pub-id pub-id-type="pmid">24256166</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/718183092">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-60"><label>60</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Christoffers</surname><given-names>WA</given-names></name><name><surname>Bl&#x000f6;meke</surname><given-names>B</given-names></name><name><surname>Coenraads</surname><given-names>PJ</given-names></name><etal/></person-group>:
+<article-title>The optimal patch test concentration for ascaridole as a sensitizing component of tea tree oil.</article-title>
+<source><italic>Contact Dermatitis.</italic></source>
+<year>2014</year>;<volume>71</volume>(<issue>3</issue>):<fpage>129</fpage>&#x02013;<lpage>37</lpage>.
+<pub-id pub-id-type="doi">10.1111/cod.12199</pub-id>
+<?supplied-pmid 24645715?><pub-id pub-id-type="pmid">24645715</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/718320685">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-61"><label>61</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chaudhry</surname><given-names>HM</given-names></name><name><surname>Drage</surname><given-names>LA</given-names></name><name><surname>El-Azhary</surname><given-names>RA</given-names></name><etal/></person-group>:
+<article-title>Delayed Patch-Test Reading After 5 Days: An Update From the Mayo Clinic Contact Dermatitis Group.</article-title>
+<source><italic>Dermatitis.</italic></source>
+<year>2017</year>;<volume>28</volume>(<issue>4</issue>):<fpage>253</fpage>&#x02013;<lpage>60</lpage>.
+<pub-id pub-id-type="doi">10.1097/DER.0000000000000297</pub-id>
+<?supplied-pmid 28719473?><pub-id pub-id-type="pmid">28719473</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/733460458">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-62"><label>62</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Joy</surname><given-names>NM</given-names></name><name><surname>Rice</surname><given-names>KR</given-names></name><name><surname>Atwater</surname><given-names>AR</given-names></name></person-group>:
+<article-title>Stability of patch test allergens.</article-title>
+<source><italic>Dermatitis.</italic></source>
+<year>2013</year>;<volume>24</volume>(<issue>5</issue>):<fpage>227</fpage>&#x02013;<lpage>36</lpage>.
+<pub-id pub-id-type="doi">10.1097/DER.0b013e3182a0a19d</pub-id>
+<?supplied-pmid 24030367?><pub-id pub-id-type="pmid">24030367</pub-id></mixed-citation></ref><ref id="ref-63"><label>63</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Johansen</surname><given-names>JD</given-names></name><name><surname>Aalto-Korte</surname><given-names>K</given-names></name><name><surname>Agner</surname><given-names>T</given-names></name><etal/></person-group>:
+<article-title>European Society of Contact Dermatitis guideline for diagnostic patch testing - recommendations on best practice.</article-title>
+<source><italic>Contact Dermatitis.</italic></source>
+<year>2015</year>;<volume>73</volume>(<issue>4</issue>):<fpage>195</fpage>&#x02013;<lpage>221</lpage>.
+<pub-id pub-id-type="doi">10.1111/cod.12432</pub-id>
+<?supplied-pmid 26179009?><pub-id pub-id-type="pmid">26179009</pub-id></mixed-citation></ref><ref id="ref-64"><label>64</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Engfeldt</surname><given-names>M</given-names></name><name><surname>Hagvall</surname><given-names>L</given-names></name><name><surname>Isaksson</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>Patch testing with hydroxyisohexyl 3-cyclohexene carboxaldehyde (HICC) - a multicentre study of the Swedish Contact Dermatitis Research Group.</article-title>
+<source><italic>Contact Dermatitis.</italic></source>
+<year>2017</year>;<volume>76</volume>(<issue>1</issue>):<fpage>34</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1111/cod.12699</pub-id>
+<?supplied-pmid 27767215?><pub-id pub-id-type="pmid">27767215</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/733460459">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-65"><label>65</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Uter</surname><given-names>W</given-names></name><name><surname>Bruze</surname><given-names>M</given-names></name><name><surname>Rustemeyer</surname><given-names>T</given-names></name><etal/></person-group>:
+<article-title>Re "International survey on skin patch test procedures, attitudes and interpretation" L.K. Tanno et al., WAOJ (2016) 9:8.</article-title>
+<source><italic>World Allergy Organ J.</italic></source>
+<year>2017</year>;<volume>10</volume>(<issue>1</issue>):<fpage>18</fpage>.
+<pub-id pub-id-type="doi">10.1186/s40413-017-0149-0</pub-id>
+<!--<pub-id pub-id-type="pmcid">5405465</pub-id>-->
+<?supplied-pmid 28469764?><pub-id pub-id-type="pmid">28469764</pub-id></mixed-citation></ref><ref id="ref-66"><label>66</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kim</surname><given-names>N</given-names></name><name><surname>Notik</surname><given-names>S</given-names></name><name><surname>Gottlieb</surname><given-names>AB</given-names></name><etal/></person-group>:
+<article-title>Patch test results in psoriasis patients on biologics.</article-title>
+<source><italic>Dermatitis.</italic></source>
+<year>2014</year>;<volume>25</volume>(<issue>4</issue>):<fpage>182</fpage>&#x02013;<lpage>90</lpage>.
+<pub-id pub-id-type="doi">10.1097/DER.0000000000000056</pub-id>
+<?supplied-pmid 25000235?><pub-id pub-id-type="pmid">25000235</pub-id></mixed-citation></ref><ref id="ref-67"><label>67</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wee</surname><given-names>JS</given-names></name><name><surname>White</surname><given-names>JM</given-names></name><name><surname>McFadden</surname><given-names>JP</given-names></name><etal/></person-group>:
+<article-title>Patch testing in patients treated with systemic immunosuppression and cytokine inhibitors.</article-title>
+<source><italic>Contact Dermatitis.</italic></source>
+<year>2010</year>;<volume>62</volume>(<issue>3</issue>):<fpage>165</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1111/j.1600-0536.2009.01695.x</pub-id>
+<?supplied-pmid 20565503?><pub-id pub-id-type="pmid">20565503</pub-id></mixed-citation></ref></ref-list></back></article>

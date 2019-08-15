@@ -1,0 +1,617 @@
+{
+  "id": [
+    "28265291"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28265291"
+  ],
+  "pmcid": [
+    "PMC5317110"
+  ],
+  "doi": [
+    "10.1155/2017/4034179"
+  ],
+  "title": [
+    "Oral Health of Patients Treated with Acrylic Partial Dentures Using a Toothpaste Containing Bee Product."
+  ],
+  "authorString": [
+    "Wiatrak K, Morawiec T, Rój R, Mertas A, Machorowska-Pieniążek A, Kownacki P, Tanasiewicz M, Skucha-Nowak M, Baron S, Piekarz T, Wrzoł M, Bogacz M, Kasperski J, Niedzielska I."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wiatrak K"
+          ],
+          "firstName": [
+            "Karolina"
+          ],
+          "lastName": [
+            "Wiatrak"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4299-6948",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Oral Surgery, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia in Katowice, Plac Akademicki 17, 41-902 Bytom, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Morawiec T"
+          ],
+          "firstName": [
+            "Tadeusz"
+          ],
+          "lastName": [
+            "Morawiec"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2283-5784",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Oral Surgery, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia in Katowice, Plac Akademicki 17, 41-902 Bytom, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Rój R"
+          ],
+          "firstName": [
+            "Rafał"
+          ],
+          "lastName": [
+            "Rój"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4357-8000",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Prosthetic Dentistry, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia in Katowice, Plac Akademicki 17, 41-902 Bytom, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Mertas A"
+          ],
+          "firstName": [
+            "Anna"
+          ],
+          "lastName": [
+            "Mertas"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0796-8818",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Microbiology and Immunology, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia in Katowice, Jordana 19, 41-808 Zabrze, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Machorowska-Pieniążek A"
+          ],
+          "firstName": [
+            "Agnieszka"
+          ],
+          "lastName": [
+            "Machorowska-Pieniążek"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3894-1298",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Orthodontics, Chair of Masticatory Dysfunction and Orthodontics, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia in Katowice, Plac Traugutta 2, 41-800 Zabrze, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Kownacki P"
+          ],
+          "firstName": [
+            "Patryk"
+          ],
+          "lastName": [
+            "Kownacki"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Oral Surgery, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia in Katowice, Plac Akademicki 17, 41-902 Bytom, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Tanasiewicz M"
+          ],
+          "firstName": [
+            "Marta"
+          ],
+          "lastName": [
+            "Tanasiewicz"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8700-7381",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Conservative Dentistry with Endodontics, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia in Katowice, Plac Akademicki 17, 41-902 Bytom, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Skucha-Nowak M"
+          ],
+          "firstName": [
+            "Małgorzata"
+          ],
+          "lastName": [
+            "Skucha-Nowak"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0584-968X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Conservative Dentistry with Endodontics, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia in Katowice, Plac Akademicki 17, 41-902 Bytom, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Baron S"
+          ],
+          "firstName": [
+            "Stefan"
+          ],
+          "lastName": [
+            "Baron"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4951-8030",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Chair of Masticatory Dysfunction and Orthodontics, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia in Katowice, Plac Traugutta 2, 41-800 Zabrze, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Piekarz T"
+          ],
+          "firstName": [
+            "Tomasz"
+          ],
+          "lastName": [
+            "Piekarz"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Oral Surgery, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia in Katowice, Plac Akademicki 17, 41-902 Bytom, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Wrzoł M"
+          ],
+          "firstName": [
+            "Maciej"
+          ],
+          "lastName": [
+            "Wrzoł"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8205-3576",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Oral Surgery, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia in Katowice, Plac Akademicki 17, 41-902 Bytom, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Bogacz M"
+          ],
+          "firstName": [
+            "Mateusz"
+          ],
+          "lastName": [
+            "Bogacz"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1530-749X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Oral Surgery, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia in Katowice, Plac Akademicki 17, 41-902 Bytom, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Kasperski J"
+          ],
+          "firstName": [
+            "Jacek"
+          ],
+          "lastName": [
+            "Kasperski"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Prosthetic Dentistry, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia in Katowice, Plac Akademicki 17, 41-902 Bytom, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Niedzielska I"
+          ],
+          "firstName": [
+            "Iwona"
+          ],
+          "lastName": [
+            "Niedzielska"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1256-9408",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department and Hospital of Craniomaxillofacial Surgery and Oral Surgery, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia in Katowice, Plac Akademicki 17, 41-902 Bytom, Poland."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1256-9408",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4299-6948",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3894-1298",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1530-749X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4357-8000",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4951-8030",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8205-3576",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2283-5784",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0796-8818",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8700-7381",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0584-968X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2017"
+      ],
+      "journalIssueId": [
+        "2517870"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Evidence-based complementary and alternative medicine : eCAM"
+          ],
+          "ISOAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "medlineAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "NLMid": [
+            "101215021"
+          ],
+          "ISSN": [
+            "1741-427X"
+          ],
+          "ESSN": [
+            "1741-4288"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "4034179"
+  ],
+  "abstractText": [
+    "This study was carried out to investigate the influence of a propolis and tee tree oil-containing hygienic agent on selected oral health parameters, oral microflora, and the condition of periodontal health. Thirty-seven patients who underwent oral rehabilitation with a removable acrylic denture were selected and randomly assigned into two groups: study group (A) which received a newly formulated propolis and tee tree oil-containing toothpaste or a control group (C) without an active ingredient. API, S-OHI, and mSBI were assessed in three subsequent stages. During each examination swabs were employed for microbiological inoculation: in the study group after 4 weeks use of the active toothpaste showed a decrease in the number of isolated microorganisms. In the control group, after 4 weeks use of the toothpaste without active ingredients resulted in increase in the number of the isolated microorganisms. Improvements in hygiene and the condition of periodontium were observed in patients using active toothpastes. In the study group the oral flora diversity was reduced by the decrease in the number of cultured microorganism species, while in the control group an increase in the number of cultured microorganisms and their species was observed."
+  ],
+  "affiliation": [
+    "Department of Oral Surgery, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia in Katowice, Plac Akademicki 17, 41-902 Bytom, Poland."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5317110?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5317110"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2017/4034179"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-03-07"
+  ],
+  "firstIndexDate": [
+    "2017-03-08"
+  ],
+  "dateOfRevision": [
+    "2017-08-16"
+  ],
+  "electronicPublicationDate": [
+    "2017-02-06"
+  ],
+  "firstPublicationDate": [
+    "2017-02-06"
+  ]
+}

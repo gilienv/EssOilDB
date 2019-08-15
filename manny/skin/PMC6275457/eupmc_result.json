@@ -1,0 +1,1082 @@
+{
+  "id": [
+    "30445460"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30445460"
+  ],
+  "pmcid": [
+    "PMC6275457"
+  ],
+  "doi": [
+    "10.1093/gigascience/giy127"
+  ],
+  "title": [
+    "Genomes of trombidid mites reveal novel predicted allergens and laterally transferred genes associated with secondary metabolism."
+  ],
+  "authorString": [
+    "Dong X, Chaisiri K, Xia D, Armstrong SD, Fang Y, Donnelly MJ, Kadowaki T, McGarry JW, Darby AC, Makepeace BL."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Dong X"
+          ],
+          "firstName": [
+            "Xiaofeng"
+          ],
+          "lastName": [
+            "Dong"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Institute of Integrative Biology, University of Liverpool, Liverpool L69 7ZB, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Chaisiri K"
+          ],
+          "firstName": [
+            "Kittipong"
+          ],
+          "lastName": [
+            "Chaisiri"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Institute of Infection & Global Health, University of Liverpool, L3 5RF, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Xia D"
+          ],
+          "firstName": [
+            "Dong"
+          ],
+          "lastName": [
+            "Xia"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Institute of Infection & Global Health, University of Liverpool, L3 5RF, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Armstrong SD"
+          ],
+          "firstName": [
+            "Stuart D"
+          ],
+          "lastName": [
+            "Armstrong"
+          ],
+          "initials": [
+            "SD"
+          ],
+          "affiliation": [
+            "Institute of Infection & Global Health, University of Liverpool, L3 5RF, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Fang Y"
+          ],
+          "firstName": [
+            "Yongxiang"
+          ],
+          "lastName": [
+            "Fang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Institute of Integrative Biology, University of Liverpool, Liverpool L69 7ZB, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Donnelly MJ"
+          ],
+          "firstName": [
+            "Martin J"
+          ],
+          "lastName": [
+            "Donnelly"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5218-1497",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Vector Biology, Liverpool School of Tropical Medicine, Liverpool L3 5QA, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Kadowaki T"
+          ],
+          "firstName": [
+            "Tatsuhiko"
+          ],
+          "lastName": [
+            "Kadowaki"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Biological Sciences, Xi'an Jiaotong-Liverpool University, Suzhou 215123, China."
+          ]
+        },
+        {
+          "fullName": [
+            "McGarry JW"
+          ],
+          "firstName": [
+            "John W"
+          ],
+          "lastName": [
+            "McGarry"
+          ],
+          "initials": [
+            "JW"
+          ],
+          "affiliation": [
+            "Institute of Veterinary Science, University of Liverpool, Liverpool L3 5RP, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Darby AC"
+          ],
+          "firstName": [
+            "Alistair C"
+          ],
+          "lastName": [
+            "Darby"
+          ],
+          "initials": [
+            "AC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3786-6209",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Integrative Biology, University of Liverpool, Liverpool L69 7ZB, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Makepeace BL"
+          ],
+          "firstName": [
+            "Benjamin L"
+          ],
+          "lastName": [
+            "Makepeace"
+          ],
+          "initials": [
+            "BL"
+          ],
+          "affiliation": [
+            "Institute of Infection & Global Health, University of Liverpool, L3 5RF, United Kingdom."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5218-1497",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3786-6209",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2754956"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "GigaScience"
+          ],
+          "ISOAbbreviation": [
+            "Gigascience"
+          ],
+          "medlineAbbreviation": [
+            "Gigascience"
+          ],
+          "NLMid": [
+            "101596872"
+          ],
+          "ISSN": [
+            "2047-217X"
+          ],
+          "ESSN": [
+            "2047-217X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "Background:Trombidid mites have a unique life cycle in which only the larval stage is ectoparasitic. In the superfamily Trombiculoidea (\"chiggers\"), the larvae feed preferentially on vertebrates, including humans. Species in the genus Leptotrombidium are vectors of a potentially fatal bacterial infection, scrub typhus, that affects 1 million people annually. Moreover, chiggers can cause pruritic dermatitis (trombiculiasis) in humans and domesticated animals. In the Trombidioidea (velvet mites), the larvae feed on other arthropods and are potential biological control agents for agricultural pests. Here, we present the first trombidid mites genomes, obtained both for a chigger, Leptotrombidium deliense, and for a velvet mite, Dinothrombium tinctorium. Results:Sequencing was performed using Illumina technology. A 180 Mb draft assembly for D. tinctorium was generated from two paired-end and one mate-pair library using a single adult specimen. For L. deliense, a lower-coverage draft assembly (117 Mb) was obtained using pooled, engorged larvae with a single paired-end library. Remarkably, both genomes exhibited evidence of ancient lateral gene transfer from soil-derived bacteria or fungi. The transferred genes confer functions that are rare in animals, including terpene and carotenoid synthesis. Thirty-seven allergenic protein families were predicted in the L. deliense genome, of which nine were unique. Preliminary proteomic analyses identified several of these putative allergens in larvae. Conclusions:Trombidid mite genomes appear to be more dynamic than those of other acariform mites. A priority for future research is to determine the biological function of terpene synthesis in this taxon and its potential for exploitation in disease control."
+  ],
+  "affiliation": [
+    "Institute of Integrative Biology, University of Liverpool, Liverpool L69 7ZB, United Kingdom."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mites"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GD"
+                  ],
+                  "qualifierName": [
+                    "growth & development"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Trombiculidae"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Bacteria"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fungi"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Alkyl and Aryl Transferases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Bacterial Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fungal Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Allergens"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chromatography, High Pressure Liquid"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phylogeny"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Transfer, Horizontal"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Larva"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Tandem Mass Spectrometry"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Salivary Proteins and Peptides"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Opsins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Arthropod Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Secondary Metabolism"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "terpene synthase"
+          ],
+          "registryNumber": [
+            "EC 2.5.1.-"
+          ]
+        },
+        {
+          "name": [
+            "Allergens"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Fungal Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Bacterial Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Alkyl and Aryl Transferases"
+          ],
+          "registryNumber": [
+            "EC 2.5.-"
+          ]
+        },
+        {
+          "name": [
+            "Salivary Proteins and Peptides"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Opsins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Arthropod Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6275457?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6275457"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/gigascience/giy127"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR19216"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL",
+        "PRIDE"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject",
+        "rfam",
+        "pfam",
+        "pxd",
+        "rrid",
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-04-11"
+  ],
+  "dateOfCreation": [
+    "2018-11-17"
+  ],
+  "firstIndexDate": [
+    "2018-11-17"
+  ],
+  "dateOfRevision": [
+    "2019-04-11"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-01"
+  ],
+  "firstPublicationDate": [
+    "2018-12-01"
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "id": [
+    "31231482"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31231482"
+  ],
+  "pmcid": [
+    "PMC6566486"
+  ],
+  "doi": [
+    "10.1080/20009666.2018.1536243"
+  ],
+  "title": [
+    "Rhabdomyolysis in an unsuspecting patient."
+  ],
+  "authorString": [
+    "Farmer C, Barnard J, Zhu J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Farmer C"
+          ],
+          "firstName": [
+            "Charlie"
+          ],
+          "lastName": [
+            "Farmer"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Internal Medicine GME Department, Wellstar Kennestone Regional Medical Center, Marietta, GA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Barnard J"
+          ],
+          "firstName": [
+            "Jessica"
+          ],
+          "lastName": [
+            "Barnard"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Internal Medicine GME Department, Wellstar Kennestone Regional Medical Center, Marietta, GA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu J"
+          ],
+          "firstName": [
+            "Joanne"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Medicine, Hospital Medicine, Wellstar Kennestone Regional Medical Center."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2761332"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of community hospital internal medicine perspectives"
+          ],
+          "ISOAbbreviation": [
+            "J Community Hosp Intern Med Perspect"
+          ],
+          "medlineAbbreviation": [
+            "J Community Hosp Intern Med Perspect"
+          ],
+          "NLMid": [
+            "101601396"
+          ],
+          "ISSN": [
+            "2000-9666"
+          ],
+          "ESSN": [
+            "2000-9666"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "386-388"
+  ],
+  "abstractText": [
+    "Vitex is an herbal supplement marketed towards women to help regulate menstrual cycles, alleviate some symptoms of premenstrual syndrome, and boost fertility. It is non-FDA regulated and can be purchased from many different places including online and in health stores. We report a case of a 36-year old African American female with no past medical history who developed severe bilateral thigh pain and swelling four days after starting Vitex. This occurred only after mild to moderate exercise that was no more intense than the patient's typical routine, and she stated to be well hydrated that day. After appropriate labs and workup, she was diagnosed with rhabdomyolysis and admitted to the hospital for close observation and IV fluids. This report is designed to raise the concern that Vitex may potentiate muscle damage with exertion during routine exercise."
+  ],
+  "affiliation": [
+    "Internal Medicine GME Department, Wellstar Kennestone Regional Medical Center, Marietta, GA, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Case Reports",
+        "case-report"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Supplement",
+        "Exercise",
+        "Vitex",
+        "Rhabdomyolysis",
+        "Herbal",
+        "Rhabdo"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6566486?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6566486"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/20009666.2018.1536243"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-25"
+  ],
+  "firstIndexDate": [
+    "2019-06-25"
+  ],
+  "dateOfRevision": [
+    "2019-06-27"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-28"
+  ],
+  "firstPublicationDate": [
+    "2018-12-28"
+  ]
+}

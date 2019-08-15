@@ -1,0 +1,339 @@
+{
+  "id": [
+    "30065580"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30065580"
+  ],
+  "pmcid": [
+    "PMC6029968"
+  ],
+  "doi": [
+    "10.5021/ad.2018.30.4.409"
+  ],
+  "title": [
+    "Effect of Evening Primrose Oil on Korean Patients With Mild Atopic Dermatitis: A Randomized, Double-Blinded, Placebo-Controlled Clinical Study."
+  ],
+  "authorString": [
+    "Chung BY, Park SY, Jung MJ, Kim HO, Park CW."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chung BY"
+          ],
+          "firstName": [
+            "Bo Young"
+          ],
+          "lastName": [
+            "Chung"
+          ],
+          "initials": [
+            "BY"
+          ],
+          "affiliation": [
+            "Department of Dermatology, Kangnam Sacred Heart Hospital, Hallym University College of Medicine, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Park SY"
+          ],
+          "firstName": [
+            "Sook Young"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "SY"
+          ],
+          "affiliation": [
+            "Department of Dermatology, Kangnam Sacred Heart Hospital, Hallym University College of Medicine, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Jung MJ"
+          ],
+          "firstName": [
+            "Min Je"
+          ],
+          "lastName": [
+            "Jung"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "affiliation": [
+            "Department of Dermatology, Kangnam Sacred Heart Hospital, Hallym University College of Medicine, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim HO"
+          ],
+          "firstName": [
+            "Hye One"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "HO"
+          ],
+          "affiliation": [
+            "Department of Dermatology, Kangnam Sacred Heart Hospital, Hallym University College of Medicine, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Park CW"
+          ],
+          "firstName": [
+            "Chun Wook"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "CW"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4512-8668",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Dermatology, Kangnam Sacred Heart Hospital, Hallym University College of Medicine, Seoul, Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4512-8668",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "30"
+      ],
+      "journalIssueId": [
+        "2704908"
+      ],
+      "dateOfPublication": [
+        "2018 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Annals of dermatology"
+          ],
+          "ISOAbbreviation": [
+            "Ann Dermatol"
+          ],
+          "medlineAbbreviation": [
+            "Ann Dermatol"
+          ],
+          "NLMid": [
+            "8916577"
+          ],
+          "ISSN": [
+            "1013-9087"
+          ],
+          "ESSN": [
+            "2005-3894"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "409-416"
+  ],
+  "abstractText": [
+    "Atopic dermatitis (AD) is related to a deficiency of delta-6-desaturase, an enzyme responsible for converting linoleic acid to gamma-linolenic acid (GLA). Evening primrose oil (EPO) as a source of GLA has been of interest in the management of AD.The aim of this randomized, double-blinded, placebo-controlled clinical study is to evaluate the efficacy and safety of EPO in Korean patients with AD.Fifty mild AD patients with an Eczema Area Severity Index (EASI) score of 10 or less were enrolled and randomly divided into two groups. The first group received an oval unmarked capsule containing 450 mg of EPO (40 mg of GLA) per capsule, while placebo capsules identical in appearance and containing 450 mg of soybean oil were given to the other group. Treatment continued for a period of four months. EASI scores, transepidermal water loss (TEWL), and skin hydration were evaluated in all the AD patients at the baseline, and in months 1, 2, 3, and 4 of the study.At the end of month 4, the patients of the EPO group showed a significant improvement in the EASI score (p=0.040), whereas the patients of the placebo group did not. There was a significant difference in the EASI score between the EPO and placebo groups (p=0.010). Although not statistically significant, the TEWL and skin hydration also slightly improved in the EPO patients group.We suggest that EPO is a safe and effective medicine for Korean patients with mild AD."
+  ],
+  "affiliation": [
+    "Department of Dermatology, Kangnam Sacred Heart Hospital, Hallym University College of Medicine, Seoul, Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Linoleic acid",
+        "gamma-linolenic acid",
+        "Atopic Dermatitis"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6029968?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6029968"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.5021/ad.2018.30.4.409"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-08-02"
+  ],
+  "firstIndexDate": [
+    "2018-08-02"
+  ],
+  "dateOfRevision": [
+    "2018-08-03"
+  ],
+  "electronicPublicationDate": [
+    "2018-06-27"
+  ],
+  "firstPublicationDate": [
+    "2018-06-27"
+  ],
+  "embargoDate": [
+    "2018-08-01"
+  ]
+}

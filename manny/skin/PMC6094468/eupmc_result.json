@@ -1,0 +1,448 @@
+{
+  "id": [
+    "30111346"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30111346"
+  ],
+  "pmcid": [
+    "PMC6094468"
+  ],
+  "doi": [
+    "10.1186/s13002-018-0253-4"
+  ],
+  "title": [
+    "Ethnomedicinal applications of animal species by the local communities of Punjab, Pakistan."
+  ],
+  "authorString": [
+    "Altaf M, Umair M, Abbasi AR, Muhammad N, Abbasi AM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Altaf M"
+          ],
+          "firstName": [
+            "Muhammad"
+          ],
+          "lastName": [
+            "Altaf"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Zoology, Women University of Azad Jammu and Kashmir, Bagh, Pakistan."
+          ]
+        },
+        {
+          "fullName": [
+            "Umair M"
+          ],
+          "firstName": [
+            "Muhammad"
+          ],
+          "lastName": [
+            "Umair"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Abbasi AR"
+          ],
+          "firstName": [
+            "Abdul Rauf"
+          ],
+          "lastName": [
+            "Abbasi"
+          ],
+          "initials": [
+            "AR"
+          ],
+          "affiliation": [
+            "Statistical Wing, Department of Mathematics, Women University of Azad Jammu and Kashmir, Bagh, Pakistan."
+          ]
+        },
+        {
+          "fullName": [
+            "Muhammad N"
+          ],
+          "firstName": [
+            "Noor"
+          ],
+          "lastName": [
+            "Muhammad"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Fisheries and Aquaculture, Punjab, Pakistan."
+          ]
+        },
+        {
+          "fullName": [
+            "Abbasi AM"
+          ],
+          "firstName": [
+            "Arshad Mehmood"
+          ],
+          "lastName": [
+            "Abbasi"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9978-3866",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Environment Sciences, COMSATS University Islamabad, Abbottabad Campus, Abbottabad, Pakistan. arshad799@yahoo.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9978-3866",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2715630"
+      ],
+      "dateOfPublication": [
+        "2018 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of ethnobiology and ethnomedicine"
+          ],
+          "ISOAbbreviation": [
+            "J Ethnobiol Ethnomed"
+          ],
+          "medlineAbbreviation": [
+            "J Ethnobiol Ethnomed"
+          ],
+          "NLMid": [
+            "101245794"
+          ],
+          "ISSN": [
+            "1746-4269"
+          ],
+          "ESSN": [
+            "1746-4269"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "55"
+  ],
+  "abstractText": [
+    "BACKGROUND:Different species of animals are being utilized in traditional therapies by various cultures for a long time and such uses still exist in folk medicine. The present study aimed to document animal-based traditional therapies used by the local communities of Jhelum and Lahore districts of the Punjab province, Pakistan. METHODS:Field surveys were conducted in 2015-2016 in six different sites of the study areas. Data were collected through semi-structured interviews and face to face conversation with local informants. RESULTS:The ethnomedicinal uses of 57 species of animals including mammals, birds, fish, reptiles, amphibian, and invertebrates (30, 25, 25, 7, 3.5, and 3.5%, respectively) were documented. Meat, oil, brain, fats, milk, eggs, and skin were the most utilized body parts. Ovis orientalis punjabiensis, Francolinus francolinus, Sperata sarwari, Channa punctata, Oreochromis niloticus, Ctenopharyngodon idella, Cyprinus carpio, Labeo rohita, and Carassius auratus were reported for the first time to treat human diseases, i.e., allergy, epilepsy, fever, joint pain, and backache, to act as aphrodisiac, and to enhance memory. Streptopelia decaocto and S. tranquebarica were the most frequently utilized species with highest frequency of citation (32 for each). Columba livia depicted highest fidelity level and used value of 92.86% and 0.89, respectively. CONCLUSIONS:Being agro-pastoralists, the inhabitants of Jhelum possess more traditional knowledge compared to Lahore. The present study could be important for conservation and sustainable use of animal biodiversity in this region. Additionally, detailed study on chemical profiling and bioactivities may lead to animal-based novel drug discovery."
+  ],
+  "affiliation": [
+    "Department of Zoology, Women University of Azad Jammu and Kashmir, Bagh, Pakistan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Medicine, Traditional"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cluster Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Principal Component Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pakistan"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Pakistan",
+        "Local Communities",
+        "Animal Species",
+        "Traditional Therapies"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6094468?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6094468"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13002-018-0253-4"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-02-15"
+  ],
+  "dateOfCreation": [
+    "2018-08-17"
+  ],
+  "firstIndexDate": [
+    "2018-08-17"
+  ],
+  "dateOfRevision": [
+    "2019-02-15"
+  ],
+  "electronicPublicationDate": [
+    "2018-08-15"
+  ],
+  "firstPublicationDate": [
+    "2018-08-15"
+  ]
+}

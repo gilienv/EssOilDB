@@ -1,0 +1,768 @@
+{
+  "id": [
+    "29656672"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29656672"
+  ],
+  "pmcid": [
+    "PMC6130619"
+  ],
+  "doi": [
+    "10.1080/13880209.2018.1462834"
+  ],
+  "title": [
+    "Screening of in vitro antimicrobial activity of plants used in traditional Indonesian medicine."
+  ],
+  "authorString": [
+    "Romulo A, Zuhud EAM, Rondevaldova J, Kokoska L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Romulo A"
+          ],
+          "firstName": [
+            "Andreas"
+          ],
+          "lastName": [
+            "Romulo"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1034-5817",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "a Department of Crop Sciences and Agroforestry, Faculty of Tropical AgriSciences , Czech University of Life Sciences Prague , Prague , Czech Republic."
+          ]
+        },
+        {
+          "fullName": [
+            "Zuhud EAM"
+          ],
+          "firstName": [
+            "Ervizal A M"
+          ],
+          "lastName": [
+            "Zuhud"
+          ],
+          "initials": [
+            "EAM"
+          ],
+          "affiliation": [
+            "b Department of Forest Resources Conservation and Ecotourism, Faculty of Forestry , Bogor Agricultural University , Bogor , Indonesia."
+          ]
+        },
+        {
+          "fullName": [
+            "Rondevaldova J"
+          ],
+          "firstName": [
+            "Johana"
+          ],
+          "lastName": [
+            "Rondevaldova"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6142-2309",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "a Department of Crop Sciences and Agroforestry, Faculty of Tropical AgriSciences , Czech University of Life Sciences Prague , Prague , Czech Republic."
+          ]
+        },
+        {
+          "fullName": [
+            "Kokoska L"
+          ],
+          "firstName": [
+            "Ladislav"
+          ],
+          "lastName": [
+            "Kokoska"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5677-692X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "a Department of Crop Sciences and Agroforestry, Faculty of Tropical AgriSciences , Czech University of Life Sciences Prague , Prague , Czech Republic."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1034-5817",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6142-2309",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5677-692X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "56"
+      ],
+      "journalIssueId": [
+        "2628741"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Pharmaceutical biology"
+          ],
+          "ISOAbbreviation": [
+            "Pharm Biol"
+          ],
+          "medlineAbbreviation": [
+            "Pharm Biol"
+          ],
+          "NLMid": [
+            "9812552"
+          ],
+          "ISSN": [
+            "1388-0209"
+          ],
+          "ESSN": [
+            "1744-5116"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "287-293"
+  ],
+  "abstractText": [
+    "<label>CONTEXT</label>In many regions of Indonesia, there are numerous traditional herbal preparations for treatment of infectious diseases. However, their antimicrobial potential has been poorly studied by modern laboratory methods.<label>OBJECTIVE</label>This study investigates in vitro antimicrobial activity of 49 ethanol extracts from 37 plant species used in Indonesian traditional medicine for treatment against Candida albicans, Enterococcus faecalis, Escherichia coli, Pseudomonas aeruginosa and Staphylococcus aureus.<label>MATERIALS AND METHODS</label>The plants were collected from the Biopharmaca collection garden, Bogor, Indonesia. The plant material was dried, finely grounded, extracted using ethanol, concentrated, and the dried residue was dissolved in 100% DMSO. Antimicrobial activity was determined in terms of a minimum inhibitory concentration (MIC) using a broth microdilution method in 96-well microplates.<label>RESULTS</label>The extract of Orthosiphon aristatus (Blume) Miq. (Lamiaceae) leaf produced the strongest antimicrobial effect, inhibiting the growth of C. albicans (MIC 128 μg/mL), S. aureus (MIC 256 μg/mL), E. faecalis (MIC 256 μg/mL) and P. aeruginosa (MIC 256 μg/mL). The leaf extract of Woodfordia floribunda Salisb. (Lythraceae) also exhibited significant effect against C. albicans (MIC 128 μg/mL), S. aureus (MIC 256 μg/mL) and E. faecalis (MIC 256 μg/mL). Rotheca serrata (L.) Steane & Mabb. (Lamiaceae) leaf extract inhibited the growth of S. aureus (MIC 256 µg/mL) and C. albicans (MIC 256 µg/mL).<label>DISCUSSION AND CONCLUSIONS</label>The leaf extract of O. aristatus and W. floribunda exhibited a significant anti-candidal effect. Therefore, both of these plants can serve as prospective source materials for the development of new anti-candidal agents."
+  ],
+  "affiliation": [
+    "a Department of Crop Sciences and Agroforestry, Faculty of Tropical AgriSciences , Czech University of Life Sciences Prague , Prague , Czech Republic."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Bacteria"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GD"
+                  ],
+                  "qualifierName": [
+                    "growth & development"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Candida albicans"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GD"
+                  ],
+                  "qualifierName": [
+                    "growth & development"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Lamiaceae"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Orthosiphon"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Woodfordia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Leaves"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plants, Medicinal"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ethanol"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Extracts"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anti-Bacterial Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antifungal Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Solvents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Medicine, Traditional"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phytotherapy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Microbial Sensitivity Tests"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Indonesia"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Antibacterial",
+        "Orthosiphon Aristatus",
+        "Rotheca Serrata",
+        "Woodfordia Floribunda",
+        "Anti-candidal"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Anti-Bacterial Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Solvents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Antifungal Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Plant Extracts"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Ethanol"
+          ],
+          "registryNumber": [
+            "3K9958V90M"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6130619?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6130619"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/13880209.2018.1462834"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-09-19"
+  ],
+  "dateOfCreation": [
+    "2018-04-17"
+  ],
+  "firstIndexDate": [
+    "2018-04-17"
+  ],
+  "dateOfRevision": [
+    "2018-09-28"
+  ],
+  "firstPublicationDate": [
+    "2018-12-01"
+  ]
+}

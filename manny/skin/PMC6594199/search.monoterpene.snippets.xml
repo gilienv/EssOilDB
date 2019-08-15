@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6594199/results/search/monoterpene/results.xml">
+  <result pre="and theophylline. ( Cariddi et al., 2007) Leaves and stems" exact="Limonene" post="(38), Pulegone (39), Menthone (40) Monoterpene In vivo (38)"/>
+  <result pre="( Cariddi et al., 2007) Leaves and stems Limonene (38)," exact="Pulegone" post="(39), Menthone (40) Monoterpene In vivo (38) maximally suppressed"/>
+  <result pre="et al., 2007) Leaves and stems Limonene (38), Pulegone (39)," exact="Menthone" post="(40) Monoterpene In vivo (38) maximally suppressed PCA reaction"/>
+  <result pre="± 0.08%. ( Ikawati et al., 2001) – 2-isopropyl-5-methylphenol (15)," exact="Carvacrol" post="(51) Monoterpenoid phenolic In vivo (15) and (51) reduced"/>
+  <result pre="M. verticillata to identify the constituent responsible for anti-allergic effect." exact="Limonene" post="(38), pulegone (39) and menthone (40) were found to"/>
+  <result pre="accumulated in the flowers and seed parts of P. frutescens." exact="Perilla ketone" post="has been reported as a potent pulmonary toxin associated"/>
+  <result pre="B. ( 1988). Morphology of noncardiogenic pulmonary edema induced by" exact="Perilla ketone" post="in sheep. Am. J. Pathol. 133, 285– 297. 3189507"/>
+  <result pre="Wei Z. Yu Y. Zhang X. Yang Z. ( 2014)." exact="Thymol" post="attenuates allergic airway inflammation in ovalbumin (OVA)-induced mouse asthma."/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,284 @@
+{
+  "id": [
+    "27127746"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27127746"
+  ],
+  "pmcid": [
+    "PMC4830155"
+  ],
+  "doi": [
+    "10.4103/2229-516X.179015"
+  ],
+  "title": [
+    "A fatal case of menthol poisoning."
+  ],
+  "authorString": [
+    "Kumar A, Baitha U, Aggarwal P, Jamshed N."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kumar A"
+          ],
+          "firstName": [
+            "Akshay"
+          ],
+          "lastName": [
+            "Kumar"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Emergency Medicine, All India Institute of Medical Sciences, New Delhi, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Baitha U"
+          ],
+          "firstName": [
+            "Upendra"
+          ],
+          "lastName": [
+            "Baitha"
+          ],
+          "initials": [
+            "U"
+          ],
+          "affiliation": [
+            "Department of Emergency Medicine, All India Institute of Medical Sciences, New Delhi, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Aggarwal P"
+          ],
+          "firstName": [
+            "Praveen"
+          ],
+          "lastName": [
+            "Aggarwal"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Emergency Medicine, All India Institute of Medical Sciences, New Delhi, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Jamshed N"
+          ],
+          "firstName": [
+            "Nayer"
+          ],
+          "lastName": [
+            "Jamshed"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Emergency Medicine, All India Institute of Medical Sciences, New Delhi, India."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2402580"
+      ],
+      "dateOfPublication": [
+        "2016 Apr-Jun"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of applied & basic medical research"
+          ],
+          "ISOAbbreviation": [
+            "Int J Appl Basic Med Res"
+          ],
+          "medlineAbbreviation": [
+            "Int J Appl Basic Med Res"
+          ],
+          "NLMid": [
+            "101579831"
+          ],
+          "ISSN": [
+            "2229-516X"
+          ],
+          "ESSN": [
+            "2248-9606"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "137-139"
+  ],
+  "abstractText": [
+    "Menthol is a monocyclic terpene alcohol, which is present naturally in peppermint and can be synthesized artificially as well. Generally, it is considered as very safe and has wide usage in medicine and food. There are case reports of toxicity due to excessive consumption of menthol, but a fatal intoxication has never been reported in the medical literature. We present a case of fatal menthol intoxication in a worker, who accidently got exposed when he was working in a peppermint factory. Emergency physicians must keep in mind this extremely rare manifestation of menthol poisoning. All necessary precaution should be taken to reduce its intake or exposure, as it has no specific antidote. Early recognition and supportive treatment of this poisoning is the key for a successful outcome."
+  ],
+  "affiliation": [
+    "Department of Emergency Medicine, All India Institute of Medical Sciences, New Delhi, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Case Reports",
+        "case-report"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Menthol",
+        "Renal dysfunction",
+        "Seizure",
+        "hematuria",
+        "Peppermint"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4830155"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/2229-516X.179015"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-04-29"
+  ],
+  "dateOfCreation": [
+    "2016-04-30"
+  ],
+  "firstIndexDate": [
+    "2016-04-30"
+  ],
+  "dateOfRevision": [
+    "2019-02-26"
+  ],
+  "firstPublicationDate": [
+    "2016-04-01"
+  ]
+}

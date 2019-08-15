@@ -1,0 +1,676 @@
+{
+  "id": [
+    "28262031"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28262031"
+  ],
+  "pmcid": [
+    "PMC6130550"
+  ],
+  "doi": [
+    "10.1080/13880209.2017.1296470"
+  ],
+  "title": [
+    "Antifungal and antioxidant activities of Coleonema album and C. pulchellum against skin diseases."
+  ],
+  "authorString": [
+    "Fajinmi OO, Grúz J, Tarkowski P, Kulkarni MG, Finnie JF, Van Staden J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Fajinmi OO"
+          ],
+          "firstName": [
+            "Olufunke O"
+          ],
+          "lastName": [
+            "Fajinmi"
+          ],
+          "initials": [
+            "OO"
+          ],
+          "affiliation": [
+            "a Research Centre for Plant Growth and Development, School of Life Sciences, University of KwaZulu-Natal Pietermaritzburg , Scottsville , South Africa."
+          ]
+        },
+        {
+          "fullName": [
+            "Grúz J"
+          ],
+          "firstName": [
+            "Jiří"
+          ],
+          "lastName": [
+            "Grúz"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "b Laboratory of Growth Regulators and Department of Chemical Biology and Genetics, Centre of the Region Haná for Biotechnological and Agricultural Research, Faculty of Science , Palacký University and Institute of Experimental Botany , Olomouc , Czech Republic."
+          ]
+        },
+        {
+          "fullName": [
+            "Tarkowski P"
+          ],
+          "firstName": [
+            "Petr"
+          ],
+          "lastName": [
+            "Tarkowski"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7581-7686",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "c Centre of the Region Haná for Biotechnological and Agricultural Research, Central Laboratories and Research Support, Faculty of Science , Palacký University , Olomouc , Czech Republic."
+          ]
+        },
+        {
+          "fullName": [
+            "Kulkarni MG"
+          ],
+          "firstName": [
+            "Manoj G"
+          ],
+          "lastName": [
+            "Kulkarni"
+          ],
+          "initials": [
+            "MG"
+          ],
+          "affiliation": [
+            "a Research Centre for Plant Growth and Development, School of Life Sciences, University of KwaZulu-Natal Pietermaritzburg , Scottsville , South Africa."
+          ]
+        },
+        {
+          "fullName": [
+            "Finnie JF"
+          ],
+          "firstName": [
+            "Jeffrey F"
+          ],
+          "lastName": [
+            "Finnie"
+          ],
+          "initials": [
+            "JF"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5010-587X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "a Research Centre for Plant Growth and Development, School of Life Sciences, University of KwaZulu-Natal Pietermaritzburg , Scottsville , South Africa."
+          ]
+        },
+        {
+          "fullName": [
+            "Van Staden J"
+          ],
+          "firstName": [
+            "Johannes"
+          ],
+          "lastName": [
+            "Van Staden"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "a Research Centre for Plant Growth and Development, School of Life Sciences, University of KwaZulu-Natal Pietermaritzburg , Scottsville , South Africa."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7581-7686",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5010-587X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "55"
+      ],
+      "journalIssueId": [
+        "2501948"
+      ],
+      "dateOfPublication": [
+        "2017 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Pharmaceutical biology"
+          ],
+          "ISOAbbreviation": [
+            "Pharm Biol"
+          ],
+          "medlineAbbreviation": [
+            "Pharm Biol"
+          ],
+          "NLMid": [
+            "9812552"
+          ],
+          "ISSN": [
+            "1388-0209"
+          ],
+          "ESSN": [
+            "1744-5116"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "1249-1255"
+  ],
+  "abstractText": [
+    "<label>CONTEXT</label>Coleonema album (Thunb) Bart. & H. L. Wendl (Rutaceae) has been used in the formulation of skincare products, and the Khoisan people rub it on their skin to add luster. Coleonema pulchellum I. Williams has received less attention in the South African traditional medicine.<label>OBJECTIVE</label>This study investigates the antifungal and antioxidant activities of C. album and C. pulchellum essential oil (EO) and leaf extracts; and analyzes the chemical components of their EOs.<label>MATERIALS AND METHODS</label>Antifungal activity of leaf extracts was determined using the microdilution method with griseofulvin and ketoconazole as controls. Antifungal capacity of EO was investigated using the 'Volatile release plate method'. Trichophyton rubrum (ATCC 28188) and T. mentagrophytes (ATCC 9533) mycelia (0.3 cm diameter) were placed on fresh yeast malt agar in Petri dishes with filter paper (impregnated with 20 μL of EO) on the lid for direct exposure to EO volatiles while plates without EO were used as controls. The incubation time was seven days. Antioxidant activities of the leaf extracts were determined.<label>RESULTS</label>Methanol leaf extract of C. pulchellum inhibited the growth of three fungi tested with MIC values of 195, 391 and 49 μg/mL for Trichophyton rubrum, Trichophyton mentagrophytes and Microsporum gypseum, respectively. Terpenes formed the major components of the EO. The EO from both plants inhibited the growth of T. rubrum in vitro.<label>DISCUSSION AND CONCLUSION</label>This study revealed the therapeutic value of C. pulchellum. Coleonema album and C. pulchellum should be considered as potential plants for skin ointment from natural origin."
+  ],
+  "affiliation": [
+    "a Research Centre for Plant Growth and Development, School of Life Sciences, University of KwaZulu-Natal Pietermaritzburg , Scottsville , South Africa."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Trichophyton"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Rutaceae"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Leaves"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Skin Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Extracts"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dermatologic Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antioxidants"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antifungal Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Trichophyton rubrum",
+        "Trichophyton mentagrophytes",
+        "Atopic Dermatitis"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Antifungal Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Plant Extracts"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Antioxidants"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Dermatologic Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6130550?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6130550"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/13880209.2017.1296470"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-03-16"
+  ],
+  "dateOfCreation": [
+    "2017-03-07"
+  ],
+  "firstIndexDate": [
+    "2017-03-08"
+  ],
+  "dateOfRevision": [
+    "2018-09-28"
+  ],
+  "firstPublicationDate": [
+    "2017-12-01"
+  ]
+}

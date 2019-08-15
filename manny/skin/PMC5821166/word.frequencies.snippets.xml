@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC5821166/results/word/frequencies/results.xml">
+  <result title="frequency" word="PMID:." count="86"/>
+  <result title="frequency" word="sebaceous" count="59"/>
+  <result title="frequency" word="sebum" count="51"/>
+  <result title="frequency" word="skin" count="51"/>
+  <result title="frequency" word="human" count="40"/>
+  <result title="frequency" word="acid" count="38"/>
+  <result title="frequency" word="lipids" count="38"/>
+  <result title="frequency" word="Dermatol." count="34"/>
+  <result title="frequency" word="Zouboulis" count="31"/>
+  <result title="frequency" word="lipid" count="29"/>
+  <result title="frequency" word="fatty" count="28"/>
+  <result title="frequency" word="sebocytes" count="27"/>
+  <result title="frequency" word="Invest" count="24"/>
+  <result title="frequency" word="gland" count="22"/>
+  <result title="frequency" word="acne" count="21"/>
+ </snippets>
+</snippetsTree>

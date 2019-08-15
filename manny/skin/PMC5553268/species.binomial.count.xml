@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="frequencies">
+ <result title="frequency" count="48">Carum copticum</result>
+ <result title="frequency" count="33">Mentha piperita</result>
+ <result title="frequency" count="21">Staphylococcus aureus</result>
+ <result title="frequency" count="10">Enterococcus coli</result>
+ <result title="frequency" count="8">Enterococcus faecalis</result>
+ <result title="frequency" count="5">Pseudomonas aeruginosa</result>
+ <result title="frequency" count="4">Staphylococcus epidermidis</result>
+ <result title="frequency" count="4">Escherichia coli</result>
+ <result title="frequency" count="3">Listeria monocytogenes</result>
+ <result title="frequency" count="3">Thymus vulgaris</result>
+ <result title="frequency" count="1">Candida albicans</result>
+ <result title="frequency" count="1">Chrysanthemum indicum</result>
+</results>

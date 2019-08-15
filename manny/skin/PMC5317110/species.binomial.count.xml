@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="frequencies">
+ <result title="frequency" count="10">Candida albicans</result>
+ <result title="frequency" count="5">Staphylococcus mutans</result>
+ <result title="frequency" count="3">Melaleuca alternifolia</result>
+ <result title="frequency" count="3">E. faecalis</result>
+ <result title="frequency" count="2">Capnocytophaga ochracea</result>
+ <result title="frequency" count="2">Parabacteroides aeruginosa</result>
+ <result title="frequency" count="2">Veillonella parvula</result>
+ <result title="frequency" count="2">Streptococcus mutans</result>
+ <result title="frequency" count="2">Lactobacillus acidofilus</result>
+ <result title="frequency" count="2">Streptococcus sanguinis</result>
+ <result title="frequency" count="1">Bacteroides uniformis</result>
+ <result title="frequency" count="1">Clostridium butyricum</result>
+ <result title="frequency" count="1">Neisseria subflava</result>
+ <result title="frequency" count="1">Melaleuca dissitiflora</result>
+ <result title="frequency" count="1">Lactobacillus acidophilus</result>
+ <result title="frequency" count="1">Atopobium minutum</result>
+ <result title="frequency" count="1">Melaleuca linariifolia</result>
+ <result title="frequency" count="1">Staphylococcus aureus</result>
+ <result title="frequency" count="1">Lactobacillus rhamnosus</result>
+ <result title="frequency" count="1">Acinetobacter freundii</result>
+ <result title="frequency" count="1">A. israeli</result>
+ <result title="frequency" count="1">Staphylococcus cerevisiae</result>
+ <result title="frequency" count="1">Neisseria sicca</result>
+ <result title="frequency" count="1">Providencia rustigiani</result>
+ <result title="frequency" count="1">Parabacteroides distasonis</result>
+ <result title="frequency" count="1">Staphylococcus oralis</result>
+ <result title="frequency" count="1">Staphylococcus epidermidis</result>
+ <result title="frequency" count="1">Gemella morbilorum</result>
+ <result title="frequency" count="1">Prevotella oralis</result>
+ <result title="frequency" count="1">Prevotella melaninogenica</result>
+ <result title="frequency" count="1">Streptococcus oralis</result>
+</results>

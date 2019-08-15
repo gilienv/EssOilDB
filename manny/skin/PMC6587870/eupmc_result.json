@@ -1,0 +1,531 @@
+{
+  "id": [
+    "30378131"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30378131"
+  ],
+  "pmcid": [
+    "PMC6587870"
+  ],
+  "doi": [
+    "10.1111/cod.13137"
+  ],
+  "title": [
+    "Contact sensitization to hydroperoxides of limonene and linalool: Results of consecutive patch testing and clinical relevance."
+  ],
+  "authorString": [
+    "Dittmar D, Schuttelaar MLA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Dittmar D"
+          ],
+          "firstName": [
+            "Daan"
+          ],
+          "lastName": [
+            "Dittmar"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2233-7424",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Dermatology, University of Groningen, University Medical Centre Groningen, Groningen, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Schuttelaar MLA"
+          ],
+          "firstName": [
+            "Marie L A"
+          ],
+          "lastName": [
+            "Schuttelaar"
+          ],
+          "initials": [
+            "MLA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0766-4382",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Dermatology, University of Groningen, University Medical Centre Groningen, Groningen, The Netherlands."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2233-7424",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0766-4382",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "80"
+      ],
+      "journalIssueId": [
+        "2767031"
+      ],
+      "dateOfPublication": [
+        "2019 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Contact dermatitis"
+          ],
+          "ISOAbbreviation": [
+            "Contact Derm."
+          ],
+          "medlineAbbreviation": [
+            "Contact Dermatitis"
+          ],
+          "NLMid": [
+            "7604950"
+          ],
+          "ISSN": [
+            "0105-1873"
+          ],
+          "ESSN": [
+            "1600-0536"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "101-109"
+  ],
+  "abstractText": [
+    "BACKGROUND:Hydroperoxides of limonene and linalool are potent sensitizers. OBJECTIVES:To investigate the prevalence of contact allergy to both hydroperoxides of limonene and hydroperoxides of linalool, to report clinical relevance, and to investigate patient demographics. METHODS:A total of 821 patients (35.6% male, mean age 42.4 years ± 17.8 years) were consecutively patch tested with our departmental baseline series and our fragrance series, including hydroperoxides of limonene 0.3% pet. and hydroperoxides of linalool 1.0% pet. The clinical relevance was assessed for all positive reactions. RESULTS:Positive patch test reactions to hydroperoxides of limonene and to hydroperoxides of linalool were observed in 77 patients (9.4%, 95% confidence interval [CI]: 7.4%-11.4%) and in 96 patients (11.7%, 95%CI: 9.5%-13.9%), respectively; 38 of these patients (4.6%, 95%CI: 3.2%-6.0%) reacted to both. Most reactions were considered to be possibly or probably clinically relevant (66.3% and 68.8%, respectively), and a small proportion were deemed to be of certain clinical relevance (18.2% and 19.8%, respectively). CONCLUSION:As compared with previous studies, high numbers of positive reactions to both hydroperoxides of limonene and hydroperoxides of linalool were observed, the majority of which were clinically relevant, supporting their inclusion in the European baseline series."
+  ],
+  "affiliation": [
+    "Department of Dermatology, University of Groningen, University Medical Centre Groningen, Groningen, The Netherlands."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dermatitis, Allergic Contact"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Peroxides"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Monoterpenes"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Patch Tests"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prevalence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Limonene"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Allergic Contact Dermatitis",
+        "Contact Allergy",
+        "Patch Testing",
+        "Clinical Relevance",
+        "Hydroperoxides Of Linalool",
+        "Hydroperoxides Of Limonene",
+        "Fragrances"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Peroxides"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Monoterpenes"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "limonene"
+          ],
+          "registryNumber": [
+            "9MC3I34447"
+          ]
+        },
+        {
+          "name": [
+            "linalool"
+          ],
+          "registryNumber": [
+            "D81QY6I88E"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6587870?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6587870"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1111/cod.13137"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-04-22"
+  ],
+  "dateOfCreation": [
+    "2018-11-01"
+  ],
+  "firstIndexDate": [
+    "2018-11-01"
+  ],
+  "dateOfRevision": [
+    "2019-07-03"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-31"
+  ],
+  "firstPublicationDate": [
+    "2018-10-31"
+  ]
+}

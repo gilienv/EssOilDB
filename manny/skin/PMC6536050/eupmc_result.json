@@ -1,0 +1,245 @@
+{
+  "id": [
+    "31149575"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31149575"
+  ],
+  "pmcid": [
+    "PMC6536050"
+  ],
+  "doi": [
+    "10.4103/idoj.IDOJ_357_18"
+  ],
+  "title": [
+    "Re-discovering Sandalwood: Beyond Beauty and Fragrance."
+  ],
+  "authorString": [
+    "Rajsmita B, Keshavamurthy V."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rajsmita B"
+          ],
+          "firstName": [
+            "Bhattacharjee"
+          ],
+          "lastName": [
+            "Rajsmita"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Dermatology, Venereology and Leprology, Postgraduate Institute of Medical Education and Research, Chandigarh, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Keshavamurthy V"
+          ],
+          "firstName": [
+            "Vinay"
+          ],
+          "lastName": [
+            "Keshavamurthy"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Department of Dermatology, Venereology and Leprology, Postgraduate Institute of Medical Education and Research, Chandigarh, India."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6323-4988",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2821614"
+      ],
+      "dateOfPublication": [
+        "2019 May-Jun"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Indian dermatology online journal"
+          ],
+          "ISOAbbreviation": [
+            "Indian Dermatol Online J"
+          ],
+          "medlineAbbreviation": [
+            "Indian Dermatol Online J"
+          ],
+          "NLMid": [
+            "101586880"
+          ],
+          "ISSN": [
+            "2229-5178"
+          ],
+          "ESSN": [
+            "2249-5673"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "296-297"
+  ],
+  "affiliation": [
+    "Department of Dermatology, Venereology and Leprology, Postgraduate Institute of Medical Education and Research, Chandigarh, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "other",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6536050"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/idoj.IDOJ_357_18"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-01"
+  ],
+  "firstIndexDate": [
+    "2019-06-01"
+  ],
+  "dateOfRevision": [
+    "2019-06-10"
+  ],
+  "firstPublicationDate": [
+    "2019-05-01"
+  ]
+}

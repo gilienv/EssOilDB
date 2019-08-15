@@ -1,0 +1,448 @@
+{
+  "id": [
+    "31330955"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31330955"
+  ],
+  "pmcid": [
+    "PMC6680751"
+  ],
+  "doi": [
+    "10.3390/molecules24142631"
+  ],
+  "title": [
+    "Terpene Derivatives as a Potential Agent against Antimicrobial Resistance (AMR) Pathogens."
+  ],
+  "authorString": [
+    "Mahizan NA, Yang SK, Moo CL, Song AA, Chong CM, Chong CW, Abushelaibi A, Lim SE, Lai KS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mahizan NA"
+          ],
+          "firstName": [
+            "Nik Amirah"
+          ],
+          "lastName": [
+            "Mahizan"
+          ],
+          "initials": [
+            "NA"
+          ],
+          "affiliation": [
+            "Department of Cell and Molecular Biology, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, 43400 Serdang, Selangor, Malaysia."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang SK"
+          ],
+          "firstName": [
+            "Shun-Kai"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "SK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9275-3653",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Cell and Molecular Biology, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, 43400 Serdang, Selangor, Malaysia."
+          ]
+        },
+        {
+          "fullName": [
+            "Moo CL"
+          ],
+          "firstName": [
+            "Chew-Li"
+          ],
+          "lastName": [
+            "Moo"
+          ],
+          "initials": [
+            "CL"
+          ],
+          "affiliation": [
+            "Department of Cell and Molecular Biology, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, 43400 Serdang, Selangor, Malaysia."
+          ]
+        },
+        {
+          "fullName": [
+            "Song AA"
+          ],
+          "firstName": [
+            "Adelene Ai-Lian"
+          ],
+          "lastName": [
+            "Song"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5413-3314",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Microbiology, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, 43400 Serdang, Selangor, Malaysia."
+          ]
+        },
+        {
+          "fullName": [
+            "Chong CM"
+          ],
+          "firstName": [
+            "Chou-Min"
+          ],
+          "lastName": [
+            "Chong"
+          ],
+          "initials": [
+            "CM"
+          ],
+          "affiliation": [
+            "Department of Aquaculture, Faculty of Agriculture, Universiti Putra Malaysia, 43400 Serdang, Selangor, Malaysia."
+          ]
+        },
+        {
+          "fullName": [
+            "Chong CW"
+          ],
+          "firstName": [
+            "Chun-Wie"
+          ],
+          "lastName": [
+            "Chong"
+          ],
+          "initials": [
+            "CW"
+          ],
+          "affiliation": [
+            "School of Pharmacy, Monash University Malaysia, Jalan Lagoon Selatan, Bandar Sunway 47500, Selangor, Malaysia."
+          ]
+        },
+        {
+          "fullName": [
+            "Abushelaibi A"
+          ],
+          "firstName": [
+            "Aisha"
+          ],
+          "lastName": [
+            "Abushelaibi"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Health Sciences Division, Abu Dhabi Women's College, Higher Colleges of Technology, 41012 Abu Dhabi, UAE."
+          ]
+        },
+        {
+          "fullName": [
+            "Lim SE"
+          ],
+          "firstName": [
+            "Swee-Hua Erin"
+          ],
+          "lastName": [
+            "Lim"
+          ],
+          "initials": [
+            "SE"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5177-0257",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Health Sciences Division, Abu Dhabi Women's College, Higher Colleges of Technology, 41012 Abu Dhabi, UAE."
+          ]
+        },
+        {
+          "fullName": [
+            "Lai KS"
+          ],
+          "firstName": [
+            "Kok-Song"
+          ],
+          "lastName": [
+            "Lai"
+          ],
+          "initials": [
+            "KS"
+          ],
+          "affiliation": [
+            "Department of Cell and Molecular Biology, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, 43400 Serdang, Selangor, Malaysia. laikoksong@upm.edu.my."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5177-0257",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5413-3314",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9275-3653",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "14"
+      ],
+      "volume": [
+        "24"
+      ],
+      "journalIssueId": [
+        "2838030"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecules (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Molecules"
+          ],
+          "medlineAbbreviation": [
+            "Molecules"
+          ],
+          "NLMid": [
+            "100964009"
+          ],
+          "ISSN": [
+            "1420-3049"
+          ],
+          "ESSN": [
+            "1420-3049"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "The evolution of antimicrobial resistance (AMR) in pathogens has prompted extensive research to find alternative therapeutics. Plants rich with natural secondary metabolites are one of the go-to reservoirs for discovery of potential resources to alleviate this problem. Terpenes and their derivatives comprising of hydrocarbons, are usually found in essential oils (EOs). They have been reported to have potent antimicrobial activity, exhibiting bacteriostatic and bactericidal effects against tested pathogens. This brief review discusses the activity of terpenes and derivatives against pathogenic bacteria, describing the potential of the activity against AMR followed by the possible mechanism exerted by each terpene class. Finally, ongoing research and possible improvisation to the usage of terpenes and terpenoids in therapeutic practice against AMR are discussed."
+  ],
+  "affiliation": [
+    "Department of Cell and Molecular Biology, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, 43400 Serdang, Selangor, Malaysia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "FRGS/1/2018/SKK11/PERDANA/02/1"
+          ],
+          "agency": [
+            "Fundamental Research Grant Scheme"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Terpenoids",
+        "Antimicrobial resistance",
+        "synergy",
+        "terpenes"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6680751?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6680751"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/molecules24142631"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-24"
+  ],
+  "firstIndexDate": [
+    "2019-07-27"
+  ],
+  "dateOfRevision": [
+    "2019-08-11"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-19"
+  ],
+  "firstPublicationDate": [
+    "2019-07-19"
+  ]
+}

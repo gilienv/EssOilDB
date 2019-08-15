@@ -1,0 +1,290 @@
+{
+  "id": [
+    "30505013"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30505013"
+  ],
+  "pmcid": [
+    "PMC6263305"
+  ],
+  "doi": [
+    "10.5114/reum.2018.79502"
+  ],
+  "title": [
+    "Differential diagnosis of idiopathic inflammatory myopathies in adults - the first step when approaching a patient with muscle weakness."
+  ],
+  "authorString": [
+    "Szczęsny P, Świerkocka K, Olesińska M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Szczęsny P"
+          ],
+          "firstName": [
+            "Piotr"
+          ],
+          "lastName": [
+            "Szczęsny"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Systemic Connective Tissue Diseases, National Institute of Geriatrics, Rheumatology, and Rehabilitation, Warsaw, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Świerkocka K"
+          ],
+          "firstName": [
+            "Katarzyna"
+          ],
+          "lastName": [
+            "Świerkocka"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Systemic Connective Tissue Diseases, National Institute of Geriatrics, Rheumatology, and Rehabilitation, Warsaw, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Olesińska M"
+          ],
+          "firstName": [
+            "Marzena"
+          ],
+          "lastName": [
+            "Olesińska"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Systemic Connective Tissue Diseases, National Institute of Geriatrics, Rheumatology, and Rehabilitation, Warsaw, Poland."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "56"
+      ],
+      "journalIssueId": [
+        "2755301"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Reumatologia"
+          ],
+          "ISOAbbreviation": [
+            "Reumatologia"
+          ],
+          "medlineAbbreviation": [
+            "Reumatologia"
+          ],
+          "NLMid": [
+            "20130190R"
+          ],
+          "ISSN": [
+            "0034-6233"
+          ],
+          "ESSN": [
+            "2084-9834"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "307-315"
+  ],
+  "abstractText": [
+    "Despite its misleading adjective, the most commonly used diagnostic criteria of idiopathic inflammatory myopathies (IIM) are applicable only after all other non-autoimmune muscle diseases have been excluded. It makes differential diagnosis the first step when approaching a patient with muscle weakness. This article is designed to list the most common conditions from which to differentiate in rheumatological care. In fact, many patients with the diseases described here have been initially misdiagnosed with IIM. For the purpose of this article, only the most commonly found and important conditions according to the authors are listed with the essence of information; other autoimmune muscle diseases, such as sarcoidosis and eosinophilic myositis, are not portrayed. The attached bibliography may serve as a source, when further exploration of a specific subject is needed."
+  ],
+  "affiliation": [
+    "Department of Systemic Connective Tissue Diseases, National Institute of Geriatrics, Rheumatology, and Rehabilitation, Warsaw, Poland."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Differential diagnosis",
+        "Myositis",
+        "Myopathies In Adults"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6263305?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6263305"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.5114/reum.2018.79502"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refsnp"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-12-04"
+  ],
+  "firstIndexDate": [
+    "2018-12-04"
+  ],
+  "dateOfRevision": [
+    "2018-12-17"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-31"
+  ],
+  "firstPublicationDate": [
+    "2018-10-31"
+  ]
+}

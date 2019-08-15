@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="frequencies">
+ <result title="frequency" word="{border-style" count="20"/>
+ <result title="frequency" word="px;}" count="18"/>
+ <result title="frequency" word="#ffffff;}" count="17"/>
+ <result title="frequency" word="supplement" count="14"/>
+ <result title="frequency" word="Vitex" count="11"/>
+ <result title="frequency" word="rhabdomyolysis" count="11"/>
+ <result title="frequency" word="herbal" count="10"/>
+ <result title="frequency" word="px;" count="8"/>
+ <result title="frequency" word="{font-family" count="8"/>
+ <result title="frequency" word="font-size" count="7"/>
+ <result title="frequency" word="case" count="6"/>
+ <result title="frequency" word="double;" count="6"/>
+ <result title="frequency" word="patient" count="6"/>
+ <result title="frequency" word="border-color" count="5"/>
+ <result title="frequency" word="border-width" count="5"/>
+ <result title="frequency" word="dietary" count="5"/>
+ <result title="frequency" word="pain" count="5"/>
+ <result title="frequency" word="report" count="5"/>
+ <result title="frequency" word="solid;" count="5"/>
+ <result title="frequency" word="supplements" count="5"/>
+ <result title="frequency" word="{font-style" count="5"/>
+ <result title="frequency" word="{font-weight" count="5"/>
+ <result title="frequency" word="Kennestone" count="4"/>
+ <result title="frequency" word="Medical" count="4"/>
+ <result title="frequency" word="Medicine," count="4"/>
+ <result title="frequency" word="Regional" count="4"/>
+ <result title="frequency" word="Rhabdomyolysis" count="4"/>
+ <result title="frequency" word="Wellstar" count="4"/>
+ <result title="frequency" word="article" count="4"/>
+ <result title="frequency" word="bold" count="4"/>
+ <result title="frequency" word="courier;" count="4"/>
+ <result title="frequency" word="days" count="4"/>
+ <result title="frequency" word="denied" count="4"/>
+ <result title="frequency" word="em;" count="4"/>
+ <result title="frequency" word="exercise" count="4"/>
+ <result title="frequency" word="medical" count="4"/>
+ <result title="frequency" word="muscle" count="4"/>
+ <result title="frequency" word="pt;}" count="4"/>
+ <result title="frequency" word="stated" count="4"/>
+ <result title="frequency" word="vitex" count="4"/>
+</results>

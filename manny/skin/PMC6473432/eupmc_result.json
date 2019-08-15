@@ -1,0 +1,361 @@
+{
+  "id": [
+    "30781500"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30781500"
+  ],
+  "pmcid": [
+    "PMC6473432"
+  ],
+  "doi": [
+    "10.3390/medicines6010026"
+  ],
+  "title": [
+    "PharmActa: Empowering Patients to Avoid Clinical Significant Drug⁻Herb Interactions."
+  ],
+  "authorString": [
+    "Spanakis M, Sfakianakis S, Sakkalis V, Spanakis EG."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Spanakis M"
+          ],
+          "firstName": [
+            "Marios"
+          ],
+          "lastName": [
+            "Spanakis"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2163-0653",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Computational Biomedicine Laboratory, Institute of Computer Science, Foundation for Research and Technology-Hellas, Heraklion, GR-70013 Crete, Greece. marspan@ics.forth.gr."
+          ]
+        },
+        {
+          "fullName": [
+            "Sfakianakis S"
+          ],
+          "firstName": [
+            "Stelios"
+          ],
+          "lastName": [
+            "Sfakianakis"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8424-4157",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Computational Biomedicine Laboratory, Institute of Computer Science, Foundation for Research and Technology-Hellas, Heraklion, GR-70013 Crete, Greece. ssfak@ics.forth.gr."
+          ]
+        },
+        {
+          "fullName": [
+            "Sakkalis V"
+          ],
+          "firstName": [
+            "Vangelis"
+          ],
+          "lastName": [
+            "Sakkalis"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4701-850X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Computational Biomedicine Laboratory, Institute of Computer Science, Foundation for Research and Technology-Hellas, Heraklion, GR-70013 Crete, Greece. sakkalis@ics.forth.gr."
+          ]
+        },
+        {
+          "fullName": [
+            "Spanakis EG"
+          ],
+          "firstName": [
+            "Emmanouil G"
+          ],
+          "lastName": [
+            "Spanakis"
+          ],
+          "initials": [
+            "EG"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8276-3559",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Computational Biomedicine Laboratory, Institute of Computer Science, Foundation for Research and Technology-Hellas, Heraklion, GR-70013 Crete, Greece. spanakis@ics.forth.gr."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2163-0653",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8424-4157",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4701-850X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8276-3559",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2783544"
+      ],
+      "dateOfPublication": [
+        "2019 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Medicines (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Medicines (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Medicines (Basel)"
+          ],
+          "NLMid": [
+            "101671069"
+          ],
+          "ISSN": [
+            "2305-6320"
+          ],
+          "ESSN": [
+            "2305-6320"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Herbal medicinal products (HMPs) are the subject of increasing interest regarding their benefits for health. However, a serious concern is the potential appearance of clinically significant drug⁻herb interactions in patients. This work provides an overview of drug⁻herb interactions and an evaluation of their clinical significance. We discuss how personalized health services and mobile health applications can utilize tools that provide essential information to patients to avoid drug⁻HMP interactions. There is a specific mention to PharmActa, a dedicated mobile app for personalized pharmaceutical care with information regarding drug⁻HMPs interactions. Several studies over the years have shown that for some HMPs, the potential to present clinically significant interactions is evident, especially for many of the top selling HMPs. Towards that, PharmActa presents how we can improve the way that information regarding potential drug⁻herb interactions can be disseminated to the public. The utilization of technologies focusing on medical information and context awareness introduce a new era in healthcare. The exploitation of eHealth tools and pervasive mobile monitoring technologies in the case of HMPs will allow the citizens to be informed and avoid potential drug⁻HMPs interactions enhancing the effectiveness and ensuring safety for HMPs."
+  ],
+  "affiliation": [
+    "Computational Biomedicine Laboratory, Institute of Computer Science, Foundation for Research and Technology-Hellas, Heraklion, GR-70013 Crete, Greece. marspan@ics.forth.gr."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Pharmaceutical care",
+        "Drug–herb Interactions",
+        "Patient Empowerment",
+        "Ehealth",
+        "Complementary Medicines",
+        "Personal Health Systems"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6473432?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6473432"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/medicines6010026"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-02-21"
+  ],
+  "firstIndexDate": [
+    "2019-02-21"
+  ],
+  "dateOfRevision": [
+    "2019-05-01"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-16"
+  ],
+  "firstPublicationDate": [
+    "2019-02-16"
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "id": [
+    "30504980"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30504980"
+  ],
+  "pmcid": [
+    "PMC6233043"
+  ],
+  "doi": [
+    "10.4103/ijd.IJD_640_16"
+  ],
+  "title": [
+    "Disease Pattern among Sexually Transmitted Infection Clinic Attendees: A Hospital-Based Study."
+  ],
+  "authorString": [
+    "Talukdar K, Chopra A, Mitra D, Mitra B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Talukdar K"
+          ],
+          "firstName": [
+            "Krishna"
+          ],
+          "lastName": [
+            "Talukdar"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Base Hospital, New Delhi, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Chopra A"
+          ],
+          "firstName": [
+            "Ajay"
+          ],
+          "lastName": [
+            "Chopra"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Base Hospital, New Delhi, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Mitra D"
+          ],
+          "firstName": [
+            "Debdeep"
+          ],
+          "lastName": [
+            "Mitra"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Base Hospital, New Delhi, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Mitra B"
+          ],
+          "firstName": [
+            "Barnali"
+          ],
+          "lastName": [
+            "Mitra"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Base Hospital, New Delhi, India."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "63"
+      ],
+      "journalIssueId": [
+        "2755295"
+      ],
+      "dateOfPublication": [
+        "2018 Nov-Dec"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Indian journal of dermatology"
+          ],
+          "ISOAbbreviation": [
+            "Indian J Dermatol"
+          ],
+          "medlineAbbreviation": [
+            "Indian J Dermatol"
+          ],
+          "NLMid": [
+            "0370750"
+          ],
+          "ISSN": [
+            "0019-5154"
+          ],
+          "ESSN": [
+            "1998-3611"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "502-505"
+  ],
+  "abstractText": [
+    "Background:Sexually transmitted infections (STIs) have a definite role in the facilitation of HIV infection, which, in turn, also increases susceptibility to other STIs. Further, the social stigma and secrecy surrounding STIs create difficulty in estimating its true incidence and prevalence. Objective:The objective of this study was to know the pattern of diseases including different clinical presentations and final diagnosis among the STI clinic attendees. Materials and Methods:This study was a hospital-based study; a predesigned and pretested schedule was used to collect data from 140 patients after obtaining their consent. The study was carried out between January 1, 2016, and December 31, 2016. Statistical Analysis:Analysis was done using tabulation and proportion. Results and Observation:Genital ulcer (31.43%) was the most common clinical presentation among the attendees. Primary syphilis was the most common (17.14%) STI detected among the participants followed by herpes genitalis (16.43%). The most common mixed infection was primary syphilis with chancroid (36.36%) followed by herpes genitalis with primary syphilis (18.18%). Conclusion:Ulcerative STIs singly or in combination are more frequent than the non-ulcerative STIs. Further studies with large sample sizes are needed to obtain a more vivid picture."
+  ],
+  "affiliation": [
+    "Department of Pediatrics, Base Hospital, New Delhi, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "other",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "HIV",
+        "Sexually Transmitted Infections"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6233043"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/ijd.IJD_640_16"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-12-04"
+  ],
+  "firstIndexDate": [
+    "2018-12-04"
+  ],
+  "dateOfRevision": [
+    "2018-12-17"
+  ],
+  "firstPublicationDate": [
+    "2018-11-01"
+  ]
+}

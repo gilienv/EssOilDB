@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6257077/results/species/binomial/results.xml">
+  <result pre="y antimicrobial peptides functioning as vasoactive mediators. 9 In acne, " exact="Propionibacterium acnes" xpath="/html[1]/body[1]/div[2]/div[2]/div[2]/p[2]" match="Propionibacterium acnes" post=" induces a cytokine-mediated inflammasome in which Toll-like receptor-2 (TLR-2) has been proven to " name="binomial"/>
+  <result pre="been proven to play a role. 10 There are increased numbers of resistant " exact="P. acnes" match="Propionibacterium acnes" post=" at the edges of topically treated acne areas, which may play a role in the formation of biofilms. " name="binomial"/>
+ </snippets>
+</snippetsTree>

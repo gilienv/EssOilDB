@@ -1,0 +1,506 @@
+{
+  "id": [
+    "29849484"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29849484"
+  ],
+  "pmcid": [
+    "PMC5925018"
+  ],
+  "doi": [
+    "10.1155/2018/2503950"
+  ],
+  "title": [
+    "Wound Healing and Omega-6 Fatty Acids: From Inflammation to Repair."
+  ],
+  "authorString": [
+    "Silva JR, Burger B, Kühl CMC, Candreva T, Dos Anjos MBP, Rodrigues HG."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Silva JR"
+          ],
+          "firstName": [
+            "Jéssica R"
+          ],
+          "lastName": [
+            "Silva"
+          ],
+          "initials": [
+            "JR"
+          ],
+          "affiliation": [
+            "Laboratory of Nutrients and Tissue Repair, School of Applied Sciences, University of Campinas, Limeira, SP, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Burger B"
+          ],
+          "firstName": [
+            "Beatriz"
+          ],
+          "lastName": [
+            "Burger"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Laboratory of Nutrients and Tissue Repair, School of Applied Sciences, University of Campinas, Limeira, SP, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Kühl CMC"
+          ],
+          "firstName": [
+            "Carolina M C"
+          ],
+          "lastName": [
+            "Kühl"
+          ],
+          "initials": [
+            "CMC"
+          ],
+          "affiliation": [
+            "Laboratory of Nutrients and Tissue Repair, School of Applied Sciences, University of Campinas, Limeira, SP, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Candreva T"
+          ],
+          "firstName": [
+            "Thamiris"
+          ],
+          "lastName": [
+            "Candreva"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Laboratory of Nutrients and Tissue Repair, School of Applied Sciences, University of Campinas, Limeira, SP, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Dos Anjos MBP"
+          ],
+          "firstName": [
+            "Mariah B P"
+          ],
+          "lastName": [
+            "Dos Anjos"
+          ],
+          "initials": [
+            "MBP"
+          ],
+          "affiliation": [
+            "Laboratory of Nutrients and Tissue Repair, School of Applied Sciences, University of Campinas, Limeira, SP, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Rodrigues HG"
+          ],
+          "firstName": [
+            "Hosana G"
+          ],
+          "lastName": [
+            "Rodrigues"
+          ],
+          "initials": [
+            "HG"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6122-0379",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratory of Nutrients and Tissue Repair, School of Applied Sciences, University of Campinas, Limeira, SP, Brazil."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6122-0379",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2018"
+      ],
+      "journalIssueId": [
+        "2654959"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Mediators of inflammation"
+          ],
+          "ISOAbbreviation": [
+            "Mediators Inflamm."
+          ],
+          "medlineAbbreviation": [
+            "Mediators Inflamm"
+          ],
+          "NLMid": [
+            "9209001"
+          ],
+          "ISSN": [
+            "0962-9351"
+          ],
+          "ESSN": [
+            "1466-1861"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "2503950"
+  ],
+  "abstractText": [
+    "Wound healing is an evolutionarily conserved process that is essential for species survival. Wound healing involves a series of biochemical and cellular events that are tightly controlled, divided into 3 concomitant and overlapping phases: inflammation, proliferation, and remodelling. Poor wound healing or a chronic wound represents a silent epidemic that affects billions of people worldwide. Considering the involvement of immune cells in its resolution, recent studies are focused on investigating the roles of immune nutrients such as amino acids, minerals, and fatty acids on wound healing. Among the fatty acids, much attention has been given to omega-6 (ω-6) fatty acids since they can modulate cell migration and proliferation, phagocytic capacity, and production of inflammatory mediators. The present review summarizes current knowledge about the role of ω-6 fatty acids in the wound healing context."
+  ],
+  "affiliation": [
+    "Laboratory of Nutrients and Tissue Repair, School of Applied Sciences, University of Campinas, Limeira, SP, Brazil."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Inflammation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fatty Acids, Omega-6"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Wound Healing"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Proliferation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Fatty Acids, Omega-6"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5925018?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5925018"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2018/2503950"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-10-01"
+  ],
+  "dateOfCreation": [
+    "2018-06-01"
+  ],
+  "firstIndexDate": [
+    "2018-06-01"
+  ],
+  "dateOfRevision": [
+    "2018-10-01"
+  ],
+  "electronicPublicationDate": [
+    "2018-04-12"
+  ],
+  "firstPublicationDate": [
+    "2018-04-12"
+  ]
+}

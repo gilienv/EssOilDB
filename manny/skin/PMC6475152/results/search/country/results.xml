@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="country">
+ <result pre="2 10 [1], Department of Pharmacy AP-HP, Robert-Debré Hospital Paris" exact="France" post="[2], UMR-S1123, ECEVE; Inserm U1123 INSERM Paris Île-de-France France"/>
+ <result pre="Paris France [2], UMR-S1123, ECEVE; Inserm U1123 INSERM Paris Île-de-France" exact="France" post="[3], Emergency Unit AP-HP, Necker Hospital Paris Île-de-France France"/>
+ <result pre="Île-de-France France [3], Emergency Unit AP-HP, Necker Hospital Paris Île-de-France" exact="France" post="[4], Emergency unit AP-HP, Robert-Debré Hospital Paris Île-de-France France"/>
+ <result pre="Île-de-France France [4], Emergency unit AP-HP, Robert-Debré Hospital Paris Île-de-France" exact="France" post="[5], Pharmacy Albaret Pharmacy Cesson France [6], Clinical Pharmacy,"/>
+ <result pre="Robert-Debré Hospital Paris Île-de-France France [5], Pharmacy Albaret Pharmacy Cesson" exact="France" post="[6], Clinical Pharmacy, Paris Descartes University Paris Île-de-France France"/>
+ <result pre="Cesson France [6], Clinical Pharmacy, Paris Descartes University Paris Île-de-France" exact="France" post="[7], Clinical Epidemiology Unit Robert-Debré Hospital Paris Île-de-France France"/>
+ <result pre="Île-de-France France [7], Clinical Epidemiology Unit Robert-Debré Hospital Paris Île-de-France" exact="France" post="[8], CIC-EC 1426 AP-HP, Robert-Debré Hospital Paris Île-de-France France"/>
+ <result pre="Île-de-France France [8], CIC-EC 1426 AP-HP, Robert-Debré Hospital Paris Île-de-France" exact="France" post="[9], Laboratoire Educations et Pratiques de Santé Paris XIII"/>
+ <result pre="Laboratoire Educations et Pratiques de Santé Paris XIII University Bobigny" exact="France" post="[10], Groupe Pédiatrie Société Française de Pharmacie Clinique Paris"/>
+ <result pre="France [10], Groupe Pédiatrie Société Française de Pharmacie Clinique Paris" exact="France" post="Correspondence to Dr Aurore Berthe-Aucejo; aurore.berthe84@gmail.com collection: 2019 epub:"/>
+</results>

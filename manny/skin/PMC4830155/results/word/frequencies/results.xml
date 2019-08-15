@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="frequencies">
+ <result title="frequency" word="{border-style" count="20"/>
+ <result title="frequency" word="px;}" count="18"/>
+ <result title="frequency" word="#ffffff;}" count="17"/>
+ <result title="frequency" word="menthol" count="11"/>
+ <result title="frequency" word="patient" count="10"/>
+ <result title="frequency" word="peppermint" count="9"/>
+ <result title="frequency" word="px;" count="8"/>
+ <result title="frequency" word="{font-family" count="8"/>
+ <result title="frequency" word="Menthol" count="7"/>
+ <result title="frequency" word="font-size" count="7"/>
+ <result title="frequency" word="reported" count="7"/>
+ <result title="frequency" word="Figure" count="6"/>
+ <result title="frequency" word="blood" count="6"/>
+ <result title="frequency" word="case" count="6"/>
+ <result title="frequency" word="double;" count="6"/>
+ <result title="frequency" word="border-color" count="5"/>
+ <result title="frequency" word="border-width" count="5"/>
+ <result title="frequency" word="fatal" count="5"/>
+ <result title="frequency" word="intravenous" count="5"/>
+ <result title="frequency" word="showed" count="5"/>
+ <result title="frequency" word="solid;" count="5"/>
+ <result title="frequency" word="{font-style" count="5"/>
+ <result title="frequency" word="{font-weight" count="5"/>
+ <result title="frequency" word="acute" count="4"/>
+ <result title="frequency" word="bold" count="4"/>
+ <result title="frequency" word="courier;" count="4"/>
+ <result title="frequency" word="dose" count="4"/>
+ <result title="frequency" word="em;" count="4"/>
+ <result title="frequency" word="history" count="4"/>
+ <result title="frequency" word="oil" count="4"/>
+ <result title="frequency" word="poisoning" count="4"/>
+ <result title="frequency" word="pt;}" count="4"/>
+ <result title="frequency" word="recurrent" count="4"/>
+ <result title="frequency" word="renal" count="4"/>
+ <result title="frequency" word="treatment" count="4"/>
+ <result title="frequency" word="unconscious" count="4"/>
+</results>

@@ -1,0 +1,310 @@
+{
+  "id": [
+    "31083446"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31083446"
+  ],
+  "pmcid": [
+    "PMC6562586"
+  ],
+  "doi": [
+    "10.3390/md17050282"
+  ],
+  "title": [
+    "Oceans as a Source of Immunotherapy."
+  ],
+  "authorString": [
+    "Ahmad B, Shah M, Choi S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ahmad B"
+          ],
+          "firstName": [
+            "Bilal"
+          ],
+          "lastName": [
+            "Ahmad"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Molecular Science and Technology, Ajou University, Suwon 16499, Korea. bilalpharma77@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Shah M"
+          ],
+          "firstName": [
+            "Masaud"
+          ],
+          "lastName": [
+            "Shah"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Molecular Science and Technology, Ajou University, Suwon 16499, Korea. masaudghalib@hotmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Choi S"
+          ],
+          "firstName": [
+            "Sangdun"
+          ],
+          "lastName": [
+            "Choi"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Molecular Science and Technology, Ajou University, Suwon 16499, Korea. sangdunchoi@ajou.ac.kr."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "17"
+      ],
+      "journalIssueId": [
+        "2812547"
+      ],
+      "dateOfPublication": [
+        "2019 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Marine drugs"
+          ],
+          "ISOAbbreviation": [
+            "Mar Drugs"
+          ],
+          "medlineAbbreviation": [
+            "Mar Drugs"
+          ],
+          "NLMid": [
+            "101213729"
+          ],
+          "ISSN": [
+            "1660-3397"
+          ],
+          "ESSN": [
+            "1660-3397"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Marine flora is taxonomically diverse, biologically active, and chemically unique. It is an excellent resource, which offers great opportunities for the discovery of new biopharmaceuticals such as immunomodulators and drugs targeting cancerous, inflammatory, microbial, and fungal diseases. The ability of some marine molecules to mediate specific inhibitory activities has been demonstrated in a range of cellular processes, including apoptosis, angiogenesis, and cell migration and adhesion. Immunomodulators have been shown to have significant therapeutic effects on immune-mediated diseases, but the search for safe and effective immunotherapies for other diseases such as sinusitis, atopic dermatitis, rheumatoid arthritis, asthma and allergies is ongoing. This review focuses on the marine-originated bioactive molecules with immunomodulatory potential, with a particular focus on the molecular mechanisms of specific agents with respect to their targets. It also addresses the commercial utilization of these compounds for possible drug improvement using metabolic engineering and genomics."
+  ],
+  "affiliation": [
+    "Department of Molecular Science and Technology, Ajou University, Suwon 16499, Korea. bilalpharma77@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2019R1H1A2039674"
+          ],
+          "agency": [
+            "National Research Foundation of Korea"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2018K000369"
+          ],
+          "agency": [
+            "Ministry of Science and ICT"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Immunotherapy",
+        "Inflammation",
+        "Toll-like receptor",
+        "Marine drug",
+        "Marine Flora"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6562586?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6562586"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/md17050282"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-05-15"
+  ],
+  "firstIndexDate": [
+    "2019-05-15"
+  ],
+  "dateOfRevision": [
+    "2019-06-18"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-10"
+  ],
+  "firstPublicationDate": [
+    "2019-05-10"
+  ]
+}

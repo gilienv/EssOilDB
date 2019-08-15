@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="binomial">
+ <result pre="fe daily vegetable. The methanolic extract of this plant had shown anti-microbial activity against " exact="Bacillus subtilis" xpath="/html[1]/body[1]/div[2]/div[2]/div[5]/p[1]" match="Bacillus subtilis" post=" [ 10]. " name="binomial"/>
+ <result pre="ti-tumor, immuno- modulatory, inflammation, oxidative stress, different scientific, common name of " exact="Portulaca oleracea" xpath="/html[1]/body[1]/div[2]/div[2]/div[5]/p[1]" match="Portulaca oleracea" post=" and Purslane, respectively. " name="binomial"/>
+ <result pre=" 3. In this context, Costa et al demonstrated that ethyl acetate and chloroform extracts of " exact="Portulaca werdermannii" xpath="/html[1]/body[1]/div[2]/div[2]/div[5]/p[1]" match="Portulaca werdermannii" post=" and Portulaca hirsutissima encompass potent immuno-modulatory activities. They showed that " name="binomial"/>
+ <result pre="l demonstrated that ethyl acetate and chloroform extracts of Portulaca werdermannii and " exact="Portulaca hirsutissima" match="Portulaca hirsutissima" post=" encompass potent immuno-modulatory activities. They showed that all four tested extracts inhibited" name="binomial"/>
+</results>

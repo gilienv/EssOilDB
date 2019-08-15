@@ -1,0 +1,425 @@
+{
+  "id": [
+    "28526097"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28526097"
+  ],
+  "pmcid": [
+    "PMC5438513"
+  ],
+  "doi": [
+    "10.1186/s12944-017-0469-7"
+  ],
+  "title": [
+    "Abundance of active ingredients in sea-buckthorn oil."
+  ],
+  "authorString": [
+    "Zielińska A, Nowak I."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zielińska A"
+          ],
+          "firstName": [
+            "Aleksandra"
+          ],
+          "lastName": [
+            "Zielińska"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Faculty of Chemistry, Adam Mickiewicz University in Poznań, Umultowska 89b, 61-614, Poznań, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Nowak I"
+          ],
+          "firstName": [
+            "Izabela"
+          ],
+          "lastName": [
+            "Nowak"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1113-9011",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Faculty of Chemistry, Adam Mickiewicz University in Poznań, Umultowska 89b, 61-614, Poznań, Poland. nowakiza@amu.edu.pl."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1113-9011",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2552721"
+      ],
+      "dateOfPublication": [
+        "2017 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Lipids in health and disease"
+          ],
+          "ISOAbbreviation": [
+            "Lipids Health Dis"
+          ],
+          "medlineAbbreviation": [
+            "Lipids Health Dis"
+          ],
+          "NLMid": [
+            "101147696"
+          ],
+          "ISSN": [
+            "1476-511X"
+          ],
+          "ESSN": [
+            "1476-511X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "95"
+  ],
+  "abstractText": [
+    "Vegetable oils are obtained by mechanical extraction or cold pressing of various parts of plants, most often: seeds, fruits, and drupels. Chemically, these oils are compounds of the ester-linked glycerol and higher fatty acids with long aliphatic chain hydrocarbons (min. C14:0). Vegetable oils have a variety of properties, depending on their percentage of saturation. This article describes sea-buckthorn oil, which is extracted from the well characterized fruit and seeds of sea buckthorn. The plant has a large number of active ingredients the properties of which are successfully used in the cosmetic industry and in medicine. Valuable substances contained in sea-buckthorn oil play an important role in the proper functioning of the human body and give skin a beautiful and healthy appearance. A balanced composition of fatty acids give the number of vitamins or their range in this oil and explains its frequent use in cosmetic products for the care of dry, flaky or rapidly aging skin. Moreover, its unique unsaturated fatty acids, such as palmitooleic acid (omega-7) and gamma-linolenic acid (omega-6), give sea-buckthorn oil skin regeneration and repair properties. Sea-buckthorn oil also improves blood circulation, facilitates oxygenation of the skin, removes excess toxins from the body and easily penetrates through the epidermis. Because inside the skin the gamma-linolenic acid is converted to prostaglandins, sea-buckthorn oil protects against infections, prevents allergies, eliminates inflammation and inhibits the aging process. With close to 200 properties, sea-buckthorn oil is a valuable addition to health and beauty products."
+  ],
+  "affiliation": [
+    "Faculty of Chemistry, Adam Mickiewicz University in Poznań, Umultowska 89b, 61-614, Poznań, Poland."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hippophae"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fatty Acids"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "gamma-Linolenic Acid"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Oils"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Fatty acids",
+        "gamma-linolenic acid",
+        "Human health",
+        "Vegetable Oils",
+        "Aging Process",
+        "Sea Buckthorn Oil"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Fatty Acids"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Plant Oils"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "gamma-Linolenic Acid"
+          ],
+          "registryNumber": [
+            "78YC2MAX4O"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5438513?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5438513"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12944-017-0469-7"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-03-09"
+  ],
+  "dateOfCreation": [
+    "2017-05-21"
+  ],
+  "firstIndexDate": [
+    "2017-05-20"
+  ],
+  "dateOfRevision": [
+    "2018-03-09"
+  ],
+  "electronicPublicationDate": [
+    "2017-05-19"
+  ],
+  "firstPublicationDate": [
+    "2017-05-19"
+  ]
+}

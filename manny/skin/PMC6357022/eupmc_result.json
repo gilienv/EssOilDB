@@ -1,0 +1,408 @@
+{
+  "id": [
+    "30591639"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30591639"
+  ],
+  "pmcid": [
+    "PMC6357022"
+  ],
+  "doi": [
+    "10.3390/nu11010046"
+  ],
+  "title": [
+    "Omega-3 Polyunsaturated Fatty Acids: Benefits and Endpoints in Sport."
+  ],
+  "authorString": [
+    "Gammone MA, Riccioni G, Parrinello G, D'Orazio N."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gammone MA"
+          ],
+          "firstName": [
+            "Maria Alessandra"
+          ],
+          "lastName": [
+            "Gammone"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9213-4249",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Human and Clinical Nutrition Unit, Department of Medical, Oral and Biotechnological Sciences, University G. D'Annunzio, 66100 Chieti, Italy. m.alessandra.gammone@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Riccioni G"
+          ],
+          "firstName": [
+            "Graziano"
+          ],
+          "lastName": [
+            "Riccioni"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Human and Clinical Nutrition Unit, Department of Medical, Oral and Biotechnological Sciences, University G. D'Annunzio, 66100 Chieti, Italy. griccioni@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Parrinello G"
+          ],
+          "firstName": [
+            "Gaspare"
+          ],
+          "lastName": [
+            "Parrinello"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Internal and Specialistic Medicine DIBIMIS, University of Palermo, 90123 Palermo, Italy. gaspare.parrinello@unipa.it."
+          ]
+        },
+        {
+          "fullName": [
+            "D'Orazio N"
+          ],
+          "firstName": [
+            "Nicolantonio"
+          ],
+          "lastName": [
+            "D'Orazio"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Human and Clinical Nutrition Unit, Department of Medical, Oral and Biotechnological Sciences, University G. D'Annunzio, 66100 Chieti, Italy. ndorazio@unich.it."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9213-4249",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2763443"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nutrients"
+          ],
+          "ISOAbbreviation": [
+            "Nutrients"
+          ],
+          "medlineAbbreviation": [
+            "Nutrients"
+          ],
+          "NLMid": [
+            "101521595"
+          ],
+          "ISSN": [
+            "2072-6643"
+          ],
+          "ESSN": [
+            "2072-6643"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "The influence of nutrition has the potential to substantially affect physical function and body metabolism. Particular attention has been focused on omega-3 polyunsaturated fatty acids (n-3 PUFAs), which can be found both in terrestrial features and in the marine world. They are responsible for numerous cellular functions, such as signaling, cell membrane fluidity, and structural maintenance. They also regulate the nervous system, blood pressure, hematic clotting, glucose tolerance, and inflammatory processes, which may be useful in all inflammatory conditions. Animal models and cell-based models show that n-3 PUFAs can influence skeletal muscle metabolism. Furthermore, recent human studies demonstrate that they can influence not only the exercise and the metabolic response of skeletal muscle, but also the functional response for a period of exercise training. In addition, their potential anti-inflammatory and antioxidant activity may provide health benefits and performance improvement especially in those who practice physical activity, due to their increased reactive oxygen production. This review highlights the importance of n-3 PUFAs in our diet, which focuses on their potential healthy effects in sport."
+  ],
+  "affiliation": [
+    "Human and Clinical Nutrition Unit, Department of Medical, Oral and Biotechnological Sciences, University G. D'Annunzio, 66100 Chieti, Italy. m.alessandra.gammone@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fatty Acids, Omega-3"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Exercise"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Sports Nutritional Sciences"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Nutrition",
+        "Inflammation",
+        "PUFAs",
+        "Sport",
+        "Seafood",
+        "Functional Foods",
+        "Omega-3",
+        "Marine Bioactives"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Fatty Acids, Omega-3"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6357022?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6357022"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/nu11010046"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-02-19"
+  ],
+  "dateOfCreation": [
+    "2018-12-29"
+  ],
+  "firstIndexDate": [
+    "2019-01-01"
+  ],
+  "dateOfRevision": [
+    "2019-03-20"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-27"
+  ],
+  "firstPublicationDate": [
+    "2018-12-27"
+  ]
+}

@@ -1,0 +1,510 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Microb Biotechnol</journal-id><journal-id journal-id-type="iso-abbrev">Microb Biotechnol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1751-7915</journal-id><journal-id journal-id-type="publisher-id">MBT2</journal-id><journal-title-group><journal-title>Microbial Biotechnology</journal-title></journal-title-group><issn pub-type="epub">1751-7915</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6116743</article-id><article-id pub-id-type="pmid">30022625</article-id><article-id pub-id-type="doi">10.1111/1751-7915.13297</article-id><article-id pub-id-type="publisher-id">MBT213297</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>A novel microbial technique for producing high&#x02010;quality sophorolipids from horse oil suitable for cosmetic applications</article-title><alt-title alt-title-type="left-running-head">Y. Maeng <italic>et&#x000a0;al</italic>.</alt-title></title-group><contrib-group><contrib id="mbt213297-cr-0001" contrib-type="author"><name><surname>Maeng</surname><given-names>Yoojae</given-names></name><xref ref-type="aff" rid="mbt213297-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="mbt213297-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="author-notes" rid="mbt213297-note-1001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="mbt213297-cr-0002" contrib-type="author"><name><surname>Kim</surname><given-names>Kyoung Tae</given-names></name><xref ref-type="aff" rid="mbt213297-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="mbt213297-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="author-notes" rid="mbt213297-note-1001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="mbt213297-cr-0003" contrib-type="author"><name><surname>Zhou</surname><given-names>Xuan</given-names></name><xref ref-type="aff" rid="mbt213297-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="author-notes" rid="mbt213297-note-1001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="mbt213297-cr-0004" contrib-type="author"><name><surname>Jin</surname><given-names>Litai</given-names></name><xref ref-type="aff" rid="mbt213297-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="mbt213297-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="mbt213297-cr-0005" contrib-type="author"><name><surname>Kim</surname><given-names>Ki Soo</given-names></name><xref ref-type="aff" rid="mbt213297-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="mbt213297-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="mbt213297-cr-0006" contrib-type="author"><name><surname>Kim</surname><given-names>Young Heui</given-names></name><xref ref-type="aff" rid="mbt213297-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="mbt213297-cr-0007" contrib-type="author"><name><surname>Lee</surname><given-names>Suyeon</given-names></name><xref ref-type="aff" rid="mbt213297-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="mbt213297-cr-0008" contrib-type="author"><name><surname>Park</surname><given-names>Ji Ho</given-names></name><xref ref-type="aff" rid="mbt213297-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="mbt213297-cr-0009" contrib-type="author"><name><surname>Chen</surname><given-names>Xiuyu</given-names></name><xref ref-type="aff" rid="mbt213297-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="mbt213297-cr-0010" contrib-type="author"><name><surname>Kong</surname><given-names>Mingxia</given-names></name><xref ref-type="aff" rid="mbt213297-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="mbt213297-cr-0011" contrib-type="author" corresp="yes"><name><surname>Cai</surname><given-names>Lu</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-3048-1135</contrib-id><address><email>lixk1964@163.com</email></address><xref ref-type="aff" rid="mbt213297-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="mbt213297-cr-0012" contrib-type="author" corresp="yes"><name><surname>Li</surname><given-names>Xiaokun</given-names></name><address><email>lu.cai@louisville.edu</email></address><xref ref-type="aff" rid="mbt213297-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="mbt213297-aff-0002">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="mbt213297-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">School of Pharmaceutical Sciences</named-content>
+<institution>Wenzhou Medical University</institution>
+<named-content content-type="city">Wenzhou</named-content>
+<named-content content-type="post-code">325035</named-content>
+<country country="CN">China</country>
+</aff><aff id="mbt213297-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Collaborative Innovation Center of Biomedicine</named-content>
+<institution>Wenzhou Medical University&#x02010;Wenzhou University</institution>
+<named-content content-type="city">Wenzhou</named-content>
+<named-content content-type="post-code">325035</named-content>
+<country country="CN">China</country>
+</aff><aff id="mbt213297-aff-0003">
+<label><sup>3</sup></label>
+<institution>Ningbo First Hospital</institution>
+<named-content content-type="city">Ningbo</named-content>
+<named-content content-type="post-code">315000</named-content>
+<country country="CN">China</country>
+</aff><aff id="mbt213297-aff-0004">
+<label><sup>4</sup></label>
+<institution>BiolandBiotec. Co., Ltd.</institution>
+<named-content content-type="street">Zhangjiang Modern Medical Device Park</named-content>
+<named-content content-type="city">Pudong, Shanghai</named-content>
+<named-content content-type="post-code">201203</named-content>
+<country country="CN">China</country>
+</aff><aff id="mbt213297-aff-0005">
+<label><sup>5</sup></label>
+<institution>SK Bioland</institution>
+<named-content content-type="street">59, Songjeongni 2&#x02010;gil, Byeongchen, Dongnam, Cheonan</named-content>
+<named-content content-type="city">Chungnam</named-content>
+<named-content content-type="post-code">31257</named-content>
+<country country="KP">Korea</country>
+</aff><aff id="mbt213297-aff-0006">
+<label><sup>6</sup></label>
+<institution>SK Bioland</institution>
+<named-content content-type="street">162, Gwahaksaneop 3&#x02010;ro, Ochang</named-content>
+<named-content content-type="city">Cheongwon, Cheongju, Chungbuk</named-content>
+<named-content content-type="post-code">28125</named-content>
+<country country="KP">Korea</country>
+</aff><aff id="mbt213297-aff-0007">
+<label><sup>7</sup></label>
+<named-content content-type="organisation-division">Departments of Pediatrics, Radiation Oncology, Pharmacology and Toxicology</named-content>
+<institution>Pediatric Research Institute</institution>
+<institution>University of Louisville</institution>
+<named-content content-type="city">Louisville</named-content>
+<named-content content-type="country-part">KY</named-content>
+<named-content content-type="post-code">40202</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>For correspondence. *E&#x02010;mail <email>lixk1964@163.com</email>; Tel. 86&#x02010;577 86699350, Fax 86&#x000a0;577 86699238. **E&#x02010;mail <email>lu.cai@louisville.edu</email>; Tel. 001 502&#x000a0;8522214, Fax 502&#x000a0;8525634.</corresp><fn fn-type="equal" id="mbt213297-note-1001"><label>&#x02020;</label><p>These authors contributed equally to this work</p></fn></author-notes><pub-date pub-type="epub"><day>18</day><month>7</month><year>2018</year></pub-date><pub-date pub-type="collection"><month>9</month><year>2018</year></pub-date><volume>11</volume><issue>5</issue><issue-id pub-id-type="doi">10.1111/mbt2.2018.11.issue-5</issue-id><issue-title>Thematic Issue on Microbiomes, Microbiota and Microbial Consortia</issue-title><fpage>917</fpage><lpage>929</lpage><history><date date-type="received"><day>30</day><month>3</month><year>2018</year></date><date date-type="rev-recd"><day>09</day><month>6</month><year>2018</year></date><date date-type="accepted"><day>12</day><month>6</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2018 John Wiley & Sons Ltd and Society for Applied Microbiology <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. <italic>Microbial Biotechnology</italic> published by John Wiley &#x00026; Sons Ltd and Society for Applied Microbiology.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:MBT2-11-917.pdf"/><abstract id="mbt213297-abs-0001"><title>Summary</title><p>Horse oil contains linoleic, palmitoleic and unsaturated fatty acids that are similar to those in human skin, and may therefore be an ideal substance from which to isolate biosurfactants for cosmetic products to improve human skin quality. Herein, an innovative approach was developed to synthesise sophorolipids from horse oil by hydrolysis, followed by fermentation using the yeast <italic>Candida bombicola</italic>. The yield of sophorolipids from direct fermentation of horse oil and hydrolysed horse oil was 40.6&#x000a0;&#x000b1;&#x000a0;1.3&#x000a0;g&#x000a0;l<sup>&#x02212;1</sup> and 58.4&#x000a0;&#x000b1;&#x000a0;1.8&#x000a0;g&#x000a0;l<sup>&#x02212;1</sup> respectively. To further increase the yield, 30&#x02013;40&#x000a0;g&#x000a0;l<sup>&#x02212;1</sup> glucose was added in a fed&#x02010;batch fermentation process to maintain the <styled-content style="fixed-case">pH</styled-content> between 4.0 and 4.5, resulting in a conversion yield of 71.7&#x000a0;&#x000b1;&#x000a0;0.8&#x000a0;g&#x000a0;l<sup>&#x02212;1</sup>. The purity and structure of the synthesised sophorolipids were analysed by ultra&#x02010;performance liquid chromatography&#x02010;mass spectrometry and nuclear magnetic resonance. An <italic>in&#x000a0;vitro</italic> human dermal fibroblast model was used as a surrogate for human skin to measure elastase inhibition activity. Antiwrinkle properties of isolated sophorolipids were better than those of horse oil or hydrolysed horse oil in several <italic>in&#x000a0;vitro</italic> assays. Furthermore, no cytotoxicity was observed at a concentration of 50&#x000a0;&#x003bc;g&#x000a0;ml<sup>&#x02212;1</sup>, and wound&#x02010;healing capacity was evident in a cell culture model. Additionally, the synthesised sophorolipids attenuated lipopolysaccharide&#x02010;induced expression of inflammatory cytokines in macrophages, and efficiently inhibited several strains of bacteria and yeast. In conclusion, fed&#x02010;batch fermentation of hydrolysed horse oil is a novel and efficient approach for producing high&#x02010;quality and high&#x02010;yield sophorolipids that exhibit great potential as cosmetic ingredients.</p></abstract><funding-group><award-group><funding-source>Natural Science Foundation of Ningbo</funding-source><award-id>2015A610184</award-id></award-group><award-group><funding-source>Opening Project of Zhejiang Provincial Top Key Discipline of Pharmaceutical Sciences</funding-source><award-id>YKFJ2&#x02010;004</award-id></award-group></funding-group><counts><fig-count count="6"/><table-count count="2"/><page-count count="13"/><word-count count="7017"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>mbt213297</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.4.7.1 mode:remove_FC converted:03.09.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="mbt213297-cit-1001">
+<source xml:lang="en">Microbial Biotechnology</source> (<year>2018</year>) <volume>11</volume>(<issue>5</issue>), <fpage>917</fpage>&#x02013;<lpage>929</lpage>
+<pub-id pub-id-type="pmid">30022625</pub-id></mixed-citation>
+</p><fn-group id="mbt213297-ntgp-0001"><fn fn-type="funding" id="mbt213297-note-1002"><p>
+<bold>Funding Information</bold>
+</p><p>This is work was supported in part by the grants from the Opening Project of Zhejiang Provincial Top Key Discipline of Pharmaceutical Sciences (YKFJ2&#x02010;004), the Natural Science Foundation of Ningbo (2015A610184).</p></fn></fn-group></notes></front><body><sec id="mbt213297-sec-0001"><title>Introduction</title><p>Effective and safe (less toxic) ingredients are required for cosmetic products. The safety of cosmetics was first mentioned in the 1930s (Carleton, <xref rid="mbt213297-bib-0007" ref-type="ref">1933</xref>), the effects of cosmetics on the skin barrier were first reported in 1946 and much research has since been published in this field (Sadler and Marriott, <xref rid="mbt213297-bib-0031" ref-type="ref">1946</xref>). The production of biosurfactants by microorganisms was first described more than 90&#x000a0;years ago (Brown, <xref rid="mbt213297-bib-0006" ref-type="ref">1991</xref>). Due to the societal norms of modern life, the use of cosmetic products has increased dramatically; the market for personal care products is expected to increase between 3.5% and 4.5% over the next 5&#x000a0;years, reaching a total market value of US $500 billion by 2020 (Adams, <xref rid="mbt213297-bib-0001" ref-type="ref">2016</xref>). Furthermore, the market for specific product ingredients was valued at US$ 7.46 billion in 2014, and will likely grow even faster, reaching US $11.76 billion by 2023 (Adams, <xref rid="mbt213297-bib-0001" ref-type="ref">2016</xref>).</p><p>Surfactants are amphiphilic molecules with both hydrophobic and hydrophilic regions. For this reason, they are adsorbed by, and arranged at, gas&#x02013;liquid, liquid&#x02013;liquid and liquid&#x02013;solid interfaces, where they alter the surface characteristics. The adsorption of surfactants is related to their structure; hence, they are used for emulsifying, solubilising, dispersing, condensing, cleaning, absorbing moisture, permeating, foaming and lubricating. Researchers have developed and characterised surfactants with different properties, from traditional synthetic surfactants, to more recent biosurfactants (Van Bogaert <italic>et&#x000a0;al</italic>., <xref rid="mbt213297-bib-0035" ref-type="ref">2007</xref>; Daverey and Pakshirajan, <xref rid="mbt213297-bib-0008" ref-type="ref">2009</xref>; Olkowska <italic>et&#x000a0;al</italic>., <xref rid="mbt213297-bib-0025" ref-type="ref">2014</xref>; Deng <italic>et&#x000a0;al</italic>., <xref rid="mbt213297-bib-0010" ref-type="ref">2016</xref>).</p><p>Biosurfactants are surface&#x02010;active compounds from biological sources that are usually produced extracellularly or as part of the cell membrane by bacteria, yeast and fungi. Based on the molecular structure and the extent of hydrophilic or hydrophobic regions, biosurfactants are categorised into several glycolipid types including sophorolipids, rhamnolipids and cellular biolipids, of which sophorolipids are the most abundantly produced (Baccile <italic>et&#x000a0;al</italic>., <xref rid="mbt213297-bib-0004" ref-type="ref">2016</xref>; Radzuan <italic>et&#x000a0;al</italic>., <xref rid="mbt213297-bib-0027" ref-type="ref">2017</xref>). Sophorolipids are composed of disaccharide sophorose fats. Glucose as a main carbon source can provide the sophorose group, and oils and fatty acids as secondary carbon sources provide the lipid chains. Recently, an improved method was reported for the production of acidic sophorolipids by methyl esterification of oils or fatty acids (Lourith and Kanlayavattanakul, <xref rid="mbt213297-bib-0022" ref-type="ref">2009</xref>; Shin <italic>et&#x000a0;al</italic>., <xref rid="mbt213297-bib-0034" ref-type="ref">2010</xref>). Horse oil, a subcutaneous fat extracted from the herbivorous horse, is included on the Chinese cosmetics ingredient list. Linoleic acid, palmitoleic acid and unsaturated fatty acids are major components of horse oil, comprising 60% to 65% by weight, which is similar to human skin (Table&#x000a0;<xref rid="mbt213297-sup-0001" ref-type="supplementary-material">S1</xref>), hence their suitability for use in cosmetic skin care products.</p><p>The present study aimed to improve the conversion yield of sophorolipids by hydrolysing horse oil and fermenting the products using the yeast <italic>Candida bombicola</italic> ATCC22214. Furthermore, the process was scaled up to demonstrate the ability to prepare large quantities for use in the cosmetics industry. In addition, antiwrinkle and anti&#x02010;inflammatory properties of the isolated sophorolipids were evaluated using several <italic>in&#x000a0;vitro</italic> assays that are commonly employed for testing the feasibility of commercial production of ingredients for use in cosmetic products.</p></sec><sec id="mbt213297-sec-0002"><title>Results and discussion</title><sec id="mbt213297-sec-0003"><title>Maximising the yield of sophorolipids by improving the extraction protocol, and the structure and compositions of synthesised sophorolipids</title><p>To establish optimal experimental conditions, we diluted horse oil (purchased from BiolandBiotec. Co., Ltd., Haimen, Jiangsu, China) with water to different concentrations in culture flasks, added 0.3% lipase and incubated samples at 35&#x000b0;C with stirring for 1&#x000a0;h. Sophorolipids in flasks were measured using solvent extraction methods, and the sophorolipid yield was increased with increasing concentration of both substances (horse oil and lipase), reaching 13.6&#x000a0;&#x000b1;&#x000a0;1.1&#x000a0;g&#x000a0;l<sup>&#x02212;1</sup> when the concentration of horse oil was 10% or higher, and up to 34.6&#x000a0;&#x000b1;&#x000a0;1.9&#x000a0;g&#x000a0;l<sup>&#x02212;1</sup> with 15% or higher hydrolysed horse oil (Fig.&#x000a0;<xref rid="mbt213297-fig-0001" ref-type="fig">1</xref>A). These results suggest that the conversion yield of sophorolipids from hydrolysed horse oil was more than 2.5&#x02010;fold greater than that from untreated horse oil (Table&#x000a0;<xref rid="mbt213297-tbl-0001" ref-type="table">1</xref>).</p><fig fig-type="Figure" xml:lang="en" id="mbt213297-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Yield of sophorolipids from horse oil and hydrolysed horse oil, and the effects of <styled-content style="fixed-case">pH</styled-content> and glucose concentration on yeast growth and sophorolipid yield. To establish optimal conditions, horse oil was diluted with water to different concentrations in flask cultures and treated with 0.3% lipase at 35&#x000b0;C with stirring for 1&#x000a0;h, and sophorolipids were measured using the solvent extraction method (A). Data are presented as the mean &#x000b1; <styled-content style="fixed-case">SD</styled-content> from three separate experiments respectively. *<italic>p&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.05 or ***<italic>p&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.001 vs. corresponding horse oil group. Dynamic profiles of yeast growth status, evaluated by dry cell weight (<styled-content style="fixed-case">DCW</styled-content>), sophorolipid concentrations, <styled-content style="fixed-case">pH</styled-content> values and glucose concentrations in the 5&#x000a0;L jar fermenter were measured at different time points during routine fermentation (B) and fed&#x02010;batch fermentation (C) in which <styled-content style="fixed-case">pH</styled-content> was maintained above 4 by frequent addition of glucose after 50&#x000a0;h of fermentation. Data are presented as the mean &#x000b1; <styled-content style="fixed-case">SD</styled-content> from three separate experiments respectively. *<italic>p&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.05 vs. controls (time = 0); **<italic>p&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.01 vs. controls (time = 0); ***<italic>p&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.001 vs. controls (time = 0).</p></caption><graphic id="nlm-graphic-3" xlink:href="MBT2-11-917-g001"/></fig><table-wrap id="mbt213297-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Conversion rate of sophorolipid from horse oil and hydrolysed horse oil at different conditions</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Oil substance</th><th align="left" valign="top" rowspan="1" colspan="1">Fermentation conditions</th><th align="char" valign="top" rowspan="1" colspan="1">Conversion rate of sophorolipid (g&#x000a0;l<sup>&#x02212;1</sup>)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Horse oil</td><td align="left" rowspan="1" colspan="1">Flask culture, oil 10%</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">13.6&#x000a0;&#x000b1;&#x000a0;1.1</td></tr><tr><td align="left" rowspan="1" colspan="1">Hydrolysed horse oil</td><td align="left" rowspan="1" colspan="1">Flask culture, oil 15%</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">34.6&#x000a0;&#x000b1;&#x000a0;1.9</td></tr><tr><td align="left" rowspan="1" colspan="1">Horse oil</td><td align="left" rowspan="1" colspan="1">5&#x000a0;l fermenter batch culture, oil 10%</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">40.6&#x000a0;&#x000b1;&#x000a0;1.3</td></tr><tr><td align="left" rowspan="1" colspan="1">Hydrolysed horse oil</td><td align="left" rowspan="1" colspan="1">5&#x000a0;l fermenter batch culture, oil 15%</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">58.4&#x000a0;&#x000b1;&#x000a0;1.8</td></tr><tr><td align="left" rowspan="1" colspan="1">Hydrolysed horse oil</td><td align="left" rowspan="1" colspan="1">5&#x000a0;l fermenter fed&#x02010;batch fermentation, oil 15%</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">71.7&#x000a0;&#x000b1;&#x000a0;0.8</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>
+<italic>Candida bombicola</italic> is capable of producing large quantities of biosurfactant sophorolipids (Roelants <italic>et&#x000a0;al</italic>., <xref rid="mbt213297-bib-0030" ref-type="ref">2013</xref>; Elshafie <italic>et&#x000a0;al</italic>., <xref rid="mbt213297-bib-0011" ref-type="ref">2015</xref>; Konishi <italic>et&#x000a0;al</italic>., <xref rid="mbt213297-bib-0018" ref-type="ref">2016</xref>; Samad <italic>et&#x000a0;al</italic>., <xref rid="mbt213297-bib-0032" ref-type="ref">2017</xref>). Therefore, to further optimise the procedure, hydrolysed horse oil was fermented with <italic>C.&#x000a0;bombicola</italic> in a 5&#x000a0;l jar fermenter. Initially, there was no change in pH or glucose concentration during the fermentation period of 7&#x000a0;days. Horse oil or hydrolysed horse oil at 5% was added at 50, 100 and 150&#x000a0;h of fermentation, so that the final concentration in the fermenter was 10% for horse oil or 15% for hydrolysed horse oil. Figure&#x000a0;<xref rid="mbt213297-fig-0001" ref-type="fig">1</xref>B shows a representative fermentation prolife for hydrolysed oil, in which the yeast cell density, measured by dry cell weight (DCW), was sharply increased after 24&#x000a0;h of fermentation, and plateaued at a maximum level after 50&#x000a0;h. The conversion yield of sophorolipids from hydrolysed horse oil was significantly increased from 60&#x000a0;h onwards, and reached a peak of 58.4&#x000a0;&#x000b1;&#x000a0;1.8&#x000a0;g&#x000a0;l<sup>&#x02212;1</sup> after 160&#x000a0;h of fermentation (Fig.&#x000a0;<xref rid="mbt213297-fig-0001" ref-type="fig">1</xref>B, Table&#x000a0;<xref rid="mbt213297-tbl-0001" ref-type="table">1</xref>). Under similar conditions, we also observed an increase in the conversion yield of sophorolipids from horse oil with increasing fermentation time, reaching a peak yield of 40.6&#x000a0;&#x000b1;&#x000a0;1.3&#x000a0;g&#x000a0;l<sup>&#x02212;1</sup> (Table&#x000a0;<xref rid="mbt213297-tbl-0001" ref-type="table">1</xref>; fermentation profile not shown).</p><p>Figure&#x000a0;<xref rid="mbt213297-fig-0001" ref-type="fig">1</xref>B also reveals that, during fermentation, the glucose concentration began to quickly decrease after 24&#x000a0;h of fermentation, from the original 100&#x000a0;g&#x000a0;l<sup>&#x02212;1</sup> to &#x0003c;&#x000a0;10&#x000a0;g&#x000a0;l<sup>&#x02212;1</sup>, and reached almost 0&#x000a0;g&#x000a0;l<sup>&#x02212;1</sup> after 50&#x000a0;h (Fig.&#x000a0;<xref rid="mbt213297-fig-0001" ref-type="fig">1</xref>B). Additionally, the pH gradually decreased throughout, from pH 5.4 at the start of fermentation, to pH ~2.8 at the end (180&#x000a0;h; Fig.&#x000a0;<xref rid="mbt213297-fig-0001" ref-type="fig">1</xref>B). Sophorolipids are produced in large quantities during the latter phase of exponential growth, or during the stationary phase when carbon or nitrogen is in short supply (Ma <italic>et&#x000a0;al</italic>., <xref rid="mbt213297-bib-0023" ref-type="ref">2011</xref>). Thus, addition of other matrix types (hydrocarbons and oils) during these phases can increase production substantially. Sophorolipids are composed of disaccharide sophorose fats, and glucose as a main carbon source can provide the sophorose group, while oils and fatty acids as secondary carbon sources can provide the lipid chains. In addition, glucose is required for both the growth of <italic>C.&#x000a0;bombicola</italic> and sophorolipid conversion. In fact, the existence of a stationary phase for cell growth between 24 and 50&#x000a0;h of fermentation also suggests that further glucose consumption may be required predominantly for sophorolipid conversion from 50&#x000a0;h onwards. Therefore, to improve conversion of sophorolipids in the 5&#x000a0;l fermenter, 5% hydrolysed horse oil was added at 50, 100 and 150&#x000a0;h, to achieve a final concentration of 15% as described above, but from 50&#x000a0;h the pH was adjusted to ~4.0&#x02013;4.5, and glucose was added to maintain the concentration range between 30 and 40&#x000a0;g&#x000a0;l<sup>&#x02212;1</sup> (Fig.&#x000a0;<xref rid="mbt213297-fig-0001" ref-type="fig">1</xref>C). These modifications (i.e., fed&#x02010;batch fermentation) resulted in a significant increase in the sophorolipid conversion yield to 71.7&#x000a0;&#x000b1;&#x000a0;0.8&#x000a0;g&#x000a0;l<sup>&#x02212;1</sup> after fermentation for 180&#x000a0;h (Fig.&#x000a0;<xref rid="mbt213297-fig-0001" ref-type="fig">1</xref>C), which is ~5.3&#x02010; and 2.0&#x02010;fold higher than the yield achieved with horse oil and hydrolysed horse oil, respectively, without fed&#x02010;batch fermentation (Table&#x000a0;<xref rid="mbt213297-tbl-0001" ref-type="table">1</xref>).</p><p>Therefore, through the optimisation process, we conclude the following: (i) the optimal concentration of horse oil in the cultivation broth was 10%, but 15% hydrolysed horse oil was optimal for generating sophorolipids (Fig.&#x000a0;<xref rid="mbt213297-fig-0001" ref-type="fig">1</xref>A); (ii) the conversion rate of hydrolysed horse oil to sophorolipids was higher than that of untreated horse oil (in small&#x02010;scale experiments); (iii) the conversion rate of fed&#x02010;batch fermentation was higher than that of bath fermentation. These results represent an improvement over those of a previous study that optimised the production of C12&#x02013;C14 sophorolipids from coconut oil using <italic>C.&#x000a0;bombicola</italic> in a fed&#x02010;batch fermentation (Morya <italic>et&#x000a0;al</italic>., <xref rid="mbt213297-bib-0024" ref-type="ref">2013</xref>). The authors maintained a 10% glucose concentration and obtained a maximum sophorolipid yield of 54.0&#x000a0;g&#x000a0;l<sup>&#x02212;1</sup> after 234&#x000a0;h of fermentation (Morya <italic>et&#x000a0;al</italic>., <xref rid="mbt213297-bib-0024" ref-type="ref">2013</xref>). By comparison, we achieved a maximum yield of 71.6&#x000a0;g&#x000a0;l<sup>&#x02212;1</sup> after only 50&#x000a0;h of fermentation (Fig.&#x000a0;<xref rid="mbt213297-fig-0001" ref-type="fig">1</xref>C).</p><p>After fermentation, a mixture of lactonic and acidic sophorolipids was purified by solvent extraction followed by column chromatography. The structures of seven sophorolipids were defined by ultra&#x02010;performance liquid chromatography&#x02010;mass spectrometry (UPLC&#x02010;MS) analysis using the method outlined in Fig.&#x000a0;<xref rid="mbt213297-sup-0001" ref-type="supplementary-material">S2</xref>A and B. The proportion of each type of sophorolipid and the molecular weight are listed in Table&#x000a0;<xref rid="mbt213297-sup-0001" ref-type="supplementary-material">S2</xref>. Lactonic sophorolipids were more abundant, with diacetyl 18:1 accounting for 40.12% and diacetyl 18:0 for 22.78%, while the third most abundant was the acidic diacetyl C18:1 sophorolipid (17.69%).</p><p>To confirm the structure of the most abundant species, the lactonic sophorolipid diacetyl 18:1 was isolated from the mixture, as shown in Fig.&#x000a0;<xref rid="mbt213297-fig-0002" ref-type="fig">2</xref>, and the isolated compound was subjected to nuclear magnetic resonance (NMR) spectroscopy using <sup>1</sup>H&#x02010;NMR (MeOD, 600&#x000a0;MHz; Fig.&#x000a0;<xref rid="mbt213297-sup-0001" ref-type="supplementary-material">S3</xref>A), <sup>13</sup>C&#x02010;NMR (MeOD, 150&#x000a0;MHz; Fig.&#x000a0;<xref rid="mbt213297-sup-0001" ref-type="supplementary-material">S3</xref>B), homonuclear correlation spectroscopy (COSY; Fig.&#x000a0;<xref rid="mbt213297-sup-0001" ref-type="supplementary-material">S4</xref>), distortionless enhancement by polarisation transfer (DEPT; Fig.&#x000a0;<xref rid="mbt213297-sup-0001" ref-type="supplementary-material">S5</xref>) and heteronuclear multiple bond correlation (HMBC; Fig.&#x000a0;<xref rid="mbt213297-sup-0001" ref-type="supplementary-material">S6</xref>). We confirmed that the isolated compound was 9&#x02010;octadecenoic acid, with the structure 17&#x02010;[[6&#x02010;O&#x02010;acetyl&#x02010;2&#x02010;O&#x02010;(6&#x02010;O&#x02010;acetyl&#x02010;&#x003b2;&#x02010;D&#x02010;glucopyranosyl)&#x02010;&#x003b2;&#x02010;D&#x02010;glucopyranosyl]oxy]&#x02010;,intramol.1,4&#x02033;&#x02010;ester,(9Z), consistent with previous reports (Hu and Ju, <xref rid="mbt213297-bib-0014" ref-type="ref">2001</xref>; Morya <italic>et&#x000a0;al</italic>., <xref rid="mbt213297-bib-0024" ref-type="ref">2013</xref>) (Fig.&#x000a0;<xref rid="mbt213297-sup-0001" ref-type="supplementary-material">S1</xref>).</p><fig fig-type="Figure" xml:lang="en" id="mbt213297-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Structure of the isolated compound. Structural analysis of the most abundant sophorolipid (lactonic diacetyl C18:1) isolated from the mixture.</p></caption><graphic id="nlm-graphic-5" xlink:href="MBT2-11-917-g002"/></fig></sec><sec id="mbt213297-sec-0004"><title>Biological evaluation of sophorolipids synthesised from horse oil</title><p>We investigated the biological activities of the synthesised sophorolipids using several <italic>in&#x000a0;vitro</italic> assays to test their suitability for cosmetic purposes. The skin, a major organ that is capable of continual renewal, is responsible for various physiological functions such as protection against pathogens and UV radiation. Although visible, skin is similar to other nonvisible organs of the body, and is similarly subject to complex and cumulative aging processes throughout life. In general, aged skin exhibits an imbalance between adequate loss and replenishment of structural and functional components. Dermal aging may include dermal thinning due to decreases in the number of fibroblasts and collagen synthesis, increased UV&#x02010;induced collagen degradation, and loss of dermal elasticity due to dermal elastin network destruction caused by either reduced synthesis of elastin or increased degradation of elastic fibres, leading to the appearance of wrinkles (Langton <italic>et&#x000a0;al</italic>., <xref rid="mbt213297-bib-0019" ref-type="ref">2010</xref>; Samad <italic>et&#x000a0;al</italic>., <xref rid="mbt213297-bib-0032" ref-type="ref">2017</xref>; Weihermann <italic>et&#x000a0;al</italic>., <xref rid="mbt213297-bib-0037" ref-type="ref">2017</xref>).</p><sec id="mbt213297-sec-0005"><title>Elastase inhibition and antiwrinkle activity</title><p>The effects of sophorolipids on the capacity of human skin fibroblasts to express collagen I (Col&#x02010;I) mRNA were examined. Vitamin C (ascorbic acid) increases collagen type 1 mRNA expression in human fibroblasts to regulate skin elasticity (Kishimoto <italic>et&#x000a0;al</italic>., <xref rid="mbt213297-bib-0016" ref-type="ref">2013</xref>); hence, we used it as a positive control in the present study. Compared with controls, vitamin C at 100&#x000a0;&#x003bc;g&#x000a0;ml<sup>&#x02212;1</sup> increased Col&#x02010;I mRNA expression by 127%, while horse oil did not have any stimulating effect on Col&#x02010;I mRNA expression, even at a concentration of 25&#x02013;100&#x000a0;&#x003bc;g&#x000a0;ml<sup>&#x02212;1</sup>. However, both hydrolysed horse oil and sophorolipids stimulated Col&#x02010;I mRNA expression to a similar extent, and the effect was concentration&#x02010;dependent in the case of sophorolipids (Fig.&#x000a0;<xref rid="mbt213297-fig-0003" ref-type="fig">3</xref>A).</p><fig fig-type="Figure" xml:lang="en" id="mbt213297-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Effects of horse oil, hydrolysed horse oil and sophorolipids on collagen&#x02010;I <styled-content style="fixed-case">mRNA</styled-content> expression and cell viability. Effects of different concentrations of horse oil, hydrolysed horse oil or sophorolipids on Col&#x02010;I <styled-content style="fixed-case">mRNA</styled-content> expression (A) and cell viability (B) in human skin fibroblasts were determined along with the vitamin C&#x02010;treated group as a positive control (panel A). Data are presented as the mean&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SD</styled-content> from three separate experiments respectively. *<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.05 vs. controls; **<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.01 vs. controls; ***<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.001 vs. controls.</p></caption><graphic id="nlm-graphic-7" xlink:href="MBT2-11-917-g003"/></fig><p>Since the level of elastin in the extracellular matrix (ECM) is determined by both its generation and degradation, the effect of sophorolipids on elastase activity was examined in cultured cells <italic>in&#x000a0;vitro</italic> by measuring the elastase inhibition activity (IC<sub>50</sub> value). Horse oil displayed no elastase inhibition activity, whereas hydrolysed horse oil exhibited potent elastase inhibition activity with an IC<sub>50</sub> of 98.2&#x000a0;&#x003bc;g&#x000a0;ml<sup>&#x02212;1</sup>, and sophorolipids were even more potent with an IC<sub>50</sub> of 38.5&#x000a0;&#x003bc;g&#x000a0;ml<sup>&#x02212;1</sup> that is close to that of the positive control kaempferol (32.8&#x000a0;&#x003bc;g&#x000a0;ml<sup>&#x02212;1</sup>). Kaempferol is a polyphenol antioxidant and potent elastase inhibitor possessing free radical&#x02010;scavenging activity, and both actions are important for antiaging (Lee <italic>et&#x000a0;al</italic>., <xref rid="mbt213297-bib-0020" ref-type="ref">2010</xref>, <xref rid="mbt213297-bib-0021" ref-type="ref">2015</xref>; Azmi <italic>et&#x000a0;al</italic>., <xref rid="mbt213297-bib-0003" ref-type="ref">2014</xref>); hence it was used as a positive control in the present study. To our knowledge, there are no previous reports providing <italic>in&#x000a0;vitro</italic> assay evidence of the antiwrinkle effects of horse oil products.</p></sec><sec id="mbt213297-sec-0006"><title>Cytotoxicity and migration potential</title><p>To ensure the suitability of sophorolipids as cosmetic products, cytotoxicity must be ruled out. Therefore, we measured cell viability by thiazolyl blue tetrazolium bromide (MTT) assay and found no significant cytotoxicity of horse oil up to 50&#x000a0;&#x003bc;g&#x000a0;ml<sup>&#x02212;1</sup>, hydrolysed horse oil up to 25&#x000a0;&#x003bc;g&#x000a0;ml<sup>&#x02212;1</sup> and sophorolipids up to 50&#x000a0;&#x003bc;g&#x000a0;ml<sup>&#x02212;1</sup>. Interestingly, sophorolipids at low levels (0.1&#x000a0;&#x003bc;g&#x000a0;ml<sup>&#x02212;1</sup>) had a stimulatory effect, but neither horse oil nor hydrolysed horse oil had such effects (Fig.&#x000a0;<xref rid="mbt213297-fig-0003" ref-type="fig">3</xref>B).</p><p>Epidermal cells form the outermost layer of skin, and they are constantly being shed and replaced by new cells generating beneath them. Fibroblasts are the most important cells for synthesising collagen and forming connective tissue; hence, they are crucial in wound healing and recovery. During primary intention wound healing, collagen synthesis and epidermal cell migration occur almost at the same time. To investigate the effects of sophorolipids on the wound&#x02010;healing potential, an <italic>in&#x000a0;vitro</italic> cell culture wound&#x02010;healing model was established using an Oris Cell migration assay kit. Cultured cells were treated with sophorolipids and viewed under a microscope to examine the sizes of spaces filled and unfilled by cells (Fig.&#x000a0;<xref rid="mbt213297-fig-0004" ref-type="fig">4</xref>). The results revealed incomplete cell migration in groups treated with horse oil and hydrolysed horse oil, while a significant increase in human skin fibroblast migration was observed in the group treated with an appropriate concentration of sophorolipids.</p><fig fig-type="Figure" xml:lang="en" id="mbt213297-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>The effect of horse oil, hydrolysed horse oil or sophorolipid on wound&#x02010;healing potential measured using an <italic>in&#x000a0;vitro</italic> cell culture model (cell migration assay). Effects of different concentrations of horse oil (25&#x02013;100&#x000a0;&#x003bc;g&#x000a0;ml<sup>&#x02212;1</sup>), hydrolysed horse oil (0.5&#x02013;5&#x000a0;&#x003bc;g&#x000a0;ml<sup>&#x02212;1</sup>) or sophorolipids (0.5&#x02013;5&#x000a0;&#x003bc;g&#x000a0;ml<sup>&#x02212;1</sup>) on human skin fibroblast migration were examined using an Oris Cell migration assay kit. Fibroblasts were cultured at a density of 1&#x000a0;&#x000d7;&#x000a0;10<sup>4</sup> cells/well in 96 well plates at 37&#x000b0;C for 24&#x000a0;h, the medium was substituted with serum&#x02010;free medium containing different concentrations of horse oil, <underline underline-style="single">hyd</underline>rolysed <underline underline-style="single">h</underline>orse <underline underline-style="single">o</underline>il (Hyd. <styled-content style="fixed-case">HO</styled-content>) or sophorolipids, and culturing continued at 37&#x000b0;C for 6&#x000a0;days. After washing with 1&#x000d7; phosphate&#x02010;buffered saline (<styled-content style="fixed-case">PBS</styled-content>), cells were observed by microscopy. Images are representatives of at least six samples of each group (duplicate samples in each experiment and three separate experiments respectively).</p></caption><graphic id="nlm-graphic-9" xlink:href="MBT2-11-917-g004"/></fig></sec><sec id="mbt213297-sec-0007"><title>Inhibitory effects on inflammatory cytokine expression and bacterial or fungal growth</title><p>Lipopolysaccharide (LPS) is an inflammatory substance that increases inflammatory mediators such as interleukins (ILs), tumour necrosis factor (TNF)&#x02010;&#x003b1; and nitric oxide synthase (iNOS). Therefore, we tested whether, under stimulation by LPS, sophorolipids could inhibit the transcription of inflammatory cytokines including TNF&#x02010;&#x003b1;, COX&#x02010;2 and IL&#x02010;6, using RT&#x02010;PCR (Fig.&#x000a0;<xref rid="mbt213297-fig-0005" ref-type="fig">5</xref>). LPS&#x02010;stimulated expression of TNF&#x02010;&#x003b1;, COX&#x02010;2 and IL&#x02010;6 mRNA in mouse macrophage RAW 264.7 cells was significantly inhibited by horse oil at concentrations of 100&#x000a0;&#x003bc;g&#x000a0;ml<sup>&#x02212;1</sup> and higher. However, both hydrolysed horse oil and sophorolipids significantly inhibited the mRNA expression of TNF&#x02010;&#x003b1;, COX&#x02010;2 and IL&#x02010;6 induced by LPS within a concentration range of 5&#x02013;25&#x000a0;&#x003bc;g&#x000a0;ml<sup>&#x02212;1</sup>, and in a clear concentration&#x02010;dependent manner in the case of sophorolipids (Fig.&#x000a0;<xref rid="mbt213297-fig-0005" ref-type="fig">5</xref>).</p><fig fig-type="Figure" xml:lang="en" id="mbt213297-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Anti&#x02010;inflammatory activity of horse oil, hydrolysed horse oil and sophorolipids measured as the decrease in lipopolysaccharide (<styled-content style="fixed-case">LPS</styled-content>)&#x02010;induced mi<styled-content style="fixed-case">RNA</styled-content> expression of inflammatory cytokines. The effects of horse oil, hydrolysed horse oil or sophorolipids at the indicated concentrations on <styled-content style="fixed-case">LPS</styled-content>&#x02010;induced <styled-content style="fixed-case">mRNA</styled-content> expression of inflammatory cytokines (<styled-content style="fixed-case">TNF</styled-content>&#x02010;&#x003b1;, <styled-content style="fixed-case">COX</styled-content>&#x02010;2 and <styled-content style="fixed-case">IL</styled-content>&#x02010;6) in mouse <styled-content style="fixed-case">RAW</styled-content> 264.7 macrophages were examined by real&#x02010;time <styled-content style="fixed-case">PCR</styled-content>. Data are presented as the mean &#x000b1; <styled-content style="fixed-case">SD</styled-content> from three separate experiments respectively. *<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.05 vs. <styled-content style="fixed-case">LPS</styled-content> (0.1&#x000a0;&#x003bc;g&#x000a0;ml<sup>&#x02212;1</sup>); **<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.01 vs. <styled-content style="fixed-case">LPS</styled-content>; ***<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.001 vs. LPS.</p></caption><graphic id="nlm-graphic-11" xlink:href="MBT2-11-917-g005"/></fig><p>Next, we tested whether sophorolipids possessed antibacterial activity. Gram&#x02010;negative <italic>Escherichia coli</italic> and <italic>Pseudomonas aeruginosa</italic>, and Gram&#x02010;positive <italic>Staphylococcus aureus</italic>, were treated with 0.5% horse oil, hydrolysed horse oil or sophorolipids. Butylene glycol (BG), used as a solvent and moisturiser in cosmetic products, has antibacterial and antifungal effects (Kinnunen and Koskela, <xref rid="mbt213297-bib-0015" ref-type="ref">1991</xref>). We, therefore, used 30% BG as a positive control in this study. These reagents were dissolved in deionised water, and as shown in Fig.&#x000a0;<xref rid="mbt213297-fig-0006" ref-type="fig">6</xref>A, horse oil exhibited antibacterial activity against <italic>P.&#x000a0;aeruginosa</italic> and <italic>S.&#x000a0;aureus</italic>, but not <italic>E.&#x000a0;coli</italic>, whereas hydrolysed horse oil inhibited <italic>E.&#x000a0;coli</italic> and <italic>S.&#x000a0;aureus</italic> but not <italic>P.&#x000a0;aeruginosa</italic>. By contrast, sophorolipids displayed very high antibacterial activity against all three bacterial species, in line with the BG positive control (Fig.&#x000a0;<xref rid="mbt213297-fig-0006" ref-type="fig">6</xref>A).</p><fig fig-type="Figure" xml:lang="en" id="mbt213297-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Antibacterial and antifungal activity of horse oil, hydrolysed horse oil and sophorolipids measured by inhibition of bacterial or fungal cell growth. The antibacterial capacity of 0.5% horse oil, hydrolysed horse oil or sophorolipids against <italic>E.&#x000a0;coli</italic>,<italic> P.&#x000a0;aeruginosa</italic> and <italic>S</italic>.&#x000a0;<italic>aureus</italic> was examined and compared with that of the 30% butylene glycol (<styled-content style="fixed-case">BG</styled-content>) positive control (A). The antifungal capacity of different concentrations of sophorolipids against <italic>C.&#x000a0;albicans</italic> and <italic>A.&#x000a0;niger</italic> was also examined and compared with that of the 30% <styled-content style="fixed-case">BG</styled-content> positive control (B). Data are presented as the mean&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SD</styled-content> from three separate experiments respectively. **<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.01 vs. <styled-content style="fixed-case">BG</styled-content> group; ***<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.001 vs. <styled-content style="fixed-case">BG</styled-content> group.</p></caption><graphic id="nlm-graphic-13" xlink:href="MBT2-11-917-g006"/></fig><p>In addition, sophorolipids exhibited antifungal activity against <italic>C.&#x000a0;albicans</italic> and <italic>Aspergillus niger</italic> in a concentration&#x02010;dependent manner (Fig.&#x000a0;<xref rid="mbt213297-fig-0006" ref-type="fig">6</xref>B). Thus, the five most common microbes found in cosmetic products were efficiently inhibited by sophorolipids, even at a concentration of 0.5%, representing a ~24&#x02010;fold increase in activity compared with the 30% BG positive control.</p><p>Fermentative production of sophorolipids depends primarily on available carbon sources. Lipids and fatty acids with carbon chains of differing length can be used as carbon sources to produce a variety of sophorolipids, many of which fall into lactonic or acidic sophorolipid classes (Fig.&#x000a0;<xref rid="mbt213297-sup-0001" ref-type="supplementary-material">S1</xref>). Lactonic sophorolipids are widely applied in fungistats and possess antibacterial activity (Shah <italic>et&#x000a0;al</italic>., <xref rid="mbt213297-bib-0033" ref-type="ref">2005</xref>; Ashby <italic>et&#x000a0;al</italic>., <xref rid="mbt213297-bib-0002" ref-type="ref">2008</xref>). By contrast, acidic sophorolipids have free carboxylic acid groups that make them more soluble. Additionally, lower critical micelle concentrations result in the wide use of acidic sophorolipids in the detergent industry (Hu and Ju, <xref rid="mbt213297-bib-0014" ref-type="ref">2001</xref>; Delbeke <italic>et&#x000a0;al</italic>., <xref rid="mbt213297-bib-0009" ref-type="ref">2016</xref>).</p><p>Compared with chemically synthesised surfactants that are often toxic and difficult to biodegrade, and can cause side effects in humans and the wider environment after long&#x02010;term exposure, biosurfactants such as sophorolipids have lower toxicity and higher biodegradability (Lourith and Kanlayavattanakul, <xref rid="mbt213297-bib-0022" ref-type="ref">2009</xref>). Sophorolipids are particularly biodegradable, and are used widely in cosmetics and personal care products as emulsifying, foaming and wetting agents, as well as solvents, due to their excellent moisture&#x02010;retaining capacity (Brown, <xref rid="mbt213297-bib-0006" ref-type="ref">1991</xref>; Reis <italic>et&#x000a0;al</italic>., <xref rid="mbt213297-bib-0029" ref-type="ref">2009</xref>; Ramrakhiani and Chand, <xref rid="mbt213297-bib-0028" ref-type="ref">2011</xref>; Goswami <italic>et&#x000a0;al</italic>., <xref rid="mbt213297-bib-0012" ref-type="ref">2013</xref>; Koh <italic>et&#x000a0;al</italic>., <xref rid="mbt213297-bib-0017" ref-type="ref">2016</xref>). Their emulsification and antibacterial properties make sophorolipids suitable for use in antidandruff shampoos, acne removers and deodorants (Otto <italic>et&#x000a0;al</italic>., <xref rid="mbt213297-bib-0026" ref-type="ref">1999</xref>; Hardin <italic>et&#x000a0;al</italic>., <xref rid="mbt213297-bib-0013" ref-type="ref">2007</xref>; Morya <italic>et&#x000a0;al</italic>., <xref rid="mbt213297-bib-0024" ref-type="ref">2013</xref>; Borsanyiova <italic>et&#x000a0;al</italic>., <xref rid="mbt213297-bib-0005" ref-type="ref">2016</xref>), and even in kitchen supplies and detergents (Van Bogaert <italic>et&#x000a0;al</italic>., <xref rid="mbt213297-bib-0036" ref-type="ref">2013</xref>).</p></sec></sec></sec><sec id="mbt213297-sec-0008"><title>Conclusions</title><p>In this study, we established an efficient protocol for generating sophorolipids from hydrolysed and fermented horse oil. By adding an additional 3&#x02013;4% glucose and maintaining the pH between 4.0 and 4.5 during fed&#x02010;batch fermentation, the conversion rate was increased to 71.7&#x000a0;g&#x000a0;l<sup>&#x02212;1</sup> sophorolipids from hydrolysed horse oil. The final product from fermentation of hydrolysed horse oil was composed of ~40% lactonic diacetyl C18:1, ~23% lactonic diacetyl C18:0 and ~18% acidic diacetyl C18:1 sophorolipids, along with other forms at lower concentrations. Evaluation of biological function revealed a concentration&#x02010;dependent stimulation of Col&#x02010;I mRNA expression in cultured human fibroblasts, and a relatively high inhibition of elastase (IC<sub>50</sub>&#x000a0;=&#x000a0;38.5&#x000a0;&#x003bc;g&#x000a0;ml<sup>&#x02212;1</sup>). Furthermore, horse oil sophorolipids did not display cytotoxicity at a concentration of 0.5&#x02013;50&#x000a0;&#x003bc;g&#x000a0;ml<sup>&#x02212;1</sup>, and they stimulated wound healing&#x02010;related cell migration, inhibited LPS&#x02010;stimulated inflammatory cytokine gene expression in cultured macrophage cells and exhibited strong antibacterial action.</p></sec><sec id="mbt213297-sec-0009"><title>Experimental procedures</title><sec id="mbt213297-sec-0010"><title>General</title><p>
+<italic>Candida bombicola</italic> cells were stored in 50% glycerol at &#x02212;70&#x000b0;C, and cultured in YM broth (3.0&#x000a0;g of yeast extract, 3.0&#x000a0;g of malt extract, 5.0&#x000a0;g of peptone and 10.0&#x000a0;g of glucose per l) at 30&#x000b0;C with shaking at 160&#x000a0;rpm for 48&#x000a0;h in a shaking incubator. The culture medium was used to inoculate a 5&#x000a0;l fermenter for large&#x02010;scale culturing. Cells were harvested, frozen and stored until needed. Glucose used during culturing was purchased from Sigma&#x02010;Aldrich (St. Louis, Missouri, USA), horse oil was purchased from BiolandBiotec. Co., Ltd. and all other ingredients were purchased from Difco or Merck (Detroit, Michigan, USA).</p><p>Standard medium for culturing fermented sophorolipids contained 100&#x000a0;g of glucose, 5&#x000a0;g of yeast extract, 1&#x000a0;g of KH<sub>2</sub>PO<sub>4</sub>, 0.5&#x000a0;g of MgSO<sub>4</sub>&#x02219;7H<sub>2</sub>O, 0.1&#x000a0;g of CaCl<sub>2</sub>&#x02219;2H<sub>2</sub>O, 0.1&#x000a0;g of NaCl and 0.7&#x000a0;g of peptone per l, along with different concentrations of horse oil or hydrolysed horse oil. Hydrolysed horse oil was made from horse oil by lipase treatment. A 5% culture volume was added to the 5&#x000a0;l jar fermenter (Changzhou Sungod Biotechnology and Engineering Equipment Co., Ltd., Changzhou, Jiangsu, China) as an inoculum, and the 1&#x000a0;l culture volume was incubated at 25&#x000b0;C, with an initial pH of 5.5, agitation at 500&#x000a0;rpm, an aeration rate of 1.0 vvm and a cultivation time of 7&#x000a0;days. In the pH 4.0 conditions, an automatic pH control system was used in 3&#x000a0;M NaCl. The 5&#x000a0;l fermenter was fed with 5% horse oil up to day 2 or 3 (10% horse oil). In the case of hydrolysed horse oil, the 5&#x000a0;l fermenter was fed with 5% hydrolysed horse oil up to day 2, 3 or 4 (15% horse oil).</p><p>Hydrolysed horse oil was incubated in the 5&#x000a0;l fed&#x02010;batch fermenter for 2&#x000a0;days, and the glucose concentration was maintained at ~30&#x02013;40&#x000a0;g&#x000a0;l<sup>&#x02212;1</sup>. After incubation for 3&#x000a0;days, the pH of the fermentation system was maintained between 4.0 and 4.5. During the fermentation procedure, samples were collected every day to measure the pH, DCW (g&#x000a0;l<sup>&#x02212;1</sup>), crude sophorolipid content (g&#x000a0;l<sup>&#x02212;1</sup>) and glucose level (g&#x000a0;l<sup>&#x02212;1</sup>).</p></sec><sec id="mbt213297-sec-0011"><title>Purification and structural analysis by UPLC&#x02010;MS and NMR</title><p>A mixture of sophorolipids was obtained by solvent extraction and dissolved in methylene chloride as solvent. This sample was separated by silica gel chromatography (Merck Co.; mesh&#x000a0;=&#x000a0;~230&#x02013;400, column&#x000a0;= 30&#x000a0;&#x000d7;&#x000a0;60&#x000a0;mm) using a methylene chloride/methanol gradient. The main fraction was then re&#x02010;chromatographed on silica gel, the eluent solution was evaporated under reduced pressure and the molecular weight and structure were investigated using an ACQUITY UPLC&#x02010;Micromass ZQ2000 (Waters, Milford, Massachusetts, USA) and an AV&#x02010;600 NMR instrument (Bruker, Germany). The UPLC&#x02010;MS eluent solution and mass analysis conditions are summarised in Tables <xref rid="mbt213297-sup-0001" ref-type="supplementary-material">S3</xref> and <xref rid="mbt213297-sup-0001" ref-type="supplementary-material">S4</xref>.</p></sec><sec id="mbt213297-sec-0012"><title>Biological evaluation of newly synthesised sophorolipids</title><sec id="mbt213297-sec-0013"><title>Antiwrinkle <italic>in&#x000a0;vitro</italic> assays</title><p>Using <italic>in&#x000a0;vitro</italic> cultured fibroblasts, the potential of the synthesised horse oil sophorolipids to stimulate collagen synthesis and inhibit elastase was tested. Human fibroblasts were cultured at a density of 1&#x000a0;&#x000d7;&#x000a0;10<sup>6</sup> cells/well in 60&#x000a0;mm plates at 37&#x000b0;C for 24&#x000a0;h. Cultures were then substituted with serum&#x02010;free medium and cultured at 37&#x000b0;C for 24&#x000a0;h with and without the tested compounds.</p><p>Collagen mRNA expression was examined by real&#x02010;time PCR (RT&#x02010;PCR). The RNA pellet was isolated from treated and untreated cultured fibroblasts with TRIzol reagent (Invitrogen, Carlsbad, California, USA). A mixture was prepared using a high&#x02010;capacity RNA&#x02010;to&#x02010;cDNA kit (Applied Biosystems), and 1&#x000a0;&#x003bc;g of RNA was added to each sample and incubated at 37&#x000b0;C for 60&#x000a0;min followed by 95&#x000b0;C for 5&#x000a0;min to synthesise cDNA. A primer mixture was prepared using SYBR green PCR mix (Applied Biosystems). RT&#x02010;PCR (Applied Biosystems) was performed with an initial holding period at 50&#x000b0;C for 20 s, denaturation at 95&#x000b0;C for 15 s and annealing at 60&#x000b0;C for 1&#x000a0;min, followed by 40 cycles at 95&#x000b0;C for 30 s and 60&#x000b0;C for 15 s. Sequences of primers used to amplify collagen I (Col&#x02010;I) and the &#x003b2;&#x02010;actin reference gene are listed in Table&#x000a0;<xref rid="mbt213297-tbl-0002" ref-type="table">2</xref>.</p><table-wrap id="mbt213297-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Real&#x02010;time PCR primer sequences</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Substance</th><th align="left" valign="top" rowspan="1" colspan="1">Base sequence (5&#x02032;&#x02192;3&#x02032;)</th></tr></thead><tbody><tr><td align="left" colspan="2" rowspan="1">Collagen type 1 (Col&#x02010;1)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Forward</td><td align="left" rowspan="1" colspan="1">5&#x02032;&#x02010;AGCAAGAACCCCAAGGACAA&#x02010;3&#x02032;</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Reverse</td><td align="left" rowspan="1" colspan="1">5&#x02032;&#x02010;CGAACTGGAATCCATCGGTC&#x02010;3&#x02032;</td></tr><tr><td align="left" colspan="2" rowspan="1">&#x003b2;&#x02010;Actin</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Forward</td><td align="left" rowspan="1" colspan="1">5&#x02032;&#x02010;GGCACCCAGCACAATGAAG&#x02010;3&#x02032;</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Reverse</td><td align="left" rowspan="1" colspan="1">5&#x02032;&#x02010;CCGATCCACACGGAGTACTTG&#x02010;3&#x02032;</td></tr><tr><td align="left" colspan="2" rowspan="1">tnf&#x02010;&#x003b1;</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Forward</td><td align="left" rowspan="1" colspan="1">5&#x02032;&#x02010;TCT CAT CAG TTC TAT GGC CCA GA&#x02010;3&#x02032;</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Reverse</td><td align="left" rowspan="1" colspan="1">5&#x02032;&#x02010;CAG GCT TGT CAC TCG AAT TTT G&#x02010;3&#x02032;</td></tr><tr><td align="left" colspan="2" rowspan="1">COX&#x02010;2</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Forward</td><td align="left" rowspan="1" colspan="1">5&#x02032;&#x02010;GGC CAT GGA GTG GAC TTA AAT C&#x02010;3&#x02032;</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Reverse</td><td align="left" rowspan="1" colspan="1">5&#x02032;&#x02010;AAG GCG CAG TTT ATG TTG TCT GT&#x02010;3&#x02032;</td></tr><tr><td align="left" colspan="2" rowspan="1">il&#x02010;6</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Forward</td><td align="left" rowspan="1" colspan="1">5&#x02032;&#x02010;TCG GCA AAC CTA GTG CGT TAT&#x02010;3&#x02032;</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Reverse</td><td align="left" rowspan="1" colspan="1">5&#x02032;&#x02010;TTT CTG ACC ACA GTG AGG AAT GTC&#x02010;3&#x02032;</td></tr><tr><td align="left" colspan="2" rowspan="1">GAPDH</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Forward</td><td align="left" rowspan="1" colspan="1">5&#x02032;&#x02010;GGC ATC TTG GGC TAC ACT GAG&#x02010;3&#x02032;</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Reverse</td><td align="left" rowspan="1" colspan="1">5&#x02032;&#x02010;GGA AGA GTG GGA GTT GCT GTT G&#x02010;3&#x02032;</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>To measure elastase inhibition, hydrolysed horse oil and synthesised sophorolipids were prepared in 0.267&#x000a0;M TRIS buffer adjusted to pH 8 with 0.267&#x000a0;M HCl. Substrate (Succ&#x02010;Ala&#x02010;Ala&#x02010;Ala&#x02010;p&#x02010;nitroanilide; Sigma) was prepared at a final concentration of 8.8&#x000a0;mM, and enzyme (porcine pancreatic elastase) was prepared at 10&#x000a0;&#x003bc;g&#x000a0;ml<sup>&#x02212;1</sup>. Control samples containing 100&#x000a0;&#x003bc;l of distilled water were used as a blank (absorbance expressed as A). A no&#x02010;enzyme control containing 120&#x000a0;&#x003bc;l of DW was also included (absorbance expressed as D). A 60&#x000a0;&#x003bc;l sample of 0.1&#x000a0;M potassium phosphate was used as buffer solution (pH 6.8), to which was added 20&#x000a0;&#x003bc;l of substrate at varying concentrations. Samples were mixed with 20&#x000a0;&#x003bc;l of enzyme and incubated at 25&#x000b0;C for 15&#x000a0;min. The produced <italic>p</italic>&#x02010;nitroaniline was quantified at a wavelength of 410&#x000a0;nm (absorbance expressed as B). A 60&#x000a0;&#x003bc;l sample of buffer solution, 20&#x000a0;&#x003bc;l of substrate, 20&#x000a0;&#x003bc;l of DW and 100&#x000a0;&#x003bc;L of sample were mixed and treated as described above (absorbance expressed as C). IC<sub>50</sub> values (expressed in &#x003bc;g&#x000a0;ml<sup>&#x02212;1</sup>) were determined to estimate the elastase inhibition activity using the following formula: Inhibition of Elastase (%)&#x000a0;=&#x000a0;[1&#x02212;[(B&#x02212;C)/(A&#x02212;D)]]&#x000a0;&#x000d7;&#x000a0;100.</p></sec><sec id="mbt213297-sec-0014"><title>Cell cytotoxicity test (MTT assay)</title><p>Fibroblasts (ATCC) were plated at a density of 1&#x000a0;&#x000d7;&#x000a0;10<sup>5</sup> cells/well in 24 well plates and cultured for 24&#x000a0;h at 37&#x000b0;C. Medium was changed to serum&#x02010;free medium, and cells were cultured with different concentrations of samples at 37&#x000b0;C for a further 24&#x000a0;h. MTT (M5655; Sigma&#x02010;Aldrich) was diluted 10&#x02010;fold and added to each well, and culturing continued for 4&#x000a0;h at 37&#x000b0;C. The medium was then aspirated, 1&#x000a0;ml of dimethyl sulfoxide (DMSO) was added to each well and the supernatant was quantified using a Tecan Infinite M200 enzyme&#x02010;linked immunosorbent assay reader (Tecan, Mannedorf, Meilen District, Swiss Austria) at a wavelength of 570&#x000a0;nm. Results are expressed as the percentage optical density relative to the negative control.</p></sec><sec id="mbt213297-sec-0015"><title>
+<italic>In vitro</italic> wound&#x02010;healing assay (cell migration test)</title><p>The composition of the skin surface changes as epidermis cells slough continuously while healthy cells take their place from beneath the epidermis. When cells on the outer surface are restored, the basement membrane is exposed, and wounds on the skin surface become red and eventually disappear. Consequently, new reticular tissue forms new blood vessels and new collagen. Fibroblasts are crucial for the formation of collagen and other connective tissues, and are therefore essential for wound repair. When inflammation occurs, blood platelets and macrophagocytes are increased, and reaction with growth factors initiates wound healing. Initially, small quantities of collagen alone fill the wound, and collagen synthesis and epidermis cell movement occur concurrently. This process was investigated using an Oris Cell migration assay kit, and cell migration was assessed by microscopy. Fibroblasts were cultured at a density of 1&#x000a0;&#x000d7;&#x000a0;10<sup>4</sup> cells/well in 96 well plates at 37&#x000b0;C for 24&#x000a0;h, medium was replaced with serum&#x02010;free medium and culturing continued at 37&#x000b0;C for 6&#x000a0;days. Cells were washed with 1&#x000a0;&#x000d7;&#x000a0;phosphate&#x02010;buffered saline (PBS) prior to observation by microscopy.</p></sec><sec id="mbt213297-sec-0016"><title>Anti&#x02010;inflammatory activity</title><p>Raw 264.7 cells were plated at a density of 3&#x000a0;&#x000d7;&#x000a0;10<sup>6</sup> cells/well in a 60&#x000a0;mm plate and incubated for 24&#x000a0;h at 37&#x000b0;C. The medium was then changed to medium containing 0.1&#x000a0;&#x003bc;g&#x000a0;ml<sup>&#x02212;1</sup> LPS (Sigma) and culturing continued with and without different concentrations of horse oil, hydrolysed horse oil or sophorolipids. The medium was then aspirated, cells were washed with PBS, 1&#x000a0;mL of TRIzol (Invitrogen) was added and cells were centrifuged at 15&#x000a0;000&#x000a0;rpm for 30&#x000a0;min at 4&#x000b0;C. The supernatant was mixed with 2&#x02010;propanol and centrifuged at 15&#x000a0;000&#x000a0;rpm for 20&#x000a0;min at 4&#x000b0;C, and this step was repeated. The substrate was mixed with 1&#x000a0;ml of 75% EtOH and centrifuged at 13&#x000a0;000&#x000a0;rpm at 4&#x000b0;C. The resulting RNA pellet was air&#x02010;dried at room temperature to remove ethanol, dissolved in diethyl pyrocarbonate (DEPC)&#x02010;treated DW and quantified using a Qubit system (Invitrogen). A mixture was prepared using an RNA&#x02010;to&#x02010;cDNA kit (Applied Biosystems), 1&#x000a0;&#x003bc;g of RNA was added to each sample and a PCR system (Invitrogen) was used to synthesise cDNA at 37&#x000b0;C for 60&#x000a0;min followed by 95&#x000b0;C for 5&#x000a0;min. A mixture was prepared using SYBR green PCR mix (Applied Biosystems). RT&#x02010;PCR (Applied Biosystems) was performed as follows: an initial holding period at 50&#x000b0;C for 20 s, denaturation at 95&#x000b0;C for 15 s and annealing at 60&#x000b0;C for 1&#x000a0;min, followed by 40 cycles at 95&#x000b0;C for 30 s and 60&#x000b0;C for 15 s. Sequences of primers used to amplify TNF&#x02010;&#x003b1;, COX&#x02010;2, IL&#x02010;6 and glyceraldehyde 3&#x02010;phosphate dehydrogenase (GAPDH) are listed in Table&#x000a0;<xref rid="mbt213297-tbl-0002" ref-type="table">2</xref>.</p></sec><sec id="mbt213297-sec-0017"><title>Antibacterial and fungal tests</title><p>Antibacterial activity of horse oil, hydrolysed horse oil and synthesised sophorolipids was determined against <italic>E.&#x000a0;coli</italic>,<italic> P.&#x000a0;aeruginosa</italic> and <italic>S.&#x000a0;aureus</italic>. Bacterial cells were cultured in Tryptic Soy Broth (Difco) at 30&#x000b0;C with shaking at 160&#x000a0;rpm for 24&#x000a0;h in flasks. <italic>C.&#x000a0;albicans</italic> cells were cultured in YM broth (Difco) at 25&#x000b0;C with shaking at 160&#x000a0;rpm for 48&#x000a0;h, and <italic>A.&#x000a0;niger</italic> cells were cultured in Potato Dextrose Agar at 25&#x000b0;C for 7&#x000a0;days. After static culturing, black spores were sampled and antibacterial tests were conducted. The above five strains were inoculated with 0.5% horse oil, 0.5% hydrolysed horse oil, 0.5% fermented hydrolysed horse oil (sophorolipids) or 30% 1,3&#x02010;buthylene glycol at a cell density of 1.0&#x000a0;&#x000d7;&#x000a0;10<sup>5&#x000a0;</sup>CFU&#x000a0;ml<sup>&#x02212;1</sup> and incubated for 24&#x000a0;h to calculate cell survival. Antibacterial activity during the early stages of cultivation was compared after 1&#x000a0;day, and the reduction in the survival of bacteria was expressed as a percentage.</p></sec></sec><sec id="mbt213297-sec-0018"><title>Statistical analysis</title><p>For experiments leading to results shown in Figs&#x000a0;<xref rid="mbt213297-fig-0001" ref-type="fig">1</xref>, <xref rid="mbt213297-fig-0003" ref-type="fig">3</xref>, <xref rid="mbt213297-fig-0005" ref-type="fig">5</xref> and <xref rid="mbt213297-fig-0006" ref-type="fig">6</xref>, at least three separate experiments were performed and data are expressed as means&#x000a0;&#x000b1;&#x000a0;standard deviation (SD). Comparison of different groups was performed by one&#x02010;way ANOVA, followed by <italic>post&#x02010;hoc</italic> pairwise repetitive comparisons with Tukey tests. Statistical analysis was performed with Origin 8.6 software, and <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.05 was considered statistically significant.</p></sec></sec><sec id="mbt213297-sec-0020"><title>Conflict of Interest</title><p>None declared.</p></sec><sec id="mbt213297-sec-0021"><title>Ethical approval</title><p>This article does not contain any studies with human participants or animals performed by any of the authors. Horse oil was purchased from Shijiazhuang China Cosmetics Trade Co. Ltd.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="mbt213297-sup-0001"><caption><p>
+<bold>Fig.&#x000a0;S1.</bold> The sophorolipid structure of acidic form and lactonic form (R=H or Acetyl group).</p><p>
+<bold>Fig.&#x000a0;S2.</bold> UPLC&#x02010;Mass total flow chart.</p><p>
+<bold>Fig.&#x000a0;S3.</bold> (A) 1H&#x02010;NMR spectrum of lactonic sophorolipid(diacetyl, 18:1) (MeOD, 600MHz).</p><p>
+<bold>Fig.&#x000a0;S4</bold>. COSY spectrum of lactonic sophorolipid (diacetyl, 18:1).</p><p>
+<bold>Fig.&#x000a0;S5.</bold> DEPT spectrum of lactonic sophorolipid (diacetyl, 18:1).</p><p>
+<bold>Fig.&#x000a0;S6</bold>. HMBC spectrum of lactonic sophorolipid (diacetyl, 18:1).</p><p>
+<bold>Table&#x000a0;S1.</bold> Comparisons of saturated and unsaturated fatty acids composition ratio in human skin with horse oil.</p><p>
+<bold>Table&#x000a0;S2.</bold> Analysis of molecular weights of sophorolipids.</p><p>
+<bold>Table&#x000a0;S3.</bold> Eluent solvent conditions of UPLC&#x02010;Mass (A Solvent is 90% acetonitrile; B Solvent is 10 mM ammonium acetate solution).</p><p>
+<bold>Table&#x000a0;S4</bold>. Analysis condition of UPLC&#x02010;Mass.</p></caption><media xlink:href="MBT2-11-917-s001.doc"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="mbt213297-sec-0019"><title>Acknowledgements</title><p>We thank the Bioedit Company for the scientific editing.</p></ack><ref-list content-type="cited-references" id="mbt213297-bibl-0001"><title>References</title><ref id="mbt213297-bib-0001"><mixed-citation publication-type="miscellaneous" id="mbt213297-cit-0001">
+<string-name>
+<surname>Adams</surname>, <given-names>A.</given-names>
+</string-name> (<year>2016</year>). <article-title>Chemical suppliers keep pace with global personal care markets</article-title>. Global personal care markets URL <ext-link ext-link-type="uri" xlink:href="https://home.kpmg.com/xx/en/home/insights/2016/2007/chemical-suppliers-keep-pace-global-personal-care-markets.html">https://home.kpmg.com/xx/en/home/insights/2016/2007/chemical-suppliers-keep-pace-global-personal-care-markets.html</ext-link>
+</mixed-citation></ref><ref id="mbt213297-bib-0002"><mixed-citation publication-type="journal" id="mbt213297-cit-0002">
+<string-name>
+<surname>Ashby</surname>, <given-names>R.D.</given-names>
+</string-name>, <string-name>
+<surname>Solaiman</surname>, <given-names>D.K.</given-names>
+</string-name>, and <string-name>
+<surname>Foglia</surname>, <given-names>T.A.</given-names>
+</string-name> (<year>2008</year>) <article-title>Property control of sophorolipids: influence of fatty acid substrate and blending</article-title>. <source xml:lang="en">Biotechnol Lett</source>
+<volume>30</volume>: <fpage>1093</fpage>&#x02013;<lpage>1100</lpage>.<pub-id pub-id-type="pmid">18264681</pub-id></mixed-citation></ref><ref id="mbt213297-bib-0003"><mixed-citation publication-type="journal" id="mbt213297-cit-0003">
+<string-name>
+<surname>Azmi</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Hashim</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Hashim</surname>, <given-names>D.M.</given-names>
+</string-name>, <string-name>
+<surname>Halimoon</surname>, <given-names>N.</given-names>
+</string-name>, and <string-name>
+<surname>Majid</surname>, <given-names>N.M.</given-names>
+</string-name> (<year>2014</year>) <article-title>Anti&#x02010;elastase, anti&#x02010;tyrosinase and matrix metalloproteinase&#x02010;1 inhibitory activity of earthworm extracts as potential new anti&#x02010;aging agent</article-title>. <source xml:lang="en">Asian Pac J Trop Biomed</source>
+<volume>4</volume>: <fpage>S348</fpage>&#x02013;<lpage>S352</lpage>.<pub-id pub-id-type="pmid">25183109</pub-id></mixed-citation></ref><ref id="mbt213297-bib-0004"><mixed-citation publication-type="journal" id="mbt213297-cit-0004">
+<string-name>
+<surname>Baccile</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Selmane</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Le Griel</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Prevost</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Perez</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Stevens</surname>, <given-names>C.V.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2016</year>) <article-title>pH&#x02010;driven self&#x02010;assembly of acidic microbial glycolipids</article-title>. <source xml:lang="en">Langmuir</source>
+<volume>32</volume>: <fpage>6343</fpage>&#x02013;<lpage>6359</lpage>.<pub-id pub-id-type="pmid">27307097</pub-id></mixed-citation></ref><ref id="mbt213297-bib-0005"><mixed-citation publication-type="journal" id="mbt213297-cit-0005">
+<string-name>
+<surname>Borsanyiova</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Patil</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Mukherji</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Prabhune</surname>, <given-names>A.</given-names>
+</string-name>, and <string-name>
+<surname>Bopegamage</surname>, <given-names>S.</given-names>
+</string-name> (<year>2016</year>) <article-title>Biological activity of sophorolipids and their possible use as antiviral agents</article-title>. <source xml:lang="en">Folia Microbiol (Praha)</source>
+<volume>61</volume>: <fpage>85</fpage>&#x02013;<lpage>89</lpage>.<pub-id pub-id-type="pmid">26126789</pub-id></mixed-citation></ref><ref id="mbt213297-bib-0006"><mixed-citation publication-type="journal" id="mbt213297-cit-0006">
+<string-name>
+<surname>Brown</surname>, <given-names>M.J.</given-names>
+</string-name> (<year>1991</year>) <article-title>Biosurfactants for cosmetic applications</article-title>. <source xml:lang="en">Int J Cosmet Sci</source>
+<volume>13</volume>: <fpage>61</fpage>&#x02013;<lpage>64</lpage>.<pub-id pub-id-type="pmid">19291045</pub-id></mixed-citation></ref><ref id="mbt213297-bib-0007"><mixed-citation publication-type="journal" id="mbt213297-cit-0007">
+<string-name>
+<surname>Carleton</surname>, <given-names>A.</given-names>
+</string-name> (<year>1933</year>) <article-title>The uses and dangers of cosmetics</article-title>. <source xml:lang="en">Br Med J</source>
+<volume>1</volume>: <fpage>999</fpage>&#x02013;<lpage>1001</lpage>.</mixed-citation></ref><ref id="mbt213297-bib-0008"><mixed-citation publication-type="journal" id="mbt213297-cit-0008">
+<string-name>
+<surname>Daverey</surname>, <given-names>A.</given-names>
+</string-name>, and <string-name>
+<surname>Pakshirajan</surname>, <given-names>K.</given-names>
+</string-name> (<year>2009</year>) <article-title>Production, characterization, and properties of sophorolipids from the yeast Candida bombicola using a low&#x02010;cost fermentative medium</article-title>. <source xml:lang="en">Appl Biochem Biotechnol</source>
+<volume>158</volume>: <fpage>663</fpage>&#x02013;<lpage>674</lpage>.<pub-id pub-id-type="pmid">19082764</pub-id></mixed-citation></ref><ref id="mbt213297-bib-0009"><mixed-citation publication-type="journal" id="mbt213297-cit-0009">
+<string-name>
+<surname>Delbeke</surname>, <given-names>E.I.P.</given-names>
+</string-name>, <string-name>
+<surname>Everaert</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Uitterhaegen</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Verweire</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Verlee</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Talou</surname>, <given-names>T.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2016</year>) <article-title>Petroselinic acid purification and its use for the fermentation of new sophorolipids</article-title>. <source xml:lang="en">AMB Express</source>
+<volume>6</volume>: <fpage>28</fpage>.<pub-id pub-id-type="pmid">27033544</pub-id></mixed-citation></ref><ref id="mbt213297-bib-0010"><mixed-citation publication-type="journal" id="mbt213297-cit-0010">
+<string-name>
+<surname>Deng</surname>, <given-names>M.C.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Hong</surname>, <given-names>Y.H.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>X.M.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>W.X.</given-names>
+</string-name>, <string-name>
+<surname>Yuan</surname>, <given-names>J.P.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2016</year>) <article-title>Characterization of a novel biosurfactant produced by marine hydrocarbon&#x02010;degrading bacterium <italic>Achromobacter</italic> sp. HZ01</article-title>. <source xml:lang="en">J Appl Microbiol</source>
+<volume>120</volume>: <fpage>889</fpage>&#x02013;<lpage>899</lpage>.<pub-id pub-id-type="pmid">26788863</pub-id></mixed-citation></ref><ref id="mbt213297-bib-0011"><mixed-citation publication-type="journal" id="mbt213297-cit-0011">
+<string-name>
+<surname>Elshafie</surname>, <given-names>A.E.</given-names>
+</string-name>, <string-name>
+<surname>Joshi</surname>, <given-names>S.J.</given-names>
+</string-name>, <string-name>
+<surname>Al&#x02010;Wahaibi</surname>, <given-names>Y.M.</given-names>
+</string-name>, <string-name>
+<surname>Al&#x02010;Bemani</surname>, <given-names>A.S.</given-names>
+</string-name>, <string-name>
+<surname>Al&#x02010;Bahry</surname>, <given-names>S.N.</given-names>
+</string-name>, <string-name>
+<surname>Al&#x02010;Maqbali</surname>, <given-names>D.</given-names>
+</string-name>, and <string-name>
+<surname>Banat</surname>, <given-names>I.M.</given-names>
+</string-name> (<year>2015</year>) <article-title>Sophorolipids production by <italic>Candida bombicola</italic> ATCC 22214 and its potential application in microbial enhanced oil recovery</article-title>. <source xml:lang="en">Front Microbiol</source>
+<volume>6</volume>: <fpage>1324</fpage>.<pub-id pub-id-type="pmid">26635782</pub-id></mixed-citation></ref><ref id="mbt213297-bib-0012"><mixed-citation publication-type="journal" id="mbt213297-cit-0012">
+<string-name>
+<surname>Goswami</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Basu</surname>, <given-names>J.K.</given-names>
+</string-name>, and <string-name>
+<surname>De</surname>, <given-names>S.</given-names>
+</string-name> (<year>2013</year>) <article-title>Lipase applications in oil hydrolysis with a case study on castor oil: a review</article-title>. <source xml:lang="en">Crit Rev Biotechnol</source>
+<volume>33</volume>: <fpage>81</fpage>&#x02013;<lpage>96</lpage>.<pub-id pub-id-type="pmid">22676042</pub-id></mixed-citation></ref><ref id="mbt213297-bib-0013"><mixed-citation publication-type="journal" id="mbt213297-cit-0013">
+<string-name>
+<surname>Hardin</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Pierre</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Schulze</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Mueller</surname>, <given-names>C.M.</given-names>
+</string-name>, <string-name>
+<surname>Fu</surname>, <given-names>S.L.</given-names>
+</string-name>, <string-name>
+<surname>Wallner</surname>, <given-names>S.R.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2007</year>) <article-title>Sophorolipids improve sepsis survival: effects of dosing and derivatives</article-title>. <source xml:lang="en">J Surg Res</source>
+<volume>142</volume>: <fpage>314</fpage>&#x02013;<lpage>319</lpage>.<pub-id pub-id-type="pmid">17719064</pub-id></mixed-citation></ref><ref id="mbt213297-bib-0014"><mixed-citation publication-type="journal" id="mbt213297-cit-0014">
+<string-name>
+<surname>Hu</surname>, <given-names>Y.</given-names>
+</string-name>, and <string-name>
+<surname>Ju</surname>, <given-names>L.</given-names>
+</string-name> (<year>2001</year>) <article-title>Purification of lactonic sophorolipids by crystallization</article-title>. <source xml:lang="en">J Biotechnol</source>
+<volume>87</volume>: <fpage>263</fpage>&#x02013;<lpage>272</lpage>.<pub-id pub-id-type="pmid">11334668</pub-id></mixed-citation></ref><ref id="mbt213297-bib-0015"><mixed-citation publication-type="journal" id="mbt213297-cit-0015">
+<string-name>
+<surname>Kinnunen</surname>, <given-names>T.</given-names>
+</string-name>, and <string-name>
+<surname>Koskela</surname>, <given-names>M.</given-names>
+</string-name> (<year>1991</year>) <article-title>Antibacterial and antifungal properties of propylene glycol, hexylene glycol, and 1,3&#x02010;butylene glycol in&#x000a0;vitro</article-title>. <source xml:lang="en">Acta Derm Venereol</source>
+<volume>71</volume>: <fpage>148</fpage>&#x02013;<lpage>150</lpage>.<pub-id pub-id-type="pmid">1675525</pub-id></mixed-citation></ref><ref id="mbt213297-bib-0016"><mixed-citation publication-type="journal" id="mbt213297-cit-0016">
+<string-name>
+<surname>Kishimoto</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Saito</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Kurita</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Shimokado</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Maruyama</surname>, <given-names>N.</given-names>
+</string-name>, and <string-name>
+<surname>Ishigami</surname>, <given-names>A.</given-names>
+</string-name> (<year>2013</year>) <article-title>Ascorbic acid enhances the expression of type 1 and type 4 collagen and SVCT2 in cultured human skin fibroblasts</article-title>. <source xml:lang="en">Biochem Biophys Res Commun</source>
+<volume>430</volume>: <fpage>579</fpage>&#x02013;<lpage>584</lpage>.<pub-id pub-id-type="pmid">23228664</pub-id></mixed-citation></ref><ref id="mbt213297-bib-0017"><mixed-citation publication-type="journal" id="mbt213297-cit-0017">
+<string-name>
+<surname>Koh</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Linhardt</surname>, <given-names>R.J.</given-names>
+</string-name>, and <string-name>
+<surname>Gross</surname>, <given-names>R.</given-names>
+</string-name> (<year>2016</year>) <article-title>Effect of sophorolipid n&#x02010;alkyl ester chain length on its interfacial properties at the almond oil&#x02010;water interface</article-title>. <source xml:lang="en">Langmuir</source>
+<volume>32</volume>: <fpage>5562</fpage>&#x02013;<lpage>5572</lpage>.<pub-id pub-id-type="pmid">27159768</pub-id></mixed-citation></ref><ref id="mbt213297-bib-0018"><mixed-citation publication-type="journal" id="mbt213297-cit-0018">
+<string-name>
+<surname>Konishi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Fujita</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ishibane</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Shimizu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Tsukiyama</surname>, <given-names>Y.</given-names>
+</string-name>, and <string-name>
+<surname>Ishida</surname>, <given-names>M.</given-names>
+</string-name> (<year>2016</year>) <article-title>Isolation of yeast candidates for efficient sophorolipids production: their production potentials associate to their lineage</article-title>. <source xml:lang="en">Biosci Biotechnol Biochem</source>
+<volume>80</volume>: <fpage>2058</fpage>&#x02013;<lpage>2064</lpage>.<pub-id pub-id-type="pmid">27251083</pub-id></mixed-citation></ref><ref id="mbt213297-bib-0019"><mixed-citation publication-type="journal" id="mbt213297-cit-0019">
+<string-name>
+<surname>Langton</surname>, <given-names>A.K.</given-names>
+</string-name>, <string-name>
+<surname>Sherratt</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name>
+<surname>Griffiths</surname>, <given-names>C.E.</given-names>
+</string-name>, and <string-name>
+<surname>Watson</surname>, <given-names>R.E.</given-names>
+</string-name> (<year>2010</year>) <article-title>A new wrinkle on old skin: the role of elastic fibres in skin ageing</article-title>. <source xml:lang="en">Int J Cosmet Sci</source>
+<volume>32</volume>: <fpage>330</fpage>&#x02013;<lpage>339</lpage>.<pub-id pub-id-type="pmid">20572890</pub-id></mixed-citation></ref><ref id="mbt213297-bib-0020"><mixed-citation publication-type="journal" id="mbt213297-cit-0020">
+<string-name>
+<surname>Lee</surname>, <given-names>C.L.</given-names>
+</string-name>, <string-name>
+<surname>Liao</surname>, <given-names>Y.C.</given-names>
+</string-name>, <string-name>
+<surname>Hwang</surname>, <given-names>T.L.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>C.C.</given-names>
+</string-name>, <string-name>
+<surname>Chang</surname>, <given-names>F.R.</given-names>
+</string-name>, and <string-name>
+<surname>Wu</surname>, <given-names>Y.C.</given-names>
+</string-name> (<year>2010</year>) <article-title>Ixorapeptide I and ixorapeptide II, bioactive peptides isolated from Ixora coccinea</article-title>. <source xml:lang="en">Bioorg Med Chem Lett</source>
+<volume>20</volume>: <fpage>7354</fpage>&#x02013;<lpage>7357</lpage>.<pub-id pub-id-type="pmid">21106454</pub-id></mixed-citation></ref><ref id="mbt213297-bib-0021"><mixed-citation publication-type="journal" id="mbt213297-cit-0021">
+<string-name>
+<surname>Lee</surname>, <given-names>C.L.</given-names>
+</string-name>, <string-name>
+<surname>Hwang</surname>, <given-names>T.L.</given-names>
+</string-name>, <string-name>
+<surname>Peng</surname>, <given-names>C.Y.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>C.J.</given-names>
+</string-name>, <string-name>
+<surname>Kuo</surname>, <given-names>C.L.</given-names>
+</string-name>, <string-name>
+<surname>Chang</surname>, <given-names>W.Y.</given-names>
+</string-name>, and <string-name>
+<surname>Wu</surname>, <given-names>Y.C.</given-names>
+</string-name> (<year>2015</year>) <article-title>Anti&#x02010;inflammatory and cytotoxic compounds from Solanum macaonense</article-title>. <source xml:lang="en">Nat Prod Commun</source>
+<volume>10</volume>: <fpage>345</fpage>&#x02013;<lpage>348</lpage>.<pub-id pub-id-type="pmid">25920280</pub-id></mixed-citation></ref><ref id="mbt213297-bib-0022"><mixed-citation publication-type="journal" id="mbt213297-cit-0022">
+<string-name>
+<surname>Lourith</surname>, <given-names>N.</given-names>
+</string-name>, and <string-name>
+<surname>Kanlayavattanakul</surname>, <given-names>M.</given-names>
+</string-name> (<year>2009</year>) <article-title>Natural surfactants used in cosmetics: glycolipids</article-title>. <source xml:lang="en">Int J Cosmet Sci</source>
+<volume>31</volume>: <fpage>255</fpage>&#x02013;<lpage>261</lpage>.<pub-id pub-id-type="pmid">19496839</pub-id></mixed-citation></ref><ref id="mbt213297-bib-0023"><mixed-citation publication-type="journal" id="mbt213297-cit-0023">
+<string-name>
+<surname>Ma</surname>, <given-names>X.J.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Shao</surname>, <given-names>L.J.</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>, <given-names>J.</given-names>
+</string-name>, and <string-name>
+<surname>Song</surname>, <given-names>X.</given-names>
+</string-name> (<year>2011</year>) <article-title>Effects of nitrogen sources on production and composition of sophorolipids by Wickerhamiella domercqiae var. sophorolipid CGMCC 1576</article-title>. <source xml:lang="en">Appl Microbiol Biotechnol</source>
+<volume>91</volume>: <fpage>1623</fpage>&#x02013;<lpage>1632</lpage>.<pub-id pub-id-type="pmid">21590287</pub-id></mixed-citation></ref><ref id="mbt213297-bib-0024"><mixed-citation publication-type="journal" id="mbt213297-cit-0024">
+<string-name>
+<surname>Morya</surname>, <given-names>V.K.</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>, <given-names>J.H.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>T.J.</given-names>
+</string-name>, <string-name>
+<surname>Jeon</surname>, <given-names>S.</given-names>
+</string-name>, and <string-name>
+<surname>Kim</surname>, <given-names>E.K.</given-names>
+</string-name> (<year>2013</year>) <article-title>Production and characterization of low molecular weight sophorolipid under fed&#x02010;batch culture</article-title>. <source xml:lang="en">Bioresour Technol</source>
+<volume>143</volume>: <fpage>282</fpage>&#x02013;<lpage>288</lpage>.<pub-id pub-id-type="pmid">23807367</pub-id></mixed-citation></ref><ref id="mbt213297-bib-0025"><mixed-citation publication-type="journal" id="mbt213297-cit-0025">
+<string-name>
+<surname>Olkowska</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Ruman</surname>, <given-names>M.</given-names>
+</string-name>, and <string-name>
+<surname>Polkowska</surname>, <given-names>Z.</given-names>
+</string-name> (<year>2014</year>) <article-title>Occurrence of surface active agents in the environment</article-title>. <source xml:lang="en">J Anal Methods Chem</source>
+<volume>2014</volume>: <fpage>769708</fpage>.<pub-id pub-id-type="pmid">24527257</pub-id></mixed-citation></ref><ref id="mbt213297-bib-0026"><mixed-citation publication-type="journal" id="mbt213297-cit-0026">
+<string-name>
+<surname>Otto</surname>, <given-names>R.T.</given-names>
+</string-name>, <string-name>
+<surname>Daniel</surname>, <given-names>H.J.</given-names>
+</string-name>, <string-name>
+<surname>Pekin</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Muller&#x02010;Decker</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Furstenberger</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Reuss</surname>, <given-names>M.</given-names>
+</string-name>, and <string-name>
+<surname>Syldatk</surname>, <given-names>C.</given-names>
+</string-name> (<year>1999</year>) <article-title>Production of sophorolipids from whey. II. Product composition, surface active properties, cytotoxicity and stability against hydrolases by enzymatic treatment</article-title>. <source xml:lang="en">Appl Microbiol Biotechnol</source>
+<volume>52</volume>: <fpage>495</fpage>&#x02013;<lpage>501</lpage>.<pub-id pub-id-type="pmid">10570796</pub-id></mixed-citation></ref><ref id="mbt213297-bib-0027"><mixed-citation publication-type="journal" id="mbt213297-cit-0027">
+<string-name>
+<surname>Radzuan</surname>, <given-names>M.N.</given-names>
+</string-name>, <string-name>
+<surname>Banat</surname>, <given-names>I.M.</given-names>
+</string-name>, and <string-name>
+<surname>Winterburn</surname>, <given-names>J.</given-names>
+</string-name> (<year>2017</year>) <article-title>Production and characterization of rhamnolipid using palm oil agricultural refinery waste</article-title>. <source xml:lang="en">Bioresour Technol</source>
+<volume>225</volume>: <fpage>99</fpage>&#x02013;<lpage>105</lpage>.<pub-id pub-id-type="pmid">27888734</pub-id></mixed-citation></ref><ref id="mbt213297-bib-0028"><mixed-citation publication-type="journal" id="mbt213297-cit-0028">
+<string-name>
+<surname>Ramrakhiani</surname>, <given-names>L.</given-names>
+</string-name>, and <string-name>
+<surname>Chand</surname>, <given-names>S.</given-names>
+</string-name> (<year>2011</year>) <article-title>Recent progress on phospholipases: different sources, assay methods, industrial potential and pathogenicity</article-title>. <source xml:lang="en">Appl Biochem Biotechnol</source>
+<volume>164</volume>: <fpage>991</fpage>&#x02013;<lpage>1022</lpage>.<pub-id pub-id-type="pmid">21302142</pub-id></mixed-citation></ref><ref id="mbt213297-bib-0029"><mixed-citation publication-type="journal" id="mbt213297-cit-0029">
+<string-name>
+<surname>Reis</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Holmberg</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Watzke</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Leser</surname>, <given-names>M.E.</given-names>
+</string-name>, and <string-name>
+<surname>Miller</surname>, <given-names>R.</given-names>
+</string-name> (<year>2009</year>) <article-title>Lipases at interfaces: a review</article-title>. <source xml:lang="en">Adv Colloid Interface Sci</source>
+<volume>147&#x02013;148</volume>: <fpage>237</fpage>&#x02013;<lpage>250</lpage>.</mixed-citation></ref><ref id="mbt213297-bib-0030"><mixed-citation publication-type="journal" id="mbt213297-cit-0030">
+<string-name>
+<surname>Roelants</surname>, <given-names>S.L.</given-names>
+</string-name>, <string-name>
+<surname>Saerens</surname>, <given-names>K.M.</given-names>
+</string-name>, <string-name>
+<surname>Derycke</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>, <given-names>Y.C.</given-names>
+</string-name>, <string-name>
+<surname>Van de Peer</surname>, <given-names>Y.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2013</year>) <article-title>Candida bombicola as a platform organism for the production of tailor&#x02010;made biomolecules</article-title>. <source xml:lang="en">Biotechnol Bioeng</source>
+<volume>110</volume>: <fpage>2494</fpage>&#x02013;<lpage>2503</lpage>.<pub-id pub-id-type="pmid">23475585</pub-id></mixed-citation></ref><ref id="mbt213297-bib-0031"><mixed-citation publication-type="journal" id="mbt213297-cit-0031">
+<string-name>
+<surname>Sadler</surname>, <given-names>C.G.</given-names>
+</string-name>, and <string-name>
+<surname>Marriott</surname>, <given-names>R.H.</given-names>
+</string-name> (<year>1946</year>) <article-title>The evaluation of barrier creams</article-title>. <source xml:lang="en">Br Med J</source>
+<volume>2</volume>: <fpage>769</fpage>&#x02013;<lpage>773</lpage>.<pub-id pub-id-type="pmid">20276381</pub-id></mixed-citation></ref><ref id="mbt213297-bib-0032"><mixed-citation publication-type="journal" id="mbt213297-cit-0032">
+<string-name>
+<surname>Samad</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Tucker</surname>, <given-names>M.</given-names>
+</string-name>, and <string-name>
+<surname>Liang</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2017</year>) <article-title>Sweet sorghum bagasse and corn stover serving as substrates for producing sophorolipids</article-title>. <source xml:lang="en">J Ind Microbiol Biotechnol</source>
+<volume>44</volume>: <fpage>353</fpage>&#x02013;<lpage>362</lpage>.<pub-id pub-id-type="pmid">28032228</pub-id></mixed-citation></ref><ref id="mbt213297-bib-0033"><mixed-citation publication-type="journal" id="mbt213297-cit-0033">
+<string-name>
+<surname>Shah</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Doncel</surname>, <given-names>G.F.</given-names>
+</string-name>, <string-name>
+<surname>Seyoum</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Eaton</surname>, <given-names>K.M.</given-names>
+</string-name>, <string-name>
+<surname>Zalenskaya</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Hagver</surname>, <given-names>R.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2005</year>) <article-title>Sophorolipids, microbial glycolipids with anti&#x02010;human immunodeficiency virus and sperm&#x02010;immobilizing activities</article-title>. <source xml:lang="en">Antimicrob Agents Chemother</source>
+<volume>49</volume>: <fpage>4093</fpage>&#x02013;<lpage>4100</lpage>.<pub-id pub-id-type="pmid">16189085</pub-id></mixed-citation></ref><ref id="mbt213297-bib-0034"><mixed-citation publication-type="journal" id="mbt213297-cit-0034">
+<string-name>
+<surname>Shin</surname>, <given-names>J.D.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>Y.B.</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>, <given-names>I.S.</given-names>
+</string-name>, and <string-name>
+<surname>Kim</surname>, <given-names>E.K.</given-names>
+</string-name> (<year>2010</year>) <article-title>Production and characterization of methyl ester sophorolipids with 22&#x02010;carbon&#x02010;fatty acids</article-title>. <source xml:lang="en">Bioresour Technol</source>
+<volume>101</volume>: <fpage>3170</fpage>&#x02013;<lpage>3174</lpage>.<pub-id pub-id-type="pmid">20053555</pub-id></mixed-citation></ref><ref id="mbt213297-bib-0035"><mixed-citation publication-type="journal" id="mbt213297-cit-0035">
+<string-name>
+<surname>Van Bogaert</surname>, <given-names>I.N.</given-names>
+</string-name>, <string-name>
+<surname>Saerens</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>De Muynck</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Develter</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Soetaert</surname>, <given-names>W.</given-names>
+</string-name>, and <string-name>
+<surname>Vandamme</surname>, <given-names>E.J.</given-names>
+</string-name> (<year>2007</year>) <article-title>Microbial production and application of sophorolipids</article-title>. <source xml:lang="en">Appl Microbiol Biotechnol</source>
+<volume>76</volume>: <fpage>23</fpage>&#x02013;<lpage>34</lpage>.<pub-id pub-id-type="pmid">17476500</pub-id></mixed-citation></ref><ref id="mbt213297-bib-0036"><mixed-citation publication-type="journal" id="mbt213297-cit-0036">
+<string-name>
+<surname>Van Bogaert</surname>, <given-names>I.N.</given-names>
+</string-name>, <string-name>
+<surname>Holvoet</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Roelants</surname>, <given-names>S.L.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>, <given-names>Y.C.</given-names>
+</string-name>, <string-name>
+<surname>Van de Peer</surname>, <given-names>Y.</given-names>
+</string-name>, and <string-name>
+<surname>Soetaert</surname>, <given-names>W.</given-names>
+</string-name> (<year>2013</year>) <article-title>The biosynthetic gene cluster for sophorolipids: a biotechnological interesting biosurfactant produced by <italic>Starmerella bombicola</italic>
+</article-title>. <source xml:lang="en">Mol Microbiol</source>
+<volume>88</volume>: <fpage>501</fpage>&#x02013;<lpage>509</lpage>.<pub-id pub-id-type="pmid">23516968</pub-id></mixed-citation></ref><ref id="mbt213297-bib-0037"><mixed-citation publication-type="journal" id="mbt213297-cit-0037">
+<string-name>
+<surname>Weihermann</surname>, <given-names>A.C.</given-names>
+</string-name>, <string-name>
+<surname>Lorencini</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Brohem</surname>, <given-names>C.A.</given-names>
+</string-name>, and <string-name>
+<surname>de Carvalho</surname>, <given-names>C.M.</given-names>
+</string-name> (<year>2017</year>) <article-title>Elastin structure and its involvement in skin photoageing</article-title>. <source xml:lang="en">Int J Cosmet Sci</source>
+<volume>39</volume>: <fpage>241</fpage>&#x02013;<lpage>247</lpage>.<pub-id pub-id-type="pmid">27731897</pub-id></mixed-citation></ref></ref-list></back></article>

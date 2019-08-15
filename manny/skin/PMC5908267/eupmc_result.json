@@ -1,0 +1,293 @@
+{
+  "id": [
+    "29692852"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29692852"
+  ],
+  "pmcid": [
+    "PMC5908267"
+  ],
+  "doi": [
+    "10.7573/dic.212530"
+  ],
+  "title": [
+    "Emollient treatment of atopic dermatitis: latest evidence and clinical considerations."
+  ],
+  "authorString": [
+    "Hon KL, Kung JSC, Ng WGG, Leung TF."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hon KL"
+          ],
+          "firstName": [
+            "Kam Lun"
+          ],
+          "lastName": [
+            "Hon"
+          ],
+          "initials": [
+            "KL"
+          ],
+          "affiliation": [
+            "Department of Paediatrics, The Chinese University of Hong Kong, Hong Kong."
+          ]
+        },
+        {
+          "fullName": [
+            "Kung JSC"
+          ],
+          "firstName": [
+            "Jeng Sum Charmaine"
+          ],
+          "lastName": [
+            "Kung"
+          ],
+          "initials": [
+            "JSC"
+          ],
+          "affiliation": [
+            "Department of Paediatrics, The Chinese University of Hong Kong, Hong Kong."
+          ]
+        },
+        {
+          "fullName": [
+            "Ng WGG"
+          ],
+          "firstName": [
+            "Wing Gi Gigi"
+          ],
+          "lastName": [
+            "Ng"
+          ],
+          "initials": [
+            "WGG"
+          ],
+          "affiliation": [
+            "Department of Paediatrics, The Chinese University of Hong Kong, Hong Kong."
+          ]
+        },
+        {
+          "fullName": [
+            "Leung TF"
+          ],
+          "firstName": [
+            "Ting Fan"
+          ],
+          "lastName": [
+            "Leung"
+          ],
+          "initials": [
+            "TF"
+          ],
+          "affiliation": [
+            "Department of Paediatrics, The Chinese University of Hong Kong, Hong Kong."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2641832"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Drugs in context"
+          ],
+          "ISOAbbreviation": [
+            "Drugs Context"
+          ],
+          "medlineAbbreviation": [
+            "Drugs Context"
+          ],
+          "NLMid": [
+            "101262187"
+          ],
+          "ISSN": [
+            "1745-1981"
+          ],
+          "ESSN": [
+            "1740-4398"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "212530"
+  ],
+  "abstractText": [
+    "To review current classes of emollients in the market, their clinical efficacy in atopic dermatitis (AD) and considerations for choice of an emollient.PubMed Clinical Queries under Clinical Study Categories (with Category limited to Therapy and Scope limited to Narrow) and Systematic Reviews were used as the search engine. Keywords of 'emollient or moisturizer' and 'atopic dermatitis' were used.Using the keywords of 'emollient' and 'atopic dermatitis', there were 105 and 36 hits under Clinical Study Categories (with Category limited to Therapy and Scope limited to Narrow) and Systematic Reviews, respectively. Plant-derived products, animal products and special ingredients were discussed. Selected proprietary products were tabulated.A number of proprietary emollients have undergone trials with clinical data available on PubMed-indexed journals. Most moisturizers showed some beneficial effects, but there was generally no evidence that one moisturizer is superior to another. Choosing an appropriate emollient for AD patients would improve acceptability and adherence for emollient treatment. Physician's recommendation is the primary consideration for patients when selecting a moisturizer/emollient; therefore, doctors should provide evidence-based information about these emollients."
+  ],
+  "affiliation": [
+    "Department of Paediatrics, The Chinese University of Hong Kong, Hong Kong."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Atopic Dermatitis",
+        "Emollient"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5908267?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5908267"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7573/dic.212530"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-04-26"
+  ],
+  "firstIndexDate": [
+    "2018-04-26"
+  ],
+  "dateOfRevision": [
+    "2018-04-29"
+  ],
+  "electronicPublicationDate": [
+    "2018-04-17"
+  ],
+  "firstPublicationDate": [
+    "2018-04-17"
+  ]
+}

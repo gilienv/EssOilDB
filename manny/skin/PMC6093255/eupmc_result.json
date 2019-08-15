@@ -1,0 +1,337 @@
+{
+  "id": [
+    "30123842"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30123842"
+  ],
+  "pmcid": [
+    "PMC6093255"
+  ],
+  "doi": [
+    "10.1136/bmjophth-2017-000094"
+  ],
+  "title": [
+    "Safety and efficacy of 4-terpineol against microorganisms associated with blepharitis and common ocular diseases."
+  ],
+  "authorString": [
+    "Su CW, Tighe S, Sheha H, Cheng AMS, Tseng SCG."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Su CW"
+          ],
+          "firstName": [
+            "Chen-Wei"
+          ],
+          "lastName": [
+            "Su"
+          ],
+          "initials": [
+            "CW"
+          ],
+          "affiliation": [
+            "Tissue Tech, Inc. R&D Dept. and Ocular Surface Center, Miami, Florida, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Tighe S"
+          ],
+          "firstName": [
+            "Sean"
+          ],
+          "lastName": [
+            "Tighe"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Tissue Tech, Inc. R&D Dept. and Ocular Surface Center, Miami, Florida, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Sheha H"
+          ],
+          "firstName": [
+            "Hosam"
+          ],
+          "lastName": [
+            "Sheha"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Tissue Tech, Inc. R&D Dept. and Ocular Surface Center, Miami, Florida, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Cheng AMS"
+          ],
+          "firstName": [
+            "Anny M S"
+          ],
+          "lastName": [
+            "Cheng"
+          ],
+          "initials": [
+            "AMS"
+          ],
+          "affiliation": [
+            "Herbert Wertheim College of Medicine, Florida International University, Miami, Florida, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Tseng SCG"
+          ],
+          "firstName": [
+            "Scheffer C G"
+          ],
+          "lastName": [
+            "Tseng"
+          ],
+          "initials": [
+            "SCG"
+          ],
+          "affiliation": [
+            "Tissue Tech, Inc. R&D Dept. and Ocular Surface Center, Miami, Florida, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2673484"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMJ open ophthalmology"
+          ],
+          "ISOAbbreviation": [
+            "BMJ Open Ophthalmol"
+          ],
+          "medlineAbbreviation": [
+            "BMJ Open Ophthalmol"
+          ],
+          "NLMid": [
+            "101714806"
+          ],
+          "ISSN": [
+            "2397-3269"
+          ],
+          "ESSN": [
+            "2397-3269"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e000094"
+  ],
+  "abstractText": [
+    "Microbial infection has been reported to cause blepharitis, conjunctivitis and keratitis. We evaluated the safety and efficacy of a foam formulation of 2% 4-terpineol (T4O) against common ocular microorganisms.The antimicrobial effect of a 2% T4O formulation was evaluated by the United States Pharmacopeia 51 (USP <51>) antimicrobial effectiveness test for 14 and 28 days, as well as by a Time Kill Study (ASTM E2315) with a 60 s exposure time. Its potential of causing skin and ocular irritation was evaluated by the Repeated Insult Patch Test and the Hen's Egg Chorioallantoic Membrane Test, respectively.It was seen that 2% T4O formulation did not cause ocular irritation, skin irritation, sensitisation or allergic contact dermatitis in human subjects. Most importantly, it killed microorganisms listed in USP <51> at both 14 and 28 days and exerted a rapid killing effect within 60 s against 13 bacteria, 1 fungus and Acanthamoeba castellanii.The above finding suggests that 2% T4O formulation is safe and effective in killing microorganisms related to common ocular and skin infective diseases.Although the clinical efficacy in treating ocular disease was not directly studied; this foam formulation containing 2% T4O, based on the in vitro results of this work, demonstrated that it can potentially be used as a preservative-free cleansing agent for ocular hygiene maintenance due to its ability to exert a broad-spectrum antimicrobial effect without causing ocular or skin irritation."
+  ],
+  "affiliation": [
+    "Tissue Tech, Inc. R&D Dept. and Ocular Surface Center, Miami, Florida, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R43 EY019586"
+          ],
+          "agency": [
+            "NEI NIH HHS"
+          ],
+          "acronym": [
+            "EY"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Infection",
+        "Microbiology",
+        "Inflammation",
+        "Eye Lids"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6093255?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6093255"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1136/bmjophth-2017-000094"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-08-21"
+  ],
+  "firstIndexDate": [
+    "2018-08-21"
+  ],
+  "dateOfRevision": [
+    "2018-08-23"
+  ],
+  "electronicPublicationDate": [
+    "2018-06-04"
+  ],
+  "firstPublicationDate": [
+    "2018-06-04"
+  ]
+}
