@@ -1,9 +1,0 @@
-10.1002_ffj.1099.xml:<pmcid>PMC6157254</pmcid>
-10.1016_j.biortech.2006.12.025.xml:<pmcid>PMC3548244</pmcid>
-10.1371_journal.pone.0092122.xml:<pmcid>PMC3963878</pmcid>
-10.3389_fmicb.2014.00269.xml:<pmcid>PMC4044670</pmcid>
-10.3389_fncel.2014.00335.xml:<pmcid>PMC4201098</pmcid>
-10.3390_molecules14030925.xml:<pmcid>PMC6253779</pmcid>
-10.3390_molecules16010762.xml:<pmcid>PMC6259589</pmcid>
-10.3390_molecules171011447.xml:<pmcid>PMC6268859</pmcid>
-10.4103_0973-1296.62890.xml:<pmcid>PMC2900066</pmcid>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<snippetsTree>
- <snippets file="open/PMC4044670/results/search/monoterpene/results.xml">
-  <result pre="o-Cimene 7.974 0.99 1013 1022 p-Cimene 8.194 1.08 1019 1026" exact="Limonene" post="8.388 0.26 1025 1031 γ-Terpinene 9.421 5.02 1053 1062"/>
-  <result pre="hidrate 9.688 1.79 1061 – Terpinolene 10.520 0.70 1084 1088" exact="Linalool" post="10.827 15.22 1093 1098 Trans-p-mentenol 10.892 3.31 1095 –"/>
-  <result pre="Trans-p-mentenol 10.892 3.31 1095 – Cis-p-mentenol 11.732 1.99 1116 –" exact="Borneol" post="12.433 1.34 1133 – 4-terpineol 13.981 44.11 1171 1177"/>
-  <result pre="2-Isopropyl-5-methyl-anisole 16.348 0.47 1228 1235 2-Isopropyl-5-methyl-anisole 16.738 1.49 1238 1244" exact="Geraniol" post="17.293 1.46 1251 – * Experiment retention indices; **"/>
- </snippets>
-</snippetsTree>
