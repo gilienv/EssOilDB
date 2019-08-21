@@ -385,7 +385,7 @@ C80,(z)-trans-alpha-bergamotol,(Z)-trans-alpha-bergamotol,NA
 C1317,(z)-trimenal,(Z)-trimenal,NA
 C81,(Z)-Verbenol,(Z)-Verbenol,NA
 C1318,(z)-zasmone,(Z)-zasmone,NA
-C1321,(z)—9-octadecen-1-ol,(Z)?9-octadecen-1-ol,NA
+C1321,(z)Â—9-octadecen-1-ol,(Z)?9-octadecen-1-ol,NA
 C1319,(z) beta-ocimene,(Z) beta-ocimene,NA
 C1320,(z) hex-3-enylacetate,(Z) hex-3-enylacetate,NA
 C1323,"(z,e)-2,4-undecadiene","(Z,E)-2,4-undecadiene",NA
@@ -1161,7 +1161,7 @@ C2336,"3,7,11 -trimethyl-1,6,10-dodecatrien-3-ol","3,7,11-trimethyl-1,6,10-dodec
 C2337,"3,7,11,15-tetramethyl-2-hexadecane","3,7,11,15-tetramethyl-2-hexadecane",NA
 C2338,"3,7,1l,15-tetramethyl-hexadecene r","3,7,1l,15-tetramethyl-hexadecene r",NA
 C2339,"3,9-epoxy-mentha-1,8(10)-diene","3,9-epoxy-mentha-1,8(10)-diene",NA
-C2340,3ž7-guaiadiene,3?7-guaiadiene,NA
+C2340,3Âž7-guaiadiene,3?7-guaiadiene,NA
 C2341,"4-(2,6,6-trimethyl-1,3-cyclohexadien-1-yl)-2-butanone","4-(2,6,6-trimethyl-1,3-cyclohexadien-1-yl)-2-butanone",NA
 C2342,4-(4'-methyl-3'-pentenyl)-3-cyclohexenylpentyl ketone,4-(4'-methyl-3'-pentenyl)-3-cyclohexenylpentyl ketone,NA
 C2344,4-(4-methylphenyl)-pentanal,4-(4-methylphenyl)-pentanal,NA
@@ -1247,7 +1247,7 @@ C2478,"4a-alpha,7-alpha,7a-beta-nepetalactone","4a-alpha,7-alpha,7a-beta-nepetal
 C2479,"4a-alpha,7-beta,7a-alpha-nepetalactone","4a-alpha,7-beta,7a-alpha-nepetalactone",NA
 C2480,"4a-beta,7-alpha,7a-alpha-nepetalactone","4a-beta,7-alpha,7a-alpha-nepetalactone",NA
 C181,"4a-beta,7-alpha,7a-beta-nepetalactone","4a-beta,7-alpha,7a-beta-nepetalactone",NA
-C2482,"5-(3-buten-1-ynyl)-2,2’-bithiophene","5-(3-buten-1-ynyl)-2,2?-bithiophene",NA
+C2482,"5-(3-buten-1-ynyl)-2,2Â’-bithiophene","5-(3-buten-1-ynyl)-2,2?-bithiophene",NA
 C190,"5-(3-furyl),2-methyl-1-penten-3-ol","5-(3-furyl),2-methyl-1-penten-3-ol",NA
 C2483,"5-(3-furyl),2-methyl-1-penten-3-one","5-(3-furyl),2-methyl-1-penten-3-one",NA
 C2484,"5-(furyl),2-methyl-3-penten-2-ol","5-(furyl),2-methyl-3-penten-2-ol",NA
@@ -1288,7 +1288,7 @@ C2538,"5,6,7,7a-tetrahydro-4,4,7a-trimethyl-2(4h)-benzofuranone","5,6,7,7a-tetra
 C2539,"5,6,7,8-tetrahydro,3-methoxy,8,8-dimethyl,1,4-phenthrenedione","5,6,7,8-tetrahydro,3-methoxy,8,8-dimethyl,1,4-phenthrenedione",NA
 C2540,"5,8,11-tetradecatrien-2-one","5,8,11-tetradecatrien-2-one",NA
 C2541,"5,9-dimethyl-2-decanone","5,9-dimethyl-2-decanone",NA
-C2542,"5’-methyl-5-(but-3-en-1-ynyl)-2,2’-bitiophene","5?-methyl-5-(but-3-en-1-ynyl)-2,2?-bitiophene",NA
+C2542,"5Â’-methyl-5-(but-3-en-1-ynyl)-2,2Â’-bitiophene","5?-methyl-5-(but-3-en-1-ynyl)-2,2?-bitiophene",NA
 C2543,"6-(1'-hydroxyethyl)-2,2,dimethylchromene","6-(1'-hydroxyethyl)-2,2,dimethylchromene",NA
 C2544,"6-(1'-hydroxyethyl)-7-methoxy-2,2-dimethylchromene","6-(1'-hydroxyethyl)-7-methoxy-2,2-dimethylchromene",NA
 C2545,"6-(10-hydroxylethyl)-7-methoxy-2,2-dimethychromene","6-(10-hydroxylethyl)-7-methoxy-2,2-dimethychromene",NA
@@ -1989,7 +1989,7 @@ C3566,"cadina-3,5-diene","cadina-3,5-diene",NA
 C369,"cadina-4,1(10)-dien-8 beta-ol","cadina-4,1(10)-dien-8 beta-ol",NA
 C3567,"cadina-4,10(15)-dien-3-one","cadina-4,10(15)-dien-3-one",NA
 C3568,"cadina-4,10(15)-dien-8 beta-ol","cadina-4,10(15)-dien-8 beta-ol",NA
-C3570,"cadina—1,4-diene","cadina?1,4-diene",NA
+C3570,"cadinaÂ—1,4-diene","cadina?1,4-diene",NA
 C3569,"cadina 1(2),4-diene","cadina 1(2),4-diene",NA
 C3571,cadinadienol,cadinadienol,NA
 C3572,cadinadienol-i,cadinadienol-i,NA
@@ -2152,7 +2152,7 @@ C3746,"caryphylla-2(12),6-diene-5-beta-ol","caryphylla-2(12),6-diene-5-beta-ol",
 C3747,"caryphylla-2(12),6(13)-dien-5-alpha-ol","caryphylla-2(12),6(13)-dien-5-alpha-ol",NA
 C3748,"caryphylla-2(12),6(13)-diene-5-beta-ol","caryphylla-2(12),6(13)-diene-5-beta-ol",NA
 C3749,cedr-8-en-13-alpha-ol acetate,cedr-8-en-13-alpha-ol acetate,NA
-C3751,cedr-8-en-13 a–o1,cedr-8-en-13 a?o1,NA
+C3751,cedr-8-en-13 aÂ–o1,cedr-8-en-13 a?o1,NA
 C3753,cedr-8(15)-en-9-alpha-ol,cedr-8(15)-en-9-alpha-ol,NA
 C3754,cedr-8(15)-en-9-alpha-ol acetate,cedr-8(15)-en-9-alpha-ol acetate,NA
 C3755,cedr-8(15)-en-9-alpha-yl acetate,cedr-8(15)-en-9-alpha-yl acetate,NA
@@ -2563,7 +2563,7 @@ C4357,drim-8-en-7-ol,drim-8-en-7-ol,NA
 C4358,drim-8(12)-ene,drim-8(12)-ene,NA
 C4359,"drima-4,9(11)-diene","drima-4,9(11)-diene",NA
 C4360,"drima-7,9(11)-diene","drima-7,9(11)-diene",NA
-C4361,"drima—7,9(11)-diene","drima?7,9(11)-diene",NA
+C4361,"drimaÂ—7,9(11)-diene","drima?7,9(11)-diene",NA
 C4362,"drimalpha-7,9(11)-diene","drimalpha-7,9(11)-diene",NA
 C4364,drimenene,drimenene,NA
 C4366,drimenone,drimenone,NA
@@ -2755,7 +2755,7 @@ C4664,gamma-bisabolene+delta-cadinene,gamma-bisabolene+delta-cadinene,NA
 C4666,gamma-cadiene,gamma-cadiene,NA
 C4667,gamma-cadinene+cubenol,gamma-cadinene+cubenol,NA
 C4668,gamma-cadinol,gamma-cadinol,NA
-C4713,gamma–cadinone,gamma-cadinone,NA
+C4713,gammaÂ–cadinone,gamma-cadinone,NA
 C4671,gamma-campholene? aldehyde,gamma-campholene aldehyde,NA
 C4670,gamma-campholene aldehyde,gamma-campholene aldehyde,NA
 C4672,gamma-campholenic aldehyde,gamma-campholenic aldehyde,NA
@@ -3606,7 +3606,7 @@ C6033,"p-mentha-l(7),5-dien-2-ol","p-mentha-l(7),5-dien-2-ol",NA
 C6034,"p-mentha-l,3,8-triene","p-mentha-l,3,8-triene",NA
 C6035,"p-mentha-l,5-dien-7-ol","p-mentha-l,5-dien-7-ol",NA
 C6036,"p-mentha-l,5-dien-8-ol","p-mentha-l,5-dien-8-ol",NA
-C6037,p-mentha—1-en-9-al (isomer),p-mentha?1-en-9-al (isomer),NA
+C6037,p-menthaÂ—1-en-9-al (isomer),p-mentha?1-en-9-al (isomer),NA
 C7030,"p-menthalpha-1(7),5-dien-2-ol","p-menthalpha-1(7),5-dien-2-ol",NA
 C6039,"p-menthalpha-1,3-dien-7-al","p-menthalpha-1,3-dien-7-al",NA
 C6040,"p-menthalpha-1,3,8-triene","p-menthalpha-1,3,8-triene",NA
@@ -3748,7 +3748,7 @@ C6301,salival-4-(14)-en-1-one,salival-4-(14)-en-1-one,NA
 C6302,salival-4(14)-en-1-one,salival-4(14)-en-1-one,NA
 C6304,salvia-4(14)-en-1-one,salvia-4(14)-en-1-one,NA
 C6306,salvial-4(14)-en-1-ol,salvial-4(14)-en-1-ol,NA
-C6309,salvial—4(14)-en-1-on,salvial-4(14)-en-1-on,NA
+C6309,salvialÂ—4(14)-en-1-on,salvial-4(14)-en-1-on,NA
 C6307,salvial-4(14) en-1-one,salvial-4(14) en-1-one,NA
 C7050,"sandaracopimara-8(14),15-diene","sandaracopimara-8(14),15-diene",NA
 C6310,"sandaracopimara-8(14),15 diene","sandaracopimara-8(14),15 diene",NA
@@ -3773,7 +3773,7 @@ C7056,selenine derivative,selenine derivative,NA
 C6340,selin-11-4-alpha-ol,selin-11-4-alpha-ol,NA
 C7057,selin-11-en-4-alpha-ol,selin-11-en-4-alpha-ol,NA
 C6343,selin-11-en-4 alpha-ol,selin-11-en-4 alpha-ol,NA
-C6344,selin-11-en-4a–o1,selin-11-en-4a?o1,NA
+C6344,selin-11-en-4aÂ–o1,selin-11-en-4a?o1,NA
 C6345,selin-11-en-4alpha-ol,selin-11-en-4alpha-ol,NA
 C6346,"selin-3,7(11)-diene","selin-3,7(11)-diene",NA
 C6347,selin-7(11)-en-4-alpha-ol,selin-7(11)-en-4-alpha-ol,NA
