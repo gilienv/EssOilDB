@@ -109,8 +109,8 @@ C940,(e)-beta-elemenone,(E)-beta-elemenone,NA
 C941,(e)-beta-famesene,(E)-beta-famesene,NA
 C942,"(e)-beta-farnesene epoxide((e)-(5,9-dimethyl-1-methylene-4,8-decadienyl)-oxirane)","(E)-beta-farnesene epoxide((E)-(5,9-dimethyl-1-methylene-4,8-decadienyl)-oxirane)",NA
 C943,(e)-beta-guaiene,(E)-beta-guaiene,NA
-C944,(e)-beta-ionone+6-methyl-gamma-(e)-ionone,(E)-beta-ionone+6-methyl-gamma-(E)-ionone,NA
-C945,(e)-beta-ionone+beta-selinene,(E)-beta-ionone+beta-selinene,NA
+C944,(e)-beta-ionone+6-methyl-gamma-(e)-ionone,,NA
+C945,(e)-beta-ionone+beta-selinene,,NA
 C948,(e)-beta ocimene,(E)-beta ocimene,NA
 C949,(e)-bisabol-11-ol,(E)-bisabol-11-ol,NA
 C950,(e)-butylidenephthalide,(E)-butylidenephthalide,NA
@@ -133,7 +133,7 @@ C970,(e)-ectocarpene c,(E)-ectocarpene c,NA
 C972,(e)-farnesene,(E)-farnesene,NA
 C31,(e)-foeniculin,(E)-foeniculin,NA
 C974,(e)-gamma-atlantone,(E)-gamma-atlantone,NA
-C975,(e)-gamma-curcumen-12-ol+n.i.,(E)-gamma-curcumen-12-ol+n.i.,NA
+C975,(e)-gamma-curcumen-12-ol+n.i.,,NA
 C976,(E)-geranic acid,(E)-geranic acid,NA
 C978,(e)-geranyl acetate,(E)-geranyl acetate,NA
 C982,(e)-hexenal,(E)-hexenal,NA
@@ -247,7 +247,7 @@ C1105,"(e,z)-hexenal","(E,Z)-hexenal",NA
 C1106,"(e,z)-matricaria ester+alpha-muurolene","(E,Z)-matricaria ester+alpha-muurolene",NA
 C1107,"(e,z)-nonadienal","(E,Z)-nonadienal",NA
 C1108,"(e,z)-undeca-1,3,5-triene","(E,Z)-undeca-1,3,5-triene",NA
-C1109,(o+p)-cymene,(o+p)-cymene,NA
+C1109,(o+p)-cymene,,NA
 C1110,(z-)-gamma-bisabolene,(z-)-gamma-bisabolene,NA
 C1111,(z)-(2-hydroxy-2-isopropyl-5-methyl)-cyclohexanol,(Z)-(2-hydroxy-2-isopropyl-5-methyl)-cyclohexanol,NA
 C1112,"(z)-1-(2',4',5'-trimethoxy phenyl)-butadiene","(Z)-1-(2',4',5'-trimethoxy phenyl)-butadiene",NA
@@ -385,7 +385,7 @@ C80,(z)-trans-alpha-bergamotol,(Z)-trans-alpha-bergamotol,NA
 C1317,(z)-trimenal,(Z)-trimenal,NA
 C81,(Z)-Verbenol,(Z)-Verbenol,NA
 C1318,(z)-zasmone,(Z)-zasmone,NA
-C1321,(z)—9-octadecen-1-ol,(Z)?9-octadecen-1-ol,NA
+C1321,(z)—9-octadecen-1-ol,(Z)-9-octadecen-1-ol,NA
 C1319,(z) beta-ocimene,(Z) beta-ocimene,NA
 C1320,(z) hex-3-enylacetate,(Z) hex-3-enylacetate,NA
 C1323,"(z,e)-2,4-undecadiene","(Z,E)-2,4-undecadiene",NA
@@ -418,49 +418,49 @@ C84,"(z,z)-octadeca-9,12-dienoic acid","(Z,Z)-octadeca-9,12-dienoic acid",NA
 C1346,"(z,z,z)-7,10,13-hexadecatrienal","(z,z,z)-7,10,13-hexadecatrienal",NA
 C1347,"(z,z,z)-8-11-14-heptadecatrienal","(z,z,z)-8-11-14-heptadecatrienal",NA
 C1348,"(z,z,z)-9-12-15-octadecatrienoic acid","(z,z,z)-9-12-15-octadecatrienoic acid",NA
-C4978,?-bourbonene,?-bourbonene,NA
-C4964,?-cadinene,?-cadinene,NA
-C4969,?-cadinol,?-cadinol,NA
-C4979,?-caryophyllene,?-caryophyllene,NA
-C4975,?-cymene,?-cymene,NA
-C4977,? -cymene,?-cymene,NA
-C4963,?-elemene,?-elemene,NA
-C4965,?-elemene,?-elemene,NA
-C4980,?-elemene,?-elemene,NA
-C4966,?-gurjunene,?-gurjunene,NA
-C4976,?-menth-1-ene-8-ol,?-menth-1-ene-8-ol,NA
-C4967,?-muurolene,?-muurolene,NA
-C4971,?-phellandrene,?-phellandrene,NA
-C4972,?-pinene,?-pinene,NA
-C4981,?-pinene,?-pinene,NA
-C4982,?-terpinene,?-terpinene,NA
-C4968,?-terpinene,?-terpinene,NA
-C4970,?-thujene,?-thujene,NA
-C4974,??thujene,?-thujene,NA
-C4973,?-thujene,?-thujene,NA
-C2741,?1-epi-cubenol,?1-epi-cubenol,NA
-C2742,"?1s,cis-calamene","?1s,cis-calamene",NA
-C2743,?alpha-bergamotene,?alpha-bergamotene,NA
-C2744,?alpha-calacorene,?alpha-calacorene,NA
-C2745,?alpha-copaene,?alpha-copaene,NA
-C2746,?alpha-selinene,?alpha-selinene,NA
-C2747,?beta-bisabolene,?beta-bisabolene,NA
-C2748,?beta-bourbonene,?beta-bourbonene,NA
-C2749,?beta-selinene,?beta-selinene,NA
-C2750,?carotol,?carotol,NA
-C2751,"?caryophylla-3,8(13)-dien-5-beta-ol","?caryophylla-3,8(13)-dien-5-beta-ol",NA
-C2752,"?caryophylla-4(12),8(13)-dien-5beta-ol","?caryophylla-4(12),8(13)-dien-5beta-ol",NA
-C2753,?caryophyllene oxide,?caryophyllene oxide,NA
-C2754,?caryophyllenol-ii,?caryophyllenol-ii,NA
-C2755,?cis-alpha-bisabolene,?cis-alpha-bisabolene,NA
-C2756,?cryptomerione,?cryptomerione,NA
-C2757,?cubenol,?cubenol,NA
-C2758,?dehydroaromadendrene,?dehydroaromadendrene,NA
-C2759,?delta-cadinene,?delta-cadinene,NA
-C2760,?isospathulenol,?isospathulenol,NA
-C2761,?mustakone,?mustakone,NA
-C2762,?spathulenol,?spathulenol,NA
-C2763,?trans-caryophyllene,?trans-caryophyllene,NA
+C4978,?-bourbonene,bourbonene,NA
+C4964,?-cadinene,cadinene,NA
+C4969,?-cadinol,cadinol,NA
+C4979,?-caryophyllene,caryophyllene,NA
+C4975,?-cymene,cymene,NA
+C4977,? -cymene,cymene,NA
+C4963,?-elemene,elemene,NA
+C4965,?-elemene,elemene,NA
+C4980,?-elemene,elemene,NA
+C4966,?-gurjunene,gurjunene,NA
+C4976,?-menth-1-ene-8-ol,menth-1-ene-8-ol,NA
+C4967,?-muurolene,muurolene,NA
+C4971,?-phellandrene,phellandrene,NA
+C4972,?-pinene,pinene,NA
+C4981,?-pinene,pinene,NA
+C4982,?-terpinene,terpinene,NA
+C4968,?-terpinene,terpinene,NA
+C4970,?-thujene,thujene,NA
+C4974,??thujene,thujene,NA
+C4973,?-thujene,thujene,NA
+C2741,?1-epi-cubenol,1-epi-cubenol,NA
+C2742,"?1s,cis-calamene","1s,cis-calamene",NA
+C2743,?alpha-bergamotene,alpha-bergamotene,NA
+C2744,?alpha-calacorene,alpha-calacorene,NA
+C2745,?alpha-copaene,alpha-copaene,NA
+C2746,?alpha-selinene,alpha-selinene,NA
+C2747,?beta-bisabolene,beta-bisabolene,NA
+C2748,?beta-bourbonene,beta-bourbonene,NA
+C2749,?beta-selinene,beta-selinene,NA
+C2750,?carotol,carotol,NA
+C2751,"?caryophylla-3,8(13)-dien-5-beta-ol","caryophylla-3,8(13)-dien-5-beta-ol",NA
+C2752,"?caryophylla-4(12),8(13)-dien-5beta-ol","caryophylla-4(12),8(13)-dien-5beta-ol",NA
+C2753,?caryophyllene oxide,caryophyllene oxide,NA
+C2754,?caryophyllenol-ii,caryophyllenol-ii,NA
+C2755,?cis-alpha-bisabolene,cis-alpha-bisabolene,NA
+C2756,?cryptomerione,cryptomerione,NA
+C2757,?cubenol,cubenol,NA
+C2758,?dehydroaromadendrene,dehydroaromadendrene,NA
+C2759,?delta-cadinene,delta-cadinene,NA
+C2760,?isospathulenol,isospathulenol,NA
+C2761,?mustakone,mustakone,NA
+C2762,?spathulenol,spathulenol,NA
+C2763,?trans-caryophyllene,trans-caryophyllene,NA
 C1351,[e]-nerolidol,[e]-nerolidol,NA
 C1352,0.001ans-ocimene,0.001ans-ocimene,NA
 C1353,"1-(2-butylidene)-2,6,6-trimethylcyclohexa-2,4-diene","1-(2-butylidene)-2,6,6-trimethylcyclohexa-2,4-diene",NA
@@ -662,9 +662,9 @@ C1589,"1,8- cineole","1,8-cineole",NA
 C103,"1,8-cineole","1,8-cineole",NA
 C1599,"1,8 ? cineole","1,8-cineole",NA
 C101,"1,8 cineole","1,8-cineole",NA
-C1590,"1,8-cineole + (z)-beta-ocimene","1,8-cineole + (Z)-beta-ocimene",NA
-C1591,"1,8-cineole + beta-phellandrene","1,8-cineole + beta-phellandrene",NA
-C104,"1,8-cineole + limonene","1,8-cineole + limonene",NA
+C1590,"1,8-cineole + (z)-beta-ocimene",,NA
+C1591,"1,8-cineole + beta-phellandrene",,NA
+C104,"1,8-cineole + limonene",,NA
 C1592,"1,8-dehydrocineole","1,8-dehydrocineole",NA
 C1593,"1,8-dihydrocineole","1,8-dihydrocineole",NA
 C1594,"1,8-dimethoxyanthracene-9,10-dione","1,8-dimethoxyanthracene-9,10-dione",NA
@@ -676,7 +676,7 @@ C1600,"1,9-cineole","1,9-cineole",NA
 C1601,1.4-dimethyl tetrasulfide,1.4-dimethyl tetrasulfide,NA
 C1602,1.6-germacradien-5-beta-ol,1.6-germacradien-5-beta-ol,NA
 C1603,1.8-cineol,1.8-cineol,NA
-C1605,1.8-cineole + beta-phellandrene,1.8-cineole + beta-phellandrene,NA
+C1605,1.8-cineole + beta-phellandrene,,NA
 C1606,"10-(2-methylbutyryloxy)-8,9-didehydrothymol isobutyrate","10-(2-methylbutyryloxy)-8,9-didehydrothymol isobutyrate",NA
 C1607,"10-(2-methylbutyryloxy)-8,9-didehydrothymolmethylether","10-(2-methylbutyryloxy)-8,9-didehydrothymolmethylether",NA
 C1610,"10-bisabolene-3,7-diol","10-bisabolene-3,7-diol",NA
@@ -691,7 +691,7 @@ C1621,10-epi-gamma-eudesmol acetate,10-epi-gamma-eudesmol acetate,NA
 C1622,10-epi-gamma-eudesmold,10-epi-gamma-eudesmold,NA
 C107,10-epi-gamma eudesmol,10-epi-gamma eudesmol,NA
 C1624,10-epi-junenol,10-epi-junenol,NA
-C1625,"10-epi-y-eudesmol +1,10-di-epi-cubenol","10-epi-y-eudesmol +1,10-di-epi-cubenol",NA
+C1625,"10-epi-y-eudesmol +1,10-di-epi-cubenol",,NA
 C109,10-hydroxy cadin-4-ene-3-one,10-hydroxy cadin-4-ene-3-one,NA
 C1626,10-hydroxy calamenene,10-hydroxy calamenene,NA
 C1627,"10-isobutyryloxy-8,9-didehydrothymol isobutyrate","10-isobutyryloxy-8,9-didehydrothymol isobutyrate",NA
@@ -742,7 +742,7 @@ C1678,14-hydroxy-gamma-cadinene,14-hydroxy-gamma-cadinene,NA
 C1679,14-hydroxy-isocaryophyllene,14-hydroxy-isocaryophyllene,NA
 C1680,14-hydroxy 9-epi-beta-caryophyllene,14-hydroxy 9-epi-beta-caryophyllene,NA
 C1681,14-hydroxy alpha-muurolene,14-hydroxy alpha-muurolene,NA
-C1682,14-hydroxy+epi-beta-caryophyllene,14-hydroxy+epi-beta-caryophyllene,NA
+C1682,14-hydroxy+epi-beta-caryophyllene,,NA
 C1683,14-nor-cadin-5-en-4-one,14-nor-cadin-5-en-4-one,NA
 C1684,14-norcadin-5-en-4-one isomer a,14-norcadin-5-en-4-one isomer a,NA
 C1685,14-oxy-alpha-muurolene,14-oxy-alpha-muurolene,NA
@@ -827,7 +827,7 @@ C1845,2-methylbutyl-2-methylbutyrate,2-methylbutyl-2-methylbutyrate,NA
 C1850,2-methylbutylangelate,2-methylbutylangelate,NA
 C1851,2-methylbutylbenzoate,2-methylbutylbenzoate,NA
 C1852,2-methylbutylbutyrate,2-methylbutylbutyrate,NA
-C1853,2-methylbutylbutyrate + (z)-4-octenol,2-methylbutylbutyrate + (Z)-4-octenol,NA
+C1853,2-methylbutylbutyrate + (z)-4-octenol,,NA
 C1854,2-methylbutyldecanoate,2-methylbutyldecanoate,NA
 C1855,2-methylbutylhexanoate,2-methylbutylhexanoate,NA
 C147,2-methylbutylisobutyrate,2-methylbutylisobutyrate,NA
@@ -870,7 +870,7 @@ C1942,2-phenylethyldecanoate,2-phenylethyldecanoate,NA
 C1943,2-phenylethylformate,2-phenylethylformate,NA
 C1944,2-phenylethylhexanoate,2-phenylethylhexanoate,NA
 C1945,2-phenylethylisobutyrate,2-phenylethylisobutyrate,NA
-C1946,2-phenylethylisobutyrate + aromadendrene,2-phenylethylisobutyrate + aromadendrene,NA
+C1946,2-phenylethylisobutyrate + aromadendrene,,NA
 C1948,2-phenylethylisothiocynate,2-phenylethylisothiocynate,NA
 C158,2-phenylethylisovalerate,2-phenylethylisovalerate,NA
 C1949,2-phenylethylisovalerqate,2-phenylethylisovalerqate,NA
@@ -1079,7 +1079,7 @@ C2176,"3-lsopropenylpentane-1,5-dioic acid","3-lsopropenylpentane-1,5-dioic acid
 C2181,3-methoxymethylsalicylate,3-methoxymethylsalicylate,NA
 C2183,3-methy-2-butenol,3-methy-2-butenol,NA
 C2184,3-methyl-1-(1-methylethyl)-cyclohexane,3-methyl-1-(1-methylethyl)-cyclohexane,NA
-C2187,3-methyl-1-phenyl-1h-pyrazole + alpha-methylbenzyl-cyanide,3-methyl-1-phenyl-1h-pyrazole + alpha-methylbenzyl-cyanide,NA
+C2187,3-methyl-1-phenyl-1h-pyrazole + alpha-methylbenzyl-cyanide,,NA
 C2188,3-methyl-2-(5h)-furanone,3-methyl-2-(5h)-furanone,NA
 C2195,3-methyl-2-butenol (prenol),3-methyl-2-butenol (prenol),NA
 C2197,3-methyl-2-butenylisovalerate,3-methyl-2-butenylisovalerate,NA
@@ -1161,7 +1161,7 @@ C2336,"3,7,11 -trimethyl-1,6,10-dodecatrien-3-ol","3,7,11-trimethyl-1,6,10-dodec
 C2337,"3,7,11,15-tetramethyl-2-hexadecane","3,7,11,15-tetramethyl-2-hexadecane",NA
 C2338,"3,7,1l,15-tetramethyl-hexadecene r","3,7,1l,15-tetramethyl-hexadecene r",NA
 C2339,"3,9-epoxy-mentha-1,8(10)-diene","3,9-epoxy-mentha-1,8(10)-diene",NA
-C2340,3ž7-guaiadiene,3?7-guaiadiene,NA
+C2340,3ž7-guaiadiene,"3,7-guaiadiene",NA
 C2341,"4-(2,6,6-trimethyl-1,3-cyclohexadien-1-yl)-2-butanone","4-(2,6,6-trimethyl-1,3-cyclohexadien-1-yl)-2-butanone",NA
 C2342,4-(4'-methyl-3'-pentenyl)-3-cyclohexenylpentyl ketone,4-(4'-methyl-3'-pentenyl)-3-cyclohexenylpentyl ketone,NA
 C2344,4-(4-methylphenyl)-pentanal,4-(4-methylphenyl)-pentanal,NA
@@ -1446,10 +1446,10 @@ C2730,"9,12,15-octadecatrienoic acid, ethyl ester","9,12,15-octadecatrienoic aci
 C2731,"9,12,15-octadecatrienoic acid, ethylester","9,12,15-octadecatrienoic acid, ethylester",NA
 C2732,"9,12,15-octadecatrienol","9,12,15-octadecatrienol",NA
 C2733,A-germacrene,A-germacrene,NA
-C2734,"a heavy unsaturated ketone (rl=2369, m/z:41,126,97,53,69,81)","a heavy unsaturated ketone (rl=2369, m/z:41,126,97,53,69,81)",NA
+C2734,"a heavy unsaturated ketone (rl=2369, m/z:41,126,97,53,69,81)",,NA
 C2735,a hexnylbutyrate,a hexnylbutyrate,NA
 C2736,a phenyletherester,a phenyletherester,NA
-C2737,"a sesquiterpenic derivative (ri=2210, rn/z:41,43,187,202)","a sesquiterpenic derivative (ri=2210, rn/z:41,43,187,202)",NA
+C2737,"a sesquiterpenic derivative (ri=2210, rn/z:41,43,187,202)",,NA
 C2738,"a,p-dimethylstyrene","a,p-dimethylstyrene",NA
 C2765,"abieta-7,13-diene","abieta-7,13-diene",NA
 C2766,"abieta-7,13-diene-3-one","abieta-7,13-diene-3-one",NA
@@ -1481,7 +1481,7 @@ C219,aliphatic hydrocarbons,aliphatic hydrocarbons,NA
 C220,alkane and alkene,alkane and alkene,NA
 C2814,alkylangelate,alkylangelate,NA
 C2815,alkyltiglate,alkyltiglate,NA
-C2816,alliphatic hydrocarbons c17-c30,alliphatic hydrocarbons c17-c30,NA
+C2816,alliphatic hydrocarbons c17-c30,,NA
 C2817,allo-alloaromadendrene epoxide,allo-alloaromadendrene epoxide,NA
 C221,allo-ammadendrene,allo-ammadendrene,NA
 C2818,allo-aramadendrene,allo-aramadendrene,NA
@@ -1507,10 +1507,10 @@ C2843,allylisothiocynate,allylisothiocynate,NA
 C2853,alpha-10-di epi-cubenol,alpha-10-di epi-cubenol,NA
 C2854,alpha-11-selinen-4-ol,alpha-11-selinen-4-ol,NA
 C2855,alpha-acoradien,alpha-acoradien,NA
-C2857,alpha-acoradiene`,alpha-acoradiene`,NA
+C2857,alpha-acoradiene`,alpha-acoradiene,NA
 C2858,alpha-acorenol,alpha-acorenol,NA
 C2859,alpha-acorenol isomer,alpha-acorenol isomer,NA
-C2860,alpha-acorenol+ n.i.,alpha-acorenol+ n.i.,NA
+C2860,alpha-acorenol+ n.i.,,NA
 C2861,alpha-acorenole,alpha-acorenole,NA
 C2862,alpha-agarofuran,alpha-agarofuran,NA
 C228,alpha-amorphene,alpha-amorphene,NA
@@ -1521,7 +1521,7 @@ C2870,alpha-biabolol,alpha-biabolol,NA
 C2871,alpha-bisabol-1-one,alpha-bisabol-1-one,NA
 C2872,alpha-bisabolene oxide,alpha-bisabolene oxide,NA
 C2873,alpha-bisabolo,alpha-bisabolo,NA
-C2874,alpha-bisabolol + other sesquiterpene derivatives,alpha-bisabolol + other sesquiterpene derivatives,NA
+C2874,alpha-bisabolol + other sesquiterpene derivatives,,NA
 C2877,alpha-bisabolold,alpha-bisabolold,NA
 C2878,alpha-bisabololoxide,alpha-bisabololoxide,NA
 C2879,alpha-bisabololoxide a,alpha-bisabololoxide a,NA
@@ -1534,14 +1534,14 @@ C2884,alpha-bisabolylacetate,alpha-bisabolylacetate,NA
 C2886,alpha-Bulnesene epoxide,alpha-Bulnesene epoxide,NA
 C2887,alpha-cadinene+alpha-calacorene,alpha-cadinene+alpha-calacorene,NA
 C2888,alpha-cadineno,alpha-cadineno,NA
-C2889,alpha-cadinol + n.i. (m? 220),alpha-cadinol + n.i. (m+220),NA
+C2889,alpha-cadinol + n.i. (m? 220),,NA
 C2890,alpha-cadinol isomer,alpha-cadinol isomer,NA
 C2891,alpha-cadinolc,alpha-cadinolc,NA
 C2892,alpha-cadrol,alpha-cadrol,NA
 C2893,alpha-calacorene-i,alpha-calacorene-i,NA
 C2894,alpha-calacorene-ii,alpha-calacorene-ii,NA
 C2895,alpha-calacorene+alpha-agarofuran,alpha-calacorene+alpha-agarofuran,NA
-C238,alpha-calacorene+n.i. m+220,alpha-calacorene+n.i. m+220,NA
+C238,alpha-calacorene+n.i. m+220,,NA
 C2896,alpha-calacrene,alpha-calacrene,NA
 C2897,alpha-calamenene,alpha-calamenene,NA
 C2898,alpha-calarorene,alpha-calarorene,NA
@@ -1551,7 +1551,7 @@ C2901,alpha-camphene,alpha-camphene,NA
 C2902,alpha-camphenolicaldehyde,alpha-camphenolicaldehyde,NA
 C239,alpha-campholena,alpha-campholena,NA
 C2903,alpha-campholenalaldehyde,alpha-campholenalaldehyde,NA
-C2905,alpha-campholene aldehyde (+ alpha-copaene),alpha-campholene aldehyde (+ alpha-copaene),NA
+C2905,alpha-campholene aldehyde (+ alpha-copaene),,NA
 C2907,alpha-campholenealcohol,alpha-campholenealcohol,NA
 C241,alpha-campholenicaldehyde,alpha-campholenicaldehyde,NA
 C2909,alpha-camphonal,alpha-camphonal,NA
@@ -1573,8 +1573,8 @@ C2930,alpha-colcorene,alpha-colcorene,NA
 C2931,alpha-comphlenal,alpha-comphlenal,NA
 C2932,alpha-copaen,alpha-copaen,NA
 C2933,alpha-copaen-11-ol,alpha-copaen-11-ol,NA
-C2935,alpha-copaene/biphenyl,alpha-copaene/biphenyl,NA
-C2936,alpha-copaene+dihydroedulan-ii,alpha-copaene+dihydroedulan-ii,NA
+C2935,alpha-copaene/biphenyl,,NA
+C2936,alpha-copaene+dihydroedulan-ii,,NA
 C245,alpha-copane,alpha-copane,NA
 C2937,alpha-copeane,alpha-copeane,NA
 C2939,alpha-costol,alpha-costol,NA
@@ -1582,7 +1582,7 @@ C2940,alpha-cubebeno,alpha-cubebeno,NA
 C2941,alpha-cubene,alpha-cubene,NA
 C2943,alpha-cubenol,alpha-cubenol,NA
 C2944,alpha-cuparene,alpha-cuparene,NA
-C2945,"alpha-cuprenene+(e,e)-alpha-farnesene","alpha-cuprenene+(E,E)-alpha-farnesene",NA
+C2945,"alpha-cuprenene+(e,e)-alpha-farnesene",,NA
 C2946,alpha-curjunene,alpha-curjunene,NA
 C2951,alpha-decahydronaphthalene derivative,alpha-decahydronaphthalene derivative,NA
 C248,alpha-dehydro-ar-himachalene,alpha-dehydro-ar-himachalene,NA
@@ -1593,13 +1593,13 @@ C2955,alpha-elemene,alpha-elemene,NA
 C2957,alpha-epi-cadinol,alpha-epi-cadinol,NA
 C2959,alpha-eudesmol+valerianol,alpha-eudesmol+valerianol,NA
 C2960,alpha-eudesmyl acetate,alpha-eudesmyl acetate,NA
-C2962,alpha-fenchene (in mixture),alpha-fenchene (in mixture),NA
+C2962,alpha-fenchene (in mixture),,NA
 C2964,alpha-fenchol acetate,alpha-fenchol acetate,NA
 C2967,alpha-funebrene,alpha-funebrene,NA
 C2968,alpha-guaiene oxide,alpha-guaiene oxide,NA
 C2970,alpha-guaiol,alpha-guaiol,NA
 C2973,alpha-humelene,alpha-humelene,NA
-C258,alpha-humulene+(z)-methyl isoeugenol,alpha-humulene+(Z)-methyl isoeugenol,NA
+C258,alpha-humulene+(z)-methyl isoeugenol,,NA
 C2975,alpha-humuleneepoxide-i,alpha-humuleneepoxide-i,NA
 C2976,alpha-humuleneepoxide-ii,alpha-humuleneepoxide-ii,NA
 C260,alpha-isocomene,alpha-isocomene,NA
@@ -1610,7 +1610,7 @@ C2984,alpha-longifolene,alpha-longifolene,NA
 C2985,alpha-longipine,alpha-longipine,NA
 C2986,alpha-maaliene,alpha-maaliene,NA
 C2987,alpha-menthatriene,alpha-menthatriene,NA
-C2988,alpha-methyloctenol (two isomers),alpha-methyloctenol (two isomers),NA
+C2988,alpha-methyloctenol (two isomers),,NA
 C2989,alpha-murolene,alpha-murolene,NA
 C2990,alpha-murolol,alpha-murolol,NA
 C2991,alpha-murrolene,alpha-murrolene,NA
@@ -1633,12 +1633,12 @@ C3008,alpha-petasitene,alpha-petasitene,NA
 C267,alpha-phellandrene-8-ol,alpha-phellandrene-8-ol,NA
 C266,alpha-phellandrene epoxide,alpha-phellandrene epoxide,NA
 C3009,alpha-phellandrene oxide,alpha-phellandrene oxide,NA
-C3010,alpha-phellandrene+alpha-terpinene,alpha-phellandrene+alpha-terpinene,NA
+C3010,alpha-phellandrene+alpha-terpinene,,NA
 C3011,alpha-phellaplsrene,alpha-phellaplsrene,NA
 C3012,alpha-pinene + thujene,alpha-pinene + thujene,NA
 C3015,alpha-pinene oxide isomer1,alpha-pinene oxide isomer1,NA
 C269,alpha-pinene oxide isomer2,alpha-pinene oxide isomer2,NA
-C3016,alpha-pinene+alpha-thujene,alpha-pinene+alpha-thujene,NA
+C3016,alpha-pinene+alpha-thujene,,NA
 C3019,alpha-pinocaweol,alpha-pinocaweol,NA
 C3023,alpha-santalen-12-one,alpha-santalen-12-one,NA
 C3026,alpha-sedrene,alpha-sedrene,NA
@@ -1649,11 +1649,11 @@ C3029,alpha-selinen-3-one,alpha-selinen-3-one,NA
 C3030,alpha-sesquiphellandrene,alpha-sesquiphellandrene,NA
 C3033,alpha-termerone,alpha-termerone,NA
 C3034,alpha-terpenyl acetate,alpha-terpenyl acetate,NA
-C3037,"alpha-terpinene+1,4 cineole","alpha-terpinene+1,4 cineole",NA
-C3038,alpha-terpinene+p-cymene,alpha-terpinene+p-cymene,NA
+C3037,"alpha-terpinene+1,4 cineole",,NA
+C3038,alpha-terpinene+p-cymene,,NA
 C3040,alpha-terpineol bc,alpha-terpineol bc,NA
-C275,alpha-terpineol/borneol,alpha-terpineol/borneol,NA
-C3041,alpha-terpineol+borneol,alpha-terpineol+borneol,NA
+C275,alpha-terpineol/borneol,,NA
+C3041,alpha-terpineol+borneol,,NA
 C3044,alpha-terpinyl methyl ether,alpha-terpinyl methyl ether,NA
 C3047,alpha-thujanol isomer,alpha-thujanol isomer,NA
 C3048,alpha-thujenea,alpha-thujenea,NA
@@ -1690,8 +1690,8 @@ C3110,an allo-ocimene,an allo-ocimene,NA
 C3111,an amyl acetate,an amyl acetate,NA
 C3112,an amyl cinnamate (tent.),an amyl cinnamate (tent.),NA
 C3113,an amyl valerate,an amyl valerate,NA
-C3114,"an oxygenated diterpenoid, mwt = 290","an oxygenated diterpenoid, mwt = 290",NA
-C3115,an unsaturated or cyclic hydrocarbon,an unsaturated or cyclic hydrocarbon,NA
+C3114,"an oxygenated diterpenoid, mwt = 290",,NA
+C3115,an unsaturated or cyclic hydrocarbon,,NA
 C3121,angelylangelate,angelylangelate,NA
 C3128,apathulenol,apathulenol,NA
 C3129,apiol dill,apiol dill,NA
@@ -1720,7 +1720,7 @@ C3163,Aromadrendrene,Aromadrendrene,NA
 C3164,aromatic compounds,aromatic compounds,NA
 C3168,artedouglosia oxide d,artedouglosia oxide d,NA
 C3169,artemesia alcohol,artemesia alcohol,NA
-C3172,artemisia alcohol+camphenilone,artemisia alcohol+camphenilone,NA
+C3172,artemisia alcohol+camphenilone,,NA
 C293,artemisiaacetate,artemisiaacetate,NA
 C3176,artemisylacetate,artemisylacetate,NA
 C3177,artmisia ketone,artmisia ketone,NA
@@ -1740,10 +1740,10 @@ C3197,benzene dicarboxylic acid derivative,benzene dicarboxylic acid derivative,
 C3198,benzenemethanethiola,benzenemethanethiola,NA
 C3199,benzenoid compounds,benzenoid compounds,NA
 C3204,benzothiajole,benzothiajole,NA
-C3209,benzyl-2-methylbutyrate + phenylethyl isobutyrate,benzyl-2-methylbutyrate + phenylethyl isobutyrate,NA
+C3209,benzyl-2-methylbutyrate + phenylethyl isobutyrate,,NA
 C3210,benzyl-3-hydroxybutyrate,benzyl-3-hydroxybutyrate,NA
 C3223,benzyl isothiocynate,benzyl isothiocynate,NA
-C3224,benzyl isovalerate+geranyl 2-methylbutyrate,benzyl isovalerate+geranyl 2-methylbutyrate,NA
+C3224,benzyl isovalerate+geranyl 2-methylbutyrate,,NA
 C3225,benzyl isovalorate,benzyl isovalorate,NA
 C3229,benzyl salicyclate,benzyl salicyclate,NA
 C3232,benzylmethylchetone,benzylmethylchetone,NA
@@ -1766,23 +1766,23 @@ C3256,beta-biotol,beta-biotol,NA
 C3257,beta-bisabolen-12-ol,beta-bisabolen-12-ol,NA
 C3258,beta-bisabolenal,beta-bisabolenal,NA
 C3259,beta-bisabolene-12-ol,beta-bisabolene-12-ol,NA
-C3260,beta-bisabolene+bicyclogermacrene,beta-bisabolene+bicyclogermacrene,NA
+C3260,beta-bisabolene+bicyclogermacrene,,NA
 C3261,beta-bisabolenol,beta-bisabolenol,NA
-C3262,beta-bisabolol/epi-beta-bisabolol,beta-bisabolol/epi-beta-bisabolol,NA
+C3262,beta-bisabolol/epi-beta-bisabolol,,NA
 C3263,beta-bisabololoxide,beta-bisabololoxide,NA
-C3265,beta-bourbonene+geranyl acetate,beta-bourbonene+geranyl acetate,NA
+C3265,beta-bourbonene+geranyl acetate,,NA
 C3266,beta-bourbononene,beta-bourbononene,NA
 C3267,beta-bourbounene,beta-bourbounene,NA
 C3270,beta-calacarene,beta-calacarene,NA
-C3272,beta-calacorene+unknown,beta-calacorene+unknown,NA
+C3272,beta-calacorene+unknown,,NA
 C3273,beta-campholenal,beta-campholenal,NA
 C3276,beta-caryophyllene-oxide,beta-caryophyllene-oxide,NA
-C3277,beta-caryophyllene (+ beta-cedrene),beta-caryophyllene (+ beta-cedrene),NA
-C3278,beta-caryophyllene + beta-elemene,beta-caryophyllene + beta-elemene,NA
-C3279,beta-caryophyllene oxide/globulol,beta-caryophyllene oxide/globulol,NA
-C3280,beta-caryophyllene+lavandulyl acetate,beta-caryophyllene+lavandulyl acetate,NA
-C3281,beta-caryophyllene+terpinen-4-ol,beta-caryophyllene+terpinen-4-ol,NA
-C3282,beta-caryophyllene+trans-alpha-bergamotene,beta-caryophyllene+trans-alpha-bergamotene,NA
+C3277,beta-caryophyllene (+ beta-cedrene),,NA
+C3278,beta-caryophyllene + beta-elemene,,NA
+C3279,beta-caryophyllene oxide/globulol,,NA
+C3280,beta-caryophyllene+lavandulyl acetate,,NA
+C3281,beta-caryophyllene+terpinen-4-ol,,NA
+C3282,beta-caryophyllene+trans-alpha-bergamotene,,NA
 C3283,beta-caryophylleneoxide,beta-caryophylleneoxide,NA
 C3284,beta-caryophyylene,beta-caryophyylene,NA
 C3285,beta-caryopyllene,beta-caryopyllene,NA
@@ -1792,7 +1792,7 @@ C3287,beta-cedrene epoxide,beta-cedrene epoxide,NA
 C324,beta-cedreneepoxide,beta-cedreneepoxide,NA
 C3288,beta-celinene,beta-celinene,NA
 C3290,beta-chlorophyll,beta-chlorophyll,NA
-C3293,beta-citronellol + nerol,beta-citronellol + nerol,NA
+C3293,beta-citronellol + nerol,,NA
 C325,beta-copaen-4-alpha-ol,beta-copaen-4-alpha-ol,NA
 C3294,beta-copaen-4-alpha-ol isomer-i,beta-copaen-4-alpha-ol isomer-i,NA
 C3295,beta-copaen-4-beta-ol,beta-copaen-4-beta-ol,NA
@@ -1803,8 +1803,8 @@ C3299,beta-Copaen-4alpha-ol,beta-Copaen-4alpha-ol,NA
 C3300,beta-copaen4alpha-ol,beta-copaen4alpha-ol,NA
 C3428,beta -Copaene,beta-Copaene,NA
 C3301,beta-copaene-4-alpha-ol,beta-copaene-4-alpha-ol,NA
-C3303,beta-copaene+2-hexyl-cyclopropane acetic acid,beta-copaene+2-hexyl-cyclopropane acetic acid,NA
-C3306,beta-cubebene+beta-elemene,beta-cubebene+beta-elemene,NA
+C3303,beta-copaene+2-hexyl-cyclopropane acetic acid,,NA
+C3306,beta-cubebene+beta-elemene,,NA
 C3308,beta-cubebened,beta-cubebened,NA
 C3309,beta-cubenene,beta-cubenene,NA
 C3310,beta-cubenone,beta-cubenone,NA
@@ -1821,7 +1821,7 @@ C3319,beta-e-damascenone,beta-e-damascenone,NA
 C3320,beta-eksantalal,beta-eksantalal,NA
 C3321,beta-elaskene,beta-elaskene,NA
 C3322,beta-elememe,beta-elememe,NA
-C3323,beta-elemene + terpinen-4-ol,beta-elemene + terpinen-4-ol,NA
+C3323,beta-elemene + terpinen-4-ol,,NA
 C3324,beta-elemene isomer,beta-elemene isomer,NA
 C3327,beta-elemol,beta-elemol,NA
 C3328,beta-elmene,beta-elmene,NA
@@ -1839,7 +1839,7 @@ C3340,beta-funebrene,beta-funebrene,NA
 C3342,beta-germacrenol,beta-germacrenol,NA
 C3343,beta-giurjunene,beta-giurjunene,NA
 C3344,beta-guaiaene,beta-guaiaene,NA
-C3345,beta-guaiene+alpha-humulene,beta-guaiene+alpha-humulene,NA
+C3345,beta-guaiene+alpha-humulene,,NA
 C3346,beta-guainene,beta-guainene,NA
 C3347,beta-gujunene,beta-gujunene,NA
 C3348,beta-gurgunene,beta-gurgunene,NA
@@ -1871,26 +1871,26 @@ C3381,beta-phallandrene,beta-phallandrene,NA
 C3382,beta-phelandrene,beta-phelandrene,NA
 C3383,beta-phellanderene,beta-phellanderene,NA
 C3384,beta-phellandren-8-ol,beta-phellandren-8-ol,NA
-C3385,beta-phellandrene/limonene,beta-phellandrene/limonene,NA
-C3386,"beta-phellandrene+1,8-cineole","beta-phellandrene+1,8-cineole",NA
-C347,beta-phellandrene+limonene,beta-phellandrene+limonene,NA
-C3387,beta-phellandrene+limonenec,beta-phellandrene+limonenec,NA
+C3385,beta-phellandrene/limonene,,NA
+C3386,"beta-phellandrene+1,8-cineole",,NA
+C347,beta-phellandrene+limonene,,NA
+C3387,beta-phellandrene+limonenec,,NA
 C3389,beta-phenethyl alcohol,beta-phenethyl alcohol,NA
 C348,beta-phenyl-ethyl acetate,beta-phenyl-ethyl acetate,NA
 C3390,beta-pinene-ms,beta-pinene-ms,NA
-C3392,beta-pinene+6-methyl-5-hepten-3-one,beta-pinene+6-methyl-5-hepten-3-one,NA
-C3393,beta-pinene+myrcene,beta-pinene+myrcene,NA
-C3394,beta-pinene+sabinene,beta-pinene+sabinene,NA
+C3392,beta-pinene+6-methyl-5-hepten-3-one,,NA
+C3393,beta-pinene+myrcene,,NA
+C3394,beta-pinene+sabinene,,NA
 C3397,beta-sabinene,beta-sabinene,NA
 C3398,beta-sabinine,beta-sabinine,NA
 C3399,beta-salinene,beta-salinene,NA
 C351,beta-sanatalene,beta-sanatalene,NA
-C3402,beta-santalene+allo-aromadendrene,beta-santalene+allo-aromadendrene,NA
+C3402,beta-santalene+allo-aromadendrene,,NA
 C3404,beta-satalene,beta-satalene,NA
 C3405,beta-sedrene,beta-sedrene,NA
 C3406,beta-selenine,beta-selenine,NA
 C3407,beta-selinene epoxide,beta-selinene epoxide,NA
-C3408,beta-selinene/beta-ionone,beta-selinene/beta-ionone,NA
+C3408,beta-selinene/beta-ionone,,NA
 C3409,beta-selinone,beta-selinone,NA
 C3410,beta-sesquiphelandrene,beta-sesquiphelandrene,NA
 C3411,beta-silinene,beta-silinene,NA
@@ -1926,7 +1926,7 @@ C3461,"bicyclo[3.2.1]oct-2-ene,3-methyl-4-methylene","bicyclo[3.2.1]oct-2-ene,3-
 C3462,bicyclodegermacrene,bicyclodegermacrene,NA
 C3463,bicyclofermacrene,bicyclofermacrene,NA
 C3464,bicyclogemacrene,bicyclogemacrene,NA
-C3466,bicyclogermacrene+epi-cubenol,bicyclogermacrene+epi-cubenol,NA
+C3466,bicyclogermacrene+epi-cubenol,,NA
 C3467,bicyclogerrnacrene,bicyclogerrnacrene,NA
 C3468,bicyclogetmacrene,bicyclogetmacrene,NA
 C3470,bifloratriene,bifloratriene,NA
@@ -1939,14 +1939,14 @@ C3478,"bisabola-2,10-dien-6,13-diol","bisabola-2,10-dien-6,13-diol",NA
 C3481,bisabolol oxide,bisabolol oxide,NA
 C3484,bisabolone,bisabolone,NA
 C3486,Bornel,Bornel,NA
-C3487,borneol + linalool oxide (pyranoid),borneol + linalool oxide (pyranoid),NA
+C3487,borneol + linalool oxide (pyranoid),,NA
 C3491,borneol? acetate,borneol acetate,NA
 C3488,"borneol, acetate","borneol, acetate",NA
-C3489,"borneol/p-mentha-1,5-dien-8-ol","borneol/p-mentha-1,5-dien-8-ol",NA
-C3490,borneol+delta-terpineol,borneol+delta-terpineol,NA
+C3489,"borneol/p-mentha-1,5-dien-8-ol",,NA
+C3490,borneol+delta-terpineol,,NA
 C3492,borneole,borneole,NA
 C3493,bornyl-2-methylbutyrate,bornyl-2-methylbutyrate,NA
-C3501,bornyl/isobornyl acetate,bornyl/isobornyl acetate,NA
+C3501,bornyl/isobornyl acetate,,NA
 C3503,bornylacetate,bornylacetate,NA
 C3506,bourbonanol,bourbonanol,NA
 C3507,bourbonene,bourbonene,NA
@@ -1982,7 +1982,7 @@ C3561,"cadina-1,4-dien-3-ol","cadina-1,4-dien-3-ol",NA
 C367,"cadina-1,4-diene","cadina-1,4-diene",NA
 C3562,"cadina-1,4-diene (=cubenene)","cadina-1,4-diene (=cubenene)",NA
 C3563,"cadina-1,4-diene (cubenene)","cadina-1,4-diene (cubenene)",NA
-C368,"cadina-1,4-diene+alpha-calacorene","cadina-1,4-diene+alpha-calacorene",NA
+C368,"cadina-1,4-diene+alpha-calacorene",,NA
 C3564,"cadina-1,4 diene","cadina-1,4 diene",NA
 C3565,"cadina-3,5-dien","cadina-3,5-dien",NA
 C3566,"cadina-3,5-diene","cadina-3,5-diene",NA
@@ -2015,7 +2015,7 @@ C3590,"calamene-1,11-oxide","calamene-1,11-oxide",NA
 C3591,calamenediol,calamenediol,NA
 C3592,calamenen,calamenen,NA
 C3593,"calamenen-1,11-epoxide","calamenen-1,11-epoxide",NA
-C3594,calamenene (cis+trans),calamenene (cis+trans),NA
+C3594,calamenene (cis+trans),,NA
 C3595,calamenene+geraniol,calamenene+geraniol,NA
 C3596,calamenenea,calamenenea,NA
 C3597,calamenenol,calamenenol,NA
@@ -2029,7 +2029,7 @@ C3604,calyophylla-2(12)-6(13)-dien-5beta-ol,calyophylla-2(12)-6(13)-dien-5beta-o
 C3605,cameroonal-7-alpha-ol,cameroonal-7-alpha-ol,NA
 C3606,camorphene,camorphene,NA
 C3607,camphen,camphen,NA
-C3609,camphene+verbenene,camphene+verbenene,NA
+C3609,camphene+verbenene,,NA
 C377,camphenehydrate,camphenehydrate,NA
 C3611,camphenol,camphenol,NA
 C3612,camphenone,camphenone,NA
@@ -2138,16 +2138,16 @@ C3734,caryophyllene epoxide ii,caryophyllene epoxide ii,NA
 C3735,caryophyllene oxide-i,caryophyllene oxide-i,NA
 C3736,caryophyllene oxide-ii,caryophyllene oxide-ii,NA
 C3737,caryophyllene oxide (os),caryophyllene oxide (os),NA
-C3738,Caryophyllene oxide +globulol,Caryophyllene oxide +globulol,NA
+C3738,Caryophyllene oxide +globulol,,NA
 C3739,caryophyllene oxide b,caryophyllene oxide b,NA
 C3740,caryophyllene oxide d,caryophyllene oxide d,NA
 C3741,caryophyllene oxide isomer,caryophyllene oxide isomer,NA
-C3742,caryophyllene oxide+globulol,caryophyllene oxide+globulol,NA
+C3742,caryophyllene oxide+globulol,,NA
 C396,caryophyllenol-i,caryophyllenol-i,NA
 C397,caryophyllenol-ii,caryophyllenol-ii,NA
 C398,caryophyllenoxide,caryophyllenoxide,NA
 C3744,caryophylline-(i3),caryophylline-(i3),NA
-C3745,caryothyllene+it's oxide,caryothyllene+it's oxide,NA
+C3745,caryothyllene+it's oxide,,NA
 C3746,"caryphylla-2(12),6-diene-5-beta-ol","caryphylla-2(12),6-diene-5-beta-ol",NA
 C3747,"caryphylla-2(12),6(13)-dien-5-alpha-ol","caryphylla-2(12),6(13)-dien-5-alpha-ol",NA
 C3748,"caryphylla-2(12),6(13)-diene-5-beta-ol","caryphylla-2(12),6(13)-diene-5-beta-ol",NA
@@ -2173,7 +2173,7 @@ C3776,chiiotasigma-calamenene,chiiotasigma-calamenene,NA
 C3780,chyrsanthenone,chyrsanthenone,NA
 C3791,cinnamyle acetate,cinnamyle acetate,NA
 C3792,cis-(z)-alpha-bisabolene epoxide,cis-(Z)-alpha-bisabolene epoxide,NA
-C3793,cis-/trans-calamenene,cis-/trans-calamenene,NA
+C3793,cis-/trans-calamenene,,NA
 C3794,cis-1-methyl-3-isopropyl-cyclopentane,cis-1-methyl-3-isopropyl-cyclopentane,NA
 C3795,cis-1-methyl-4(1-methylethenyl) cyclohexane,cis-1-methyl-4(1-methylethenyl) cyclohexane,NA
 C3796,"cis-1,2-epoxyterpinen-4-ol","cis-1,2-epoxyterpinen-4-ol",NA
@@ -2198,8 +2198,8 @@ C3819,"cis-6,7-epoxyocimene","cis-6,7-epoxyocimene",NA
 C3821,cis-allo-ocimene,cis-allo-ocimene,NA
 C3822,cis-alpha-bergamoten,cis-alpha-bergamoten,NA
 C407,cis-alpha-bergamotene,cis-alpha-bergamotene,NA
-C3824,cis-alpha-bergamotene ? a-cedrene,cis-alpha-bergamotene + a-cedrene,NA
-C3823,cis-alpha-bergamotene +? alpha-cedrene,cis-alpha-bergamotene + alpha-cedrene,NA
+C3824,cis-alpha-bergamotene ? a-cedrene,,NA
+C3823,cis-alpha-bergamotene +? alpha-cedrene,,NA
 C3825,cis-alpha-bergamotenea,cis-alpha-bergamotenea,NA
 C3826,cis-alpha-bergamotol,cis-alpha-bergamotol,NA
 C3827,cis-alpha-bergaotene,cis-alpha-bergaotene,NA
@@ -2271,7 +2271,7 @@ C3907,cis-lachnophyllumester,cis-lachnophyllumester,NA
 C3909,cis-limonene,cis-limonene,NA
 C3910,cis-limonene oxide,cis-limonene oxide,NA
 C426,cis-limoneneoxide,cis-limoneneoxide,NA
-C3911,"cis-limoneneoxide+cis-p-mentha-2,8-dien-1-ol","cis-limoneneoxide+cis-p-mentha-2,8-dien-1-ol",NA
+C3911,"cis-limoneneoxide+cis-p-mentha-2,8-dien-1-ol",,NA
 C3912,cis-linalool,cis-linalool,NA
 C3917,cis-linalool oxidec,cis-linalool oxidec,NA
 C427,cis-linalooloxide,cis-linalooloxide,NA
@@ -2350,32 +2350,32 @@ C3995,cis-piperitylacetate,cis-piperitylacetate,NA
 C3998,cis-rosefuran,cis-rosefuran,NA
 C3999,cis-roseoxide,cis-roseoxide,NA
 C4000,cis-sabenene acetate,cis-sabenene acetate,NA
-C4001,cis-sabinene hydrate/linalool,cis-sabinene hydrate/linalool,NA
-C4002,cis-sabinene hydrate+linalool,cis-sabinene hydrate+linalool,NA
+C4001,cis-sabinene hydrate/linalool,,NA
+C4002,cis-sabinene hydrate+linalool,,NA
 C4004,cis-sabinine hydrate,cis-sabinine hydrate,NA
-C4005,cis-sabinol+methylsalicylate,cis-sabinol+methylsalicylate,NA
+C4005,cis-sabinol+methylsalicylate,,NA
 C4007,cis-salvene,cis-salvene,NA
 C4010,"cis-tent-muurola-3,5-diene","cis-tent-muurola-3,5-diene",NA
 C4013,cis-thujan-4-ol,cis-thujan-4-ol,NA
 C4015,cis-thujopsenal,cis-thujopsenal,NA
 C4018,cis-valerenylacetate,cis-valerenylacetate,NA
 C4019,cis-verbena1,cis-verbena1,NA
-C4020,cis-verbenol+trans-sabinol,cis-verbenol+trans-sabinol,NA
+C4020,cis-verbenol+trans-sabinol,,NA
 C4021,cis-vertocitral,cis-vertocitral,NA
 C4022,cis-z-alpha-bisabolene epoxide,cis-z-alpha-bisabolene epoxide,NA
 C4026,citonellal,citonellal,NA
 C4027,citonellol,citonellol,NA
 C4028,citonellyl formate,citonellyl formate,NA
-C4030,citral(neral+geranial),citral(neral+geranial),NA
+C4030,citral(neral+geranial),,NA
 C446,citralc,citralc,NA
 C4031,citranellal,citranellal,NA
 C4032,citranellol,citranellol,NA
 C4033,citronella1,citronella1,NA
 C4034,citronellal dimmer,citronellal dimmer,NA
-C4035,citronellol+nerol,citronellol+nerol,NA
+C4035,citronellol+nerol,,NA
 C4036,citronellyl,citronellyl,NA
 C4037,citronellyl angelate,citronellyl angelate,NA
-C4038,"citronellyl butyrate + trans-cadina-1(2),4-diene","citronellyl butyrate + trans-cadina-1(2),4-diene",NA
+C4038,"citronellyl butyrate + trans-cadina-1(2),4-diene",,NA
 C4044,citronnellyl acetate,citronnellyl acetate,NA
 C4045,citronnellyl butyrate,citronnellyl butyrate,NA
 C4046,citronnellylformiate,citronnellylformiate,NA
@@ -2459,7 +2459,7 @@ C4180,dehydroxy-trans-linalooloxide,dehydroxy-trans-linalooloxide,NA
 C485,delta-2-carene,delta-2-carene,NA
 C4182,"delta-2-carene + p-mentha-1(7),8-diene","delta-2-carene + p-mentha-1(7),8-diene",NA
 C4184,delta-3-cadinene,delta-3-cadinene,NA
-C4185,delta-3-carene+1-octen-3-ol,delta-3-carene+1-octen-3-ol,NA
+C4185,delta-3-carene+1-octen-3-ol,,NA
 C4186,delta-3-elemene,delta-3-elemene,NA
 C4187,"delta-7,8-ar-himachalene","delta-7,8-ar-himachalene",NA
 C4189,"delta-9,10-eremophilen-11-ol","delta-9,10-eremophilen-11-ol",NA
@@ -2482,7 +2482,7 @@ C4207,delta-eudesmol,delta-eudesmol,NA
 C4208,delta-farnesene,delta-farnesene,NA
 C4209,delta-fenchol,delta-fenchol,NA
 C4210,delta-guaiacol,delta-guaiacol,NA
-C4211,delta-guaiacol/p-cymenene,delta-guaiacol/p-cymenene,NA
+C4211,delta-guaiacol/p-cymenene,,NA
 C4212,delta-guaiaene,delta-guaiaene,NA
 C4214,delta-guaiol,delta-guaiol,NA
 C4215,delta-gurjunene,delta-gurjunene,NA
@@ -2492,7 +2492,7 @@ C4219,delta-phellandrene,delta-phellandrene,NA
 C493,delta-pinene,delta-pinene,NA
 C4220,delta-sesquiphellandrene,delta-sesquiphellandrene,NA
 C4221,delta-tepineol,delta-tepineol,NA
-C4223,delta-terpineol+borneol,delta-terpineol+borneol,NA
+C4223,delta-terpineol+borneol,,NA
 C4225,delta-thujone,delta-thujone,NA
 C4226,delta-verbenone,delta-verbenone,NA
 C4228,delta 3-carene,delta 3-carene,NA
@@ -2540,7 +2540,7 @@ C4305,dihydrogalangal acetate,dihydrogalangal acetate,NA
 C504,dihydroisochromolaenin,dihydroisochromolaenin,NA
 C4307,dihydropinocarvone,dihydropinocarvone,NA
 C4308,dihydropofarnesal,dihydropofarnesal,NA
-C4309,dihydrotagetone+(e)-beta-ocimene,dihydrotagetone+(E)-beta-ocimene,NA
+C4309,dihydrotagetone+(e)-beta-ocimene,,NA
 C4310,"diidromircene,1,6-diol-z","diidromircene,1,6-diol-z",NA
 C4311,diisobutyl-phthalate,diisobutyl-phthalate,NA
 C4314,dimethoxy-1-methylnaphthalene,dimethoxy-1-methylnaphthalene,NA
@@ -2586,7 +2586,7 @@ C4390,"elemene-8-beta-,11-diol","elemene-8-beta-,11-diol",NA
 C4391,elemene? isomer,elemene isomer,NA
 C4393,elemeol,elemeol,NA
 C4395,elemol acetate,elemol acetate,NA
-C520,elemol/hedycaryol,elemol/hedycaryol,NA
+C520,elemol/hedycaryol,,NA
 C4396,elimicin,elimicin,NA
 C4397,elsholtzia oxide,elsholtzia oxide,NA
 C4398,elshotziadiol,elshotziadiol,NA
@@ -2613,7 +2613,7 @@ C4425,epi-beta-eudesmol(ii),epi-beta-eudesmol(ii),NA
 C4426,epi-beta-santalol,epi-beta-santalol,NA
 C4444,epi ? bicyclosesquiphellandren,epi-bicyclosesquiphellandren,NA
 C4427,epi-bicyclosesquiphellandrenea,epi-bicyclosesquiphellandrenea,NA
-C4430,epi-cubebol+ethyl-3-phenyl-propionate,epi-cubebol+ethyl-3-phenyl-propionate,NA
+C4430,epi-cubebol+ethyl-3-phenyl-propionate,,NA
 C4431,epi-curzenone,epi-curzenone,NA
 C4432,epi-curzerenone,epi-curzerenone,NA
 C4433,epi-cyclosantalal,epi-cyclosantalal,NA
@@ -2702,7 +2702,7 @@ C4584,"eudesma alpha-4(15),7-dien-1-beta-ol","eudesma alpha-4(15),7-dien-1-beta-
 C4585,"eudesma alpha-4(15),7-dien-4-beta-ol","eudesma alpha-4(15),7-dien-4-beta-ol",NA
 C4586,"eudesmalpha-4(15),7-dien-1beta-ol isomer","eudesmalpha-4(15),7-dien-1beta-ol isomer",NA
 C556,eudesmol,eudesmol,NA
-C4587,eugenol [+ (e)-ethyl cinnamate],eugenol [+ (E)-ethyl cinnamate],NA
+C4587,eugenol [+ (e)-ethyl cinnamate],,NA
 C4589,eugenol b,eugenol b,NA
 C4593,eugenyl acetone,eugenyl acetone,NA
 C4594,eugenyl butyrate,eugenyl butyrate,NA
@@ -2749,11 +2749,11 @@ C4657,g-terpinene,g-terpinene,NA
 C4658,gama-cadinene,gama-cadinene,NA
 C4659,gamma-2-cadinene,gamma-2-cadinene,NA
 C4660,gamma-3-carene,gamma-3-carene,NA
-C4661,gamma-acoradiene+alpha-alaskene,gamma-acoradiene+alpha-alaskene,NA
+C4661,gamma-acoradiene+alpha-alaskene,,NA
 C569,gamma-amorphene,gamma-amorphene,NA
-C4664,gamma-bisabolene+delta-cadinene,gamma-bisabolene+delta-cadinene,NA
+C4664,gamma-bisabolene+delta-cadinene,,NA
 C4666,gamma-cadiene,gamma-cadiene,NA
-C4667,gamma-cadinene+cubenol,gamma-cadinene+cubenol,NA
+C4667,gamma-cadinene+cubenol,,NA
 C4668,gamma-cadinol,gamma-cadinol,NA
 C4713,gamma–cadinone,gamma-cadinone,NA
 C4671,gamma-campholene? aldehyde,gamma-campholene aldehyde,NA
@@ -2764,7 +2764,7 @@ C4674,gamma-cis-bisabolene,gamma-cis-bisabolene,NA
 C4675,gamma-costol,gamma-costol,NA
 C4676,gamma-cuprenene,gamma-cuprenene,NA
 C4677,gamma-curcumenal,gamma-curcumenal,NA
-C4710,gamma -curcumene ?+ ar-curcumene,gamma-curcumene + ar-curcumene,NA
+C4710,gamma -curcumene ?+ ar-curcumene,,NA
 C4678,gamma-curcurnene,gamma-curcurnene,NA
 C572,gamma-dehydro-ar-himachalene,gamma-dehydro-ar-himachalene,NA
 C4680,gamma-dehydro-delta-ar-himachalene,gamma-dehydro-delta-ar-himachalene,NA
@@ -2780,8 +2780,8 @@ C4695,gamma-tepinene,gamma-tepinene,NA
 C4696,gamma-terpene,gamma-terpene,NA
 C4698,gamma-terpinen-7-al,gamma-terpinen-7-al,NA
 C4699,gamma-terpinene-7-al,gamma-terpinene-7-al,NA
-C4700,"gamma-terpinene+3,4,4-trimethyl-5-hexen-2-one","gamma-terpinene+3,4,4-trimethyl-5-hexen-2-one",NA
-C4701,gamma-terpineol+trans-piperitol,gamma-terpineol+trans-piperitol,NA
+C4700,"gamma-terpinene+3,4,4-trimethyl-5-hexen-2-one",,NA
+C4701,gamma-terpineol+trans-piperitol,,NA
 C4702,gamma-terpinolene,gamma-terpinolene,NA
 C4707,gamma-vetivenene,gamma-vetivenene,NA
 C4708,gamma-vinyl-gamma-valerolactone,gamma-vinyl-gamma-valerolactone,NA
@@ -2796,17 +2796,17 @@ C4718,geijerene isomer,geijerene isomer,NA
 C4719,geranal (e),geranal (E),NA
 C4720,geranal (z),geranal (Z),NA
 C4721,geraniaceae,geraniaceae,NA
-C4722,geranial (in mixture with mw:184),geranial (in mixture with mw:184),NA
-C4723,geranial+perillaldehyde,geranial+perillaldehyde,NA
-C4725,geranic acid+alpha-cubebene,geranic acid+alpha-cubebene,NA
+C4722,geranial (in mixture with mw:184),,NA
+C4723,geranial+perillaldehyde,,NA
+C4725,geranic acid+alpha-cubebene,,NA
 C4726,geranio,geranio,NA
 C4727,geranioal,geranioal,NA
-C4728,geraniol (in mixture),geraniol (in mixture),NA
+C4728,geraniol (in mixture),,NA
 C4729,geraniol (z),geraniol (Z),NA
 C4731,geraniol hexanoate,geraniol hexanoate,NA
-C4732,geraniol+calamenene,geraniol+calamenene,NA
-C4733,geraniol+carvacrol,geraniol+carvacrol,NA
-C4734,geraniol+cis-piperitoneoxide,geraniol+cis-piperitoneoxide,NA
+C4732,geraniol+calamenene,,NA
+C4733,geraniol+carvacrol,,NA
+C4734,geraniol+cis-piperitoneoxide,,NA
 C597,geranyl-2-methylbutyrate,geranyl-2-methylbutyrate,NA
 C4736,geranyl-n-valerate,geranyl-n-valerate,NA
 C4737,geranyl acetate-ms,geranyl acetate-ms,NA
@@ -2843,9 +2843,9 @@ C4783,germacrene d-4-beta-ol,germacrene d-4-beta-ol,NA
 C4784,germacrene d-4-o1,germacrene d-4-o1,NA
 C601,germacrene d 4-ol,germacrene d 4-ol,NA
 C4785,germacrene d isomer 3,germacrene d isomer 3,NA
-C4786,germacrene d+(e)-beta-ionone,germacrene d+(E)-beta-ionone,NA
-C4787,germacrene d+gamma-curcumene,germacrene d+gamma-curcumene,NA
-C4788,germacrene d+gamma-muurolene,germacrene d+gamma-muurolene,NA
+C4786,germacrene d+(e)-beta-ionone,,NA
+C4787,germacrene d+gamma-curcumene,,NA
+C4788,germacrene d+gamma-muurolene,,NA
 C4789,"germacrene d1,10-epoxide","germacrene d1,10-epoxide",NA
 C4790,germacrene da,germacrene da,NA
 C4791,germacrene oxide .,germacrene oxide .,NA
@@ -2853,8 +2853,8 @@ C604,germacrene0d,germacrene0d,NA
 C4795,germecrene d,germecrene d,NA
 C4796,gernayl acetate,gernayl acetate,NA
 C4797,geyrene,geyrene,NA
-C4799,gleenol+(e)-nerolidol,gleenol+(E)-nerolidol,NA
-C609,globulol+unknown,globulol+unknown,NA
+C4799,gleenol+(e)-nerolidol,,NA
+C609,globulol+unknown,,NA
 C4800,glonulol,glonulol,NA
 C4801,gossonosol,gossonosol,NA
 C4803,guai-5-en-11-ol,guai-5-en-11-ol,NA
@@ -2875,7 +2875,7 @@ C4817,"guaialpha-6,9-diene","guaialpha-6,9-diene",NA
 C4819,guaien-4-ol,guaien-4-ol,NA
 C614,guaiol isomer,guaiol isomer,NA
 C615,"guaiol isomer f,g","guaiol isomer f,g",NA
-C4821,guaiol+2-tetradecanone,guaiol+2-tetradecanone,NA
+C4821,guaiol+2-tetradecanone,,NA
 C4822,guaiolacetate,guaiolacetate,NA
 C4824,"guala-6,9-diene","guala-6,9-diene",NA
 C4825,gualol,gualol,NA
@@ -2902,7 +2902,7 @@ C4864,heptyl hexanoate+dodecanol,heptyl hexanoate+dodecanol,NA
 C4866,heptyl isothiocynate,heptyl isothiocynate,NA
 C4867,heptyl lisothiocyanate,heptyl lisothiocyanate,NA
 C4869,heptyl phenyl propionate,heptyl phenyl propionate,NA
-C4877,hexadecane+sesquiterpene alcohol,hexadecane+sesquiterpene alcohol,NA
+C4877,hexadecane+sesquiterpene alcohol,,NA
 C628,hexadecanoic0acid,hexadecanoic0acid,NA
 C4879,"hexadecanol, 2-methyl","hexadecanol, 2-methyl",NA
 C4881,hexahydro farnesyl acetone,hexahydro farnesyl acetone,NA
@@ -2916,15 +2916,15 @@ C4893,hexenol,hexenol,NA
 C644,hexyl-2-methyl butyrate,hexyl-2-methyl butyrate,NA
 C4895,hexyl-3-isovalerate,hexyl-3-isovalerate,NA
 C4896,hexyl-3-methyl butyrate,hexyl-3-methyl butyrate,NA
-C4897,hexyl-3-methyl butyrate+(z)-anethole,hexyl-3-methyl butyrate+(Z)-anethole,NA
+C4897,hexyl-3-methyl butyrate+(z)-anethole,,NA
 C4915,hexyl? n-valerate,hexyl-n-valerate,NA
 C4904,hexyl cn,hexyl cn,NA
-C4907,hexyl isobutyrate+pinocarvone,hexyl isobutyrate+pinocarvone,NA
+C4907,hexyl isobutyrate+pinocarvone,,NA
 C4908,hexyl isobutyroate,hexyl isobutyroate,NA
 C4909,hexyl isothiocynate,hexyl isothiocynate,NA
-C4910,hexyl isovalerate+methyl carvacrol,hexyl isovalerate+methyl carvacrol,NA
+C4910,hexyl isovalerate+methyl carvacrol,,NA
 C4911,hexyl isovalevate,hexyl isovalevate,NA
-C4912,hexyl pentanoate+(z)-4-octenyl propionate,hexyl pentanoate+(Z)-4-octenyl propionate,NA
+C4912,hexyl pentanoate+(z)-4-octenyl propionate,,NA
 C4917,himachalene oxide,himachalene oxide,NA
 C4919,hinesol acetate,hinesol acetate,NA
 C4920,hinesul,hinesul,NA
@@ -3024,7 +3024,7 @@ C5082,isocamphene,isocamphene,NA
 C5083,isocarone,isocarone,NA
 C5084,isocarvacarol,isocarvacarol,NA
 C5085,isocarvacrol,isocarvacrol,NA
-C5086,isocaryophyllene+beta-caryophyllene,isocaryophyllene+beta-caryophyllene,NA
+C5086,isocaryophyllene+beta-caryophyllene,,NA
 C5088,isocaryophylleneoxide,isocaryophylleneoxide,NA
 C5089,isocaryopyllene oxide,isocaryopyllene oxide,NA
 C5090,isocatyophyllene,isocatyophyllene,NA
@@ -3074,9 +3074,9 @@ C5167,isopinocarnphone,isopinocarnphone,NA
 C5168,isopinocarvone,isopinocarvone,NA
 C5169,isopipentenone,isopipentenone,NA
 C5171,isopiperitenol i,isopiperitenol i,NA
-C5172,isopiperitenol ii+trans-carveol,isopiperitenol ii+trans-carveol,NA
+C5172,isopiperitenol ii+trans-carveol,,NA
 C5173,isopiperitenone oxide,isopiperitenone oxide,NA
-C5175,isopipertenol ii+trans-carveol,isopipertenol ii+trans-carveol,NA
+C5175,isopipertenol ii+trans-carveol,,NA
 C5176,isoprenyl tiglate,isoprenyl tiglate,NA
 C5179,isopropyl-2-methylbutyrate,isopropyl-2-methylbutyrate,NA
 C5180,isopropyl-3-methylbutyrate,isopropyl-3-methylbutyrate,NA
@@ -3084,7 +3084,7 @@ C5181,isopropyl-n-butyrate,isopropyl-n-butyrate,NA
 C5183,isopropyl angelate,isopropyl angelate,NA
 C5193,isopropyl senecionate,isopropyl senecionate,NA
 C5196,isopulegone oxide,isopulegone oxide,NA
-C5197,isopulegyl acetate+citronellyl formate,isopulegyl acetate+citronellyl formate,NA
+C5197,isopulegyl acetate+citronellyl formate,,NA
 C5199,isornenthol,isornenthol,NA
 C686,isosylvestrene,isosylvestrene,NA
 C5206,isothujyl alcohol,isothujyl alcohol,NA
@@ -3146,8 +3146,8 @@ C5297,lilac aldehyde isomer a,lilac aldehyde isomer a,NA
 C5298,lilac aldehyde isomer b,lilac aldehyde isomer b,NA
 C5303,limonene diol,limonene diol,NA
 C5306,limonene oxide c,limonene oxide c,NA
-C5307,limonene(~25%)+beta-phellandrene(~75%),limonene(~25%)+beta-phellandrene(~75%),NA
-C5308,limonene(~85%)+beta-phellandrene(~15%),limonene(~85%)+beta-phellandrene(~15%),NA
+C5307,limonene(~25%)+beta-phellandrene(~75%),,NA
+C5308,limonene(~85%)+beta-phellandrene(~15%),,NA
 C5309,"limonene+1,8-cineole","limonene+1,8-cineole",NA
 C699,limonene+beta-phellandrene,limonene+beta-phellandrene,NA
 C5310,limonene+beta phellandrene,limonene+beta phellandrene,NA
@@ -3163,7 +3163,7 @@ C5319,linalool oxide (pyranoid) ii,linalool oxide (pyranoid) ii,NA
 C5331,linalool? oxide? a? (furanoid),linalool oxide a (furanoid),NA
 C5332,linalool? oxide? b? (furanoid),linalool oxide b (furanoid),NA
 C5324,linalool oxide i (pyr.),linalool oxide i (pyr.),NA
-C5325,linalool oxide ii (pyr.) (+ 2-phenylethyl acetate),linalool oxide ii (pyr.) (+ 2-phenylethyl acetate),NA
+C5325,linalool oxide ii (pyr.) (+ 2-phenylethyl acetate),,NA
 C5326,linalool oxidee,linalool oxidee,NA
 C5327,linalool oxidef,linalool oxidef,NA
 C5328,linalool+alpha-campholenic aldehyde,linalool+alpha-campholenic aldehyde,NA
@@ -3171,8 +3171,8 @@ C5329,linalool+linalylacetate,linalool+linalylacetate,NA
 C5330,linalool+trans-sabinenehydrate,linalool+trans-sabinenehydrate,NA
 C5340,linaool,linaool,NA
 C5342,linoleic acid/linolenic acid,linoleic acid/linolenic acid,NA
-C5343,linoleic acid/osthole,linoleic acid/osthole,NA
-C5344,linoleic acid+osthole,linoleic acid+osthole,NA
+C5343,linoleic acid/osthole,,NA
+C5344,linoleic acid+osthole,,NA
 C5346,linolenic acids,linolenic acids,NA
 C5348,linylacetate,linylacetate,NA
 C5349,lionoleic acid,lionoleic acid,NA
@@ -3212,9 +3212,9 @@ C5401,mentha-2-en-1-ol,mentha-2-en-1-ol,NA
 C5402,"mentha-2,8-diene","mentha-2,8-diene",NA
 C5403,"mentha-2,8-dienes","mentha-2,8-dienes",NA
 C5405,menthen-9-al,menthen-9-al,NA
-C5406,menthol+neoisomenthol,menthol+neoisomenthol,NA
-C5407,menthol+terpinen-4-ol +p-cymen-8-ol,menthol+terpinen-4-ol +p-cymen-8-ol,NA
-C5408,menthone+butylangelate,menthone+butylangelate,NA
+C5406,menthol+neoisomenthol,,NA
+C5407,menthol+terpinen-4-ol +p-cymen-8-ol,,NA
+C5408,menthone+butylangelate,,NA
 C5411,menthyl thymol,menthyl thymol,NA
 C5413,mesitylene isomer,mesitylene isomer,NA
 C5414,mesytilene,mesytilene,NA
@@ -3284,7 +3284,7 @@ C5504,methyl caracrol,methyl caracrol,NA
 C5505,methyl carvacrol ether,methyl carvacrol ether,NA
 C734,methyl cyclopentanone,methyl cyclopentanone,NA
 C5510,methyl dibenzothiophene,methyl dibenzothiophene,NA
-C5512,methyl dodecanoate+unknown,methyl dodecanoate+unknown,NA
+C5512,methyl dodecanoate+unknown,,NA
 C5515,methyl eugenol derivative,methyl eugenol derivative,NA
 C5516,methyl eugenol*,methyl eugenol*,NA
 C5522,methyl heptadecane,methyl heptadecane,NA
@@ -3350,18 +3350,18 @@ C5627,muurolene-14-oxy-alpha,muurolene-14-oxy-alpha,NA
 C5628,muurolol,muurolol,NA
 C5629,myrcene-8-ol,myrcene-8-ol,NA
 C5630,myrcene-8-yl acetate,myrcene-8-yl acetate,NA
-C5631,myrcene + alpha-phellandrene,myrcene + alpha-phellandrene,NA
-C5632,myrcene+3-octanol,myrcene+3-octanol,NA
+C5631,myrcene + alpha-phellandrene,,NA
+C5632,myrcene+3-octanol,,NA
 C5633,myrcenene,myrcenene,NA
 C5636,myrene,myrene,NA
 C5637,myrigalone,myrigalone,NA
 C5639,myristic acid 2679,myristic acid 2679,NA
-C5641,myrtenal + isoamyl tiglate,myrtenal + isoamyl tiglate,NA
-C5642,myrtenal + myrtenol,myrtenal + myrtenol,NA
+C5641,myrtenal + isoamyl tiglate,,NA
+C5642,myrtenal + myrtenol,,NA
 C5643,myrtenal acetate,myrtenal acetate,NA
-C5644,myrtenal+myrtenol,myrtenal+myrtenol,NA
-C756,myrtenol + myrtenal,myrtenol + myrtenal,NA
-C5645,myrtenol+beta-cuprenene,myrtenol+beta-cuprenene,NA
+C5644,myrtenal+myrtenol,,NA
+C756,myrtenol + myrtenal,,NA
+C5645,myrtenol+beta-cuprenene,,NA
 C5646,myrtenole,myrtenole,NA
 C5649,mytenol,mytenol,NA
 C5650,mytenyl acetate,mytenyl acetate,NA
@@ -3396,9 +3396,9 @@ C5715,neo-iso(iso)pulegyl acetate,neo-iso(iso)pulegyl acetate,NA
 C5716,neo-isodihydrocarveol,neo-isodihydrocarveol,NA
 C5717,neo-isodihydrocarvyl acetate,neo-isodihydrocarvyl acetate,NA
 C6938,neo-isomenthol,neo-isomenthol,NA
-C5718,neo-isomenthol+alpha-terpineol,neo-isomenthol+alpha-terpineol,NA
+C5718,neo-isomenthol+alpha-terpineol,,NA
 C5719,neo-isomethyl acetate,neo-isomethyl acetate,NA
-C5721,neo-isopulegol+terpinen-4-ol,neo-isopulegol+terpinen-4-ol,NA
+C5721,neo-isopulegol+terpinen-4-ol,,NA
 C5722,neo-isopulegyl acetate,neo-isopulegyl acetate,NA
 C5723,neo-isothujyl acetate,neo-isothujyl acetate,NA
 C5724,neo-menthyl acetate,neo-menthyl acetate,NA
@@ -3418,9 +3418,9 @@ C5736,neocalitropsene,neocalitropsene,NA
 C5738,neoclvenoxide alcohol,neoclvenoxide alcohol,NA
 C5741,neoiso-dihydrocarveol acetate,neoiso-dihydrocarveol acetate,NA
 C5746,nepthalene,nepthalene,NA
-C5747,neral/geranial,neral/geranial,NA
-C5750,nerol+citronellol,nerol+citronellol,NA
-C6944,nerol+citronellol+carvone,nerol+citronellol+carvone,NA
+C5747,neral/geranial,,NA
+C5750,nerol+citronellol,,NA
+C6944,nerol+citronellol+carvone,,NA
 C5751,nerolidol acetate,nerolidol acetate,NA
 C5752,nerolidol oxide,nerolidol oxide,NA
 C5753,nerolidol oxide (furanoid),nerolidol oxide (furanoid),NA
@@ -3439,8 +3439,8 @@ C5776,noebourbonone,noebourbonone,NA
 C5777,nojgiku alcohol,nojgiku alcohol,NA
 C5778,nojigikuacetate,nojigikuacetate,NA
 C5779,non-terpene derivatives,non-terpene derivatives,NA
-C5787,nonanal/2-phenylethanol,nonanal/2-phenylethanol,NA
-C5788,nonanal+linalool,nonanal+linalool,NA
+C5787,nonanal/2-phenylethanol,,NA
+C5788,nonanal+linalool,,NA
 C5790,nondecane,nondecane,NA
 C5791,nondecanol,nondecanol,NA
 C5793,nonmenthone,nonmenthone,NA
@@ -3480,7 +3480,7 @@ C5851,octan-3-yl-acetate,octan-3-yl-acetate,NA
 C5852,octanal-alpha-phellandrene,octanal-alpha-phellandrene,NA
 C5854,octanehexanal,octanehexanal,NA
 C5856,octanoi,octanoi,NA
-C5860,octanol+beta-maaliene,octanol+beta-maaliene,NA
+C5860,octanol+beta-maaliene,,NA
 C6979,octanone-3,octanone-3,NA
 C5863,octen-3-ol<1->,octen-3-ol<1->,NA
 C5864,octen-3-yl-acetate,octen-3-yl-acetate,NA
@@ -3514,7 +3514,7 @@ C5914,p-bisabolene,p-bisabolene,NA
 C5915,p-bourbonene,p-bourbonene,NA
 C5916,p-caryophyllene,p-caryophyllene,NA
 C5917,"p-cis-mentha-2,8-dien-1-ol","p-cis-mentha-2,8-dien-1-ol",NA
-C5919,p-cresol+m-cresol,p-cresol+m-cresol,NA
+C5919,p-cresol+m-cresol,,NA
 C5920,p-cresolacetate,p-cresolacetate,NA
 C5922,p-cumen-8-ol,p-cumen-8-ol,NA
 C5924,p-cumin alcohol,p-cumin alcohol,NA
@@ -3572,7 +3572,7 @@ C6000,"p-mentha-1,3,8-diene","p-mentha-1,3,8-diene",NA
 C6001,"p-mentha-1,3,8-triene","p-mentha-1,3,8-triene",NA
 C6002,"p-mentha-1,4-dien-7-al","p-mentha-1,4-dien-7-al",NA
 C6003,"p-mentha-1,4-dien-7-ol","p-mentha-1,4-dien-7-ol",NA
-C6004,"p-mentha-1,4-dien-7-ol+ humulene epoxide ii","p-mentha-1,4-dien-7-ol+ humulene epoxide ii",NA
+C6004,"p-mentha-1,4-dien-7-ol+ humulene epoxide ii",,NA
 C6005,"p-mentha-1,4(8)- diene","p-mentha-1,4(8)-diene",NA
 C6006,"p-mentha-1,4,8-triene","p-mentha-1,4,8-triene",NA
 C6007,"p-mentha-1,5-dien-7-ol","p-mentha-1,5-dien-7-ol",NA
@@ -3641,10 +3641,10 @@ C6085,"para-mentha-1,3(8)-dien-8-ol","para-mentha-1,3(8)-dien-8-ol",NA
 C6086,"para-mentha-1,4(8)-dien-3-ol","para-mentha-1,4(8)-dien-3-ol",NA
 C6089,patachouli alcohol,patachouli alcohol,NA
 C6095,pentadecandelta-15-lactone,pentadecandelta-15-lactone,NA
-C6097,pentadecanol+norbourbonone,pentadecanol+norbourbonone,NA
+C6097,pentadecanol+norbourbonone,,NA
 C6106,"pentane-2,3-dione","pentane-2,3-dione",NA
 C7005,pentatecanol,pentatecanol,NA
-C6114,"pentyl benzene+1-pentyl -1,3-cyclohexadiene","pentyl benzene+1-pentyl-1,3-cyclohexadiene",NA
+C6114,"pentyl benzene+1-pentyl -1,3-cyclohexadiene",,NA
 C6116,"pentyl cyclohexa-1,3-dien","pentyl cyclohexa-1,3-dien",NA
 C6117,"pentyl cyclohexa-1,3-diene","pentyl cyclohexa-1,3-diene",NA
 C6118,"pentyl cyclohexalpha-1,5-diene cycloheaxalpha-1,5-diene","pentyl cyclohexalpha-1,5-diene cycloheaxalpha-1,5-diene",NA
@@ -3738,7 +3738,7 @@ C6284,sa4,sa4,NA
 C7042,Sabiene,Sabiene,NA
 C6287,sabinene-beta-pinene,sabinene-beta-pinene,NA
 C6288,sabinene acetate,sabinene acetate,NA
-C6289,sabinene+beta-pinene,sabinene+beta-pinene,NA
+C6289,sabinene+beta-pinene,,NA
 C6291,sabinine,sabinine,NA
 C7046,sabinyl-2-methylbutyrate,sabinyl-2-methylbutyrate,NA
 C6293,sabinyl isovalerate,sabinyl isovalerate,NA
@@ -3781,7 +3781,7 @@ C6348,selin-7(11)-en-4-ol,selin-7(11)-en-4-ol,NA
 C6349,selina-11-en-4-alpha-ol,selina-11-en-4-alpha-ol,NA
 C6350,"selina-3,11-dien-6-alpha-ol","selina-3,11-dien-6-alpha-ol",NA
 C6351,"selina-3,11-dien-6alpha-ol","selina-3,11-dien-6alpha-ol",NA
-C6352,"selina-3,11-diene +bicyclogermacrene","selina-3,11-diene +bicyclogermacrene",NA
+C6352,"selina-3,11-diene +bicyclogermacrene",,NA
 C6353,"selina-3,5(11)-diene","selina-3,5(11)-diene",NA
 C6354,"selina-3,7(11)-dien","selina-3,7(11)-dien",NA
 C7058,"selina-3,7(11)-diene","selina-3,7(11)-diene",NA
@@ -3821,7 +3821,7 @@ C6400,shisol,shisol,NA
 C7065,shybunol,shybunol,NA
 C6401,shyobinol,shyobinol,NA
 C6404,shyobunone isomer,shyobunone isomer,NA
-C6405,shyobunone+alpha-selinene,shyobunone+alpha-selinene,NA
+C6405,shyobunone+alpha-selinene,,NA
 C6407,sigma-cadinene,sigma-cadinene,NA
 C6408,sigma-elemene,sigma-elemene,NA
 C6409,sigma-gurjunene,sigma-gurjunene,NA
@@ -3844,7 +3844,7 @@ C6431,siphiperfol-5-en-3-ol,siphiperfol-5-en-3-ol,NA
 C6432,siphiperfol-5-en-3-one,siphiperfol-5-en-3-one,NA
 C6433,siphiperfol-6-en-5-one,siphiperfol-6-en-5-one,NA
 C6435,"sopimara-9(11),15-diene","sopimara-9(11),15-diene",NA
-C7067,spathulenol+germacrene delta-4-ol,spathulenol+germacrene delta-4-ol,NA
+C7067,spathulenol+germacrene delta-4-ol,,NA
 C6436,spathulenoll,spathulenoll,NA
 C6437,spathulinol,spathulinol,NA
 C6438,spathunenol,spathunenol,NA
@@ -3855,7 +3855,7 @@ C6455,t-nerolidol,t-nerolidol,NA
 C6456,tatarol,tatarol,NA
 C6457,tau-4-dimethylbenzene butanal,tau-4-dimethylbenzene butanal,NA
 C6458,tau-cadinene,tau-cadinene,NA
-C6459,tau-cadinol + tau-muurolol,tau-cadinol + tau-muurolol,NA
+C6459,tau-cadinol + tau-muurolol,,NA
 C7069,tau-muurolol,tau-muurolol,NA
 C7071,tepinolene,tepinolene,NA
 C6462,terpenen-4-ol,terpenen-4-ol,NA
@@ -3865,20 +3865,20 @@ C6467,terpine-4-ol,terpine-4-ol,NA
 C6468,terpinelene,terpinelene,NA
 C6469,terpinelyl-acetate,terpinelyl-acetate,NA
 C6470,terpinen-4-ol-acetate,terpinen-4-ol-acetate,NA
-C6471,terpinen-4-ol +p-cymen-8-ol,terpinen-4-ol +p-cymen-8-ol,NA
+C6471,terpinen-4-ol +p-cymen-8-ol,,NA
 C6472,terpinen-4-ol*,terpinen-4-ol*,NA
-C6473,terpinen-4-ol+beta-caryophyllene,terpinen-4-ol+beta-caryophyllene,NA
-C6474,terpinen-4-ol+cis-sabinene hydrate,terpinen-4-ol+cis-sabinene hydrate,NA
+C6473,terpinen-4-ol+beta-caryophyllene,,NA
+C6474,terpinen-4-ol+cis-sabinene hydrate,,NA
 C7076,terpinen-4-yl-acetate,terpinen-4-yl-acetate,NA
 C6476,terpinen-4 ol,terpinen-4 ol,NA
 C6477,terpinen-4ol,terpinen-4ol,NA
 C6479,terpinene,terpinene,NA
 C6480,terpinene-1-ol,terpinene-1-ol,NA
 C6482,terpinene 4-ol,terpinene 4-ol,NA
-C6486,terpinolene+2-nonanone,terpinolene+2-nonanone,NA
-C7079,terpinolene+p-cymenene,terpinolene+p-cymenene,NA
-C6487,terpinolene+trans-linalooloxide,terpinolene+trans-linalooloxide,NA
-C6488,terpinolene+trans-linalooloxide (furanoid),terpinolene+trans-linalooloxide (furanoid),NA
+C6486,terpinolene+2-nonanone,,NA
+C7079,terpinolene+p-cymenene,,NA
+C6487,terpinolene+trans-linalooloxide,,NA
+C6488,terpinolene+trans-linalooloxide (furanoid),,NA
 C6489,terpinolenec,terpinolenec,NA
 C6490,terpinoloene,terpinoloene,NA
 C6491,terpinyl-4-yl-acetate,terpinyl-4-yl-acetate,NA
@@ -3915,10 +3915,10 @@ C6534,"thujalpha-2,4 (10)-diene","thujalpha-2,4 (10)-diene",NA
 C6535,"thujalpha-2,4(10)-diene","thujalpha-2,4(10)-diene",NA
 C6537,thujanol acetate,thujanol acetate,NA
 C6541,thujopsan-2-alpha-ol,thujopsan-2-alpha-ol,NA
-C6542,thujopsene + myrtenal,thujopsene + myrtenal,NA
+C6542,thujopsene + myrtenal,,NA
 C6544,thymal acetate,thymal acetate,NA
 C6545,thymohydroquinone dimethylether,thymohydroquinone dimethylether,NA
-C6553,thymol? +? cuminol,thymol + cuminol,NA
+C6553,thymol? +? cuminol,,NA
 C6546,thymol derivatives,thymol derivatives,NA
 C6547,thymol hydroquinone methylether,thymol hydroquinone methylether,NA
 C6549,thymol methylether,thymol methylether,NA
@@ -3958,7 +3958,7 @@ C6600,"trans-6,11-dimethyl-3, 8-oxomethane-bicyclo-(6,3,0) undecalpha-4.6-diene"
 C7101,trans-a-bergamotene,trans-a-bergamotene,NA
 C6603,trans-alpha-bergamatol,trans-alpha-bergamatol,NA
 C7102,trans-alpha-bergamotene,trans-alpha-bergamotene,NA
-C6604,trans-alpha-bergamotene + p-caryophyllene,trans-alpha-bergamotene + p-caryophyllene,NA
+C6604,trans-alpha-bergamotene + p-caryophyllene,,NA
 C6605,trans-alpha-bergamotol,trans-alpha-bergamotol,NA
 C6606,trans-alpha-bergamotol acetate,trans-alpha-bergamotol acetate,NA
 C6607,trans-alpha-farnesene,trans-alpha-farnesene,NA
@@ -3996,7 +3996,7 @@ C6642,trans-calamene,trans-calamene,NA
 C6644,trans-calamenene-10-ol,trans-calamenene-10-ol,NA
 C7112,trans-calmenene,trans-calmenene,NA
 C6645,trans-caranone (3-isocaranone),trans-caranone (3-isocaranone),NA
-C6646,trans-carveol+cis-calamenene,trans-carveol+cis-calamenene,NA
+C6646,trans-carveol+cis-calamenene,,NA
 C6647,trans-carvone oxide,trans-carvone oxide,NA
 C6649,trans-carvylacetate,trans-carvylacetate,NA
 C6651,trans-caveol,trans-caveol,NA
@@ -4053,7 +4053,7 @@ C6710,trans-myrtenol,trans-myrtenol,NA
 C6711,trans-myrtenol acetate,trans-myrtenol acetate,NA
 C6717,"trans-p-menth-1(7),8-dien-2-ol","trans-p-menth-1(7),8-dien-2-ol",NA
 C6718,"trans-p-menth-2-en-1,8-diol","trans-p-menth-2-en-1,8-diol",NA
-C6719,"trans-p-menth-2-en-1,8-diol+beta-bisabolene","trans-p-menth-2-en-1,8-diol+beta-bisabolene",NA
+C6719,"trans-p-menth-2-en-1,8-diol+beta-bisabolene",,NA
 C6720,"trans-p-menth-2-en-1,8-ol","trans-p-menth-2-en-1,8-ol",NA
 C6721,trans-p-menth-2-en-ol,trans-p-menth-2-en-ol,NA
 C6722,"trans-p-menth-2,8-dien-1-ol","trans-p-menth-2,8-dien-1-ol",NA
@@ -4083,7 +4083,7 @@ C6752,trans-pipertone epoxide,trans-pipertone epoxide,NA
 C6753,trans-propenyl methyl disulfide,trans-propenyl methyl disulfide,NA
 C6755,trans-sabinene,trans-sabinene,NA
 C6759,trans-sabinenhydrate,trans-sabinenhydrate,NA
-C6760,trans-sabinol+borneol,trans-sabinol+borneol,NA
+C6760,trans-sabinol+borneol,,NA
 C6765,trans-thuj-3-en-10-al,trans-thuj-3-en-10-al,NA
 C6766,trans-thujone (alpha-thujone),trans-thujone (alpha-thujone),NA
 C6767,trans-thujone (beta-thujone),trans-thujone (beta-thujone),NA
@@ -4112,7 +4112,7 @@ C6801,tridecandelta-13-lactone,tridecandelta-13-lactone,NA
 C6803,trimethyl-2-penta-decanone,trimethyl-2-penta-decanone,NA
 C6806,ubebol,ubebol,NA
 C6810,unidentified,unidentified,NA
-C6811,unidentified 5 + gamma-dodecalactone,unidentified 5 + gamma-dodecalactone,NA
+C6811,unidentified 5 + gamma-dodecalactone,,NA
 C6812,unknown,unknown,NA
 C6813,unknown 1,unknown 1,NA
 C6814,unknown 2,unknown 2,NA
