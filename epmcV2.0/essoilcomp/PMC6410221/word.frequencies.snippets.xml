@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="essoilcomp/PMC6410221/results/word/frequencies/results.xml">
+  <result title="frequency" word="rose" count="40"/>
+  <result title="frequency" word="VOCs" count="35"/>
+  <result title="frequency" word="NAA" count="25"/>
+  <result title="frequency" word="compounds" count="24"/>
+  <result title="frequency" word="plant" count="24"/>
+  <result title="frequency" word="increased" count="21"/>
+  <result title="frequency" word="plants" count="21"/>
+  <result title="frequency" word="production" count="21"/>
+  <result title="frequency" word="volatile" count="21"/>
+ </snippets>
+</snippetsTree>

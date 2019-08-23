@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <text x="0.0" y="118.0" style="font-family:Helvetica;font-size:22px;stroke:red;">monoterpene</text>
+  <text x="0.0" y="140.0" style="font-family:Helvetica;font-size:22px;stroke:red;">binomial</text>
+  <text x="10.0" y="162.0" title="Cyperus rotundus" style="fill:black;font-family:Helvetica;font-size:13.2px;font-weight:bold;">Cyperus rotundu</text>
+  <text x="151.0" y="129.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,22.0,280.0)" title="Carvone" style="fill:black;font-family:Helvetica;font-size:13.2px;font-weight:bold;">Carvone</text>
+  <g>
+   <rect x="140.0" y="140.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="140.0" y="162.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <text x="173.0" y="129.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,44.0,302.0)" title="Camphene" style="fill:black;font-family:Helvetica;font-size:13.2px;font-weight:bold;">Camphene</text>
+  <g>
+   <rect x="162.0" y="140.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="162.0" y="162.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <text x="195.0" y="129.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,66.0,324.0)" title="Terpineol" style="fill:black;font-family:Helvetica;font-size:13.2px;font-weight:bold;">Terpineol</text>
+  <g>
+   <rect x="184.0" y="140.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="184.0" y="162.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <text x="217.0" y="129.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,88.0,346.0)" title="Linalool" style="fill:black;font-family:Helvetica;font-size:13.2px;font-weight:bold;">Linalool</text>
+  <g>
+   <rect x="206.0" y="140.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="206.0" y="162.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <text x="239.0" y="129.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,109.99999999999997,368.0)" title="Verbenone" style="fill:black;font-family:Helvetica;font-size:13.2px;font-weight:bold;">Verbenone</text>
+  <g>
+   <rect x="228.0" y="140.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="228.0" y="162.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <text x="10.0" y="184.0" title="B. subtilis" style="fill:black;font-family:Helvetica;font-size:13.2px;font-weight:bold;">B. subtilis</text>
+  <g>
+   <rect x="140.0" y="162.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="140.0" y="184.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="162.0" y="162.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="162.0" y="184.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="184.0" y="162.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="184.0" y="184.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="206.0" y="162.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="206.0" y="184.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="228.0" y="162.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="228.0" y="184.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <text x="10.0" y="206.0" title="S. aureus" style="fill:black;font-family:Helvetica;font-size:13.2px;font-weight:bold;">S. aureus</text>
+  <g>
+   <rect x="140.0" y="184.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="140.0" y="206.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="162.0" y="184.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="162.0" y="206.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="184.0" y="184.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="184.0" y="206.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="206.0" y="184.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="206.0" y="206.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="228.0" y="184.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="228.0" y="206.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <text x="10.0" y="228.0" title="S. yphimurium" style="fill:black;font-family:Helvetica;font-size:13.2px;font-weight:bold;">S. yphimurium</text>
+  <g>
+   <rect x="140.0" y="206.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="140.0" y="228.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="162.0" y="206.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="162.0" y="228.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="184.0" y="206.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="184.0" y="228.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="206.0" y="206.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="206.0" y="228.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="228.0" y="206.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="228.0" y="228.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <text x="10.0" y="250.0" title="Staphylococcus epidermidis" style="fill:black;font-family:Helvetica;font-size:13.2px;font-weight:bold;">Staphylococcus </text>
+  <g>
+   <rect x="140.0" y="228.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="140.0" y="250.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="162.0" y="228.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="162.0" y="250.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="184.0" y="228.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="184.0" y="250.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="206.0" y="228.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="206.0" y="250.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="228.0" y="228.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="228.0" y="250.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <text x="10.0" y="272.0" title="Bacillus subtilis" style="fill:black;font-family:Helvetica;font-size:13.2px;font-weight:bold;">Bacillus subtil</text>
+  <g>
+   <rect x="140.0" y="250.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="140.0" y="272.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="162.0" y="250.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="162.0" y="272.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="184.0" y="250.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="184.0" y="272.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="206.0" y="250.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="206.0" y="272.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="228.0" y="250.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="228.0" y="272.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <text x="10.0" y="294.0" title="Escherichia coli" style="fill:black;font-family:Helvetica;font-size:13.2px;font-weight:bold;">Escherichia col</text>
+  <g>
+   <rect x="140.0" y="272.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="140.0" y="294.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="162.0" y="272.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="162.0" y="294.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="184.0" y="272.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="184.0" y="294.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="206.0" y="272.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="206.0" y="294.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="228.0" y="272.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="228.0" y="294.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <text x="10.0" y="316.0" title="Shigella dysenteriae" style="fill:black;font-family:Helvetica;font-size:13.2px;font-weight:bold;">Shigella dysent</text>
+  <g>
+   <rect x="140.0" y="294.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="140.0" y="316.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="162.0" y="294.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="162.0" y="316.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="184.0" y="294.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="184.0" y="316.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="206.0" y="294.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="206.0" y="316.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="228.0" y="294.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="228.0" y="316.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <text x="10.0" y="338.0" title="Salmonella typhimurium" style="fill:black;font-family:Helvetica;font-size:13.2px;font-weight:bold;">Salmonella typh</text>
+  <g>
+   <rect x="140.0" y="316.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="140.0" y="338.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="162.0" y="316.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="162.0" y="338.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="184.0" y="316.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="184.0" y="338.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="206.0" y="316.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="206.0" y="338.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="228.0" y="316.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="228.0" y="338.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <text x="10.0" y="360.0" title="E. coli" style="fill:black;font-family:Helvetica;font-size:13.2px;font-weight:bold;">E. coli</text>
+  <g>
+   <rect x="140.0" y="338.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="140.0" y="360.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="162.0" y="338.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="162.0" y="360.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="184.0" y="338.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="184.0" y="360.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="206.0" y="338.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="206.0" y="360.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="228.0" y="338.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="228.0" y="360.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <text x="10.0" y="382.0" title="Staphylococcus aureus" style="fill:black;font-family:Helvetica;font-size:13.2px;font-weight:bold;">Staphylococcus </text>
+  <g>
+   <rect x="140.0" y="360.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="140.0" y="382.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="162.0" y="360.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="162.0" y="382.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="184.0" y="360.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="184.0" y="382.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="206.0" y="360.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="206.0" y="382.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="228.0" y="360.0" width="22.0" height="22.0" style="fill:#000;"/>
+   <text x="228.0" y="382.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+ </g>
+</svg>

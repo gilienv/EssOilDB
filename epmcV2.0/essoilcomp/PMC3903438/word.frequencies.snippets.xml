@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="essoilcomp/PMC3903438/results/word/frequencies/results.xml">
+  <result title="frequency" word="plants" count="150"/>
+  <result title="frequency" word="native" count="139"/>
+  <result title="frequency" word="exotic" count="90"/>
+  <result title="frequency" word="medicinal" count="72"/>
+  <result title="frequency" word="n.c" count="65"/>
+  <result title="frequency" word="herb" count="64"/>
+  <result title="frequency" word="use" count="54"/>
+  <result title="frequency" word="tree" count="50"/>
+  <result title="frequency" word="shrub" count="49"/>
+  <result title="frequency" word="vegetation" count="40"/>
+  <result title="frequency" word="woody" count="40"/>
+  <result title="frequency" word="ethnospecies" count="37"/>
+  <result title="frequency" word="collection" count="34"/>
+  <result title="frequency" word="anthropogenic" count="33"/>
+  <result title="frequency" word="value" count="31"/>
+  <result title="frequency" word="used" count="30"/>
+  <result title="frequency" word="apparency" count="28"/>
+  <result title="frequency" word="non-woody" count="28"/>
+  <result title="frequency" word="areas" count="26"/>
+  <result title="frequency" word="species" count="26"/>
+  <result title="frequency" word="herbaceous" count="24"/>
+  <result title="frequency" word="commercial" count="23"/>
+  <result title="frequency" word="habit" count="23"/>
+  <result title="frequency" word="plant" count="23"/>
+  <result title="frequency" word="local" count="22"/>
+  <result title="frequency" word="plants," count="22"/>
+  <result title="frequency" word="(.%)," count="21"/>
+ </snippets>
+</snippetsTree>

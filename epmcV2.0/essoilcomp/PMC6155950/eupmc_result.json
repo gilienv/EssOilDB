@@ -1,0 +1,612 @@
+{
+  "id": [
+    "28042865"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28042865"
+  ],
+  "pmcid": [
+    "PMC6155950"
+  ],
+  "doi": [
+    "10.3390/molecules22010058"
+  ],
+  "title": [
+    "The Role of Natural Products in Drug Discovery and Development against Neglected Tropical Diseases."
+  ],
+  "authorString": [
+    "Cheuka PM, Mayoka G, Mutai P, Chibale K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Cheuka PM"
+          ],
+          "firstName": [
+            "Peter Mubanga"
+          ],
+          "lastName": [
+            "Cheuka"
+          ],
+          "initials": [
+            "PM"
+          ],
+          "affiliation": [
+            "Department of Chemistry, University of Cape Town, Rondebosch 7701, South Africa. chkpet008@myuct.ac.za."
+          ]
+        },
+        {
+          "fullName": [
+            "Mayoka G"
+          ],
+          "firstName": [
+            "Godfrey"
+          ],
+          "lastName": [
+            "Mayoka"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Chemistry, University of Cape Town, Rondebosch 7701, South Africa. mykgod001@myuct.ac.za."
+          ]
+        },
+        {
+          "fullName": [
+            "Mutai P"
+          ],
+          "firstName": [
+            "Peggoty"
+          ],
+          "lastName": [
+            "Mutai"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Pharmacology and Pharmacognosy, University of Nairobi, P.O. Box 19676, 00202 KNH Nairobi, Kenya. pckemei@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Chibale K"
+          ],
+          "firstName": [
+            "Kelly"
+          ],
+          "lastName": [
+            "Chibale"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Chemistry, University of Cape Town, Rondebosch 7701, South Africa. kelly.chibale@uct.ac.za."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "22"
+      ],
+      "journalIssueId": [
+        "2508612"
+      ],
+      "dateOfPublication": [
+        "2016 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecules (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Molecules"
+          ],
+          "medlineAbbreviation": [
+            "Molecules"
+          ],
+          "NLMid": [
+            "100964009"
+          ],
+          "ISSN": [
+            "1420-3049"
+          ],
+          "ESSN": [
+            "1420-3049"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "abstractText": [
+    "Endemic in 149 tropical and subtropical countries, neglected tropical diseases (NTDs) affect more than 1 billion people annually, including 875 million children in developing economies. These diseases are also responsible for over 500,000 deaths per year and are characterized by long-term disability and severe pain. The impact of the combined NTDs closely rivals that of malaria and tuberculosis. Current treatment options are associated with various limitations including widespread drug resistance, severe adverse effects, lengthy treatment duration, unfavorable toxicity profiles, and complicated drug administration procedures. Natural products have been a valuable source of drug regimens that form the cornerstone of modern pharmaceutical care. In this review, we highlight the potential that remains untapped in natural products as drug leads for NTDs. We cover natural products from plant, marine, and microbial sources including natural-product-inspired semi-synthetic derivatives which have been evaluated against the various causative agents of NTDs. Our coverage is limited to four major NTDs which include human African trypanosomiasis (sleeping sickness), leishmaniasis, schistosomiasis and lymphatic filariasis."
+  ],
+  "affiliation": [
+    "Department of Chemistry, University of Cape Town, Rondebosch 7701, South Africa. chkpet008@myuct.ac.za."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Elephantiasis, Filarial"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Schistosomiasis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Leishmaniasis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Trypanosomiasis, African"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Preparations"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biological Products"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antiprotozoal Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phytotherapy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Drug Discovery"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neglected Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Natural products",
+        "Antiprotozoal agents",
+        "Leishmaniasis",
+        "schistosomiasis",
+        "Phytotherapy",
+        "Lymphatic Filariasis",
+        "Human African Trypanosomiasis"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Antiprotozoal Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Biological Products"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Plant Preparations"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6155950?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6155950"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/molecules22010058"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-06-09"
+  ],
+  "dateOfCreation": [
+    "2017-01-03"
+  ],
+  "firstIndexDate": [
+    "2017-01-03"
+  ],
+  "dateOfRevision": [
+    "2018-11-14"
+  ],
+  "electronicPublicationDate": [
+    "2016-12-31"
+  ],
+  "firstPublicationDate": [
+    "2016-12-31"
+  ]
+}

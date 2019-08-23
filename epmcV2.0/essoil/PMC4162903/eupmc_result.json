@@ -1,0 +1,297 @@
+{
+  "id": [
+    "28324380"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28324380"
+  ],
+  "pmcid": [
+    "PMC4162903"
+  ],
+  "doi": [
+    "10.1007/s13205-013-0180-y"
+  ],
+  "title": [
+    "Antimicrobial resistance (AMR) and plant-derived antimicrobials (PDAms) as an alternative drug line to control infections."
+  ],
+  "authorString": [
+    "Srivastava J, Chandra H, Nautiyal AR, Kalra SJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Srivastava J"
+          ],
+          "firstName": [
+            "Jatin"
+          ],
+          "lastName": [
+            "Srivastava"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Applied Sciences, Faculty of Environmental Science, Himalayan Institute of Technology and Management, BKT, NH 24, Lucknow, 227005, UP, India. jks_345@rediffmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Chandra H"
+          ],
+          "firstName": [
+            "Harish"
+          ],
+          "lastName": [
+            "Chandra"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Medicinal and Aromatic Plants, School of Agriculture and Allied Sciences, High Altitude Plant Physiology Research Center, H.N.B. Garhwal University, Srinagar, Uttrakhand, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Nautiyal AR"
+          ],
+          "firstName": [
+            "Anant R"
+          ],
+          "lastName": [
+            "Nautiyal"
+          ],
+          "initials": [
+            "AR"
+          ],
+          "affiliation": [
+            "Department of Medicinal and Aromatic Plants, School of Agriculture and Allied Sciences, High Altitude Plant Physiology Research Center, H.N.B. Garhwal University, Srinagar, Uttrakhand, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Kalra SJ"
+          ],
+          "firstName": [
+            "Swinder J S"
+          ],
+          "lastName": [
+            "Kalra"
+          ],
+          "initials": [
+            "SJ"
+          ],
+          "affiliation": [
+            "Department of Chemistry, Dayanand Anglo Vedic College, Civil Lines, Kanpur, UP, India."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2203606"
+      ],
+      "dateOfPublication": [
+        "2014 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "3 Biotech"
+          ],
+          "ISOAbbreviation": [
+            "3 Biotech"
+          ],
+          "medlineAbbreviation": [
+            "3 Biotech"
+          ],
+          "NLMid": [
+            "101565857"
+          ],
+          "ISSN": [
+            "2190-572X"
+          ],
+          "ESSN": [
+            "2190-5738"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "451-460"
+  ],
+  "abstractText": [
+    "Infectious diseases caused by antimicrobial-resistant microbes (ARMs) and the treatment are the serious problems in the field of medical science today world over. The development of alternative drug line to treat such infectious diseases is urgently required. Researches on ARMs revealed the presence of membrane proteins responsible for effusing the antibiotics from the bacterial cells. Such proteins have successfully been treated by plant-derived antimicrobials (PDAms) synergistically along with the commercially available antibiotics. Such synergistic action usually inhibits the efflux pump. The enhanced activity of plant-derived antimicrobials is being researched and is considered as the future treatment strategy to cure the incurable infections. The present paper reviews the advancement made in the researches on antimicrobial resistance along with the discovery and the development of more active PDAms."
+  ],
+  "affiliation": [
+    "Department of Applied Sciences, Faculty of Environmental Science, Himalayan Institute of Technology and Management, BKT, NH 24, Lucknow, 227005, UP, India. jks_345@rediffmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Antimicrobial resistance",
+        "Efflux pumps",
+        "Antimicrobial-resistant Microbes",
+        "Plant Antimicrobial Compounds"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4162903?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4162903"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s13205-013-0180-y"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-03-21"
+  ],
+  "firstIndexDate": [
+    "2017-03-22"
+  ],
+  "dateOfRevision": [
+    "2017-04-22"
+  ],
+  "electronicPublicationDate": [
+    "2013-10-23"
+  ],
+  "firstPublicationDate": [
+    "2013-10-23"
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "id": [
+    "22474496"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22474496"
+  ],
+  "pmcid": [
+    "PMC3303862"
+  ],
+  "doi": [
+    "10.1155/2012/272749"
+  ],
+  "title": [
+    "Ethnopharmacology of medicinal plants of the pantanal region (mato grosso, Brazil)."
+  ],
+  "authorString": [
+    "Bieski IG, Rios Santos F, de Oliveira RM, Espinosa MM, Macedo M, Albuquerque UP, de Oliveira Martins DT."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bieski IG"
+          ],
+          "firstName": [
+            "Isanete Geraldini Costa"
+          ],
+          "lastName": [
+            "Bieski"
+          ],
+          "initials": [
+            "IG"
+          ]
+        },
+        {
+          "fullName": [
+            "Rios Santos F"
+          ],
+          "firstName": [
+            "Fabrício"
+          ],
+          "lastName": [
+            "Rios Santos"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7151-1631",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "de Oliveira RM"
+          ],
+          "firstName": [
+            "Rafael Melo"
+          ],
+          "lastName": [
+            "de Oliveira"
+          ],
+          "initials": [
+            "RM"
+          ]
+        },
+        {
+          "fullName": [
+            "Espinosa MM"
+          ],
+          "firstName": [
+            "Mariano Martinez"
+          ],
+          "lastName": [
+            "Espinosa"
+          ],
+          "initials": [
+            "MM"
+          ]
+        },
+        {
+          "fullName": [
+            "Macedo M"
+          ],
+          "firstName": [
+            "Miramy"
+          ],
+          "lastName": [
+            "Macedo"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Albuquerque UP"
+          ],
+          "firstName": [
+            "Ulysses Paulino"
+          ],
+          "lastName": [
+            "Albuquerque"
+          ],
+          "initials": [
+            "UP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8131-8429",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "de Oliveira Martins DT"
+          ],
+          "firstName": [
+            "Domingos Tabajara"
+          ],
+          "lastName": [
+            "de Oliveira Martins"
+          ],
+          "initials": [
+            "DT"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7151-1631",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0461-5673",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8131-8429",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2012"
+      ],
+      "journalIssueId": [
+        "1844213"
+      ],
+      "dateOfPublication": [
+        "2012 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Evidence-based complementary and alternative medicine : eCAM"
+          ],
+          "ISOAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "medlineAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "NLMid": [
+            "101215021"
+          ],
+          "ISSN": [
+            "1741-427X"
+          ],
+          "ESSN": [
+            "1741-4288"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2012"
+  ],
+  "pageInfo": [
+    "272749"
+  ],
+  "abstractText": [
+    "Traditional knowledge is an important source of obtaining new phytotherapeutic agents. Ethnobotanical survey of medicinal plants was conducted in Nossa Senhora Aparecida do Chumbo District (NSACD), located in Poconé, Mato Grosso, Brazil using semi-structured questionnaires and interviews. 376 species of medicinal plants belonging to 285 genera and 102 families were cited. Fabaceae (10.2%), Asteraceae (7.82%) and Lamaceae (4.89%) families are of greater importance. Species with the greater relative importance were Himatanthus obovatus (1.87), Hibiscus sabdariffa (1.87), Solidago microglossa (1.80), Strychnos pseudoquina (1.73) and Dorstenia brasiliensis, Scoparia dulcis L., and Luehea divaricata (1.50). The informant consensus factor (ICF) ranged from 0.13 to 0.78 encompassing 18 disease categories,of which 15 had ICF greater than 0.50, with a predominance of disease categories related to injuries, poisoning and certain other consequences of external causes (ICF  =  0.78) having 65 species cited while 20 species were cited for mental and behavioral disorders (ICF  =  0.77). The results show that knowledge about medicinal plants is evenly distributed among the population of NSACD. This population possesses medicinal plants for most disease categories, with the highest concordance for prenatal, mental/behavioral and respiratory problems."
+  ],
+  "affiliation": [
+    "Department of Basic Sciences in Health, Faculty of Medicine, Federal University of Mato Grosso, Cuiabá, Avenida Fernando Correa da Costa, No. 2367, University Campus, 78060-900 Cuiabá, MT, Brazil."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3303862?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3303862"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22474496/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22474496/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2012/272749"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "12"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2012-08-23"
+  ],
+  "dateOfCreation": [
+    "2012-04-04"
+  ],
+  "firstIndexDate": [
+    "2012-04-10"
+  ],
+  "dateOfRevision": [
+    "2013-04-08"
+  ],
+  "electronicPublicationDate": [
+    "2012-02-26"
+  ],
+  "firstPublicationDate": [
+    "2012-02-26"
+  ]
+}

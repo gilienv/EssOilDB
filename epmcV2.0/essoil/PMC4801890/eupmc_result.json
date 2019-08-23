@@ -1,0 +1,492 @@
+{
+  "id": [
+    "27047458"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27047458"
+  ],
+  "pmcid": [
+    "PMC4801890"
+  ],
+  "doi": [
+    "10.3389/fmicb.2016.00332"
+  ],
+  "title": [
+    "Piriformospora indica: Potential and Significance in Plant Stress Tolerance."
+  ],
+  "authorString": [
+    "Gill SS, Gill R, Trivedi DK, Anjum NA, Sharma KK, Ansari MW, Ansari AA, Johri AK, Prasad R, Pereira E, Varma A, Tuteja N."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gill SS"
+          ],
+          "firstName": [
+            "Sarvajeet S"
+          ],
+          "lastName": [
+            "Gill"
+          ],
+          "initials": [
+            "SS"
+          ],
+          "affiliation": [
+            "Stress Physiology and Molecular Biology Laboratory, Centre for Biotechnology, Maharshi Dayanand University Rohtak, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Gill R"
+          ],
+          "firstName": [
+            "Ritu"
+          ],
+          "lastName": [
+            "Gill"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Stress Physiology and Molecular Biology Laboratory, Centre for Biotechnology, Maharshi Dayanand University Rohtak, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Trivedi DK"
+          ],
+          "firstName": [
+            "Dipesh K"
+          ],
+          "lastName": [
+            "Trivedi"
+          ],
+          "initials": [
+            "DK"
+          ],
+          "affiliation": [
+            "Plant Molecular Biology Group, International Centre for Genetic Engineering and Biotechnology New Delhi, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Anjum NA"
+          ],
+          "firstName": [
+            "Naser A"
+          ],
+          "lastName": [
+            "Anjum"
+          ],
+          "initials": [
+            "NA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9953-0703",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre for Environmental and Marine Studies and Department of Chemistry, University of Aveiro Aveiro, Portugal."
+          ]
+        },
+        {
+          "fullName": [
+            "Sharma KK"
+          ],
+          "firstName": [
+            "Krishna K"
+          ],
+          "lastName": [
+            "Sharma"
+          ],
+          "initials": [
+            "KK"
+          ],
+          "affiliation": [
+            "Department of Microbiology, Maharshi Dayanand University Rohtak, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Ansari MW"
+          ],
+          "firstName": [
+            "Mohammed W"
+          ],
+          "lastName": [
+            "Ansari"
+          ],
+          "initials": [
+            "MW"
+          ],
+          "affiliation": [
+            "Plant Molecular Biology Group, International Centre for Genetic Engineering and Biotechnology New Delhi, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Ansari AA"
+          ],
+          "firstName": [
+            "Abid A"
+          ],
+          "lastName": [
+            "Ansari"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "affiliation": [
+            "Department of Biology, University of Tabuk Tabuk, Saudi Arabia."
+          ]
+        },
+        {
+          "fullName": [
+            "Johri AK"
+          ],
+          "firstName": [
+            "Atul K"
+          ],
+          "lastName": [
+            "Johri"
+          ],
+          "initials": [
+            "AK"
+          ],
+          "affiliation": [
+            "School of Life Sciences, Jawaharlal Nehru University New Delhi, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Prasad R"
+          ],
+          "firstName": [
+            "Ram"
+          ],
+          "lastName": [
+            "Prasad"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3670-0450",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Amity Institute of Microbial Technology, Amity University Noida, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Pereira E"
+          ],
+          "firstName": [
+            "Eduarda"
+          ],
+          "lastName": [
+            "Pereira"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6046-5243",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre for Environmental and Marine Studies and Department of Chemistry, University of Aveiro Aveiro, Portugal."
+          ]
+        },
+        {
+          "fullName": [
+            "Varma A"
+          ],
+          "firstName": [
+            "Ajit"
+          ],
+          "lastName": [
+            "Varma"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Amity Institute of Microbial Technology, Amity University Noida, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Tuteja N"
+          ],
+          "firstName": [
+            "Narendra"
+          ],
+          "lastName": [
+            "Tuteja"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Amity Institute of Microbial Technology, Amity University Noida, India."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3670-0450",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6046-5243",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9953-0703",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8953-7714",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2369092"
+      ],
+      "dateOfPublication": [
+        "2016 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in Microbiology"
+          ],
+          "ISOAbbreviation": [
+            "Front Microbiol"
+          ],
+          "medlineAbbreviation": [
+            "Front Microbiol"
+          ],
+          "NLMid": [
+            "101548977"
+          ],
+          "ISSN": [
+            "1664-302X"
+          ],
+          "ESSN": [
+            "1664-302X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "332"
+  ],
+  "abstractText": [
+    "Owing to its exceptional ability to efficiently promote plant growth, protection and stress tolerance, a mycorrhiza like endophytic Agaricomycetes fungus Piriformospora indica has received a great attention over the last few decades. P. indica is an axenically cultiviable fungus which exhibits its versatility for colonizing/hosting a broad range of plant species through directly manipulating plant hormone-signaling pathway during the course of mutualism. P. indica-root colonization leads to a better plant performance in all respect, including enhanced root proliferation by indole-3-acetic acid production which in turn results into better nutrient-acquisition and subsequently to improved crop growth and productivity. Additionally, P. indica can induce both local and systemic resistance to fungal and viral plant diseases through signal transduction. P. indica-mediated stimulation in antioxidant defense system components and expressing stress-related genes can confer crop/plant stress tolerance. Therefore, P. indica can biotize micropropagated plantlets and also help these plants to overcome transplantation shock. Nevertheless, it can also be involved in a more complex symbiotic relationship, such as tripartite symbiosis and can enhance population dynamic of plant growth promoting rhizobacteria. In brief, P. indica can be utilized as a plant promoter, bio-fertilizer, bioprotector, bioregulator, and biotization agent. The outcome of the recent literature appraised herein will help us to understand the physiological and molecular bases of mechanisms underlying P. indica-crop plant mutual relationship. Together, the discussion will be functional to comprehend the usefulness of crop plant-P. indica association in both achieving new insights into crop protection/improvement as well as in sustainable agriculture production."
+  ],
+  "affiliation": [
+    "Stress Physiology and Molecular Biology Laboratory, Centre for Biotechnology, Maharshi Dayanand University Rohtak, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Crop Improvement",
+        "Ca2+ Signaling",
+        "Piriformospora indica",
+        "Plant Stress Tolerance",
+        "Colonization Potential"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4801890?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4801890"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fmicb.2016.00332"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "20"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-04-06"
+  ],
+  "dateOfCreation": [
+    "2016-04-06"
+  ],
+  "firstIndexDate": [
+    "2016-04-07"
+  ],
+  "dateOfRevision": [
+    "2016-04-07"
+  ],
+  "electronicPublicationDate": [
+    "2016-03-22"
+  ],
+  "firstPublicationDate": [
+    "2016-03-22"
+  ]
+}

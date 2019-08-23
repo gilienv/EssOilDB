@@ -1,0 +1,298 @@
+{
+  "id": [
+    "21912738"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "21912738"
+  ],
+  "pmcid": [
+    "PMC3168787"
+  ],
+  "doi": [
+    "10.4061/2011/280696"
+  ],
+  "title": [
+    "Microbial cellulases and their industrial applications."
+  ],
+  "authorString": [
+    "Kuhad RC, Gupta R, Singh A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kuhad RC"
+          ],
+          "firstName": [
+            "Ramesh Chander"
+          ],
+          "lastName": [
+            "Kuhad"
+          ],
+          "initials": [
+            "RC"
+          ]
+        },
+        {
+          "fullName": [
+            "Gupta R"
+          ],
+          "firstName": [
+            "Rishi"
+          ],
+          "lastName": [
+            "Gupta"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Singh A"
+          ],
+          "firstName": [
+            "Ajay"
+          ],
+          "lastName": [
+            "Singh"
+          ],
+          "initials": [
+            "A"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2011"
+      ],
+      "journalIssueId": [
+        "1807919"
+      ],
+      "dateOfPublication": [
+        "2011 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2011"
+      ],
+      "printPublicationDate": [
+        "2011-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Enzyme research"
+          ],
+          "ISOAbbreviation": [
+            "Enzyme Res"
+          ],
+          "medlineAbbreviation": [
+            "Enzyme Res"
+          ],
+          "NLMid": [
+            "101536666"
+          ],
+          "ISSN": [
+            "2090-0406"
+          ],
+          "ESSN": [
+            "2090-0414"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2011"
+  ],
+  "pageInfo": [
+    "280696"
+  ],
+  "abstractText": [
+    "Microbial cellulases have shown their potential application in various industries including pulp and paper, textile, laundry, biofuel production, food and feed industry, brewing, and agriculture. Due to the complexity of enzyme system and immense industrial potential, cellulases have been a potential candidate for research by both the academic and industrial research groups. Nowadays, significant attentions have been devoted to the current knowledge of cellulase production and the challenges in cellulase research especially in the direction of improving the process economics of various industries. Scientific and technological developments and the future prospects for application of cellulases in different industries are discussed in this paper."
+  ],
+  "affiliation": [
+    "Lignocellulose Biotechnology Laboratory, Department of Microbiology, University of Delhi South Campus, New Delhi 110021, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3168787?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3168787"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21912738/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21912738/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4061/2011/280696"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "86"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2011-11-10"
+  ],
+  "dateOfCreation": [
+    "2011-09-13"
+  ],
+  "firstIndexDate": [
+    "2011-09-14"
+  ],
+  "dateOfRevision": [
+    "2012-04-26"
+  ],
+  "electronicPublicationDate": [
+    "2011-09-07"
+  ],
+  "firstPublicationDate": [
+    "2011-09-07"
+  ]
+}

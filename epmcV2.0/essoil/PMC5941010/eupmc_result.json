@@ -1,0 +1,287 @@
+{
+  "id": [
+    "29767016"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29767016"
+  ],
+  "pmcid": [
+    "PMC5941010"
+  ],
+  "doi": [
+    "10.1016/j.aninu.2015.11.011"
+  ],
+  "title": [
+    "Monitoring the fibrolytic potential of microbial ecosystems from domestic and wild ruminants browsing tanniferous forages."
+  ],
+  "authorString": [
+    "Msimango NNP, Fon FN."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Msimango NNP"
+          ],
+          "firstName": [
+            "Nokwethemba Nqobile Philile"
+          ],
+          "lastName": [
+            "Msimango"
+          ],
+          "initials": [
+            "NNP"
+          ],
+          "affiliation": [
+            "Department of Agriculture, Faulty of Science and Agriculture, University of Zululand, KwaDlangezwa 3886, South Africa."
+          ]
+        },
+        {
+          "fullName": [
+            "Fon FN"
+          ],
+          "firstName": [
+            "Fabian Nde"
+          ],
+          "lastName": [
+            "Fon"
+          ],
+          "initials": [
+            "FN"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7701-9111",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Agriculture, Faulty of Science and Agriculture, University of Zululand, KwaDlangezwa 3886, South Africa."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7701-9111",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "2684742"
+      ],
+      "dateOfPublication": [
+        "2016 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Animal Nutrition"
+          ],
+          "ISOAbbreviation": [
+            "Anim Nutr"
+          ],
+          "medlineAbbreviation": [
+            "Anim Nutr"
+          ],
+          "NLMid": [
+            "101717655"
+          ],
+          "ISSN": [
+            "2405-6545"
+          ],
+          "ESSN": [
+            "2405-6383"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "40-44"
+  ],
+  "abstractText": [
+    "Although the rumen microbiome has been reported to synthesize a rich source of symbiotic enzymes (exocellulase, endocellulase, hemicellulase and cellobiase), the digestion of tropical C4 grasses and browses by ruminants is still limited. Therefore, this study aimed to unveil potential fibrolytic microbial ecosystems from giraffe, kudu, impala and consortia (A1 [giraffe + kudu], A2 [giraffe + impala], A3 [kudu + impala], and A4 [giraffe + kudu + impala]) browsing tanniferous plants, which can be used to improve forage utilization in domesticated goat. Crude protein enzyme extracts (CPZ) from fresh faecal samples were precipitated by 60% ammonium sulphate and assayed for exocellulase, endocellulase and hemicellulase by incubating with crystalline cellulose, carboxymethyl cellulose and xylan at 38 °C with optimum pH of 5.5 to 6.5 for 1, 2, and 48 h, respectively. Enzyme specific activities were defined as μg of reducing sugar/mg CPZ. In vitro fermentation study was done by transferring 33 mL of fresh faecal inoculum into 67 mL of salivary buffer containing 1 g Acacia sieberiana and incubating for 72 h at 38 °C. Apparent degradability (APDeg), true degradability (TD), neutral detergent fibre degradability (NDFdeg), acid detergent fibre degradability (ADFdeg), microbial yield (MY), metabolizable energy (ME) and total gas emitted (Gas) were measured. Exocellulase activities were higher (P < 0.05) in all wild animals and consortia than those in goat except for A4. Minimal differences in hemicellulase activities (P < 0.05) were observed among goat and wild animals and consortia, while endocellulase activity was generally higher (P < 0.05) in goat than that in the rest of the systems. Apart from A3, TDeg, NDFdeg and ADFdeg were higher (P < 0.05) in all microbial ecosystems from wild animals and consortia than those in goat. Apparent degradability, MY and ME also varied (P < 0.05) among these systems. Giraffe, Kudu and A3 produced lower (P < 0.05) gas than the goat system. This study showed that microbial ecosystems from wild browsers (especially impala) and consortia possess a higher potential to digest tanniferous forage with less enteric gas production compared with domesticated goat, hence those microbiome could be exploited as microbial feed additives for improving digestibility and reducing enteric gas production in domesticated goat. Improvements of goat's digestibility will depend on the survival and establishment of microbial species in the rumen as well as their fibrolytic and symbiotic potential including tannin tolerance."
+  ],
+  "affiliation": [
+    "Department of Agriculture, Faulty of Science and Agriculture, University of Zululand, KwaDlangezwa 3886, South Africa."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Fermentation",
+        "Cellulase",
+        "Hemicellulase",
+        "Gas production",
+        "Tanniferous Forage"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5941010?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5941010"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.aninu.2015.11.011"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-05-17"
+  ],
+  "firstIndexDate": [
+    "2018-05-17"
+  ],
+  "dateOfRevision": [
+    "2018-05-20"
+  ],
+  "electronicPublicationDate": [
+    "2015-12-12"
+  ],
+  "firstPublicationDate": [
+    "2015-12-12"
+  ]
+}

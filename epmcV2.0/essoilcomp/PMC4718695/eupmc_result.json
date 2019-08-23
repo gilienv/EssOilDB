@@ -1,0 +1,525 @@
+{
+  "id": [
+    "26785039"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26785039"
+  ],
+  "pmcid": [
+    "PMC4718695"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0146437"
+  ],
+  "title": [
+    "Does Plant Origin Influence the Fitness Impact of Flower Damage? A Meta-Analysis."
+  ],
+  "authorString": [
+    "González-Browne C, Murúa MM, Navarro L, Medel R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "González-Browne C"
+          ],
+          "firstName": [
+            "Catalina"
+          ],
+          "lastName": [
+            "González-Browne"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Departamento de Ciencias Ecológicas, Facultad de Ciencias, Universidad de Chile, Las Palmeras 3425, Santiago, Chile."
+          ]
+        },
+        {
+          "fullName": [
+            "Murúa MM"
+          ],
+          "firstName": [
+            "Maureen M"
+          ],
+          "lastName": [
+            "Murúa"
+          ],
+          "initials": [
+            "MM"
+          ],
+          "affiliation": [
+            "Departamento de Ciencias Ecológicas, Facultad de Ciencias, Universidad de Chile, Las Palmeras 3425, Santiago, Chile."
+          ]
+        },
+        {
+          "fullName": [
+            "Navarro L"
+          ],
+          "firstName": [
+            "Luis"
+          ],
+          "lastName": [
+            "Navarro"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8308-2237",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Departamento de Biología Vegetal, Universidad de Vigo, Campus Lagoas-Marcosende, 36200, Vigo, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Medel R"
+          ],
+          "firstName": [
+            "Rodrigo"
+          ],
+          "lastName": [
+            "Medel"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9955-764X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Departamento de Ciencias Ecológicas, Facultad de Ciencias, Universidad de Chile, Las Palmeras 3425, Santiago, Chile."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8308-2237",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9955-764X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2358464"
+      ],
+      "dateOfPublication": [
+        "2016"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "e0146437"
+  ],
+  "abstractText": [
+    "Herbivory has been long considered an important component of plant-animal interactions that influences the success of invasive species in novel habitats. One of the most important hypotheses linking herbivory and invasion processes is the enemy-release hypothesis, in which exotic plants are hypothesized to suffer less herbivory and fitness-costs in their novel ranges as they leave behind their enemies in the original range. Most evidence, however, comes from studies on leaf herbivory, and the importance of flower herbivory for the invasion process remains largely unknown. Here we present the results of a meta-analysis of the impact of flower herbivory on plant reproductive success, using as moderators the type of damage caused by floral herbivores and the residence status of the plant species. We found 51 papers that fulfilled our criteria. We also included 60 records from unpublished data of the laboratory, gathering a total of 143 case studies. The effects of florivory and nectar robbing were both negative on plant fitness. The methodology employed in studies of flower herbivory influenced substantially the outcome of flower damage. Experiments using natural herbivory imposed a higher fitness cost than simulated herbivory, such as clipping and petal removal, indicating that studies using artificial herbivory as surrogates of natural herbivory underestimate the real fitness impact of flower herbivory. Although the fitness cost of floral herbivory was high both in native and exotic plant species, floral herbivores had a three-fold stronger fitness impact on exotic than native plants, contravening a critical element of the enemy-release hypothesis. Our results suggest a critical but largely unrecognized role of floral herbivores in preventing the spread of introduced species into newly colonized areas."
+  ],
+  "affiliation": [
+    "Departamento de Ciencias Ecológicas, Facultad de Ciencias, Universidad de Chile, Las Palmeras 3425, Santiago, Chile."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plants"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Flowers"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Leaves"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GD"
+                  ],
+                  "qualifierName": [
+                    "growth & development"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Ecosystem"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Reproduction"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genes, Plant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genetic Fitness"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Introduced Species"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Herbivory"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4718695?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4718695"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0146437"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-08-16"
+  ],
+  "dateOfCreation": [
+    "2016-01-20"
+  ],
+  "firstIndexDate": [
+    "2016-01-20"
+  ],
+  "dateOfRevision": [
+    "2019-02-22"
+  ],
+  "electronicPublicationDate": [
+    "2016-01-19"
+  ],
+  "firstPublicationDate": [
+    "2016-01-19"
+  ]
+}

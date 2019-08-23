@@ -1,0 +1,302 @@
+{
+  "id": [
+    "29899752"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29899752"
+  ],
+  "pmcid": [
+    "PMC5988857"
+  ],
+  "doi": [
+    "10.3389/fpls.2018.00733"
+  ],
+  "title": [
+    "Allelopathic Effects of Common Landscape and Nursery Mulch Materials on Weed Control."
+  ],
+  "authorString": [
+    "Saha D, Marble SC, Pearson BJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Saha D"
+          ],
+          "firstName": [
+            "Debalina"
+          ],
+          "lastName": [
+            "Saha"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Environmental Horticulture, Mid-Florida Research and Education Center, Institute of Food and Agricultural Sciences, University of Florida, Apopka, FL, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Marble SC"
+          ],
+          "firstName": [
+            "S Chris"
+          ],
+          "lastName": [
+            "Marble"
+          ],
+          "initials": [
+            "SC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4928-7586",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Environmental Horticulture, Mid-Florida Research and Education Center, Institute of Food and Agricultural Sciences, University of Florida, Apopka, FL, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Pearson BJ"
+          ],
+          "firstName": [
+            "Brian J"
+          ],
+          "lastName": [
+            "Pearson"
+          ],
+          "initials": [
+            "BJ"
+          ],
+          "affiliation": [
+            "Department of Environmental Horticulture, Mid-Florida Research and Education Center, Institute of Food and Agricultural Sciences, University of Florida, Apopka, FL, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4928-7586",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2644150"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in plant science"
+          ],
+          "ISOAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "medlineAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "NLMid": [
+            "101568200"
+          ],
+          "ISSN": [
+            "1664-462X"
+          ],
+          "ESSN": [
+            "1664-462X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "733"
+  ],
+  "abstractText": [
+    "Use of organic mulch materials such as pinebark, pinestraw, or various hardwood chips for weed control is a common practice in residential and commercial landscapes. Mulch can inhibit weed seed germination and growth through light exclusion, acting as physical barrier, reducing available moisture to weed seeds within the mulch layer, and through release of allelochemicals that may inhibit germination or growth of some weed species. Previous and current research on allelopathic chemicals present in mulch have focused on cover crops and their residues with an emphasis on agronomic crops. These materials would not be suitable in a landscape setting due to rapid decomposition, lack of commercial availability, and little aesthetic appeal. Research is needed concerning identification, quantification, extraction, mechanism of release, persistence, selectivity, genetic regulation, and mode of action of potential allelochemicals present in mulch materials used for landscape purposes. More knowledge of these natural chemicals could aid practitioners and homeowners in the selection of mulch and identify potential new mulch materials that could be utilized in these industries. The purpose of this review is to summarize previous research pertaining to allelopathic compounds present in commonly used mulch materials and identify new potential mulch materials that could be utilized in the landscape sector based upon allelopathic properties. Current areas where additional research is needed are also identified."
+  ],
+  "affiliation": [
+    "Department of Environmental Horticulture, Mid-Florida Research and Education Center, Institute of Food and Agricultural Sciences, University of Florida, Apopka, FL, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Secondary metabolites",
+        "Natural Herbicides",
+        "Hardwood Chips",
+        "Pinebark",
+        "Pinestraw"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5988857?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5988857"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpls.2018.00733"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-06-15"
+  ],
+  "firstIndexDate": [
+    "2018-06-15"
+  ],
+  "dateOfRevision": [
+    "2018-06-17"
+  ],
+  "electronicPublicationDate": [
+    "2018-05-30"
+  ],
+  "firstPublicationDate": [
+    "2018-05-30"
+  ]
+}

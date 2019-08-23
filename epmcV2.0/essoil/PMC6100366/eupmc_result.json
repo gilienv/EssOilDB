@@ -1,0 +1,491 @@
+{
+  "id": [
+    "29882775"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29882775"
+  ],
+  "pmcid": [
+    "PMC6100366"
+  ],
+  "doi": [
+    "10.3390/molecules23061366"
+  ],
+  "title": [
+    "Bactericidal Properties of Plants-Derived Metal and Metal Oxide Nanoparticles (NPs)."
+  ],
+  "authorString": [
+    "Teow SY, Wong MM, Yap HY, Peh SC, Shameli K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Teow SY"
+          ],
+          "firstName": [
+            "Sin-Yeang"
+          ],
+          "lastName": [
+            "Teow"
+          ],
+          "initials": [
+            "SY"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3824-0224",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Medical Sciences, School of Healthcare and Medical Sciences, Sunway University, Jalan Universiti, Bandar Sunway, Subang Jaya 47500, Selangor Darul Ehsan, Malaysia. ronaldt@sunway.edu.my."
+          ]
+        },
+        {
+          "fullName": [
+            "Wong MM"
+          ],
+          "firstName": [
+            "Magdelyn Mei-Theng"
+          ],
+          "lastName": [
+            "Wong"
+          ],
+          "initials": [
+            "MM"
+          ],
+          "affiliation": [
+            "Department of Medical Sciences, School of Healthcare and Medical Sciences, Sunway University, Jalan Universiti, Bandar Sunway, Subang Jaya 47500, Selangor Darul Ehsan, Malaysia. magdelyn.w@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Yap HY"
+          ],
+          "firstName": [
+            "Hooi-Yeen"
+          ],
+          "lastName": [
+            "Yap"
+          ],
+          "initials": [
+            "HY"
+          ],
+          "affiliation": [
+            "Department of Medical Sciences, School of Healthcare and Medical Sciences, Sunway University, Jalan Universiti, Bandar Sunway, Subang Jaya 47500, Selangor Darul Ehsan, Malaysia. 17084351@imail.sunway.edu.my."
+          ]
+        },
+        {
+          "fullName": [
+            "Peh SC"
+          ],
+          "firstName": [
+            "Suat-Cheng"
+          ],
+          "lastName": [
+            "Peh"
+          ],
+          "initials": [
+            "SC"
+          ],
+          "affiliation": [
+            "Department of Medical Sciences, School of Healthcare and Medical Sciences, Sunway University, Jalan Universiti, Bandar Sunway, Subang Jaya 47500, Selangor Darul Ehsan, Malaysia. pehsc@sunway.edu.my."
+          ]
+        },
+        {
+          "fullName": [
+            "Shameli K"
+          ],
+          "firstName": [
+            "Kamyar"
+          ],
+          "lastName": [
+            "Shameli"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Environment and Green Technology, Malaysia-Japan International Institute of Technology, Universiti Teknologi Malaysia, Jalan Sultan Yahya Petra, Kuala Lumpur 54100, Malaysia. kamyar@utm.my."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3824-0224",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "23"
+      ],
+      "journalIssueId": [
+        "2690839"
+      ],
+      "dateOfPublication": [
+        "2018 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecules (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Molecules"
+          ],
+          "medlineAbbreviation": [
+            "Molecules"
+          ],
+          "NLMid": [
+            "100964009"
+          ],
+          "ISSN": [
+            "1420-3049"
+          ],
+          "ESSN": [
+            "1420-3049"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "Nanoparticles (NPs) are nano-sized particles (generally 1⁻100 nm) that can be synthesized through various methods. The wide range of physicochemical characteristics of NPs permit them to have diverse biological functions. These particles are versatile and can be adopted into various applications, particularly in biomedical field. In the past five years, NPs&rsquo; roles in biomedical applications have drawn considerable attentions, and novel NPs with improved functions and reduced toxicity are continuously increasing. Extensive studies have been carried out in evaluating antibacterial potentials of NPs. The promising antibacterial effects exhibited by NPs highlight the potential of developing them into future generation of antimicrobial agents. There are various methods to synthesize NPs, and each of the method has significant implication on the biological action of NPs. Among all synthetic methods, green technology is the least toxic biological route, which is particularly suitable for biomedical applications. This mini-review provides current update on the antibacterial effects of NPs synthesized by green technology using plants. Underlying challenges in developing NPs into future antibacterials in clinics are also discussed at the present review."
+  ],
+  "affiliation": [
+    "Department of Medical Sciences, School of Healthcare and Medical Sciences, Sunway University, Jalan Universiti, Bandar Sunway, Subang Jaya 47500, Selangor Darul Ehsan, Malaysia. ronaldt@sunway.edu.my."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plants"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oxides"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anti-Bacterial Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Microbial Sensitivity Tests"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Conservation of Natural Resources"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Metal Nanoparticles"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Plants",
+        "Antibacterial",
+        "Biomedical Applications",
+        "Nanoparticles",
+        "Green Synthesis"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Anti-Bacterial Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Oxides"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6100366?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6100366"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/molecules23061366"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-10-11"
+  ],
+  "dateOfCreation": [
+    "2018-06-09"
+  ],
+  "firstIndexDate": [
+    "2018-06-09"
+  ],
+  "dateOfRevision": [
+    "2019-01-25"
+  ],
+  "electronicPublicationDate": [
+    "2018-06-06"
+  ],
+  "firstPublicationDate": [
+    "2018-06-06"
+  ]
+}

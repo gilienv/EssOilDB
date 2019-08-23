@@ -1,0 +1,600 @@
+{
+  "id": [
+    "30881596"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30881596"
+  ],
+  "pmcid": [
+    "PMC6387720"
+  ],
+  "doi": [
+    "10.1155/2019/6587150"
+  ],
+  "title": [
+    "Active Essential Oils and Their Components in Use against Neglected Diseases and Arboviruses."
+  ],
+  "authorString": [
+    "Luna EC, Luna IS, Scotti L, Monteiro AFM, Scotti MT, de Moura RO, de Araújo RSA, Monteiro KLC, de Aquino TM, Ribeiro FF, Mendonça FJB."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Luna EC"
+          ],
+          "firstName": [
+            "Emanuela Coutinho"
+          ],
+          "lastName": [
+            "Luna"
+          ],
+          "initials": [
+            "EC"
+          ],
+          "affiliation": [
+            "Laboratório de Síntese e Vetorização de Moléculas, Departamento de Ciências Biológicas, Universidade Estadual da Paraíba, 58071-160 João Pessoa-PB, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Luna IS"
+          ],
+          "firstName": [
+            "Isadora Silva"
+          ],
+          "lastName": [
+            "Luna"
+          ],
+          "initials": [
+            "IS"
+          ],
+          "affiliation": [
+            "Laboratório de Síntese e Vetorização de Moléculas, Departamento de Ciências Biológicas, Universidade Estadual da Paraíba, 58071-160 João Pessoa-PB, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Scotti L"
+          ],
+          "firstName": [
+            "Luciana"
+          ],
+          "lastName": [
+            "Scotti"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1866-4107",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Teaching and Research Management-University Hospital, Federal University of Paraíba, Campus I, João Pessoa-PB, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Monteiro AFM"
+          ],
+          "firstName": [
+            "Alex France M"
+          ],
+          "lastName": [
+            "Monteiro"
+          ],
+          "initials": [
+            "AFM"
+          ],
+          "affiliation": [
+            "Postgraduate Program in Natural Products and Synthetic Bioactive, Federal University of Paraíba, Campus I, João Pessoa-PB, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Scotti MT"
+          ],
+          "firstName": [
+            "Marcus Tullius"
+          ],
+          "lastName": [
+            "Scotti"
+          ],
+          "initials": [
+            "MT"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4863-8057",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Postgraduate Program in Natural Products and Synthetic Bioactive, Federal University of Paraíba, Campus I, João Pessoa-PB, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "de Moura RO"
+          ],
+          "firstName": [
+            "Ricardo Olímpio"
+          ],
+          "lastName": [
+            "de Moura"
+          ],
+          "initials": [
+            "RO"
+          ],
+          "affiliation": [
+            "Laboratório de Síntese e Vetorização de Moléculas, Departamento de Ciências Biológicas, Universidade Estadual da Paraíba, 58071-160 João Pessoa-PB, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "de Araújo RSA"
+          ],
+          "firstName": [
+            "Rodrigo Santos Aquino"
+          ],
+          "lastName": [
+            "de Araújo"
+          ],
+          "initials": [
+            "RSA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2403-8746",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratório de Síntese e Vetorização de Moléculas, Departamento de Ciências Biológicas, Universidade Estadual da Paraíba, 58071-160 João Pessoa-PB, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Monteiro KLC"
+          ],
+          "firstName": [
+            "Kadja Luana Chagas"
+          ],
+          "lastName": [
+            "Monteiro"
+          ],
+          "initials": [
+            "KLC"
+          ],
+          "affiliation": [
+            "Laboratory of Medicinal Chemistry, Nursing and Pharmacy School, Federal University of Alagoas, 57072-900 Maceió-AL, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "de Aquino TM"
+          ],
+          "firstName": [
+            "Thiago Mendonça"
+          ],
+          "lastName": [
+            "de Aquino"
+          ],
+          "initials": [
+            "TM"
+          ],
+          "affiliation": [
+            "Chemistry and Biotechnology Institute, Federal University of Alagoas, Maceió, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Ribeiro FF"
+          ],
+          "firstName": [
+            "Frederico Fávaro"
+          ],
+          "lastName": [
+            "Ribeiro"
+          ],
+          "initials": [
+            "FF"
+          ],
+          "affiliation": [
+            "Laboratório de Síntese e Vetorização de Moléculas, Departamento de Ciências Biológicas, Universidade Estadual da Paraíba, 58071-160 João Pessoa-PB, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Mendonça FJB"
+          ],
+          "firstName": [
+            "Francisco Jaime Bezerra"
+          ],
+          "lastName": [
+            "Mendonça"
+          ],
+          "initials": [
+            "FJB"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3588-833X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratório de Síntese e Vetorização de Moléculas, Departamento de Ciências Biológicas, Universidade Estadual da Paraíba, 58071-160 João Pessoa-PB, Brazil."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1866-4107",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4863-8057",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2403-8746",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3588-833X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2019"
+      ],
+      "journalIssueId": [
+        "2779314"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Oxidative medicine and cellular longevity"
+          ],
+          "ISOAbbreviation": [
+            "Oxid Med Cell Longev"
+          ],
+          "medlineAbbreviation": [
+            "Oxid Med Cell Longev"
+          ],
+          "NLMid": [
+            "101479826"
+          ],
+          "ISSN": [
+            "1942-0900"
+          ],
+          "ESSN": [
+            "1942-0994"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "6587150"
+  ],
+  "abstractText": [
+    "The term neglected diseases refers to a group of infections caused by various classes of pathogens, including protozoa, viruses, bacteria, and helminths, most often affecting impoverished populations without adequate sanitation living in close contact with infectious vectors and domestic animals. The fact that these diseases were historically not considered priorities for pharmaceutical companies made the available treatments options obsolete, precarious, outdated, and in some cases nonexistent. The use of plants for medicinal, religious, and cosmetic purposes has a history dating back to the emergence of humanity. One of the principal fractions of chemical substances found in plants are essential oils (EOs). EOs consist of a mixture of volatile and hydrophobic secondary metabolites with marked odors, composed primarily of terpenes and phenylpropanoids. They have great commercial value and were widely used in traditional medicine, by phytotherapy practitioners, and in public health services for the treatment of several conditions, including neglected diseases. In addition to the recognized cytoprotective and antioxidative activities of many of these compounds, larvicidal, insecticidal, and antiparasitic activities have been associated with the induction of oxidative stress in parasites, increasing levels of nitric oxide in the infected host, reducing parasite resistance to reactive oxygen species, and increasing lipid peroxidation, ultimately leading to serious damage to cell membranes. The hydrophobicity of these compounds also allows them to cross the membranes of parasites as well as the blood-brain barrier, collaborating in combat at the second stage of several of these infections. Based on these considerations, the aim of this review was to present an update of the potential of EOs, their fractions, and their chemical constituents, against some neglected diseases, including American and African trypanosomiasis, leishmaniasis, and arboviruses, specially dengue."
+  ],
+  "affiliation": [
+    "Laboratório de Síntese e Vetorização de Moléculas, Departamento de Ciências Biológicas, Universidade Estadual da Paraíba, 58071-160 João Pessoa-PB, Brazil."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Arboviruses"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PY"
+                  ],
+                  "qualifierName": [
+                    "pathogenicity"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oils, Volatile"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neglected Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Oils, Volatile"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6387720?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6387720"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2019/6587150"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-05-08"
+  ],
+  "dateOfCreation": [
+    "2019-03-19"
+  ],
+  "firstIndexDate": [
+    "2019-03-18"
+  ],
+  "dateOfRevision": [
+    "2019-05-08"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-07"
+  ],
+  "firstPublicationDate": [
+    "2019-02-07"
+  ]
+}

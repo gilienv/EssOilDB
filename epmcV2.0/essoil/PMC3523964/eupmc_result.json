@@ -1,0 +1,600 @@
+{
+  "id": [
+    "23069316"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23069316"
+  ],
+  "pmcid": [
+    "PMC3523964"
+  ],
+  "doi": [
+    "10.1186/1756-3305-5-234"
+  ],
+  "title": [
+    "Behavioural response of the malaria vector Anopheles gambiae to host plant volatiles and synthetic blends."
+  ],
+  "authorString": [
+    "Nyasembe VO, Teal PE, Mukabana WR, Tumlinson JH, Torto B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Nyasembe VO"
+          ],
+          "firstName": [
+            "Vincent O"
+          ],
+          "lastName": [
+            "Nyasembe"
+          ],
+          "initials": [
+            "VO"
+          ],
+          "affiliation": [
+            "International Centre of Insect Physiology and Ecology, Box 30772, GPO, Nairobi, Kenya."
+          ]
+        },
+        {
+          "fullName": [
+            "Teal PE"
+          ],
+          "firstName": [
+            "Peter E A"
+          ],
+          "lastName": [
+            "Teal"
+          ],
+          "initials": [
+            "PE"
+          ]
+        },
+        {
+          "fullName": [
+            "Mukabana WR"
+          ],
+          "firstName": [
+            "Wolfgang R"
+          ],
+          "lastName": [
+            "Mukabana"
+          ],
+          "initials": [
+            "WR"
+          ]
+        },
+        {
+          "fullName": [
+            "Tumlinson JH"
+          ],
+          "firstName": [
+            "James H"
+          ],
+          "lastName": [
+            "Tumlinson"
+          ],
+          "initials": [
+            "JH"
+          ]
+        },
+        {
+          "fullName": [
+            "Torto B"
+          ],
+          "firstName": [
+            "Baldwyn"
+          ],
+          "lastName": [
+            "Torto"
+          ],
+          "initials": [
+            "B"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2471583"
+      ],
+      "dateOfPublication": [
+        "2012 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Parasites & vectors"
+          ],
+          "ISOAbbreviation": [
+            "Parasit Vectors"
+          ],
+          "medlineAbbreviation": [
+            "Parasit Vectors"
+          ],
+          "NLMid": [
+            "101462774"
+          ],
+          "ISSN": [
+            "1756-3305"
+          ],
+          "ESSN": [
+            "1756-3305"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2012"
+  ],
+  "pageInfo": [
+    "234"
+  ],
+  "abstractText": [
+    "Sugar feeding is critical for survival of malaria vectors and, although discriminative plant feeding previously has been shown to occur in Anopheles gambiae s.s., little is known about the cues mediating attraction to these plants. In this study, we investigated the role of olfaction in An. gambiae discriminative feeding behaviour.Dual choice olfactometer assays were used to study odour discrimination by An. gambiae to three suspected host plants: Parthenium hysterophorus (Asteraceae), Bidens pilosa (Asteraceae) and Ricinus communis (Euphorbiaceae). Sugar content of the three plant species was determined by analysis of their trimethylsilyl derivatives by coupled gas chromatography-mass spectrometry (GC-MS) and confirmed with authentic standards. Volatiles from intact plants of the three species were collected on Super Q and analyzed by coupled GC-electroantennographic detection (GC-EAD) and GC-MS to identify electrophysiologically-active components whose identities were also confirmed with authentic standards. Active compounds and blends were formulated using dose-response olfactory bioassays. Responses of females were converted into preference indices and analyzed by chi-square tests. The amounts of common behaviourally-active components released by the three host plants were compared with one-way ANOVA.Overall, the sugar contents were similar in the two Asteraceae plants, P. hysterophorus and B. pilosa, but richer in R. communis. Odours released by P. hysterophorus were the most attractive, with those from B. pilosa being the least attractive to females in the olfactometer assays. Six EAD-active components identified were consistently detected by the antennae of adult females. The amounts of common antennally-active components released varied with the host plant, with the highest amounts released by P. hysterophorus. In dose-response assays, single compounds and blends of these components were attractive to females but to varying levels, with one of the blends recording a significantly attractive response from females when compared to volatiles released by either the most preferred plant, P. hysterophorus (χ2 = 5.23, df = 1, P < 0.05) or as a synthetic blend mimicking that released by P. hysterophorus.Our results demonstrate that (a) a specific group of plant odours attract female An. gambiae (b) females use both qualitative and quantitative differences in volatile composition to associate and discriminate between different host plants, and (c) altering concentrations of individual EAD-active components in a blend provides a practical direction for developing effective plant-based lures for malaria vector management."
+  ],
+  "affiliation": [
+    "International Centre of Insect Physiology and Ecology, Box 30772, GPO, Nairobi, Kenya."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01A1077722"
+          ],
+          "agency": [
+            "PHS HHS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anopheles gambiae"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plants"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Carbohydrates"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chemotactic Factors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biological Assay"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Feeding Behavior"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gas Chromatography-Mass Spectrometry"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Volatile Organic Compounds"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Carbohydrates"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Chemotactic Factors"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Volatile Organic Compounds"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3523964?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3523964"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23069316/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23069316/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1756-3305-5-234"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "34"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-03-04"
+  ],
+  "dateOfCreation": [
+    "2012-12-18"
+  ],
+  "firstIndexDate": [
+    "2012-10-17"
+  ],
+  "dateOfRevision": [
+    "2016-10-19"
+  ],
+  "electronicPublicationDate": [
+    "2012-10-15"
+  ],
+  "firstPublicationDate": [
+    "2012-10-15"
+  ]
+}

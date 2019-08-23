@@ -1,0 +1,388 @@
+{
+  "id": [
+    "24410756"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24410756"
+  ],
+  "pmcid": [
+    "PMC3903438"
+  ],
+  "doi": [
+    "10.1186/1746-4269-10-2"
+  ],
+  "title": [
+    "The apparency hypothesis applied to a local pharmacopoeia in the Brazilian northeast."
+  ],
+  "authorString": [
+    "Lozano A, Araújo EL, Medeiros MF, Albuquerque UP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lozano A"
+          ],
+          "firstName": [
+            "Alejandro"
+          ],
+          "lastName": [
+            "Lozano"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Araújo EL"
+          ],
+          "firstName": [
+            "Elcida Lima"
+          ],
+          "lastName": [
+            "Araújo"
+          ],
+          "initials": [
+            "EL"
+          ]
+        },
+        {
+          "fullName": [
+            "Medeiros MF"
+          ],
+          "firstName": [
+            "Maria Franco Trindade"
+          ],
+          "lastName": [
+            "Medeiros"
+          ],
+          "initials": [
+            "MF"
+          ]
+        },
+        {
+          "fullName": [
+            "Albuquerque UP"
+          ],
+          "firstName": [
+            "Ulysses Paulino"
+          ],
+          "lastName": [
+            "Albuquerque"
+          ],
+          "initials": [
+            "UP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8131-8429",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Departamento de Biologia, Área de Botânica, Laboratório de Etnobiologia Aplicada e Teórica (LEA), Universidade Federal Rural de Pernambuco, Rua Dom Manoel de Medeiros s/n, Dois Irmãos, Recife 52171-030, Pernambuco, Brasil. upa@db.ufrpe.br."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8131-8429",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3379-3540",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2151910"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of ethnobiology and ethnomedicine"
+          ],
+          "ISOAbbreviation": [
+            "J Ethnobiol Ethnomed"
+          ],
+          "medlineAbbreviation": [
+            "J Ethnobiol Ethnomed"
+          ],
+          "NLMid": [
+            "101245794"
+          ],
+          "ISSN": [
+            "1746-4269"
+          ],
+          "ESSN": [
+            "1746-4269"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "2"
+  ],
+  "abstractText": [
+    "BACKGROUND: Data from an ethnobotanical study were analyzed to see if they were in agreement with the biochemical basis of the apparency hypothesis based on an analysis of a pharmacopeia in a rural community adjacent to the Araripe National Forest (Floresta Nacional do Araripe - FLONA) in northeastern Brazil. The apparency hypothesis considers two groups of plants, apparent and non-apparent, that are characterized by conspicuity for herbivores (humans) and their chemical defenses. METHODS: This study involved 153 interviewees and used semi-structured interviews. The plants were grouped by habit and lignification to evaluate the behavior of these categories in terms of ethnospecies richness, use value and practical and commercial importance. Information about sites for collecting medicinal plants was also obtained. The salience of the ethnospecies was calculated. G-tests were used to test for differences in ethnospecies richness among collection sites and the Kruskal-Wallis test to identify differences in the use values of plants depending on habit and lignifications (e.g. plants were classes as woody or non-woody, the first group comprising trees, shrubs, and lignified climbers (vines) and the latter group comprising herbs and non-lignified climbers). Spearman's correlation test was performed to relate salience to use value and these two factors with the commercial value of the plants. RESULTS: A total of 222 medicinal plants were cited. Herbaceous and woody plants exhibited the highest ethnospecies richness, the non-woody and herbaceous plants had the most practical value (current use), and anthropogenic areas were the main sources of woody and non-woody medicinal plants; herbs and trees were equally versatile in treating diseases and did not differ with regard to use value. Trees were highlighted as the most commercially important growth habit. CONCLUSIONS: From the perspective of its biochemical fundamentals, the apparency hypothesis does not have predictive potential to explain the use value and commercial value of medicinal plants. In other hand, the herbaceous habit showed the highest ethnospecies richness in the community pharmacopeia, which is an expected prediction, corroborating the apparency hypothesis."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Plants, Medicinal"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ethnobotany"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brazil"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Pharmacopoeias as Topic"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3903438?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3903438"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24410756/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24410756/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1746-4269-10-2"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-11-26"
+  ],
+  "dateOfCreation": [
+    "2014-01-28"
+  ],
+  "firstIndexDate": [
+    "2014-01-15"
+  ],
+  "electronicPublicationDate": [
+    "2014-01-10"
+  ],
+  "firstPublicationDate": [
+    "2014-01-10"
+  ]
+}

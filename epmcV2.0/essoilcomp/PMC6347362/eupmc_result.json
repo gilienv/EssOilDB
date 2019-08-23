@@ -1,0 +1,392 @@
+{
+  "id": [
+    "30682122"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30682122"
+  ],
+  "pmcid": [
+    "PMC6347362"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0211237"
+  ],
+  "title": [
+    "Discovery of potential ovicidal natural products using metabolomics."
+  ],
+  "authorString": [
+    "Borges DGL, Echeverria JT, de Oliveira TL, Heckler RP, de Freitas MG, Damasceno-Junior GA, Carollo CA, Borges FA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Borges DGL"
+          ],
+          "firstName": [
+            "Dyego Gonçalves Lino"
+          ],
+          "lastName": [
+            "Borges"
+          ],
+          "initials": [
+            "DGL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3430-4788",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Veterinary Medicine and Animal Science, Federal University of Mato Grosso do Sul, Campo Grande, Mato Grosso do Sul, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Echeverria JT"
+          ],
+          "firstName": [
+            "Jessica Teles"
+          ],
+          "lastName": [
+            "Echeverria"
+          ],
+          "initials": [
+            "JT"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7500-1230",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Veterinary Medicine and Animal Science, Federal University of Mato Grosso do Sul, Campo Grande, Mato Grosso do Sul, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "de Oliveira TL"
+          ],
+          "firstName": [
+            "Tamires Lima"
+          ],
+          "lastName": [
+            "de Oliveira"
+          ],
+          "initials": [
+            "TL"
+          ],
+          "affiliation": [
+            "School of Veterinary Medicine and Animal Science, Federal University of Mato Grosso do Sul, Campo Grande, Mato Grosso do Sul, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Heckler RP"
+          ],
+          "firstName": [
+            "Rafael Pereira"
+          ],
+          "lastName": [
+            "Heckler"
+          ],
+          "initials": [
+            "RP"
+          ],
+          "affiliation": [
+            "School of Veterinary Medicine and Animal Science, Federal University of Mato Grosso do Sul, Campo Grande, Mato Grosso do Sul, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "de Freitas MG"
+          ],
+          "firstName": [
+            "Mariana Green"
+          ],
+          "lastName": [
+            "de Freitas"
+          ],
+          "initials": [
+            "MG"
+          ],
+          "affiliation": [
+            "School of Veterinary Medicine and Animal Science, Federal University of Mato Grosso do Sul, Campo Grande, Mato Grosso do Sul, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Damasceno-Junior GA"
+          ],
+          "firstName": [
+            "Geraldo Alves"
+          ],
+          "lastName": [
+            "Damasceno-Junior"
+          ],
+          "initials": [
+            "GA"
+          ],
+          "affiliation": [
+            "Institute of Biosciences, Federal University of Mato Grosso do Sul, Campo Grande, Mato Grosso do Sul, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Carollo CA"
+          ],
+          "firstName": [
+            "Carlos Alexandre"
+          ],
+          "lastName": [
+            "Carollo"
+          ],
+          "initials": [
+            "CA"
+          ],
+          "affiliation": [
+            "School of Pharmaceutical Sciences, Food and Nutrition, Federal University of Mato Grosso do Sul, Campo Grande, Mato Grosso do Sul, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Borges FA"
+          ],
+          "firstName": [
+            "Fernando de Almeida"
+          ],
+          "lastName": [
+            "Borges"
+          ],
+          "initials": [
+            "FA"
+          ],
+          "affiliation": [
+            "School of Veterinary Medicine and Animal Science, Federal University of Mato Grosso do Sul, Campo Grande, Mato Grosso do Sul, Brazil."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3430-4788",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7500-1230",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2765643"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e0211237"
+  ],
+  "abstractText": [
+    "Plant extracts are a potential source of new compounds for nematode control and may be an excellent alternative for the control gastrointestinal nematodes that are resistant to conventional anthelmintics. However, research involving natural products is a complex process. The main challenge is the identification of bioactive compounds. Online analytical techniques with universal detectors, such as high-performance liquid chromatography-mass spectrometry (HPLC-MS), together with metabolomics could enable the fast, accurate evaluation of a massive amount of data, constituting a viable option for the identification of active compounds in plant extracts. This study focused on the evaluation of the ovicidal activity of ethanol extracts from 17 plants collected from the Pantanal wetland in the state of Mato Grosso do Sul, Brazil, against eggs of Haemonchus placei using the egg hatchability test. The ethanol extracts were obtained using accelerated solvent extraction. The data on ovicidal activity, mass spectrometry and metabolomics were evaluated using HPLC-DAD-MS, partial least squares regression analysis (PLS-DA) and a correlation map (univariate correlation analyses) to detect compounds that have a positive correlation with biological activity. Among the ten metabolites with the best correlation coefficients, six were phenylpropanoids, two were triterpene saponins, one was a brevipolide, and one was a flavonoid. Combinations of metabolites with high ovicidal action were also identified, such as phenylpropanoids combined with the triterpene saponins and the flavonoid, flavonoids combined with iridoid and phenylpropanoids, and saponins combined with phenylpropanoid. The positive correlation between classes of compounds in plants belonging to different genera and biological activity (as previously identified in the literature) reinforces the robustness of the statistical data and demonstrates the efficacy of this method for the selection of bioactive compounds without the need for isolation and reevaluation. The proposed method also enables the determination of synergism among the classes, which would be impracticable using traditional methods. The present investigation demonstrates that the metabolomic technique was efficient at detecting secondary metabolites with ovicidal activity against H. placei. Thus, the use of metabolomics can be a tool to accelerate and simplify bioprospecting research with plant extracts in veterinary parasitology."
+  ],
+  "affiliation": [
+    "School of Veterinary Medicine and Animal Science, Federal University of Mato Grosso do Sul, Campo Grande, Mato Grosso do Sul, Brazil."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6347362?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6347362"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0211237"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-01-26"
+  ],
+  "firstIndexDate": [
+    "2019-01-26"
+  ],
+  "dateOfRevision": [
+    "2019-02-19"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-25"
+  ],
+  "firstPublicationDate": [
+    "2019-01-25"
+  ]
+}

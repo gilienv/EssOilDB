@@ -1,0 +1,686 @@
+{
+  "id": [
+    "27136520"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27136520"
+  ],
+  "pmcid": [
+    "PMC6272852"
+  ],
+  "doi": [
+    "10.3390/molecules21050529"
+  ],
+  "title": [
+    "Nerolidol: A Sesquiterpene Alcohol with Multi-Faceted Pharmacological and Biological Activities."
+  ],
+  "authorString": [
+    "Chan WK, Tan LT, Chan KG, Lee LH, Goh BH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chan WK"
+          ],
+          "firstName": [
+            "Weng-Keong"
+          ],
+          "lastName": [
+            "Chan"
+          ],
+          "initials": [
+            "WK"
+          ],
+          "affiliation": [
+            "School of Pharmacy, Monash University Malaysia, 47500 Bandar Sunway, Selangor Darul Ehsan, Malaysia. wkcha29@student.monash.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Tan LT"
+          ],
+          "firstName": [
+            "Loh Teng-Hern"
+          ],
+          "lastName": [
+            "Tan"
+          ],
+          "initials": [
+            "LT"
+          ],
+          "affiliation": [
+            "School of Pharmacy, Monash University Malaysia, 47500 Bandar Sunway, Selangor Darul Ehsan, Malaysia. lttan13@student.monash.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Chan KG"
+          ],
+          "firstName": [
+            "Kok-Gan"
+          ],
+          "lastName": [
+            "Chan"
+          ],
+          "initials": [
+            "KG"
+          ],
+          "affiliation": [
+            "Division of Genetics and Molecular Biology, Institute of Biological Sciences, Faculty of Science, University of Malaya, 50603 Kuala Lumpur, Malaysia. kokgan@um.edu.my."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee LH"
+          ],
+          "firstName": [
+            "Learn-Han"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "LH"
+          ],
+          "affiliation": [
+            "School of Pharmacy, Monash University Malaysia, 47500 Bandar Sunway, Selangor Darul Ehsan, Malaysia. lee.learn.han@monash.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Goh BH"
+          ],
+          "firstName": [
+            "Bey-Hing"
+          ],
+          "lastName": [
+            "Goh"
+          ],
+          "initials": [
+            "BH"
+          ],
+          "affiliation": [
+            "School of Pharmacy, Monash University Malaysia, 47500 Bandar Sunway, Selangor Darul Ehsan, Malaysia. leelearnhan@yahoo.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1883-1115",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "21"
+      ],
+      "journalIssueId": [
+        "2506941"
+      ],
+      "dateOfPublication": [
+        "2016 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecules (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Molecules"
+          ],
+          "medlineAbbreviation": [
+            "Molecules"
+          ],
+          "NLMid": [
+            "100964009"
+          ],
+          "ISSN": [
+            "1420-3049"
+          ],
+          "ESSN": [
+            "1420-3049"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "abstractText": [
+    "Nerolidol (3,7,11-trimethyl-1,6,10-dodecatrien-3-ol) is a naturally occurring sesquiterpene alcohol that is present in various plants with a floral odor. It is synthesized as an intermediate in the production of (3E)-4,8-dimethy-1,3,7-nonatriene (DMNT), a herbivore-induced volatile that protects plants from herbivore damage. Chemically, nerolidol exists in two geometric isomers, a trans and a cis form. The usage of nerolidol is widespread across different industries. It has been widely used in cosmetics (e.g., shampoos and perfumes) and in non-cosmetic products (e.g., detergents and cleansers). In fact, U.S. Food and Drug Administration (FDA) has also permitted the use of nerolidol as a food flavoring agent. The fact that nerolidol is a common ingredient in many products has attracted researchers to explore more medicinal properties of nerolidol that may exert beneficial effect on human health. Therefore, the aim of this review is to compile and consolidate the data on the various pharmacological and biological activities displayed by nerolidol. Furthermore, this review also includes pharmacokinetic and toxicological studies of nerolidol. In summary, the various pharmacological and biological activities demonstrated in this review highlight the prospects of nerolidol as a promising chemical or drug candidate in the field of agriculture and medicine."
+  ],
+  "affiliation": [
+    "School of Pharmacy, Monash University Malaysia, 47500 Bandar Sunway, Selangor Darul Ehsan, Malaysia. wkcha29@student.monash.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sesquiterpenes"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oils, Volatile"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antioxidants"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cosmetics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Flavoring Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Detergents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "United States Food and Drug Administration"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "United States"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Sesquiterpene",
+        "Essential oil",
+        "Pharmacological activities",
+        "Cis-nerolidol",
+        "Trans-nerolidol"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Sesquiterpenes"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Oils, Volatile"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Detergents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Antioxidants"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Cosmetics"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Flavoring Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "nerolidol"
+          ],
+          "registryNumber": [
+            "QR6IP857S6"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6272852?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6272852"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/molecules21050529"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "19"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-03-06"
+  ],
+  "dateOfCreation": [
+    "2016-05-03"
+  ],
+  "firstIndexDate": [
+    "2016-05-03"
+  ],
+  "dateOfRevision": [
+    "2019-01-08"
+  ],
+  "electronicPublicationDate": [
+    "2016-04-28"
+  ],
+  "firstPublicationDate": [
+    "2016-04-28"
+  ]
+}

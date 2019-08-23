@@ -1,0 +1,293 @@
+{
+  "id": [
+    "26941996"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26941996"
+  ],
+  "pmcid": [
+    "PMC4752983"
+  ],
+  "doi": [
+    "10.1155/2016/2857089"
+  ],
+  "title": [
+    "Evaluation of the Larvicidal Efficacy of Five Indigenous Weeds against an Indian Strain of Dengue Vector, Aedes aegypti L. (Diptera: Culicidae)."
+  ],
+  "authorString": [
+    "Sharma A, Kumar S, Tripathi P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sharma A"
+          ],
+          "firstName": [
+            "Aarti"
+          ],
+          "lastName": [
+            "Sharma"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "School of Life Sciences, Indira Gandhi National Open University, Maidan Garhi, New Delhi 110068, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Kumar S"
+          ],
+          "firstName": [
+            "Sarita"
+          ],
+          "lastName": [
+            "Kumar"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1066-3057",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Zoology, Acharya Narendra Dev College, University of Delhi, Kalka Ji, New Delhi 110019, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Tripathi P"
+          ],
+          "firstName": [
+            "Pushplata"
+          ],
+          "lastName": [
+            "Tripathi"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "School of Life Sciences, Indira Gandhi National Open University, Maidan Garhi, New Delhi 110068, India."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1066-3057",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2016"
+      ],
+      "journalIssueId": [
+        "2375759"
+      ],
+      "dateOfPublication": [
+        "2016 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of parasitology research"
+          ],
+          "ISOAbbreviation": [
+            "J Parasitol Res"
+          ],
+          "medlineAbbreviation": [
+            "J Parasitol Res"
+          ],
+          "NLMid": [
+            "101526294"
+          ],
+          "ISSN": [
+            "2090-0023"
+          ],
+          "ESSN": [
+            "2090-0031"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "2857089"
+  ],
+  "abstractText": [
+    "Background and Objectives. Aedes aegypti, dengue fever mosquito, is primarily associated with the transmission of dengue and chikungunya in tropical and subtropical regions of the world. The present investigations were carried out to assess the larvicidal efficiency of five indigenous weeds against Ae. aegypti. Methods. The 1,000 ppm hexane and ethanol extracts prepared from the leaves and stem of five plants (Achyranthes aspera, Cassia occidentalis, Catharanthus roseus, Lantana camara, and Xanthium strumarium) were screened for their larvicidal activity against early fourth instars of dengue vector. The extracts which could cause 80-100% mortality were further investigated for their efficacy. Results. The preliminary screening established the efficacy of hexane extracts as compared to the ethanol extracts. Further investigations revealed the highest larvicidal potential of A. aspera extracts exhibiting LC50 value of 82.555 ppm and 68.133 ppm, respectively. Further, their leaf extracts showed 5-85.9% higher larvicidal activity and stem extracts exhibited 0.23- to 0.85-fold more efficiency than the other four extracts. Conclusion. The present investigations suggest the possible use of A. aspera as an ideal ecofriendly, larvicidal agent for the control of dengue vector, Ae. aegypti. Future studies are, however, required to explore and identify the bioactive component involved and its mode of action."
+  ],
+  "affiliation": [
+    "School of Life Sciences, Indira Gandhi National Open University, Maidan Garhi, New Delhi 110068, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4752983?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4752983"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2016/2857089"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-03-04"
+  ],
+  "dateOfCreation": [
+    "2016-03-04"
+  ],
+  "firstIndexDate": [
+    "2016-03-05"
+  ],
+  "dateOfRevision": [
+    "2016-03-06"
+  ],
+  "electronicPublicationDate": [
+    "2016-01-31"
+  ],
+  "firstPublicationDate": [
+    "2016-01-31"
+  ]
+}

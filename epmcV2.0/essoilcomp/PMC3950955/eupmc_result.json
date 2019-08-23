@@ -1,0 +1,334 @@
+{
+  "id": [
+    "24627729"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24627729"
+  ],
+  "pmcid": [
+    "PMC3950955"
+  ],
+  "doi": [
+    "10.2174/1874285801408010006"
+  ],
+  "title": [
+    "Essential oils, a new horizon in combating bacterial antibiotic resistance."
+  ],
+  "authorString": [
+    "Yap PS, Yiap BC, Ping HC, Lim SH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yap PS"
+          ],
+          "firstName": [
+            "Polly Soo Xi"
+          ],
+          "lastName": [
+            "Yap"
+          ],
+          "initials": [
+            "PS"
+          ],
+          "affiliation": [
+            "School of Postgraduate Studies and Research, International Medical University, No. 126, Jalan Jalil Perkasa 19, Bukit Jalil, 57000 Kuala Lumpur, Malaysia."
+          ]
+        },
+        {
+          "fullName": [
+            "Yiap BC"
+          ],
+          "firstName": [
+            "Beow Chin"
+          ],
+          "lastName": [
+            "Yiap"
+          ],
+          "initials": [
+            "BC"
+          ],
+          "affiliation": [
+            "School of Pharmacy, Department of Life Sciences, International Medical University, No. 126, Jalan Jalil Perkasa 19, Bukit Jalil, 57000 Kuala Lumpur, Malaysia."
+          ]
+        },
+        {
+          "fullName": [
+            "Ping HC"
+          ],
+          "firstName": [
+            "Hu Cai"
+          ],
+          "lastName": [
+            "Ping"
+          ],
+          "initials": [
+            "HC"
+          ],
+          "affiliation": [
+            "School of Health Sciences, Department of Chinese Medicine, International Medical University, No. 126, Jalan Jalil Perkasa 19, Bukit Jalil, 57000 Kuala Lumpur, Malaysia."
+          ]
+        },
+        {
+          "fullName": [
+            "Lim SH"
+          ],
+          "firstName": [
+            "Swee Hua Erin"
+          ],
+          "lastName": [
+            "Lim"
+          ],
+          "initials": [
+            "SH"
+          ],
+          "affiliation": [
+            "School of Pharmacy, Department of Life Sciences, International Medical University, No. 126, Jalan Jalil Perkasa 19, Bukit Jalil, 57000 Kuala Lumpur, Malaysia."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2139306"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The open microbiology journal"
+          ],
+          "ISOAbbreviation": [
+            "Open Microbiol J"
+          ],
+          "medlineAbbreviation": [
+            "Open Microbiol J"
+          ],
+          "NLMid": [
+            "101480482"
+          ],
+          "ISSN": [
+            "1874-2858"
+          ],
+          "ESSN": [
+            "1874-2858"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "6-14"
+  ],
+  "abstractText": [
+    "For many years, the battle between humans and the multitudes of infection and disease causing pathogens continues. Emerging at the battlefield as some of the most significant challenges to human health are bacterial resistance and its rapid rise. These have become a major concern in global public health invigorating the need for new antimicrobial compounds. A rational approach to deal with antibiotic resistance problems requires detailed knowledge of the different biological and non-biological factors that affect the rate and extent of resistance development. Combination therapy combining conventional antibiotics and essential oils is currently blooming and represents a potential area for future investigations. This new generation of phytopharmaceuticals may shed light on the development of new pharmacological regimes in combating antibiotic resistance. This review consolidated and described the observed synergistic outcome between essential oils and antibiotics, and highlighted the possibilities of essential oils as the potential resistance modifying agent."
+  ],
+  "affiliation": [
+    "School of Postgraduate Studies and Research, International Medical University, No. 126, Jalan Jalil Perkasa 19, Bukit Jalil, 57000 Kuala Lumpur, Malaysia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Essential oils",
+        "Antibiotic Resistance",
+        "Combination therapy",
+        "Resistance Modifying Agents."
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3950955?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3950955"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24627729/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24627729/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2174/1874285801408010006"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "38"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-03-14"
+  ],
+  "dateOfCreation": [
+    "2014-03-15"
+  ],
+  "firstIndexDate": [
+    "2014-03-15"
+  ],
+  "dateOfRevision": [
+    "2018-10-05"
+  ],
+  "electronicPublicationDate": [
+    "2014-02-07"
+  ],
+  "firstPublicationDate": [
+    "2014-02-07"
+  ]
+}

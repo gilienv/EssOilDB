@@ -1,0 +1,485 @@
+{
+  "id": [
+    "30045744"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30045744"
+  ],
+  "pmcid": [
+    "PMC6060550"
+  ],
+  "doi": [
+    "10.1186/s13002-018-0238-3"
+  ],
+  "title": [
+    "First large-scale ethnobotanical survey in the province of Uíge, northern Angola."
+  ],
+  "authorString": [
+    "Lautenschläger T, Monizi M, Pedro M, Mandombe JL, Bránquima MF, Heinze C, Neinhuis C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lautenschläger T"
+          ],
+          "firstName": [
+            "Thea"
+          ],
+          "lastName": [
+            "Lautenschläger"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4013-9456",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biology, Institute of Botany, Faculty of Science, Technische Universität Dresden, 01062, Dresden, Germany. thea.lautenschlaeger@tu-dresden.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Monizi M"
+          ],
+          "firstName": [
+            "Mawunu"
+          ],
+          "lastName": [
+            "Monizi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "University Kimpa Vita, Province of Uíge, Rua Henrique Freitas No. 1, Bairro Popular, Uíge, Angola."
+          ]
+        },
+        {
+          "fullName": [
+            "Pedro M"
+          ],
+          "firstName": [
+            "Macuntima"
+          ],
+          "lastName": [
+            "Pedro"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "University Kimpa Vita, Province of Uíge, Rua Henrique Freitas No. 1, Bairro Popular, Uíge, Angola."
+          ]
+        },
+        {
+          "fullName": [
+            "Mandombe JL"
+          ],
+          "firstName": [
+            "José Lau"
+          ],
+          "lastName": [
+            "Mandombe"
+          ],
+          "initials": [
+            "JL"
+          ],
+          "affiliation": [
+            "University Kimpa Vita, Province of Uíge, Rua Henrique Freitas No. 1, Bairro Popular, Uíge, Angola."
+          ]
+        },
+        {
+          "fullName": [
+            "Bránquima MF"
+          ],
+          "firstName": [
+            "Makaya Futuro"
+          ],
+          "lastName": [
+            "Bránquima"
+          ],
+          "initials": [
+            "MF"
+          ],
+          "affiliation": [
+            "University Kimpa Vita, Province of Uíge, Rua Henrique Freitas No. 1, Bairro Popular, Uíge, Angola."
+          ]
+        },
+        {
+          "fullName": [
+            "Heinze C"
+          ],
+          "firstName": [
+            "Christin"
+          ],
+          "lastName": [
+            "Heinze"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Biology, Institute of Botany, Faculty of Science, Technische Universität Dresden, 01062, Dresden, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Neinhuis C"
+          ],
+          "firstName": [
+            "Christoph"
+          ],
+          "lastName": [
+            "Neinhuis"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Biology, Institute of Botany, Faculty of Science, Technische Universität Dresden, 01062, Dresden, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4013-9456",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2706543"
+      ],
+      "dateOfPublication": [
+        "2018 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of ethnobiology and ethnomedicine"
+          ],
+          "ISOAbbreviation": [
+            "J Ethnobiol Ethnomed"
+          ],
+          "medlineAbbreviation": [
+            "J Ethnobiol Ethnomed"
+          ],
+          "NLMid": [
+            "101245794"
+          ],
+          "ISSN": [
+            "1746-4269"
+          ],
+          "ESSN": [
+            "1746-4269"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "51"
+  ],
+  "abstractText": [
+    "BACKGROUND:Angola suffered a long-lasting military conflict. Therefore, traditional knowledge of plant usage is still an important part of cultural heritage, especially concerning the still very poor health care system in the country. Our study documents for the first time traditional knowledge of plant use of local Bakongo communities in the northern province of Uíge on a large scale with a focus on medicinal plants and puts data in context to different parameters of age, gender and distance to the provincial capital. METHODS:Field work was carried out during nine field trips in 13 municipalities between October 2013 and October 2016. In 62 groups, 162 informants were interviewed. Herbarium specimens were taken for later identification. Database was analysed using Relative Frequency of Citations, Cultural Importance Index, and Informant Consensus Factor. Furthermore, significances of influence of age, gender and distance were calculated. RESULTS:Our study presents 2390 use-reports, listing 358 species in 96 plant families, while just three out of 358 mentioned species are endemic to Angola about one-fifth are neophytes. The larger the distance, the higher the number of use citations of medical plants. Although women represent just a fifth of all citations (22%), their contribution to medicinal plants was proportionally even higher (83%) than those of men (74%). Fifty percent of all plants mentioned in the study were just listed by men, 12% just by women. We made some new discoveries, for example. Gardenia ternifolia seems to be promising for treatment of measles, and Annona stenophylla subsp. cuneata has never been ethnobotanically nor phytochemically investigated. CONCLUSIONS:While the study area is large, no significant influence of the distance in regard to species composition in traditional healer's concepts of the respective village was pointed out. Although several plants were just mentioned by women or men, respectively, no significant restriction to gender-specific illnesses in medical plant use could be found. Merely concerning the age of informants, a slight shift could be detected. Visual representation of the ethnobotanical study in Uíge, northern Angola."
+  ],
+  "affiliation": [
+    "Department of Biology, Institute of Botany, Faculty of Science, Technische Universität Dresden, 01062, Dresden, Germany. thea.lautenschlaeger@tu-dresden.de."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "54392306"
+          ],
+          "agency": [
+            "Deutscher Akademischer Austauschdienst"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Plants, Medicinal"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Medicine, Traditional"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Ethnobotany"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Knowledge"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Angola"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Medicinal plants",
+        "ethnobotany",
+        "Angola",
+        "Neophytes",
+        "Gender-specific",
+        "Influence Of Distance"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6060550?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6060550"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13002-018-0238-3"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-11-27"
+  ],
+  "dateOfCreation": [
+    "2018-07-27"
+  ],
+  "firstIndexDate": [
+    "2018-07-27"
+  ],
+  "dateOfRevision": [
+    "2018-11-27"
+  ],
+  "electronicPublicationDate": [
+    "2018-07-25"
+  ],
+  "firstPublicationDate": [
+    "2018-07-25"
+  ]
+}

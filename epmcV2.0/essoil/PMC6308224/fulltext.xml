@@ -1,0 +1,747 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName tax-treatment-NS0.dtd?><?SourceDTD.Version 0.0?><?ConverterInfo.XSLTName taxpub2nlmx.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Zookeys</journal-id><journal-id journal-id-type="iso-abbrev">Zookeys</journal-id><journal-id journal-id-type="publisher-id">ZooKeys</journal-id><journal-title-group><journal-title>ZooKeys</journal-title></journal-title-group><issn pub-type="ppub">1313-2989</issn><issn pub-type="epub">1313-2970</issn><publisher><publisher-name>Pensoft Publishers</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6308224</article-id><article-id pub-id-type="doi">10.3897/zookeys.810.28457</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="biological_taxon"><subject>Thysanoptera</subject></subj-group><subj-group subj-group-type="scientific_subject"><subject>Systematics</subject></subj-group><subj-group subj-group-type="geographical_area"><subject>Asia</subject></subj-group></article-categories><title-group><article-title>The economically important thrips from Malaysia, with a key to species (<named-content content-type="taxon-name"><named-content content-type="genus">Thysanoptera</named-content></named-content>, <named-content content-type="taxon-name"><named-content content-type="subfamily">Thripinae</named-content></named-content>)</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><name><surname>Ng</surname><given-names>Yong Foo</given-names></name><xref ref-type="aff" rid="A1">1</xref><email>ng_yf@ukm.edu.my</email></contrib><contrib contrib-type="author"><name><surname>Zaimi</surname><given-names>J Saiful</given-names></name><xref ref-type="aff" rid="A2">2</xref></contrib></contrib-group><aff id="A1">
+<label>1</label>
+<addr-line content-type="verbatim">Centre for Insect Systematics (CIS), Universiti Kebangsaan Malaysia, 43600 Bangi, Selangor, Malaysia</addr-line>
+<institution>Universiti Kebangsaan Malaysia</institution>
+<addr-line content-type="city">Bangi</addr-line>
+<country>Malaysia</country>
+</aff><aff id="A2">
+<label>2</label>
+<addr-line content-type="verbatim">Malaysian Agricultural Research and Development Institute, MARDI Cameron Highlands 39007 Tanah Rata, Pahang, Malaysia</addr-line>
+<institution>Malaysian Agricultural Research and Development Institute</institution>
+<addr-line content-type="city">Tanah Rata</addr-line>
+<country>Malaysia</country>
+</aff><author-notes><corresp>Corresponding author: Yong Foo Ng (<email xlink:type="simple">ng_yf@ukm.edu.my</email>)</corresp><fn fn-type="edited-by"><p>Academic editor: L. Mound</p></fn></author-notes><pub-date pub-type="collection"><year>2018</year></pub-date><pub-date pub-type="epub"><day>20</day><month>12</month><year>2018</year></pub-date><issue>810</issue><fpage>113</fpage><lpage>126</lpage><history><date date-type="received"><day>18</day><month>7</month><year>2018</year></date><date date-type="accepted"><day>10</day><month>10</month><year>2018</year></date></history><permissions><copyright-statement>Yong Foo Ng, J Saiful Zaimi</copyright-statement><license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license></permissions><self-uri content-type="zoobank" xlink:type="simple" xlink:href="http://zoobank.org/F6CF8990-E9F2-4B6D-B3D7-D6D34498BEEC">http://zoobank.org/F6CF8990-E9F2-4B6D-B3D7-D6D34498BEEC</self-uri><abstract><label>Abstract</label><p>An illustrated key is provided to the economically important <named-content content-type="taxon-name"><named-content content-type="subfamily">Thripinae</named-content></named-content> (<named-content content-type="taxon-name"><named-content content-type="genus">Thysanoptera</named-content></named-content>) of Malaysia, together with a checklist and information on hosts and distributions. Information about the diversity and pest status for these <named-content content-type="taxon-name"><named-content content-type="subfamily">Thripinae</named-content></named-content> is provided, together with the prominent character states that are useful for recognising each species.</p></abstract><kwd-group><label>Keywords</label><kwd>Economically important</kwd><kwd>Malaysia</kwd><kwd><named-content content-type="taxon-name">
+<named-content content-type="subfamily">Thripinae</named-content>
+</named-content></kwd><kwd>thrips</kwd><kwd><named-content content-type="taxon-name">
+<named-content content-type="genus">Thysanoptera</named-content>
+</named-content></kwd></kwd-group></article-meta><notes><sec sec-type="Citation" id="SECID0E6E"><title>Citation</title><p>Ng YF, Zaimi JS (2018) The economically important thrips from Malaysia, with a key to species (Thysanoptera, Thripinae). ZooKeys 810: 113&#x02013;126. <ext-link ext-link-type="doi" xlink:href="10.3897/zookeys.810.28457">https://doi.org/10.3897/zookeys.810.28457</ext-link></p></sec></notes></front><body><sec sec-type="Introduction" id="SECID0EVF"><title>Introduction</title><p>Of the 6200 thrips species worldwide (<xref rid="B23" ref-type="bibr">ThripsWiki 2018</xref>), most of the economically important pest species are members of the subfamily <named-content content-type="taxon-name"><named-content content-type="subfamily">Thripinae</named-content></named-content>. Notorious for their broad range of hosts, members of this subfamily are small, pale to dark brown in colour, and often occur in large populations. The common injuries are fruit scarring and flower decolouration, which directly lowers the aesthetic value and market price of crops. Moreover, crops infested by thrips may be banned from importation into countries with strict biological quarantine procedures, such as USA, Australia, Japan, and European countries. Other indirect damages include the reduction of crop yields due to foliage and flower dropping caused by the insect&#x02019;s feeding activities. Several species <!--PageBreak-->of <named-content content-type="taxon-name"><named-content content-type="subfamily">Thripinae</named-content></named-content> are also the only known vectors of important plant tospoviruses (<xref rid="B9" ref-type="bibr">Moritz et al. 2003</xref>), such as the Tomato Spotted Wilt Virus (<abbrev xlink:title="Tomato Spotted Wilt Virus" id="ABBRID0EPG">TSWV</abbrev>), <named-content content-type="taxon-name"><named-content content-type="genus">Impatiens</named-content></named-content> Necrotic Spot Virus (<abbrev xlink:title="Impatiens Necrotic Spot Virus" id="ABBRID0EZG">INSV</abbrev>), and other tospoviruses as reported by <xref rid="B21" ref-type="bibr">Rotenberg et al. (2015)</xref>.</p><p>Members of <named-content content-type="taxon-name"><named-content content-type="subfamily">Thripinae</named-content></named-content> can be identified only with certainty after careful mounting onto microscope slides. Partly due to a lack of trained workers and quick identification keys, the pest management practices for these minute insects in Malaysian agriculture and horticulture industry have been impeded, compared to temperate countries where thrips are generally better studied. For instance, although commonly occurring in a wide range of ornamental flowers and vegetable crops, there has been no identification key to the range of species found on crops in Malaysia. This paper introduces the economically important pest species of the subfamily <named-content content-type="taxon-name"><named-content content-type="subfamily">Thripinae</named-content></named-content> recorded from Malaysia, together with an illustrated key to these common pests. A list of host plants and distributions for each species are also included, and information on morphology and biology is also explained wherever possible. A key to the 65 genera of <named-content content-type="taxon-name"><named-content content-type="subfamily">Thripinae</named-content></named-content> recorded from South East Asia was provided by <xref rid="B10" ref-type="bibr">Mound and Ng (2009)</xref>, and a key to the 23 species of the genus <italic><named-content content-type="taxon-name"><named-content content-type="genus">Thrips</named-content></named-content></italic> recorded from Peninsular Malaysia was provided by <xref rid="B12" ref-type="bibr">Mound and Azidah (2009)</xref>.</p></sec><sec sec-type="materials|methods" id="SECID0ECAAC"><title>Material and methods</title><p>The specimens studied were obtained by field sampling in Malaysia. Methods used for collecting were by hand-searching and beating. Samples collected were processed onto permanent microscopic slides in Canada Balsam, after maceration in 5% NaOH and dehydration through a series of alcohols of 70%, 80%, 90% and absolute. These slides were then dried at 45 &#x000b0;C on a slide warmer, before being transferred into an oven for at least one month. All studied slides are deposited in the Centre for Insects Systematics (<bold><abbrev content-type="institution" xlink:title="Centre for Insects Systematics" id="ABBRID0EJAAC">CISUKM</abbrev></bold>), Universiti Kebangsaan Malaysia. Identifications and diagnoses were carried out with a differential interference contrast (<abbrev xlink:title="differential interference contrast" id="ABBRID0EOAAC">DIC</abbrev>) microscope (Olympus BX41) as indicated in the photomicrographs that accompany the key provided here.</p></sec><sec sec-type="Results" id="SECID0ESAAC"><title>Results</title><sec sec-type="Key to the economically important thrips from malaysia" id="SECID0EWAAC"><title>Key to the economically important thrips from malaysia</title><table-wrap content-type="key" orientation="portrait" id="d36e274" position="anchor"><table frame="hsides" rules="all" id="TID0EKAAC"><tbody><tr><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">Abdominal tergites with numerous rows of microtrichia (at least on the lateral third) (Fig. <xref ref-type="fig" rid="F1">10</xref>); antennae with 8 segments; body length usually about 1mm or shorter</td><td rowspan="1" colspan="1">
+<bold><italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Scirtothrips</named-content>
+<named-content content-type="species">dorsalis</named-content>
+</named-content></italic></bold>
+</td></tr><tr><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">Abdominal tergites without numerous rows of microtrichia (Figs <xref ref-type="fig" rid="F1">8</xref>, <xref ref-type="fig" rid="F1">9</xref>); antennae with 7 or 8 segments (Fig. <xref ref-type="fig" rid="F1">7</xref>); body length usually more than 1 mm</td><td rowspan="1" colspan="1">
+<bold>2</bold>
+</td></tr><tr><td rowspan="1" colspan="1">2</td><td rowspan="1" colspan="1">Abdominal tergites VI&#x02013;VIII with a pair of ctenidia laterally (Figs <xref ref-type="fig" rid="F1">8</xref>, <xref ref-type="fig" rid="F1">9</xref>)</td><td rowspan="1" colspan="1">
+<bold>3</bold>
+</td></tr><tr><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">Abdominal tergites VI&#x02013;VII without a pair of ctenidia laterally</td><td rowspan="1" colspan="1">
+<bold>10</bold>
+</td></tr><tr><td rowspan="1" colspan="1">3</td><td rowspan="1" colspan="1">Ocellar setae pair I present (Figs <xref ref-type="fig" rid="F1">1</xref>, <xref ref-type="fig" rid="F1">4</xref>, <xref ref-type="fig" rid="F1">5</xref>); Pronotal anterior margin with 1 or 2 pairs of long setae</td><td rowspan="1" colspan="1">
+<bold>4</bold>
+</td></tr><!--PageBreak--><tr><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">Ocellar setae pair I absent (Figs <xref ref-type="fig" rid="F1">2</xref>, <xref ref-type="fig" rid="F1">3</xref>); Pronotal anterior margin without any pairs of long setae</td><td rowspan="1" colspan="1">
+<bold>6</bold>
+</td></tr><tr><td rowspan="1" colspan="1">4</td><td rowspan="1" colspan="1">Tergite VIII of female without a posteromarginal comb of microtrichia; head with ocellar setae pair III close together and arising within ocellar triangle (Fig. <xref ref-type="fig" rid="F1">5</xref>)</td><td rowspan="1" colspan="1">
+<bold><italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Franklliniella</named-content>
+<named-content content-type="species">schultzei</named-content>
+</named-content></italic></bold>
+</td></tr><tr><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">Tergite VIII of female with posteromarginal comb of microtrichia; ocellar setae pair III arising just outside anterior margins of ocellar triangle (Fig. <xref ref-type="fig" rid="F1">4</xref>)</td><td rowspan="1" colspan="1">
+<bold>5</bold>
+</td></tr><tr><td rowspan="1" colspan="1">5</td><td rowspan="1" colspan="1">Metanotum with a pair of campaniform sensilla (Fig. <xref ref-type="fig" rid="F2">17</xref>); postocular setae pair IV about as long as distance between hind ocelli</td><td rowspan="1" colspan="1">
+<bold><italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Frankliniella</named-content>
+<named-content content-type="species">occidentalis</named-content>
+</named-content></italic></bold>
+</td></tr><tr><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">Metanotum without a pair of campaniform sensilla; postocular setae IV short, not longer than distance between hind ocelli (Fig. <xref ref-type="fig" rid="F1">4</xref>)</td><td rowspan="1" colspan="1">
+<bold><italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Frankliniella</named-content>
+<named-content content-type="species">intonsa</named-content>
+</named-content></italic></bold>
+</td></tr><tr><td rowspan="1" colspan="1">6</td><td rowspan="1" colspan="1">Abdominal tergites with triangular lobes of craspedum on posterior margin (Fig. <xref ref-type="fig" rid="F1">8</xref>); prosternal basantra with several setae (Fig. <xref ref-type="fig" rid="F2">13</xref>)</td><td rowspan="1" colspan="1">
+<bold><italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Microcephalothrips</named-content>
+<named-content content-type="species">abdominalis</named-content>
+</named-content></italic></bold>
+</td></tr><tr><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">Abdominal tergites without craspedum (cf. Fig. <xref ref-type="fig" rid="F1">9</xref>); prosternal basantra never with setae</td><td rowspan="1" colspan="1">
+<bold>7</bold>
+</td></tr><tr><td rowspan="1" colspan="1">7</td><td rowspan="1" colspan="1">Ocellar setae II longer than setae III; postocular setae setae I and III usually long</td><td rowspan="1" colspan="1">
+<bold><italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Stenchaetothrips</named-content>
+<named-content content-type="species">biformis</named-content>
+</named-content></italic></bold>
+</td></tr><tr><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">Ocellar setae II longer than setae III; postocular setae setae I and III usually short</td><td rowspan="1" colspan="1">
+<bold>8</bold>
+</td></tr><tr><td rowspan="1" colspan="1">8</td><td rowspan="1" colspan="1">Metanotal median setae arising far the behind anterior margin (Fig. <xref ref-type="fig" rid="F2">16</xref>); abdominal sternites IV&#x02013;VI without discal setae (Fig. <xref ref-type="fig" rid="F1">12</xref>)</td><td rowspan="1" colspan="1">
+<bold><italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Thrips</named-content>
+<named-content content-type="species">palmi</named-content>
+</named-content></italic></bold>
+</td></tr><tr><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">Metanotal median setae arising at anterior margin (cf. Fig. <xref ref-type="fig" rid="F2">17</xref>); abdominal sternites IV&#x02013;VI with discal setae (Fig. <xref ref-type="fig" rid="F1">11</xref>)</td><td rowspan="1" colspan="1">
+<bold>9</bold>
+</td></tr><tr><td rowspan="1" colspan="1">9</td><td rowspan="1" colspan="1">Postocular setae II stout, more than 0.5 as long as the distance between the bases of setae I and II (Fig. <xref ref-type="fig" rid="F1">2</xref>); forewing clavus apical setae usually as long as or longer than subapical (Fig. <xref ref-type="fig" rid="F2">19</xref>)</td><td rowspan="1" colspan="1">
+<bold><italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Thrips</named-content>
+<named-content content-type="species">hawaiiensis</named-content>
+</named-content></italic></bold>
+</td></tr><tr><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">Postocular setae II small, less than 0.5 as long as the distance between the bases of setae I and II (Fig. <xref ref-type="fig" rid="F1">3</xref>); forewing clavus apical setae usually shorter than subapical (Fig. <xref ref-type="fig" rid="F2">18</xref>)</td><td rowspan="1" colspan="1">
+<bold><italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Thrips</named-content>
+<named-content content-type="species">florum</named-content>
+</named-content></italic></bold>
+</td></tr><tr><td rowspan="1" colspan="1">10</td><td rowspan="1" colspan="1">Ocellar setae I absent; abdominal tergite VIII posterior margin with microtrichial comb present medially (Fig. <xref ref-type="fig" rid="F2">24</xref>)</td><td rowspan="1" colspan="1">
+<bold>11</bold>
+</td></tr><tr><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">Ocellar setae I present; abdominal tergite VIII posterior margin with or without microtrichial comb present medially (Fig. <xref ref-type="fig" rid="F2">24</xref>, <xref ref-type="fig" rid="F2">25</xref>)</td><td rowspan="1" colspan="1">
+<bold>12</bold>
+</td></tr><tr><td rowspan="1" colspan="1">11</td><td rowspan="1" colspan="1">Pronotum without prominent postero-angular setae (Fig. <xref ref-type="fig" rid="F2">21</xref>); metafurcal spinula weak or absent (Fig. <xref ref-type="fig" rid="F2">14</xref>)</td><td rowspan="1" colspan="1">
+<bold><italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Dichromothrips</named-content>
+<named-content content-type="species">corbetti</named-content>
+</named-content></italic></bold>
+</td></tr><tr><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">Pronotum with one pair of long postero-angular setae (Fig. <xref ref-type="fig" rid="F2">20</xref>); metafurcal spinula well developed (Fig. <xref ref-type="fig" rid="F2">15</xref>)</td><td rowspan="1" colspan="1">
+<bold><italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Dichromothrips</named-content>
+<named-content content-type="species">smithi</named-content>
+</named-content></italic></bold>
+</td></tr><tr><td rowspan="1" colspan="1">12</td><td rowspan="1" colspan="1">Abdominal tergite VIII posterior margin with microtrichial comb present medially (cf Fig. <xref ref-type="fig" rid="F2">24</xref>)</td><td rowspan="1" colspan="1">
+<bold><italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Ceratothripoides</named-content>
+<named-content content-type="species">brunneus</named-content>
+</named-content></italic></bold>
+</td></tr><tr><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">Abdominal tergite VIII posterior margin without microtrichial comb medially (Fig. <xref ref-type="fig" rid="F2">25</xref>)</td><td rowspan="1" colspan="1">
+<bold>13</bold>
+</td></tr><tr><td rowspan="1" colspan="1">13</td><td rowspan="1" colspan="1">Abdominal sternite VII posteromarginal setae arising in a row along posterior margin (Fig. <xref ref-type="fig" rid="F2">23</xref>); basal half antennal segments IV and V yellow (Fig. <xref ref-type="fig" rid="F1">6</xref>)</td><td rowspan="1" colspan="1">
+<bold><italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Megalurothips</named-content>
+<named-content content-type="species">typicus</named-content>
+</named-content></italic></bold>
+</td></tr><tr><td rowspan="1" colspan="1">&#x02013;</td><td rowspan="1" colspan="1">Abdominal sternite VII posteromarginal median setae arise in front of posterior margin (Fig. <xref ref-type="fig" rid="F2">22</xref>); antennal segments IV and V entirely brown (Fig. <xref ref-type="fig" rid="F1">7</xref>)</td><td rowspan="1" colspan="1">
+<bold><italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Megalurothips</named-content>
+<named-content content-type="species">usitatus</named-content>
+</named-content></italic></bold>
+</td></tr><!--PageBreak--><!--PageBreak--><!--PageBreak--></tbody></table></table-wrap><fig id="F1" orientation="portrait" position="float"><label>Figures 1&#x02013;12.</label><caption><p>Head: <bold>1</bold><italic><named-content content-type="taxon-name"><named-content content-type="genus">Frankliniella</named-content><named-content content-type="species">occidentalis</named-content></named-content></italic>, <bold>2</bold><italic><named-content content-type="taxon-name"><named-content content-type="genus">Thrips</named-content><named-content content-type="species">hawaiiensis</named-content></named-content></italic>, <bold>3</bold><italic><named-content content-type="taxon-name"><named-content content-type="genus">Thrips</named-content><named-content content-type="species">florum</named-content></named-content></italic>, <bold>4</bold><italic><named-content content-type="taxon-name"><named-content content-type="genus">Frankliniella</named-content><named-content content-type="species">intonsa</named-content></named-content></italic>, <bold>5</bold><italic><named-content content-type="taxon-name"><named-content content-type="genus">Frankliniella</named-content><named-content content-type="species">schultzei</named-content></named-content></italic>. Antenna: <bold>6</bold><italic><named-content content-type="taxon-name"><named-content content-type="genus">Megalurothips</named-content><named-content content-type="species">usitatus</named-content></named-content></italic>, <bold>7</bold><italic><named-content content-type="taxon-name"><named-content content-type="genus">Megalurothrips</named-content><named-content content-type="species">typicus.</named-content></named-content></italic> Abdominal tergite: <bold>8</bold><italic><named-content content-type="taxon-name"><named-content content-type="genus">Microcephalothrips</named-content><named-content content-type="species">abdominalis</named-content></named-content></italic>, <bold>9</bold><italic><named-content content-type="taxon-name"><named-content content-type="genus">Thrips</named-content><named-content content-type="species">hawaiiensis</named-content></named-content></italic>, <bold>10</bold><italic><named-content content-type="taxon-name"><named-content content-type="genus">Scirtothrips</named-content><named-content content-type="species">dorsalis</named-content></named-content></italic>. Abdominal sternite: <bold>11</bold><italic><named-content content-type="taxon-name"><named-content content-type="genus">Thrips</named-content><named-content content-type="species">hawaiiensis</named-content></named-content></italic>, <bold>12</bold><italic><named-content content-type="taxon-name"><named-content content-type="genus">Thrips</named-content><named-content content-type="species">palmi</named-content></named-content></italic>.</p></caption><graphic id="oo_252137.jpg" xlink:href="zookeys-810-113-g001"/></fig><fig id="F2" orientation="portrait" position="float"><label>Figures 13&#x02013;25.</label><caption><p>Prosternal basantra: <bold>13</bold><italic><named-content content-type="taxon-name"><named-content content-type="genus">Microcephalothrips</named-content><named-content content-type="species">abdominalis</named-content></named-content></italic>. Meso- and Metasternum: <bold>14</bold><italic><named-content content-type="taxon-name"><named-content content-type="genus">Dichromothrips</named-content><named-content content-type="species">corbetti</named-content></named-content></italic>, <bold>15</bold><italic><named-content content-type="taxon-name"><named-content content-type="genus">Dichromothrips</named-content><named-content content-type="species">smithi.</named-content></named-content></italic> Metanotum: <bold>16</bold><italic><named-content content-type="taxon-name"><named-content content-type="genus">Thrips</named-content><named-content content-type="species">palmi</named-content></named-content></italic>, <bold>17</bold><italic><named-content content-type="taxon-name"><named-content content-type="genus">Frankliniella</named-content><named-content content-type="species">occidentalis.</named-content></named-content></italic> Forewing clavus: <bold>18</bold><italic><named-content content-type="taxon-name"><named-content content-type="genus">Thrips</named-content><named-content content-type="species">florum</named-content></named-content></italic>, <bold>19</bold><italic><named-content content-type="taxon-name"><named-content content-type="genus">Thrips</named-content><named-content content-type="species">hawaiiensis.</named-content></named-content></italic> Pronotum: <bold>20</bold><italic><named-content content-type="taxon-name"><named-content content-type="genus">Dichromothrips</named-content><named-content content-type="species">smithi</named-content></named-content></italic>, <bold>21</bold><italic><named-content content-type="taxon-name"><named-content content-type="genus">Dichromothrips</named-content><named-content content-type="species">corbetti.</named-content></named-content></italic> Abdominal sternite VII: <bold>22</bold><italic><named-content content-type="taxon-name"><named-content content-type="genus">Megalurothips</named-content><named-content content-type="species">usitatus</named-content></named-content></italic>, <bold>23</bold><italic><named-content content-type="taxon-name"><named-content content-type="genus">Megalurothips</named-content><named-content content-type="species">typicus.</named-content></named-content></italic> Abdominal tergite VIII: <bold>24</bold><italic><named-content content-type="taxon-name"><named-content content-type="genus">Dichromothrips</named-content><named-content content-type="species">corbetti</named-content></named-content></italic>, <bold>25</bold><italic><named-content content-type="taxon-name"><named-content content-type="genus">Megalurothips</named-content><named-content content-type="species">typicus</named-content></named-content></italic>.</p></caption><graphic id="oo_252138.jpg" xlink:href="zookeys-810-113-g002"/></fig></sec><sec sec-type="Ceratothripoides brunneus Bagnall" id="SECID0ETRAE"><title><italic><named-content content-type="taxon-name"><named-content content-type="genus">Ceratothripoides</named-content><named-content content-type="species">brunneus</named-content></named-content></italic> Bagnall</title><p>Five species are recognized in this genus, all from the Old World (Mound and Nickle 2009), but only <italic><named-content content-type="taxon-name"><named-content content-type="genus">C.</named-content><named-content content-type="species">brunneus</named-content></named-content></italic> has been found in Malaysia. A closely related species, <italic><named-content content-type="taxon-name"><named-content content-type="genus">C.</named-content><named-content content-type="species">claratris</named-content></named-content></italic>, has been reported as a pest (<xref rid="B16" ref-type="bibr">Murai 2000</xref>) and vector of tospoviruses on tomatoes in Thailand (<xref rid="B2" ref-type="bibr">Halaweh and Poehling 2009</xref>). This species was not detected in our collections, nor was it reported during earlier surveys (<xref rid="B12" ref-type="bibr">Mound and Azidah 2009</xref>). The species <italic><named-content content-type="taxon-name"><named-content content-type="genus">C.</named-content><named-content content-type="species">brunneus</named-content></named-content></italic> is from Africa, but has been found recently in Peninsular Malaysia on a range of different plant species (Table <xref rid="T1" ref-type="table">1</xref>).</p><table-wrap id="T1" orientation="portrait" position="float"><label>Table 1.</label><caption><p>List of economically important thrips, their host plants and distribution in Malaysia.</p></caption><table frame="hsides" rules="all" id="TID0E4FAE"><tbody><tr><th rowspan="2" colspan="1">No.</th><th rowspan="2" colspan="1"><named-content content-type="taxon-name"><named-content content-type="genus">Thrips</named-content></named-content> species</th><th rowspan="1" colspan="2">Host plant</th><th rowspan="2" colspan="1">Distribution</th></tr><tr><th rowspan="1" colspan="1">Family</th><th rowspan="1" colspan="1">Species</th></tr><tr><td rowspan="5" colspan="1">1.</td><td rowspan="5" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Ceratothripoides</named-content>
+<named-content content-type="species">brunneus</named-content>
+</named-content></italic>
+</td><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Acanthaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Strobilanthes</named-content>
+<named-content content-type="species">crispus</named-content>
+</named-content></italic>
+</td><td rowspan="5" colspan="1">Pahang, Johor, Penang</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Apocynaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Allamanda</named-content>
+<named-content content-type="species">oenotheraefolia</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Lamiaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Orthosiphon</named-content>
+<named-content content-type="species">aristatus</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Rubiaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1"><italic><named-content content-type="taxon-name"><named-content content-type="genus">Ixora</named-content></named-content></italic> sp.</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Verbenaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Stachytarpheta</named-content>
+<named-content content-type="species">mutabilis</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="6" colspan="1">2.</td><td rowspan="6" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Dichromothrips</named-content>
+<named-content content-type="species">corbetti</named-content>
+</named-content></italic>
+</td><td rowspan="6" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Orchidaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1"><italic><named-content content-type="taxon-name"><named-content content-type="genus">Aracnis</named-content></named-content></italic> sp.</td><td rowspan="6" colspan="1">Penang, Sarawak</td></tr><tr><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Arundina</named-content>
+<named-content content-type="species">graminifolia</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="1" colspan="1"><italic><named-content content-type="taxon-name"><named-content content-type="genus">Cattelya</named-content></named-content></italic> spp.</td></tr><tr><td rowspan="1" colspan="1"><italic><named-content content-type="taxon-name"><named-content content-type="genus">Dendrobium</named-content></named-content></italic> spp.</td></tr><tr><td rowspan="1" colspan="1"><italic><named-content content-type="taxon-name"><named-content content-type="genus">Phalaenopsis</named-content></named-content></italic> spp.</td></tr><tr><td rowspan="1" colspan="1"><italic><named-content content-type="taxon-name"><named-content content-type="genus">Vanda</named-content></named-content></italic> spp.</td></tr><tr><td rowspan="1" colspan="1">3.</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Dichromothrips</named-content>
+<named-content content-type="species">smithi</named-content>
+</named-content></italic>
+</td><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Orchidaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Arundina</named-content>
+<named-content content-type="species">graminifolia</named-content>
+</named-content></italic>
+</td><td rowspan="1" colspan="1">Pahang, Sarawak</td></tr><tr><td rowspan="13" colspan="1">4.</td><td rowspan="13" colspan="1"><italic><named-content content-type="taxon-name"><named-content content-type="genus">Frankliniella</named-content><named-content content-type="species">intonsa</named-content></named-content></italic>*</td><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Alliaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Apapanthus</named-content>
+<named-content content-type="species">campanulatus</named-content>
+</named-content></italic>
+</td><td rowspan="13" colspan="1">Cameron Highlands, Pahang</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Asteraceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1"><italic><named-content content-type="taxon-name"><named-content content-type="genus">Dahlia</named-content></named-content></italic> sp.</td></tr><tr><td rowspan="2" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Balsaminaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="genus">Impatiens</named-content>
+<named-content content-type="status">sp.</named-content>
+<named-content content-type="infraspecific-rank">var.</named-content>
+<named-content content-type="variety">wallerana</named-content>
+</named-content>
+</td></tr><tr><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Impatiens</named-content>
+<named-content content-type="species">balsamina</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Caryophyllaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1"><italic><named-content content-type="taxon-name"><named-content content-type="genus">Gypsophila</named-content></named-content></italic> sp.</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Fabaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name"><named-content content-type="genus">Vigna</named-content><named-content content-type="species">sinensis</named-content></named-content> var. sesquipedalis</italic>
+</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Iridaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1"><italic><named-content content-type="taxon-name"><named-content content-type="genus">Gladiolus</named-content></named-content></italic> sp.</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Orchidaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Arundina</named-content>
+<named-content content-type="species">graminifolia</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Plantaginaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1"><italic><named-content content-type="taxon-name"><named-content content-type="genus">Antirrhiinum</named-content></named-content></italic> sp.</td></tr><tr><td rowspan="2" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Rosaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Fragraria</named-content>
+<named-content content-type="species">ananassa</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name"><named-content content-type="genus">Rosa</named-content></named-content> sp.</italic>
+</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Solanaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Solanum</named-content>
+<named-content content-type="species">melongena</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Verbenaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1"><italic><named-content content-type="taxon-name"><named-content content-type="genus">Verbena</named-content></named-content></italic> sp.</td></tr><tr><td rowspan="9" colspan="1">5.</td><td rowspan="9" colspan="1"><italic><named-content content-type="taxon-name"><named-content content-type="genus">Frankliniella</named-content><named-content content-type="species">occidentalis</named-content></named-content></italic>*</td><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Alliaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Agapanthus</named-content>
+<named-content content-type="species">campanulatus</named-content>
+</named-content></italic>
+</td><td rowspan="9" colspan="1">Penang, Cameron Highlands</td></tr><tr><td rowspan="4" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Asteraceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Chrysanthemum</named-content>
+<named-content content-type="species">morifolium</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="1" colspan="1"><italic><named-content content-type="taxon-name"><named-content content-type="genus">Gerbera</named-content></named-content></italic> sp.</td></tr><tr><td rowspan="1" colspan="1"><italic><named-content content-type="taxon-name"><named-content content-type="genus">Tagetes</named-content></named-content></italic> sp.</td></tr><tr><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Tanacetum</named-content>
+<named-content content-type="species">parthenium</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Iridaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1"><italic><named-content content-type="taxon-name"><named-content content-type="genus">Gladiolus</named-content></named-content></italic> sp.</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Lamiaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Salvia</named-content>
+<named-content content-type="species">farinacea</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Plantaginaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1"><italic><named-content content-type="taxon-name"><named-content content-type="genus">Antirrhinum</named-content></named-content></italic> sp.</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Rosaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1"><italic><named-content content-type="taxon-name"><named-content content-type="genus">Rosa</named-content></named-content></italic> sp.</td></tr><tr><td rowspan="3" colspan="1">6.</td><td rowspan="3" colspan="1"><italic><named-content content-type="taxon-name"><named-content content-type="genus">Frankliniella</named-content><named-content content-type="species">schultzei</named-content></named-content></italic>*</td><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Euphorbiaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Jatropha</named-content>
+<named-content content-type="species">integerrima</named-content>
+</named-content></italic>
+</td><td rowspan="3" colspan="1">Melaka</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Nyctaginaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1"><italic><named-content content-type="taxon-name"><named-content content-type="genus">Bougainvillea</named-content></named-content></italic> sp.</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Plumbaginaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Plumbago</named-content>
+<named-content content-type="species">auriculata</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="3" colspan="1">7.</td><td rowspan="3" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Megalurothrips</named-content>
+<named-content content-type="species">usitatus</named-content>
+</named-content></italic>
+</td><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Fabaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Vigna</named-content>
+<named-content content-type="species">sinensis</named-content>
+</named-content></italic>
+</td><td rowspan="3" colspan="1">Perak, Penang, Pahang, Selangor</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Fabaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Erythrina</named-content>
+<named-content content-type="species">fusca</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Malpighiaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Tristellateia</named-content>
+<named-content content-type="species">australasiae</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="3" colspan="1">8.</td><td rowspan="3" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Megalurothrips</named-content>
+<named-content content-type="species">typicus</named-content>
+</named-content></italic>
+</td><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Fabaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Canavalia</named-content>
+<named-content content-type="species">rosea</named-content>
+</named-content></italic>
+</td><td rowspan="3" colspan="1">Perak, Penang</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Moraceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Artocarpus</named-content>
+<named-content content-type="species">champeden</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Passifloraceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Turnera</named-content>
+<named-content content-type="species">ulmifolia</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="5" colspan="1">9.</td><td rowspan="5" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Microcephalothrips</named-content>
+<named-content content-type="species">abdominalis</named-content>
+</named-content></italic>
+</td><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Acanthaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Pseuderanthemum</named-content>
+<named-content content-type="species">carruthersii</named-content>
+<named-content content-type="infraspecific-rank">var.</named-content>
+<named-content content-type="variety">reticulatum</named-content>
+</named-content></italic>
+</td><td rowspan="5" colspan="1">Johor, Penang, Pahang</td></tr><tr><td rowspan="4" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Asteraceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Chrysanthemum</named-content>
+<named-content content-type="species">indicum</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="1" colspan="1"><italic><named-content content-type="taxon-name"><named-content content-type="genus">Cosmos</named-content></named-content></italic> sp.</td></tr><tr><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Cosmos</named-content>
+<named-content content-type="species">caudatus</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Sphagneticola</named-content>
+<named-content content-type="species">trilobata</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="5" colspan="1"/><td rowspan="5" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Microcephalothrips</named-content>
+<named-content content-type="species">abdominalis</named-content>
+</named-content></italic>
+</td><td rowspan="2" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Asteraceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Tagetes</named-content>
+<named-content content-type="species">patula</named-content>
+</named-content></italic>
+</td><td rowspan="5" colspan="1">Johor, Penang, Pahang</td></tr><tr><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Tridax</named-content>
+<named-content content-type="species">procumbens</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Heliconiaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1"><italic><named-content content-type="taxon-name"><named-content content-type="genus">Heliconia</named-content></named-content></italic> sp.</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Orchidaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1"><italic><named-content content-type="taxon-name"><named-content content-type="genus">Oncidium</named-content></named-content></italic> sp.</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Verbenaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Clerodendrum</named-content>
+<named-content content-type="species">paniculatum</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="9" colspan="1">10.</td><td rowspan="9" colspan="1"><italic><named-content content-type="taxon-name"><named-content content-type="genus">Scirtothrips</named-content><named-content content-type="species">dorsalis</named-content></named-content></italic>*</td><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Anacardiaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1"><italic><named-content content-type="taxon-name"><named-content content-type="genus">Mangifera</named-content></named-content></italic> sp.</td><td rowspan="9" colspan="1">Penang, Perak, Kedah, Terengganu, Melaka, Selangor</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Fabaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Caesalpinia</named-content>
+<named-content content-type="species">pulcherrima</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="2" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Fabaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Cassia</named-content>
+<named-content content-type="species">fistula</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Pithecellobium</named-content>
+<named-content content-type="species">jiringa</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Fabaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Peliophorum</named-content>
+<named-content content-type="species">pterocarpum</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Myrtaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Psidium</named-content>
+<named-content content-type="species">guajava</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Rosaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Rosa</named-content>
+<named-content content-type="species">alba</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="2" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Solanaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Capsicum</named-content>
+<named-content content-type="species">annuum</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Solanum</named-content>
+<named-content content-type="species">torvum</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="16" colspan="1">11.</td><td rowspan="16" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Thrips</named-content>
+<named-content content-type="species">hawaiiensis</named-content>
+</named-content></italic>
+</td><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Anacardiaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1"><italic><named-content content-type="taxon-name"><named-content content-type="genus">Mangifera</named-content></named-content></italic> sp.</td><td rowspan="16" colspan="1">Selangor, Pahang, Terengganu, Melaka</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Amaryllidaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Hymenocallis</named-content>
+<named-content content-type="species">speciosa</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Araceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Zantedeschia</named-content>
+<named-content content-type="species">aethiopica</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="2" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Arecaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Areca</named-content>
+<named-content content-type="species">catechu</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="1" colspan="1"><italic><named-content content-type="taxon-name"><named-content content-type="genus">Dahlia</named-content></named-content></italic> sp.</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Asteraceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Aster</named-content>
+<named-content content-type="species">dumosus</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Euphorbiaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Jatropha</named-content>
+<named-content content-type="species">integerrima</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Leguminosae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Caesalpinia</named-content>
+<named-content content-type="species">pulcherrima</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Myrtaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Psidium</named-content>
+<named-content content-type="species">guajava</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Nyctaginaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1"><italic><named-content content-type="taxon-name"><named-content content-type="genus">Bougainvillea</named-content></named-content></italic> sp.</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Orchidaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Arundina</named-content>
+<named-content content-type="species">graminifolia</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Plantaginaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1"><italic><named-content content-type="taxon-name"><named-content content-type="genus">Antirrhunum</named-content></named-content></italic> sp.</td></tr><tr><td rowspan="3" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Rosaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Fragraria</named-content>
+<named-content content-type="species">ananassa</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Prunus</named-content>
+<named-content content-type="species">perisica</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="1" colspan="1"><italic><named-content content-type="taxon-name"><named-content content-type="genus">Rosa</named-content></named-content></italic> sp.</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Verbenaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Clerodendrum</named-content>
+<named-content content-type="species">paniculatum</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="3" colspan="1">12.</td><td rowspan="3" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Thrips</named-content>
+<named-content content-type="species">florum</named-content>
+</named-content></italic>
+</td><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Apocynaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Plumeria</named-content>
+<named-content content-type="species">rubra</named-content>
+</named-content></italic>
+</td><td rowspan="3" colspan="1">Kedah, Penang</td></tr><tr><td rowspan="2" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Verbenaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Clerodendrum</named-content>
+<named-content content-type="species">paniculatum</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Lantana</named-content>
+<named-content content-type="species">camara</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="15" colspan="1">13.</td><td rowspan="15" colspan="1"><italic><named-content content-type="taxon-name"><named-content content-type="genus">Thrips</named-content><named-content content-type="species">palmi</named-content></named-content></italic>*</td><td rowspan="2" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Apocynaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Allamanda</named-content>
+<named-content content-type="species">oenotheraefolia</named-content>
+</named-content></italic>
+</td><td rowspan="15" colspan="1">Selangor, Pahang, Melaka</td></tr><tr><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Plumeria</named-content>
+<named-content content-type="species">rubra</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="5" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Asteraceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1"><italic><named-content content-type="taxon-name"><named-content content-type="genus">Chrysanthenum</named-content></named-content></italic> sp.</td></tr><tr><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Cosmos</named-content>
+<named-content content-type="species">sulphurous</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Sphagneticola</named-content>
+<named-content content-type="species">trilobata</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="1" colspan="1"><italic><named-content content-type="taxon-name"><named-content content-type="genus">Tagetes</named-content></named-content></italic> sp.</td></tr><tr><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Tagetes</named-content>
+<named-content content-type="species">patula</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Lamiaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Salvia</named-content>
+<named-content content-type="species">farinaceae</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Nyctaginaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1"><italic><named-content content-type="taxon-name"><named-content content-type="genus">Bougainvillea</named-content></named-content></italic> sp.</td></tr><tr><td rowspan="4" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Orchidaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1"><italic><named-content content-type="taxon-name"><named-content content-type="genus">Aracnis</named-content></named-content></italic> sp.</td></tr><tr><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Arundina</named-content>
+<named-content content-type="species">graminifolia</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="1" colspan="1"><italic><named-content content-type="taxon-name"><named-content content-type="genus">Dendrobium</named-content></named-content></italic> spp.</td></tr><tr><td rowspan="1" colspan="1"><italic><named-content content-type="taxon-name"><named-content content-type="genus">Vanda</named-content></named-content></italic> spp.</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Plumbaginaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Plumbago</named-content>
+<named-content content-type="species">auriculata</named-content>
+</named-content></italic>
+</td></tr><tr><td rowspan="1" colspan="1">
+<named-content content-type="taxon-name">
+<named-content content-type="family">Solanaceae</named-content>
+</named-content>
+</td><td rowspan="1" colspan="1">
+<italic><named-content content-type="taxon-name">
+<named-content content-type="genus">Solanum</named-content>
+<named-content content-type="species">torvum</named-content>
+</named-content></italic>
+</td></tr></tbody></table><table-wrap-foot><fn><p>*- Vector of Tospovirus (<xref rid="B14" ref-type="bibr">Mound 1996</xref>; <xref rid="B13" ref-type="bibr">Mound 2002</xref>; <xref rid="B21" ref-type="bibr">Rotenberg et al. 2015</xref>).</p></fn></table-wrap-foot></table-wrap><p><bold>Recognition</bold>: <italic><named-content content-type="taxon-name"><named-content content-type="genus">Ceratothripoides</named-content><named-content content-type="species">brunneus</named-content></named-content></italic> is a large brown species; body largely brown except fore tibiae and antennal segment III paler brown, forewing uniformly brown; abdominal segment VIII posterior margin with complete comb of microtrichia; mesonotum and metanotum without pair of campaniform sensilla; male abdominal sternites III&#x02013;VII with many small pore plates; male abdominal tergite IX without drepanae. This species is similar in structure to the species of <italic><named-content content-type="taxon-name"><named-content content-type="genus">Megalurothrips</named-content></named-content></italic>, <italic><named-content content-type="taxon-name"><named-content content-type="genus">Pezothrips</named-content></named-content></italic>, <italic><named-content content-type="taxon-name"><named-content content-type="genus">Odontothrips</named-content></named-content></italic>, and <italic><named-content content-type="taxon-name"><named-content content-type="genus">Odonthripiella</named-content></named-content></italic>, and these share many characteristics including a pair of dorso-apical setae on the first antennal segment. In this paper, this species and the legume-flower thrips (<italic><named-content content-type="taxon-name"><named-content content-type="genus">Megalurothrips</named-content></named-content></italic>) are distinguished based on the microtrichial comb on abdominal tergite VIII. Recognition of <italic><named-content content-type="taxon-name"><named-content content-type="genus">Ceratothripoides</named-content></named-content></italic> is easy if males are available, because the sternites have numerous pore plates (Mound and Nickle 2009).</p></sec><sec sec-type="Dichromothrips corbetti (Priesner)" id="SECID0E5FAI"><title><italic><named-content content-type="taxon-name"><named-content content-type="genus">Dichromothrips</named-content><named-content content-type="species">corbetti</named-content></named-content></italic> (Priesner)</title><p>Species of the genus <italic><named-content content-type="taxon-name"><named-content content-type="genus">Dichromothrips</named-content></named-content></italic> are usually found on orchids. In Peninsular Malaysia, only two species have been recorded so far, although three further species are recorded from western Malaysia - <italic><named-content content-type="taxon-name"><named-content content-type="genus">D.</named-content><named-content content-type="species">borneensis</named-content></named-content></italic>, <italic><named-content content-type="taxon-name"><named-content content-type="genus">D.</named-content><named-content content-type="species">nigricornis</named-content></named-content></italic> and <italic><named-content content-type="taxon-name"><named-content content-type="genus">D.</named-content><named-content content-type="species">major</named-content></named-content></italic>. The species <italic><named-content content-type="taxon-name"><named-content content-type="genus">D.</named-content><named-content content-type="species">corbetti</named-content></named-content></italic> originated from the Oriental Region but is now introduced worldwide via cultivated orchids. It was described from <italic><named-content content-type="taxon-name"><named-content content-type="genus">Vanda</named-content><named-content content-type="species">joaquim</named-content></named-content></italic> in Kuala Lumpur (<xref rid="B15" ref-type="bibr">Mound 1976</xref>), but is known from a wide range of <named-content content-type="taxon-name"><named-content content-type="family">Orchidaceae</named-content></named-content> including <italic><named-content content-type="taxon-name"><named-content content-type="genus">Dendrobium</named-content></named-content></italic> spp., <italic><named-content content-type="taxon-name"><named-content content-type="genus">Arundina</named-content></named-content></italic> spp., <italic><named-content content-type="taxon-name"><named-content content-type="genus">Cattelya</named-content></named-content></italic> spp., and <italic><named-content content-type="taxon-name"><named-content content-type="genus">Vanda</named-content></named-content></italic> spp. from various localities in lowland Malaysia (Table <xref rid="T1" ref-type="table">1</xref>).</p><p><bold>Recognition</bold>: Large and dark brown species, forewing base paler, tarsi and tibial apex yellow; antennal segments brown, segment III and IV with apices elongate. Pronotum without long posteroangular setae, and metafurcal spinula diffuse or weakly defined. These characters are useful in distinguishing the species from the other members of the genus.</p></sec><sec sec-type="Dichromothrips smithi (Zimmermann)" id="SECID0EHJAI"><title><italic><named-content content-type="taxon-name"><named-content content-type="genus">Dichromothrips</named-content><named-content content-type="species">smithi</named-content></named-content></italic> (Zimmermann)</title><p>The original material of this species is apparently lost (<xref rid="B15" ref-type="bibr">Mound 1976</xref>), and the species is recognized based on female specimens from Taiwan identified by H. Priesner. Recently, it has been reported as an invasive species in US on bamboo orchids (<italic><named-content content-type="taxon-name"><named-content content-type="genus">Arundina</named-content></named-content></italic> spp.) from Malaysia, Thailand and Taiwan (Department of Agriculture and Plant In<!--PageBreak--><!--PageBreak--><!--PageBreak-->dustry Division 2010), and as a pest of orchids in Korea (<xref rid="B5" ref-type="bibr">Lee et al. 2002</xref>). There are specimens in the CSIRO collection, Canberra, Australia labelled as being associated with damage to Vanilla plants in India. In Malaysia, this species has been taken only from <italic><named-content content-type="taxon-name"><named-content content-type="genus">Arundina</named-content><named-content content-type="species">graminifolia</named-content></named-content></italic> (Bamboo orchid) from Pahang and Sarawak with its distribution restricted to highlands.</p><p><bold>Recognition</bold>: This large, dark brown species is similar in body colour to <italic><named-content content-type="taxon-name"><named-content content-type="genus">D.</named-content><named-content content-type="species">corbetti</named-content></named-content></italic>. It is distinguished by the fore wing with the subapical area paler, the pronotum with long posteroangular setae, and the metafurcal spinula well developed.</p></sec><sec sec-type="Frankliniella intonsa Trybom" id="SECID0EGLAI"><title><italic><named-content content-type="taxon-name"><named-content content-type="genus">Frankliniella</named-content><named-content content-type="species">intonsa</named-content></named-content></italic> Trybom</title><p>This species is known as the European Flower <named-content content-type="taxon-name"><named-content content-type="genus">Thrips</named-content></named-content>, due to its wide distribution in Europe, but it causes less damage to horticulture than <italic><named-content content-type="taxon-name"><named-content content-type="genus">F.</named-content><named-content content-type="species">occidentalis</named-content></named-content></italic>. Both species share many morphological characteristics, but <italic><named-content content-type="taxon-name"><named-content content-type="genus">F.</named-content><named-content content-type="species">intonsa</named-content></named-content></italic> can be recognized by the shorter postocular setae, and the absence of paired campaniform sensilla on the metanotum. Both species also seem to share similar habitats, such that they have been recorded in Peninsular Malaysia only from highlands, but from a wide range of flowers in various plant families, including <named-content content-type="taxon-name"><named-content content-type="family">Plantaginaceae</named-content></named-content>, <named-content content-type="taxon-name"><named-content content-type="family">Alliaceae</named-content></named-content>, <named-content content-type="taxon-name"><named-content content-type="family">Verbenaceae</named-content></named-content>, <named-content content-type="taxon-name"><named-content content-type="family">Orchidaceae</named-content></named-content>, and <named-content content-type="taxon-name"><named-content content-type="family">Asteraceae</named-content></named-content>.</p><p><bold>Recognition</bold>: Body colour brown, tibiae and tarsi yellow; antennal segments III and IV yellow; forewing pale with dark setae. All species of <italic><named-content content-type="taxon-name"><named-content content-type="genus">Frankliniella</named-content></named-content></italic> have the forewing first and second veins with complete setal rows, the head with ocellar setae pair I present, and the pronotum with four pairs of long major setae. Tergite VIII posterior margin with comb of microtrichia in females but not in males.</p></sec><sec sec-type="Frankliniella occidentalis (Pergande)" id="SECID0EBOAI"><title><italic><named-content content-type="taxon-name"><named-content content-type="genus">Frankliniella</named-content><named-content content-type="species">occidentalis</named-content></named-content></italic> (Pergande)</title><p>This species is known as the Western Flower <named-content content-type="taxon-name"><named-content content-type="genus">Thrips</named-content></named-content>, and although originally from the South Western states of the USA it is now found worldwide (Moritz et al. 2001). <italic><named-content content-type="taxon-name"><named-content content-type="genus">Frankliniella</named-content></named-content></italic> is the largest genus in the family <named-content content-type="taxon-name"><named-content content-type="family">Thripidae</named-content></named-content>, with 230 species mostly from Central and South America. <italic><named-content content-type="taxon-name"><named-content content-type="genus">F.</named-content><named-content content-type="species">occidentalis</named-content></named-content></italic> has been collected commonly in the Cameron Highlands on many different flower hosts, including roses, orchids, daisy, and chrysanthemum. However, two specimens were collected from <italic><named-content content-type="taxon-name"><named-content content-type="genus">Gerbera</named-content></named-content></italic> sp. at Penang Butterfly Farm. The species is an important vector of Tomato Spotted Wilt Virus (<abbrev xlink:title="Tomato Spotted Wilt Virus" id="ABBRID0EAQAI">TSWV</abbrev>) and <named-content content-type="taxon-name"><named-content content-type="genus">Impatiens</named-content></named-content> Necrotic Spot Virus (<abbrev xlink:title="Impatiens Necrotic Spot Virus" id="ABBRID0EKQAI">INSV</abbrev>). However, there are very few or perhaps no records of these viruses being transmitted among Malaysian crops.</p><p><bold>Recognition</bold>: Body length about 1.5 mm (female), male is smaller about 1.0 mm in length. Body colour varies from yellow to brown, abdomen sometimes shaded medially in specimens from Malaysia, forewing pale yellow, femora and tibiae yellow; antennal segments III, IV and V basal half pale, segments II and VI&#x02013;VIII dark brown. Pronotum anterior margin with two pairs of long setae, metanotal campaniform sensilla present. Tergite VIII posterior margin with comb of microtrichia in females but not in males.</p><!--PageBreak--></sec><sec sec-type="Frankliniella schultzei (Trybom)" id="SECID0ETQAI"><title><italic><named-content content-type="taxon-name"><named-content content-type="genus">Frankliniella</named-content><named-content content-type="species">schultzei</named-content></named-content></italic> (Trybom)</title><p>This species is widespread in tropical and sub-tropical countries. It is commonly collected in the lowlands of Peninsular Malaysia, breeding on flowers and leaves of many host plants. It has been sampled from flowers of <italic><named-content content-type="taxon-name"><named-content content-type="genus">Bougainvillea</named-content></named-content></italic> sp., <italic><named-content content-type="taxon-name"><named-content content-type="genus">Jatropha</named-content><named-content content-type="species">integerrima</named-content></named-content></italic>, and <italic><named-content content-type="taxon-name"><named-content content-type="genus">Plumbago</named-content><named-content content-type="species">auriculata</named-content></named-content></italic>. <italic><named-content content-type="taxon-name"><named-content content-type="genus">Frankliniella</named-content><named-content content-type="species">schultzei</named-content></named-content></italic> is an important vector of Tomato Spotted Wilt Virus (<abbrev xlink:title="Tomato Spotted Wilt Virus" id="ABBRID0EWSAI">TSWV</abbrev>), although occasionally, it is a useful predator of mites on cotton (<xref rid="B8" ref-type="bibr">Milne and Walter 1997</xref>).</p><p><bold>Recognition</bold>: This species apparently exists as two very different colour forms, with the body either brown or yellow. According <xref rid="B4" ref-type="bibr">Gikonyo et al. (2017)</xref> from the field surveys in Kenya indicate that the two colour forms of <italic><named-content content-type="taxon-name"><named-content content-type="genus">F.</named-content><named-content content-type="species">schultzei</named-content></named-content></italic> could be different species, of which, both showed distinct host preferences, lack of interbreeding and molecular differences. In general, <italic><named-content content-type="taxon-name"><named-content content-type="genus">F.</named-content><named-content content-type="species">schultzei</named-content></named-content></italic> is distinguished by the lack of ctenidia on abdominal tergite V, the position of ocellar setae pair III between the posterior ocelli, and the absence from the posterior margin of tergite VIII of a comb of microtrichia.</p></sec><sec sec-type="Megalurothrips usitatus Bagnall" id="SECID0E3TAI"><title><italic><named-content content-type="taxon-name"><named-content content-type="genus">Megalurothrips</named-content><named-content content-type="species">usitatus</named-content></named-content></italic> Bagnall</title><p>This is the most common and widespread species of the genus in the Oriental area. It breeds in legume flowers and is an important pest on bean crops through feeding in the flowers in south China (<xref rid="B6" ref-type="bibr">Tang et al. 2015</xref>).</p><p><bold>Recognition</bold>: Body colour brown; fore tibiae, apices of mid and hind tibiae yellow; antennal segment III slightly yellow, segment IV and V brown; antennal segments III and IV with apical constriction, segment VI unusually elongate; abdominal sternite VII posteromarginal setae S1 situated in front of posterior margin</p></sec><sec sec-type="Megalurothips typicus Bagnall" id="SECID0EWUAI"><title><italic><named-content content-type="taxon-name"><named-content content-type="genus">Megalurothips</named-content><named-content content-type="species">typicus</named-content></named-content></italic> Bagnall</title><p>There are 13 species currently listed in <italic><named-content content-type="taxon-name"><named-content content-type="genus">Megalurothrips</named-content></named-content></italic>, but these are difficult to identify due to variation both within and between species. Correct identification of species in this genus requires morphological study and comparison of both sexes. In Peninsular Malaysia, only three species are reported: <italic><named-content content-type="taxon-name"><named-content content-type="genus">M.</named-content><named-content content-type="species">typicus</named-content></named-content></italic>, <italic><named-content content-type="taxon-name"><named-content content-type="genus">M.</named-content><named-content content-type="species">mucunae</named-content></named-content></italic>, and <italic><named-content content-type="taxon-name"><named-content content-type="genus">M.</named-content><named-content content-type="species">usitatus</named-content></named-content></italic>, and the latter species is the one most commonly collected on crops in both highlands and lowlands. Adults of <italic><named-content content-type="taxon-name"><named-content content-type="genus">M.</named-content><named-content content-type="species">typicus</named-content></named-content></italic> have been taken from <named-content content-type="taxon-name"><named-content content-type="family">Moraceae</named-content></named-content>, <named-content content-type="taxon-name"><named-content content-type="family">Passifloraceae</named-content></named-content> and <named-content content-type="taxon-name"><named-content content-type="family">Fabaceae</named-content></named-content>, but with no reliable record of the host on which it breeds.</p><p><bold>Recognition</bold>: This species is similar to <italic><named-content content-type="taxon-name"><named-content content-type="genus">M.</named-content><named-content content-type="species">sjostedti</named-content></named-content></italic>, the only species in this genus from Africa, but the colour of the forewing and antennae are different (<xref rid="B19" ref-type="bibr">Palmer 1987</xref>). <italic><named-content content-type="taxon-name"><named-content content-type="genus">Megalurothrips</named-content><named-content content-type="species">typicus</named-content></named-content></italic> is easy to distinguish from the other oriental <italic><named-content content-type="taxon-name"><named-content content-type="genus">Megalurothrips</named-content></named-content></italic> species, because all three pairs of posteromarginal setae on abdominal sternite VII arise at the posterior margin.</p><!--PageBreak--></sec><sec sec-type="Microcephalothrips abdominalis (Crawford)" id="SECID0EQYAI"><title><italic><named-content content-type="taxon-name"><named-content content-type="genus">Microcephalothrips</named-content><named-content content-type="species">abdominalis</named-content></named-content></italic> (Crawford)</title><p>This sunflower thrips is widespread worldwide, and is the only species in the genus <italic><named-content content-type="taxon-name"><named-content content-type="genus">Microcephalothrips</named-content></named-content></italic>. In Peninsular Malaysia, adults of this species have been collected largely from the plant family <named-content content-type="taxon-name"><named-content content-type="family">Asteraceae</named-content></named-content> from <italic><named-content content-type="taxon-name"><named-content content-type="genus">Tagetes</named-content><named-content content-type="species">patula</named-content></named-content></italic>, <italic><named-content content-type="taxon-name"><named-content content-type="genus">Cosmos</named-content><named-content content-type="species">caudatus</named-content></named-content></italic>, <italic><named-content content-type="taxon-name"><named-content content-type="genus">Chrysanthemum</named-content><named-content content-type="species">indicum</named-content></named-content></italic>, <italic><named-content content-type="taxon-name"><named-content content-type="genus">Tridax</named-content><named-content content-type="species">procumbens</named-content></named-content></italic>, and <italic><named-content content-type="taxon-name"><named-content content-type="genus">Sphagneticola</named-content><named-content content-type="species">trilobata</named-content></named-content></italic>. Other plant families from which adults have been taken include <named-content content-type="taxon-name"><named-content content-type="family">Heliconiaceae</named-content></named-content>, <named-content content-type="taxon-name"><named-content content-type="family">Orchidaceae</named-content></named-content>, and <named-content content-type="taxon-name"><named-content content-type="family">Acanthaceae</named-content></named-content>.</p><p><bold>Recognition</bold>: Body largely brown except fore tibiae, tarsi, and antennal segment III slightly paler. Based on morphology, it is related to the <italic><named-content content-type="taxon-name"><named-content content-type="genus">Thrips</named-content></named-content></italic> genus-group, because of the presence of a pair of ctenidia on abdominal segments V&#x02013;VIII, but no other member of this group has setae on the prosternum (Figure <xref ref-type="fig" rid="F2">13</xref>). The triangular lobed craspedum on the abdominal tergites is very distinctive character of this species. Pronotum without any long setae, surface smooth without any fine transverse lines. Forewing usually curved and vein setae small.</p></sec><sec sec-type="Scirtothrips dorsalis Hood" id="SECID0ED3AI"><title><italic><named-content content-type="taxon-name"><named-content content-type="genus">Scirtothrips</named-content><named-content content-type="species">dorsalis</named-content></named-content></italic> Hood</title><p>This species is widespread from Pakistan to Japan, Taiwan, and northern Australia (<xref rid="B3" ref-type="bibr">Hoddle and Mound 2003</xref>), and is now introduced to the Caribbean area and Florida. <italic><named-content content-type="taxon-name"><named-content content-type="genus">S.</named-content><named-content content-type="species">dorsalis</named-content></named-content></italic> is known as a vector of Tospovirus, the species often becomes a pest of many different crops including vegetables and cut-flowers in Southeast Asia. It was also found infesting young leaves of &#x02018;Berembang&#x02019; tree (<italic><named-content content-type="taxon-name"><named-content content-type="genus">Sonneratia</named-content><named-content content-type="species">caseolaris</named-content></named-content></italic>) in UKM&#x02019;s green house. This mangrove tree is the host to firefly, <italic><named-content content-type="taxon-name"><named-content content-type="genus">Pteroptyx</named-content><named-content content-type="species">tener</named-content></named-content></italic> from Peninsular Malaysia.</p><p><bold>Recognition</bold>: This is amongst the smallest of species in the subfamily <named-content content-type="taxon-name"><named-content content-type="subfamily">Thripinae</named-content></named-content>, with the body of both sexes usually less than 1mm. Body yellow, with all femora, tibiae, and tarsi yellow; antennal segment I pale, segment II variable pale or slightly shaded, segments III&#x02013;VIII brown; forewings pale yellow to light brown, with apex paler. Abdominal tergites and sternites IV&#x02013;VII with median brown marking. An identification key to the species of this genus is available in <xref rid="B18" ref-type="bibr">Ng et al. (2014)</xref>.</p></sec><sec sec-type="Stenchaetothrips biformis (Bagnall)" id="SECID0EH5AI"><title><italic><named-content content-type="taxon-name"><named-content content-type="genus">Stenchaetothrips</named-content><named-content content-type="species">biformis</named-content></named-content></italic> (Bagnall)</title><p>This Oriental rice thrips breeds on grasses including paddy, on which crop it is a pest in Philippines and Thailand. However, such infestation has not been reported in Malaysia. This thrips usually lives in moist places like in paddy field and grasses by the pond site.</p><p><bold>Recognition</bold>: Body uniformly brown; antennal segments I&#x02013;II dark, II paler at apex, III pale, IV slightly shaded, V&#x02013;VII dark; all tibiae and tarsi pale; fore wing uniformly shaded. Metanotum with closely spaced striations, campaniform sensilla absent, median setae arising behind the anterior margin but varying in position. Meso- and metafurca each without a spinula. Male abdominal sternites III&#x02013;VII with a transverse pore plate.</p><!--PageBreak--></sec><sec sec-type="Thrips florum Schmutz" id="SECID0E45AI"><title><italic><named-content content-type="taxon-name"><named-content content-type="genus">Thrips</named-content><named-content content-type="species">florum</named-content></named-content></italic> Schmutz</title><p>Identification of this species from its close relative, <italic><named-content content-type="taxon-name"><named-content content-type="genus">T.</named-content><named-content content-type="species">hawaiiensis</named-content></named-content></italic>, is not easy, and a third related species, <italic><named-content content-type="taxon-name"><named-content content-type="genus">T.</named-content><named-content content-type="species">razanii</named-content></named-content></italic>, was described recently from Peninsular Malaysia (<xref rid="B17" ref-type="bibr">Ng et al. 2010</xref>). For correct identification of these species it is essential that specimens are well-mounted onto slides. <italic><named-content content-type="taxon-name"><named-content content-type="genus">Thrips</named-content><named-content content-type="species">florum</named-content></named-content></italic> has not been reported as a severe pest in Malaysia&#x02019;s agriculture sector, but it has been collected from a wide range of flowers.</p><p><bold>Recognition</bold>: Body colour brown; antennae brown except segment III yellow; legs yellow; forewing brown pale at base. Ocellar setae III arising outside ocellar triangle; postocular seta II much shorter than setae I and III. Mesonotum without sculpture lines near campaniform sensilla; metanotum with many lines at the anterior and laterally. Forewing clavus apical seta usually shorter than subapical seta. This species is very similar to both <italic><named-content content-type="taxon-name"><named-content content-type="genus">T.</named-content><named-content content-type="species">hawaiiensis</named-content></named-content></italic> and <italic><named-content content-type="taxon-name"><named-content content-type="genus">T.</named-content><named-content content-type="species">razanii</named-content></named-content></italic>, and comparisons are given in <xref rid="B17" ref-type="bibr">Ng et al. (2010)</xref>. More discussion is available in Palmer (1999).</p></sec><sec sec-type="Thrips hawaiiensis (Morgan)" id="SECID0ESBBI"><title><italic><named-content content-type="taxon-name"><named-content content-type="genus">Thrips</named-content><named-content content-type="species">hawaiiensis</named-content></named-content></italic> (Morgan)</title><p>This is the most common and abundant species of the genus <italic><named-content content-type="taxon-name"><named-content content-type="genus">Thrips</named-content></named-content></italic> in Peninsular Malaysia, and is found on a wide range of cultivated plants in various families including <named-content content-type="taxon-name"><named-content content-type="family">Asteraceae</named-content></named-content>, <named-content content-type="taxon-name"><named-content content-type="family">Apocynaceae</named-content></named-content>, and <named-content content-type="taxon-name"><named-content content-type="family">Fabaceae</named-content></named-content>. It is considered the pollinator of oil palm trees, but is reported as a pest of roses in Georgia, citrus in India, coffee and mangoes in Thailand, and banana in Australia (Palmer 1999).</p><p><bold>Recognition</bold>: Body colour brown or bicoloured with head and pronotum paler than brown abdomen. Antennal segment III yellow, segments IV and V usually brown or paler at base; legs yellow; forewing paler at base. More discussion about the variation of this species is available in Palmer (1999) and <xref rid="B17" ref-type="bibr">Ng et al. (2010)</xref>. A key to the species of <italic><named-content content-type="taxon-name"><named-content content-type="genus">Thrips</named-content></named-content></italic> genus from Peninsular Malaysia was published by <xref rid="B12" ref-type="bibr">Mound and Azidah (2009)</xref>.</p></sec><sec sec-type="Thrips palmi Karny" id="SECID0ENDBI"><title><italic><named-content content-type="taxon-name"><named-content content-type="genus">Thrips</named-content><named-content content-type="species">palmi</named-content></named-content></italic> Karny</title><p>This species is a common pest in Malaysia and also many other Southeast Asian countries. It is a vector of plant tospovisuses, but it can also cause severe feeding damage to the leaves of crops such as eggplant and capsicum (<xref rid="B22" ref-type="bibr">Tan et al. 2016</xref>).</p><p><bold>Recognition</bold>: Body colour pale yellow; antennae 7-segmented, segments I and II pale yellow, other segments light brown. The species is easy to distinguish from most <italic><named-content content-type="taxon-name"><named-content content-type="genus">Thrips</named-content></named-content></italic> species because of the complete posteromarginal comb on abdominal tergite VIII and the lack of discal setae on abdominal sternites. In Malaysia, the species has been taken from crops including <italic><named-content content-type="taxon-name"><named-content content-type="genus">Capsicum</named-content></named-content></italic>, <italic><named-content content-type="taxon-name"><named-content content-type="genus">Cucumis</named-content></named-content></italic> and <italic><named-content content-type="taxon-name"><named-content content-type="genus">Solanum</named-content></named-content></italic> (Mound &#x00026; Azidah, 2009), as well as species of <named-content content-type="taxon-name"><named-content content-type="family">Rubiaceae</named-content></named-content>.</p><!--PageBreak--></sec></sec></body><back><ack><title>Acknowledgements</title><p>We would like to thank Dr. Laurence Mound for editing and suggestions that improved this manuscript. A special thank also to the reviewers for their invaluable comments. The study of Malaysian thrips (<named-content content-type="taxon-name"><named-content content-type="genus">Thysanoptera</named-content></named-content>) is funded by the Ministry of Science, Technology and Innovation (MOSTI) via research grant 06-01-02-SF0540 and Malaysia Toray Science Foundation via research grant STGL-002-2008.</p></ack><ref-list><title>References</title><ref id="B1"><mixed-citation publication-type="other"><institution>Department of Agriculture and Plant Industry Division, The State of Hawaii</institution> (<year>2010</year>) Report to the Twenty-Fifth Legislature Regular Session of 2010: Report On the Fight Against Invasive Species for the Period of July 1, 2007 &#x02013; June 30, 2008 &#x00026; July 1, 2008 &#x02013; June 30, 2009.</mixed-citation></ref><ref id="B2"><mixed-citation publication-type="journal"><person-group><name><surname>Halaweh</surname><given-names>N</given-names></name><name><surname>Poehling</surname><given-names>H-M</given-names></name></person-group> (<year>2009</year>) <article-title>Inheritance of vector competence by the thrips <italic><named-content content-type="taxon-name"><named-content content-type="genus">Ceratothripoides</named-content><named-content content-type="species">claratris</named-content></named-content></italic> (Shumsher) (<named-content content-type="taxon-name"><named-content content-type="genus">Thysanoptera</named-content></named-content>: <named-content content-type="taxon-name"><named-content content-type="family">Thripidae</named-content></named-content>).</article-title><source>Journal of Applied Entomology</source><volume>133</volume>: <fpage>386</fpage>&#x02013;<lpage>393</lpage>. <pub-id pub-id-type="doi">10.1111/j.1439-0418.2008.01357.x</pub-id></mixed-citation></ref><ref id="B3"><mixed-citation publication-type="other"><person-group><name><surname>Hoddle</surname><given-names>MS</given-names></name><name><surname>Mound</surname><given-names>LA</given-names></name></person-group> (<year>2003</year>) The genus <italic><named-content content-type="taxon-name"><named-content content-type="genus">Scirtothrips</named-content></named-content></italic> in Australia (<named-content content-type="taxon-name"><named-content content-type="class">Insecta</named-content></named-content>, <named-content content-type="taxon-name"><named-content content-type="genus">Thysanoptera</named-content></named-content>, <named-content content-type="taxon-name"><named-content content-type="family">Thripidae</named-content></named-content>) Zootaxa 268:1&#x02013;40. <pub-id pub-id-type="doi">10.11646/zootaxa.268.1.1</pub-id></mixed-citation></ref><ref id="B4"><mixed-citation publication-type="journal"><person-group><name><surname>Gikonyo</surname><given-names>MW</given-names></name><name><surname>Niassy</surname><given-names>S</given-names></name><name><surname>Moritz</surname><given-names>GB</given-names></name><name><surname>Khamis</surname><given-names>FM</given-names></name><name><surname>Magiri</surname><given-names>E</given-names></name><name><surname>Subramanian</surname><given-names>S</given-names></name></person-group> (<year>2017</year>) <article-title>Resolving the taxonomic status of <italic><named-content content-type="taxon-name"><named-content content-type="genus">Frankliniella</named-content><named-content content-type="species">schultzei</named-content></named-content></italic> (<named-content content-type="taxon-name"><named-content content-type="genus">Thysanoptera</named-content></named-content>: <named-content content-type="taxon-name"><named-content content-type="family">Thripidae</named-content></named-content>) colour forms in Kenya &#x02013; a morphological-, biological-, molecular- and ecological-based approach.</article-title><source>International Journal of Tropical Insect Science</source><volume>37</volume>(<issue>2</issue>): <fpage>57</fpage>&#x02013;<lpage>70</lpage>. <pub-id pub-id-type="doi">10.1017/S1742758416000126</pub-id></mixed-citation></ref><ref id="B5"><mixed-citation publication-type="journal"><person-group><name><surname>Lee</surname><given-names>GS</given-names></name><name><surname>Ahn</surname><given-names>KS</given-names></name><name><surname>Woo</surname><given-names>KS</given-names></name></person-group> (<year>2002</year>) <article-title>New record of <italic><named-content content-type="taxon-name"><named-content content-type="genus">Dichromothrips</named-content><named-content content-type="species">smithi</named-content></named-content></italic> (Zirmemann) (<named-content content-type="taxon-name"><named-content content-type="genus">Thysanoptera</named-content></named-content>: <named-content content-type="taxon-name"><named-content content-type="family">Thripidae</named-content></named-content>) injurious to <named-content content-type="taxon-name"><named-content content-type="family">Orchidaceae</named-content></named-content> in Korea.</article-title><source>Journal Asia-Pacific Entomology</source><volume>5</volume>(<issue>2</issue>): <fpage>155</fpage>&#x02013;<lpage>160</lpage>. <pub-id pub-id-type="doi">10.1016/S1226-8615(08)60146-6</pub-id></mixed-citation></ref><ref id="B6"><mixed-citation publication-type="journal"><person-group><name><surname>Tang</surname><given-names>LD</given-names></name><name><surname>Yan</surname><given-names>KL</given-names></name><name><surname>Fu</surname><given-names>BL</given-names></name><name><surname>Wu</surname><given-names>JH</given-names></name><name><surname>Kui</surname><given-names>L</given-names></name><name><surname>Lu</surname><given-names>YY</given-names></name></person-group> (<year>2015</year>) <article-title>The life table parameters of <italic><named-content content-type="taxon-name"><named-content content-type="genus">Megalurothrips</named-content><named-content content-type="species">usitatus</named-content></named-content></italic> (<named-content content-type="taxon-name"><named-content content-type="genus">Thysanoptera</named-content></named-content>: <named-content content-type="taxon-name"><named-content content-type="family">Thripidae</named-content></named-content>) on four leguminous crops.</article-title><source>The Florida Entomologist</source><volume>98</volume>(<issue>2</issue>): <fpage>620</fpage>&#x02013;<lpage>625</lpage>. <pub-id pub-id-type="doi">10.1653/024.098.0235</pub-id></mixed-citation></ref><ref id="B7"><mixed-citation publication-type="other">Ministry of Agriculture and Agro-based Industry Malaysia (MOA) 2008: Annual Report: Ministry of Agriculture and Agro-based Industry Malaysia.</mixed-citation></ref><ref id="B8"><mixed-citation publication-type="journal"><person-group><name><surname>Milne</surname><given-names>M</given-names></name><name><surname>Walter</surname><given-names>GH</given-names></name></person-group> (<year>1997</year>) <article-title>The significance of prey in the diet of the phytophagous thrips, <italic><named-content content-type="taxon-name"><named-content content-type="genus">Frankliniella</named-content><named-content content-type="species">schultzei</named-content></named-content></italic>.</article-title><source>Ecological Entomology</source><volume>22</volume>: <fpage>74</fpage>&#x02013;<lpage>81</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-2311.1997.00034.x</pub-id></mixed-citation></ref><ref id="B9"><mixed-citation publication-type="journal"><person-group><name><surname>Moritz</surname><given-names>G</given-names></name><name><surname>Kumm</surname><given-names>S</given-names></name><name><surname>Mound</surname><given-names>LA</given-names></name></person-group> (<year>2003</year>) <article-title>Tospovirus transmission depends on thrips ontogeny.</article-title><source>Virus Research</source><volume>100</volume>: <fpage>143</fpage>&#x02013;<lpage>149</lpage>. <pub-id pub-id-type="doi">10.1016/j.virusres.2003.12.022</pub-id></mixed-citation></ref><ref id="B10"><mixed-citation publication-type="journal"><person-group><name><surname>Mound</surname><given-names>LA</given-names></name><name><surname>Ng</surname><given-names>YF</given-names></name></person-group> (<year>2009</year>) <article-title>An illustrated key to the genera of <named-content content-type="taxon-name"><named-content content-type="subfamily">Thripinae</named-content></named-content> (<named-content content-type="taxon-name"><named-content content-type="genus">Thysanoptera</named-content></named-content>) from South East Asia.</article-title><source>Zootaxa</source><volume>2265</volume>: <fpage>27</fpage>&#x02013;<lpage>47</lpage>.</mixed-citation></ref><ref id="B11"><mixed-citation publication-type="journal"><person-group><name><surname>Mound</surname><given-names>LA</given-names></name><name><surname>David</surname><given-names>AN</given-names></name></person-group> (<year>2009</year>) <article-title>The Old-World genus <named-content content-type="taxon-name"><named-content content-type="genus">Ceratothripoides</named-content></named-content> (<named-content content-type="taxon-name"><named-content content-type="genus">Thysanoptera</named-content></named-content>: <named-content content-type="taxon-name"><named-content content-type="family">Thripidae</named-content></named-content>) with a new genus for related New-World species.</article-title><source>Zootaxa</source><volume>2230</volume>: <fpage>57</fpage>&#x02013;<lpage>63</lpage>.</mixed-citation></ref><!--PageBreak--><ref id="B12"><mixed-citation publication-type="other"><person-group><name><surname>Mound</surname><given-names>LA</given-names></name><name><surname>Azidah</surname><given-names>AA</given-names></name></person-group> (<year>2009</year>) Species of the genus <italic><named-content content-type="taxon-name"><named-content content-type="genus">Thrips</named-content></named-content></italic> (<named-content content-type="taxon-name"><named-content content-type="genus">Thysanoptera</named-content></named-content>) from Peninsular Malaysia, with a checklist of recorded <named-content content-type="taxon-name"><named-content content-type="family">Thripidae</named-content></named-content> Zootaxa 2023: 55&#x02013;68.</mixed-citation></ref><ref id="B13"><mixed-citation publication-type="other"><person-group><name><surname>Mound</surname><given-names>LA</given-names></name></person-group> (<year>2002</year>) <article-title>So many thrips-so few tospoviruses?</article-title> In: <person-group><name><surname>Marullo</surname><given-names>R</given-names></name><name><surname>Mound</surname><given-names>LA</given-names></name></person-group> (<role>Eds</role>) <issue-title>Thrips and Tospoviruses.</issue-title><source>Proceedings of the 7<sup>th</sup>. International Symposium on <named-content content-type="taxon-name"><named-content content-type="genus">Thysanoptera</named-content></named-content>. Australian National Insect Collection, Canberra</source>, <fpage>15</fpage>&#x02013;<lpage>18</lpage>.</mixed-citation></ref><ref id="B14"><mixed-citation publication-type="journal"><person-group><name><surname>Mound</surname><given-names>LA</given-names></name></person-group> (<year>1996</year>) <article-title>The <named-content content-type="taxon-name"><named-content content-type="order">thysanoptera</named-content></named-content> vector species of tospoviruses.</article-title><source>Acta Horticulturae</source><volume>431</volume>: <fpage>298</fpage>&#x02013;<lpage>309</lpage>. <pub-id pub-id-type="doi">10.17660/ActaHortic.1996.431.26</pub-id></mixed-citation></ref><ref id="B15"><mixed-citation publication-type="journal"><person-group><name><surname>Mound</surname><given-names>LA</given-names></name></person-group> (<year>1976</year>) <article-title><named-content content-type="taxon-name"><named-content content-type="genus">Thysanoptera</named-content></named-content> of the genus <italic><named-content content-type="taxon-name"><named-content content-type="genus">Dichromothrips</named-content></named-content></italic> on Old World <named-content content-type="taxon-name">Orchidacea</named-content>.</article-title><source>Biological Journal of the Linnean Society</source><volume>8</volume>: <fpage>245</fpage>&#x02013;<lpage>265</lpage>. <pub-id pub-id-type="doi">10.1111/j.1095-8312.1976.tb00248.x</pub-id></mixed-citation></ref><ref id="B16"><mixed-citation publication-type="journal"><person-group><name><surname>Murai</surname><given-names>T</given-names></name></person-group> (<year>2000</year>) <article-title>Damage to tomato by <italic><named-content content-type="taxon-name"><named-content content-type="genus">Ceratothripoides</named-content><named-content content-type="species">claratris</named-content></named-content></italic> (Shumsher) (<named-content content-type="taxon-name"><named-content content-type="genus">Thysanoptera</named-content></named-content>: <named-content content-type="taxon-name"><named-content content-type="family">Thripidae</named-content></named-content>) in central Thailand and a note on its parasitoid, <italic><named-content content-type="taxon-name"><named-content content-type="genus">Goetheana</named-content><named-content content-type="species">shakespearei</named-content></named-content></italic> Girault (<named-content content-type="taxon-name"><named-content content-type="order">Hymenoptera</named-content></named-content>: <named-content content-type="taxon-name"><named-content content-type="family">Eulophidae</named-content></named-content>).</article-title><source>Applied Entomology and Zoology</source><volume>35</volume>: <fpage>505</fpage>&#x02013;<lpage>507</lpage>. <pub-id pub-id-type="doi">10.1303/aez.2000.505</pub-id></mixed-citation></ref><ref id="B17"><mixed-citation publication-type="journal"><person-group><name><surname>Ng</surname><given-names>YF</given-names></name><name><surname>Eow</surname><given-names>LX</given-names></name><name><surname>Mound</surname><given-names>LA</given-names></name></person-group> (<year>2010</year>) <article-title>A new species of genus <italic><named-content content-type="taxon-name"><named-content content-type="genus">Thrips</named-content></named-content></italic> (<named-content content-type="taxon-name"><named-content content-type="genus">Thysanoptera</named-content></named-content>, <named-content content-type="taxon-name"><named-content content-type="subfamily">Thripinae</named-content></named-content>) from flowers in Peninsular Malaysia.</article-title><source>Zootaxa</source><volume>2638</volume>: <fpage>65</fpage>&#x02013;<lpage>68</lpage>.</mixed-citation></ref><ref id="B18"><mixed-citation publication-type="journal"><person-group><name><surname>Ng</surname><given-names>YF</given-names></name><name><surname>Mound</surname><given-names>LA</given-names></name><name><surname>Azidah</surname><given-names>AA</given-names></name></person-group> (<year>2014</year>) <article-title>The genus <italic><named-content content-type="taxon-name"><named-content content-type="genus">Scirtothrips</named-content></named-content></italic> (<named-content content-type="taxon-name"><named-content content-type="genus">Thysanoptera</named-content></named-content>: <named-content content-type="taxon-name"><named-content content-type="family">Thripidae</named-content></named-content>) in Malaysia, with four new Species and comments on <italic><named-content content-type="taxon-name"><named-content content-type="genus">Biltothrips</named-content></named-content></italic>, a related genus.</article-title><source>Zootaxa</source><volume>3856</volume>(<issue>2</issue>): <fpage>253</fpage>&#x02013;<lpage>266</lpage>. <pub-id pub-id-type="doi">10.11646/zootaxa.3856.2.6</pub-id><pub-id pub-id-type="pmid">25284657</pub-id></mixed-citation></ref><ref id="B19"><mixed-citation publication-type="other"><person-group><name><surname>Palmer</surname><given-names>JM</given-names></name></person-group> (<year>1987</year>) <article-title><italic><named-content content-type="taxon-name"><named-content content-type="genus">Megalurothrips</named-content></named-content></italic> in the flowers of tropical legumes: a morphometric study.</article-title> In: <person-group><name><surname>Holman</surname><given-names>J</given-names></name><name><surname>Pelikan</surname><given-names>J</given-names></name><name><surname>Dixon</surname><given-names>AFG</given-names></name><name><surname>Weismann</surname><given-names>L</given-names></name></person-group> (<role>Eds</role>) <issue-title>Population structure, genetics and taxonomy of aphids and Thysanoptera.</issue-title><source>SPB Academic Publishing, The Hague</source>, <fpage>480</fpage>&#x02013;<lpage>495</lpage>.</mixed-citation></ref><ref id="B20"><mixed-citation publication-type="journal"><person-group><name><surname>Palmer</surname><given-names>JM</given-names></name></person-group> (<year>1992</year>) <article-title><italic><named-content content-type="taxon-name"><named-content content-type="genus">Thrips</named-content></named-content></italic> from Pakistan to the Pacific: a review.</article-title><source>Bulletin of the British Museum of Natural History (Entomology)</source><volume>61</volume>: <fpage>1</fpage>&#x02013;<lpage>76</lpage>.</mixed-citation></ref><ref id="B21"><mixed-citation publication-type="journal"><person-group><name><surname>Rotenberg</surname><given-names>D</given-names></name><name><surname>Jacobson</surname><given-names>AL</given-names></name><name><surname>Schneweis</surname><given-names>DJ</given-names></name><name><surname>Whitfield</surname><given-names>AE</given-names></name></person-group> (<year>2015</year>) <article-title><named-content content-type="taxon-name"><named-content content-type="genus">Thrips</named-content></named-content> transmission of tospoviruses.</article-title><source>Current Opinion in Virology</source><volume>15</volume>: <fpage>80</fpage>&#x02013;<lpage>89</lpage>. <pub-id pub-id-type="doi">10.1016/j.coviro.2015.08.003</pub-id><pub-id pub-id-type="pmid">26340723</pub-id></mixed-citation></ref><ref id="B22"><mixed-citation publication-type="journal"><person-group><name><surname>Tan</surname><given-names>JL</given-names></name><name><surname>Ooi</surname><given-names>PAC</given-names></name><name><surname>Khoo</surname><given-names>G</given-names></name></person-group> (<year>2016</year>) <article-title><named-content content-type="taxon-name"><named-content content-type="genus">Thrips</named-content></named-content> on eggplant, chilli and bell pepper in Cameron Highlands, Malaysia.</article-title><source>Serangga</source><volume>21</volume>(<issue>1</issue>): <fpage>71</fpage>&#x02013;<lpage>85</lpage>.</mixed-citation></ref><ref id="B23"><mixed-citation publication-type="other"><institution>ThripsWiki</institution> (<year>2018</year>) ThripsWiki &#x02013; providing information on the World&#x02019;s thrips. Available from: <ext-link ext-link-type="uri" xlink:href="http://thrips.info/wiki/Main_Page">http://thrips.info/wiki/Main_Page</ext-link> [Accessed 13.vii.2018]</mixed-citation></ref></ref-list></back></article>

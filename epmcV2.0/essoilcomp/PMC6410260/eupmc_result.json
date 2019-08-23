@@ -1,0 +1,352 @@
+{
+  "id": [
+    "30717302"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30717302"
+  ],
+  "pmcid": [
+    "PMC6410260"
+  ],
+  "doi": [
+    "10.3390/insects10020045"
+  ],
+  "title": [
+    "The Efficacy of Selected Synthetic Insecticides and Botanicals against Fall Armyworm, Spodoptera frugiperda, in Maize."
+  ],
+  "authorString": [
+    "Sisay B, Tefera T, Wakgari M, Ayalew G, Mendesil E."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sisay B"
+          ],
+          "firstName": [
+            "Birhanu"
+          ],
+          "lastName": [
+            "Sisay"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "School of Pant Sciences, Haramaya University, P.O. Box 138, Dire Dawa, Ethiopia. gashawbeza@yahoo.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Tefera T"
+          ],
+          "firstName": [
+            "Tadele"
+          ],
+          "lastName": [
+            "Tefera"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "International Center of Insect Physiology & Ecology (icipe), P.O. Box 5689, Addis Ababa, Ethiopia. tadeletefera@yahoo.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Wakgari M"
+          ],
+          "firstName": [
+            "Mulatu"
+          ],
+          "lastName": [
+            "Wakgari"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "School of Pant Sciences, Haramaya University, P.O. Box 138, Dire Dawa, Ethiopia. mulatuwakgari@yahoo.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Ayalew G"
+          ],
+          "firstName": [
+            "Gashawbeza"
+          ],
+          "lastName": [
+            "Ayalew"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Melkasa Agricultural Research Centre, P.O. Box 436, Adama, Ethiopia. gashawbeza@yahoo.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Mendesil E"
+          ],
+          "firstName": [
+            "Esayas"
+          ],
+          "lastName": [
+            "Mendesil"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9915-643X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "College of Agriculture & Veterinary Medicine, Jimma University, P.O. Box 307, Jimma, Ethiopia. emendesil@yahoo.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9915-643X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2778432"
+      ],
+      "dateOfPublication": [
+        "2019 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Insects"
+          ],
+          "ISOAbbreviation": [
+            "Insects"
+          ],
+          "medlineAbbreviation": [
+            "Insects"
+          ],
+          "NLMid": [
+            "101574235"
+          ],
+          "ISSN": [
+            "2075-4450"
+          ],
+          "ESSN": [
+            "2075-4450"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Fall armyworm (FAW) was reported for the first time in Africa in 2016. FAW is widely distributed in Ethiopia, causing significant damage to maize. Nine synthetic insecticides belonging to different chemical groups and 11 pesticidal plants (botanicals) were tested for their efficacy against FAW under laboratory, greenhouse, and field conditions. In the laboratory, Radiant, Tracer, Karate, and Ampligo caused over 90% larval mortality 72 h after application. Malathion had moderate activity, causing 51.7% mortality 72 h after application, while Carbaryl was less effective, causing 28% mortality 72 h after application. In the greenhouse experiment, all synthetic insecticides reduced foliar damage to maize compared to the untreated control. Chemical sprays did not affect plant height, stem thickness, or leaf number. The highest fresh weight (471 g) was obtained from plants treated with Radiant. Among the botanicals tested, Azadirachta indica, Schinnus molle, and Phytolacca dodecandra resulted in the highest percentage larval mortality (>95%) 72 h after application. In the field, non-treated control plants showed extensive leaf injury compared to the synthetic insecticide- and botanical-treated plants. The synthetic insecticides and botanicals that showed high efficacy against FAW larvae can be used as components for integrated pest management (IPM) plans for FAW under smallholder farmer conditions in Ethiopia and elsewhere in Africa."
+  ],
+  "affiliation": [
+    "School of Pant Sciences, Haramaya University, P.O. Box 138, Dire Dawa, Ethiopia. gashawbeza@yahoo.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "AID-OAA-L-15-00001"
+          ],
+          "agency": [
+            "United States Agency for International Development"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Bioassay",
+        "Cereal",
+        "Integrated pest management",
+        "Invasive pest",
+        "Fall Armyworm"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6410260?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6410260"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/insects10020045"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-02-06"
+  ],
+  "firstIndexDate": [
+    "2019-02-08"
+  ],
+  "dateOfRevision": [
+    "2019-04-01"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-01"
+  ],
+  "firstPublicationDate": [
+    "2019-02-01"
+  ]
+}

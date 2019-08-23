@@ -1,0 +1,344 @@
+{
+  "id": [
+    "25878719"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25878719"
+  ],
+  "pmcid": [
+    "PMC4386694"
+  ],
+  "doi": [
+    "10.1155/2015/871675"
+  ],
+  "title": [
+    "Ethnopharmacological survey of medicinal plants used by traditional healers and indigenous people in chittagong hill tracts, bangladesh, for the treatment of snakebite."
+  ],
+  "authorString": [
+    "Kadir MF, Karmoker JR, Alam MR, Jahan SR, Mahbub S, Mia MM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kadir MF"
+          ],
+          "firstName": [
+            "Mohammad Fahim"
+          ],
+          "lastName": [
+            "Kadir"
+          ],
+          "initials": [
+            "MF"
+          ],
+          "affiliation": [
+            "Department of Pharmaceutical Technology, Faculty of Pharmacy, University of Dhaka, Dhaka 1000, Bangladesh ; Department of Pharmacy, University of Asia Pacific, Dhaka 1209, Bangladesh."
+          ]
+        },
+        {
+          "fullName": [
+            "Karmoker JR"
+          ],
+          "firstName": [
+            "James Regun"
+          ],
+          "lastName": [
+            "Karmoker"
+          ],
+          "initials": [
+            "JR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0938-9078",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Pharmacy, University of Asia Pacific, Dhaka 1209, Bangladesh."
+          ]
+        },
+        {
+          "fullName": [
+            "Alam MR"
+          ],
+          "firstName": [
+            "Md Rashedul"
+          ],
+          "lastName": [
+            "Alam"
+          ],
+          "initials": [
+            "MR"
+          ],
+          "affiliation": [
+            "Department of Pharmaceutical Technology, Faculty of Pharmacy, University of Dhaka, Dhaka 1000, Bangladesh."
+          ]
+        },
+        {
+          "fullName": [
+            "Jahan SR"
+          ],
+          "firstName": [
+            "Syeda Rawnak"
+          ],
+          "lastName": [
+            "Jahan"
+          ],
+          "initials": [
+            "SR"
+          ],
+          "affiliation": [
+            "Department of Pharmaceutical Technology, Faculty of Pharmacy, University of Dhaka, Dhaka 1000, Bangladesh."
+          ]
+        },
+        {
+          "fullName": [
+            "Mahbub S"
+          ],
+          "firstName": [
+            "Sami"
+          ],
+          "lastName": [
+            "Mahbub"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Pharmacy, University of Asia Pacific, Dhaka 1209, Bangladesh."
+          ]
+        },
+        {
+          "fullName": [
+            "Mia MM"
+          ],
+          "firstName": [
+            "M M K"
+          ],
+          "lastName": [
+            "Mia"
+          ],
+          "initials": [
+            "MM"
+          ],
+          "affiliation": [
+            "Bangladesh National Herbarium, Bangladesh."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0938-9078",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2015"
+      ],
+      "journalIssueId": [
+        "2263831"
+      ],
+      "dateOfPublication": [
+        "2015"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Evidence-based complementary and alternative medicine : eCAM"
+          ],
+          "ISOAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "medlineAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "NLMid": [
+            "101215021"
+          ],
+          "ISSN": [
+            "1741-427X"
+          ],
+          "ESSN": [
+            "1741-4288"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "871675"
+  ],
+  "abstractText": [
+    "Snakebites are common in tropical countries like Bangladesh where most snakebite victims dwell in rural areas. Among the management options after snakebite in Bangladesh, snake charmers (Ozha in Bengali language) are the first contact following a snakebite for more than 80% of the victims and they are treated mostly with the help of some medicinal plants. Our aim of the study is to compile plants used for the treatment of snakebite occurrence in Bangladesh. The field survey was carried out in a period of almost 3 years. Fieldwork was undertaken in Chittagong Hill Tracts, Bangladesh, including Chittagong, Rangamati, Bandarban, and Khagrachari. Open-ended and semistructured questionnaire was used to interview a total of 110 people including traditional healers and local people. A total of 116 plant species of 48 families were listed. Leaves were the most cited plant part used against snake venom. Most of the reported species were herb in nature and paste mostly used externally is the mode of preparation. The survey represents the preliminary information of certain medicinal plants having neutralizing effects against snake venoms, though further phytochemical investigation, validation, and clinical trials should be conducted before using these plants as an alternative to popular antivenom."
+  ],
+  "affiliation": [
+    "Department of Pharmaceutical Technology, Faculty of Pharmacy, University of Dhaka, Dhaka 1000, Bangladesh ; Department of Pharmacy, University of Asia Pacific, Dhaka 1209, Bangladesh."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4386694?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4386694"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2015/871675"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-04-16"
+  ],
+  "dateOfCreation": [
+    "2015-04-16"
+  ],
+  "firstIndexDate": [
+    "2015-04-17"
+  ],
+  "dateOfRevision": [
+    "2015-04-18"
+  ],
+  "electronicPublicationDate": [
+    "2015-03-23"
+  ],
+  "firstPublicationDate": [
+    "2015-03-23"
+  ]
+}

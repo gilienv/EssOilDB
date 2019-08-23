@@ -1,0 +1,540 @@
+{
+  "id": [
+    "27613104"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27613104"
+  ],
+  "pmcid": [
+    "PMC5052395"
+  ],
+  "doi": [
+    "10.1016/j.bjm.2016.04.032"
+  ],
+  "title": [
+    "Management of blight of bell pepper (Capsicum annuum var. grossum) caused by Drechslera bicolor."
+  ],
+  "authorString": [
+    "Jadon KS, Shah R, Gour HN, Sharma P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Jadon KS"
+          ],
+          "firstName": [
+            "Kuldeep Singh"
+          ],
+          "lastName": [
+            "Jadon"
+          ],
+          "initials": [
+            "KS"
+          ],
+          "affiliation": [
+            "ICAR-Central Arid Zone Research Institute, Department Plant Pathology, Rajasthan, India. Electronic address: kuldeep.rca@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Shah R"
+          ],
+          "firstName": [
+            "Rakesh"
+          ],
+          "lastName": [
+            "Shah"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Maharana Pratap University of Agriculture and Technology, Department of Plant Pathology, Udaipur, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Gour HN"
+          ],
+          "firstName": [
+            "Hari Narayan"
+          ],
+          "lastName": [
+            "Gour"
+          ],
+          "initials": [
+            "HN"
+          ],
+          "affiliation": [
+            "Maharana Pratap University of Agriculture and Technology, Department of Plant Pathology, Udaipur, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Sharma P"
+          ],
+          "firstName": [
+            "Pankaj"
+          ],
+          "lastName": [
+            "Sharma"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "ICAR-Directorate of Rapeseed-Mustard Research, Department of Plant Pathology, Bharatpur, India."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "47"
+      ],
+      "journalIssueId": [
+        "2460885"
+      ],
+      "dateOfPublication": [
+        "2016 Oct - Dec"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Brazilian journal of microbiology : [publication of the Brazilian Society for Microbiology]"
+          ],
+          "ISOAbbreviation": [
+            "Braz. J. Microbiol."
+          ],
+          "medlineAbbreviation": [
+            "Braz J Microbiol"
+          ],
+          "NLMid": [
+            "101095924"
+          ],
+          "ISSN": [
+            "1517-8382"
+          ],
+          "ESSN": [
+            "1678-4405"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "1020-1029"
+  ],
+  "abstractText": [
+    "Sweet or bell pepper is a member of the Solanaceae family and is regarded as one of the most popular and nutritious vegetable. Blight, in the form of leaf and fruit blight, has been observed to infect bell pepper crops cultivated at the horticulture farm in Rajasthan College of Agriculture, Udaipur, India. Based on disease severity, we attempted to curb this newly emerged problem using different fungicides, plant extracts, bio-control agents, and commercial botanicals against the fungus in laboratory and pot experiments. Bio-control agent Trichoderma viride and plant growth promoting Rhizobacteria (PGPR) isolate Neist-2 were found to be quite effective against bell pepper blight. All evaluated fungicides, botanicals, commercial botanicals, and bio-control agents in vitro were further studied as seed dressers and two foliar sprays at ten days interval in pot experiments. The combinations of Vitavax, PGPR isolate Neist-2, and Mehandi extract were found to be very effective against bell pepper blight followed by Vitavax, T. viride, and Mehandi extract used individually. All treatments in the pot experiments were found to significantly reduce seedling mortality and enhance plant biomass of bell pepper. Thus, these experimental findings suggest that a better integrated management of bell pepper blight could be achieved by conducting field trials in major bell pepper- and chilli-cultivated areas of the state. Besides fungicides, different botanicals and commercial botanicals also seem to be promising treatment options. Therefore, the outcome of the present study provides an alternate option of fungicide use in minimizing loss caused by Drechslera bicolor."
+  ],
+  "affiliation": [
+    "ICAR-Central Arid Zone Research Institute, Department Plant Pathology, Rajasthan, India. Electronic address: kuldeep.rca@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Ascomycota"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Capsicum"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Extracts"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antifungal Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Microbial Sensitivity Tests"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Seedlings"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Plant extracts",
+        "Trichoderma",
+        "Fungicides",
+        "PGPR",
+        "Botanicals",
+        "Neem Oil",
+        "Bio-control Agents",
+        "Zatropin"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Antifungal Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Plant Extracts"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5052395?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5052395"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.bjm.2016.04.032"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-01-18"
+  ],
+  "dateOfCreation": [
+    "2016-09-10"
+  ],
+  "firstIndexDate": [
+    "2016-09-13"
+  ],
+  "dateOfRevision": [
+    "2017-01-18"
+  ],
+  "electronicPublicationDate": [
+    "2016-08-31"
+  ],
+  "firstPublicationDate": [
+    "2016-08-31"
+  ]
+}

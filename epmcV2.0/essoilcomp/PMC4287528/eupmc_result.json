@@ -1,0 +1,737 @@
+{
+  "id": [
+    "25569240"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25569240"
+  ],
+  "pmcid": [
+    "PMC4287528"
+  ],
+  "doi": [
+    "10.1371/journal.pntd.0003450"
+  ],
+  "title": [
+    "Identification of human semiochemicals attractive to the major vectors of onchocerciasis."
+  ],
+  "authorString": [
+    "Young RM, Burkett-Cadena ND, McGaha TW, Rodriguez-Perez MA, Toé LD, Adeleke MA, Sanfo M, Soungalo T, Katholi CR, Noblet R, Fadamiro H, Torres-Estrada JL, Salinas-Carmona MC, Baker B, Unnasch TR, Cupp EW."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Young RM"
+          ],
+          "firstName": [
+            "Ryan M"
+          ],
+          "lastName": [
+            "Young"
+          ],
+          "initials": [
+            "RM"
+          ],
+          "affiliation": [
+            "Center for Drug Discovery and Innovation, University of South Florida, Tampa, Florida, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Burkett-Cadena ND"
+          ],
+          "firstName": [
+            "Nathan D"
+          ],
+          "lastName": [
+            "Burkett-Cadena"
+          ],
+          "initials": [
+            "ND"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6168-1637",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Global Health Infectious Disease Research Program, Department of Global Health, University of South Florida, Tampa, Florida, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "McGaha TW Jr"
+          ],
+          "firstName": [
+            "Tommy W"
+          ],
+          "lastName": [
+            "McGaha"
+          ],
+          "initials": [
+            "TW"
+          ],
+          "affiliation": [
+            "Global Health Infectious Disease Research Program, Department of Global Health, University of South Florida, Tampa, Florida, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Rodriguez-Perez MA"
+          ],
+          "firstName": [
+            "Mario A"
+          ],
+          "lastName": [
+            "Rodriguez-Perez"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "affiliation": [
+            "Centro de Biotecnología Genómica, Instituto Politécnico Nacional, Reynosa, Tamaulipas, México; Facultad de Medicina, Universidad Autónoma de Nuevo León, Monterrey, Nuevo León, México."
+          ]
+        },
+        {
+          "fullName": [
+            "Toé LD"
+          ],
+          "firstName": [
+            "Laurent D"
+          ],
+          "lastName": [
+            "Toé"
+          ],
+          "initials": [
+            "LD"
+          ],
+          "affiliation": [
+            "African Programme for Onchocerciasis Control, Ouagadougou, Burkina Faso."
+          ]
+        },
+        {
+          "fullName": [
+            "Adeleke MA"
+          ],
+          "firstName": [
+            "Monsuru A"
+          ],
+          "lastName": [
+            "Adeleke"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "affiliation": [
+            "Department of Biological Sciences, Osun State University, Osogbo, Nigeria."
+          ]
+        },
+        {
+          "fullName": [
+            "Sanfo M"
+          ],
+          "firstName": [
+            "Moussa"
+          ],
+          "lastName": [
+            "Sanfo"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "African Programme for Onchocerciasis Control, Ouagadougou, Burkina Faso."
+          ]
+        },
+        {
+          "fullName": [
+            "Soungalo T"
+          ],
+          "firstName": [
+            "Traore"
+          ],
+          "lastName": [
+            "Soungalo"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Programme National de lutte contre l'onchocercose, Direction de la lute contre la maladie, Ministère de la Santé, Ouagadougou, Burkina Faso."
+          ]
+        },
+        {
+          "fullName": [
+            "Katholi CR"
+          ],
+          "firstName": [
+            "Charles R"
+          ],
+          "lastName": [
+            "Katholi"
+          ],
+          "initials": [
+            "CR"
+          ],
+          "affiliation": [
+            "Department of Biostatistics, School of Public Health, University of Alabama at Birmingham, Birmingham, Alabama, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Noblet R"
+          ],
+          "firstName": [
+            "Raymond"
+          ],
+          "lastName": [
+            "Noblet"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Entomology, University of Georgia, Athens, Georgia, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Fadamiro H"
+          ],
+          "firstName": [
+            "Henry"
+          ],
+          "lastName": [
+            "Fadamiro"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Entomology and Plant Pathology, Auburn University, Auburn, Alabama, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Torres-Estrada JL"
+          ],
+          "firstName": [
+            "Jose L"
+          ],
+          "lastName": [
+            "Torres-Estrada"
+          ],
+          "initials": [
+            "JL"
+          ],
+          "affiliation": [
+            "Centro Regional de Investigación en Salud Pública, Instituto Nacional de Salud Pública, Tapachula, Chiapas, México."
+          ]
+        },
+        {
+          "fullName": [
+            "Salinas-Carmona MC"
+          ],
+          "firstName": [
+            "Mario C"
+          ],
+          "lastName": [
+            "Salinas-Carmona"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "affiliation": [
+            "Facultad de Medicina, Universidad Autónoma de Nuevo León, Monterrey, Nuevo León, México."
+          ]
+        },
+        {
+          "fullName": [
+            "Baker B"
+          ],
+          "firstName": [
+            "Bill"
+          ],
+          "lastName": [
+            "Baker"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Center for Drug Discovery and Innovation, University of South Florida, Tampa, Florida, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Unnasch TR"
+          ],
+          "firstName": [
+            "Thomas R"
+          ],
+          "lastName": [
+            "Unnasch"
+          ],
+          "initials": [
+            "TR"
+          ],
+          "affiliation": [
+            "Global Health Infectious Disease Research Program, Department of Global Health, University of South Florida, Tampa, Florida, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Cupp EW"
+          ],
+          "firstName": [
+            "Eddie W"
+          ],
+          "lastName": [
+            "Cupp"
+          ],
+          "initials": [
+            "EW"
+          ],
+          "affiliation": [
+            "Department of Entomology and Plant Pathology, Auburn University, Auburn, Alabama, United States of America."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6168-1637",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2240837"
+      ],
+      "dateOfPublication": [
+        "2015 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PLoS neglected tropical diseases"
+          ],
+          "ISOAbbreviation": [
+            "PLoS Negl Trop Dis"
+          ],
+          "medlineAbbreviation": [
+            "PLoS Negl Trop Dis"
+          ],
+          "NLMid": [
+            "101291488"
+          ],
+          "ISSN": [
+            "1935-2727"
+          ],
+          "ESSN": [
+            "1935-2735"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "e3450"
+  ],
+  "abstractText": [
+    "Entomological indicators are considered key metrics to document the interruption of transmission of Onchocerca volvulus, the etiological agent of human onchocerciasis. Human landing collection is the standard employed for collection of the vectors for this parasite. Recent studies reported the development of traps that have the potential for replacing humans for surveillance of O. volvulus in the vector population. However, the key chemical components of human odor that are attractive to vector black flies have not been identified.Human sweat compounds were analyzed using GC-MS analysis and compounds common to three individuals identified. These common compounds, with others previously identified as attractive to other hematophagous arthropods were evaluated for their ability to stimulate and attract the major onchocerciasis vectors in Africa (Simulium damnosum sensu lato) and Latin America (Simulium ochraceum s. l.) using electroantennography and a Y tube binary choice assay. Medium chain length carboxylic acids and aldehydes were neurostimulatory for S. damnosum s.l. while S. ochraceum s.l. was stimulated by short chain aliphatic alcohols and aldehydes. Both species were attracted to ammonium bicarbonate and acetophenone. The compounds were shown to be attractive to the relevant vector species in field studies, when incorporated into a formulation that permitted a continuous release of the compound over time and used in concert with previously developed trap platforms.The identification of compounds attractive to the major vectors of O. volvulus will permit the development of optimized traps. Such traps may replace the use of human vector collectors for monitoring the effectiveness of onchocerciasis elimination programs and could find use as a contributing component in an integrated vector control/drug program aimed at eliminating river blindness in Africa."
+  ],
+  "affiliation": [
+    "Center for Drug Discovery and Innovation, University of South Florida, Tampa, Florida, United States of America."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sweat"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Simuliidae"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Onchocerciasis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TM"
+                  ],
+                  "qualifierName": [
+                    "transmission"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pheromones, Human"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Behavior, Animal"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Insect Vectors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Time Factors"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Pheromones, Human"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4287528?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4287528"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pntd.0003450"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-02-08"
+  ],
+  "dateOfCreation": [
+    "2015-01-09"
+  ],
+  "firstIndexDate": [
+    "2015-01-09"
+  ],
+  "dateOfRevision": [
+    "2015-01-13"
+  ],
+  "electronicPublicationDate": [
+    "2015-01-08"
+  ],
+  "firstPublicationDate": [
+    "2015-01-08"
+  ]
+}

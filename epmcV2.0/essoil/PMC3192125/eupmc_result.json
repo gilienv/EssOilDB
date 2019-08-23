@@ -1,0 +1,681 @@
+{
+  "id": [
+    "22022471"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22022471"
+  ],
+  "pmcid": [
+    "PMC3192125"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0025927"
+  ],
+  "title": [
+    "Repellent plants provide affordable natural screening to prevent mosquito house entry in tropical rural settings--results from a pilot efficacy study."
+  ],
+  "authorString": [
+    "Mng'ong'o FC, Sambali JJ, Sabas E, Rubanga J, Magoma J, Ntamatungiro AJ, Turner EL, Nyogea D, Ensink JH, Moore SJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mng'ong'o FC"
+          ],
+          "firstName": [
+            "Frank C"
+          ],
+          "lastName": [
+            "Mng'ong'o"
+          ],
+          "initials": [
+            "FC"
+          ]
+        },
+        {
+          "fullName": [
+            "Sambali JJ"
+          ],
+          "firstName": [
+            "Joseph J"
+          ],
+          "lastName": [
+            "Sambali"
+          ],
+          "initials": [
+            "JJ"
+          ]
+        },
+        {
+          "fullName": [
+            "Sabas E"
+          ],
+          "firstName": [
+            "Eustachkius"
+          ],
+          "lastName": [
+            "Sabas"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Rubanga J"
+          ],
+          "firstName": [
+            "Justine"
+          ],
+          "lastName": [
+            "Rubanga"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Magoma J"
+          ],
+          "firstName": [
+            "Jaka"
+          ],
+          "lastName": [
+            "Magoma"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Ntamatungiro AJ"
+          ],
+          "firstName": [
+            "Alex J"
+          ],
+          "lastName": [
+            "Ntamatungiro"
+          ],
+          "initials": [
+            "AJ"
+          ]
+        },
+        {
+          "fullName": [
+            "Turner EL"
+          ],
+          "firstName": [
+            "Elizabeth L"
+          ],
+          "lastName": [
+            "Turner"
+          ],
+          "initials": [
+            "EL"
+          ]
+        },
+        {
+          "fullName": [
+            "Nyogea D"
+          ],
+          "firstName": [
+            "Daniel"
+          ],
+          "lastName": [
+            "Nyogea"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Ensink JH"
+          ],
+          "firstName": [
+            "Jeroen H J"
+          ],
+          "lastName": [
+            "Ensink"
+          ],
+          "initials": [
+            "JH"
+          ]
+        },
+        {
+          "fullName": [
+            "Moore SJ"
+          ],
+          "firstName": [
+            "Sarah J"
+          ],
+          "lastName": [
+            "Moore"
+          ],
+          "initials": [
+            "SJ"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "1871072"
+      ],
+      "dateOfPublication": [
+        "2011 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2011"
+      ],
+      "printPublicationDate": [
+        "2011-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2011"
+  ],
+  "pageInfo": [
+    "e25927"
+  ],
+  "abstractText": [
+    "Sustained malaria control is underway using a combination of vector control, prompt diagnosis and treatment of malaria cases. Progress is excellent, but for long-term control, low-cost, sustainable tools that supplement existing control programs are needed. Conventional vector control tools such as indoor residual spraying and house screening are highly effective, but difficult to deliver in rural areas. Therefore, an additional means of reducing mosquito house entry was evaluated: the screening of mosquito house entry points by planting the tall and densely foliated repellent plant Lantana camara L. around houses. A pilot efficacy study was performed in Kagera Region, Tanzania in an area of high seasonal malaria transmission, where consenting families within the study village planted L. camara (Lantana) around their homes and were responsible for maintaining the plants. Questionnaire data on house design, socioeconomic status, malaria prevention knowledge, attitude and practices was collected from 231 houses with Lantana planted around them 90 houses without repellent plants. Mosquitoes were collected using CDC Light Traps between September 2008 and July 2009. Data were analysed with generalised negative binomial regression, controlling for the effect of sampling period. Indoor catches of mosquitoes in houses with Lantana were compared using the Incidence Rate Ratio (IRR) relative to houses without plants in an adjusted analysis. There were 56% fewer Anopheles gambiae s.s. (IRR 0.44, 95% CI 0.28-0.68, p<0.0001); 83% fewer Anopheles funestus s.s. (IRR 0.17, 95% CI 0.09-0.32, p<0.0001), and 50% fewer mosquitoes of any kind (IRR 0.50, 95% CI 0.38-0.67, p<0.0001) in houses with Lantana relative to controls. House screening using Lantana reduced indoor densities of malaria vectors and nuisance mosquitoes with broad community acceptance. Providing sufficient plants for one home costs US $1.50 including maintenance and labour costs, (30 cents per person). L. camara mode of action and suitability for mosquito control is discussed."
+  ],
+  "affiliation": [
+    "Concern Worldwide Tanzania, Dar es Salaam, Tanzania."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Culicidae"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GD"
+                  ],
+                  "qualifierName": [
+                    "growth & development"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Lantana"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Insect Bites and Stings"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Insect Repellents"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Regression Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pilot Projects"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Family Characteristics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Tropical Climate"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Residence Characteristics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mosquito Control"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pest Control, Biological"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Qualitative Research"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Rural Population"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Tanzania"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Insect Repellents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3192125?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3192125"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22022471/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22022471/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0025927"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "11"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2012-02-17"
+  ],
+  "dateOfCreation": [
+    "2011-10-24"
+  ],
+  "firstIndexDate": [
+    "2011-10-25"
+  ],
+  "dateOfRevision": [
+    "2013-06-27"
+  ],
+  "electronicPublicationDate": [
+    "2011-10-12"
+  ],
+  "firstPublicationDate": [
+    "2011-10-12"
+  ]
+}

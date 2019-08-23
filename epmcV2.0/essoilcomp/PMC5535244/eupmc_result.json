@@ -1,0 +1,439 @@
+{
+  "id": [
+    "28698511"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28698511"
+  ],
+  "pmcid": [
+    "PMC5535244"
+  ],
+  "doi": [
+    "10.3390/nano7070178"
+  ],
+  "title": [
+    "The Effect of Silver Nanoparticles Size, Produced Using Plant Extract from Arbutus unedo, on Their Antibacterial Efficacy."
+  ],
+  "authorString": [
+    "Skandalis N, Dimopoulou A, Georgopoulou A, Gallios N, Papadopoulos D, Tsipas D, Theologidis I, Michailidis N, Chatzinikolaidou M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Skandalis N"
+          ],
+          "firstName": [
+            "Nicholas"
+          ],
+          "lastName": [
+            "Skandalis"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4236-8909",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Phytopathology, Benaki Phytopathological Institute, 8 St. Delta, Kifissia, GR-14561 Athens, Greece. n.skandalis@bpi.gr."
+          ]
+        },
+        {
+          "fullName": [
+            "Dimopoulou A"
+          ],
+          "firstName": [
+            "Anastasia"
+          ],
+          "lastName": [
+            "Dimopoulou"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Phytopathology, Benaki Phytopathological Institute, 8 St. Delta, Kifissia, GR-14561 Athens, Greece. anastasia_dimopoulou@imbb.forth.gr."
+          ]
+        },
+        {
+          "fullName": [
+            "Georgopoulou A"
+          ],
+          "firstName": [
+            "Anthie"
+          ],
+          "lastName": [
+            "Georgopoulou"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Materials Science and Technology, University of Crete, 71001 Heraklion, Greece. anthieg87@yahoo.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Gallios N"
+          ],
+          "firstName": [
+            "Nikolaos"
+          ],
+          "lastName": [
+            "Gallios"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Mechanical Engineering, Aristotle University of Thessaloniki, 54124 Thessaloniki, Greece. gallios@auth.gr."
+          ]
+        },
+        {
+          "fullName": [
+            "Papadopoulos D"
+          ],
+          "firstName": [
+            "Dimitrios"
+          ],
+          "lastName": [
+            "Papadopoulos"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0940-7221",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Mechanical Engineering, Aristotle University of Thessaloniki, 54124 Thessaloniki, Greece. dhpapado@auth.gr."
+          ]
+        },
+        {
+          "fullName": [
+            "Tsipas D"
+          ],
+          "firstName": [
+            "Dimitrios"
+          ],
+          "lastName": [
+            "Tsipas"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Mechanical Engineering, Aristotle University of Thessaloniki, 54124 Thessaloniki, Greece. dtsipas@auth.gr."
+          ]
+        },
+        {
+          "fullName": [
+            "Theologidis I"
+          ],
+          "firstName": [
+            "Ioannis"
+          ],
+          "lastName": [
+            "Theologidis"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Department of Phytopathology, Benaki Phytopathological Institute, 8 St. Delta, Kifissia, GR-14561 Athens, Greece. i.theologidis@bpi.gr."
+          ]
+        },
+        {
+          "fullName": [
+            "Michailidis N"
+          ],
+          "firstName": [
+            "Nikolaos"
+          ],
+          "lastName": [
+            "Michailidis"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Mechanical Engineering, Aristotle University of Thessaloniki, 54124 Thessaloniki, Greece. nmichail@eng.auth.gr."
+          ]
+        },
+        {
+          "fullName": [
+            "Chatzinikolaidou M"
+          ],
+          "firstName": [
+            "Maria"
+          ],
+          "lastName": [
+            "Chatzinikolaidou"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Materials Science and Technology, University of Crete, 71001 Heraklion, Greece. mchatzin@materials.uoc.gr."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4236-8909",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0940-7221",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2572862"
+      ],
+      "dateOfPublication": [
+        "2017 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nanomaterials (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Nanomaterials (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Nanomaterials (Basel)"
+          ],
+          "NLMid": [
+            "101610216"
+          ],
+          "ISSN": [
+            "2079-4991"
+          ],
+          "ESSN": [
+            "2079-4991"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "abstractText": [
+    "Silver nanoparticles (AgNPs) have been demonstrated to restrain bacterial growth, while maintaining minimal risk in development of bacterial resistance and human cell toxicity that conventional silver compounds exhibit. Several physical and chemical methods have been reported to synthesize AgNPs. However, these methods are expensive and involve heavy chemical reduction agents. An alternative approach to produce AgNPs in a cost-effective and environmentally friendly way employs a biological pathway using various plant extracts to reduce metal ions. The size control issue, and the stability of nanoparticles, remain some of the latest challenges in such methods. In this study, we used two different concentrations of fresh leaf extract of the plant Arbutus unedo (LEA) as a reducing and stabilizing agent to produce two size variations of AgNPs. UV-Vis spectroscopy, Dynamic Light Scattering, Transmission Electron Microscopy, and zeta potential were applied for the characterization of AgNPs. Both AgNP variations were evaluated for their antibacterial efficacy against the gram-negative species Escherichia coli and Pseudomonas aeruginosa, as well as the gram-positive species Bacillus subtilis and Staphylococcus epidermidis. Although significant differences have been achieved in the nanoparticles' size by varying the plant extract concentration during synthesis, the antibacterial effect was almost the same."
+  ],
+  "affiliation": [
+    "Department of Phytopathology, Benaki Phytopathological Institute, 8 St. Delta, Kifissia, GR-14561 Athens, Greece. n.skandalis@bpi.gr."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Particle size",
+        "Silver Nanoparticles",
+        "Green Synthesis",
+        "Antibacterial Efficacy"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5535244?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5535244"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/nano7070178"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR52861"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-07-13"
+  ],
+  "firstIndexDate": [
+    "2017-07-13"
+  ],
+  "dateOfRevision": [
+    "2019-01-15"
+  ],
+  "electronicPublicationDate": [
+    "2017-07-10"
+  ],
+  "firstPublicationDate": [
+    "2017-07-10"
+  ]
+}

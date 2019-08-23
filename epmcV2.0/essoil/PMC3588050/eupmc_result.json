@@ -1,0 +1,363 @@
+{
+  "id": [
+    "23389040"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23389040"
+  ],
+  "pmcid": [
+    "PMC3588050"
+  ],
+  "doi": [
+    "10.3390/ijms14023395"
+  ],
+  "title": [
+    "Natural products as a source for treating neglected  parasitic diseases."
+  ],
+  "authorString": [
+    "Ndjonka D, Rapado LN, Silber AM, Liebau E, Wrenger C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ndjonka D"
+          ],
+          "firstName": [
+            "Dieudonné"
+          ],
+          "lastName": [
+            "Ndjonka"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Rapado LN"
+          ],
+          "firstName": [
+            "Ludmila Nakamura"
+          ],
+          "lastName": [
+            "Rapado"
+          ],
+          "initials": [
+            "LN"
+          ]
+        },
+        {
+          "fullName": [
+            "Silber AM"
+          ],
+          "firstName": [
+            "Ariel M"
+          ],
+          "lastName": [
+            "Silber"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4528-4732",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liebau E"
+          ],
+          "firstName": [
+            "Eva"
+          ],
+          "lastName": [
+            "Liebau"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Wrenger C"
+          ],
+          "firstName": [
+            "Carsten"
+          ],
+          "lastName": [
+            "Wrenger"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5987-1749",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5987-1749",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4528-4732",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2003770"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of molecular sciences"
+          ],
+          "ISOAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "medlineAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "NLMid": [
+            "101092791"
+          ],
+          "ISSN": [
+            "1422-0067"
+          ],
+          "ESSN": [
+            "1422-0067"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "3395-3439"
+  ],
+  "abstractText": [
+    "Infectious diseases caused by parasites are a major threat for the entire mankind, especially in the tropics. More than 1 billion people world-wide are directly exposed to tropical parasites such as the causative agents of trypanosomiasis, leishmaniasis, schistosomiasis, lymphatic filariasis and onchocerciasis, which represent a major health problem, particularly in impecunious areas. Unlike most antibiotics, there is no \"general\" antiparasitic drug available. Here, the selection of antiparasitic drugs varies between different organisms. Some of the currently available drugs are chemically de novo synthesized, however, the majority of drugs are derived from natural sources such as plants which have subsequently been chemically modified to warrant higher potency against these human pathogens. In this review article we will provide an overview of the current  status of plant derived pharmaceuticals and their chemical modifications to target  parasite-specific peculiarities in order to interfere with their proliferation in the  human host."
+  ],
+  "affiliation": [
+    "Department of Biological Sciences, Faculty of Science, University of Ngaoundere, B. P. 454, Cameroon. liebaue@uni-muenster.de."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3588050?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3588050"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23389040/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23389040/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijms14023395"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "36"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-02-08"
+  ],
+  "dateOfCreation": [
+    "2013-02-07"
+  ],
+  "firstIndexDate": [
+    "2013-02-08"
+  ],
+  "dateOfRevision": [
+    "2013-03-14"
+  ],
+  "electronicPublicationDate": [
+    "2013-02-06"
+  ],
+  "firstPublicationDate": [
+    "2013-02-06"
+  ]
+}

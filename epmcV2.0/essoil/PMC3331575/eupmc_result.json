@@ -1,0 +1,244 @@
+{
+  "id": [
+    "22557414"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22557414"
+  ],
+  "pmcid": [
+    "PMC3331575"
+  ],
+  "title": [
+    "Less known uses of weeds as medicinal plants."
+  ],
+  "authorString": [
+    "Sahu TR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sahu TR"
+          ],
+          "lastName": [
+            "Sahu"
+          ],
+          "initials": [
+            "TR"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "1932222"
+      ],
+      "dateOfPublication": [
+        "1984 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "1984"
+      ],
+      "printPublicationDate": [
+        "1984-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Ancient science of life"
+          ],
+          "ISOAbbreviation": [
+            "Anc Sci Life"
+          ],
+          "medlineAbbreviation": [
+            "Anc Sci Life"
+          ],
+          "NLMid": [
+            "8307589"
+          ],
+          "ISSN": [
+            "0257-7941"
+          ],
+          "ESSN": [
+            "2249-9547"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "1984"
+  ],
+  "pageInfo": [
+    "245-249"
+  ],
+  "abstractText": [
+    "In this paper the author presents medicinal or otherwise useful weed species with details of family, vernacular name and its medicinal utility. Information on other general economic importance of medicinal weeds is also described here."
+  ],
+  "affiliation": [
+    "Department of Botany, Doctor Harisingh Gour Vishwavidyalaya, Sagar 470 003, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3331575?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3331575"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22557414/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22557414/pdf/?tool=EBI"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2012-08-23"
+  ],
+  "dateOfCreation": [
+    "2012-05-04"
+  ],
+  "firstIndexDate": [
+    "2012-05-05"
+  ],
+  "firstPublicationDate": [
+    "1984-04-01"
+  ]
+}

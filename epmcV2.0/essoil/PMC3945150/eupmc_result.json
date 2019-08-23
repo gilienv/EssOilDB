@@ -1,0 +1,344 @@
+{
+  "id": [
+    "24693417"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24693417"
+  ],
+  "pmcid": [
+    "PMC3945150"
+  ],
+  "doi": [
+    "10.1155/2014/434506"
+  ],
+  "title": [
+    "Repellent Activities of Essential Oils of Some Plants Used Traditionally to Control the Brown Ear Tick, Rhipicephalus appendiculatus."
+  ],
+  "authorString": [
+    "Wanzala W, Hassanali A, Mukabana WR, Takken W."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wanzala W"
+          ],
+          "firstName": [
+            "Wycliffe"
+          ],
+          "lastName": [
+            "Wanzala"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9177-3217",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biological Sciences, School of Pure and Applied Sciences, South Eastern Kenya University, P.O. Box 170-90200, Kitui, Kenya ; Behavioural and Chemical Ecology Department, International Centre of Insect Physiology and Ecology, African Insect Science for Food and Health, P.O. Box 30772-00100-GPO, Nairobi, Kenya."
+          ]
+        },
+        {
+          "fullName": [
+            "Hassanali A"
+          ],
+          "firstName": [
+            "Ahmed"
+          ],
+          "lastName": [
+            "Hassanali"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Behavioural and Chemical Ecology Department, International Centre of Insect Physiology and Ecology, African Insect Science for Food and Health, P.O. Box 30772-00100-GPO, Nairobi, Kenya ; Chemistry Department, School of Pure and Applied Sciences, Kenyatta University, P.O. Box 43844-00100-GPO, Nairobi, Kenya."
+          ]
+        },
+        {
+          "fullName": [
+            "Mukabana WR"
+          ],
+          "firstName": [
+            "Wolfgang Richard"
+          ],
+          "lastName": [
+            "Mukabana"
+          ],
+          "initials": [
+            "WR"
+          ],
+          "affiliation": [
+            "Behavioural and Chemical Ecology Department, International Centre of Insect Physiology and Ecology, African Insect Science for Food and Health, P.O. Box 30772-00100-GPO, Nairobi, Kenya ; School of Biological Sciences, University of Nairobi, P.O. Box 30197-00100-GPO, Nairobi, Kenya."
+          ]
+        },
+        {
+          "fullName": [
+            "Takken W"
+          ],
+          "firstName": [
+            "Willem"
+          ],
+          "lastName": [
+            "Takken"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Laboratory of Entomology, Wageningen University and Research Centre, P.O. Box 8031, 6700 EH Wageningen, The Netherlands."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9177-3217",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2014"
+      ],
+      "journalIssueId": [
+        "2126407"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of parasitology research"
+          ],
+          "ISOAbbreviation": [
+            "J Parasitol Res"
+          ],
+          "medlineAbbreviation": [
+            "J Parasitol Res"
+          ],
+          "NLMid": [
+            "101526294"
+          ],
+          "ISSN": [
+            "2090-0023"
+          ],
+          "ESSN": [
+            "2090-0031"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "434506"
+  ],
+  "abstractText": [
+    "Essential oils of eight plants, selected after an ethnobotanical survey conducted in Bukusu community in Bungoma County, western Kenya (Tagetes minuta, Tithonia diversifolia, Juniperus procera, Solanecio mannii, Senna didymobotrya, Lantana camara, Securidaca longepedunculata, and Hoslundia opposita), were initially screened (at two doses) for their repellence against brown ear tick, Rhipicephalus appendiculatus, using a dual-choice climbing assay. The oils of T. minuta and T. diversifolia were then selected for more detailed study. Dose-response evaluations of these oils showed that T. minuta oil was more repellent (RD50 = 0.0021 mg) than that of T. diversifolia (RD50 = 0.263 mg). Gas chromatography-linked mass spectrometric (GC-MS) analyses showed different compositions of the two oils. T. minuta oil is comprised mainly of cis-ocimene (43.78%), dihydrotagetone (16.71%), piperitenone (10.15%), trans-tagetone (8.67%), 3,9-epoxy-p-mentha-1,8(10)diene (6.47%), β -ocimene (3.25%), and cis-tagetone (1.95%), whereas T. diversifolia oil is comprised mainly of α -pinene (63.64%), β -pinene (15.00%), isocaryophyllene (7.62%), nerolidol (3.70%), 1-tridecanol (1.75%), limonene (1.52%), and sabinene (1.00%). The results provide scientific rationale for traditional use of raw products of these plants in controlling livestock ticks by the Bukusu community and lay down some groundwork for exploiting partially refined products such as essential oils of these plants in protecting cattle against infestations with R. appendiculatus."
+  ],
+  "affiliation": [
+    "Department of Biological Sciences, School of Pure and Applied Sciences, South Eastern Kenya University, P.O. Box 170-90200, Kitui, Kenya ; Behavioural and Chemical Ecology Department, International Centre of Insect Physiology and Ecology, African Insect Science for Food and Health, P.O. Box 30772-00100-GPO, Nairobi, Kenya."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3945150?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3945150"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24693417/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24693417/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2014/434506"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-04-02"
+  ],
+  "dateOfCreation": [
+    "2014-04-02"
+  ],
+  "firstIndexDate": [
+    "2014-04-03"
+  ],
+  "dateOfRevision": [
+    "2014-04-04"
+  ],
+  "electronicPublicationDate": [
+    "2014-02-19"
+  ],
+  "firstPublicationDate": [
+    "2014-02-19"
+  ]
+}

@@ -1,0 +1,730 @@
+{
+  "id": [
+    "26875978"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26875978"
+  ],
+  "pmcid": [
+    "PMC6272997"
+  ],
+  "doi": [
+    "10.3390/molecules21020209"
+  ],
+  "title": [
+    "Chemical Characterization and Trypanocidal, Leishmanicidal and Cytotoxicity Potential of Lantana camara L. (Verbenaceae) Essential Oil."
+  ],
+  "authorString": [
+    "Barros LM, Duarte AE, Morais-Braga MF, Waczuk EP, Vega C, Leite NF, de Menezes IR, Coutinho HD, Rocha JB, Kamdem JP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Barros LM"
+          ],
+          "firstName": [
+            "Luiz Marivando"
+          ],
+          "lastName": [
+            "Barros"
+          ],
+          "initials": [
+            "LM"
+          ],
+          "affiliation": [
+            "Laboratório de Microbiologia e Biologia Molecular, Universidade Regional do Cariri, Crato-CE, CEP 63105-000, Brazil. lmarivando@hotmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Duarte AE"
+          ],
+          "firstName": [
+            "Antonia Eliene"
+          ],
+          "lastName": [
+            "Duarte"
+          ],
+          "initials": [
+            "AE"
+          ],
+          "affiliation": [
+            "Laboratório de Microbiologia e Biologia Molecular, Universidade Regional do Cariri, Crato-CE, CEP 63105-000, Brazil. duarte105@yahoo.com.br."
+          ]
+        },
+        {
+          "fullName": [
+            "Morais-Braga MF"
+          ],
+          "firstName": [
+            "Maria Flaviana Bezerra"
+          ],
+          "lastName": [
+            "Morais-Braga"
+          ],
+          "initials": [
+            "MF"
+          ],
+          "affiliation": [
+            "Laboratório de Microbiologia e Biologia Molecular, Universidade Regional do Cariri, Crato-CE, CEP 63105-000, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Waczuk EP"
+          ],
+          "firstName": [
+            "Emily Pansera"
+          ],
+          "lastName": [
+            "Waczuk"
+          ],
+          "initials": [
+            "EP"
+          ],
+          "affiliation": [
+            "Post-Graduate Program in Biological Sciences, Biochemical Toxicology, Federal University of Santa Maria, Santa Maria-RS, CEP 97105-900, Brazil. memypw@yahoo.com.br."
+          ]
+        },
+        {
+          "fullName": [
+            "Vega C"
+          ],
+          "firstName": [
+            "Celeste"
+          ],
+          "lastName": [
+            "Vega"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Laboratório de Microbiologia e Biologia Molecular, Universidade Regional do Cariri, Crato-CE, CEP 63105-000, Brazil. mcvegagomez@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Leite NF"
+          ],
+          "firstName": [
+            "Nadghia Figueiredo"
+          ],
+          "lastName": [
+            "Leite"
+          ],
+          "initials": [
+            "NF"
+          ],
+          "affiliation": [
+            "Laboratório de Microbiologia e Biologia Molecular, Universidade Regional do Cariri, Crato-CE, CEP 63105-000, Brazil. nadghia.fl@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "de Menezes IR"
+          ],
+          "firstName": [
+            "Irwin Rose Alencar"
+          ],
+          "lastName": [
+            "de Menezes"
+          ],
+          "initials": [
+            "IR"
+          ],
+          "affiliation": [
+            "Program of Post-Graduation in Molecular Bioprospection, Laboratory of Pharmacology and Molecular Chemistry, Chemistry Biology Department, Regional University of Cariri, Crato, CEP 63105-000, Brazil. irwin.alencar@urca.br."
+          ]
+        },
+        {
+          "fullName": [
+            "Coutinho HD"
+          ],
+          "firstName": [
+            "Henrique Douglas Melo"
+          ],
+          "lastName": [
+            "Coutinho"
+          ],
+          "initials": [
+            "HD"
+          ],
+          "affiliation": [
+            "Laboratório de Microbiologia e Biologia Molecular, Universidade Regional do Cariri, Crato-CE, CEP 63105-000, Brazil. hdmcoutinho@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Rocha JB"
+          ],
+          "firstName": [
+            "João Batista Teixeira"
+          ],
+          "lastName": [
+            "Rocha"
+          ],
+          "initials": [
+            "JB"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3829-0595",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Post-Graduate Program in Biological Sciences, Biochemical Toxicology, Federal University of Santa Maria, Santa Maria-RS, CEP 97105-900, Brazil. jbtrocha@yahoo.com.br."
+          ]
+        },
+        {
+          "fullName": [
+            "Kamdem JP"
+          ],
+          "firstName": [
+            "Jean Paul"
+          ],
+          "lastName": [
+            "Kamdem"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1730-8602",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Post-Graduate Program in Biological Sciences, Biochemical Toxicology, Federal University of Santa Maria, Santa Maria-RS, CEP 97105-900, Brazil. kamdemjeanpaul2005@yahoo.fr."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1730-8602",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3829-0595",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "21"
+      ],
+      "journalIssueId": [
+        "2477234"
+      ],
+      "dateOfPublication": [
+        "2016 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecules (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Molecules"
+          ],
+          "medlineAbbreviation": [
+            "Molecules"
+          ],
+          "NLMid": [
+            "100964009"
+          ],
+          "ISSN": [
+            "1420-3049"
+          ],
+          "ESSN": [
+            "1420-3049"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "abstractText": [
+    "Drug resistance in the treatment of neglected parasitic diseases, such as leishmaniasis and trypanosomiasis, has led to the search and development of alternative drugs from plant origins. In this context, the essential oil extracted by hydro-distillation from Lantana camara leaves was tested against Leishmania braziliensis and Trypanosoma cruzi. The results demonstrated that L. camara essential oil inhibited T. cruzi and L. braziliensis with IC50 of 201.94 μg/mL and 72.31 μg/mL, respectively. L. camara essential oil was found to be toxic to NCTC929 fibroblasts at 500 μg/mL (IC50 = 301.42 μg/mL). The composition of L. camara essential oil analyzed by gas chromatography-mass spectrometry (GC/MS) revealed large amounts of (E)-caryophyllene (23.75%), biciclogermacrene (15.80%), germacrene D (11.73%), terpinolene (6.1%), and sabinene (5.92%), which might be, at least in part, responsible for its activity. Taken together, our results suggest that L. camara essential oil may be an important source of therapeutic agents for the development of alternative drugs against parasitic diseases."
+  ],
+  "affiliation": [
+    "Laboratório de Microbiologia e Biologia Molecular, Universidade Regional do Cariri, Crato-CE, CEP 63105-000, Brazil. lmarivando@hotmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Line"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Leishmania"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Trypanosoma cruzi"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Lantana"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Leaves"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oils, Volatile"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Survival"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gas Chromatography-Mass Spectrometry"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cytostatic Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Essential oil",
+        "Lantana camara",
+        "Trypanosoma Cruzi",
+        "Leishmania Braziliensis"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Oils, Volatile"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Cytostatic Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6272997?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6272997"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/molecules21020209"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-10-24"
+  ],
+  "dateOfCreation": [
+    "2016-02-16"
+  ],
+  "firstIndexDate": [
+    "2016-02-16"
+  ],
+  "dateOfRevision": [
+    "2019-01-08"
+  ],
+  "electronicPublicationDate": [
+    "2016-02-10"
+  ],
+  "firstPublicationDate": [
+    "2016-02-10"
+  ]
+}

@@ -1,0 +1,597 @@
+{
+  "id": [
+    "30486484"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30486484"
+  ],
+  "pmcid": [
+    "PMC6321362"
+  ],
+  "doi": [
+    "10.3390/ijms19123776"
+  ],
+  "title": [
+    "Therapeutic Potential of Plants and Plant Derived Phytochemicals against Acetaminophen-Induced Liver Injury."
+  ],
+  "authorString": [
+    "Subramanya SB, Venkataraman B, Meeran MFN, Goyal SN, Patil CR, Ojha S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Subramanya SB"
+          ],
+          "firstName": [
+            "Sandeep B"
+          ],
+          "lastName": [
+            "Subramanya"
+          ],
+          "initials": [
+            "SB"
+          ],
+          "affiliation": [
+            "Department of Physiology, College of Medicine and Health Sciences, PO Box # 17666, United Arab Emirates University, Al Ain 17666, UAE. sandeep.bs@uaeu.ac.ae."
+          ]
+        },
+        {
+          "fullName": [
+            "Venkataraman B"
+          ],
+          "firstName": [
+            "Balaji"
+          ],
+          "lastName": [
+            "Venkataraman"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Physiology, College of Medicine and Health Sciences, PO Box # 17666, United Arab Emirates University, Al Ain 17666, UAE. balajiv@uaeu.ac.ae."
+          ]
+        },
+        {
+          "fullName": [
+            "Meeran MFN"
+          ],
+          "firstName": [
+            "Mohamed Fizur Nagoor"
+          ],
+          "lastName": [
+            "Meeran"
+          ],
+          "initials": [
+            "MFN"
+          ],
+          "affiliation": [
+            "Department of Pharmacology and Therapeutics, College of Medicine and Health Sciences, PO Box # 17666, United Arab Emirates University, Al Ain 17666, UAE. nagoormeeran1985@uaeu.ac.ae."
+          ]
+        },
+        {
+          "fullName": [
+            "Goyal SN"
+          ],
+          "firstName": [
+            "Sameer N"
+          ],
+          "lastName": [
+            "Goyal"
+          ],
+          "initials": [
+            "SN"
+          ],
+          "affiliation": [
+            "Department of Pharmacology, SVKM's Institute of Pharmacy, Dhule, Maharashtra 424 001, India. goyal.aiims@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Patil CR"
+          ],
+          "firstName": [
+            "Chandragouda R"
+          ],
+          "lastName": [
+            "Patil"
+          ],
+          "initials": [
+            "CR"
+          ],
+          "affiliation": [
+            "Department of Pharmacology, R. C. Patel Institute of Pharmaceutical Education and Research, Shirpur, Dhule, Maharashtra 425 405, India. pchandragouda@yahoo.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Ojha S"
+          ],
+          "firstName": [
+            "Shreesh"
+          ],
+          "lastName": [
+            "Ojha"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Pharmacology and Therapeutics, College of Medicine and Health Sciences, PO Box # 17666, United Arab Emirates University, Al Ain 17666, UAE. shreeshojha@uaeu.ac.ae."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2752657"
+      ],
+      "dateOfPublication": [
+        "2018 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International Journal of Molecular Sciences"
+          ],
+          "ISOAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "medlineAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "NLMid": [
+            "101092791"
+          ],
+          "ISSN": [
+            "1422-0067"
+          ],
+          "ESSN": [
+            "1422-0067"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "Acetaminophen (APAP), which is also known as paracetamol or N-acetyl-p-aminophenol is a safe and potent drug for fever, pain and inflammation when used at its normal therapeutic doses. It is available as over-the-counter drug and used by all the age groups. The overdose results in acute liver failure that often requires liver transplantation. Current clinical therapy for APAP-induced liver toxicity is the administration of N-acetyl-cysteine (NAC), a sulphydryl compound an approved drug which acts by replenishing cellular glutathione (GSH) stores in the liver. Over the past five decades, several studies indicate that the safety and efficacy of herbal extracts or plant derived compounds that are used either as monotherapy or as an adjunct therapy along with conventional medicines for hepatotoxicity have shown favorable responses. Phytochemicals mitigate necrotic cell death and protect against APAP-induced liver toxicityby restoring cellular antioxidant defense system, limiting oxidative stress and subsequently protecting mitochondrial dysfunction and inflammation. Recent experimental evidences indicat that these phytochemicals also regulate differential gene expression to modulate various cellular pathways that are implicated in cellular protection. Therefore, in this review, we highlight the role of the phytochemicals, which are shown to be efficacious in clinically relevant APAP-induced hepatotoxicity experimental models. In this review, we have made comprehensive attempt to delineate the molecular mechanism and the cellular targets that are modulated by the phytochemicals to mediate the cytoprotective effect against APAP-induced hepatotoxicity. In this review, we have also defined the challenges and scope of phytochemicals to be developed as drugs to target APAP-induced hepatotoxicity."
+  ],
+  "affiliation": [
+    "Department of Physiology, College of Medicine and Health Sciences, PO Box # 17666, United Arab Emirates University, Al Ain 17666, UAE. sandeep.bs@uaeu.ac.ae."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "31M195"
+          ],
+          "agency": [
+            "UNITED ARAB EMIRATES UNIVERSITY"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Liver"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Acetaminophen"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TO"
+                  ],
+                  "qualifierName": [
+                    "toxicity"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Glutathione"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oxidative Stress"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phytochemicals"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chemical and Drug Induced Liver Injury"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Plants",
+        "Animals",
+        "Hepatotoxicity",
+        "Natural products",
+        "Acetaminophen",
+        "Small molecules",
+        "Phytochemicals",
+        "paracetamol",
+        "Preclinical Studies",
+        "Apap",
+        "Hpatoprotection"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Glutathione"
+          ],
+          "registryNumber": [
+            "GAN16C9B8O"
+          ]
+        },
+        {
+          "name": [
+            "Acetaminophen"
+          ],
+          "registryNumber": [
+            "362O9ITL9D"
+          ]
+        },
+        {
+          "name": [
+            "Phytochemicals"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6321362?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6321362"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijms19123776"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-03-11"
+  ],
+  "dateOfCreation": [
+    "2018-11-30"
+  ],
+  "firstIndexDate": [
+    "2018-11-30"
+  ],
+  "dateOfRevision": [
+    "2019-03-11"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-28"
+  ],
+  "firstPublicationDate": [
+    "2018-11-28"
+  ]
+}

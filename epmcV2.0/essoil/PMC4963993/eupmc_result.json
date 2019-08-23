@@ -1,0 +1,305 @@
+{
+  "id": [
+    "27471520"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27471520"
+  ],
+  "pmcid": [
+    "PMC4963993"
+  ],
+  "doi": [
+    "10.1186/s13223-016-0135-z"
+  ],
+  "title": [
+    "Clinical and immuno-proteomic approach on Lantana camara pollen allergy-a major health hazard."
+  ],
+  "authorString": [
+    "Ghosal K, Saha B, Gupta Bhattacharya S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ghosal K"
+          ],
+          "firstName": [
+            "Kavita"
+          ],
+          "lastName": [
+            "Ghosal"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4843-3684",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Plant Biology, Bose Institute, Main Campus, 93/1, A.P.C. Road, Kolkata, West Bengal 700009 India."
+          ]
+        },
+        {
+          "fullName": [
+            "Saha B"
+          ],
+          "firstName": [
+            "Bodhisattwa"
+          ],
+          "lastName": [
+            "Saha"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Division of Plant Biology, Bose Institute, Main Campus, 93/1, A.P.C. Road, Kolkata, West Bengal 700009 India."
+          ]
+        },
+        {
+          "fullName": [
+            "Gupta Bhattacharya S"
+          ],
+          "firstName": [
+            "Swati"
+          ],
+          "lastName": [
+            "Gupta Bhattacharya"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Division of Plant Biology, Bose Institute, Main Campus, 93/1, A.P.C. Road, Kolkata, West Bengal 700009 India."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4843-3684",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2358957"
+      ],
+      "dateOfPublication": [
+        "2016 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Allergy, asthma, and clinical immunology : official journal of the Canadian Society of Allergy and Clinical Immunology"
+          ],
+          "ISOAbbreviation": [
+            "Allergy Asthma Clin Immunol"
+          ],
+          "medlineAbbreviation": [
+            "Allergy Asthma Clin Immunol"
+          ],
+          "NLMid": [
+            "101244313"
+          ],
+          "ISSN": [
+            "1710-1484"
+          ],
+          "ESSN": [
+            "1710-1492"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "33"
+  ],
+  "abstractText": [
+    "The incidence of allergic diseases is increasing gradually and is a global burden affecting the socio-economic quality of life. Identification of allergens is the first step towards paving the way for therapeutic interventions against atopic diseases. Our previous investigation figured out that total pollen load correlated significantly with the rise of respiratory allergy in a subtropical city in India. The most dominant pollen responsible for IgE sensitivity in most patients emerged to be from Lantana camara (LC) an obnoxious weed growing in and around suburban areas of West Bengal. In this study, we identified allergenic components from this shrub using an immunoproteomic approach.Determination of dominant pollen species was done using aerobiological sampling during two consecutive years and correlated with hospitalization and skin prick test. Serum was collected from LC positive patients and checked for in vitro allergenicity using ELISA and Histamine assay. Total proteome was profiled in SDS-PAGE, 2D PAGE and immunoblotted to detect IgE binding proteins which were further identified using mass spectrometry.Lantana camara pollen emerged as a significant contributor from the correlation study with hospital admission of the respiratory allergy sufferers and its extract demonstrated an elevated IgE response in ELISA and histamine release assay tests. Five IgE reactive bands/zones were observed in 1D blot which resolved to 12 allergo-reactive spots in the 2D blot. Mass spectrometric analysis identified nine spots that grouped into four diverse proteins. Pathogenesis-related Thaumatin-like protein was found to be one of the major allergens in Lantana camara.This is to our knowledge the first attempt to identify allergens from Lantana camara using a proteomic approach. The allergens identified thereof can be used to prepare hypoallergenic vaccine candidates and design immunotherapy trials against LC pollen and other aeroallergen carriers which are cross-reactive and harbor similar proteins."
+  ],
+  "affiliation": [
+    "Division of Plant Biology, Bose Institute, Main Campus, 93/1, A.P.C. Road, Kolkata, West Bengal 700009 India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Statistical analysis",
+        "Immunoblot",
+        "Lantana camara",
+        "2d Gel Electrophoresis",
+        "Maldi-tof/tof",
+        "Aero-allergen"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4963993?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4963993"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13223-016-0135-z"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-07-29"
+  ],
+  "dateOfCreation": [
+    "2016-07-29"
+  ],
+  "firstIndexDate": [
+    "2016-07-30"
+  ],
+  "dateOfRevision": [
+    "2016-07-31"
+  ],
+  "electronicPublicationDate": [
+    "2016-07-28"
+  ],
+  "firstPublicationDate": [
+    "2016-07-28"
+  ]
+}

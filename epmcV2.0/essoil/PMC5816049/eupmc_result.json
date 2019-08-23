@@ -1,0 +1,458 @@
+{
+  "id": [
+    "29483867"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29483867"
+  ],
+  "pmcid": [
+    "PMC5816049"
+  ],
+  "doi": [
+    "10.3389/fnagi.2018.00003"
+  ],
+  "title": [
+    "Ethnopharmacological Approaches for Dementia Therapy and Significance of Natural Products and Herbal Drugs."
+  ],
+  "authorString": [
+    "Tewari D, Stankiewicz AM, Mocan A, Sah AN, Tzvetkov NT, Huminiecki L, Horbańczuk JO, Atanasov AG."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tewari D"
+          ],
+          "firstName": [
+            "Devesh"
+          ],
+          "lastName": [
+            "Tewari"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Pharmaceutical Sciences, Faculty of Technology, Kumaun University, Nainital, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Stankiewicz AM"
+          ],
+          "firstName": [
+            "Adrian M"
+          ],
+          "lastName": [
+            "Stankiewicz"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2719-6205",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Genetics and Animal Breeding of the Polish Academy of Sciences, Jastrzebiec, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Mocan A"
+          ],
+          "firstName": [
+            "Andrei"
+          ],
+          "lastName": [
+            "Mocan"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5848-8457",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Pharmaceutical Botany, Iuliu Hațieganu University of Medicine and Pharmacy, Cluj-Napoca, Romania."
+          ]
+        },
+        {
+          "fullName": [
+            "Sah AN"
+          ],
+          "firstName": [
+            "Archana N"
+          ],
+          "lastName": [
+            "Sah"
+          ],
+          "initials": [
+            "AN"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8684-6389",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Pharmaceutical Sciences, Faculty of Technology, Kumaun University, Nainital, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Tzvetkov NT"
+          ],
+          "firstName": [
+            "Nikolay T"
+          ],
+          "lastName": [
+            "Tzvetkov"
+          ],
+          "initials": [
+            "NT"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8482-0481",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Molecular Biology and Biochemical Pharmacology, Institute of Molecular Biology Roumen Tsanev, Bulgarian Academy of Sciences, Sofia, Bulgaria."
+          ]
+        },
+        {
+          "fullName": [
+            "Huminiecki L"
+          ],
+          "firstName": [
+            "Lukasz"
+          ],
+          "lastName": [
+            "Huminiecki"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1943-4450",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Genetics and Animal Breeding of the Polish Academy of Sciences, Jastrzebiec, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Horbańczuk JO"
+          ],
+          "firstName": [
+            "Jarosław O"
+          ],
+          "lastName": [
+            "Horbańczuk"
+          ],
+          "initials": [
+            "JO"
+          ],
+          "affiliation": [
+            "Institute of Genetics and Animal Breeding of the Polish Academy of Sciences, Jastrzebiec, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Atanasov AG"
+          ],
+          "firstName": [
+            "Atanas G"
+          ],
+          "lastName": [
+            "Atanasov"
+          ],
+          "initials": [
+            "AG"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2545-0967",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Genetics and Animal Breeding of the Polish Academy of Sciences, Jastrzebiec, Poland."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2719-6205",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8684-6389",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5848-8457",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2545-0967",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8482-0481",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1943-4450",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2647769"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in aging neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Aging Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Aging Neurosci"
+          ],
+          "NLMid": [
+            "101525824"
+          ],
+          "ISSN": [
+            "1663-4365"
+          ],
+          "ESSN": [
+            "1663-4365"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "3"
+  ],
+  "abstractText": [
+    "Dementia is a clinical syndrome wherein gradual decline of mental and cognitive capabilities of an afflicted person takes place. Dementia is associated with various risk factors and conditions such as insufficient cerebral blood supply, toxin exposure, mitochondrial dysfunction, oxidative damage, and often coexisting with some neurodegenerative disorders such as Alzheimer's disease (AD), Huntington's disease (HD), and Parkinson's disease (PD). Although there are well-established (semi-)synthetic drugs currently used for the management of AD and AD-associated dementia, most of them have several adverse effects. Thus, traditional medicine provides various plant-derived lead molecules that may be useful for further medical research. Herein we review the worldwide use of ethnomedicinal plants in dementia treatment. We have explored a number of recognized databases by using keywords and phrases such as \"dementia\", \"Alzheimer's,\" \"traditional medicine,\" \"ethnopharmacology,\" \"ethnobotany,\" \"herbs,\" \"medicinal plants\" or other relevant terms, and summarized 90 medicinal plants that are traditionally used to treat dementia. Moreover, we highlight five medicinal plants or plant genera of prime importance and discuss the physiological effects, as well as the mechanism of action of their major bioactive compounds. Furthermore, the link between mitochondrial dysfunction and dementia is also discussed. We conclude that several drugs of plant origin may serve as promising therapeutics for the treatment of dementia, however, pivotal evidence for their therapeutic efficacy in advanced clinical studies is still lacking."
+  ],
+  "affiliation": [
+    "Department of Pharmaceutical Sciences, Faculty of Technology, Kumaun University, Nainital, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Alzheimer's disease",
+        "Dementia",
+        "β-amyloid",
+        "herbal drugs",
+        "ethnopharmacology",
+        "Amyloid Fibrils"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5816049?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5816049"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnagi.2018.00003"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "8"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-02-28"
+  ],
+  "firstIndexDate": [
+    "2018-02-28"
+  ],
+  "dateOfRevision": [
+    "2018-03-01"
+  ],
+  "electronicPublicationDate": [
+    "2018-02-12"
+  ],
+  "firstPublicationDate": [
+    "2018-02-12"
+  ]
+}

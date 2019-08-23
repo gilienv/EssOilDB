@@ -1,0 +1,265 @@
+{
+  "id": [
+    "29114571"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29114571"
+  ],
+  "pmcid": [
+    "PMC5637243"
+  ],
+  "doi": [
+    "10.1016/j.bbrep.2017.03.002"
+  ],
+  "title": [
+    "Antioxidant, antibacterial and cytotoxic potential of silver nanoparticles synthesized using terpenes rich extract of Lantana camara L. leaves."
+  ],
+  "authorString": [
+    "P PS, T KS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "P PS"
+          ],
+          "firstName": [
+            "Patil Shriniwas"
+          ],
+          "lastName": [
+            "P"
+          ],
+          "initials": [
+            "PS"
+          ],
+          "affiliation": [
+            "Department of Pharmacognosy, SCES's Indira College of Pharmacy, Pune, India."
+          ]
+        },
+        {
+          "fullName": [
+            "T KS"
+          ],
+          "firstName": [
+            "Kumbhar Subhash"
+          ],
+          "lastName": [
+            "T"
+          ],
+          "initials": [
+            "KS"
+          ],
+          "affiliation": [
+            "Department of Pharmacology, SCES's Indira College of Pharmacy, Pune, India."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2572656"
+      ],
+      "dateOfPublication": [
+        "2017 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Biochemistry and biophysics reports"
+          ],
+          "ISOAbbreviation": [
+            "Biochem Biophys Rep"
+          ],
+          "medlineAbbreviation": [
+            "Biochem Biophys Rep"
+          ],
+          "NLMid": [
+            "101660999"
+          ],
+          "ISSN": [
+            "2405-5808"
+          ],
+          "ESSN": [
+            "2405-5808"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "76-81"
+  ],
+  "abstractText": [
+    "Several attempts have been made for green synthesis of silver nanoparticles (AgNPs) using different plant extracts. Present study revealed that, antioxidant, antibacterial and cytotoxic AgNPs were synthesized using terpenes-rich extract (TRE) of environmentally notorious Lantana camara L. leaves. AgNPs were characterized by advanced techniques like UV-Visible and Infra red spectroscopy; XRD, SEM techniques as terpenes coated sphere shaped NPs with average diameter 425 nm. Further, on evaluation, AgNPs were found to exhibit dose - dependent antioxidant potential, good to moderate antibacterial activity against Staphylococcus aureus, Escherichia coli and Pseudomonas aeruginosa; and toxicity on Brine shrimp (A. salinanauplii) with LD50 value 514.50 µg/ml."
+  ],
+  "affiliation": [
+    "Department of Pharmacognosy, SCES's Indira College of Pharmacy, Pune, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Antioxidant",
+        "Antibacterial",
+        "Silver Nanoparticles",
+        "Brine Shrimp Cytotoxicity",
+        "Lantana Camara L.",
+        "Terpenes-rich Extract"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5637243?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5637243"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.bbrep.2017.03.002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-11-09"
+  ],
+  "firstIndexDate": [
+    "2017-11-09"
+  ],
+  "dateOfRevision": [
+    "2017-12-19"
+  ],
+  "electronicPublicationDate": [
+    "2017-03-10"
+  ],
+  "firstPublicationDate": [
+    "2017-03-10"
+  ]
+}

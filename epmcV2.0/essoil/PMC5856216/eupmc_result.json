@@ -1,0 +1,412 @@
+{
+  "id": [
+    "29544521"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29544521"
+  ],
+  "pmcid": [
+    "PMC5856216"
+  ],
+  "doi": [
+    "10.1186/s13002-018-0216-9"
+  ],
+  "title": [
+    "Herbal bathing: an analysis of variation in plant use among Saramaccan and Aucan Maroons in Suriname."
+  ],
+  "authorString": [
+    "van 't Klooster CIEA, Haabo V, Ruysschaert S, Vossen T, van Andel TR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "van 't Klooster CIEA"
+          ],
+          "firstName": [
+            "Charlotte I E A"
+          ],
+          "lastName": [
+            "van 't Klooster"
+          ],
+          "initials": [
+            "CIEA"
+          ],
+          "affiliation": [
+            "Department of Public Health and Primary Care, Leiden University Medical Center, PO Box 9600, 2300 RC, Leiden, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Haabo V"
+          ],
+          "firstName": [
+            "Vinije"
+          ],
+          "lastName": [
+            "Haabo"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Saramaka Project, Kennedyweg 92, 6708 HB, Wageningen, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Ruysschaert S"
+          ],
+          "firstName": [
+            "Sofie"
+          ],
+          "lastName": [
+            "Ruysschaert"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "World Wildlife Fund Guianas, Henk Arronstraat 63, Suite E, Paramaribo, Suriname."
+          ]
+        },
+        {
+          "fullName": [
+            "Vossen T"
+          ],
+          "firstName": [
+            "Tessa"
+          ],
+          "lastName": [
+            "Vossen"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "ICLON, University Leiden, Willem Einthoven Building, Wassenaarseweg 62a, 2333 AL, Leiden, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "van Andel TR"
+          ],
+          "firstName": [
+            "Tinde R"
+          ],
+          "lastName": [
+            "van Andel"
+          ],
+          "initials": [
+            "TR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4951-1894",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Plant sciences, Subdivision Biosystematics, Wageningen University and Research (WUR), PO Box 16, 6700 AA, Wageningen, The Netherlands. tinde.vanandel@naturalis.nl."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4951-1894",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2659426"
+      ],
+      "dateOfPublication": [
+        "2018 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of ethnobiology and ethnomedicine"
+          ],
+          "ISOAbbreviation": [
+            "J Ethnobiol Ethnomed"
+          ],
+          "medlineAbbreviation": [
+            "J Ethnobiol Ethnomed"
+          ],
+          "NLMid": [
+            "101245794"
+          ],
+          "ISSN": [
+            "1746-4269"
+          ],
+          "ESSN": [
+            "1746-4269"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "20"
+  ],
+  "abstractText": [
+    "Herbal baths play an important role in the traditional health care of Maroons living in the interior of Suriname. However, little is known on the differences in plant ingredients used among and within the Maroon groups. We compared plant use in herbal baths documented for Saramaccan and Aucan Maroons, to see whether similarity in species was related to bath type, ethnic group, or geographical location. We hypothesized that because of their dissimilar cultural background, they used different species for the same type of bath. We assumed, however, that plants used in genital baths were more similar, as certain plant ingredients (e.g., essential oils), are preferred in these baths.We compiled a database from published and unpublished sources on herbal bath ingredients and constructed a presence/absence matrix per bath type and study site. To assess similarity in plant use among and within Saramaccan and Aucan communities, we performed three Detrended Correspondence Analyses on species level and the Jaccard Similarity Index to quantify similarity in bath ingredients.We recorded 349 plants used in six commonly used bath types: baby strength, adult strength, skin diseases, respiratory ailments, genital steam baths, and spiritual issues. Our results showed a large variation in plant ingredients among the Saramaccan and Aucans and little similarity between Saramaccans and Aucans, even for the same type of baths. Plant ingredients for baby baths and genital baths shared more species than the others. Even within the Saramaccan community, plant ingredients were stronger associated with location than with bath type.Plant use in bathing was strongly influenced by study site and then by ethnicity, but less by bath type. As Maroons escaped from different plantations and developed their ethnomedicinal practices in isolation, there has been little exchange in ethnobotanical knowledge after the seventeenth century between ethnic groups. Care should be taken in extrapolating plant use data collected from one location to a whole ethnic community. Maroon plant use deserves more scientific attention, especially now as there are indications that traditional knowledge is disappearing."
+  ],
+  "affiliation": [
+    "Department of Public Health and Primary Care, Leiden University Medical Center, PO Box 9600, 2300 RC, Leiden, The Netherlands."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Plants, Medicinal"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Medicine, Traditional"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Baths"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ethnobotany"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Suriname"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Medicinal plants",
+        "Traditional medicine",
+        "Suriname",
+        "Maroons",
+        "traditional knowledge",
+        "Saramaccan",
+        "Aucan",
+        "Herbal Baths"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5856216?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5856216"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13002-018-0216-9"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-09-18"
+  ],
+  "dateOfCreation": [
+    "2018-03-17"
+  ],
+  "firstIndexDate": [
+    "2018-03-16"
+  ],
+  "dateOfRevision": [
+    "2018-09-18"
+  ],
+  "electronicPublicationDate": [
+    "2018-03-15"
+  ],
+  "firstPublicationDate": [
+    "2018-03-15"
+  ]
+}

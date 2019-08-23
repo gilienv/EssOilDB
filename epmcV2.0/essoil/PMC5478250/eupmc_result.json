@@ -1,0 +1,336 @@
+{
+  "id": [
+    "28664135"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28664135"
+  ],
+  "pmcid": [
+    "PMC5478250"
+  ],
+  "doi": [
+    "10.1016/j.imr.2017.03.001"
+  ],
+  "title": [
+    "Ethnomedicinal plants used for snakebite in India: a brief overview."
+  ],
+  "authorString": [
+    "Upasani SV, Beldar VG, Tatiya AU, Upasani MS, Surana SJ, Patil DS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Upasani SV"
+          ],
+          "firstName": [
+            "Sughosh V"
+          ],
+          "lastName": [
+            "Upasani"
+          ],
+          "initials": [
+            "SV"
+          ],
+          "affiliation": [
+            "R.C. Patel Institute of Pharmacy, Shirpur, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Beldar VG"
+          ],
+          "firstName": [
+            "Vishal G"
+          ],
+          "lastName": [
+            "Beldar"
+          ],
+          "initials": [
+            "VG"
+          ],
+          "affiliation": [
+            "Department of Pharmacognosy, R.C. Patel Institute of Pharmaceutical Education and Research, Shirpur, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Tatiya AU"
+          ],
+          "firstName": [
+            "Anil U"
+          ],
+          "lastName": [
+            "Tatiya"
+          ],
+          "initials": [
+            "AU"
+          ],
+          "affiliation": [
+            "Department of Pharmacognosy, R.C. Patel Institute of Pharmaceutical Education and Research, Shirpur, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Upasani MS"
+          ],
+          "firstName": [
+            "M S"
+          ],
+          "lastName": [
+            "Upasani"
+          ],
+          "initials": [
+            "MS"
+          ],
+          "affiliation": [
+            "H.R. Patel Institute of Pharmacy, Shirpur, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Surana SJ"
+          ],
+          "firstName": [
+            "Sanjay J"
+          ],
+          "lastName": [
+            "Surana"
+          ],
+          "initials": [
+            "SJ"
+          ],
+          "affiliation": [
+            "Department of Pharmacognosy, R.C. Patel Institute of Pharmaceutical Education and Research, Shirpur, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Patil DS"
+          ],
+          "firstName": [
+            "Divyata S"
+          ],
+          "lastName": [
+            "Patil"
+          ],
+          "initials": [
+            "DS"
+          ],
+          "affiliation": [
+            "Department of Pharmacognosy, R.C. Patel Institute of Pharmaceutical Education and Research, Shirpur, India."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2571976"
+      ],
+      "dateOfPublication": [
+        "2017 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Integrative medicine research"
+          ],
+          "ISOAbbreviation": [
+            "Integr Med Res"
+          ],
+          "medlineAbbreviation": [
+            "Integr Med Res"
+          ],
+          "NLMid": [
+            "101612707"
+          ],
+          "ISSN": [
+            "2213-4220"
+          ],
+          "ESSN": [
+            "2213-4239"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "114-130"
+  ],
+  "abstractText": [
+    "The result of human interface and assortment of the most desirable, influential, and successful plant species found in the immediate environment at a precise circumstance is attributable to indigenous knowledge of plant species. India has a rich variety of medicinal plants growing under different geographical and ecological conditions; 1500 out of 15,000 privileged plant species have been reported to have medicinal uses. Snakebite is a severe medical, social, and economic problem in many parts of the world, chiefly in tropical and subtropical nations where majority of the world's dangerous snakes are found and where access to treatment is limited. In India, a range of medicinal plants are used as antidotes for snakebites, used either singly or in combination with other agents. The present study makes an effort to assemble information on medicinal plants that are grown and used for snakebite treatment in India. From a range of literature sources, data have been compiled with emphasis on the plants, family, parts used, etc., depending on the availability of information. This paper enumerates 523 plant species belonging to 122 families that act as antidotes against snakebites. We believe this study of herbal antidotes against snake venom is of substantial significance to society."
+  ],
+  "affiliation": [
+    "R.C. Patel Institute of Pharmacy, Shirpur, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Medicinal plants",
+        "India",
+        "Ethnomedicine",
+        "Snakebite",
+        "Ethanobotany"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5478250?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5478250"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.imr.2017.03.001"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-06-30"
+  ],
+  "firstIndexDate": [
+    "2017-07-01"
+  ],
+  "dateOfRevision": [
+    "2017-08-16"
+  ],
+  "electronicPublicationDate": [
+    "2017-03-20"
+  ],
+  "firstPublicationDate": [
+    "2017-03-20"
+  ]
+}

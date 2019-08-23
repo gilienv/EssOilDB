@@ -1,0 +1,236 @@
+{
+  "id": [
+    "22558530"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22558530"
+  ],
+  "pmcid": [
+    "PMC3339593"
+  ],
+  "doi": [
+    "10.1007/s13205-011-0007-7"
+  ],
+  "title": [
+    "Harmful and beneficial aspects of Parthenium hysterophorus: an update."
+  ],
+  "authorString": [
+    "Patel S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Patel S"
+          ],
+          "firstName": [
+            "Seema"
+          ],
+          "lastName": [
+            "Patel"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Biotechnology, Lovely Professional University, Jalandhar, 144402 Punjab India."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "1"
+      ],
+      "journalIssueId": [
+        "1928632"
+      ],
+      "dateOfPublication": [
+        "2011 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2011"
+      ],
+      "printPublicationDate": [
+        "2011-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "3 Biotech"
+          ],
+          "ISOAbbreviation": [
+            "3 Biotech"
+          ],
+          "medlineAbbreviation": [
+            "3 Biotech"
+          ],
+          "NLMid": [
+            "101565857"
+          ],
+          "ISSN": [
+            "2190-572X"
+          ],
+          "ESSN": [
+            "2190-5738"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2011"
+  ],
+  "pageInfo": [
+    "1-9"
+  ],
+  "abstractText": [
+    "Parthenium hysterophorus is a noxious weed in America, Asia, Africa and Australia. This weed is considered to be a cause of allergic respiratory problems, contact dermatitis, mutagenicity in human and livestock. Crop production is drastically reduced owing to its allelopathy. Also aggressive dominance of this weed threatens biodiversity. Eradication of P. hysterophorus by burning, chemical herbicides, eucalyptus oil and biological control by leaf-feeding beetle, stem-galling moth, stem-boring weevil and fungi have been carried out with variable degrees of success. Recently many innovative uses of this hitherto notorious plant have been discovered. Parthenium hysterophorus confers many health benefits, viz remedy for skin inflammation, rheumatic pain, diarrhoea, urinary tract infections, dysentery, malaria and neuralgia. Its prospect as nano-medicine is being carried out with some preliminary success so far. Removal of heavy metals and dye from the environment, eradication of aquatic weeds, use as substrate for commercial enzyme production, additives in cattle manure for biogas production, as biopesticide, as green manure and compost are to name a few of some other potentials. The active compounds responsible for hazardous properties have been summarized. The aim of this review article is to explore the problem P. hysterophorus poses as a weed, the effective control measures that can be implemented as well as to unravel the latent beneficial prospects of this weed."
+  ],
+  "affiliation": [
+    "Department of Biotechnology, Lovely Professional University, Jalandhar, 144402 Punjab India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3339593?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3339593"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s13205-011-0007-7"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "11"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2012-05-04"
+  ],
+  "firstIndexDate": [
+    "2012-05-05"
+  ],
+  "dateOfRevision": [
+    "2017-03-21"
+  ],
+  "electronicPublicationDate": [
+    "2011-04-27"
+  ],
+  "firstPublicationDate": [
+    "2011-04-27"
+  ]
+}

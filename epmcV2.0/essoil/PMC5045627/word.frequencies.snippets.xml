@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="essoil/PMC5045627/results/word/frequencies/results.xml">
+  <result title="frequency" word="sp." count="64"/>
+  <result title="frequency" word="(.)" count="55"/>
+  <result title="frequency" word="dental" count="46"/>
+  <result title="frequency" word="mg/mL" count="44"/>
+  <result title="frequency" word="plaque" count="43"/>
+  <result title="frequency" word="(mg/mL)" count="33"/>
+  <result title="frequency" word="β-caryophyllene" count="33"/>
+  <result title="frequency" word="Inhibition" count="27"/>
+  <result title="frequency" word="bacterial" count="27"/>
+  <result title="frequency" word="activity" count="23"/>
+  <result title="frequency" word="isolates" count="22"/>
+ </snippets>
+</snippetsTree>

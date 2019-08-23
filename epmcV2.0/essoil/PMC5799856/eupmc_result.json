@@ -1,0 +1,645 @@
+{
+  "id": [
+    "29440898"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29440898"
+  ],
+  "pmcid": [
+    "PMC5799856"
+  ],
+  "doi": [
+    "10.2147/IJN.S153167"
+  ],
+  "title": [
+    "Nanosilver: new ageless and versatile biomedical therapeutic scaffold."
+  ],
+  "authorString": [
+    "Ullah Khan S, Saleh TA, Wahab A, Khan MHU, Khan D, Ullah Khan W, Rahim A, Kamal S, Ullah Khan F, Fahad S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ullah Khan S"
+          ],
+          "firstName": [
+            "Shahid"
+          ],
+          "lastName": [
+            "Ullah Khan"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "College of Plant Sciences and Technology."
+          ]
+        },
+        {
+          "fullName": [
+            "Saleh TA"
+          ],
+          "firstName": [
+            "Tawfik A"
+          ],
+          "lastName": [
+            "Saleh"
+          ],
+          "initials": [
+            "TA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3037-5159",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Chemistry, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia."
+          ]
+        },
+        {
+          "fullName": [
+            "Wahab A"
+          ],
+          "firstName": [
+            "Abdul"
+          ],
+          "lastName": [
+            "Wahab"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Pharmacy, Kohat University of Science and Technology, Kohat."
+          ]
+        },
+        {
+          "fullName": [
+            "Khan MHU"
+          ],
+          "firstName": [
+            "Muhammad Hafeez Ullah"
+          ],
+          "lastName": [
+            "Khan"
+          ],
+          "initials": [
+            "MHU"
+          ],
+          "affiliation": [
+            "College of Plant Sciences and Technology."
+          ]
+        },
+        {
+          "fullName": [
+            "Khan D"
+          ],
+          "firstName": [
+            "Dilfaraz"
+          ],
+          "lastName": [
+            "Khan"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Institute of Chemical Sciences, Gomal University, Dera Ismail Khan, Pakistan."
+          ]
+        },
+        {
+          "fullName": [
+            "Ullah Khan W"
+          ],
+          "firstName": [
+            "Wasim"
+          ],
+          "lastName": [
+            "Ullah Khan"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "School of Chemistry and Chemical Engineering, Sun Yat-Sen University, Guangzhou, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Rahim A"
+          ],
+          "firstName": [
+            "Abdur"
+          ],
+          "lastName": [
+            "Rahim"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2102-658X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Interdisciplinary Research Centre in Biomedical Materials (IRCBM), COMSATS Institute of Information Technology, Lahore, Pakistan."
+          ]
+        },
+        {
+          "fullName": [
+            "Kamal S"
+          ],
+          "firstName": [
+            "Sajid"
+          ],
+          "lastName": [
+            "Kamal"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "School of Biotechnology, Jiangnan University, Wuxi, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ullah Khan F"
+          ],
+          "firstName": [
+            "Farman"
+          ],
+          "lastName": [
+            "Ullah Khan"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Chemistry, University of Science and Technology, Bannu."
+          ]
+        },
+        {
+          "fullName": [
+            "Fahad S"
+          ],
+          "firstName": [
+            "Shah"
+          ],
+          "lastName": [
+            "Fahad"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "College of Plant Sciences and Technology."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3037-5159",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2102-658X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2634222"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of nanomedicine"
+          ],
+          "ISOAbbreviation": [
+            "Int J Nanomedicine"
+          ],
+          "medlineAbbreviation": [
+            "Int J Nanomedicine"
+          ],
+          "NLMid": [
+            "101263847"
+          ],
+          "ISSN": [
+            "1176-9114"
+          ],
+          "ESSN": [
+            "1178-2013"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "733-762"
+  ],
+  "abstractText": [
+    "Silver nanotechnology has received tremendous attention in recent years, owing to its wide range of applications in various fields and its intrinsic therapeutic properties. In this review, an attempt is made to critically evaluate the chemical, physical, and biological synthesis of silver nanoparticles (AgNPs) as well as their efficacy in the field of theranostics including microbiology and parasitology. Moreover, an outlook is also provided regarding the performance of AgNPs against different biological systems such as bacteria, fungi, viruses, and parasites (leishmanial and malarial parasites) in curing certain fatal human diseases, with a special focus on cancer. The mechanism of action of AgNPs in different biological systems still remains enigmatic. Here, due to limited available literature, we only focused on AgNPs mechanism in biological systems including human (wound healing and apoptosis), bacteria, and viruses which may open new windows for future research to ensure the versatile application of AgNPs in cosmetics, electronics, and medical fields."
+  ],
+  "affiliation": [
+    "College of Plant Sciences and Technology."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Silver"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antineoplastic Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CS"
+                  ],
+                  "qualifierName": [
+                    "chemical synthesis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Wound Healing"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Nanotechnology"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Metal Nanoparticles"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TO"
+                  ],
+                  "qualifierName": [
+                    "toxicity"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Theranostics",
+        "Antimicrobial Properties",
+        "Biomedical Applications Of Agnps",
+        "Synthesis Of Agnps"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Antineoplastic Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Silver"
+          ],
+          "registryNumber": [
+            "3M4G523W1G"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5799856?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5799856"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2147/IJN.S153167"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-04-23"
+  ],
+  "dateOfCreation": [
+    "2018-02-15"
+  ],
+  "firstIndexDate": [
+    "2018-02-15"
+  ],
+  "dateOfRevision": [
+    "2018-04-23"
+  ],
+  "electronicPublicationDate": [
+    "2018-02-02"
+  ],
+  "firstPublicationDate": [
+    "2018-02-02"
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "id": [
+    "26396561"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26396561"
+  ],
+  "pmcid": [
+    "PMC4575751"
+  ],
+  "title": [
+    "Effect of benzene extract of Ocimum sanctum leaves on cauda epididymal spermatozoa of rats."
+  ],
+  "authorString": [
+    "Ahmed M, Ahamed RN, H Aladakatti R, G Ghodesawar MA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ahmed M"
+          ],
+          "firstName": [
+            "Mukhtar"
+          ],
+          "lastName": [
+            "Ahmed"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Post-Graduate Studies and Research in Zoology, Karnatak University, Dharwad-580003, India. ; Research Centre, Electron Microscope Unit, College of Science, King Saud University, Post Box 2455, Riyadh 11451, Kingdom of Saudi Arabia."
+          ]
+        },
+        {
+          "fullName": [
+            "Ahamed RN"
+          ],
+          "firstName": [
+            "R Nazeer"
+          ],
+          "lastName": [
+            "Ahamed"
+          ],
+          "initials": [
+            "RN"
+          ],
+          "affiliation": [
+            "Department of Post-Graduate Studies and Research in Zoology, Karnatak University, Dharwad-580003, India."
+          ]
+        },
+        {
+          "fullName": [
+            "H Aladakatti R"
+          ],
+          "firstName": [
+            "Ravindranath"
+          ],
+          "lastName": [
+            "H Aladakatti"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Post-Graduate Studies and Research in Zoology, Karnatak University, Dharwad-580003, India. ; Central Animal Facility, Indian Institute of Science, Bangalore-560012, India."
+          ]
+        },
+        {
+          "fullName": [
+            "G Ghodesawar MA"
+          ],
+          "firstName": [
+            "Mukhtar Ahmed"
+          ],
+          "lastName": [
+            "G Ghodesawar"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "affiliation": [
+            "Department of Post-Graduate Studies and Research in Zoology, Karnatak University, Dharwad-580003, India. ; Department of Zoology, Anjuman Arts, Sciences and Commerce College, Bijapur-586101, India."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2326087"
+      ],
+      "dateOfPublication": [
+        "2011 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2011"
+      ],
+      "printPublicationDate": [
+        "2011-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Iranian journal of reproductive medicine"
+          ],
+          "ISOAbbreviation": [
+            "Iran J Reprod Med"
+          ],
+          "medlineAbbreviation": [
+            "Iran J Reprod Med"
+          ],
+          "NLMid": [
+            "101463749"
+          ],
+          "ISSN": [
+            "1680-6433"
+          ],
+          "ESSN": [
+            "2008-2177"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2011"
+  ],
+  "pageInfo": [
+    "177-186"
+  ],
+  "abstractText": [
+    "BACKGROUND: Recent studies have shown that benzene extract of Ocimum sanctum (O. sanctum) leaves induces the ultrastructural changes in the epithelial cells of the cauda epididymis, its subsequent recovery in the seminiferous epithelium and fertility of male albino rats. OBJECTIVE: Our aim was to investigate the effect of benzene extract of O.sanctum leaves on the cauda epididymal sperm parameters, morphology and their organelles at the ultrastructural level in albino rats. MATERIALS AND METHODS: Wistar male rats (n=20) were allocated into two groups of control (n=10) and test group (n=10). The test group received benzene extract of O.sanctum leaves (250mg/kg/day) for 48 consequence days. Five animals from each group were used for fertility test. Twenty-four hours after the last dose, the rest of the control (n=5) and treated (n=5) animals were sacrificed by cervical dislocation and then the cauda epididymal plasma was used for sperm analysis, scanning electron microscopy (SEM) and transmission electron microscopic (TEM) studies. RESULTS: Sperm analysis of test group exhibited significant (p≤0.001) decrease in the sperm count, motility, speed and increase in sperm anomalies when compare to control group. SEM and TEM observation in treated animals indicated the morphological changes in plasma membrane as well as in the acrosomal membrane of spermatozoa, formation of a balloon-like cytoplasmic droplet in the mid-region of abnormal tail and disorganization or degeneration of mitochondria of sperm mitochondrial sheaths. CONCLUSION: The effects observed in this study may have resulted from a general alteration in the cauda epididymal milieu, probably due to androgen deficiency consequent to the anti-androgenic property of O.sanctum leaves."
+  ],
+  "affiliation": [
+    "Department of Post-Graduate Studies and Research in Zoology, Karnatak University, Dharwad-580003, India. ; Research Centre, Electron Microscope Unit, College of Science, King Saud University, Post Box 2455, Riyadh 11451, Kingdom of Saudi Arabia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Rats",
+        "Epididymis",
+        "Fertility",
+        "Electron microscope",
+        "Spermatozoa",
+        "Ocimum Sanctum"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4575751?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4575751"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-09-23"
+  ],
+  "dateOfCreation": [
+    "2015-09-23"
+  ],
+  "firstIndexDate": [
+    "2015-09-24"
+  ],
+  "dateOfRevision": [
+    "2015-09-30"
+  ],
+  "firstPublicationDate": [
+    "2011-01-01"
+  ]
+}

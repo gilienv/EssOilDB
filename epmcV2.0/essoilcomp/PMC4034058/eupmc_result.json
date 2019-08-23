@@ -1,0 +1,768 @@
+{
+  "id": [
+    "23896619"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23896619"
+  ],
+  "pmcid": [
+    "PMC4034058"
+  ],
+  "doi": [
+    "10.3390/molecules18088945"
+  ],
+  "title": [
+    "Inhibitors of urokinase type plasminogen activator and cytostatic activity from crude plants extracts."
+  ],
+  "authorString": [
+    "Zha X, Diaz R, Franco JJ, Sanchez VF, Fasoli E, Barletta G, Carvajal A, Bansal V."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zha X"
+          ],
+          "firstName": [
+            "Xueqiang"
+          ],
+          "lastName": [
+            "Zha"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Department of Chemistry, University of Puerto Rico at Cayey, 205 Ave. Antonio R. Barcelo, Cayey, PR 00736."
+          ]
+        },
+        {
+          "fullName": [
+            "Diaz R"
+          ],
+          "firstName": [
+            "Ricardo"
+          ],
+          "lastName": [
+            "Diaz"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Franco JJ"
+          ],
+          "firstName": [
+            "Jose Javier Rosado"
+          ],
+          "lastName": [
+            "Franco"
+          ],
+          "initials": [
+            "JJ"
+          ]
+        },
+        {
+          "fullName": [
+            "Sanchez VF"
+          ],
+          "firstName": [
+            "Veronica Forbes"
+          ],
+          "lastName": [
+            "Sanchez"
+          ],
+          "initials": [
+            "VF"
+          ]
+        },
+        {
+          "fullName": [
+            "Fasoli E"
+          ],
+          "firstName": [
+            "Ezio"
+          ],
+          "lastName": [
+            "Fasoli"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Barletta G"
+          ],
+          "firstName": [
+            "Gabriel"
+          ],
+          "lastName": [
+            "Barletta"
+          ],
+          "initials": [
+            "G"
+          ]
+        },
+        {
+          "fullName": [
+            "Carvajal A"
+          ],
+          "firstName": [
+            "Augusto"
+          ],
+          "lastName": [
+            "Carvajal"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Bansal V"
+          ],
+          "firstName": [
+            "Vibha"
+          ],
+          "lastName": [
+            "Bansal"
+          ],
+          "initials": [
+            "V"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2472554"
+      ],
+      "dateOfPublication": [
+        "2013 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecules (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Molecules"
+          ],
+          "medlineAbbreviation": [
+            "Molecules"
+          ],
+          "NLMid": [
+            "100964009"
+          ],
+          "ISSN": [
+            "1420-3049"
+          ],
+          "ESSN": [
+            "1420-3049"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "8945-8958"
+  ],
+  "abstractText": [
+    "In view of the clear evidence that urokinase type plasminogen activator (uPA) plays an important role in the processes of tumor cell metastasis, aortic aneurysm, and multiple sclerosis, it has become a target of choice for pharmacological intervention. The goal of this study was thus to determine the presence of inhibitors of uPA in plants known traditionally for their anti-tumor properties. Crude methanol extracts were prepared from the leaves of plants (14) collected from the subtropical dry forest (Guanica, Puerto Rico), and tested for the presence of inhibitors of uPA using the fibrin plate assay. The extracts that tested positive (6) were then partitioned with petroleum ether, chloroform, ethyl acetate and n-butanol, in a sequential manner. The resulting fractions were then tested again using the fibrin plate assay. Extracts from leaves of Croton lucidus (C. lucidus) showed the presence of a strong uPA inhibitory activity. Serial dilutions of these C. lucidus partitions were performed to determine the uPA inhibition IC₅₀ values. The chloroform extract showed the lowest IC₅₀ value (3.52 µg/mL) and hence contained the most potent uPA inhibitor. Further investigations revealed that the crude methanol extract and its chloroform and n-butanol partitions did not significantly inhibit closely related proteases such as the tissue type plasminogen activator (tPA) and plasmin, indicating their selectivity for uPA, and hence superior potential for medicinal use with fewer side effects. In a further evaluation of their therapeutic potential for prevention of cancer metastasis, the C. lucidus extracts displayed cytostatic activity against human pancreatic carcinoma (PaCa-2) cells, as determined through an MTS assay. The cytostatic activities recorded for each of the partitions correlated with their relative uPA inhibitory activities. There are no existing reports of uPA inhibitors being present in any of the plants reported in this study."
+  ],
+  "affiliation": [
+    "Department of Chemistry, University of Puerto Rico at Cayey, 205 Ave. Antonio R. Barcelo, Cayey, PR 00736."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "5P20MD006144-03"
+          ],
+          "agency": [
+            "NIMHD NIH HHS"
+          ],
+          "acronym": [
+            "MD"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "8P20GM103475"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P20 RR016470"
+          ],
+          "agency": [
+            "NCRR NIH HHS"
+          ],
+          "acronym": [
+            "RR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P20 MD006144"
+          ],
+          "agency": [
+            "NIMHD NIH HHS"
+          ],
+          "acronym": [
+            "MD"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P20 GM103475"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Line, Tumor"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plasminogen Activators"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AI"
+                  ],
+                  "qualifierName": [
+                    "antagonists & inhibitors"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Extracts"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Proliferation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cytostatic Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Urokinase-Type Plasminogen Activator"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AI"
+                  ],
+                  "qualifierName": [
+                    "antagonists & inhibitors"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fibrinolysin"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Plant Extracts"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Plasminogen Activators"
+          ],
+          "registryNumber": [
+            "EC 3.4.21.-"
+          ]
+        },
+        {
+          "name": [
+            "Cytostatic Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Urokinase-Type Plasminogen Activator"
+          ],
+          "registryNumber": [
+            "EC 3.4.21.73"
+          ]
+        },
+        {
+          "name": [
+            "Fibrinolysin"
+          ],
+          "registryNumber": [
+            "EC 3.4.21.7"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4034058?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4034058"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23896619/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23896619/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/molecules18088945"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "Y"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "Y"
+  ],
+  "manuscriptId": [
+    "NIHMS583487"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-03-20"
+  ],
+  "dateOfCreation": [
+    "2013-07-30"
+  ],
+  "firstIndexDate": [
+    "2013-07-31"
+  ],
+  "dateOfRevision": [
+    "2017-05-27"
+  ],
+  "electronicPublicationDate": [
+    "2013-07-26"
+  ],
+  "firstPublicationDate": [
+    "2013-07-26"
+  ]
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="essoil/PMC6071983/results/word/frequencies/results.xml">
+  <result title="frequency" word="animal" count="95"/>
+  <result title="frequency" word="(%)" count="64"/>
+  <result title="frequency" word="knowledge" count="54"/>
+  <result title="frequency" word="health" count="50"/>
+  <result title="frequency" word="meetings" count="50"/>
+  <result title="frequency" word="groups" count="47"/>
+  <result title="frequency" word="village" count="39"/>
+  <result title="frequency" word="education" count="35"/>
+  <result title="frequency" word="villages" count="33"/>
+  <result title="frequency" word="transfer" count="31"/>
+  <result title="frequency" word="participants" count="28"/>
+  <result title="frequency" word="Fig" count="27"/>
+  <result title="frequency" word="group" count="26"/>
+  <result title="frequency" word="local" count="26"/>
+  <result title="frequency" word="meeting" count="25"/>
+  <result title="frequency" word="treatment" count="25"/>
+  <result title="frequency" word="paravets" count="24"/>
+  <result title="frequency" word="study" count="24"/>
+  <result title="frequency" word="keepers" count="23"/>
+  <result title="frequency" word="discussed" count="22"/>
+  <result title="frequency" word="KTR" count="21"/>
+  <result title="frequency" word="rural" count="21"/>
+ </snippets>
+</snippetsTree>

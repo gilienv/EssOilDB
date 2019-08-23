@@ -1,0 +1,328 @@
+{
+  "id": [
+    "28904556"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28904556"
+  ],
+  "pmcid": [
+    "PMC5585606"
+  ],
+  "doi": [
+    "10.1155/2017/5748256"
+  ],
+  "title": [
+    "Medicinal Plants for the Treatment of Local Tissue Damage Induced by Snake Venoms: An Overview from Traditional Use to Pharmacological Evidence."
+  ],
+  "authorString": [
+    "Félix-Silva J, Silva-Junior AA, Zucolotto SM, Fernandes-Pedrosa MF."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Félix-Silva J"
+          ],
+          "firstName": [
+            "Juliana"
+          ],
+          "lastName": [
+            "Félix-Silva"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3131-9025",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratório de Tecnologia & Biotecnologia Farmacêutica (TecBioFar), Faculdade de Farmácia, Universidade Federal do Rio Grande do Norte (UFRN), Natal, RN, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Silva-Junior AA"
+          ],
+          "firstName": [
+            "Arnóbio Antônio"
+          ],
+          "lastName": [
+            "Silva-Junior"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "affiliation": [
+            "Laboratório de Tecnologia & Biotecnologia Farmacêutica (TecBioFar), Faculdade de Farmácia, Universidade Federal do Rio Grande do Norte (UFRN), Natal, RN, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Zucolotto SM"
+          ],
+          "firstName": [
+            "Silvana Maria"
+          ],
+          "lastName": [
+            "Zucolotto"
+          ],
+          "initials": [
+            "SM"
+          ],
+          "affiliation": [
+            "Grupo de Pesquisa em Produtos Naturais Bioativos (PNBio), Laboratório de Farmacognosia, Faculdade de Farmácia, Universidade Federal do Rio Grande do Norte (UFRN), Natal, RN, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Fernandes-Pedrosa MF"
+          ],
+          "firstName": [
+            "Matheus de Freitas"
+          ],
+          "lastName": [
+            "Fernandes-Pedrosa"
+          ],
+          "initials": [
+            "MF"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4221-9580",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratório de Tecnologia & Biotecnologia Farmacêutica (TecBioFar), Faculdade de Farmácia, Universidade Federal do Rio Grande do Norte (UFRN), Natal, RN, Brazil."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7516-1787",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3131-9025",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4221-9580",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2017"
+      ],
+      "journalIssueId": [
+        "2517870"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Evidence-based complementary and alternative medicine : eCAM"
+          ],
+          "ISOAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "medlineAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "NLMid": [
+            "101215021"
+          ],
+          "ISSN": [
+            "1741-427X"
+          ],
+          "ESSN": [
+            "1741-4288"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "5748256"
+  ],
+  "abstractText": [
+    "Snakebites are a serious problem in public health due to their high morbimortality. Most of snake venoms produce intense local tissue damage, which could lead to temporary or permanent disability in victims. The available specific treatment is the antivenom serum therapy, whose effectiveness is reduced against these effects. Thus, the search for complementary alternatives for snakebite treatment is relevant. There are several reports of the popular use of medicinal plants against snakebites worldwide. In recent years, many studies have been published giving pharmacological evidence of benefits of several vegetal species against local effects induced by a broad range of snake venoms, including inhibitory potential against hyaluronidase, phospholipase, proteolytic, hemorrhagic, myotoxic, and edematogenic activities. In this context, this review aimed to provide an updated overview of medicinal plants used popularly as antiophidic agents and discuss the main species with pharmacological studies supporting the uses, with emphasis on plants inhibiting local effects of snake envenomation. The present review provides an updated scenario and insights into future research aiming at validation of medicinal plants as antiophidic agents and strengthens the potentiality of ethnopharmacology as a tool for design of potent inhibitors and/or development of herbal medicines against venom toxins, especially local tissue damage."
+  ],
+  "affiliation": [
+    "Laboratório de Tecnologia & Biotecnologia Farmacêutica (TecBioFar), Faculdade de Farmácia, Universidade Federal do Rio Grande do Norte (UFRN), Natal, RN, Brazil."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5585606?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5585606"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2017/5748256"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-09-15"
+  ],
+  "firstIndexDate": [
+    "2017-09-14"
+  ],
+  "dateOfRevision": [
+    "2019-01-16"
+  ],
+  "electronicPublicationDate": [
+    "2017-08-21"
+  ],
+  "firstPublicationDate": [
+    "2017-08-21"
+  ]
+}

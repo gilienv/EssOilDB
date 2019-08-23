@@ -1,0 +1,303 @@
+{
+  "id": [
+    "22557179"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22557179"
+  ],
+  "pmcid": [
+    "PMC3330940"
+  ],
+  "title": [
+    "Some less known medicinal plants traditionally used in dharmapuri district - tamilnadu."
+  ],
+  "authorString": [
+    "Singh RS, Arani MU, Mohanmarugaraja MK, Kumar KS, Kumar KK."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Singh RS"
+          ],
+          "firstName": [
+            "R Suthar"
+          ],
+          "lastName": [
+            "Singh"
+          ],
+          "initials": [
+            "RS"
+          ]
+        },
+        {
+          "fullName": [
+            "Arani MU"
+          ],
+          "firstName": [
+            "M U V"
+          ],
+          "lastName": [
+            "Arani"
+          ],
+          "initials": [
+            "MU"
+          ]
+        },
+        {
+          "fullName": [
+            "Mohanmarugaraja MK"
+          ],
+          "firstName": [
+            "M K"
+          ],
+          "lastName": [
+            "Mohanmarugaraja"
+          ],
+          "initials": [
+            "MK"
+          ]
+        },
+        {
+          "fullName": [
+            "Kumar KS"
+          ],
+          "firstName": [
+            "K Suresh"
+          ],
+          "lastName": [
+            "Kumar"
+          ],
+          "initials": [
+            "KS"
+          ]
+        },
+        {
+          "fullName": [
+            "Kumar KK"
+          ],
+          "firstName": [
+            "K K Shiva"
+          ],
+          "lastName": [
+            "Kumar"
+          ],
+          "initials": [
+            "KK"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "24"
+      ],
+      "journalIssueId": [
+        "1932210"
+      ],
+      "dateOfPublication": [
+        "2005 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2005"
+      ],
+      "printPublicationDate": [
+        "2005-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Ancient science of life"
+          ],
+          "ISOAbbreviation": [
+            "Anc Sci Life"
+          ],
+          "medlineAbbreviation": [
+            "Anc Sci Life"
+          ],
+          "NLMid": [
+            "8307589"
+          ],
+          "ISSN": [
+            "0257-7941"
+          ],
+          "ESSN": [
+            "2249-9547"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2005"
+  ],
+  "pageInfo": [
+    "205-209"
+  ],
+  "abstractText": [
+    "A medicinal plants survey was done in various parts of Dharmapuri district, about 260 medicinal plants were identified and collected. Amongst them, few of the plants were less known but had remarkable medicinal properties, they were grouped together and are enumerated by the botanical name, family name, local name, locality and ethnomedical properties."
+  ],
+  "affiliation": [
+    "Department of Pharmacognosy, Cherraan's College of Pharmacy, Coimbatore - 641039, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3330940?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3330940"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22557179/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22557179/?tool=EBI"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2012-08-23"
+  ],
+  "dateOfCreation": [
+    "2012-05-04"
+  ],
+  "firstIndexDate": [
+    "2012-05-05"
+  ],
+  "firstPublicationDate": [
+    "2005-04-01"
+  ]
+}

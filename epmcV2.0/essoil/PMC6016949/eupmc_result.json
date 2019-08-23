@@ -1,0 +1,823 @@
+{
+  "id": [
+    "29897908"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29897908"
+  ],
+  "pmcid": [
+    "PMC6016949"
+  ],
+  "doi": [
+    "10.1371/journal.pntd.0006565"
+  ],
+  "title": [
+    "Filaricidal properties of Lantana camara and Tamarindus indica extracts, and Lantadene A from L. camara against Onchocerca ochengi and Loa loa."
+  ],
+  "authorString": [
+    "Ngwewondo A, Wang M, Manfo FPT, Samje M, Ganin's JN, Ndi E, Andersen RJ, Cho-Ngwa F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ngwewondo A"
+          ],
+          "firstName": [
+            "Adela"
+          ],
+          "lastName": [
+            "Ngwewondo"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9469-3618",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biochemistry and Molecular Biology, Faculty of Science, University of Buea, Buea, Cameroon."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang M"
+          ],
+          "firstName": [
+            "Meng"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Chemistry, University of British Colombia, 2036 Main Mall, Vancouver, BC Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Manfo FPT"
+          ],
+          "firstName": [
+            "Faustin Pascal T"
+          ],
+          "lastName": [
+            "Manfo"
+          ],
+          "initials": [
+            "FPT"
+          ],
+          "affiliation": [
+            "Department of Biochemistry and Molecular Biology, Faculty of Science, University of Buea, Buea, Cameroon."
+          ]
+        },
+        {
+          "fullName": [
+            "Samje M"
+          ],
+          "firstName": [
+            "Moses"
+          ],
+          "lastName": [
+            "Samje"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Biochemistry and Molecular Biology, Faculty of Science, University of Buea, Buea, Cameroon."
+          ]
+        },
+        {
+          "fullName": [
+            "Ganin's JN"
+          ],
+          "firstName": [
+            "Jessie N'kam"
+          ],
+          "lastName": [
+            "Ganin's"
+          ],
+          "initials": [
+            "JN"
+          ],
+          "affiliation": [
+            "Department of Biochemistry and Molecular Biology, Faculty of Science, University of Buea, Buea, Cameroon."
+          ]
+        },
+        {
+          "fullName": [
+            "Ndi E"
+          ],
+          "firstName": [
+            "Emmanuel"
+          ],
+          "lastName": [
+            "Ndi"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Department of Biochemistry and Molecular Biology, Faculty of Science, University of Buea, Buea, Cameroon."
+          ]
+        },
+        {
+          "fullName": [
+            "Andersen RJ"
+          ],
+          "firstName": [
+            "Raymond J"
+          ],
+          "lastName": [
+            "Andersen"
+          ],
+          "initials": [
+            "RJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7607-8213",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Chemistry, University of British Colombia, 2036 Main Mall, Vancouver, BC Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Cho-Ngwa F"
+          ],
+          "firstName": [
+            "Fidelis"
+          ],
+          "lastName": [
+            "Cho-Ngwa"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Biochemistry and Molecular Biology, Faculty of Science, University of Buea, Buea, Cameroon."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9469-3618",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7607-8213",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2690787"
+      ],
+      "dateOfPublication": [
+        "2018 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PLoS neglected tropical diseases"
+          ],
+          "ISOAbbreviation": [
+            "PLoS Negl Trop Dis"
+          ],
+          "medlineAbbreviation": [
+            "PLoS Negl Trop Dis"
+          ],
+          "NLMid": [
+            "101291488"
+          ],
+          "ISSN": [
+            "1935-2727"
+          ],
+          "ESSN": [
+            "1935-2735"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e0006565"
+  ],
+  "abstractText": [
+    "Ivermectin is the only drug currently recommended for the treatment of onchocerciasis, the second leading infectious cause of blindness in the world. This drug kills only the first stage larvae-microfilariae (mf) of Onchocerca volvulus and is to be used cautiously in areas where Loa loa is prevalent because of severe adverse events observed with coinfected patients.This study investigated the anti-filarial activities of two Cameroonian medicinal plants, Lantana camara and Tamarindus indica locally used to treat onchocerciasis. Twelve (12) extracts were prepared and tested in vitro on the bovine model parasite, O. ochengi as well as L. loa mf. Both mf and adult male worm viabilities were assessed by motility scoring, while adult female worm viability was determined biochemically by standard MTT/formazan colorimetry. Cytotoxicity and acute toxicity were determined respectively, in monkey kidney epithelial cells and in BALB/c mice. Pure compounds were isolated by LC/MS using a bio-assay guided strategy. All the extracts showed 100% activity at 500 μg/mL against O. ochengi adult worms and mf. The highest activity against O. ochengi was observed with the hexane extract of L. camara leaves (LCLhex), with IC50 of 35.1 μg/mL for adult females and 3.8 μg/mL for the mf. Interestingly, this extract was more active against O. ochengi mf than L. loa mf. Further studies on the extracts led to the isolation of lantadene A from the methylene chloride extract of L. camara leaves, with IC50s of 7.85 μg/mL for adult males, 10.38 μg/mL for adult females, 10.84 μg/mL for O. ochengi mf and 20.13 μg/mL for L. loa mf.We report for the first time the anti-onchocercal activities of these locally consumed medicinal plants and lantadene A, a potential lead for further development as an onchocerciasis cure."
+  ],
+  "affiliation": [
+    "Department of Biochemistry and Molecular Biology, Faculty of Science, University of Buea, Buea, Cameroon."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice, Inbred BALB C"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Loa"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Onchocerca"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Tamarindus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Lantana"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Leaves"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plants, Medicinal"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Loiasis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PS"
+                  ],
+                  "qualifierName": [
+                    "parasitology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Onchocerciasis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PS"
+                  ],
+                  "qualifierName": [
+                    "parasitology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oleanolic Acid"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AA"
+                  ],
+                  "qualifierName": [
+                    "analogs & derivatives"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Extracts"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Filaricides"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Inhibitory Concentration 50"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Microfilariae"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Plant Extracts"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Filaricides"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Oleanolic Acid"
+          ],
+          "registryNumber": [
+            "6SMK8R7TGJ"
+          ]
+        },
+        {
+          "name": [
+            "rehmannic acid"
+          ],
+          "registryNumber": [
+            "9SK62WCU1W"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6016949?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6016949"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pntd.0006565"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-08-13"
+  ],
+  "dateOfCreation": [
+    "2018-06-14"
+  ],
+  "firstIndexDate": [
+    "2018-06-15"
+  ],
+  "dateOfRevision": [
+    "2018-08-13"
+  ],
+  "electronicPublicationDate": [
+    "2018-06-13"
+  ],
+  "firstPublicationDate": [
+    "2018-06-13"
+  ]
+}

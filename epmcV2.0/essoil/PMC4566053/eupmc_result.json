@@ -1,0 +1,353 @@
+{
+  "id": [
+    "26442046"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26442046"
+  ],
+  "pmcid": [
+    "PMC4566053"
+  ],
+  "doi": [
+    "10.3389/fpls.2015.00733"
+  ],
+  "title": [
+    "Potential of soil amendments (Biochar and Gypsum) in increasing water use efficiency of Abelmoschus esculentus L. Moench."
+  ],
+  "authorString": [
+    "Batool A, Taj S, Rashid A, Khalid A, Qadeer S, Saleem AR, Ghufran MA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Batool A"
+          ],
+          "firstName": [
+            "Aniqa"
+          ],
+          "lastName": [
+            "Batool"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Environmental Sciences, Pir Mehr Ali Shah Arid Agriculture University Rawalpindi Rawalpindi, Pakistan."
+          ]
+        },
+        {
+          "fullName": [
+            "Taj S"
+          ],
+          "firstName": [
+            "Samia"
+          ],
+          "lastName": [
+            "Taj"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Environmental Sciences, Pir Mehr Ali Shah Arid Agriculture University Rawalpindi Rawalpindi, Pakistan."
+          ]
+        },
+        {
+          "fullName": [
+            "Rashid A"
+          ],
+          "firstName": [
+            "Audil"
+          ],
+          "lastName": [
+            "Rashid"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Environmental Sciences, Pir Mehr Ali Shah Arid Agriculture University Rawalpindi Rawalpindi, Pakistan."
+          ]
+        },
+        {
+          "fullName": [
+            "Khalid A"
+          ],
+          "firstName": [
+            "Azeem"
+          ],
+          "lastName": [
+            "Khalid"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Environmental Sciences, Pir Mehr Ali Shah Arid Agriculture University Rawalpindi Rawalpindi, Pakistan."
+          ]
+        },
+        {
+          "fullName": [
+            "Qadeer S"
+          ],
+          "firstName": [
+            "Samia"
+          ],
+          "lastName": [
+            "Qadeer"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Environmental Sciences, Pir Mehr Ali Shah Arid Agriculture University Rawalpindi Rawalpindi, Pakistan."
+          ]
+        },
+        {
+          "fullName": [
+            "Saleem AR"
+          ],
+          "firstName": [
+            "Aansa R"
+          ],
+          "lastName": [
+            "Saleem"
+          ],
+          "initials": [
+            "AR"
+          ],
+          "affiliation": [
+            "Department of Environmental Sciences, Pir Mehr Ali Shah Arid Agriculture University Rawalpindi Rawalpindi, Pakistan."
+          ]
+        },
+        {
+          "fullName": [
+            "Ghufran MA"
+          ],
+          "firstName": [
+            "Muhammad A"
+          ],
+          "lastName": [
+            "Ghufran"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "affiliation": [
+            "Department of Environmental Sciences, International Islamic University, Islamabad Pakistan ; Key Laboratory of Mountain Ecological Restoration and Bioresource Utilization & Biodiversity Conservation Key Laboratory of Sichuan Province, Chengdu Institute of Biology, Chinese Academy of Sciences, Chengdu China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2260598"
+      ],
+      "dateOfPublication": [
+        "2015"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in plant science"
+          ],
+          "ISOAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "medlineAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "NLMid": [
+            "101568200"
+          ],
+          "ISSN": [
+            "1664-462X"
+          ],
+          "ESSN": [
+            "1664-462X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "733"
+  ],
+  "abstractText": [
+    "Water being an essential component for plant growth and development, its scarcity poses serious threat to crops around the world. Climate changes and global warming are increasing the temperature of earth hence becoming an ultimate cause of water scarcity. It is need of the day to use potential soil amendments that could increase the plants' resistance under such situations. Biochar and gypsum were used in the present study to improve the water use efficiency (WUE) and growth of Abelmoschus esculentus L. Moench (Lady's Finger). A 6 weeks experiment was conducted under greenhouse conditions. Stress treatments were applied after 30 days of sowing. Plant height, leaf area, photosynthesis, transpiration rate (Tr), stomatal conductance and WUE were determined weekly under stressed [60% field capacity (F.C.)] and non-stressed (100% F.C.) conditions. Stomatal conductance and Tr decreased and reached near to zero in stressed plants. Stressed plants also showed resistance to water stress upto 5 weeks and gradually perished at sixth week. On the other hand, WUE improved in stressed plants containing biochar and gypsum as compared to untreated plants. Biochar alone is a better strategy to promote plant growth and WUE specifically of A. esculentus, compared to its application in combination with gypsum."
+  ],
+  "affiliation": [
+    "Department of Environmental Sciences, Pir Mehr Ali Shah Arid Agriculture University Rawalpindi Rawalpindi, Pakistan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Photosynthesis",
+        "Stomatal conductance",
+        "Transpiration rate",
+        "Water use efficiency",
+        "Biochar",
+        "Abelmoschus"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4566053?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4566053"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpls.2015.00733"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-10-07"
+  ],
+  "dateOfCreation": [
+    "2015-10-07"
+  ],
+  "firstIndexDate": [
+    "2015-10-07"
+  ],
+  "dateOfRevision": [
+    "2019-01-08"
+  ],
+  "electronicPublicationDate": [
+    "2015-09-11"
+  ],
+  "firstPublicationDate": [
+    "2015-09-11"
+  ]
+}

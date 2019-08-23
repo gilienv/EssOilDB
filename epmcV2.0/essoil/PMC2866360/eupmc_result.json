@@ -1,0 +1,261 @@
+{
+  "id": [
+    "20502587"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "20502587"
+  ],
+  "pmcid": [
+    "PMC2866360"
+  ],
+  "doi": [
+    "10.4103/0250-474X.58177"
+  ],
+  "title": [
+    "Bioefficacy of Lantana camara L. against Some Human Pathogens."
+  ],
+  "authorString": [
+    "Sharma B, Kumar P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sharma B"
+          ],
+          "firstName": [
+            "B"
+          ],
+          "lastName": [
+            "Sharma"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Kumar P"
+          ],
+          "firstName": [
+            "P"
+          ],
+          "lastName": [
+            "Kumar"
+          ],
+          "initials": [
+            "P"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "71"
+      ],
+      "journalIssueId": [
+        "1733685"
+      ],
+      "dateOfPublication": [
+        "2009 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2009"
+      ],
+      "printPublicationDate": [
+        "2009-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Indian journal of pharmaceutical sciences"
+          ],
+          "ISOAbbreviation": [
+            "Indian J Pharm Sci"
+          ],
+          "medlineAbbreviation": [
+            "Indian J Pharm Sci"
+          ],
+          "NLMid": [
+            "7809431"
+          ],
+          "ISSN": [
+            "0250-474X"
+          ],
+          "ESSN": [
+            "1998-3743"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2009"
+  ],
+  "pageInfo": [
+    "589-593"
+  ],
+  "abstractText": [
+    "Antimicrobial efficacy of flavonoids (free and bound) and crude alkaloids of Lantana camara L. was determined by disc diffusion assay against three bacteria (Escherichia coli, Proteus mirabilis, and Staphylococcus aureus) and two fungi (Candida albicans and Trichophyton mentagrophytes). Minimum inhibitory concentration, minimum bactericidal/fungicidal concentration and total activity were also studied. Most susceptible microorganism in the present study was C. albicans followed by P. mirabilis, S. aureus, E. coli, and T. mentagrophytes. The range of minimum inhibitory concentration of tested extracts was 0.039-0.625 mg/ml while minimum bactericidal/fungicidal concentration ranged from 0.078-1.25 mg/ml. Six extracts out of eleven tested showed same values of minimum inhibitory concentration and minimum bactericidal/fungicidal concentration, while rest showed higher values of minimum bactericidal/fungicidal concentration. Highest total activity (120.51 ml/g) was observed for bound flavonoids of root against Candida albicans and Staphylococcus aureus. Results of the present investigation indicate that Lantana camara has good antimicrobial activity with low range of minimum inhibitory concentration hence can be exploited for future plant based antimicrobial drugs."
+  ],
+  "affiliation": [
+    "Laboratory of Plant Tissue Culture and Secondary Metabolites, Department of Botany, University of Rajasthan, Bapu Nagar, Jaipur-302 004, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "other",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Flavonoid",
+        "Alkaloid",
+        "MIC",
+        "Mbc/mfc",
+        "Total Activity"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2866360"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20502587/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/0250-474X.58177"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2011-07-14"
+  ],
+  "dateOfCreation": [
+    "2010-05-26"
+  ],
+  "firstIndexDate": [
+    "2010-06-02"
+  ],
+  "dateOfRevision": [
+    "2013-05-29"
+  ],
+  "firstPublicationDate": [
+    "2009-09-01"
+  ]
+}

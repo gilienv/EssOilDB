@@ -1,0 +1,361 @@
+{
+  "id": [
+    "28932821"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28932821"
+  ],
+  "pmcid": [
+    "PMC5596308"
+  ],
+  "doi": [
+    "10.1016/j.heliyon.2017.e00394"
+  ],
+  "title": [
+    "In vitro antileishmanial activity of Mexican medicinal plants."
+  ],
+  "authorString": [
+    "Delgado-Altamirano R, Monzote L, Piñón-Tápanes A, Vibrans H, Rivero-Cruz JF, Ibarra-Alvarado C, Rojas-Molina A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Delgado-Altamirano R"
+          ],
+          "firstName": [
+            "Ronna"
+          ],
+          "lastName": [
+            "Delgado-Altamirano"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Laboratorio de Investigación Química y Farmacológica de Productos Naturales, Facultad de Química, Universidad Autónoma de Querétaro, Cerro de las Campanas s/n, 76010, Querétaro, Mexico."
+          ]
+        },
+        {
+          "fullName": [
+            "Monzote L"
+          ],
+          "firstName": [
+            "Lianet"
+          ],
+          "lastName": [
+            "Monzote"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Departamento de Parasitología, Instituto de Medicina Tropical \"Pedro Kourí\", Apdo Postal 601, Havana 10400, Cuba."
+          ]
+        },
+        {
+          "fullName": [
+            "Piñón-Tápanes A"
+          ],
+          "firstName": [
+            "Abel"
+          ],
+          "lastName": [
+            "Piñón-Tápanes"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Departamento de Parasitología, Instituto de Medicina Tropical \"Pedro Kourí\", Apdo Postal 601, Havana 10400, Cuba."
+          ]
+        },
+        {
+          "fullName": [
+            "Vibrans H"
+          ],
+          "firstName": [
+            "Heike"
+          ],
+          "lastName": [
+            "Vibrans"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Posgrado en Botánica, Colegio de Postgraduados, Carretera México-Texcoco km 36.5, 56230, Montecillo, Texcoco, Mexico."
+          ]
+        },
+        {
+          "fullName": [
+            "Rivero-Cruz JF"
+          ],
+          "firstName": [
+            "J Fausto"
+          ],
+          "lastName": [
+            "Rivero-Cruz"
+          ],
+          "initials": [
+            "JF"
+          ],
+          "affiliation": [
+            "Departamento de Farmacia, Facultad de Química, Universidad Nacional Autónoma de México, 04510, México D.F., Mexico."
+          ]
+        },
+        {
+          "fullName": [
+            "Ibarra-Alvarado C"
+          ],
+          "firstName": [
+            "César"
+          ],
+          "lastName": [
+            "Ibarra-Alvarado"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Laboratorio de Investigación Química y Farmacológica de Productos Naturales, Facultad de Química, Universidad Autónoma de Querétaro, Cerro de las Campanas s/n, 76010, Querétaro, Mexico."
+          ]
+        },
+        {
+          "fullName": [
+            "Rojas-Molina A"
+          ],
+          "firstName": [
+            "Alejandra"
+          ],
+          "lastName": [
+            "Rojas-Molina"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Laboratorio de Investigación Química y Farmacológica de Productos Naturales, Facultad de Química, Universidad Autónoma de Querétaro, Cerro de las Campanas s/n, 76010, Querétaro, Mexico."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5932-1333",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2599200"
+      ],
+      "dateOfPublication": [
+        "2017 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Heliyon"
+          ],
+          "ISOAbbreviation": [
+            "Heliyon"
+          ],
+          "medlineAbbreviation": [
+            "Heliyon"
+          ],
+          "NLMid": [
+            "101672560"
+          ],
+          "ISSN": [
+            "2405-8440"
+          ],
+          "ESSN": [
+            "2405-8440"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "e00394"
+  ],
+  "abstractText": [
+    "To evaluate the anti-leishmanial activity and cytotoxicity of aqueous and organic extracts of ten plants used in Mexican traditional medicine as anti-parasitics.For the organic extracts, plant material was macerated in dichloromethane (CH2Cl2) and dichloromethane/methanol (CH2Cl2/MeOH) (1:1) during two weeks; the aqueous extracts were prepared by infusion. The extracts were tested against promastigotes and intracellular amastigotes of Leishmania amazonensis. The cytotoxicity was assayed in parallel on peritoneal macrophages of BALB/c mice.Four of the thirty extracts tested were active and selective against L. amazonensis promastigotes: Schinus molle (CH2Cl2 and CH2Cl2/MeOH), Lantana camara (CH2Cl2) and Prosopis laevigata (aqueous). These extracts had a median inhibitory concentration (IC50) against intracellular amastigotes under 50 μg/mL and a selectivity index (SI) higher than 5, which indicates that they constitute valuable candidates to obtain secondary metabolites with leishmanicidal activity.The results derived from this study indicate that L. camara, P. laevigata, and S. molle might provide interesting new leads for the development of antileishmanial drugs."
+  ],
+  "affiliation": [
+    "Laboratorio de Investigación Química y Farmacológica de Productos Naturales, Facultad de Química, Universidad Autónoma de Querétaro, Cerro de las Campanas s/n, 76010, Querétaro, Mexico."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Infectious diseases",
+        "Pharmaceutical Science"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5596308?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5596308"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.heliyon.2017.e00394"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-09-21"
+  ],
+  "firstIndexDate": [
+    "2017-09-21"
+  ],
+  "dateOfRevision": [
+    "2017-10-07"
+  ],
+  "electronicPublicationDate": [
+    "2017-09-08"
+  ],
+  "firstPublicationDate": [
+    "2017-09-08"
+  ]
+}

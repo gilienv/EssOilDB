@@ -1,0 +1,691 @@
+{
+  "id": [
+    "28740942"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28740942"
+  ],
+  "pmcid": [
+    "PMC5514443"
+  ],
+  "doi": [
+    "10.21010/ajtcam.v14i4S.5"
+  ],
+  "title": [
+    "ANTI-VIRAL EFFECTS OF MEDICINAL PLANTS IN THE MANAGEMENT OF DENGUE: A SYSTEMATIC REVIEW."
+  ],
+  "authorString": [
+    "Frederico ÉHFF, Cardoso ALBD, Moreira-Marconi E, de Sá-Caputo DDC, Guimarães CAS, Dionello CDF, Morel DS, Paineiras-Domingos LL, de Souza PL, Brandão-Sobrinho-Neto S, Carvalho-Lima RP, Guedes-Aguiar EO, Costa-Cavalcanti RG, Kutter CR, Bernardo-Filho M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Frederico ÉHFF"
+          ],
+          "firstName": [
+            "Éric Heleno Freira Ferreira"
+          ],
+          "lastName": [
+            "Frederico"
+          ],
+          "initials": [
+            "ÉHFF"
+          ],
+          "affiliation": [
+            "Programa de Pós-graduação em Biociências, Instituto de Biologia Roberto Alcantara Gomes, Universidade do Estado do Rio de Janeiro, Rio de Janeiro, 20551-030, RJ, Brasil."
+          ]
+        },
+        {
+          "fullName": [
+            "Cardoso ALBD"
+          ],
+          "firstName": [
+            "André Luiz Bandeira Dionísio"
+          ],
+          "lastName": [
+            "Cardoso"
+          ],
+          "initials": [
+            "ALBD"
+          ],
+          "affiliation": [
+            "Programa de Pós-Graduação em Ciências Médicas, Faculdade de Ciências Médicas, Universidade do Estado do Rio de Janeiro, Rio de Janeiro, 20551-030, RJ, Brasil."
+          ]
+        },
+        {
+          "fullName": [
+            "Moreira-Marconi E"
+          ],
+          "firstName": [
+            "Eloá"
+          ],
+          "lastName": [
+            "Moreira-Marconi"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Programa de Pós-Graduação em Fisiopatologia Clínica e Experimental, Faculdade de Ciências Médicas, Universidade do Estado do Rio de Janeiro, Rio de Janeiro, 20551-030, RJ, Brasil."
+          ]
+        },
+        {
+          "fullName": [
+            "de Sá-Caputo DDC"
+          ],
+          "firstName": [
+            "Danúbia da Cunha"
+          ],
+          "lastName": [
+            "de Sá-Caputo"
+          ],
+          "initials": [
+            "DDC"
+          ],
+          "affiliation": [
+            "Laboratório de Vibrações Mecânicas e Práticas Integrativas e Complementares, Departamento de Biofísica e Biometria, Instituto de Biologia Roberto Alcantara Gomes, Universidade do Estado do Rio de Janeiro, Rio de Janeiro, 20551-030, RJ, Brasil."
+          ]
+        },
+        {
+          "fullName": [
+            "Guimarães CAS"
+          ],
+          "firstName": [
+            "Carlos Alberto Sampaio"
+          ],
+          "lastName": [
+            "Guimarães"
+          ],
+          "initials": [
+            "CAS"
+          ],
+          "affiliation": [
+            "Laboratório de Vibrações Mecânicas e Práticas Integrativas e Complementares, Departamento de Biofísica e Biometria, Instituto de Biologia Roberto Alcantara Gomes, Universidade do Estado do Rio de Janeiro, Rio de Janeiro, 20551-030, RJ, Brasil."
+          ]
+        },
+        {
+          "fullName": [
+            "Dionello CDF"
+          ],
+          "firstName": [
+            "Carla da Fontoura"
+          ],
+          "lastName": [
+            "Dionello"
+          ],
+          "initials": [
+            "CDF"
+          ],
+          "affiliation": [
+            "Programa de Pós-Graduação em Ciências Médicas, Faculdade de Ciências Médicas, Universidade do Estado do Rio de Janeiro, Rio de Janeiro, 20551-030, RJ, Brasil."
+          ]
+        },
+        {
+          "fullName": [
+            "Morel DS"
+          ],
+          "firstName": [
+            "Danielle Soares"
+          ],
+          "lastName": [
+            "Morel"
+          ],
+          "initials": [
+            "DS"
+          ],
+          "affiliation": [
+            "Programa de Pós-Graduação em Ciências Médicas, Faculdade de Ciências Médicas, Universidade do Estado do Rio de Janeiro, Rio de Janeiro, 20551-030, RJ, Brasil."
+          ]
+        },
+        {
+          "fullName": [
+            "Paineiras-Domingos LL"
+          ],
+          "firstName": [
+            "Laisa Liane"
+          ],
+          "lastName": [
+            "Paineiras-Domingos"
+          ],
+          "initials": [
+            "LL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3451-5056",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Programa de Pós-Graduação em Ciências Médicas, Faculdade de Ciências Médicas, Universidade do Estado do Rio de Janeiro, Rio de Janeiro, 20551-030, RJ, Brasil."
+          ]
+        },
+        {
+          "fullName": [
+            "de Souza PL"
+          ],
+          "firstName": [
+            "Patricia Lopes"
+          ],
+          "lastName": [
+            "de Souza"
+          ],
+          "initials": [
+            "PL"
+          ],
+          "affiliation": [
+            "Laboratório de Vibrações Mecânicas e Práticas Integrativas e Complementares, Departamento de Biofísica e Biometria, Instituto de Biologia Roberto Alcantara Gomes, Universidade do Estado do Rio de Janeiro, Rio de Janeiro, 20551-030, RJ, Brasil."
+          ]
+        },
+        {
+          "fullName": [
+            "Brandão-Sobrinho-Neto S"
+          ],
+          "firstName": [
+            "Samuel"
+          ],
+          "lastName": [
+            "Brandão-Sobrinho-Neto"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Mestrado Profissional em Saúde, Medicina Laboratorial e Tecnologia Forense, Universidade do Estado do Rio de Janeiro, Instituto de Biologia Roberto Alcantara Gomes, Av. Marechal Rondon, Rio de Janeiro, 20950-003, RJ, Brasil."
+          ]
+        },
+        {
+          "fullName": [
+            "Carvalho-Lima RP"
+          ],
+          "firstName": [
+            "Rafaelle Pacheco"
+          ],
+          "lastName": [
+            "Carvalho-Lima"
+          ],
+          "initials": [
+            "RP"
+          ],
+          "affiliation": [
+            "Mestrado Profissional em Saúde, Medicina Laboratorial e Tecnologia Forense, Universidade do Estado do Rio de Janeiro, Instituto de Biologia Roberto Alcantara Gomes, Av. Marechal Rondon, Rio de Janeiro, 20950-003, RJ, Brasil."
+          ]
+        },
+        {
+          "fullName": [
+            "Guedes-Aguiar EO"
+          ],
+          "firstName": [
+            "Eliane de Oliveira"
+          ],
+          "lastName": [
+            "Guedes-Aguiar"
+          ],
+          "initials": [
+            "EO"
+          ],
+          "affiliation": [
+            "Laboratório de Vibrações Mecânicas e Práticas Integrativas e Complementares, Departamento de Biofísica e Biometria, Instituto de Biologia Roberto Alcantara Gomes, Universidade do Estado do Rio de Janeiro, Rio de Janeiro, 20551-030, RJ, Brasil."
+          ]
+        },
+        {
+          "fullName": [
+            "Costa-Cavalcanti RG"
+          ],
+          "firstName": [
+            "Rebeca Graça"
+          ],
+          "lastName": [
+            "Costa-Cavalcanti"
+          ],
+          "initials": [
+            "RG"
+          ],
+          "affiliation": [
+            "Laboratório de Vibrações Mecânicas e Práticas Integrativas e Complementares, Departamento de Biofísica e Biometria, Instituto de Biologia Roberto Alcantara Gomes, Universidade do Estado do Rio de Janeiro, Rio de Janeiro, 20551-030, RJ, Brasil."
+          ]
+        },
+        {
+          "fullName": [
+            "Kutter CR"
+          ],
+          "firstName": [
+            "Cristiane Ribeiro"
+          ],
+          "lastName": [
+            "Kutter"
+          ],
+          "initials": [
+            "CR"
+          ],
+          "affiliation": [
+            "Mestrado Profissional em Saúde, Medicina Laboratorial e Tecnologia Forense, Universidade do Estado do Rio de Janeiro, Instituto de Biologia Roberto Alcantara Gomes, Av. Marechal Rondon, Rio de Janeiro, 20950-003, RJ, Brasil."
+          ]
+        },
+        {
+          "fullName": [
+            "Bernardo-Filho M"
+          ],
+          "firstName": [
+            "Mario"
+          ],
+          "lastName": [
+            "Bernardo-Filho"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Laboratório de Vibrações Mecânicas e Práticas Integrativas e Complementares, Departamento de Biofísica e Biometria, Instituto de Biologia Roberto Alcantara Gomes, Universidade do Estado do Rio de Janeiro, Rio de Janeiro, 20551-030, RJ, Brasil."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3451-5056",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4 Suppl"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2580073"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "African journal of traditional, complementary, and alternative medicines : AJTCAM"
+          ],
+          "ISOAbbreviation": [
+            "Afr J Tradit Complement Altern Med"
+          ],
+          "medlineAbbreviation": [
+            "Afr J Tradit Complement Altern Med"
+          ],
+          "NLMid": [
+            "101232990"
+          ],
+          "ISSN": [
+            "0189-6016"
+          ],
+          "ESSN": [
+            "2505-0044"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "33-40"
+  ],
+  "abstractText": [
+    "Dengue is considered as an important arboviral disease. Safe, low-cost, and effective drugs that possess inhibitory activity against dengue virus (DENV) are mostly needed to try to combat the dengue infection worldwide. Medicinal plants have been considered as an important alternative to manage several diseases, such as dengue. As authors have demonstrated the antiviral effect of medicinal plants against DENV, the aim of this study was to review systematically the published research concerning the use of medicinal plants in the management of dengue using the PubMed database.Search and selection of publications were made using the PubMed database following the guidelines of the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA statement).Six publications met the inclusion criteria and were included in the final selection after thorough analysis.It is suggested that medicinal plants' products could be used as potential anti-DENV agents."
+  ],
+  "affiliation": [
+    "Programa de Pós-graduação em Biociências, Instituto de Biologia Roberto Alcantara Gomes, Universidade do Estado do Rio de Janeiro, Rio de Janeiro, 20551-030, RJ, Brasil."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plants, Medicinal"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dengue"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Flavonoids"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Extracts"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antiviral Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Medicinal plants",
+        "Dengue",
+        "Arbovirus",
+        "Pubmed"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Antiviral Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Flavonoids"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Plant Extracts"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5514443?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5514443"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.21010/ajtcam.v14i4S.5"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-08-15"
+  ],
+  "dateOfCreation": [
+    "2017-07-25"
+  ],
+  "firstIndexDate": [
+    "2017-07-31"
+  ],
+  "dateOfRevision": [
+    "2017-08-15"
+  ],
+  "electronicPublicationDate": [
+    "2017-07-07"
+  ],
+  "firstPublicationDate": [
+    "2017-07-07"
+  ]
+}

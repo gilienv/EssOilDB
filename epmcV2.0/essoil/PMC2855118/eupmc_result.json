@@ -1,0 +1,395 @@
+{
+  "id": [
+    "20181325"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "20181325"
+  ],
+  "pmcid": [
+    "PMC2855118"
+  ],
+  "doi": [
+    "10.1051/vetres/2010015"
+  ],
+  "title": [
+    "White spot syndrome virus: an overview on an emergent concern."
+  ],
+  "authorString": [
+    "Sánchez-Paz A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sánchez-Paz A"
+          ],
+          "firstName": [
+            "Arturo"
+          ],
+          "lastName": [
+            "Sánchez-Paz"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Centro de Investigaciones Biologicas del Noroeste, Unidad Hermosillo, Hermosillo, Mexico. asanchez04@cibnor.mx"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "41"
+      ],
+      "journalIssueId": [
+        "1760645"
+      ],
+      "dateOfPublication": [
+        "2010 Nov-Dec"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2010"
+      ],
+      "printPublicationDate": [
+        "2010-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Veterinary research"
+          ],
+          "ISOAbbreviation": [
+            "Vet. Res."
+          ],
+          "medlineAbbreviation": [
+            "Vet Res"
+          ],
+          "NLMid": [
+            "9309551"
+          ],
+          "ISSN": [
+            "0928-4249"
+          ],
+          "ESSN": [
+            "1297-9716"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2010"
+  ],
+  "pageInfo": [
+    "43"
+  ],
+  "abstractText": [
+    "Viruses are ubiquitous and extremely abundant in the marine environment. One of such marine viruses, the white spot syndrome virus (WSSV), has emerged globally as one of the most prevalent, widespread and lethal for shrimp populations. However, at present there is no treatment available to interfere with the unrestrained occurrence and spread of the disease. The recent progress in molecular biology techniques has made it possible to obtain information on the factors, mechanisms and strategies used by this virus to infect and replicate in susceptible host cells. Yet, further research is still required to fully understand the basic nature of WSSV, its exact life cycle and mode of infection. This information will expand our knowledge and may contribute to developing effective prophylactic or therapeutic measures. This review provides a state-of-the-art overview of the topic, and emphasizes the current progress and future direction for the development of WSSV control strategies."
+  ],
+  "affiliation": [
+    "Centro de Investigaciones Biologicas del Noroeste, Unidad Hermosillo, Hermosillo, Mexico. asanchez04@cibnor.mx"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Penaeidae"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "White spot syndrome virus 1"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Communicable Diseases, Emerging"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Host-Pathogen Interactions"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2855118?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2855118"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20181325/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20181325/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1051/vetres/2010015"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "72"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2011-01-20"
+  ],
+  "dateOfCreation": [
+    "2010-02-26"
+  ],
+  "firstIndexDate": [
+    "2010-02-26"
+  ],
+  "dateOfRevision": [
+    "2018-12-31"
+  ],
+  "electronicPublicationDate": [
+    "2010-02-26"
+  ],
+  "firstPublicationDate": [
+    "2010-02-26"
+  ]
+}

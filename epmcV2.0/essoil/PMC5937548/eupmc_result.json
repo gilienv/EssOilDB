@@ -1,0 +1,423 @@
+{
+  "id": [
+    "29849720"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29849720"
+  ],
+  "pmcid": [
+    "PMC5937548"
+  ],
+  "doi": [
+    "10.1155/2018/6769193"
+  ],
+  "title": [
+    "Analysis of the Variability of Therapeutic Indications of Medicinal Species in the Northeast of Brazil: Comparative Study."
+  ],
+  "authorString": [
+    "Ferreira Macedo JG, de Menezes IRA, Alves Ribeiro D, de Oliveira Santos M, Gonçalves de Mâcedo D, Ferreira Macêdo MJ, Vilar de Almeida B, Souza de Oliveira LG, Pereira Leite C, de Almeida Souza MM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ferreira Macedo JG"
+          ],
+          "firstName": [
+            "Julimery Gonçalves"
+          ],
+          "lastName": [
+            "Ferreira Macedo"
+          ],
+          "initials": [
+            "JG"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0723-4171",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biology, Vegetal Ecology Laboratory, Regional University of Cariri, 63105-000 Crato, CE, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "de Menezes IRA"
+          ],
+          "firstName": [
+            "Irwin Rose Alencar"
+          ],
+          "lastName": [
+            "de Menezes"
+          ],
+          "initials": [
+            "IRA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1065-9581",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biological Chemistry, Laboratory of Pharmacology and Molecular Chemistry Regional University of Cariri, 63105-000 Crato, CE, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Alves Ribeiro D"
+          ],
+          "firstName": [
+            "Daiany"
+          ],
+          "lastName": [
+            "Alves Ribeiro"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Biology, Vegetal Ecology Laboratory, Regional University of Cariri, 63105-000 Crato, CE, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "de Oliveira Santos M"
+          ],
+          "firstName": [
+            "Maria"
+          ],
+          "lastName": [
+            "de Oliveira Santos"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Biology, Vegetal Ecology Laboratory, Regional University of Cariri, 63105-000 Crato, CE, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Gonçalves de Mâcedo D"
+          ],
+          "firstName": [
+            "Delmacia"
+          ],
+          "lastName": [
+            "Gonçalves de Mâcedo"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Biology, Vegetal Ecology Laboratory, Regional University of Cariri, 63105-000 Crato, CE, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Ferreira Macêdo MJ"
+          ],
+          "firstName": [
+            "Márcia Jordana"
+          ],
+          "lastName": [
+            "Ferreira Macêdo"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "affiliation": [
+            "Department of Biology, Vegetal Ecology Laboratory, Regional University of Cariri, 63105-000 Crato, CE, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Vilar de Almeida B"
+          ],
+          "firstName": [
+            "Bianca"
+          ],
+          "lastName": [
+            "Vilar de Almeida"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Biology, Vegetal Ecology Laboratory, Regional University of Cariri, 63105-000 Crato, CE, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Souza de Oliveira LG"
+          ],
+          "firstName": [
+            "Liana Geraldo"
+          ],
+          "lastName": [
+            "Souza de Oliveira"
+          ],
+          "initials": [
+            "LG"
+          ],
+          "affiliation": [
+            "Department of Biology, Vegetal Ecology Laboratory, Regional University of Cariri, 63105-000 Crato, CE, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Pereira Leite C"
+          ],
+          "firstName": [
+            "Catarina"
+          ],
+          "lastName": [
+            "Pereira Leite"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Biology, Vegetal Ecology Laboratory, Regional University of Cariri, 63105-000 Crato, CE, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "de Almeida Souza MM"
+          ],
+          "firstName": [
+            "Marta Maria"
+          ],
+          "lastName": [
+            "de Almeida Souza"
+          ],
+          "initials": [
+            "MM"
+          ],
+          "affiliation": [
+            "Department of Biology, Vegetal Ecology Laboratory, Regional University of Cariri, 63105-000 Crato, CE, Brazil."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0723-4171",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1065-9581",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2018"
+      ],
+      "journalIssueId": [
+        "2654965"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Evidence-based complementary and alternative medicine : eCAM"
+          ],
+          "ISOAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "medlineAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "NLMid": [
+            "101215021"
+          ],
+          "ISSN": [
+            "1741-427X"
+          ],
+          "ESSN": [
+            "1741-4288"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "6769193"
+  ],
+  "abstractText": [
+    "This study aims to evaluate the versatility of these species and their agreement of use and/or the informants' knowledge and verify the variability of the information on the indicated medicinal species in comparison to other species from northeastern Brazilian areas.Ethnobotanical information was acquired through interviews with 23 residents of the Quincuncá community, northeastern Brazil. From the obtained data, a comparative analysis of the therapeutic indications with other 40 areas in different biomes was conducted. For that, the relative importance index and informant consensus factor were calculated and compared to other indices evaluated in the literature.A total of 39 medicinal species were cited and twenty-six species showed similarities among their therapeutic indications; however, species as Geoffroea spinosa, Lantana camara, and others can be highlighted, present in community disease indications that were not verified for other areas. Myracrodruon urundeuva, Mimosa tenuiflora, Stryphnodendron rotundifolium, and Amburana cearensis had the greatest versatility. In the Quincuncá community, medicinal species were indicated for 49 diseases, which were grouped into 15 categories of body systems.This study shows the presented divergence in relation to their therapeutic use; in this point, these divergences reinforce the importance of pharmacological research."
+  ],
+  "affiliation": [
+    "Department of Biology, Vegetal Ecology Laboratory, Regional University of Cariri, 63105-000 Crato, CE, Brazil."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5937548?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5937548"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2018/6769193"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-06-01"
+  ],
+  "firstIndexDate": [
+    "2018-06-01"
+  ],
+  "dateOfRevision": [
+    "2018-06-03"
+  ],
+  "electronicPublicationDate": [
+    "2018-04-23"
+  ],
+  "firstPublicationDate": [
+    "2018-04-23"
+  ]
+}

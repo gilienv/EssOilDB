@@ -1,0 +1,230 @@
+{
+  "id": [
+    "30023261"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30023261"
+  ],
+  "pmcid": [
+    "PMC6014249"
+  ],
+  "doi": [
+    "10.4103/JMAU.JMAU_10_18"
+  ],
+  "title": [
+    "Anti-Quorum Sensing Natural Compounds."
+  ],
+  "authorString": [
+    "Asfour HZ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Asfour HZ"
+          ],
+          "firstName": [
+            "Hani Z"
+          ],
+          "lastName": [
+            "Asfour"
+          ],
+          "initials": [
+            "HZ"
+          ],
+          "affiliation": [
+            "Department of Medical Microbiology and Parasitology, Faculty of Medicine, Princess Al-Jawhara Center of Excellence in Research of Hereditary Disorders, King Abdulaziz University, Jeddah, Saudi Arabia."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2708327"
+      ],
+      "dateOfPublication": [
+        "2018 Jan-Mar"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of microscopy and ultrastructure"
+          ],
+          "ISOAbbreviation": [
+            "J Microsc Ultrastruct"
+          ],
+          "medlineAbbreviation": [
+            "J Microsc Ultrastruct"
+          ],
+          "NLMid": [
+            "101709862"
+          ],
+          "ISSN": [
+            "2213-879X"
+          ],
+          "ESSN": [
+            "2213-8803"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "1-10"
+  ],
+  "abstractText": [
+    "Increasing extent of pathogenic resistance to drugs has encouraged the seeking for new anti-virulence drugs. Many pharmacological and pharmacognostical researches are performed to identify new drugs or discover new structures for the development of novel therapeutic agents in the antibiotic treatments. Although many phytochemicals show prominent antimicrobial activity, their power lies in their anti-virulence properties. Quorum sensing (QS) is a bacterial intercellular communication mechanism, which depends on bacterial cell population density and controls the pathogenesis of many organisms by regulating gene expression, including virulence determinants. QS has become an attractive target for the development of novel anti-infective agents that do not rely on the use of antibiotics. Anti-QS compounds are known to have the ability to prohibit bacterial pathogenicity. Medicinal plants offer an attractive repertoire of phytochemicals with novel microbial disease-controlling potential, due to the spectrum of secondary metabolites present in extracts, which include phenolics, quinones, flavonoids, alkaloids, terpenoids, and polyacetylenes. They have recently received considerable attention as a new source of safe and effective QS inhibitory substances. The objective of this review is to give a brief account of the research reports on the plants and natural compounds with anti-QS potential."
+  ],
+  "affiliation": [
+    "Department of Medical Microbiology and Parasitology, Faculty of Medicine, Princess Al-Jawhara Center of Excellence in Research of Hereditary Disorders, King Abdulaziz University, Jeddah, Saudi Arabia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Natural products",
+        "Quorum sensing",
+        "Bacterial Pathogenicity",
+        "Anti-virulence"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6014249"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/JMAU.JMAU_10_18"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-07-20"
+  ],
+  "firstIndexDate": [
+    "2018-07-20"
+  ],
+  "dateOfRevision": [
+    "2018-07-22"
+  ],
+  "firstPublicationDate": [
+    "2018-01-01"
+  ]
+}

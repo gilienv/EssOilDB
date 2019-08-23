@@ -1,0 +1,565 @@
+{
+  "id": [
+    "25534749"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25534749"
+  ],
+  "pmcid": [
+    "PMC4273207"
+  ],
+  "doi": [
+    "10.1093/database/bau120"
+  ],
+  "title": [
+    "EssOilDB: a database of essential oils reflecting terpene composition and variability in the plant kingdom."
+  ],
+  "authorString": [
+    "Kumari S, Pundhir S, Priya P, Jeena G, Punetha A, Chawla K, Firdos Jafaree Z, Mondal S, Yadav G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kumari S"
+          ],
+          "firstName": [
+            "Sangita"
+          ],
+          "lastName": [
+            "Kumari"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Computational Biology Laboratory, National Institute of Plant Genome Research (NIPGR), New Delhi 110067 India."
+          ]
+        },
+        {
+          "fullName": [
+            "Pundhir S"
+          ],
+          "firstName": [
+            "Sachin"
+          ],
+          "lastName": [
+            "Pundhir"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9047-7280",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Computational Biology Laboratory, National Institute of Plant Genome Research (NIPGR), New Delhi 110067 India."
+          ]
+        },
+        {
+          "fullName": [
+            "Priya P"
+          ],
+          "firstName": [
+            "Piyush"
+          ],
+          "lastName": [
+            "Priya"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Computational Biology Laboratory, National Institute of Plant Genome Research (NIPGR), New Delhi 110067 India."
+          ]
+        },
+        {
+          "fullName": [
+            "Jeena G"
+          ],
+          "firstName": [
+            "Ganga"
+          ],
+          "lastName": [
+            "Jeena"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Computational Biology Laboratory, National Institute of Plant Genome Research (NIPGR), New Delhi 110067 India."
+          ]
+        },
+        {
+          "fullName": [
+            "Punetha A"
+          ],
+          "firstName": [
+            "Ankita"
+          ],
+          "lastName": [
+            "Punetha"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2845-5459",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Computational Biology Laboratory, National Institute of Plant Genome Research (NIPGR), New Delhi 110067 India."
+          ]
+        },
+        {
+          "fullName": [
+            "Chawla K"
+          ],
+          "firstName": [
+            "Konika"
+          ],
+          "lastName": [
+            "Chawla"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Computational Biology Laboratory, National Institute of Plant Genome Research (NIPGR), New Delhi 110067 India."
+          ]
+        },
+        {
+          "fullName": [
+            "Firdos Jafaree Z"
+          ],
+          "firstName": [
+            "Zohra"
+          ],
+          "lastName": [
+            "Firdos Jafaree"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Computational Biology Laboratory, National Institute of Plant Genome Research (NIPGR), New Delhi 110067 India."
+          ]
+        },
+        {
+          "fullName": [
+            "Mondal S"
+          ],
+          "firstName": [
+            "Subhasish"
+          ],
+          "lastName": [
+            "Mondal"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Computational Biology Laboratory, National Institute of Plant Genome Research (NIPGR), New Delhi 110067 India."
+          ]
+        },
+        {
+          "fullName": [
+            "Yadav G"
+          ],
+          "firstName": [
+            "Gitanjali"
+          ],
+          "lastName": [
+            "Yadav"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Computational Biology Laboratory, National Institute of Plant Genome Research (NIPGR), New Delhi 110067 India gy@nipgr.ac.in."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2845-5459",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9047-7280",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2014"
+      ],
+      "journalIssueId": [
+        "2116603"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Database : the journal of biological databases and curation"
+          ],
+          "ISOAbbreviation": [
+            "Database (Oxford)"
+          ],
+          "medlineAbbreviation": [
+            "Database (Oxford)"
+          ],
+          "NLMid": [
+            "101517697"
+          ],
+          "ISSN": [
+            "1758-0463"
+          ],
+          "ESSN": [
+            "1758-0463"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "bau120"
+  ],
+  "abstractText": [
+    "Plant essential oils are complex mixtures of volatile organic compounds, which play indispensable roles in the environment, for the plant itself, as well as for humans. The potential biological information stored in essential oil composition data can provide an insight into the silent language of plants, and the roles of these chemical emissions in defense, communication and pollinator attraction. In order to decipher volatile profile patterns from a global perspective, we have developed the ESSential OIL DataBase (EssOilDB), a continually updated, freely available electronic database designed to provide knowledge resource for plant essential oils, that enables one to address a multitude of queries on volatile profiles of native, invasive, normal or stressed plants, across taxonomic clades, geographical locations and several other biotic and abiotic influences. To our knowledge, EssOilDB is the only database in the public domain providing an opportunity for context based scientific research on volatile patterns in plants. EssOilDB presently contains 123 041 essential oil records spanning a century of published reports on volatile profiles, with data from 92 plant taxonomic families, spread across diverse geographical locations all over the globe. We hope that this huge repository of VOCs will facilitate unraveling of the true significance of volatiles in plants, along with creating potential avenues for industrial applications of essential oils. We also illustrate the use of this database in terpene biology and show how EssOilDB can be used to complement data from computational genomics to gain insights into the diversity and variability of terpenoids in the plant kingdom. EssOilDB would serve as a valuable information resource, for students and researchers in plant biology, in the design and discovery of new odor profiles, as well as for entrepreneurs--the potential for generating consumer specific scents being one of the most attractive and interesting topics in the cosmetic industry. Database URL: http://nipgr.res.in/Essoildb/"
+  ],
+  "affiliation": [
+    "Computational Biology Laboratory, National Institute of Plant Genome Research (NIPGR), New Delhi 110067 India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plants"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Terpenes"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oils, Volatile"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Databases, Factual"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Stress, Physiological"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Terpenes"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Oils, Volatile"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4273207?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4273207"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/database/bau120"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-07-14"
+  ],
+  "dateOfCreation": [
+    "2014-12-23"
+  ],
+  "firstIndexDate": [
+    "2015-01-01"
+  ],
+  "dateOfRevision": [
+    "2015-01-24"
+  ],
+  "electronicPublicationDate": [
+    "2014-12-22"
+  ],
+  "firstPublicationDate": [
+    "2014-12-22"
+  ]
+}

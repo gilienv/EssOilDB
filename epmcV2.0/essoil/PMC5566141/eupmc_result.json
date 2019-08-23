@@ -1,0 +1,658 @@
+{
+  "id": [
+    "28852733"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28852733"
+  ],
+  "pmcid": [
+    "PMC5566141"
+  ],
+  "doi": [
+    "10.21010/ajtcam.v13i4.22"
+  ],
+  "title": [
+    "ETHNOBIOLOGICAL SURVEY OF PLANTS AND ANIMALS USED FOR THE TREATMENT OF ACUTE RESPIRATORY INFECTIONS IN CHILDREN OF A TRADITIONAL COMMUNITY IN THE MUNICIPALITY OF BARBALHA, CEARÁ, BRAZIL."
+  ],
+  "authorString": [
+    "Lemos ICS, Delmondes GA, Dos Santos ADF, Santos ES, de Oliveira DR, de Figueiredo PRL, Alves DA, Barbosa R, de Menezes IRA, Coutinho HDM, Kerntopf MR, Fernandes GP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lemos ICS"
+          ],
+          "firstName": [
+            "Izabel Cristina Santiago"
+          ],
+          "lastName": [
+            "Lemos"
+          ],
+          "initials": [
+            "ICS"
+          ],
+          "affiliation": [
+            "Department of Biological Chemistry, Laboratory of Molecular Chemistry and Pharmacology, Regional University of Cariri, Crato, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Delmondes GA"
+          ],
+          "firstName": [
+            "Gyllyandeson de Araújo"
+          ],
+          "lastName": [
+            "Delmondes"
+          ],
+          "initials": [
+            "GA"
+          ],
+          "affiliation": [
+            "Department of Biological Chemistry, Laboratory of Molecular Chemistry and Pharmacology, Regional University of Cariri, Crato, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Dos Santos ADF"
+          ],
+          "firstName": [
+            "Ana Deyva Ferreira"
+          ],
+          "lastName": [
+            "Dos Santos"
+          ],
+          "initials": [
+            "ADF"
+          ],
+          "affiliation": [
+            "Department of Biological Chemistry, Laboratory of Molecular Chemistry and Pharmacology, Regional University of Cariri, Crato, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Santos ES"
+          ],
+          "firstName": [
+            "Enaide Soares"
+          ],
+          "lastName": [
+            "Santos"
+          ],
+          "initials": [
+            "ES"
+          ],
+          "affiliation": [
+            "Department of Biological Chemistry, Laboratory of Molecular Chemistry and Pharmacology, Regional University of Cariri, Crato, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "de Oliveira DR"
+          ],
+          "firstName": [
+            "Dayanne Rakelly"
+          ],
+          "lastName": [
+            "de Oliveira"
+          ],
+          "initials": [
+            "DR"
+          ],
+          "affiliation": [
+            "Department of Biological Chemistry, Laboratory of Molecular Chemistry and Pharmacology, Regional University of Cariri, Crato, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "de Figueiredo PRL"
+          ],
+          "firstName": [
+            "Patrícia Rosane Leite"
+          ],
+          "lastName": [
+            "de Figueiredo"
+          ],
+          "initials": [
+            "PRL"
+          ],
+          "affiliation": [
+            "Department of Biological Chemistry, Laboratory of Molecular Chemistry and Pharmacology, Regional University of Cariri, Crato, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Alves DA"
+          ],
+          "firstName": [
+            "Dailon de Araújo"
+          ],
+          "lastName": [
+            "Alves"
+          ],
+          "initials": [
+            "DA"
+          ],
+          "affiliation": [
+            "Department of Biological Chemistry, Laboratory of Molecular Chemistry and Pharmacology, Regional University of Cariri, Crato, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Barbosa R"
+          ],
+          "firstName": [
+            "Roseli"
+          ],
+          "lastName": [
+            "Barbosa"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Biological Chemistry, Laboratory of Molecular Chemistry and Pharmacology, Regional University of Cariri, Crato, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "de Menezes IRA"
+          ],
+          "firstName": [
+            "Irwin Rose Alencar"
+          ],
+          "lastName": [
+            "de Menezes"
+          ],
+          "initials": [
+            "IRA"
+          ],
+          "affiliation": [
+            "Department of Biological Chemistry, Laboratory of Molecular Chemistry and Pharmacology, Regional University of Cariri, Crato, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Coutinho HDM"
+          ],
+          "firstName": [
+            "Henrique Douglas Melo"
+          ],
+          "lastName": [
+            "Coutinho"
+          ],
+          "initials": [
+            "HDM"
+          ],
+          "affiliation": [
+            "Department of Public Health, State University of Ceará, Fortaleza, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Kerntopf MR"
+          ],
+          "firstName": [
+            "Marta Regina"
+          ],
+          "lastName": [
+            "Kerntopf"
+          ],
+          "initials": [
+            "MR"
+          ],
+          "affiliation": [
+            "Department of Biological Chemistry, Laboratory of Molecular Chemistry and Pharmacology, Regional University of Cariri, Crato, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Fernandes GP"
+          ],
+          "firstName": [
+            "George Pimentel"
+          ],
+          "lastName": [
+            "Fernandes"
+          ],
+          "initials": [
+            "GP"
+          ],
+          "affiliation": [
+            "Department of Biological Chemistry, Laboratory of Molecular Chemistry and Pharmacology, Regional University of Cariri, Crato, Brazil."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2555401"
+      ],
+      "dateOfPublication": [
+        "2016 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "African journal of traditional, complementary, and alternative medicines : AJTCAM"
+          ],
+          "ISOAbbreviation": [
+            "Afr J Tradit Complement Altern Med"
+          ],
+          "medlineAbbreviation": [
+            "Afr J Tradit Complement Altern Med"
+          ],
+          "NLMid": [
+            "101232990"
+          ],
+          "ISSN": [
+            "0189-6016"
+          ],
+          "ESSN": [
+            "2505-0044"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "166-175"
+  ],
+  "abstractText": [
+    "The use of natural resources for the treatment of acute respiratory infections in children is a widespread practice within traditional communities, especially by women by being the primary caregivers. This study aimed to perform ethnobiological survey of plants and animals used for the treatment of acute respiratory infections in children of a traditional community in the municipality of Barbalha, Ceará, Brazil.It is a descriptive exploratory study with a quantitative approach, developed in Sitio Santo Antonio, in the municipality of Barbalha, Ceará, Brazil. As a tool for data collection, was applied a questionnaire and a semi-structured interview. Data analysis used descriptive statistics (simple and percentage rate) and the Relative Frequency of Citation.The research included a total of 54 informants. In total, there were 38 species cited. According to the Relative Frequency of Citation the following species were the most cited: Ocimum basilicum L. (0.59), Eucalyptus globulus Labili (0.59), Plectranthus amboinicus (L.) Spreng (0.42), Hyptis suaveolens (L.) Poit. (0.24), Allium aescalonicum L. (0.22) and Mentha arvensis L. (0.18). Among the symptoms mentioned by the research subjects to treat the acute respiratory infections in childhood, there were: fever; cough; coughing with secretions; sore throat; hoarseness; tiredness; nasal congestion.It is important the knowledge about the usefulness of natural resources as alternative practices in diseases treatment, seeking to rescue popular knowledge used in the traditional community and fomenting the need to consider cultural aspects in the full practice to children's health care."
+  ],
+  "affiliation": [
+    "Department of Biological Chemistry, Laboratory of Molecular Chemistry and Pharmacology, Regional University of Cariri, Crato, Brazil."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plants, Medicinal"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Respiratory Tract Infections"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Extracts"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Medicine, Traditional"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ethnobotany"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged, 80 and over"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brazil"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Natural products",
+        "ethnobotany",
+        "Acute respiratory infections",
+        "Ethnomedicine",
+        "Children’s Health"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Plant Extracts"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5566141?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5566141"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.21010/ajtcam.v13i4.22"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-09-08"
+  ],
+  "dateOfCreation": [
+    "2017-08-30"
+  ],
+  "firstIndexDate": [
+    "2017-08-30"
+  ],
+  "dateOfRevision": [
+    "2017-09-08"
+  ],
+  "electronicPublicationDate": [
+    "2016-07-03"
+  ],
+  "firstPublicationDate": [
+    "2016-07-03"
+  ]
+}

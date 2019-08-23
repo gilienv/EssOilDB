@@ -1,0 +1,386 @@
+{
+  "id": [
+    "29988460"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29988460"
+  ],
+  "pmcid": [
+    "PMC6024141"
+  ],
+  "doi": [
+    "10.1002/ece3.4078"
+  ],
+  "title": [
+    "Abundance of Bemisia tabaci Gennadius (Hemiptera: Aleyrodidae) and its parasitoids on vegetables and cassava plants in Burkina Faso (West Africa)."
+  ],
+  "authorString": [
+    "Romba R, Gnankine O, Drabo SF, Tiendrebeogo F, Henri H, Mouton L, Vavre F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Romba R"
+          ],
+          "firstName": [
+            "Rahim"
+          ],
+          "lastName": [
+            "Romba"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Laboratoire d'Entomologie Fondamentale et Appliquée, Unité de Formation et de Recherche en Sciences de la Vie et de la Terre (UFR-SVT) Université Ouaga I Pr Joseph Ki Zerbo Ouagadougou Burkina Faso."
+          ]
+        },
+        {
+          "fullName": [
+            "Gnankine O"
+          ],
+          "firstName": [
+            "Olivier"
+          ],
+          "lastName": [
+            "Gnankine"
+          ],
+          "initials": [
+            "O"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6006-6533",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratoire d'Entomologie Fondamentale et Appliquée, Unité de Formation et de Recherche en Sciences de la Vie et de la Terre (UFR-SVT) Université Ouaga I Pr Joseph Ki Zerbo Ouagadougou Burkina Faso."
+          ]
+        },
+        {
+          "fullName": [
+            "Drabo SF"
+          ],
+          "firstName": [
+            "Samuel Fogné"
+          ],
+          "lastName": [
+            "Drabo"
+          ],
+          "initials": [
+            "SF"
+          ],
+          "affiliation": [
+            "Laboratoire d'Entomologie Fondamentale et Appliquée, Unité de Formation et de Recherche en Sciences de la Vie et de la Terre (UFR-SVT) Université Ouaga I Pr Joseph Ki Zerbo Ouagadougou Burkina Faso."
+          ]
+        },
+        {
+          "fullName": [
+            "Tiendrebeogo F"
+          ],
+          "firstName": [
+            "Fidèle"
+          ],
+          "lastName": [
+            "Tiendrebeogo"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Laboratoire Mixte International Patho-Bios IRD-INERA Ouagadougou Burkina Faso."
+          ]
+        },
+        {
+          "fullName": [
+            "Henri H"
+          ],
+          "firstName": [
+            "Hélène"
+          ],
+          "lastName": [
+            "Henri"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Université de Lyon Université Lyon 1 CNRS Laboratoire de Biométrie et Biologie Evolutive UMR5558 Villeurbanne France."
+          ]
+        },
+        {
+          "fullName": [
+            "Mouton L"
+          ],
+          "firstName": [
+            "Laurence"
+          ],
+          "lastName": [
+            "Mouton"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Université de Lyon Université Lyon 1 CNRS Laboratoire de Biométrie et Biologie Evolutive UMR5558 Villeurbanne France."
+          ]
+        },
+        {
+          "fullName": [
+            "Vavre F"
+          ],
+          "firstName": [
+            "Fabrice"
+          ],
+          "lastName": [
+            "Vavre"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0909-2936",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Université de Lyon Université Lyon 1 CNRS Laboratoire de Biométrie et Biologie Evolutive UMR5558 Villeurbanne France."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0909-2936",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6006-6533",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2705423"
+      ],
+      "dateOfPublication": [
+        "2018 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Ecology and evolution"
+          ],
+          "ISOAbbreviation": [
+            "Ecol Evol"
+          ],
+          "medlineAbbreviation": [
+            "Ecol Evol"
+          ],
+          "NLMid": [
+            "101566408"
+          ],
+          "ISSN": [
+            "2045-7758"
+          ],
+          "ESSN": [
+            "2045-7758"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "6091-6103"
+  ],
+  "abstractText": [
+    "The whitefly Bemisia tabaci is a pest of many agricultural and ornamental crops worldwide and particularly in Africa. It is a complex of cryptic species, which is extremely polyphagous with hundreds of host plants identified around the world. Previous surveys in western Africa indicated the presence of two biotypes of the invasive MED species (MED-Q1 and MED-Q3) living in sympatry with the African species SSA and ASL. This situation constitutes one of the rare cases of local coexistence of various genetic entities within the B. tabaci complex. In order to study the dynamics of the distribution and abundance of genetic entities within this community and to identify potential factors that could contribute to coexistence, we sampled B. tabaci populations in Burkina Faso in 2015 and 2016 on various plants, and also their parasitoids. All four genetic entities were still recorded, indicating no exclusion of local species by the MED species. While B. tabaci individuals were found on 55 plant species belonging to eighteen (18) families showing the high polyphagy of this pest, some species/biotypes exhibited higher specificity. Two parasitoid species (Eretmocerus mundus and Encarsia vandrieschei) were also recorded with E. mundus being predominant in most localities and on most plants. Our data indicated that whitefly abundance, diversity, and rate of parasitism varied according to areas, plants, and years, but that parasitism rate was globally highly correlated with whitefly abundance suggesting density dependence. Our results also suggest dynamic variation in the local diversity of B. tabaci species/biotypes from 1 year to the other, specifically with MED-Q1 and ASL species. This work provides relevant information on the nature of plant-B. tabaci-parasitoid interactions in West Africa and identifies that coexistence might be stabilized by niche differentiation for some genetic entities. However, MED-Q1 and ASL show extensive niche overlap, which could ultimately lead to competitive exclusion."
+  ],
+  "affiliation": [
+    "Laboratoire d'Entomologie Fondamentale et Appliquée, Unité de Formation et de Recherche en Sciences de la Vie et de la Terre (UFR-SVT) Université Ouaga I Pr Joseph Ki Zerbo Ouagadougou Burkina Faso."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Parasitism",
+        "Abundance",
+        "Natural enemies",
+        "Host plants",
+        "Bemisia tabaci"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6024141?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6024141"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/ece3.4078"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-07-11"
+  ],
+  "firstIndexDate": [
+    "2018-07-11"
+  ],
+  "dateOfRevision": [
+    "2018-07-12"
+  ],
+  "electronicPublicationDate": [
+    "2018-05-20"
+  ],
+  "firstPublicationDate": [
+    "2018-05-20"
+  ]
+}

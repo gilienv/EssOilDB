@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="20.0" width="520.0" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <rect x="10.0" y="-215.0" width="100.0" height="225.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="10.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,0.0,20.0)" style="font-size:1.0000000000000013px;">China</text>
+  <rect x="110.0" y="-140.0" width="100.0" height="150.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="110.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,100.0,120.0)" style="font-size:1.0000000000000013px;">South Africa</text>
+  <rect x="210.0" y="-140.0" width="100.0" height="150.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="210.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,200.0,220.0)" style="font-size:1.0000000000000013px;">Tunisia</text>
+  <rect x="310.0" y="-65.0" width="100.0" height="75.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="310.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,300.0,320.0)" style="font-size:1.0000000000000013px;">Cyprus</text>
+  <rect x="410.0" y="-65.0" width="100.0" height="75.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="410.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,400.0,420.0)" style="font-size:1.0000000000000013px;">Japan</text>
+ </g>
+</svg>

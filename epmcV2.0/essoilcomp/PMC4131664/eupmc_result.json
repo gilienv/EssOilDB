@@ -1,0 +1,279 @@
+{
+  "id": [
+    "PMC4131664"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC4131664"
+  ],
+  "doi": [
+    "10.1007/s13659-013-0027-6"
+  ],
+  "title": [
+    "Anti-cancer potential of South Asian plants."
+  ],
+  "authorString": [
+    "Rahman MM, Khan MA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rahman MM"
+          ],
+          "firstName": [
+            "Mohammad Mijanur"
+          ],
+          "lastName": [
+            "Rahman"
+          ],
+          "initials": [
+            "MM"
+          ],
+          "affiliation": [
+            "Department of Biochemistry and Molecular Biology, Jahangirnagar University, Savar, Dhaka, 1342 Bangladesh"
+          ]
+        },
+        {
+          "fullName": [
+            "Khan MA"
+          ],
+          "firstName": [
+            "Md. Asaduzzaman"
+          ],
+          "lastName": [
+            "Khan"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7851-0500",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7851-0500",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2193139"
+      ],
+      "dateOfPublication": [
+        "2013 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Natural products and bioprospecting"
+          ],
+          "ISOAbbreviation": [
+            "Nat Prod Bioprospect"
+          ],
+          "medlineAbbreviation": [
+            "Nat Prod Bioprospect"
+          ],
+          "NLMid": [
+            "101577734"
+          ],
+          "ISSN": [
+            "2192-2195"
+          ],
+          "ESSN": [
+            "2192-2209"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "74-88"
+  ],
+  "abstractText": [
+    "Phyto-chemicals are increasingly being used in the treatment of cancer because of their availability, potential anti-cancer activity with less adverse effects when compared with chemotherapy. The variation of climate and geography in South Asian countries provides a nursing environment for the growth of versatile plant species, that are repeatedly drawing attention of the scientific community. In this review, we have focused on the anti-cancer potential of thirty plants, which are commonly found in Bangladesh, India, Nepal, Pakistan and Sri Lanka, with their mechanisms of action. In particular, we have discussed the bio-active components that display anti-cancer activity, which have been identified in these plants. This review may help researchers to profile plants with known anti-cancer effect of this region and further investigations of anti-cancer agents in medicinal plants from South Asia."
+  ],
+  "affiliation": [
+    "Department of Biochemistry and Molecular Biology, Jahangirnagar University, Savar, Dhaka, 1342 Bangladesh"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Medicinal plants",
+        "Natural products",
+        "South Asia",
+        "Anti-cancer Activities",
+        "Phyto-chemicals"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4131664"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4131664/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s13659-013-0027-6"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2014-08-23"
+  ],
+  "firstIndexDate": [
+    "2014-08-23"
+  ],
+  "dateOfRevision": [
+    "2016-05-23"
+  ],
+  "electronicPublicationDate": [
+    "2013-05-15"
+  ],
+  "firstPublicationDate": [
+    "2013-05-15"
+  ]
+}

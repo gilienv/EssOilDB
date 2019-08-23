@@ -1,0 +1,449 @@
+{
+  "id": [
+    "30577439"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30577439"
+  ],
+  "pmcid": [
+    "PMC6473417"
+  ],
+  "doi": [
+    "10.3390/medicines6010001"
+  ],
+  "title": [
+    "Medicinal Plants Used in the Ejisu-Juaben Municipality, Southern Ghana: An Ethnobotanical Study."
+  ],
+  "authorString": [
+    "Appiah KS, Oppong CP, Mardani HK, Omari RA, Kpabitey S, Amoatey CA, Onwona-Agyeman S, Oikawa Y, Katsura K, Fujii Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Appiah KS"
+          ],
+          "firstName": [
+            "Kwame Sarpong"
+          ],
+          "lastName": [
+            "Appiah"
+          ],
+          "initials": [
+            "KS"
+          ],
+          "affiliation": [
+            "United Graduate School, Tokyo University of Agriculture and Technology, 3-5-8 Saiwaicho, Fuchu, Tokyo 183-8509, Japan. ksappiah90@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Oppong CP"
+          ],
+          "firstName": [
+            "Clement Peprah"
+          ],
+          "lastName": [
+            "Oppong"
+          ],
+          "initials": [
+            "CP"
+          ],
+          "affiliation": [
+            "Department of International and Environmental Agriculture Science, Tokyo University of Agriculture and Technology, 3-5-8 Saiwaicho, Fuchu, Tokyo 183-8509, Japan. canticle2@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Mardani HK"
+          ],
+          "firstName": [
+            "Hossein Korrani"
+          ],
+          "lastName": [
+            "Mardani"
+          ],
+          "initials": [
+            "HK"
+          ],
+          "affiliation": [
+            "United Graduate School, Tokyo University of Agriculture and Technology, 3-5-8 Saiwaicho, Fuchu, Tokyo 183-8509, Japan. hmardani26@yahoo.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Omari RA"
+          ],
+          "firstName": [
+            "Richard Ansong"
+          ],
+          "lastName": [
+            "Omari"
+          ],
+          "initials": [
+            "RA"
+          ],
+          "affiliation": [
+            "United Graduate School, Tokyo University of Agriculture and Technology, 3-5-8 Saiwaicho, Fuchu, Tokyo 183-8509, Japan. talk2jafakingonline@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Kpabitey S"
+          ],
+          "firstName": [
+            "Sylvia"
+          ],
+          "lastName": [
+            "Kpabitey"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Agricultural Economics and Agribusiness, University of Ghana, P.O. Box LG 64 Legon, Accra, Ghana. sylviasplash@yahoo.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Amoatey CA"
+          ],
+          "firstName": [
+            "Christiana Adukwei"
+          ],
+          "lastName": [
+            "Amoatey"
+          ],
+          "initials": [
+            "CA"
+          ],
+          "affiliation": [
+            "Department of Crop Science, University of Ghana, P.O. Box LG 44 Legon, Accra, Ghana. camoatey@ug.edu.gh."
+          ]
+        },
+        {
+          "fullName": [
+            "Onwona-Agyeman S"
+          ],
+          "firstName": [
+            "Siaw"
+          ],
+          "lastName": [
+            "Onwona-Agyeman"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Institute of Agriculture, Tokyo University of Agriculture and Technology, 3-5-8 Saiwaicho, Fuchu, Tokyo 183-8509, Japan. agyeman@cc.tuat.ac.jp."
+          ]
+        },
+        {
+          "fullName": [
+            "Oikawa Y"
+          ],
+          "firstName": [
+            "Yosei"
+          ],
+          "lastName": [
+            "Oikawa"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of International and Environmental Agriculture Science, Tokyo University of Agriculture and Technology, 3-5-8 Saiwaicho, Fuchu, Tokyo 183-8509, Japan. yosei@cc.tuat.ac.jp."
+          ]
+        },
+        {
+          "fullName": [
+            "Katsura K"
+          ],
+          "firstName": [
+            "Keisuke"
+          ],
+          "lastName": [
+            "Katsura"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "United Graduate School, Tokyo University of Agriculture and Technology, 3-5-8 Saiwaicho, Fuchu, Tokyo 183-8509, Japan. kkatsura@go.tuat.ac.jp."
+          ]
+        },
+        {
+          "fullName": [
+            "Fujii Y"
+          ],
+          "firstName": [
+            "Yoshiharu"
+          ],
+          "lastName": [
+            "Fujii"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5412-395X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "United Graduate School, Tokyo University of Agriculture and Technology, 3-5-8 Saiwaicho, Fuchu, Tokyo 183-8509, Japan. yfujii@cc.tuat.ac.jp."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5412-395X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2763457"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Medicines (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Medicines (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Medicines (Basel)"
+          ],
+          "NLMid": [
+            "101671069"
+          ],
+          "ISSN": [
+            "2305-6320"
+          ],
+          "ESSN": [
+            "2305-6320"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "Background: The in-depth traditional knowledge of medicinal plants is at risk of extinction due to the dependency on oral transmission, and as such, there is an urgent need to document such knowledge. This study aimed to document indigenous uses of medicinal plants among community members in the Ejisu-Juaben Municipality. Methods: Data was collected in 2016 from community members and local herbalists in the Ejisu-Juaben Municipality through a semi-structured questionnaire. Statistical tools and ethnobotanical indices, i.e., informant consensus factor (ICF), fidelity level (FL), and use value (UV) were used to analyse the data. Results: One hundred and six medicinal plants belonging to 45 families were reported to cure 68 different human diseases. The most frequently used plant part in this study was the leaves (52%). Decoction (57.5%) and oral administration (58.3%) were the most utilised herbal preparation and administration route respectively. Cleistopholis patens had the highest UV (0.54) with pain &amp; fevers and skin diseases having the highest ICF values (0.88 and 0.85 respectively). Furthermore, new medicinal uses of Hilleria latifolia and ten other species were recorded for the treatment of the traditional local disease, aseram. Conclusions: The current knowledge and uses of medicinal plants are still high in the study area based on the high degree of consensus among informants. This study could allow for the preservation of knowledge and biodiversity of medicinal plants, both of which are threatened with extinction."
+  ],
+  "affiliation": [
+    "United Graduate School, Tokyo University of Agriculture and Technology, 3-5-8 Saiwaicho, Fuchu, Tokyo 183-8509, Japan. ksappiah90@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "26304024"
+          ],
+          "agency": [
+            "JSPS KAKENHI"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "25029AB"
+          ],
+          "agency": [
+            "grant-in-aid for Research on Agriculture and Food Science from the Ministry of Agriculture, Forestry, and Fisheries of Japan"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Medicinal plants",
+        "Indigenous knowledge",
+        "Ethnobotanical Survey",
+        "Informant Consensus Factor",
+        "Fidelity Level",
+        "Ejisu-juaben Municipality"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6473417?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6473417"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/medicines6010001"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-12-23"
+  ],
+  "firstIndexDate": [
+    "2018-12-31"
+  ],
+  "dateOfRevision": [
+    "2019-05-01"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-20"
+  ],
+  "firstPublicationDate": [
+    "2018-12-20"
+  ]
+}

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="essoil/PMC5392979/results/word/frequencies/results.xml">
+  <result title="frequency" word="malaria" count="133"/>
+  <result title="frequency" word="mosquito" count="107"/>
+  <result title="frequency" word="compounds" count="80"/>
+  <result title="frequency" word="mosquitoes" count="79"/>
+  <result title="frequency" word="gambiae" count="78"/>
+  <result title="frequency" word="control" count="74"/>
+  <result title="frequency" word="Anopheles" count="64"/>
+  <result title="frequency" word="vector" count="61"/>
+  <result title="frequency" word="An." count="55"/>
+  <result title="frequency" word="insect" count="55"/>
+  <result title="frequency" word="repellent" count="50"/>
+  <result title="frequency" word="essential" count="49"/>
+  <result title="frequency" word="larval" count="41"/>
+  <result title="frequency" word="plant" count="39"/>
+  <result title="frequency" word="./---" count="33"/>
+  <result title="frequency" word="application" count="31"/>
+  <result title="frequency" word="potential" count="31"/>
+  <result title="frequency" word="vectors" count="31"/>
+  <result title="frequency" word="transmission" count="30"/>
+  <result title="frequency" word="oil" count="29"/>
+  <result title="frequency" word="plant-derived" count="29"/>
+  <result title="frequency" word="Malar" count="27"/>
+  <result title="frequency" word="repellents" count="27"/>
+  <result title="frequency" word="Med" count="26"/>
+  <result title="frequency" word="oils" count="26"/>
+  <result title="frequency" word="plants" count="25"/>
+  <result title="frequency" word="s.s.)" count="25"/>
+  <result title="frequency" word="study" count="25"/>
+  <result title="frequency" word="efficacy" count="24"/>
+  <result title="frequency" word="reported" count="24"/>
+  <result title="frequency" word="Toxicity" count="23"/>
+  <result title="frequency" word="oviposition" count="23"/>
+  <result title="frequency" word="ppm" count="23"/>
+  <result title="frequency" word="chemical" count="22"/>
+  <result title="frequency" word="protection" count="22"/>
+  <result title="frequency" word="human" count="21"/>
+ </snippets>
+</snippetsTree>

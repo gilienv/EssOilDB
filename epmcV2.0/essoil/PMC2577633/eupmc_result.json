@@ -1,0 +1,470 @@
+{
+  "id": [
+    "18945343"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "18945343"
+  ],
+  "pmcid": [
+    "PMC2577633"
+  ],
+  "doi": [
+    "10.1186/1756-3305-1-42"
+  ],
+  "title": [
+    "Longitudinal evaluation of Ocimum and other plants effects on the feeding behavioral response of mosquitoes (Diptera: Culicidae) in the field in Tanzania."
+  ],
+  "authorString": [
+    "Kweka EJ, Mosha FW, Lowassa A, Mahande AM, Mahande MJ, Massenga CP, Tenu F, Lyatuu EE, Mboya MA, Temu EA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kweka EJ"
+          ],
+          "firstName": [
+            "Eliningaya J"
+          ],
+          "lastName": [
+            "Kweka"
+          ],
+          "initials": [
+            "EJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8891-758X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mosha FW"
+          ],
+          "firstName": [
+            "Franklin W"
+          ],
+          "lastName": [
+            "Mosha"
+          ],
+          "initials": [
+            "FW"
+          ]
+        },
+        {
+          "fullName": [
+            "Lowassa A"
+          ],
+          "firstName": [
+            "Asanterabi"
+          ],
+          "lastName": [
+            "Lowassa"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Mahande AM"
+          ],
+          "firstName": [
+            "Aneth M"
+          ],
+          "lastName": [
+            "Mahande"
+          ],
+          "initials": [
+            "AM"
+          ]
+        },
+        {
+          "fullName": [
+            "Mahande MJ"
+          ],
+          "firstName": [
+            "Michael J"
+          ],
+          "lastName": [
+            "Mahande"
+          ],
+          "initials": [
+            "MJ"
+          ]
+        },
+        {
+          "fullName": [
+            "Massenga CP"
+          ],
+          "firstName": [
+            "Charles P"
+          ],
+          "lastName": [
+            "Massenga"
+          ],
+          "initials": [
+            "CP"
+          ]
+        },
+        {
+          "fullName": [
+            "Tenu F"
+          ],
+          "firstName": [
+            "Filemoni"
+          ],
+          "lastName": [
+            "Tenu"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Lyatuu EE"
+          ],
+          "firstName": [
+            "Ester E"
+          ],
+          "lastName": [
+            "Lyatuu"
+          ],
+          "initials": [
+            "EE"
+          ]
+        },
+        {
+          "fullName": [
+            "Mboya MA"
+          ],
+          "firstName": [
+            "Michael A"
+          ],
+          "lastName": [
+            "Mboya"
+          ],
+          "initials": [
+            "MA"
+          ]
+        },
+        {
+          "fullName": [
+            "Temu EA"
+          ],
+          "firstName": [
+            "Emmanuel A"
+          ],
+          "lastName": [
+            "Temu"
+          ],
+          "initials": [
+            "EA"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8891-758X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "1"
+      ],
+      "journalIssueId": [
+        "1507973"
+      ],
+      "dateOfPublication": [
+        "2008 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2008"
+      ],
+      "printPublicationDate": [
+        "2008-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Parasites & vectors"
+          ],
+          "ISOAbbreviation": [
+            "Parasit Vectors"
+          ],
+          "medlineAbbreviation": [
+            "Parasit Vectors"
+          ],
+          "NLMid": [
+            "101462774"
+          ],
+          "ISSN": [
+            "1756-3305"
+          ],
+          "ESSN": [
+            "1756-3305"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2008"
+  ],
+  "pageInfo": [
+    "42"
+  ],
+  "abstractText": [
+    "UNLABELLED:  BACKGROUND: The use of repellent materials from plants against nuisance insects is common with great potential to compliment existing malaria control programmes and this requires evaluation in the field. Ocimum plant species, Ocimum suave (Willd) and O. kilimandscharicum (Guerke) materials and their essential oils extracted by steam distillation were evaluated in the field and experimental huts for repellence, exophily and feeding inhibition effects against three mosquito species, Anopheles arabiensis (Patton), An. gambiae ss (Giles) and Culex quinquefasciatus (Say). The protective effect of essential oils from Ocimum plants were compared with N, N-diethly-3- methylbenzamide (DEET), a standard synthetic repellent. Also, the protective effect of fumigation by burning of repellent plants; Ocimum suave, Ocimum kilimandscharicum, Azadirachta indica, Eucalyptus globules and Lantana camara were tested in experimental huts and selected local houses. RESULTS: In the field, protection by Ocimum plants from mosquito bites was high and there was small variation among different mosquito species. Protection efficiency was 93.4%, 91.98% and 89.75% for An. arabiensis while for Cx. quinquefaciatus it was 91.30%, 88.65% and 90.50% for DEET, Ocimum suave and O. kilimandscharicum respectively. In the experimental hut, deterrence induced by burning of Ocimum and other plants ranged from 73.1.0% to 81.9% for An. arabiensis and 56.5% to 67.8% for Cx. quinquefaciatus, while feeding inhibition was 61.1% to 100% for An. arabiensis and 50% to 100% for Cx. quinquefaciatus. Evaluations under field conditions confirmed high protective efficacy, enhanced feeding inhibition and house entry inhibition (Deterrence). CONCLUSION: This study shows the potential of Ocimum suave and Ocimum kilimandscharicum crude extracts and whole plants of Ocimum suave, Ocimum kilimandscharicum, Azadirachta indica, Eucalyptus globules and Lantana camara for use in protecting against human biting while the burning of plants reduces significantly the indoor resting mosquitoes."
+  ],
+  "affiliation": [
+    "Tropical Pesticides Research Institute, Division of Livestock and Human Disease Vector Control, P,O, Box 3024, Arusha-Tanzania. pat.kweka@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2577633?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2577633"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "abs"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.parasitesandvectors.com/content/1/1/42/abstract"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.parasitesandvectors.com/content/1/1/42"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.parasitesandvectors.com/content/pdf/1756-3305-1-42.pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18945343/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18945343/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1756-3305-1-42"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "10"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-07-04"
+  ],
+  "dateOfCreation": [
+    "2008-11-04"
+  ],
+  "firstIndexDate": [
+    "2009-12-25"
+  ],
+  "dateOfRevision": [
+    "2013-11-07"
+  ],
+  "electronicPublicationDate": [
+    "2008-10-22"
+  ],
+  "firstPublicationDate": [
+    "2008-10-22"
+  ]
+}

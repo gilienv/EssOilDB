@@ -1,0 +1,318 @@
+{
+  "id": [
+    "22808413"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22808413"
+  ],
+  "pmcid": [
+    "PMC3385576"
+  ],
+  "title": [
+    "Adulticidal Activity of Olea vera, Linum usitatissimum and Piper nigera against Anopheles stephensi and Aedes aegypti under Laboratory Conditions."
+  ],
+  "authorString": [
+    "Nawaz R, Rathor HR, Bilal H, Hassan S, Khan IA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Nawaz R"
+          ],
+          "firstName": [
+            "R"
+          ],
+          "lastName": [
+            "Nawaz"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Rathor HR"
+          ],
+          "firstName": [
+            "H Rashid"
+          ],
+          "lastName": [
+            "Rathor"
+          ],
+          "initials": [
+            "HR"
+          ]
+        },
+        {
+          "fullName": [
+            "Bilal H"
+          ],
+          "firstName": [
+            "H"
+          ],
+          "lastName": [
+            "Bilal"
+          ],
+          "initials": [
+            "H"
+          ]
+        },
+        {
+          "fullName": [
+            "Hassan S"
+          ],
+          "firstName": [
+            "Sa"
+          ],
+          "lastName": [
+            "Hassan"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Khan IA"
+          ],
+          "firstName": [
+            "I Akram"
+          ],
+          "lastName": [
+            "Khan"
+          ],
+          "initials": [
+            "IA"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "1949718"
+      ],
+      "dateOfPublication": [
+        "2011 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2011"
+      ],
+      "printPublicationDate": [
+        "2011-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Iranian journal of arthropod-borne diseases"
+          ],
+          "ISOAbbreviation": [
+            "Iran J Arthropod Borne Dis"
+          ],
+          "medlineAbbreviation": [
+            "Iran J Arthropod Borne Dis"
+          ],
+          "NLMid": [
+            "101482037"
+          ],
+          "ISSN": [
+            "1735-7179"
+          ],
+          "ESSN": [
+            "2008-2517"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2011"
+  ],
+  "pageInfo": [
+    "2-9"
+  ],
+  "abstractText": [
+    "BACKGROUND: There are several plant extractions which are being used for mosquito control. The aim of this study was to evaluate the efficacy of Olea vera, Linum usitatissimum and Piper nigera against Anopheles stephensi and Aedes aegypti under laboratory conditions. METHODS: These tests were carried out using WHO recommended bioassay method for adult mosquitoes. RESULTS: The extracts from black pepper was more effective as adulticide with lowest LC(50) values (2.26% and 8.4%) against Aedes aegypti and Anopheles stephensi after 24 h of exposure while after 48h (1.56% and 5.11%) respectively. In terms of LC(90) value black pepper was best with (8.66% and 30.1%) against Ae. aegypti and An. stephensi after 24 h of exposure while after 48h (4.59% and 17.3%) respectively. In terms of LT(50) black pepper took 15 h to kill 50% tested population of Ae. aegypti while against An. stephensi it took more than 2 days. In terms of percentage mortality black pepper kill 84% of the population of Ae. aegypti and 44.75% of the An. stephensi population. CONCLUSION: Black pepper showed best results in term of LC(50), LC(90), LT(50) and percentage mortality against Ae. aegypti and An. stephensi. Our study suggested that the plant extracts have potential to kill adult mosquitoes, are environment friendly and can be used for the control of mosquitoes."
+  ],
+  "affiliation": [
+    "Department of Medical Entomology and Disease Vector Control, Health Services Academy, Islamabad, Pakistan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Plant extracts",
+        "Anopheles stephensi",
+        "Adulticide"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3385576?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3385576"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22808413/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22808413/?tool=EBI"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2012-08-23"
+  ],
+  "dateOfCreation": [
+    "2012-07-18"
+  ],
+  "firstIndexDate": [
+    "2012-07-19"
+  ],
+  "dateOfRevision": [
+    "2013-05-30"
+  ],
+  "electronicPublicationDate": [
+    "2011-12-31"
+  ],
+  "firstPublicationDate": [
+    "2011-12-31"
+  ]
+}

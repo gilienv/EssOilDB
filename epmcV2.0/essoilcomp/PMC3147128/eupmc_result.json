@@ -1,0 +1,337 @@
+{
+  "id": [
+    "21822443"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "21822443"
+  ],
+  "pmcid": [
+    "PMC3147128"
+  ],
+  "doi": [
+    "10.1155/2012/741638"
+  ],
+  "title": [
+    "Oviposition and Embryotoxicity of Indigofera suffruticosa on Early Development of Aedes aegypti (Diptera: Culicidae)."
+  ],
+  "authorString": [
+    "Vieira JR, Leite RM, Lima IR, Navarro Ddo A, Bianco EM, Leite SP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Vieira JR"
+          ],
+          "firstName": [
+            "Jeymesson Raphael Cardoso"
+          ],
+          "lastName": [
+            "Vieira"
+          ],
+          "initials": [
+            "JR"
+          ]
+        },
+        {
+          "fullName": [
+            "Leite RM"
+          ],
+          "firstName": [
+            "Roberta Maria Pereira"
+          ],
+          "lastName": [
+            "Leite"
+          ],
+          "initials": [
+            "RM"
+          ]
+        },
+        {
+          "fullName": [
+            "Lima IR"
+          ],
+          "firstName": [
+            "Izabela Rangel"
+          ],
+          "lastName": [
+            "Lima"
+          ],
+          "initials": [
+            "IR"
+          ]
+        },
+        {
+          "fullName": [
+            "Navarro Ddo A"
+          ],
+          "firstName": [
+            "Daniela do Amaral Ferraz"
+          ],
+          "lastName": [
+            "Navarro"
+          ],
+          "initials": [
+            "Ddo A"
+          ]
+        },
+        {
+          "fullName": [
+            "Bianco EM"
+          ],
+          "firstName": [
+            "Everson Miguel"
+          ],
+          "lastName": [
+            "Bianco"
+          ],
+          "initials": [
+            "EM"
+          ]
+        },
+        {
+          "fullName": [
+            "Leite SP"
+          ],
+          "firstName": [
+            "Sônia Pereira"
+          ],
+          "lastName": [
+            "Leite"
+          ],
+          "initials": [
+            "SP"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2012"
+      ],
+      "journalIssueId": [
+        "1844213"
+      ],
+      "dateOfPublication": [
+        "2012 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Evidence-based complementary and alternative medicine : eCAM"
+          ],
+          "ISOAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "medlineAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "NLMid": [
+            "101215021"
+          ],
+          "ISSN": [
+            "1741-427X"
+          ],
+          "ESSN": [
+            "1741-4288"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2012"
+  ],
+  "pageInfo": [
+    "741638"
+  ],
+  "abstractText": [
+    "Aqueous extract of Indigofera suffruticosa leaves obtained by infusion was used to evaluate the oviposition, its effect on development of eggs and larvae, and morphological changes in larvae of Aedes aegypti. The bioassays were carried out with aqueous extract in different concentrations on eggs, larvae, and female mosquitoes, and the morphological changes were observed in midgut of larvae. The extract showed repellent activity on A. aegypti mosquitoes, reducing significantly the egg laying by females with control substrate (343 (185-406)) compared with the treated substrate (88 (13-210)). No eclosion of A. aegypti eggs at different concentrations studied was observed. The controleclodedin 35%. At concentration of 250 μg/mL, 93.3% of larvae remained in the second instar of development and at concentrations of 500, 750, and 1000 μg/mL the inhibitory effect was lower with percentages of 20%, 53.3%, and 46.6%, respectively. Morphological changes like disruption on the peritrophic envelope (PE), discontinued underlying epithelium, increased gut lumen, and segments with hypertrophic aspects were observed in anterior region of medium midgut of larvae of A. aegypti. The results showed repellent activity, specific embryotoxicity, and general growth retardation in A. aegypti by medium containing aqueous extract of I. suffruticosa leaves."
+  ],
+  "affiliation": [
+    "Departamento de Histologia e Embriologia, Centro de Ciências Biológicas da Universidade Federal de Pernambuco, Cidade Universitária, 50670-420 Recife, PE, Brazil."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3147128?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3147128"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21822443/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21822443/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2012/741638"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2011-11-10"
+  ],
+  "dateOfCreation": [
+    "2011-08-08"
+  ],
+  "firstIndexDate": [
+    "2011-08-09"
+  ],
+  "electronicPublicationDate": [
+    "2011-07-28"
+  ],
+  "firstPublicationDate": [
+    "2011-07-28"
+  ]
+}

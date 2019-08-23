@@ -1,0 +1,468 @@
+{
+  "id": [
+    "29373997"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29373997"
+  ],
+  "pmcid": [
+    "PMC5787290"
+  ],
+  "doi": [
+    "10.1186/s13002-018-0208-9"
+  ],
+  "title": [
+    "Indigenous uses of ethnomedicinal plants among forest-dependent communities of Northern Bengal, India."
+  ],
+  "authorString": [
+    "Raj AJ, Biswakarma S, Pala NA, Shukla G, Vineeta, Kumar M, Chakravarty S, Bussmann RW."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Raj AJ"
+          ],
+          "firstName": [
+            "Antony Joseph"
+          ],
+          "lastName": [
+            "Raj"
+          ],
+          "initials": [
+            "AJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9910-1666",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Mekelle University, Mekelle, Tigray, Ethiopia. drajr.aaidu@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Biswakarma S"
+          ],
+          "firstName": [
+            "Saroj"
+          ],
+          "lastName": [
+            "Biswakarma"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Forestry, Uttar Banga Krishi Vishwavidyalaya, Cooch Behar, West Bengal, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Pala NA"
+          ],
+          "firstName": [
+            "Nazir A"
+          ],
+          "lastName": [
+            "Pala"
+          ],
+          "initials": [
+            "NA"
+          ],
+          "affiliation": [
+            "Department of Forestry, Uttar Banga Krishi Vishwavidyalaya, Cooch Behar, West Bengal, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Shukla G"
+          ],
+          "firstName": [
+            "Gopal"
+          ],
+          "lastName": [
+            "Shukla"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Forestry, Uttar Banga Krishi Vishwavidyalaya, Cooch Behar, West Bengal, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Vineeta"
+          ],
+          "lastName": [
+            "Vineeta"
+          ],
+          "affiliation": [
+            "Department of Forestry, Uttar Banga Krishi Vishwavidyalaya, Cooch Behar, West Bengal, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Kumar M"
+          ],
+          "firstName": [
+            "Munesh"
+          ],
+          "lastName": [
+            "Kumar"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Forestry and Natural Resources, HNB Garhwal University, Srinagar Garhwal, Uttarakhand, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Chakravarty S"
+          ],
+          "firstName": [
+            "Sumit"
+          ],
+          "lastName": [
+            "Chakravarty"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Forestry, Uttar Banga Krishi Vishwavidyalaya, Cooch Behar, West Bengal, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Bussmann RW"
+          ],
+          "firstName": [
+            "Rainer W"
+          ],
+          "lastName": [
+            "Bussmann"
+          ],
+          "initials": [
+            "RW"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3524-5273",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Saving Knowledge, Casilla, 13092, La Paz, Bolivia."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9910-1666",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3524-5273",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2638620"
+      ],
+      "dateOfPublication": [
+        "2018 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of ethnobiology and ethnomedicine"
+          ],
+          "ISOAbbreviation": [
+            "J Ethnobiol Ethnomed"
+          ],
+          "medlineAbbreviation": [
+            "J Ethnobiol Ethnomed"
+          ],
+          "NLMid": [
+            "101245794"
+          ],
+          "ISSN": [
+            "1746-4269"
+          ],
+          "ESSN": [
+            "1746-4269"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "8"
+  ],
+  "abstractText": [
+    "Traditional knowledge on ethnomedicinal plant is slowly eroding. The exploration, identification and documentation on utilization of ethnobotanic resources are essential for restoration and preservation of ethnomedicinal knowledge about the plants and conservation of these species for greater interest of human society.The study was conducted at fringe areas of Chilapatta Reserve Forest in the foothills of the eastern sub-Himalayan mountain belts of West Bengal, India, from December 2014 to May 2016. Purposive sampling method was used for selection of area. From this area which is inhabited by aboriginal community of Indo-Mongoloid origin, 400 respondents including traditional medicinal practitioners were selected randomly for personal interview schedule through open-ended questionnaire. The questionnaire covered aspects like plant species used as ethnomedicines, plant parts used, procedure for dosage and therapy.A total number of 140 ethnomedicinal species was documented, in which the tree species (55) dominated the lists followed by herbs (39) and shrubs (30). Among these total planted species used for ethnomedicinal purposes, 52 species were planted, 62 species growing wild or collected from the forest for use and 26 species were both wild and planted. The present study documented 61 more planted species as compared to 17 planted species documented in an ethnomedicinal study a decade ago. The documented species were used to treat 58 human diseases/ailments including nine species used to eight diseases/ailments of domestic animals. Stomach-related problems were treated by maximum number of plants (40 species) followed by cuts and wounds with 27 plant species and least with one species each for 17 diseases or ailments. Maximum number of 12 diseases/ailments was cured by Melia azedarach followed by Centella asiatica and Rauvolfia serpentina which were used to cure 11 diseases/ailments each.The list of 140 plant species indicates that the Chilapatta Reserve Forest and its fringe areas are rich in biodiversity of ethnobotanical plant species. Rauvolfia serpentina were the most valuable species in terms of its maximal use with higher use value. The documentation of 78 species maintained in the home gardens indicates the community consciousness on the conservation values of these ethnobotanical species. The communities should be encouraged with improved cultivation techniques of commercially viable ethnobotanical species through capacity building, timely policy intervention along with strong market linkage. This will ensure income generation and livelihood improvement and ultimate conservation of these species."
+  ],
+  "affiliation": [
+    "Mekelle University, Mekelle, Tigray, Ethiopia. drajr.aaidu@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Plants, Medicinal"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Medicine, Traditional"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ethnobotany"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Conservation of Natural Resources"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "India"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Forests"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Liver",
+        "Disease",
+        "Policy",
+        "Indigenous",
+        "Tradition"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5787290?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5787290"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13002-018-0208-9"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-08-27"
+  ],
+  "dateOfCreation": [
+    "2018-01-28"
+  ],
+  "firstIndexDate": [
+    "2018-01-28"
+  ],
+  "dateOfRevision": [
+    "2018-08-27"
+  ],
+  "electronicPublicationDate": [
+    "2018-01-26"
+  ],
+  "firstPublicationDate": [
+    "2018-01-26"
+  ]
+}

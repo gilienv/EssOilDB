@@ -1,0 +1,691 @@
+{
+  "id": [
+    "28994736"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28994736"
+  ],
+  "pmcid": [
+    "PMC6151614"
+  ],
+  "doi": [
+    "10.3390/molecules22101689"
+  ],
+  "title": [
+    "A Review on the Phytochemistry, Pharmacology, Pharmacokinetics and Toxicology of Geniposide, a Natural Product."
+  ],
+  "authorString": [
+    "Shan M, Yu S, Yan H, Guo S, Xiao W, Wang Z, Zhang L, Ding A, Wu Q, Li SFY."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shan M"
+          ],
+          "firstName": [
+            "Mingqiu"
+          ],
+          "lastName": [
+            "Shan"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3029-7074",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Jiangsu Collaborative Innovation Center of Chinese Medicinal Resources Industrialization, Nanjing University of Chinese Medicine, Nanjing 210023, China. shanmingqiu@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Yu S"
+          ],
+          "firstName": [
+            "Sheng"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Jiangsu Collaborative Innovation Center of Chinese Medicinal Resources Industrialization, Nanjing University of Chinese Medicine, Nanjing 210023, China. yusheng1219@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Yan H"
+          ],
+          "firstName": [
+            "Hui"
+          ],
+          "lastName": [
+            "Yan"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Jiangsu Collaborative Innovation Center of Chinese Medicinal Resources Industrialization, Nanjing University of Chinese Medicine, Nanjing 210023, China. glory-yan@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Guo S"
+          ],
+          "firstName": [
+            "Sheng"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Jiangsu Collaborative Innovation Center of Chinese Medicinal Resources Industrialization, Nanjing University of Chinese Medicine, Nanjing 210023, China. gsh916@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Xiao W"
+          ],
+          "firstName": [
+            "Wei"
+          ],
+          "lastName": [
+            "Xiao"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "National Key Laboratory of Pharmaceutical New Technology for Chinese Medicine, Jiangsu Kanion Pharmaceutical Co. Ltd., Lianyungang 222001, China. xw_kanion@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Z"
+          ],
+          "firstName": [
+            "Zhenzhong"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "National Key Laboratory of Pharmaceutical New Technology for Chinese Medicine, Jiangsu Kanion Pharmaceutical Co. Ltd., Lianyungang 222001, China. wzhzh-nj@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang L"
+          ],
+          "firstName": [
+            "Li"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7936-3864",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Jiangsu Collaborative Innovation Center of Chinese Medicinal Resources Industrialization, Nanjing University of Chinese Medicine, Nanjing 210023, China. zhangliguanxiong@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Ding A"
+          ],
+          "firstName": [
+            "Anwei"
+          ],
+          "lastName": [
+            "Ding"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1839-6579",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Jiangsu Collaborative Innovation Center of Chinese Medicinal Resources Industrialization, Nanjing University of Chinese Medicine, Nanjing 210023, China. awding105@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu Q"
+          ],
+          "firstName": [
+            "Qinan"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7836-0941",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Jiangsu Collaborative Innovation Center of Chinese Medicinal Resources Industrialization, Nanjing University of Chinese Medicine, Nanjing 210023, China. qnwyjs@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Li SFY"
+          ],
+          "firstName": [
+            "Sam Fong Yau"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "SFY"
+          ],
+          "affiliation": [
+            "Department of Chemistry, National University of Singapore, Singapore 117543, Singapore. chmlifys@nus.edu.sg."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7836-0941",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7936-3864",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3029-7074",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1839-6579",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "22"
+      ],
+      "journalIssueId": [
+        "2603426"
+      ],
+      "dateOfPublication": [
+        "2017 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecules (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Molecules"
+          ],
+          "medlineAbbreviation": [
+            "Molecules"
+          ],
+          "NLMid": [
+            "100964009"
+          ],
+          "ISSN": [
+            "1420-3049"
+          ],
+          "ESSN": [
+            "1420-3049"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "abstractText": [
+    "Iridoid glycosides are natural products occurring widely in many herbal plants. Geniposide (C17H24O10) is a well-known one, present in nearly 40 species belonging to various families, especially the Rubiaceae. Along with this herbal component, dozens of its natural derivatives have also been isolated and characterized by researchers. Furthermore, a large body of pharmacological evidence has proved the various biological activities of geniposide, such as anti-inflammatory, anti-oxidative, anti-diabetic, neuroprotective, hepatoprotective, cholagogic effects and so on. However, there have been some research articles on its toxicity in recent years. Therefore, this review paper aims to provide the researchers with a comprehensive profile of geniposide on its phytochemistry, pharmacology, pharmacokinetics and toxicology in order to highlight some present issues and future perspectives as well as to help us develop and utilize this iridoid glycoside more efficiently and safely."
+  ],
+  "affiliation": [
+    "Jiangsu Collaborative Innovation Center of Chinese Medicinal Resources Industrialization, Nanjing University of Chinese Medicine, Nanjing 210023, China. shanmingqiu@163.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Rubiaceae"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Iridoids"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PK"
+                  ],
+                  "qualifierName": [
+                    "pharmacokinetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Extracts"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PK"
+                  ],
+                  "qualifierName": [
+                    "pharmacokinetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phytotherapy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Molecular Structure"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Pharmacology",
+        "Pharmacokinetics",
+        "Natural product",
+        "Geniposide",
+        "Phytochemistry",
+        "toxicology",
+        "Iridoid glycoside"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Plant Extracts"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Iridoids"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "geniposide"
+          ],
+          "registryNumber": [
+            "145295QLXY"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6151614?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6151614"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/molecules22101689"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-03-07"
+  ],
+  "dateOfCreation": [
+    "2017-10-11"
+  ],
+  "firstIndexDate": [
+    "2017-10-11"
+  ],
+  "dateOfRevision": [
+    "2019-03-07"
+  ],
+  "electronicPublicationDate": [
+    "2017-10-10"
+  ],
+  "firstPublicationDate": [
+    "2017-10-10"
+  ]
+}

@@ -1,0 +1,550 @@
+{
+  "id": [
+    "25881633"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25881633"
+  ],
+  "pmcid": [
+    "PMC4535484"
+  ],
+  "doi": [
+    "10.1093/jisesa/iev025"
+  ],
+  "title": [
+    "Creams formulated with Ocimum gratissimum L. and Lantana camara L. crude extracts and fractions as mosquito repellents against Aedes aegypti L. (Diptera: Culicidae)."
+  ],
+  "authorString": [
+    "Keziah EA, Nukenine EN, Danga SP, Younoussa L, Esimone CO."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Keziah EA"
+          ],
+          "firstName": [
+            "Ezeike Amarachi"
+          ],
+          "lastName": [
+            "Keziah"
+          ],
+          "initials": [
+            "EA"
+          ],
+          "affiliation": [
+            "Department of Pharmaceutical Microbiology & Biotechnology, Faculty of Pharmaceutical Sciences, Nnamdi Azikiwe University, Awka, Anambra State, Nigeria."
+          ]
+        },
+        {
+          "fullName": [
+            "Nukenine EN"
+          ],
+          "firstName": [
+            "Elias Nchiwan"
+          ],
+          "lastName": [
+            "Nukenine"
+          ],
+          "initials": [
+            "EN"
+          ],
+          "affiliation": [
+            "Department of Biological Sciences, Faculty of Science, University of Ngaoundere, Ngaoundere, Cameroon."
+          ]
+        },
+        {
+          "fullName": [
+            "Danga SP"
+          ],
+          "firstName": [
+            "Simon Pierre Yinyang"
+          ],
+          "lastName": [
+            "Danga"
+          ],
+          "initials": [
+            "SP"
+          ],
+          "affiliation": [
+            "Department of Biological Sciences, Faculty of Science, University of Ngaoundere, Ngaoundere, Cameroon dangayisipi@yahoo.fr."
+          ]
+        },
+        {
+          "fullName": [
+            "Younoussa L"
+          ],
+          "firstName": [
+            "Lame"
+          ],
+          "lastName": [
+            "Younoussa"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Biological Sciences, Faculty of Science, University of Ngaoundere, Ngaoundere, Cameroon."
+          ]
+        },
+        {
+          "fullName": [
+            "Esimone CO"
+          ],
+          "firstName": [
+            "Charles Okechukwu"
+          ],
+          "lastName": [
+            "Esimone"
+          ],
+          "initials": [
+            "CO"
+          ],
+          "affiliation": [
+            "Department of Pharmaceutical Microbiology & Biotechnology, Faculty of Pharmaceutical Sciences, Nnamdi Azikiwe University, Awka, Anambra State, Nigeria."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2258903"
+      ],
+      "dateOfPublication": [
+        "2015 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of insect science (Online)"
+          ],
+          "ISOAbbreviation": [
+            "J. Insect Sci."
+          ],
+          "medlineAbbreviation": [
+            "J Insect Sci"
+          ],
+          "NLMid": [
+            "101096396"
+          ],
+          "ISSN": [
+            "1536-2442"
+          ],
+          "ESSN": [
+            "1536-2442"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "abstractText": [
+    "Mosquitoes are the most deadly vectors of parasites that cause diseases such as malaria, yellow fever, and filariasis. In view of the recent increased interest in developing plant origin insecticides as an alternative to chemical insecticides, the objective of this study was to determine the repellent activity of creams formulated with methanol crude extract (MCE), hexane fraction (HF), and ethyl acetate fractions (EAFs) of Ocimum gratissimum and Lantana camara leaves in single and combined actions against female Aedes aegypti. Evaluation was carried out in the net cages (30 by 30 by 30 cm) containing 60 blood-starved female mosquitoes each and were assayed in the laboratory condition following World Health Organization 2009 protocol. All formulations (single and mixture) were applied at 2, 4, 6, and 8 mg/cm(2) in the exposed area of human hands. Only acetone + white soft paraffin served as negative control and odomos (12% DEET) as positive control. All the formulations presented good protection against mosquito bites without any allergic reaction by the human volunteers. The repellent activity was dependent on the strength of the extracts and fractions. Among the tested formulations, the maximum protection time was observed in MCE (120 min) and EAF (150 min) of O. gratissimum; MCE:MCE (150 min) and HF:HF (120 min) mixtures of both plants. In addition, MCE:MCE and HF:HF mixtures from both plants showed possible synergistic effect. From the results, the combination of O. gratissimum and L. camara to formulate natural mosquito repellent using small amount of extracts can be encouraging to be an alternative to conventional DEET."
+  ],
+  "affiliation": [
+    "Department of Pharmaceutical Microbiology & Biotechnology, Faculty of Pharmaceutical Sciences, Nnamdi Azikiwe University, Awka, Anambra State, Nigeria."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Clinical Trial",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aedes"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ocimum"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Lantana"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Extracts"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Insect Repellents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mosquito Control"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dose-Response Relationship, Drug"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Drug Synergism"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Skin Cream"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Aedes aegypti",
+        "Synergism",
+        "Lantana camara",
+        "Ocimum Gratissimum",
+        "Mosquito Repellent Formulation"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Plant Extracts"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Insect Repellents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4535484?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4535484"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/jisesa/iev025"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-01-15"
+  ],
+  "dateOfCreation": [
+    "2015-04-17"
+  ],
+  "firstIndexDate": [
+    "2015-04-18"
+  ],
+  "dateOfRevision": [
+    "2015-08-18"
+  ],
+  "electronicPublicationDate": [
+    "2015-04-15"
+  ],
+  "firstPublicationDate": [
+    "2015-04-15"
+  ]
+}

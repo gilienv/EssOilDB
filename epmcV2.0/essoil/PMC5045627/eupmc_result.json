@@ -1,0 +1,792 @@
+{
+  "id": [
+    "27716286"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27716286"
+  ],
+  "pmcid": [
+    "PMC5045627"
+  ],
+  "doi": [
+    "10.1186/s12917-016-0842-1"
+  ],
+  "title": [
+    "Use of β-caryophyllene to combat bacterial dental plaque formation in dogs."
+  ],
+  "authorString": [
+    "Pieri FA, Souza MC, Vermelho LL, Vermelho ML, Perciano PG, Vargas FS, Borges AP, da Veiga-Junior VF, Moreira MA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Pieri FA"
+          ],
+          "firstName": [
+            "Fábio Alessandro"
+          ],
+          "lastName": [
+            "Pieri"
+          ],
+          "initials": [
+            "FA"
+          ],
+          "affiliation": [
+            "Departamento de Veterinária, Universidade Federal de Viçosa, Av. P.H. Rolfs, s/n, Câmpus UFV, CEP: 36570-000, Viçosa, Minas Gerais, Brasil."
+          ]
+        },
+        {
+          "fullName": [
+            "Souza MC"
+          ],
+          "firstName": [
+            "Marina Campos de Castro"
+          ],
+          "lastName": [
+            "Souza"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "affiliation": [
+            "Departamento de Veterinária, Universidade Federal de Viçosa, Av. P.H. Rolfs, s/n, Câmpus UFV, CEP: 36570-000, Viçosa, Minas Gerais, Brasil."
+          ]
+        },
+        {
+          "fullName": [
+            "Vermelho LL"
+          ],
+          "firstName": [
+            "Ligia Lobato Ramos"
+          ],
+          "lastName": [
+            "Vermelho"
+          ],
+          "initials": [
+            "LL"
+          ],
+          "affiliation": [
+            "Departamento de Veterinária, Universidade Federal de Viçosa, Av. P.H. Rolfs, s/n, Câmpus UFV, CEP: 36570-000, Viçosa, Minas Gerais, Brasil."
+          ]
+        },
+        {
+          "fullName": [
+            "Vermelho ML"
+          ],
+          "firstName": [
+            "Marina Lobato Ramos"
+          ],
+          "lastName": [
+            "Vermelho"
+          ],
+          "initials": [
+            "ML"
+          ],
+          "affiliation": [
+            "Departamento de Veterinária, Universidade Federal de Viçosa, Av. P.H. Rolfs, s/n, Câmpus UFV, CEP: 36570-000, Viçosa, Minas Gerais, Brasil."
+          ]
+        },
+        {
+          "fullName": [
+            "Perciano PG"
+          ],
+          "firstName": [
+            "Pedro Griffo"
+          ],
+          "lastName": [
+            "Perciano"
+          ],
+          "initials": [
+            "PG"
+          ],
+          "affiliation": [
+            "Departamento de Veterinária, Universidade Federal de Viçosa, Av. P.H. Rolfs, s/n, Câmpus UFV, CEP: 36570-000, Viçosa, Minas Gerais, Brasil."
+          ]
+        },
+        {
+          "fullName": [
+            "Vargas FS"
+          ],
+          "firstName": [
+            "Fabiano Souza"
+          ],
+          "lastName": [
+            "Vargas"
+          ],
+          "initials": [
+            "FS"
+          ],
+          "affiliation": [
+            "Instituto de Ciências Exatas, Universidade Federal do Amazonas, Av. Rodrigo Otávio, 6200, Coroado, CEP: 69.080-005, Manaus, Amazonas, Brasil."
+          ]
+        },
+        {
+          "fullName": [
+            "Borges AP"
+          ],
+          "firstName": [
+            "Andréa Pacheco Batista"
+          ],
+          "lastName": [
+            "Borges"
+          ],
+          "initials": [
+            "AP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7489-3847",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Departamento de Veterinária, Universidade Federal de Viçosa, Av. P.H. Rolfs, s/n, Câmpus UFV, CEP: 36570-000, Viçosa, Minas Gerais, Brasil."
+          ]
+        },
+        {
+          "fullName": [
+            "da Veiga-Junior VF"
+          ],
+          "firstName": [
+            "Valdir Florêncio"
+          ],
+          "lastName": [
+            "da Veiga-Junior"
+          ],
+          "initials": [
+            "VF"
+          ],
+          "affiliation": [
+            "Instituto de Ciências Exatas, Universidade Federal do Amazonas, Av. Rodrigo Otávio, 6200, Coroado, CEP: 69.080-005, Manaus, Amazonas, Brasil."
+          ]
+        },
+        {
+          "fullName": [
+            "Moreira MA"
+          ],
+          "firstName": [
+            "Maria Aparecida Scatamburlo"
+          ],
+          "lastName": [
+            "Moreira"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "affiliation": [
+            "Departamento de Veterinária, Universidade Federal de Viçosa, Av. P.H. Rolfs, s/n, Câmpus UFV, CEP: 36570-000, Viçosa, Minas Gerais, Brasil. masm@ufv.br."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7489-3847",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2460155"
+      ],
+      "dateOfPublication": [
+        "2016 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC veterinary research"
+          ],
+          "ISOAbbreviation": [
+            "BMC Vet. Res."
+          ],
+          "medlineAbbreviation": [
+            "BMC Vet Res"
+          ],
+          "NLMid": [
+            "101249759"
+          ],
+          "ISSN": [
+            "1746-6148"
+          ],
+          "ESSN": [
+            "1746-6148"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "216"
+  ],
+  "abstractText": [
+    "Periodontal disease is a highly prevalent illness that affects many dogs, reaching up to 85 % prevalence in individuals over the age of 4 years. Currently the drug of choice for combating the formation of dental plaque in these animals, the etiologic agent of the disease, is chlorhexidine, which has several side effects reported. Thus, surveys are conducted throughout the world in order to identify potential substitutes for antimicrobial therapy and prevention of periodontal disease. The objective of the work was to evaluate the antimicrobial activity of β-caryophyllene against bacteria from dog's dental plaque in vitro and in vivo. The minimum inhibitory concentration was evaluated by agar microdilution assay, the induction or inhibition of bacterial adherence by sub-inhibitory concentrations in 96-well plates, and reduction of dental plaque formation in mongrel dogs subjected to topical solution with β-caryophyllene for 15 days.Results showed minimum inhibitory concentrations above 100 mg/mL for 25 % of the isolates, 100 mg/mL for 3 %, 50 mg/mL for 25 %, 25 mg/mL for 12 %, 12.5 mg/mL for 19 % and 6.25 mg/mL for 16 %. Bacterial adherences of three Enterococcus sp., one Streptococcus sp., one Haemophilus sp., one Aerococcus sp., one Bacillus sp. and one Lactococcus sp. isolates were inhibited by subinhibitory concentration. One Lactococcus sp., one Bacillus sp. and one Streptococcus sp. were stimulated to adhere by concentrations of 0.19, 1.56 and 0.78 mg/mL, respectively. In vivo assay showed reduction in dental plaque formation by β-caryophyllene, with final plaque coverage of 23.3 ± 2.6 % of the total area of the teeth, with significant difference compared with chlorhexidine group (37.5 ± 3.7 % - p < 0.05) and negative control group (65.5 ± 2.5 % - p < 0.001).The results showed that β-caryophyllene has antimicrobial activity against the proliferation of dog's dental plaque-forming bacteria representing a suitable alternative to the use of chlorhexidine in prophylaxis and treatment of periodontal disease of dogs."
+  ],
+  "affiliation": [
+    "Departamento de Veterinária, Universidade Federal de Viçosa, Av. P.H. Rolfs, s/n, Câmpus UFV, CEP: 36570-000, Viçosa, Minas Gerais, Brasil."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dental Plaque"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "VE"
+                  ],
+                  "qualifierName": [
+                    "veterinary"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dogs"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Bacteria"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Periodontal Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "VE"
+                  ],
+                  "qualifierName": [
+                    "veterinary"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dog Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chlorhexidine"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sesquiterpenes"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anti-Bacterial Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Microbial Sensitivity Tests"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Random Allocation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Bacterial Adhesion"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Dogs",
+        "Antimicrobial",
+        "Dental plaque",
+        "adhesion",
+        "Natural Phytochemical"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Anti-Bacterial Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Sesquiterpenes"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Chlorhexidine"
+          ],
+          "registryNumber": [
+            "R4KO0DY52L"
+          ]
+        },
+        {
+          "name": [
+            "caryophyllene"
+          ],
+          "registryNumber": [
+            "BHW853AU9H"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5045627?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5045627"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12917-016-0842-1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-01-20"
+  ],
+  "dateOfCreation": [
+    "2016-10-07"
+  ],
+  "firstIndexDate": [
+    "2016-10-08"
+  ],
+  "dateOfRevision": [
+    "2017-01-20"
+  ],
+  "electronicPublicationDate": [
+    "2016-10-01"
+  ],
+  "firstPublicationDate": [
+    "2016-10-01"
+  ]
+}

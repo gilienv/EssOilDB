@@ -1,0 +1,495 @@
+{
+  "id": [
+    "29912898"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29912898"
+  ],
+  "pmcid": [
+    "PMC6005518"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0198517"
+  ],
+  "title": [
+    "Taxonomic and phylogenetic diversity of vascular plants at Ma'anling volcano urban park in tropical Haikou, China: Reponses to soil properties."
+  ],
+  "authorString": [
+    "Cheng XL, Yuan LX, Nizamani MM, Zhu ZX, Friedman CR, Wang HF."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Cheng XL"
+          ],
+          "firstName": [
+            "Xia-Lan"
+          ],
+          "lastName": [
+            "Cheng"
+          ],
+          "initials": [
+            "XL"
+          ],
+          "affiliation": [
+            "Hainan Key Laboratory for Sustainable Utilization of Tropical Bioresources, Institute of Tropical Agriculture and Forestry, Hainan University, Haikou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yuan LX"
+          ],
+          "firstName": [
+            "Lang-Xing"
+          ],
+          "lastName": [
+            "Yuan"
+          ],
+          "initials": [
+            "LX"
+          ],
+          "affiliation": [
+            "Hainan Key Laboratory for Sustainable Utilization of Tropical Bioresources, Institute of Tropical Agriculture and Forestry, Hainan University, Haikou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Nizamani MM"
+          ],
+          "firstName": [
+            "Mir Mohammad"
+          ],
+          "lastName": [
+            "Nizamani"
+          ],
+          "initials": [
+            "MM"
+          ],
+          "affiliation": [
+            "Hainan Key Laboratory for Sustainable Utilization of Tropical Bioresources, Institute of Tropical Agriculture and Forestry, Hainan University, Haikou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu ZX"
+          ],
+          "firstName": [
+            "Zhi-Xin"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "ZX"
+          ],
+          "affiliation": [
+            "Hainan Key Laboratory for Sustainable Utilization of Tropical Bioresources, Institute of Tropical Agriculture and Forestry, Hainan University, Haikou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Friedman CR"
+          ],
+          "firstName": [
+            "Cynthia Ross"
+          ],
+          "lastName": [
+            "Friedman"
+          ],
+          "initials": [
+            "CR"
+          ],
+          "affiliation": [
+            "Department of Botany, University of British Columbia, Vancouver, B.C., Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang HF"
+          ],
+          "firstName": [
+            "Hua-Feng"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "HF"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3331-2898",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Hainan Key Laboratory for Sustainable Utilization of Tropical Bioresources, Institute of Tropical Agriculture and Forestry, Hainan University, Haikou, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3331-2898",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2690785"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e0198517"
+  ],
+  "abstractText": [
+    "Anthropogenic processes and socio-economic factors play important roles in shaping plant diversity in urban parks. To investigate how plant diversity of Ma' anling urban volcano park in Hainan Province, China respond to these factors, we carried out a field investigation on the taxonomic and phylogenetic diversity of vascular plants and soil properties in this area. We found 284 species of vascular plants belonging to 88 families and 241 genera, which included 194 native species, 23 invasive species, 31 naturalized species, 40 cultivars, and 4 rare / endangered plant species. Tree composition and richness significantly varied between different vegetation formations (plantation, secondary forest, and abandoned land). Plant species richness and community composition were significantly affected by elevation (El), soil water content (WC), total soil nitrogen (TN) and soil organic matter (SOM). There were significant diversity differences between plantations and abandoned lands, but not between the plantations and secondary forests. The flora in the study site was tropical in nature, characterized by pantropic distributions. Compared to adjacent areas, floristic composition in the study site was most similar to that of Guangdong, followed by that of Vietnam. Our study revealed the diversity patterns of volcanic plants and provided the basis for future planning of plant conservation, such as preserving plant species, maintaining plant habitats, and coordinating plant management in this region."
+  ],
+  "affiliation": [
+    "Hainan Key Laboratory for Sustainable Utilization of Tropical Bioresources, Institute of Tropical Agriculture and Forestry, Hainan University, Haikou, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plants"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Soil"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ecosystem"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biodiversity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phylogeny"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "China"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Parks, Recreational"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Soil"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6005518?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6005518"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0198517"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "30550554"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "PLoS One. 2018 Dec 14;13(12):e0209520"
+          ],
+          "type": [
+            "Erratum in"
+          ],
+          "orderIn": [
+            "24"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-12-11"
+  ],
+  "dateOfCreation": [
+    "2018-06-19"
+  ],
+  "firstIndexDate": [
+    "2018-06-19"
+  ],
+  "dateOfRevision": [
+    "2018-12-11"
+  ],
+  "electronicPublicationDate": [
+    "2018-06-18"
+  ],
+  "firstPublicationDate": [
+    "2018-06-18"
+  ]
+}

@@ -1,0 +1,719 @@
+{
+  "id": [
+    "30071034"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30071034"
+  ],
+  "pmcid": [
+    "PMC6071983"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0200999"
+  ],
+  "title": [
+    "Delivery and evaluation of participatory education for animal keepers led by veterinarians and para-veterinarians around the Kanha Tiger Reserve, Madhya Pradesh, India."
+  ],
+  "authorString": [
+    "Hopker A, Pandey N, Dhamorikar A, Hopker S, Gautam P, Pandey S, Kumar S, Rahangadale N, Mehta P, Marsland R, Sargison N."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hopker A"
+          ],
+          "firstName": [
+            "Andy"
+          ],
+          "lastName": [
+            "Hopker"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5479-5430",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "The Royal (Dick) School of Veterinary Studies, The University of Edinburgh, Easter Bush Veterinary Centre, Midlothian, Scotland, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Pandey N"
+          ],
+          "firstName": [
+            "Naveen"
+          ],
+          "lastName": [
+            "Pandey"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "The Corbett Foundation, Baherakhar, near Kanha Tiger Reserve, Madhya Pradesh, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Dhamorikar A"
+          ],
+          "firstName": [
+            "Aniruddha"
+          ],
+          "lastName": [
+            "Dhamorikar"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "The Corbett Foundation, Baherakhar, near Kanha Tiger Reserve, Madhya Pradesh, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Hopker S"
+          ],
+          "firstName": [
+            "Sophie"
+          ],
+          "lastName": [
+            "Hopker"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "The Royal (Dick) School of Veterinary Studies, The University of Edinburgh, Easter Bush Veterinary Centre, Midlothian, Scotland, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Gautam P"
+          ],
+          "firstName": [
+            "Pradeep"
+          ],
+          "lastName": [
+            "Gautam"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "The Corbett Foundation, Baherakhar, near Kanha Tiger Reserve, Madhya Pradesh, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Pandey S"
+          ],
+          "firstName": [
+            "Subash"
+          ],
+          "lastName": [
+            "Pandey"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "The Corbett Foundation, Baherakhar, near Kanha Tiger Reserve, Madhya Pradesh, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Kumar S"
+          ],
+          "firstName": [
+            "Sharad"
+          ],
+          "lastName": [
+            "Kumar"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "The Corbett Foundation, Baherakhar, near Kanha Tiger Reserve, Madhya Pradesh, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Rahangadale N"
+          ],
+          "firstName": [
+            "Narendra"
+          ],
+          "lastName": [
+            "Rahangadale"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "The Corbett Foundation, Baherakhar, near Kanha Tiger Reserve, Madhya Pradesh, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Mehta P"
+          ],
+          "firstName": [
+            "Prakash"
+          ],
+          "lastName": [
+            "Mehta"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "The Corbett Foundation, Baherakhar, near Kanha Tiger Reserve, Madhya Pradesh, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Marsland R"
+          ],
+          "firstName": [
+            "Rebecca"
+          ],
+          "lastName": [
+            "Marsland"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "School of Social and Political Sciences, The University of Edinburgh, George Square, Edinburgh, Scotland, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Sargison N"
+          ],
+          "firstName": [
+            "Neil"
+          ],
+          "lastName": [
+            "Sargison"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "The Royal (Dick) School of Veterinary Studies, The University of Edinburgh, Easter Bush Veterinary Centre, Midlothian, Scotland, United Kingdom."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8614-1087",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5479-5430",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2711582"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e0200999"
+  ],
+  "abstractText": [
+    "AIM:We aim to investigate local perceptions of animal health challenges; current animal health knowledge; and methods to provide effective, relevant education to animal keepers in the Kanha Tiger Reserve area. MATERIALS AND METHODS:A farmer education programme was undertaken in the Kanha Tiger Reserve area. Local animal health priorities were investigated through participatory village meetings (n = 38), individual animal keeper questionnaires (n = 100) and a written survey of local paravets (n = 16). Educational interventions were: veterinary surgeon led education meeting (VE); paravet led education meeting (PVE); distribution of printed materials (PM). 230 village meetings were carried out across 181 villages, contacting 3791 animal keepers. 20 villages received printed materials. Information was gathered on perceptions of local animal health challenges and current remedies. Efficacy of knowledge transfer was assessed four to five months later using a purposeful sample of 38 villages. RESULTS:Group meetings identified ticks (35/38), foot and mouth disease (FMD) (31/38) and diarrhoea (30/38) as the greatest animal health challenges. Individual interviews identified haemorrhagic septicaemia (HS) (87/100), blackquarter (BQ) (66/100) and plastic ingestion (31/100). Paravets identified FMD (7/16), BQ (6/16) and HS (6/16), and also indicated that animal husbandry and socio-economic factors were important. Current treatments were primarily home remedies and herbalism, but also included contacting a paravet, use of pharmaceuticals and faith healing. Animal treatment knowledge prior to intervention was not significantly different between groups (P = 0.868). Following intervention animal health knowledge was assessed: PVE performed better than controls (P = 0.001) and PM (P = 0.003); VE performed better than controls (P = 0.009). There was no significant difference between VE and PVE (P = 0.666) nor PM and controls (P = 0.060). CONCLUSIONS AND RECOMMENDATIONS:Open access participatory village meetings are an effective way to provide animal health education. In this region distribution of posters and leaflets did not appear to be an effective way to contact animal keepers. Meetings led by paravets can be as effective as those led by veterinarians and paravets can rapidly and sustainably contact large numbers of animal keepers. Investigation of the local animal health situation is essential to ensure education is relevant and accessible to intended recipients. Interventions must be carefully planned to maximise engagement of all sections of the community, particularly women."
+  ],
+  "affiliation": [
+    "The Royal (Dick) School of Veterinary Studies, The University of Edinburgh, Easter Bush Veterinary Centre, Midlothian, Scotland, United Kingdom."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "BB/P013740/1"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BB/J004235/1"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Tigers"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animal Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Health Knowledge, Attitudes, Practice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Predatory Behavior"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Learning"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Perception"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Conservation of Natural Resources"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animal Welfare"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animal Husbandry"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ED"
+                  ],
+                  "qualifierName": [
+                    "education"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Veterinarians"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Rural Population"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "India"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Farmers"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ED"
+                  ],
+                  "qualifierName": [
+                    "education"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6071983?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6071983"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0200999"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "30148892"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "PLoS One. 2018 Aug 27;13(8):e0203299"
+          ],
+          "type": [
+            "Erratum in"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-01-17"
+  ],
+  "dateOfCreation": [
+    "2018-08-03"
+  ],
+  "firstIndexDate": [
+    "2018-08-03"
+  ],
+  "dateOfRevision": [
+    "2019-01-30"
+  ],
+  "electronicPublicationDate": [
+    "2018-08-02"
+  ],
+  "firstPublicationDate": [
+    "2018-08-02"
+  ]
+}

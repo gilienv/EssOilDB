@@ -1,0 +1,475 @@
+{
+  "id": [
+    "25889031"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25889031"
+  ],
+  "pmcid": [
+    "PMC4347915"
+  ],
+  "doi": [
+    "10.1186/s13002-015-0008-4"
+  ],
+  "title": [
+    "Medicinal plant knowledge in Caribbean Basin: a comparative study of Afrocaribbean, Amerindian and Mestizo communities."
+  ],
+  "authorString": [
+    "Torres-Avilez W, Méndez-González M, Durán-García R, Boulogne I, Germosén-Robineau L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Torres-Avilez W"
+          ],
+          "firstName": [
+            "Wendy"
+          ],
+          "lastName": [
+            "Torres-Avilez"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Laboratory of Applied and Theoretical Ethnobiology (LEA), Federal Rural University of Pernambuco, Av. Dom Manoel de Medeiros s/n, Dois Irmãos, Recife, Pernambuco, CEP, 52171-900, Brazil. w_torres_5@hotmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Méndez-González M"
+          ],
+          "firstName": [
+            "Martha"
+          ],
+          "lastName": [
+            "Méndez-González"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Centro de Investigación Científica de Yucatán A.C. Unidad de Recursos Naturales, TRAMIL (Program of Applied Research to Popular Medicine in the Caribbean), Calle 43 No. 130, Colonia Chuburná de Hidalgo, Mérida, Yucatán, CP, 97200, México. mar@cicy.mx."
+          ]
+        },
+        {
+          "fullName": [
+            "Durán-García R"
+          ],
+          "firstName": [
+            "Rafael"
+          ],
+          "lastName": [
+            "Durán-García"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Centro de Investigación Científica de Yucatán A.C. Unidad de Recursos Naturales, TRAMIL (Program of Applied Research to Popular Medicine in the Caribbean), Calle 43 No. 130, Colonia Chuburná de Hidalgo, Mérida, Yucatán, CP, 97200, México. rduran@cicy.mx."
+          ]
+        },
+        {
+          "fullName": [
+            "Boulogne I"
+          ],
+          "firstName": [
+            "Isabelle"
+          ],
+          "lastName": [
+            "Boulogne"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6810-6504",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Université des Antilles et de la Guyane, UFR Sciences Exactes et Naturelles, Laboratoire de Biologie et de Physiologie végétales, TRAMIL, F-97157 Pointe-à-Pitre Cedex, Guadeloupe, France. isabelle.boulogne@univ-ag.fr."
+          ]
+        },
+        {
+          "fullName": [
+            "Germosén-Robineau L"
+          ],
+          "firstName": [
+            "Lionel"
+          ],
+          "lastName": [
+            "Germosén-Robineau"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Université des Antilles et de la Guyane, UFR Sciences Exactes et Naturelles, Laboratoire de Biologie et de Physiologie végétales, TRAMIL, F-97157 Pointe-à-Pitre Cedex, Guadeloupe, France. lionel.robineau@univ-ag.fr."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6810-6504",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2262614"
+      ],
+      "dateOfPublication": [
+        "2015 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of ethnobiology and ethnomedicine"
+          ],
+          "ISOAbbreviation": [
+            "J Ethnobiol Ethnomed"
+          ],
+          "medlineAbbreviation": [
+            "J Ethnobiol Ethnomed"
+          ],
+          "NLMid": [
+            "101245794"
+          ],
+          "ISSN": [
+            "1746-4269"
+          ],
+          "ESSN": [
+            "1746-4269"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "18"
+  ],
+  "abstractText": [
+    "The Caribbean Basin has complex biogeographical and cultural histories that have shaped its highly diverse botanical and cultural landscapes. As a result, the current ethnic composition of the Basin is a heterogeneous mixture including Amerindian, Afrocaribbean and a wide range of Mestizo populations. A comparison was done of the medicinal plant repertoires used by these groups to identify the proportion of native species they include and any differences between the groups.The TRAMIL program has involved application of ethnopharmacological surveys to gather data on the medicinal plants used for primary care in 55 locations the Caribbean Basin. Three Afrocaribbean, three Amerindian and three Mestizo communities were selected taking in account the Ethnic prevalence. Differences in native and exotic plant used by groups and between groups were done using contingency tables. Identification of differences in the numbers of native and exotic plants used within each group was done with a one sample Z -test for proportions. Similarity in medicinal species use was estimated using the Sørensen Similarity Index. Species use value (UV) was estimated and a principal components analysis (PCA) run to determine differences between groups.The 1,753 plant records generated from the surveys of the nine communities included in the analysis covered 389 species from 300 genera and 98 families. The studied groups used different numbers of native and exotic species: Afrocaribbean (99 natives, 49 exotics); Amerindian (201 natives, 46 exotics); and Mestizo (63 natives, 44 exotics). The proportion of natives to exotics was significantly different in between the Afrocaribbean and Amerindian communities, and between the Amerindian and Mestizo communities, but not between the Afrocaribbean and Mestizo communities. In the PCA, the groups were disparate in terms of the use value they assigned to the medicinal species; these were determined according to species with high use value and those used exclusively be a particular groupAlthough migration, cultural intermixing and a consequent hybridization of medicinal plant knowledge have occurred in the Caribbean Basin, the results highlight differences between the three studied groups in terms of the medicinal plant repertoire they employ for primary health care."
+  ],
+  "affiliation": [
+    "Laboratory of Applied and Theoretical Ethnobiology (LEA), Federal Rural University of Pernambuco, Av. Dom Manoel de Medeiros s/n, Dois Irmãos, Recife, Pernambuco, CEP, 52171-900, Brazil. w_torres_5@hotmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Comparative Study",
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Plants, Medicinal"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phytotherapy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Health Knowledge, Attitudes, Practice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "American Native Continental Ancestry Group"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ethnic Groups"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EH"
+                  ],
+                  "qualifierName": [
+                    "ethnology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Africa"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EH"
+                  ],
+                  "qualifierName": [
+                    "ethnology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Caribbean Region"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4347915?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4347915"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13002-015-0008-4"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-04-08"
+  ],
+  "dateOfCreation": [
+    "2015-04-19"
+  ],
+  "firstIndexDate": [
+    "2015-04-19"
+  ],
+  "dateOfRevision": [
+    "2015-04-20"
+  ],
+  "electronicPublicationDate": [
+    "2015-02-25"
+  ],
+  "firstPublicationDate": [
+    "2015-02-25"
+  ]
+}

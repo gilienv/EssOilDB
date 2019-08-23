@@ -1,0 +1,303 @@
+{
+  "id": [
+    "26401403"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26401403"
+  ],
+  "pmcid": [
+    "PMC4566784"
+  ],
+  "doi": [
+    "10.5455/jice.20150313021918"
+  ],
+  "title": [
+    "Medicinal plants with potential anti-arthritic activity."
+  ],
+  "authorString": [
+    "Choudhary M, Kumar V, Malhotra H, Singh S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Choudhary M"
+          ],
+          "firstName": [
+            "Manjusha"
+          ],
+          "lastName": [
+            "Choudhary"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Pharmacology, Institute of Pharmaceutical Sciences, Kurukshetra University, Kurukshetra, Haryana, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Kumar V"
+          ],
+          "firstName": [
+            "Vipin"
+          ],
+          "lastName": [
+            "Kumar"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Department of Pharmacy, School of Chemical Science and Pharmacy, Central University of Rajasthan, Ajmer, Rajasthan, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Malhotra H"
+          ],
+          "firstName": [
+            "Hitesh"
+          ],
+          "lastName": [
+            "Malhotra"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Pharmacology, Institute of Pharmaceutical Sciences, Kurukshetra University, Kurukshetra, Haryana, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Singh S"
+          ],
+          "firstName": [
+            "Surender"
+          ],
+          "lastName": [
+            "Singh"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Pharmacology, All India Institute of Medical Sciences, New Delhi, India."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2326449"
+      ],
+      "dateOfPublication": [
+        "2015 Apr-Jun"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of intercultural ethnopharmacology"
+          ],
+          "ISOAbbreviation": [
+            "J Intercult Ethnopharmacol"
+          ],
+          "medlineAbbreviation": [
+            "J Intercult Ethnopharmacol"
+          ],
+          "NLMid": [
+            "101653911"
+          ],
+          "ISSN": [
+            "2146-8397"
+          ],
+          "ESSN": [
+            "2146-8397"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "147-179"
+  ],
+  "abstractText": [
+    "ETHNO PHARMACOLOGICAL RELEVANCE:Traditional medicinal plants are practiced worldwide for treatment of arthritis especially in developing countries where resources are meager. This review presents the plants profiles inhabiting throughout the world regarding their traditional usage by various tribes/ethnic groups for treatment of arthritis. MATERIALS AND METHODS:Bibliographic investigation was carried out by analyzing classical text books and peer reviewed papers, consulting worldwide accepted scientific databases from the last six decades. Plants/their parts/extracts/polyherbal formulations, toxicity studies for arthritis have been included in the review article. The profiles presented also include information about the scientific name, family, dose, methodology along with mechanism of action and toxicity profile. Research status of 20 potential plant species has been discussed. Further, geographical distribution of research, plants distribution according to families has been given in graphical form. RESULTS:485 plant species belonging to 100 families, traditionally used in arthritis are used. Among 100 plant families, malvaceae constitute 16, leguminasae 7, fabaceae 13, euphorbiaceae 7, compositae 20, araceae 7, solanaceae 12, liliaceae 9, apocynaceae, lauraceae, and rubiaceae 10, and remaining in lesser proportion. It was observed in our study that majority of researches are carried mainly in developing countries like India, China, Korea and Nigeria. CONCLUSION:This review clearly indicates that list of medicinal plants presented in this review might be useful to researchers as well as practioners. This review can be useful for preliminary screening of potential anti-arthritis plants. Further toxicity profile given in the review can be useful for the researchers for finding the safe dose."
+  ],
+  "affiliation": [
+    "Department of Pharmacology, Institute of Pharmaceutical Sciences, Kurukshetra University, Kurukshetra, Haryana, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Arthritis",
+        "Plant",
+        "Traditional Uses",
+        "Polyherbal"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4566784?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4566784"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.5455/jice.20150313021918"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-09-24"
+  ],
+  "dateOfCreation": [
+    "2015-09-25"
+  ],
+  "firstIndexDate": [
+    "2015-09-25"
+  ],
+  "dateOfRevision": [
+    "2019-01-10"
+  ],
+  "electronicPublicationDate": [
+    "2015-03-14"
+  ],
+  "firstPublicationDate": [
+    "2015-03-14"
+  ]
+}

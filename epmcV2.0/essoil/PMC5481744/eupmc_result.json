@@ -1,0 +1,266 @@
+{
+  "id": [
+    "28664089"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28664089"
+  ],
+  "pmcid": [
+    "PMC5481744"
+  ],
+  "doi": [
+    "10.1016/j.imr.2014.04.002"
+  ],
+  "title": [
+    "Monitoring in vitro antibacterial efficacy of 26 Indian spices against multidrug resistant urinary tract infecting bacteria."
+  ],
+  "authorString": [
+    "Rath S, Padhy RN."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rath S"
+          ],
+          "firstName": [
+            "Sibanarayan"
+          ],
+          "lastName": [
+            "Rath"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Central Research Laboratory, Institute of Medical Sciences (IMS) & Sum Hospital, Siksha 'O' Anusandhan University, Bhubaneswar, Odisha, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Padhy RN"
+          ],
+          "firstName": [
+            "Rabindra N"
+          ],
+          "lastName": [
+            "Padhy"
+          ],
+          "initials": [
+            "RN"
+          ],
+          "affiliation": [
+            "Central Research Laboratory, Institute of Medical Sciences (IMS) & Sum Hospital, Siksha 'O' Anusandhan University, Bhubaneswar, Odisha, India."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2571970"
+      ],
+      "dateOfPublication": [
+        "2014 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Integrative medicine research"
+          ],
+          "ISOAbbreviation": [
+            "Integr Med Res"
+          ],
+          "medlineAbbreviation": [
+            "Integr Med Res"
+          ],
+          "NLMid": [
+            "101612707"
+          ],
+          "ISSN": [
+            "2213-4220"
+          ],
+          "ESSN": [
+            "2213-4239"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "133-141"
+  ],
+  "abstractText": [
+    "To screen methanolic extracts of 26 commonly used Indian spices against nine species of uropathogenic bacteria (Enterococcus faecalis, Staphylococcus aureus, Acinetobacter baumannii, Citrobacter freundii, Enterobacter aerogenes, Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, and Pseudomonas aeruginosa), isolated from clinical samples of a tertiary care hospital for antibacterial activity.Bacterial strains were subjected to antibiotic sensitivity testing by Kirby-Bauer's disc diffusion method. Monitoring antibacterial potentiality of spice extracts was done by the agar-well diffusion method with multidrug resistant (MDR) strains of nine uropathogens.The Gram-positive (GP) bacteria E. faecalis and S. aureus were resistant to 16 of the 21 antibiotics used. Among the Gram-negative (GN) bacteria, resistant patterns were A. baumannii and E. aerogenes to 12, C. freundii to 14, E. coli to 12, K. pneumoniae to 10, P. mirabilis to 11, and P. aeruginosa to 15 antibiotics of the 18 antibiotics used. The most effective 15 spices, having at least 25-29 mm as the size of the zone of inhibition, were Allium cepa, Brassica juncea, Cinnamomum tamala, Cinnamomum zeylanicum, Coriandrum sativum, Cuminum cyminum, Curcuma longa, Mentha spicata, Murraya koenigii, Nigella sativa, Papaver somniferum, Piper nigrum, S. aromaticum, Trachyspermum ammi, and Trigonella foenum for at least one of the GP or GN MDR bacterial strains used. Moderate control capacity was registered by nine spices, Curcuma amada, Foeniculum vulgare, Illicium verum, Mentha spicata, Papaver somniferum, Syzygium aromaticum, Trachyspermum ammi, Trigonella foenum, and Zingiber officinale. However, the best two spices for controlling all the pathogens used were C. zeylanicum and C. longa, with the highest value of 29 mm as the inhibition zone size.The most effective and unique 16 spice plants recorded for the in vitro control of MDR uropathogens could further be pursued for the development of complementary and supplementary medicine against MDR bacteria."
+  ],
+  "affiliation": [
+    "Central Research Laboratory, Institute of Medical Sciences (IMS) & Sum Hospital, Siksha 'O' Anusandhan University, Bhubaneswar, Odisha, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Multidrug resistance",
+        "Antibacterial activity",
+        "Uropathogenic Bacteria",
+        "Indian Spices"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5481744?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5481744"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.imr.2014.04.002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-06-30"
+  ],
+  "firstIndexDate": [
+    "2017-07-01"
+  ],
+  "dateOfRevision": [
+    "2017-07-14"
+  ],
+  "electronicPublicationDate": [
+    "2014-05-06"
+  ],
+  "firstPublicationDate": [
+    "2014-05-06"
+  ]
+}

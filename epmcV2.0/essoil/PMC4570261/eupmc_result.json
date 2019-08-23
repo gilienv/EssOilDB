@@ -1,0 +1,382 @@
+{
+  "id": [
+    "26369926"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26369926"
+  ],
+  "pmcid": [
+    "PMC4570261"
+  ],
+  "doi": [
+    "10.1186/s13002-015-0052-0"
+  ],
+  "title": [
+    "An ethnobotanical survey of medicinal plants in Trinidad."
+  ],
+  "authorString": [
+    "Clement YN, Baksh-Comeau YS, Seaforth CE."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Clement YN"
+          ],
+          "firstName": [
+            "Y N"
+          ],
+          "lastName": [
+            "Clement"
+          ],
+          "initials": [
+            "YN"
+          ],
+          "affiliation": [
+            "Department of Paraclinical Sciences, The University of the West Indies, St. Augustine, Trinidad and Tobago. Yuri.Clement@sta.uwi.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Baksh-Comeau YS"
+          ],
+          "firstName": [
+            "Y S"
+          ],
+          "lastName": [
+            "Baksh-Comeau"
+          ],
+          "initials": [
+            "YS"
+          ],
+          "affiliation": [
+            "Department of Life Sciences, The University of the West Indies, St. Augustine, Trinidad and Tobago. yasmin.baksh-comeau@sta.uwi.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Seaforth CE"
+          ],
+          "firstName": [
+            "C E"
+          ],
+          "lastName": [
+            "Seaforth"
+          ],
+          "initials": [
+            "CE"
+          ],
+          "affiliation": [
+            "Herbal Institute, The University of Trinidad and Tobago, St. Augustine, Trinidad and Tobago. ceseaforth@gmail.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2262614"
+      ],
+      "dateOfPublication": [
+        "2015 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of ethnobiology and ethnomedicine"
+          ],
+          "ISOAbbreviation": [
+            "J Ethnobiol Ethnomed"
+          ],
+          "medlineAbbreviation": [
+            "J Ethnobiol Ethnomed"
+          ],
+          "NLMid": [
+            "101245794"
+          ],
+          "ISSN": [
+            "1746-4269"
+          ],
+          "ESSN": [
+            "1746-4269"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "67"
+  ],
+  "abstractText": [
+    "An ethnobotanical survey was conducted on the Caribbean island of Trinidad to identify medicinal plants commonly used in traditional medicine to treat a variety of medical conditions.A pilot survey was conducted to identify the top ten most common ailments where medicinal plants were used. The results of the foregoing study guided a wider national survey conducted between October 2007 and July 2008. A total of 450 households from 50 rural communities were interviewed using the TRAMIL (Traditional Medicine in the Islands) questionnaire for data collection. Details of plants, part(s) used, and remedy formulations were elicited from informants and voucher specimens collected for identification at the National Herbarium of Trinidad and Tobago. The TRAMIL methodology set a limit of a plant with 20 % or more citations for any particular ailment as having significant or popular use.At the end of the survey 917 single plant remedies were identified. The majority of species were from the following families; Asteraceae, Lamiaceae, Leguminosae, Verbenaceae and Poaceae. Applying the TRAMIL 20 % citation of a plant for popular use as significant, Leonotis nepetifolia (for cough/common cold), Gomphrena globosa (for \"stoppage-of-water\"), Curcuma longa and Senna occidentalis (for \"afterbirth\"), Cymbopogon citratus and Neurolaena lobata (for fever), and Citrus limon (for kidney stones) qualified in our study. Those not reaching the TRAMIL 20 % significant (popular) use were Stachytarpheta jamaicensis (L.) Vahl, Senna alata (L.) Roxb.and Momordica charantia L. which were widely used as \"'cooling/cleanser'\" in our survey.Our survey showed significant retention of traditional knowledge of medicinal plants in rural Trinidad. More interestingly, a large remnant of medico-cultural concepts such as \"cooling/cleanser\", \"afterbirth\", \"stoppage-of-water\" and \"womb infection\" persist in the rural population. Although the scientific literature show that some of the cited plants possessed antimicrobial, anti-inflammatory and related pharmacological activities in laboratory studies, these results must be taken with caution until clinical trials are conducted to establish safety and efficacy."
+  ],
+  "affiliation": [
+    "Department of Paraclinical Sciences, The University of the West Indies, St. Augustine, Trinidad and Tobago. Yuri.Clement@sta.uwi.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plants, Medicinal"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Medicine, Traditional"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phytotherapy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pilot Projects"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Ethnobotany"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Rural Population"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Trinidad and Tobago"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Surveys and Questionnaires"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4570261?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4570261"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13002-015-0052-0"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-06-27"
+  ],
+  "dateOfCreation": [
+    "2015-09-15"
+  ],
+  "firstIndexDate": [
+    "2015-09-16"
+  ],
+  "dateOfRevision": [
+    "2015-09-17"
+  ],
+  "electronicPublicationDate": [
+    "2015-09-15"
+  ],
+  "firstPublicationDate": [
+    "2015-09-15"
+  ]
+}

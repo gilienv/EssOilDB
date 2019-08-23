@@ -1,0 +1,303 @@
+{
+  "id": [
+    "30925658"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30925658"
+  ],
+  "pmcid": [
+    "PMC6523731"
+  ],
+  "doi": [
+    "10.3390/biom9040120"
+  ],
+  "title": [
+    "Combining Autoclaving with Mild Alkaline Solution as a Pretreatment Technique to Enhance Glucose Recovery from the Invasive Weed Chloris barbata."
+  ],
+  "authorString": [
+    "Obeng AK, Premjet D, Premjet S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Obeng AK"
+          ],
+          "firstName": [
+            "Abraham Kusi"
+          ],
+          "lastName": [
+            "Obeng"
+          ],
+          "initials": [
+            "AK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0200-4374",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biology, Faculty of Science, Naresuan University, Muang, Phitsanulok 65000, Thailand. aobeng@uds.edu.gh."
+          ]
+        },
+        {
+          "fullName": [
+            "Premjet D"
+          ],
+          "firstName": [
+            "Duangporn"
+          ],
+          "lastName": [
+            "Premjet"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Centre of Excellence in Research for Agricultural Biotechnology, Faculty of Agriculture Natural Resources and Environment, Naresuan University, Muang, Phitsanulok 65000, Thailand. duangpornp@nu.ac.th."
+          ]
+        },
+        {
+          "fullName": [
+            "Premjet S"
+          ],
+          "firstName": [
+            "Siripong"
+          ],
+          "lastName": [
+            "Premjet"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Biology, Faculty of Science, Naresuan University, Muang, Phitsanulok 65000, Thailand. siripongp@nu.ac.th."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0200-4374",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2798738"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Biomolecules"
+          ],
+          "ISOAbbreviation": [
+            "Biomolecules"
+          ],
+          "medlineAbbreviation": [
+            "Biomolecules"
+          ],
+          "NLMid": [
+            "101596414"
+          ],
+          "ISSN": [
+            "2218-273X"
+          ],
+          "ESSN": [
+            "2218-273X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Developing an optimum pretreatment condition to enhance glucose recovery assessed the potential of Chloris barbata, which is a common invasive weed in Thailand, as a feedstock for bioethanol production. Chloris barbata was exposed to autoclave-assisted alkaline pretreatment by using different sodium hydroxide (NaOH) concentrations (1% to 4%) and heat intensities (110 °C to 130 °C) that were dissipated from autoclaving. The optimum condition for pretreatment was determined to be 2% NaOH at 110 °C for 60 min. At this condition, maximum hydrolysis efficiency (90.0%) and glucose recovery (30.7%), as compared to those of raw C. barbata (15.15% and 6.20%, respectively), were observed. Evaluation of glucose production from 1000 g of C. barbata based on material balance analysis revealed an estimated yield of 304 g after pretreatment at the optimum condition when compared to that of raw C. barbata (61 g), an increase of five-fold. Structural analysis by the scanning electron microscopy (SEM) and X-ray diffraction (XRD) revealed the disruption of the intact structure of C. barbata and an increase in the cellulose crystallinity index (CrI), respectively. The results from this study demonstrate the efficiency of using C. barbata as a potential feedstock for bioethanol production."
+  ],
+  "affiliation": [
+    "Department of Biology, Faculty of Science, Naresuan University, Muang, Phitsanulok 65000, Thailand. aobeng@uds.edu.gh."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Pretreatment",
+        "Autoclave",
+        "Sodium hydroxide",
+        "Glucose Recovery",
+        "Weed Biomass",
+        "Chloris Barbata"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6523731?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6523731"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/biom9040120"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-03-31"
+  ],
+  "firstIndexDate": [
+    "2019-03-30"
+  ],
+  "dateOfRevision": [
+    "2019-06-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-28"
+  ],
+  "firstPublicationDate": [
+    "2019-03-28"
+  ]
+}

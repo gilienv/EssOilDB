@@ -1,0 +1,443 @@
+{
+  "id": [
+    "27086008"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27086008"
+  ],
+  "pmcid": [
+    "PMC4935755"
+  ],
+  "doi": [
+    "10.1007/s11418-016-0992-2"
+  ],
+  "title": [
+    "Screening of promising chemotherapeutic candidates from plants extracts."
+  ],
+  "authorString": [
+    "Kinjo J, Nakano D, Fujioka T, Okabe H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kinjo J"
+          ],
+          "firstName": [
+            "Junei"
+          ],
+          "lastName": [
+            "Kinjo"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Faculty of Pharmaceutical Sciences, Fukuoka University, 8-19-1 Nanakuma, Jonan-ku, Fukuoka, 814-0180, Japan. kinjojun@fukuoka-u.ac.jp."
+          ]
+        },
+        {
+          "fullName": [
+            "Nakano D"
+          ],
+          "firstName": [
+            "Daisuke"
+          ],
+          "lastName": [
+            "Nakano"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Faculty of Pharmaceutical Sciences, Fukuoka University, 8-19-1 Nanakuma, Jonan-ku, Fukuoka, 814-0180, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Fujioka T"
+          ],
+          "firstName": [
+            "Toshihiro"
+          ],
+          "lastName": [
+            "Fujioka"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Faculty of Pharmaceutical Sciences, Fukuoka University, 8-19-1 Nanakuma, Jonan-ku, Fukuoka, 814-0180, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Okabe H"
+          ],
+          "firstName": [
+            "Hikaru"
+          ],
+          "lastName": [
+            "Okabe"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Faculty of Pharmaceutical Sciences, Fukuoka University, 8-19-1 Nanakuma, Jonan-ku, Fukuoka, 814-0180, Japan."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "70"
+      ],
+      "journalIssueId": [
+        "2427104"
+      ],
+      "dateOfPublication": [
+        "2016 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of natural medicines"
+          ],
+          "ISOAbbreviation": [
+            "J Nat Med"
+          ],
+          "medlineAbbreviation": [
+            "J Nat Med"
+          ],
+          "NLMid": [
+            "101518405"
+          ],
+          "ISSN": [
+            "1340-3443"
+          ],
+          "ESSN": [
+            "1861-0293"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "335-360"
+  ],
+  "abstractText": [
+    "Over the course of our studies investigating anti-proliferative properties of compounds originating from plants against human gastric adenocarcinoma (MK-1), human uterine carcinoma (HeLa), murine melanoma (B16F10), and two human T cell lymphotropic virus type 1 (HTLV-1)-infected T-cell lines (MT-1 and MT-2), we have screened 582 extracted samples obtained from a variety of parts from 370 plants. A few extracts showed anti-proliferative activity against all cell lines, but upon further investigation, toxicity toward selected cell lines was recognized. After activity-guided fractionation, isolation of the active principles was achieved. Structure-activity relationship studies identified the components and functionalities responsible for the specific selectivity against each cancer cell line. The effect of polyacetylenes against MK-1 cells was more potent than against HeLa and B16F10 cells. The compound having a 3,4-dihydroxyphenethyl group also showed an anti-proliferative effect against B16F10 cells. Some 6-methoxyflavone derivatives and 8-hydroxy furanocoumarins were good inhibitors of HeLa cell growth. The 17 compounds whose EC50 values were less than 1 nM did not show specific cellular selectivity. Because the cytotoxic effect of 24, 25-dihydrowithanolide D toward control cells was observed at a concentration about 100 times higher than those for the cancer cell lines, withanolide was identified as the most promising chemotherapeutic candidate in our experiments."
+  ],
+  "affiliation": [
+    "Faculty of Pharmaceutical Sciences, Fukuoka University, 8-19-1 Nanakuma, Jonan-ku, Fukuoka, 814-0180, Japan. kinjojun@fukuoka-u.ac.jp."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hela Cells"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Lignans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Extracts"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antineoplastic Agents, Phytogenic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Proliferation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Structure-Activity Relationship"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Plant extracts",
+        "Cancer Cell Lines",
+        "Active Principles",
+        "Structure–activity Relationship",
+        "Anti-proliferative Activity",
+        "Activity-guided Fractionation"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Plant Extracts"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Antineoplastic Agents, Phytogenic"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Lignans"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4935755?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4935755"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s11418-016-0992-2"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-03-21"
+  ],
+  "dateOfCreation": [
+    "2016-07-07"
+  ],
+  "firstIndexDate": [
+    "2016-04-19"
+  ],
+  "dateOfRevision": [
+    "2017-08-17"
+  ],
+  "electronicPublicationDate": [
+    "2016-04-16"
+  ],
+  "firstPublicationDate": [
+    "2016-04-16"
+  ]
+}

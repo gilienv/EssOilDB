@@ -1,0 +1,650 @@
+{
+  "id": [
+    "28300756"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28300756"
+  ],
+  "pmcid": [
+    "PMC5372655"
+  ],
+  "doi": [
+    "10.3390/ijms18030643"
+  ],
+  "title": [
+    "Oleanolic Acid Alters Multiple Cell Signaling Pathways: Implication in Cancer Prevention and Therapy."
+  ],
+  "authorString": [
+    "Žiberna L, Šamec D, Mocan A, Nabavi SF, Bishayee A, Farooqi AA, Sureda A, Nabavi SM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Žiberna L"
+          ],
+          "firstName": [
+            "Lovro"
+          ],
+          "lastName": [
+            "Žiberna"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Institute of Pharmacology and Experimental Toxicology, Faculty of Medicine, University of Ljubljana, SI-1000 Ljubljana, Slovenia. lovro.ziberna@mf.uni-lj.si."
+          ]
+        },
+        {
+          "fullName": [
+            "Šamec D"
+          ],
+          "firstName": [
+            "Dunja"
+          ],
+          "lastName": [
+            "Šamec"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Molecular Biology, Institute Ruđer Bošković, Bijenička c. 54, 10000 Zagreb, Croatia. dsamec@irb.hr."
+          ]
+        },
+        {
+          "fullName": [
+            "Mocan A"
+          ],
+          "firstName": [
+            "Andrei"
+          ],
+          "lastName": [
+            "Mocan"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5848-8457",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "ICHAT and Institute for Life Sciences, University of Agricultural Sciences and Veterinary Medicine, Calea Mănăştur 3-5, 400372 Cluj-Napoca, Romania. mocan.andrei@umfcluj.ro."
+          ]
+        },
+        {
+          "fullName": [
+            "Nabavi SF"
+          ],
+          "firstName": [
+            "Seyed Fazel"
+          ],
+          "lastName": [
+            "Nabavi"
+          ],
+          "initials": [
+            "SF"
+          ],
+          "affiliation": [
+            "Applied Biotechnology Research Center, Baqiyatallah University of Medical Sciences, Tehran 14359-16471, Iran. Nabavisf@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Bishayee A"
+          ],
+          "firstName": [
+            "Anupam"
+          ],
+          "lastName": [
+            "Bishayee"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Pharmaceutical Sciences, College of Pharmacy, Larkin Health Sciences Institute, 18301 N. Miami Avenue, Miami, FL 33169, USA. abishayee@ularkin.org."
+          ]
+        },
+        {
+          "fullName": [
+            "Farooqi AA"
+          ],
+          "firstName": [
+            "Ammad Ahmad"
+          ],
+          "lastName": [
+            "Farooqi"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "affiliation": [
+            "Laboratory for Translational Oncology and Personalized Medicine, Rashid Latif Medical College, Lahore 54000, Pakistan. ammadfarooqi@rlmclahore.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Sureda A"
+          ],
+          "firstName": [
+            "Antoni"
+          ],
+          "lastName": [
+            "Sureda"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Research Group on Community Nutrition and Oxidative Stress and CIBEROBN (Physiopathology of Obesity and Nutrition), University of Balearic Islands, E-07122 Palma de Mallorca, Balearic Islands, Spain. tosugo@hotmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Nabavi SM"
+          ],
+          "firstName": [
+            "Seyed Mohammad"
+          ],
+          "lastName": [
+            "Nabavi"
+          ],
+          "initials": [
+            "SM"
+          ],
+          "affiliation": [
+            "Applied Biotechnology Research Center, Baqiyatallah University of Medical Sciences, Tehran 14359-16471, Iran. Nabavi208@gmail.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8656-6838",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5848-8457",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2529765"
+      ],
+      "dateOfPublication": [
+        "2017 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of molecular sciences"
+          ],
+          "ISOAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "medlineAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "NLMid": [
+            "101092791"
+          ],
+          "ISSN": [
+            "1422-0067"
+          ],
+          "ESSN": [
+            "1422-0067"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "abstractText": [
+    "Nowadays, much attention has been paid to diet and dietary supplements as a cost-effective therapeutic strategy for prevention and treatment of a myriad of chronic and degenerative diseases. Rapidly accumulating scientific evidence achieved through high-throughput technologies has greatly expanded the understanding about the multifaceted nature of cancer. Increasingly, it is being realized that deregulation of spatio-temporally controlled intracellular signaling cascades plays a contributory role in the onset and progression of cancer. Therefore, targeting regulators of oncogenic signaling cascades is essential to prevent and treat cancer. A plethora of preclinical and epidemiological evidences showed promising role of phytochemicals against several types of cancer. Oleanolic acid, a common pentacyclic triterpenoid, is mainly found in olive oil, as well as several plant species. It is a potent inhibitor of cellular inflammatory process and a well-known inducer of phase 2 xenobiotic biotransformation enzymes. Main molecular mechanisms underlying anticancer effects of oleanolic acid are mediated by caspases, 5' adenosine monophosphate-activated protein kinase, extracellular signal-regulated kinase 1/2, matrix metalloproteinases, pro-apoptotic Bax and bid, phosphatidylinositide 3-kinase/Akt1/mechanistic target of rapamycin, reactive oxygen species/apoptosis signal-regulating kinase 1/p38 mitogen-activated protein kinase, nuclear factor-κB, cluster of differentiation 1, CKD4, s6k, signal transducer and activator of transcription 3, as well as aforementioned signaling pathways . In this work, we critically review the scientific literature on the molecular targets of oleanolic acid implicated in the prevention and treatment of several types of cancer. We also discuss chemical aspects, natural sources, bioavailability, and safety of this bioactive phytochemical."
+  ],
+  "affiliation": [
+    "Institute of Pharmacology and Experimental Toxicology, Faculty of Medicine, University of Ljubljana, SI-1000 Ljubljana, Slovenia. lovro.ziberna@mf.uni-lj.si."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oleanolic Acid"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antineoplastic Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Signal Transduction"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Healthy Diet"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Oleanolic acid",
+        "Olive",
+        "Healthy diet",
+        "signaling pathways",
+        "Anticancer Effect"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Antineoplastic Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Oleanolic Acid"
+          ],
+          "registryNumber": [
+            "6SMK8R7TGJ"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5372655?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5372655"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijms18030643"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "7"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-04-20"
+  ],
+  "dateOfCreation": [
+    "2017-03-16"
+  ],
+  "firstIndexDate": [
+    "2017-03-17"
+  ],
+  "dateOfRevision": [
+    "2017-04-20"
+  ],
+  "electronicPublicationDate": [
+    "2017-03-16"
+  ],
+  "firstPublicationDate": [
+    "2017-03-16"
+  ]
+}

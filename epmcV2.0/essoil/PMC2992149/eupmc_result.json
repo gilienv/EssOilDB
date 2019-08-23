@@ -1,0 +1,317 @@
+{
+  "id": [
+    "21120038"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "21120038"
+  ],
+  "pmcid": [
+    "PMC2992149"
+  ],
+  "doi": [
+    "10.4103/0973-1296.71792"
+  ],
+  "title": [
+    "Biological screening of araripe basin medicinal plants using Artemia salina Leach and pathogenic bacteria."
+  ],
+  "authorString": [
+    "da Costa JG, Campos AR, Brito SA, Pereira CK, Souza EO, Rodrigues FF."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "da Costa JG"
+          ],
+          "firstName": [
+            "José Galberto M"
+          ],
+          "lastName": [
+            "da Costa"
+          ],
+          "initials": [
+            "JG"
+          ]
+        },
+        {
+          "fullName": [
+            "Campos AR"
+          ],
+          "firstName": [
+            "Adriana R"
+          ],
+          "lastName": [
+            "Campos"
+          ],
+          "initials": [
+            "AR"
+          ]
+        },
+        {
+          "fullName": [
+            "Brito SA"
+          ],
+          "firstName": [
+            "Samara A"
+          ],
+          "lastName": [
+            "Brito"
+          ],
+          "initials": [
+            "SA"
+          ]
+        },
+        {
+          "fullName": [
+            "Pereira CK"
+          ],
+          "firstName": [
+            "Carla Karine B"
+          ],
+          "lastName": [
+            "Pereira"
+          ],
+          "initials": [
+            "CK"
+          ]
+        },
+        {
+          "fullName": [
+            "Souza EO"
+          ],
+          "firstName": [
+            "Erlânio O"
+          ],
+          "lastName": [
+            "Souza"
+          ],
+          "initials": [
+            "EO"
+          ]
+        },
+        {
+          "fullName": [
+            "Rodrigues FF"
+          ],
+          "firstName": [
+            "Fabíola Fernandes G"
+          ],
+          "lastName": [
+            "Rodrigues"
+          ],
+          "initials": [
+            "FF"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "24"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "1786992"
+      ],
+      "dateOfPublication": [
+        "2010 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2010"
+      ],
+      "printPublicationDate": [
+        "2010-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Pharmacognosy magazine"
+          ],
+          "ISOAbbreviation": [
+            "Pharmacogn Mag"
+          ],
+          "medlineAbbreviation": [
+            "Pharmacogn Mag"
+          ],
+          "NLMid": [
+            "101300403"
+          ],
+          "ISSN": [
+            "0973-1296"
+          ],
+          "ESSN": [
+            "0976-4062"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2010"
+  ],
+  "pageInfo": [
+    "331-334"
+  ],
+  "abstractText": [
+    "BACKGROUND: Many medicinal plant species from the Araripe Basin are widely known and used in folk medicine and for commercial manufacturing of phytotherapeutic products. Few ethnobotanical and pharmacological studies have been undertaken in this region, however, in spite of the great cultural and biological diversity found there. MATERIALS AND METHODS: Extracts of 11 plant species collected from Ceará state, Brazil, were subjected to the brine shrimp lethality test in order to detect potential sources of novel cytotoxic, antitumor compounds. The larvicidal activity, based on the percentage of larval mortality, was evaluated after 24 h exposure to the treatments. RESULTS: All species tested showed good larvicidal activity as compared to a reference compound and literature data. The extract from Vanillosmopsis arborea was the most active with an LC(50) of 3.9 μg/ml. Best results were shown by Lantana montevidensis against Pseudomonas aeruginosa [minimum inhibitory concentration (MIC) 8μg/ml] and Escherichia coli (MIC 32 μg/ml), Zanthoxylum rhoifolium against E. coli (MIC, 256 μg/ml) and Staphylococcus aureus (MIC 64 μg/ml) and Croton zenhtneri against S. aureus (MIC 64 μg/ml). CONCLUSION: Chemical tests indicated that a wide variety of natural product classes was present in those extracts that showed significant activities in the bioassays."
+  ],
+  "affiliation": [
+    "Programa de Pós-Graduação em Bioprospecção Molecular, Departamento de Química Biológica, Laboratório de Pesquisa de Produtos Naturais, Universidade Regional do Cariri, Rua Cel. Antônio Luiz 1161, Pimenta, 63105-000 Crato-CE, Brasil."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Pathogenic bacteria",
+        "Artemia salina",
+        "ethanol extracts",
+        "Araripe Basin",
+        "Larvicidal Activities"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2992149"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21120038/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/0973-1296.71792"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "11"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2011-07-14"
+  ],
+  "dateOfCreation": [
+    "2010-12-01"
+  ],
+  "firstIndexDate": [
+    "2010-12-07"
+  ],
+  "dateOfRevision": [
+    "2013-05-29"
+  ],
+  "firstPublicationDate": [
+    "2010-10-01"
+  ]
+}

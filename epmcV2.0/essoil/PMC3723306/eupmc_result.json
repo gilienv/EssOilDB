@@ -1,0 +1,388 @@
+{
+  "id": [
+    "23935675"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23935675"
+  ],
+  "pmcid": [
+    "PMC3723306"
+  ],
+  "doi": [
+    "10.1155/2013/727042"
+  ],
+  "title": [
+    "In Vitro Antileishmanial Activity of Essential Oil of Vanillosmopsis arborea (Asteraceae) Baker."
+  ],
+  "authorString": [
+    "Colares AV, Almeida-Souza F, Taniwaki NN, Souza Cda S, da Costa JG, Calabrese Kda S, Abreu-Silva AL."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Colares AV"
+          ],
+          "firstName": [
+            "Aracélio Viana"
+          ],
+          "lastName": [
+            "Colares"
+          ],
+          "initials": [
+            "AV"
+          ]
+        },
+        {
+          "fullName": [
+            "Almeida-Souza F"
+          ],
+          "firstName": [
+            "Fernando"
+          ],
+          "lastName": [
+            "Almeida-Souza"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0047-6159",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Taniwaki NN"
+          ],
+          "firstName": [
+            "Noemi Nosomi"
+          ],
+          "lastName": [
+            "Taniwaki"
+          ],
+          "initials": [
+            "NN"
+          ]
+        },
+        {
+          "fullName": [
+            "Souza Cda S"
+          ],
+          "firstName": [
+            "Celeste da Silva Freitas"
+          ],
+          "lastName": [
+            "Souza"
+          ],
+          "initials": [
+            "Cda S"
+          ]
+        },
+        {
+          "fullName": [
+            "da Costa JG"
+          ],
+          "firstName": [
+            "José Galberto Martins"
+          ],
+          "lastName": [
+            "da Costa"
+          ],
+          "initials": [
+            "JG"
+          ]
+        },
+        {
+          "fullName": [
+            "Calabrese Kda S"
+          ],
+          "firstName": [
+            "Kátia da Silva"
+          ],
+          "lastName": [
+            "Calabrese"
+          ],
+          "initials": [
+            "Kda S"
+          ]
+        },
+        {
+          "fullName": [
+            "Abreu-Silva AL"
+          ],
+          "firstName": [
+            "Ana Lúcia"
+          ],
+          "lastName": [
+            "Abreu-Silva"
+          ],
+          "initials": [
+            "AL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2167-3725",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2167-3725",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0047-6159",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2013"
+      ],
+      "journalIssueId": [
+        "2004961"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Evidence-based Complementary and Alternative Medicine : eCAM"
+          ],
+          "ISOAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "medlineAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "NLMid": [
+            "101215021"
+          ],
+          "ISSN": [
+            "1741-427X"
+          ],
+          "ESSN": [
+            "1741-4288"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "727042"
+  ],
+  "abstractText": [
+    "The search for new immunopharmacological chemical agents to treat various diseases caused by bacteria, fungi, and protozoa, such as leishmaniasis, for example, has led to the exploration of potential products from plant species and their main active ingredients. Antimonial drugs are the current treatment for leishmaniasis. These drugs cause major side effects and frequent discontinuation of treatment. In this study, we evaluated the in vitro leishmanicidal activity of essential oil of Vanillosmopsis arborea (VAEO) and its major compound α -bisabolol against Leishmania amazonensis. The essential oil and α -bisabolol showed activity against promastigotes (IC50 7.35 and 4.95  μ g/mL resp.) and intracellular amastigotes (IC50 12.58 and 10.70  μ g/mL, resp.). Neither product showed any cytotoxicity on treated macrophages. The ultrastructural analysis of promastigotes incubated with VAEO or α -bisabolol at 30  μ g/mL, showed morphological changes with the accumulation of vesicles electrodense lipid inclusions. The results give evidence that both VAEO and α -bisabolol have potential as new therapeutic agents against leishmaniasis."
+  ],
+  "affiliation": [
+    "Universidade Federal do Maranhão (UFMA), 65080-805 São Luís, MA, Brazil ; Rede Nordeste de Biotecnologia (RENORBIO), 65080-805 São Luís, MA, Brazil ; Faculdade Leão Sampaio (FALS), 63180-000 Juazeiro do Norte, CE, Brazil ; Laboratório de Imunomodulação e Protozoologia, Instituto Oswaldo Cruz (FIOCRUZ), 21040-900 Rio de Janeiro, RJ, Brazil."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3723306?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3723306"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23935675/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23935675/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2013/727042"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "8"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-08-12"
+  ],
+  "dateOfCreation": [
+    "2013-08-12"
+  ],
+  "firstIndexDate": [
+    "2013-08-13"
+  ],
+  "dateOfRevision": [
+    "2013-08-14"
+  ],
+  "electronicPublicationDate": [
+    "2013-07-09"
+  ],
+  "firstPublicationDate": [
+    "2013-07-09"
+  ]
+}

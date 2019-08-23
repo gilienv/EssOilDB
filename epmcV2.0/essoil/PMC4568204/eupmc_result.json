@@ -1,0 +1,266 @@
+{
+  "id": [
+    "26209687"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26209687"
+  ],
+  "pmcid": [
+    "PMC4568204"
+  ],
+  "doi": [
+    "10.1093/aobpla/plv086"
+  ],
+  "title": [
+    "Gradients of metabolite accumulation and redifferentiation of nutritive cells associated with vascular tissues in galls induced by sucking insects."
+  ],
+  "authorString": [
+    "Carneiro RG, Isaias RM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Carneiro RG"
+          ],
+          "firstName": [
+            "Renê Gonçalves da Silva"
+          ],
+          "lastName": [
+            "Carneiro"
+          ],
+          "initials": [
+            "RG"
+          ],
+          "affiliation": [
+            "Departamento de Botânica, Instituto de Ciências Biológicas, Universidade Federal de Minas Gerais, Av. Antônio Carlos, 6627, Belo Horizonte, Minas Gerais, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Isaias RM"
+          ],
+          "firstName": [
+            "Rosy Mary Dos Santos"
+          ],
+          "lastName": [
+            "Isaias"
+          ],
+          "initials": [
+            "RM"
+          ],
+          "affiliation": [
+            "Departamento de Botânica, Instituto de Ciências Biológicas, Universidade Federal de Minas Gerais, Av. Antônio Carlos, 6627, Belo Horizonte, Minas Gerais, Brazil rosy@icb.ufmg.br rosy.isaias@gmail.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2512599"
+      ],
+      "dateOfPublication": [
+        "2015 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "AoB PLANTS"
+          ],
+          "ISOAbbreviation": [
+            "AoB Plants"
+          ],
+          "medlineAbbreviation": [
+            "AoB Plants"
+          ],
+          "NLMid": [
+            "101539425"
+          ],
+          "ISSN": [
+            "2041-2851"
+          ],
+          "ESSN": [
+            "2041-2851"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "abstractText": [
+    "Plant cells respond to abiotic and biotic stimuli, which generate adaptive phenotypes in plant organs. In the case of plant galls, cell phenotypes are adaptive for the gall inducer and assume characteristics mainly linked to its protection and nutrition. Herein, the cytological development and histochemical profile of Nothotrioza cattleiani galls, a sucking insect, on the leaves of Psidium cattleianum are compared with those of other galls, especially N. myrtoidis galls, searching for conserved and divergent alterations in cell fates and cycles. Leaf cell fates are completely changed within galls, except for epidermal cells, but the comparison between Nothotrioza spp. galls shows conserved fates. Nevertheless, cytological development of N. cattleiani galls is different from the standby-redifferentiation of N. myrtoidis galls. Starch and lignins, and reducing sugars form centrifugal and centripetal gradients of accumulation, respectively. Proteins, total phenolics, terpenoids, proanthocyanidins and reactive oxygen species are detected in bidirectional gradients, i.e. weak or undetectable reaction in the median cortical cells that is gradually more intense in the cell layers towards the inner and outer surfaces of the gall. True nutritive cells associated with vascular tissues, together with the bidirectional gradients of metabolite accumulation, are herein reported for the first time in insect galls. The globoid galls of N. cattleiani, though macro-morphologically similar to the galls of N. myrtoidis, are distinct and unique among insect galls, as far as the cellular, subcellular and histochemical traits are concerned. Thus, the traits of the galls on P. cattleianum studied herein represent the extended phenotypes of their inducers."
+  ],
+  "affiliation": [
+    "Departamento de Botânica, Instituto de Ciências Biológicas, Universidade Federal de Minas Gerais, Av. Antônio Carlos, 6627, Belo Horizonte, Minas Gerais, Brazil."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Development",
+        "Cytology",
+        "Gall",
+        "Psidium Cattleianum",
+        "Carbohydrate-related Enzyme Activity",
+        "Metabolic Gradients",
+        "Primary And Secondary Metabolites"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4568204?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4568204"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/aobpla/plv086"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-09-15"
+  ],
+  "dateOfCreation": [
+    "2015-07-26"
+  ],
+  "firstIndexDate": [
+    "2015-07-26"
+  ],
+  "dateOfRevision": [
+    "2019-02-05"
+  ],
+  "electronicPublicationDate": [
+    "2015-07-24"
+  ],
+  "firstPublicationDate": [
+    "2015-07-24"
+  ]
+}

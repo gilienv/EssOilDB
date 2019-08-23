@@ -1,0 +1,324 @@
+{
+  "id": [
+    "31275693"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31275693"
+  ],
+  "pmcid": [
+    "PMC6558606"
+  ],
+  "doi": [
+    "10.1155/2019/9737302"
+  ],
+  "title": [
+    "Traditional Uses of Medicinal Plants in Polonnaruwa District in North Central Province of Sri Lanka."
+  ],
+  "authorString": [
+    "Napagoda MT, Sundarapperuma T, Fonseka D, Amarasiri S, Gunaratna P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Napagoda MT"
+          ],
+          "firstName": [
+            "Mayuri Tharanga"
+          ],
+          "lastName": [
+            "Napagoda"
+          ],
+          "initials": [
+            "MT"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4617-990X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biochemistry, Faculty of Medicine, University of Ruhuna, Galle 80000, Sri Lanka."
+          ]
+        },
+        {
+          "fullName": [
+            "Sundarapperuma T"
+          ],
+          "firstName": [
+            "Thamudi"
+          ],
+          "lastName": [
+            "Sundarapperuma"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Faculty of Allied Health Sciences, University of Ruhuna, Galle 80000, Sri Lanka."
+          ]
+        },
+        {
+          "fullName": [
+            "Fonseka D"
+          ],
+          "firstName": [
+            "Diroshi"
+          ],
+          "lastName": [
+            "Fonseka"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Faculty of Allied Health Sciences, University of Ruhuna, Galle 80000, Sri Lanka."
+          ]
+        },
+        {
+          "fullName": [
+            "Amarasiri S"
+          ],
+          "firstName": [
+            "Sachinthi"
+          ],
+          "lastName": [
+            "Amarasiri"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Faculty of Allied Health Sciences, University of Ruhuna, Galle 80000, Sri Lanka."
+          ]
+        },
+        {
+          "fullName": [
+            "Gunaratna P"
+          ],
+          "firstName": [
+            "Prabath"
+          ],
+          "lastName": [
+            "Gunaratna"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Faculty of Allied Health Sciences, University of Ruhuna, Galle 80000, Sri Lanka."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4617-990X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2019"
+      ],
+      "journalIssueId": [
+        "2779326"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientifica"
+          ],
+          "ISOAbbreviation": [
+            "Scientifica (Cairo)"
+          ],
+          "medlineAbbreviation": [
+            "Scientifica (Cairo)"
+          ],
+          "NLMid": [
+            "101589932"
+          ],
+          "ISSN": [
+            "2090-908X"
+          ],
+          "ESSN": [
+            "2090-908X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "9737302"
+  ],
+  "abstractText": [
+    "Sri Lanka harbors over 3000 plant species, and most of these plants have been of immense importance in the traditional systems of medicine in the country. Although there is a rich reserve of indigenous knowledge on medicinal plants, in-depth studies have not been pursued yet to compile the ethnoflora with traditional medicinal applications for the scientific community. Thus, as a continuation of our ethnobotanical inventory work in different regions in the country, the present study was carried out in one of the administrative districts in the North Central area of Sri Lanka known as Polonnaruwa district. The information on the significance of medicinal plants as curative and preventive agents of diseases was collected through semistructured and open-ended interviews from 284 volunteers who were randomly recruited for the study. Ethnobotanical data were analyzed using relative frequency of citation (RFC), family importance value (FIV), and use value (UV). Out of the total participants, 53.7% claimed the use of herbal remedies. A total of 64 medicinal plants belonging to 42 plant families were recorded, out of which Coriandrum sativum L. (RFC = 0.163) was the most cited species. Out of the 42 plant families recorded, the FIV was highest in Zingiberaceae. Coscinium fenestratum (Goetgh.) Colebr. was found as the plant with the highest use value. Furthermore, the majority of the nonusers of the herbal remedies were willing to adopt herbal products upon the scientific validation of their therapeutic potential. This study revealed that the indigenous herbal remedies are still popular among the local communities in the study area."
+  ],
+  "affiliation": [
+    "Department of Biochemistry, Faculty of Medicine, University of Ruhuna, Galle 80000, Sri Lanka."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6558606?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6558606"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2019/9737302"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-06"
+  ],
+  "firstIndexDate": [
+    "2019-07-06"
+  ],
+  "dateOfRevision": [
+    "2019-07-07"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-28"
+  ],
+  "firstPublicationDate": [
+    "2019-05-28"
+  ]
+}

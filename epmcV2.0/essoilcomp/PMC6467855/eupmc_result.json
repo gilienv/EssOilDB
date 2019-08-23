@@ -1,0 +1,355 @@
+{
+  "id": [
+    "31015975"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31015975"
+  ],
+  "pmcid": [
+    "PMC6467855"
+  ],
+  "doi": [
+    "10.1002/ece3.5016"
+  ],
+  "title": [
+    "Host plants of the non-swarming edible bush cricket Ruspolia differens."
+  ],
+  "authorString": [
+    "Opoke R, Nyeko P, Malinga GM, Rutaro K, Roininen H, Valtonen A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Opoke R"
+          ],
+          "firstName": [
+            "Robert"
+          ],
+          "lastName": [
+            "Opoke"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Biology Gulu University Gulu Uganda."
+          ]
+        },
+        {
+          "fullName": [
+            "Nyeko P"
+          ],
+          "firstName": [
+            "Philip"
+          ],
+          "lastName": [
+            "Nyeko"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Forestry, Biodiversity and Tourism Makerere University Kampala Uganda."
+          ]
+        },
+        {
+          "fullName": [
+            "Malinga GM"
+          ],
+          "firstName": [
+            "Geoffrey M"
+          ],
+          "lastName": [
+            "Malinga"
+          ],
+          "initials": [
+            "GM"
+          ],
+          "affiliation": [
+            "Department of Biology Gulu University Gulu Uganda."
+          ]
+        },
+        {
+          "fullName": [
+            "Rutaro K"
+          ],
+          "firstName": [
+            "Karlmax"
+          ],
+          "lastName": [
+            "Rutaro"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Environmental and Biological Sciences University of Eastern Finland Joensuu Finland."
+          ]
+        },
+        {
+          "fullName": [
+            "Roininen H"
+          ],
+          "firstName": [
+            "Heikki"
+          ],
+          "lastName": [
+            "Roininen"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Environmental and Biological Sciences University of Eastern Finland Joensuu Finland."
+          ]
+        },
+        {
+          "fullName": [
+            "Valtonen A"
+          ],
+          "firstName": [
+            "Anu"
+          ],
+          "lastName": [
+            "Valtonen"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1532-1563",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Environmental and Biological Sciences University of Eastern Finland Joensuu Finland."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1532-1563",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2808858"
+      ],
+      "dateOfPublication": [
+        "2019 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Ecology and evolution"
+          ],
+          "ISOAbbreviation": [
+            "Ecol Evol"
+          ],
+          "medlineAbbreviation": [
+            "Ecol Evol"
+          ],
+          "NLMid": [
+            "101566408"
+          ],
+          "ISSN": [
+            "2045-7758"
+          ],
+          "ESSN": [
+            "2045-7758"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "3899-3908"
+  ],
+  "abstractText": [
+    "The edible Ruspolia differens (Orthoptera: Tettigoniidae) is a widely-consumed insect in East Africa but surprisingly little is known of its host plant use in the field. We studied host plants used by non-swarming R. differens for 15 months, in central Uganda. In particular, we assessed the use of host plant species with respect to host cover in the field and host parts used by R. differens, also recording their sex, developmental stages, and colour morph. Ruspolia differens were found on 19 grass and two sedge species and they were observed predominantly (99% of 20,915 observations) on seven grasses (namely, Panicum maximum, Brachiaria ruziziensis, Chloris gayana, Hyparrhenia rufa, Cynodon dactylon, Sporobolus pyramidalis, and Pennisetum purpureum). Ruspolia differens was most frequently observed on the most common grass of each study site but P. maximum, and S. pyramidalis were used more frequently than expected from their cover in the field. Furthermore, R. differens were observed predominantly on inflorescences (97% of feeding observations) and much less frequently on the leaves (3.0%), stems (0.1%), and inflorescence stalks (0.1%) of grasses and sedges. Host use was not independent of sex, developmental stage, or colour morph. Panicum maximum was the preferred host of the youngest nymphs of R. differens. Overall, our findings indicate that a continuous supply of diverse grass resources with inflorescences is necessary for the management and conservation of wild populations of R. differens."
+  ],
+  "affiliation": [
+    "Department of Biology Gulu University Gulu Uganda."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Edible insect",
+        "Feeding ecology",
+        "Uganda",
+        "Tropical Grasslands",
+        "Nsenene"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6467855?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6467855"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/ece3.5016"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-04-25"
+  ],
+  "firstIndexDate": [
+    "2019-04-25"
+  ],
+  "dateOfRevision": [
+    "2019-04-26"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-28"
+  ],
+  "firstPublicationDate": [
+    "2019-02-28"
+  ]
+}

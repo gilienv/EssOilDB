@@ -1,0 +1,299 @@
+{
+  "id": [
+    "29349043"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29349043"
+  ],
+  "pmcid": [
+    "PMC5767572"
+  ],
+  "doi": [
+    "10.1016/j.btre.2017.11.005"
+  ],
+  "title": [
+    "Vermicomposting and anaerobic digestion - viable alternative options for terrestrial weed management - A review."
+  ],
+  "authorString": [
+    "Saha B, Devi C, Khwairakpam M, Kalamdhad AS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Saha B"
+          ],
+          "firstName": [
+            "Biswanath"
+          ],
+          "lastName": [
+            "Saha"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Centre for the Rural Technology, Indian Institute of Technology, Guwahati 781039, Assam, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Devi C"
+          ],
+          "firstName": [
+            "Chaichi"
+          ],
+          "lastName": [
+            "Devi"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Civil Engineering, National Institute of Technology, Meghalaya 793003, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Khwairakpam M"
+          ],
+          "firstName": [
+            "Meena"
+          ],
+          "lastName": [
+            "Khwairakpam"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Centre for the Rural Technology, Indian institute of Technology, Guwahati 789039, Assam, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Kalamdhad AS"
+          ],
+          "firstName": [
+            "Ajay S"
+          ],
+          "lastName": [
+            "Kalamdhad"
+          ],
+          "initials": [
+            "AS"
+          ],
+          "affiliation": [
+            "Department of Civil Engineering, Indian Institute of Technology, Guwahati 789039, Assam, India."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "17"
+      ],
+      "journalIssueId": [
+        "2629046"
+      ],
+      "dateOfPublication": [
+        "2018 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Biotechnology reports (Amsterdam, Netherlands)"
+          ],
+          "ISOAbbreviation": [
+            "Biotechnol Rep (Amst)"
+          ],
+          "medlineAbbreviation": [
+            "Biotechnol Rep (Amst)"
+          ],
+          "NLMid": [
+            "101637426"
+          ],
+          "ISSN": [
+            "2215-017X"
+          ],
+          "ESSN": [
+            "2215-017X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "70-76"
+  ],
+  "abstractText": [
+    "The management of terrestrial weed is of great concern for the scientific community as these weeds cause adverse effect in different ecosystems like forest, agriculture and urban. The widespread of these weeds by their adaptive capability and morphological advancement is difficult to control. Parthenium hysterophorous, Lantana camara, Saccharum spontaneum, Ageratum conyzoides are the weeds that spread all over the world. There are various management practices employed for the control of this weeds. But all of these practices have some drawbacks those are neither environment friendly nor economical. In this paper a review has been done to evaluate various alternative management practices for these terrestrial weeds and to analyze their feasibility. Vermicomposting and anaerobic digestion can be viable alternative option which is cost effective as well. There are few studies regarding vermicomposting and anaerobic digestions of terrestrial weeds are done."
+  ],
+  "affiliation": [
+    "Centre for the Rural Technology, Indian Institute of Technology, Guwahati 781039, Assam, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Anaerobic digestion",
+        "Allelopathy",
+        "Biogas",
+        "Vermicomposting",
+        "Terrestrial Weeds"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5767572?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5767572"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.btre.2017.11.005"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-01-20"
+  ],
+  "firstIndexDate": [
+    "2018-01-20"
+  ],
+  "dateOfRevision": [
+    "2018-01-21"
+  ],
+  "electronicPublicationDate": [
+    "2017-11-22"
+  ],
+  "firstPublicationDate": [
+    "2017-11-22"
+  ]
+}

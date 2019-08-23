@@ -1,0 +1,828 @@
+{
+  "id": [
+    "24064448"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24064448"
+  ],
+  "pmcid": [
+    "PMC6269817"
+  ],
+  "doi": [
+    "10.3390/molecules180910320"
+  ],
+  "title": [
+    "Volatile organic compounds obtained by in vitro callus cultivation of Plectranthus ornatus Codd. (Lamiaceae)."
+  ],
+  "authorString": [
+    "Passinho-Soares HC, Meira PR, David JP, Mesquita PR, do Vale AE, de M Rodrigues F, de P Pereira PA, de Santana JR, de Oliveira FS, de Andrade JB, David JM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Passinho-Soares HC"
+          ],
+          "firstName": [
+            "Helna C"
+          ],
+          "lastName": [
+            "Passinho-Soares"
+          ],
+          "initials": [
+            "HC"
+          ],
+          "affiliation": [
+            "Faculdade de Farmácia, Universidade Federal da Bahia, Rua Barão de Jeremoabo, s/n, 41810-290, Salvador (BA), Brazil. juceni@ufba.br."
+          ]
+        },
+        {
+          "fullName": [
+            "Meira PR"
+          ],
+          "firstName": [
+            "Paloma R"
+          ],
+          "lastName": [
+            "Meira"
+          ],
+          "initials": [
+            "PR"
+          ]
+        },
+        {
+          "fullName": [
+            "David JP"
+          ],
+          "firstName": [
+            "Juceni P"
+          ],
+          "lastName": [
+            "David"
+          ],
+          "initials": [
+            "JP"
+          ]
+        },
+        {
+          "fullName": [
+            "Mesquita PR"
+          ],
+          "firstName": [
+            "Paulo R R"
+          ],
+          "lastName": [
+            "Mesquita"
+          ],
+          "initials": [
+            "PR"
+          ]
+        },
+        {
+          "fullName": [
+            "do Vale AE"
+          ],
+          "firstName": [
+            "Ademir E"
+          ],
+          "lastName": [
+            "do Vale"
+          ],
+          "initials": [
+            "AE"
+          ]
+        },
+        {
+          "fullName": [
+            "de M Rodrigues F"
+          ],
+          "firstName": [
+            "Frederico"
+          ],
+          "lastName": [
+            "de M Rodrigues"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "de P Pereira PA"
+          ],
+          "firstName": [
+            "Pedro A"
+          ],
+          "lastName": [
+            "de P Pereira"
+          ],
+          "initials": [
+            "PA"
+          ]
+        },
+        {
+          "fullName": [
+            "de Santana JR"
+          ],
+          "firstName": [
+            "José Raniere F"
+          ],
+          "lastName": [
+            "de Santana"
+          ],
+          "initials": [
+            "JR"
+          ]
+        },
+        {
+          "fullName": [
+            "de Oliveira FS"
+          ],
+          "firstName": [
+            "Fabio S"
+          ],
+          "lastName": [
+            "de Oliveira"
+          ],
+          "initials": [
+            "FS"
+          ]
+        },
+        {
+          "fullName": [
+            "de Andrade JB"
+          ],
+          "firstName": [
+            "Jailson B"
+          ],
+          "lastName": [
+            "de Andrade"
+          ],
+          "initials": [
+            "JB"
+          ]
+        },
+        {
+          "fullName": [
+            "David JM"
+          ],
+          "firstName": [
+            "Jorge M"
+          ],
+          "lastName": [
+            "David"
+          ],
+          "initials": [
+            "JM"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5269-4866",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2481032"
+      ],
+      "dateOfPublication": [
+        "2013 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecules (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Molecules"
+          ],
+          "medlineAbbreviation": [
+            "Molecules"
+          ],
+          "NLMid": [
+            "100964009"
+          ],
+          "ISSN": [
+            "1420-3049"
+          ],
+          "ESSN": [
+            "1420-3049"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "10320-10333"
+  ],
+  "abstractText": [
+    "Plectranthus spp (Lamiaceae) are plants of economic importance because they are sources of aromatic essential oils and are also cultivated and several species of this genus are used as folk medicines. This paper describes the effects of different concentrations of the 2,4-dichlorophenoxyacetic acid (2,4-D) and 1-naphthaleneacetic acid (NAA) on the induction of callus from nodal segments of Plectranthus ornatus Codd and in the production of volatile organic compounds (monoterpenes and sesquiterpenes). The 20 and 40 day calli were subjected to solid phase micro extraction (HS-SPME) and submitted to GCMS analysis. Variations in VOCs between the samples were observed and, a direct relationship was observed between of the major constituent detected (α-terpinyl acetate) and the monoterpenes α-thujene, α-pinene, β-pinene, camphene, sabinene and α-limonene that were present in the volatile fractions. Besides α-terpinyl acetate, isobornyl acetate and α-limonene were also major constituents. Variations were observed in VOCs in the analyzed periods. The best cultivation media for the production of VOCs was found to be MS0 (control). Moderate success was achieved by treatment with 2.68 µM and 5:37 µM NAA (Group 2). With 2,4-D (9.0 µM), only the presence of α-terpinyl acetate and isocumene were detected and, with 2.26 µM of 2,4-D was produced mainly α-terpinyl acetate, α-thujene and β-caryophyllene (16.2%). The VOC profiles present in P. ornatus were interpreted using PCA and HCA. The results permitted us to determine the best cultivation media for VOC production and, the PCA and HCA analysis allowed us to recognize four groups among the different treatments from the compounds identified in this set of treatments."
+  ],
+  "affiliation": [
+    "Faculdade de Farmácia, Universidade Federal da Bahia, Rua Barão de Jeremoabo, s/n, 41810-290, Salvador (BA), Brazil. juceni@ufba.br."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plectranthus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GD"
+                  ],
+                  "qualifierName": [
+                    "growth & development"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Components, Aerial"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GD"
+                  ],
+                  "qualifierName": [
+                    "growth & development"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Monoterpenes"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sesquiterpenes"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oils, Volatile"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Oils"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Extracts"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gas Chromatography-Mass Spectrometry"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Solid Phase Microextraction"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Volatile Organic Compounds"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Plant Extracts"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Sesquiterpenes"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Oils, Volatile"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Plant Oils"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Monoterpenes"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Volatile Organic Compounds"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6269817?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6269817"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/molecules180910320"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-10-20"
+  ],
+  "dateOfCreation": [
+    "2013-09-26"
+  ],
+  "firstIndexDate": [
+    "2013-09-26"
+  ],
+  "dateOfRevision": [
+    "2018-12-19"
+  ],
+  "electronicPublicationDate": [
+    "2013-08-26"
+  ],
+  "firstPublicationDate": [
+    "2013-08-26"
+  ]
+}

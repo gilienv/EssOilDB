@@ -1,0 +1,910 @@
+{
+  "id": [
+    "27783048"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27783048"
+  ],
+  "pmcid": [
+    "PMC6273327"
+  ],
+  "doi": [
+    "10.3390/molecules21101402"
+  ],
+  "title": [
+    "Naturally Occurring Cinnamic Acid Sugar Ester Derivatives."
+  ],
+  "authorString": [
+    "Tian Y, Liu W, Lu Y, Wang Y, Chen X, Bai S, Zhao Y, He T, Lao F, Shang Y, Guo Y, She G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tian Y"
+          ],
+          "firstName": [
+            "Yuxin"
+          ],
+          "lastName": [
+            "Tian"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Chinese Pharmacy, Beijing University of Chinese Medicine, Beijing 100102, China. tianyuxin1216@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu W"
+          ],
+          "firstName": [
+            "Weirui"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "School of Chinese Pharmacy, Beijing University of Chinese Medicine, Beijing 100102, China. liuweirui2012@126.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Lu Y"
+          ],
+          "firstName": [
+            "Yi"
+          ],
+          "lastName": [
+            "Lu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Basic Medicine, Beijing University of Chinese Medicine, Beijing 100102, China. luyi780707@hotmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Yan"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Chinese Pharmacy, Beijing University of Chinese Medicine, Beijing 100102, China. 18739908461@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen X"
+          ],
+          "firstName": [
+            "Xiaoyi"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "School of Chinese Pharmacy, Beijing University of Chinese Medicine, Beijing 100102, China. chenxiaofly1209@126.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Bai S"
+          ],
+          "firstName": [
+            "Shaojuan"
+          ],
+          "lastName": [
+            "Bai"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "School of Chinese Pharmacy, Beijing University of Chinese Medicine, Beijing 100102, China. shaojuanbai@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao Y"
+          ],
+          "firstName": [
+            "Yicheng"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Chinese Pharmacy, Beijing University of Chinese Medicine, Beijing 100102, China. zhaoyicheng0824@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "He T"
+          ],
+          "firstName": [
+            "Ting"
+          ],
+          "lastName": [
+            "He"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "School of Chinese Pharmacy, Beijing University of Chinese Medicine, Beijing 100102, China. 13580771726@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Lao F"
+          ],
+          "firstName": [
+            "Fengxue"
+          ],
+          "lastName": [
+            "Lao"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Beijing Key Laboratory of Bioactive Substances and Functional Foods, Beijing Union University, Beijing 100191, China. Fengxue@buu.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Shang Y"
+          ],
+          "firstName": [
+            "Yinghui"
+          ],
+          "lastName": [
+            "Shang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Beijing Key Laboratory of Bioactive Substances and Functional Foods, Beijing Union University, Beijing 100191, China. Yinghui@buu.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Guo Y"
+          ],
+          "firstName": [
+            "Yu"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Beijing Key Laboratory of Bioactive Substances and Functional Foods, Beijing Union University, Beijing 100191, China. guoyu@buu.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "She G"
+          ],
+          "firstName": [
+            "Gaimei"
+          ],
+          "lastName": [
+            "She"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "School of Chinese Pharmacy, Beijing University of Chinese Medicine, Beijing 100102, China. shegaimei@126.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "21"
+      ],
+      "journalIssueId": [
+        "2458955"
+      ],
+      "dateOfPublication": [
+        "2016 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecules (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Molecules"
+          ],
+          "medlineAbbreviation": [
+            "Molecules"
+          ],
+          "NLMid": [
+            "100964009"
+          ],
+          "ISSN": [
+            "1420-3049"
+          ],
+          "ESSN": [
+            "1420-3049"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "abstractText": [
+    "Cinnamic acid sugar ester derivatives (CASEDs) are a class of natural product with one or several phenylacrylic moieties linked with the non-anomeric carbon of a glycosyl skeleton part through ester bonds. Their notable anti-depressant and brains protective activities have made them a topic of great interest over the past several decades. In particular the compound 3',6-disinapoylsucrose, the index component of Yuanzhi (a well-known Traditional Chinese Medicine or TCM), presents antidepressant effects at a molecular level, and has become a hotspot of research on new lead drug compounds. Several other similar cinnamic acid sugar ester derivatives are reported in traditional medicine as compounds to calm the nerves and display anti-depression and neuroprotective activity. Interestingly, more than one third of CASEDs are distributed in the family Polygalaceae. This overview discusses the isolation of cinnamic acid sugar ester derivatives from plants, together with a systematic discussion of their distribution, chemical structures and properties and pharmacological activities, with the hope of providing references for natural product researchers and draw attention to these interesting compounds."
+  ],
+  "affiliation": [
+    "School of Chinese Pharmacy, Beijing University of Chinese Medicine, Beijing 100102, China. tianyuxin1216@163.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cinnamates"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Esters"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Polysaccharides"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neuroprotective Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antidepressive Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anti-Inflammatory Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Extracts"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antineoplastic Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antioxidants"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Medicine, Chinese Traditional"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phytochemicals"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Pharmacological activity",
+        "Traditional Chinese medicine",
+        "Phytochemistry",
+        "Cinnamic Acid Sugar Ester Derivatives"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Antineoplastic Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Polysaccharides"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Antidepressive Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Anti-Inflammatory Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Plant Extracts"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Esters"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Cinnamates"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Antioxidants"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Neuroprotective Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "cinnamic acid"
+          ],
+          "registryNumber": [
+            "U14A832J8D"
+          ]
+        },
+        {
+          "name": [
+            "Phytochemicals"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6273327?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6273327"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/molecules21101402"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/molecules21101402"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-06-06"
+  ],
+  "dateOfCreation": [
+    "2016-10-27"
+  ],
+  "firstIndexDate": [
+    "2016-10-29"
+  ],
+  "dateOfRevision": [
+    "2019-01-08"
+  ],
+  "electronicPublicationDate": [
+    "2016-10-24"
+  ],
+  "firstPublicationDate": [
+    "2016-10-24"
+  ]
+}

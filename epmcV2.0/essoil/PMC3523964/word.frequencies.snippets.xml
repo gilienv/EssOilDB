@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="essoil/PMC3523964/results/word/frequencies/results.xml">
+  <result title="frequency" word="plant" count="60"/>
+  <result title="frequency" word=". ± ." count="37"/>
+  <result title="frequency" word="attractive" count="34"/>
+  <result title="frequency" word="mosquitoes" count="34"/>
+  <result title="frequency" word="host" count="32"/>
+  <result title="frequency" word="sugar" count="30"/>
+  <result title="frequency" word="gambiae" count="28"/>
+  <result title="frequency" word="An." count="26"/>
+  <result title="frequency" word="plants" count="25"/>
+  <result title="frequency" word="components" count="24"/>
+  <result title="frequency" word="Entomol" count="23"/>
+  <result title="frequency" word="hysterophorus" count="23"/>
+  <result title="frequency" word="malaria" count="23"/>
+  <result title="frequency" word="ng/μl" count="21"/>
+ </snippets>
+</snippetsTree>

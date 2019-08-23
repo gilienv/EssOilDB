@@ -1,0 +1,696 @@
+{
+  "id": [
+    "26267814"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26267814"
+  ],
+  "pmcid": [
+    "PMC4580652"
+  ],
+  "doi": [
+    "10.1371/journal.pntd.0003822"
+  ],
+  "title": [
+    "Tsetse Control and Gambian Sleeping Sickness; Implications for Control Strategy."
+  ],
+  "authorString": [
+    "Tirados I, Esterhuizen J, Kovacic V, Mangwiro TN, Vale GA, Hastings I, Solano P, Lehane MJ, Torr SJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tirados I"
+          ],
+          "firstName": [
+            "Inaki"
+          ],
+          "lastName": [
+            "Tirados"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Liverpool School of Tropical Medicine, Liverpool, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Esterhuizen J"
+          ],
+          "firstName": [
+            "Johan"
+          ],
+          "lastName": [
+            "Esterhuizen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Liverpool School of Tropical Medicine, Liverpool, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Kovacic V"
+          ],
+          "firstName": [
+            "Vanja"
+          ],
+          "lastName": [
+            "Kovacic"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Liverpool School of Tropical Medicine, Liverpool, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Mangwiro TN"
+          ],
+          "firstName": [
+            "T N Clement"
+          ],
+          "lastName": [
+            "Mangwiro"
+          ],
+          "initials": [
+            "TN"
+          ],
+          "affiliation": [
+            "Bindura University of Science Education, Department of Animal Science, Bindura, Zimbabwe."
+          ]
+        },
+        {
+          "fullName": [
+            "Vale GA"
+          ],
+          "firstName": [
+            "Glyn A"
+          ],
+          "lastName": [
+            "Vale"
+          ],
+          "initials": [
+            "GA"
+          ],
+          "affiliation": [
+            "Southern African Centre for Epidemiological Modelling and Analysis, University of Stellenbosch, Stellenbosch, South Africa."
+          ]
+        },
+        {
+          "fullName": [
+            "Hastings I"
+          ],
+          "firstName": [
+            "Ian"
+          ],
+          "lastName": [
+            "Hastings"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Liverpool School of Tropical Medicine, Liverpool, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Solano P"
+          ],
+          "firstName": [
+            "Philippe"
+          ],
+          "lastName": [
+            "Solano"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4351-3506",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institut de Recherche pour le Developpement (IRD), UMR IRD-CIRAD 177 INTERTRYP CIRDES 01, Bobo-Dioulasso, Burkina Faso."
+          ]
+        },
+        {
+          "fullName": [
+            "Lehane MJ"
+          ],
+          "firstName": [
+            "Michael J"
+          ],
+          "lastName": [
+            "Lehane"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "affiliation": [
+            "Liverpool School of Tropical Medicine, Liverpool, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Torr SJ"
+          ],
+          "firstName": [
+            "Steve J"
+          ],
+          "lastName": [
+            "Torr"
+          ],
+          "initials": [
+            "SJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9550-4030",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Liverpool School of Tropical Medicine, Liverpool, United Kingdom; Warwick Medical School, University of Warwick, Coventry, United Kingdom."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9550-4030",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4351-3506",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2385395"
+      ],
+      "dateOfPublication": [
+        "2015 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PLoS neglected tropical diseases"
+          ],
+          "ISOAbbreviation": [
+            "PLoS Negl Trop Dis"
+          ],
+          "medlineAbbreviation": [
+            "PLoS Negl Trop Dis"
+          ],
+          "NLMid": [
+            "101291488"
+          ],
+          "ISSN": [
+            "1935-2727"
+          ],
+          "ESSN": [
+            "1935-2735"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "e0003822"
+  ],
+  "abstractText": [
+    "BACKGROUND:Gambian sleeping sickness (human African trypanosomiasis, HAT) outbreaks are brought under control by case detection and treatment although it is recognised that this typically only reaches about 75% of the population. Vector control is capable of completely interrupting HAT transmission but is not used because it is considered too expensive and difficult to organise in resource-poor settings. We conducted a full scale field trial of a refined vector control technology to determine its utility in control of Gambian HAT. METHODS AND FINDINGS:The major vector of Gambian HAT is the tsetse fly Glossina fuscipes which lives in the humid zone immediately adjacent to water bodies. From a series of preliminary trials we determined the number of tiny targets required to reduce G. fuscipes populations by more than 90%. Using these data for model calibration we predicted we needed a target density of 20 per linear km of river in riverine savannah to achieve >90% tsetse control. We then carried out a full scale, 500 km2 field trial covering two HAT foci in Northern Uganda to determine the efficacy of tiny targets (overall target density 5.7/km2). In 12 months, tsetse populations declined by more than 90%. As a guide we used a published HAT transmission model and calculated that a 72% reduction in tsetse population is required to stop transmission in those settings. INTERPRETATION:The Ugandan census suggests population density in the HAT foci is approximately 500 per km2. The estimated cost for a single round of active case detection (excluding treatment), covering 80% of the population, is US$433,333 (WHO figures). One year of vector control organised within the country, which can completely stop HAT transmission, would cost US$42,700. The case for adding this method of vector control to case detection and treatment is strong. We outline how such a component could be organised."
+  ],
+  "affiliation": [
+    "Liverpool School of Tropical Medicine, Liverpool, United Kingdom."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "MR/L022508/1"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Tsetse Flies"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PS"
+                  ],
+                  "qualifierName": [
+                    "parasitology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Trypanosoma brucei gambiense"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Trypanosomiasis, African"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EC"
+                  ],
+                  "qualifierName": [
+                    "economics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PS"
+                  ],
+                  "qualifierName": [
+                    "parasitology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Insect Vectors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PS"
+                  ],
+                  "qualifierName": [
+                    "parasitology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Insect Control"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EC"
+                  ],
+                  "qualifierName": [
+                    "economics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Kenya"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Uganda"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4580652?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4580652"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pntd.0003822"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "19"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-04-22"
+  ],
+  "dateOfCreation": [
+    "2015-08-13"
+  ],
+  "firstIndexDate": [
+    "2015-08-15"
+  ],
+  "dateOfRevision": [
+    "2019-02-02"
+  ],
+  "electronicPublicationDate": [
+    "2015-08-12"
+  ],
+  "firstPublicationDate": [
+    "2015-08-12"
+  ]
+}

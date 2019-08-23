@@ -1,0 +1,346 @@
+{
+  "id": [
+    "29565271"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29565271"
+  ],
+  "pmcid": [
+    "PMC6027461"
+  ],
+  "doi": [
+    "10.3390/plants7020024"
+  ],
+  "title": [
+    "Response of Weeping Lantana (Lantana montevidensis) to Compost-Based Growing Media and Electrical Conductivity Level in Soilless Culture: First Evidence."
+  ],
+  "authorString": [
+    "Cristiano G, Vuksani G, Tufarelli V, De Lucia B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Cristiano G"
+          ],
+          "firstName": [
+            "Giuseppe"
+          ],
+          "lastName": [
+            "Cristiano"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4646-3310",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Agricultural and Environmental Sciences, University of Bari Aldo Moro, via Amendola 165/A, 70126 Bari, Italy. giuseppe.cristiano@uniba.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Vuksani G"
+          ],
+          "firstName": [
+            "Gjok"
+          ],
+          "lastName": [
+            "Vuksani"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Horticulture and Landscape Architecture, Agricultural University of Tirana, Koder Kamez, 1029 Tirane, Albania. gjvuksani@ubt.edu.al."
+          ]
+        },
+        {
+          "fullName": [
+            "Tufarelli V"
+          ],
+          "firstName": [
+            "Vincenzo"
+          ],
+          "lastName": [
+            "Tufarelli"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0089-4393",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of DETO, Section of Veterinary Science and Animal Production, University of Bari Aldo Moro, 70010 Valenzano, BA, Italy. vincenzo.tufarelli@uniba.it."
+          ]
+        },
+        {
+          "fullName": [
+            "De Lucia B"
+          ],
+          "firstName": [
+            "Barbara"
+          ],
+          "lastName": [
+            "De Lucia"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7661-1818",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Agricultural and Environmental Sciences, University of Bari Aldo Moro, via Amendola 165/A, 70126 Bari, Italy. barbara.delucia@uniba.it."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4646-3310",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7661-1818",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0089-4393",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2663958"
+      ],
+      "dateOfPublication": [
+        "2018 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Plants (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Plants (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Plants (Basel)"
+          ],
+          "NLMid": [
+            "101596181"
+          ],
+          "ISSN": [
+            "2223-7747"
+          ],
+          "ESSN": [
+            "2223-7747"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "The most common substrate for potted ornamental plants is prepared with Sphagnum peat; however, the cost and declining availability of high-quality peat, due to environmental constraints, make it necessary to investigate for alternative organic materials. The present study aimed to determine the effects of partial compost replacement with peat and the optimum electrical conductivity (EC) level of the nutrient solution in potted weeping lantana [L. montevidensis (Spreng.) Briq.] under a recirculating soilless system. Three compost-based substrates were prepared by mixing peat (Pe) with sewage sludge-based compost (Co.) at a rate of 0% (Pe90Co0Pu10, control), 30% (Pe60Co30Pu10), or 60% (Pe30Co60Pu10), respectively. The soilless recirculated closed system was equipped with two different EC levels (high and low) of nutrient solution. Growing media main characteristics and plant bio-morphometric parameters were evaluated. Our first evidence clearly demonstrates that the replacement of peat with compost at doses of 30% and 60% gave the poorest results for plant diameter, shoots, leaves, flowers, and fresh and dry mass, probably indicating that the physical characteristics of the compost based substrates may be the major factor governing plant growth rate. Compost media pH and EC values, too, showed negative effects on plant growth. Considering the effect of EC level, all morphological traits were significantly improved by high EC compared to low EC in weeping lantana. Thus, based on first evidence, further research is needed on organic materials for the establishment of ecological substrates with optimal physicochemical characteristics for the growth of weeping lantana."
+  ],
+  "affiliation": [
+    "Department of Agricultural and Environmental Sciences, University of Bari Aldo Moro, via Amendola 165/A, 70126 Bari, Italy. giuseppe.cristiano@uniba.it."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Sewage sludge",
+        "Organic substrate",
+        "Pot Cultivation",
+        "Waste Recycling",
+        "Weeping Lantana"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6027461?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6027461"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/plants7020024"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-03-23"
+  ],
+  "firstIndexDate": [
+    "2018-03-23"
+  ],
+  "dateOfRevision": [
+    "2018-07-15"
+  ],
+  "electronicPublicationDate": [
+    "2018-03-22"
+  ],
+  "firstPublicationDate": [
+    "2018-03-22"
+  ]
+}

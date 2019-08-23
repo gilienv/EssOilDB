@@ -1,0 +1,639 @@
+{
+  "id": [
+    "27825341"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27825341"
+  ],
+  "pmcid": [
+    "PMC5101707"
+  ],
+  "doi": [
+    "10.1186/s12906-016-1401-9"
+  ],
+  "title": [
+    "Essential oils: in vitro activity against Leishmania amazonensis, cytotoxicity and chemical composition."
+  ],
+  "authorString": [
+    "Andrade MA, Azevedo CD, Motta FN, Santos ML, Silva CL, Santana JM, Bastos IM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Andrade MA"
+          ],
+          "firstName": [
+            "Milene Aparecida"
+          ],
+          "lastName": [
+            "Andrade"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "affiliation": [
+            "Faculty of Ceilândia, The University of Brasília, Brasília, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Azevedo CD"
+          ],
+          "firstName": [
+            "Clênia Dos Santos"
+          ],
+          "lastName": [
+            "Azevedo"
+          ],
+          "initials": [
+            "CD"
+          ],
+          "affiliation": [
+            "Pathogen-Host Interface Laboratory, Department of Cell Biology, The University of Brasília, Campus Darcy Ribeiro, Bloco I, Brasília, DF, CEP 70910-900, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Motta FN"
+          ],
+          "firstName": [
+            "Flávia Nader"
+          ],
+          "lastName": [
+            "Motta"
+          ],
+          "initials": [
+            "FN"
+          ],
+          "affiliation": [
+            "Faculty of Ceilândia, The University of Brasília, Brasília, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Santos ML"
+          ],
+          "firstName": [
+            "Maria Lucília Dos"
+          ],
+          "lastName": [
+            "Santos"
+          ],
+          "initials": [
+            "ML"
+          ],
+          "affiliation": [
+            "Institute of Chemistry, The University of Brasilia, Brasília, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Silva CL"
+          ],
+          "firstName": [
+            "Camila Lasse"
+          ],
+          "lastName": [
+            "Silva"
+          ],
+          "initials": [
+            "CL"
+          ],
+          "affiliation": [
+            "Pathogen-Host Interface Laboratory, Department of Cell Biology, The University of Brasília, Campus Darcy Ribeiro, Bloco I, Brasília, DF, CEP 70910-900, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Santana JM"
+          ],
+          "firstName": [
+            "Jaime Martins de"
+          ],
+          "lastName": [
+            "Santana"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "Pathogen-Host Interface Laboratory, Department of Cell Biology, The University of Brasília, Campus Darcy Ribeiro, Bloco I, Brasília, DF, CEP 70910-900, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Bastos IM"
+          ],
+          "firstName": [
+            "Izabela M D"
+          ],
+          "lastName": [
+            "Bastos"
+          ],
+          "initials": [
+            "IM"
+          ],
+          "affiliation": [
+            "Pathogen-Host Interface Laboratory, Department of Cell Biology, The University of Brasília, Campus Darcy Ribeiro, Bloco I, Brasília, DF, CEP 70910-900, Brazil. dourado@unb.br."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2485647"
+      ],
+      "dateOfPublication": [
+        "2016 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC complementary and alternative medicine"
+          ],
+          "ISOAbbreviation": [
+            "BMC Complement Altern Med"
+          ],
+          "medlineAbbreviation": [
+            "BMC Complement Altern Med"
+          ],
+          "NLMid": [
+            "101088661"
+          ],
+          "ISSN": [
+            "1472-6882"
+          ],
+          "ESSN": [
+            "1472-6882"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "444"
+  ],
+  "abstractText": [
+    "The current chemotherapy for cutaneous leishmaniosis (CL) has a series of drug limitations such as toxic side effects, long duration, high costs and drug resistance, which requires the development of new drugs or effective alternatives to the CL treatment. Essential oils (EOs) are complex mixtures of secondary metabolites from various plants. It has been shown that several EOs, or their constituents, have inhibitory activity against protozoa. Thus, this study aims to evaluate the biological activity of different essential oils (EOs) on Leishmania (L.) amazonensis promastigotes forms, as well as their cytotoxicity on mammalian cells and chemical composition.Sixteen EOs were evaluated by mean of IC50/24 h and cytotoxicity against L6 cells (CC50/24 h) using Resazurin assay. Only those EOs that presented better results for IC50/24 h were submitted to GC-MS analysis to determine their chemical constitution.The EO from Cinnamodendron dinisii, Matricaria chamomilla, Myroxylon peruiferum, Salvia sclarea, Bulnesia sarmientoi, Ferula galbaniflua, Siparuna guianensis and Melissa officinalis were the most active against L. amazonensis with IC50/24 h ranging from 54.05 to 162.25 μg/mL. Analysis of EOs by GC-MS showed mainly the presence of β-farnesene (52.73 %) and bisabolol oxide (12.09 %) for M. chamomilla; α-copaene (13.41 %), safrole (8.35 %) and δ-cadinene (7.08 %) for M. peruiferum; linalool (28.80 %) and linalyl acetate (60.08 %) for S. sclarea; guaiol (48.29 %) and 2-undecanone (19.49 %) for B. sarmientoi; ethyl phthalate (13.09 %) and methyl-8-pimaren-18-oate (41.82 %) for F. galbaniflua; and neral (37.18 %) and citral (5.02 %) for M. officinalis.The EO from F. galbaniflua showed to be effective against L. amazonensis promastigotes forms and presented low cytotoxic activity against L6 cells. Thus, it represents a strong candidate for future studies aiming its molecular activity on these pathogenic parasites."
+  ],
+  "affiliation": [
+    "Faculty of Ceilândia, The University of Brasília, Brasília, Brazil."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Leishmania mexicana"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GD"
+                  ],
+                  "qualifierName": [
+                    "growth & development"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plants, Medicinal"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Leishmaniasis, Cutaneous"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PS"
+                  ],
+                  "qualifierName": [
+                    "parasitology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oils, Volatile"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Extracts"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antiprotozoal Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Parasitic Sensitivity Tests"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Survival"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Secondary metabolites",
+        "Natural products",
+        "Anti-leishmania",
+        "Ferula Galbaniflua"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Antiprotozoal Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Plant Extracts"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Oils, Volatile"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5101707?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5101707"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12906-016-1401-9"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "12"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-01-12"
+  ],
+  "dateOfCreation": [
+    "2016-11-09"
+  ],
+  "firstIndexDate": [
+    "2016-11-11"
+  ],
+  "dateOfRevision": [
+    "2017-01-13"
+  ],
+  "electronicPublicationDate": [
+    "2016-11-08"
+  ],
+  "firstPublicationDate": [
+    "2016-11-08"
+  ]
+}

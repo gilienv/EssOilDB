@@ -1,0 +1,433 @@
+{
+  "id": [
+    "24790283"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24790283"
+  ],
+  "pmcid": [
+    "PMC3953824"
+  ],
+  "doi": [
+    "10.3114/sim0016"
+  ],
+  "title": [
+    "A polyphasic taxonomy of Daldinia (Xylariaceae)."
+  ],
+  "authorString": [
+    "Stadler M, Læssøe T, Fournier J, Decock C, Schmieschek B, Tichy HV, Peršoh D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Stadler M"
+          ],
+          "firstName": [
+            "Marc"
+          ],
+          "lastName": [
+            "Stadler"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7284-8671",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Helmholtz Centre for Infection Research, Dept. Microbial Drugs, Inhoffenstrasse 7, D-38124 Braunschweig, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Læssøe T"
+          ],
+          "firstName": [
+            "Thomas"
+          ],
+          "lastName": [
+            "Læssøe"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "University of Copenhagen, Department of Biology/Natural History Museum of Denmark, Universitetsparken 15, DK-2100 Copenhagen Ø, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Fournier J"
+          ],
+          "firstName": [
+            "Jacques"
+          ],
+          "lastName": [
+            "Fournier"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Las Muros, F-09420, Rimont, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Decock C"
+          ],
+          "firstName": [
+            "Cony"
+          ],
+          "lastName": [
+            "Decock"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Mycothèque de l'Université catholique de Louvain (MUCL, BCCM™), Earth and Life Institute - Microbiology (ELIM), Université catholique de Louvain, Croix du Sud 2 bte L7.05.06,B-1348, Louvain-la-Neuve, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Schmieschek B"
+          ],
+          "firstName": [
+            "Beata"
+          ],
+          "lastName": [
+            "Schmieschek"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "LUFA ITL GmbH, Dr.-Hell-Str. 6, D-24107 Kiel, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Tichy HV"
+          ],
+          "firstName": [
+            "Hans-Volker"
+          ],
+          "lastName": [
+            "Tichy"
+          ],
+          "initials": [
+            "HV"
+          ],
+          "affiliation": [
+            "Bayer Pharma AG, Product Supply, API - Supply Center Elberfeld Quality Unit - QCB-Mikrobiologie I, 42096 Wuppertal, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Peršoh D"
+          ],
+          "firstName": [
+            "Derek"
+          ],
+          "lastName": [
+            "Peršoh"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5561-0189",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "University of Bayreuth, Dept. Mycology, Universitätsstraße 30, D-95540 Bayreuth, Germany ; Present address: Ruhr-Universität Bochum, AG Geobotanik, Universitätsstraße 150, D-44780 Bochum, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7284-8671",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5561-0189",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "77"
+      ],
+      "journalIssueId": [
+        "2154255"
+      ],
+      "dateOfPublication": [
+        "2014 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Studies in mycology"
+          ],
+          "ISOAbbreviation": [
+            "Stud. Mycol."
+          ],
+          "medlineAbbreviation": [
+            "Stud Mycol"
+          ],
+          "NLMid": [
+            "8411984"
+          ],
+          "ISSN": [
+            "0166-0616"
+          ],
+          "ESSN": [
+            "1872-9797"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "1-143"
+  ],
+  "abstractText": [
+    "For a monograph based on a polythetic concept, several thousands of herbarium specimens, and several hundreds of freshly collected and cultured specimens of Daldinia and allied Xylariaceae, originating from around the world, were studied for morphological traits, including by SEM, and chemically by HPLC profiles using UV-visible and mass spectrometric detection. Emphasis was given to tropical material, and importantly, ancient specimens, including as many types as possible, were tracked and studied to review earlier taxonomic concepts. An epitype of D. eschscholtzii was selected as representative of the morphochemotype that is most widely distributed in the tropics. Six new species of Daldinia from the tropics and the southern Hemisphere are described. Daldinia asphalatum is resurrected, and D. cudonia is regarded as its synonym. In addition, the following binomials are epi-, iso-, neo- and/or lectotypified: Daldinia asphalatum, D. caldariorum, D. clavata, D. cuprea, D. durissima, D. eschscholtzii, D. grandis, D. loculata, and D. vernicosa. Annellosporium and Versiomyces are regarded as synonyms of Daldinia. Many new synonymies in Daldinia are proposed, and some previously published names are rejected. In total, 47 taxa in Daldinia are recognised and a key is provided. Their biogeography, chorology, and ecology, as well as the importance of their secondary metabolites, are also discussed. The previous definition of the genus is emended. The species concept is based mainly on morphological and other phenotype-derived characters because, despite diligent search, no molecular data or cultures of several of the accepted species could be obtained. Daldinia is segregated into five major groups, based on phenotypic characteristics. Some unnamed but aberrant specimens were not found in good condition and are therefore not formally described as new species. However, they are illustrated in detail in a hope that this will facilitate the discovery of fresh material in future. A preliminary molecular phylogeny based on 5.8S/ITS nrDNA including numerous representatives of all hitherto described taxa for which cultures are extant, was found basically in agreement with the above mentioned segregation of the genus, based on morphological and chemotaxonomic evidence. In the rDNA based phylogenetic tree, Daldinia appears clearly distinct from members of the genera Annulohypoxylon and Hypoxylon; nevertheless, representatives of small genera of predominantly tropical origin (Entonaema, Phylacia, Ruwenzoria, Rhopalostroma, Thamnomyces) appear to have evolved from daldinioid ancestors and are nested inside the Daldinia clade. Interestingly, these findings correlate with chemotaxonomic characters to a great extent, especially regarding the distribution of marker metabolites in their mycelial cultures. Hence, the current study revealed for the first time that fungal secondary metabolite profiles can have taxonomic value beyond the species rank and even coincide with phylogenetic data.Daldinia andina sp. nov., D. australis sp. nov., D. hausknechtii sp. nov., D. rehmii sp. nov., D. starbaeckii sp. nov., D. theissenii sp. nov., D. cahuchosa comb. nov., D. nemorosa comb. nov."
+  ],
+  "affiliation": [
+    "Helmholtz Centre for Infection Research, Dept. Microbial Drugs, Inhoffenstrasse 7, D-38124 Braunschweig, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3953824?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3953824"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24790283/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24790283/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3114/sim0016"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3114/sim0016"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "21"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2014-05-05"
+  ],
+  "dateOfCreation": [
+    "2014-05-05"
+  ],
+  "firstIndexDate": [
+    "2014-05-03"
+  ],
+  "dateOfRevision": [
+    "2014-05-07"
+  ],
+  "firstPublicationDate": [
+    "2014-03-01"
+  ]
+}

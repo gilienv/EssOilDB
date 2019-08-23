@@ -1,0 +1,301 @@
+{
+  "id": [
+    "23217124"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23217124"
+  ],
+  "pmcid": [
+    "PMC3547755"
+  ],
+  "doi": [
+    "10.1186/2191-0855-2-65"
+  ],
+  "title": [
+    "An economic and ecological perspective of ethanol production from renewable agro waste: a review."
+  ],
+  "authorString": [
+    "Bhatia L, Johri S, Ahmad R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bhatia L"
+          ],
+          "firstName": [
+            "Latika"
+          ],
+          "lastName": [
+            "Bhatia"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Johri S"
+          ],
+          "firstName": [
+            "Sonia"
+          ],
+          "lastName": [
+            "Johri"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Ahmad R"
+          ],
+          "firstName": [
+            "Rumana"
+          ],
+          "lastName": [
+            "Ahmad"
+          ],
+          "initials": [
+            "R"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "1897757"
+      ],
+      "dateOfPublication": [
+        "2012 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "AMB Express"
+          ],
+          "ISOAbbreviation": [
+            "AMB Express"
+          ],
+          "medlineAbbreviation": [
+            "AMB Express"
+          ],
+          "NLMid": [
+            "101561785"
+          ],
+          "ISSN": [
+            "2191-0855"
+          ],
+          "ESSN": [
+            "2191-0855"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2012"
+  ],
+  "pageInfo": [
+    "65"
+  ],
+  "abstractText": [
+    "Agro-industrial wastes are generated during the industrial processing of agricultural products. These wastes are generated in large amounts throughout the year, and are the most abundant renewable resources on earth. Due to the large availability and composition rich in compounds that could be used in other processes, there is a great interest on the reuse of these wastes, both from economical and environmental view points. The economic aspect is based on the fact that such wastes may be used as low-cost raw materials for the production of other value-added compounds, with the expectancy of reducing the production costs. The environmental concern is because most of the agro-industrial wastes contain phenolic compounds and/or other compounds of toxic potential; which may cause deterioration of the environment when the waste is discharged to the nature. Although the production of bioethanol offers many benefits, more research is needed in the aspects like feedstock preparation, fermentation technology modification, etc., to make bioethanol more economically viable."
+  ],
+  "affiliation": [
+    "Department of Life Sciences, Institute of Technology & Management University, Gwalior, Madhya Pradesh, 475001, India. latikabhatia1@yahoo.co.uk."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3547755?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3547755"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23217124/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23217124/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/2191-0855-2-65"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "16"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-01-21"
+  ],
+  "dateOfCreation": [
+    "2013-01-18"
+  ],
+  "firstIndexDate": [
+    "2012-12-11"
+  ],
+  "dateOfRevision": [
+    "2013-04-18"
+  ],
+  "electronicPublicationDate": [
+    "2012-12-07"
+  ],
+  "firstPublicationDate": [
+    "2012-12-07"
+  ]
+}

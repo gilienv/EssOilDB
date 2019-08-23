@@ -1,0 +1,471 @@
+{
+  "id": [
+    "25343481"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25343481"
+  ],
+  "pmcid": [
+    "PMC4208836"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0111468"
+  ],
+  "title": [
+    "Global invasion of Lantana camara: has the climatic niche been conserved across continents?"
+  ],
+  "authorString": [
+    "Goncalves E, Herrera I, Duarte M, Bustamante RO, Lampo M, Velásquez G, Sharma GP, García-Rangel S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Goncalves E"
+          ],
+          "firstName": [
+            "Estefany"
+          ],
+          "lastName": [
+            "Goncalves"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Centro de Ecología, Instituto Venezolano de Investigaciones Científicas, Caracas, Venezuela; Departamento de Estudios Ambientales, Universidad Simón Bolívar, Caracas, Venezuela."
+          ]
+        },
+        {
+          "fullName": [
+            "Herrera I"
+          ],
+          "firstName": [
+            "Ileana"
+          ],
+          "lastName": [
+            "Herrera"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Centro de Ecología, Instituto Venezolano de Investigaciones Científicas, Caracas, Venezuela."
+          ]
+        },
+        {
+          "fullName": [
+            "Duarte M"
+          ],
+          "firstName": [
+            "Milén"
+          ],
+          "lastName": [
+            "Duarte"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Departamento Cs. Ecológicas, Facultad de Ciencias, Universidad de Chile, Santiago, Chile; Instituto de Ecología y Biodiversidad, Facultad de Ciencias, Universidad de Chile, Santiago, Chile."
+          ]
+        },
+        {
+          "fullName": [
+            "Bustamante RO"
+          ],
+          "firstName": [
+            "Ramiro O"
+          ],
+          "lastName": [
+            "Bustamante"
+          ],
+          "initials": [
+            "RO"
+          ],
+          "affiliation": [
+            "Departamento Cs. Ecológicas, Facultad de Ciencias, Universidad de Chile, Santiago, Chile; Instituto de Ecología y Biodiversidad, Facultad de Ciencias, Universidad de Chile, Santiago, Chile."
+          ]
+        },
+        {
+          "fullName": [
+            "Lampo M"
+          ],
+          "firstName": [
+            "Margarita"
+          ],
+          "lastName": [
+            "Lampo"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Centro de Ecología, Instituto Venezolano de Investigaciones Científicas, Caracas, Venezuela."
+          ]
+        },
+        {
+          "fullName": [
+            "Velásquez G"
+          ],
+          "firstName": [
+            "Grisel"
+          ],
+          "lastName": [
+            "Velásquez"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Centro de Ecología, Instituto Venezolano de Investigaciones Científicas, Caracas, Venezuela."
+          ]
+        },
+        {
+          "fullName": [
+            "Sharma GP"
+          ],
+          "firstName": [
+            "Gyan P"
+          ],
+          "lastName": [
+            "Sharma"
+          ],
+          "initials": [
+            "GP"
+          ],
+          "affiliation": [
+            "Department of Environmental Studies, University of Delhi, Delhi, India."
+          ]
+        },
+        {
+          "fullName": [
+            "García-Rangel S"
+          ],
+          "firstName": [
+            "Shaenandhoa"
+          ],
+          "lastName": [
+            "García-Rangel"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Departamento de Estudios Ambientales, Universidad Simón Bolívar, Caracas, Venezuela."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2213695"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "e111468"
+  ],
+  "abstractText": [
+    "Lantana camara, a native plant from tropical America, is considered one of the most harmful invasive species worldwide. Several studies have identified potentially invasible areas under scenarios of global change, on the assumption that niche is conserved during the invasion process. Recent studies, however, suggest that many invasive plants do not conserve their niches. Using Principal Components Analyses (PCA), we tested the hypothesis of niche conservatism for L. camara by comparing its native niche in South America with its expressed niche in Africa, Australia and India. Using MaxEnt, the estimated niche for the native region was projected onto each invaded region to generate potential distributions there. Our results demonstrate that while L. camara occupied subsets of its original native niche in Africa and Australia, in India its niche shifted significantly. There, 34% of the occurrences were detected in warmer habitats nonexistent in its native range. The estimated niche for India was also projected onto Africa and Australia to identify other vulnerable areas predicted from the observed niche shift detected in India. As a result, new potentially invasible areas were identified in central Africa and southern Australia. Our findings do not support the hypothesis of niche conservatism for the invasion of L. camara. The mechanisms that allow this species to expand its niche need to be investigated in order to improve our capacity to predict long-term geographic changes in the face of global climatic changes."
+  ],
+  "affiliation": [
+    "Centro de Ecología, Instituto Venezolano de Investigaciones Científicas, Caracas, Venezuela; Departamento de Estudios Ambientales, Universidad Simón Bolívar, Caracas, Venezuela."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Lantana"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Area Under Curve"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biodiversity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Temperature"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Climate"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Species Specificity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Geography"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Models, Biological"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Introduced Species"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4208836?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4208836"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0111468"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-12-24"
+  ],
+  "dateOfCreation": [
+    "2014-10-25"
+  ],
+  "firstIndexDate": [
+    "2014-10-25"
+  ],
+  "dateOfRevision": [
+    "2018-03-25"
+  ],
+  "electronicPublicationDate": [
+    "2014-10-24"
+  ],
+  "firstPublicationDate": [
+    "2014-10-24"
+  ]
+}

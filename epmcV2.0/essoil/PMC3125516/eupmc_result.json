@@ -1,0 +1,372 @@
+{
+  "id": [
+    "21738507"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "21738507"
+  ],
+  "pmcid": [
+    "PMC3125516"
+  ],
+  "doi": [
+    "10.3389/fphar.2011.00030"
+  ],
+  "title": [
+    "Ethnodiagnostic skills of the digo community for malaria: a lead to traditional bioprospecting."
+  ],
+  "authorString": [
+    "Nguta JM, Mbaria JM, Gathumbi PK, Gakuya D, Kabasa JD, Kiama SG."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Nguta JM"
+          ],
+          "firstName": [
+            "Joseph Mwanzia"
+          ],
+          "lastName": [
+            "Nguta"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "Department of Public Health, Pharmacology and Toxicology, University of Nairobi Nairobi, Kenya."
+          ]
+        },
+        {
+          "fullName": [
+            "Mbaria JM"
+          ],
+          "firstName": [
+            "James M"
+          ],
+          "lastName": [
+            "Mbaria"
+          ],
+          "initials": [
+            "JM"
+          ]
+        },
+        {
+          "fullName": [
+            "Gathumbi PK"
+          ],
+          "firstName": [
+            "Peter K"
+          ],
+          "lastName": [
+            "Gathumbi"
+          ],
+          "initials": [
+            "PK"
+          ]
+        },
+        {
+          "fullName": [
+            "Gakuya D"
+          ],
+          "firstName": [
+            "Daniel"
+          ],
+          "lastName": [
+            "Gakuya"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Kabasa JD"
+          ],
+          "firstName": [
+            "John David"
+          ],
+          "lastName": [
+            "Kabasa"
+          ],
+          "initials": [
+            "JD"
+          ]
+        },
+        {
+          "fullName": [
+            "Kiama SG"
+          ],
+          "firstName": [
+            "Stephen Gitahi"
+          ],
+          "lastName": [
+            "Kiama"
+          ],
+          "initials": [
+            "SG"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0217-6283",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0217-6283",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "1841897"
+      ],
+      "dateOfPublication": [
+        "2011 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2011"
+      ],
+      "printPublicationDate": [
+        "2011-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in pharmacology"
+          ],
+          "ISOAbbreviation": [
+            "Front Pharmacol"
+          ],
+          "medlineAbbreviation": [
+            "Front Pharmacol"
+          ],
+          "NLMid": [
+            "101548923"
+          ],
+          "ISSN": [
+            "1663-9812"
+          ],
+          "ESSN": [
+            "1663-9812"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2011"
+  ],
+  "pageInfo": [
+    "30"
+  ],
+  "abstractText": [
+    "Malaria is a major public health problem that is presently complicated by the development of resistance by Plasmodium falciparum to the mainstay drugs. Thus, new drugs with unique structures and mechanism of action are required to treat drug-resistant strains of malaria. Historically, compounds containing a novel structure from natural origin represent a major source for the discovery and development of new drugs for several diseases. This paper presents ethnophytotherapeutic remedies, ethnodiagnostic skills, and related traditional knowledge utilized by the Digo community of the Kenyan Coast to diagnose malaria as a lead to traditional bioprospecting. The current study was carried out in three Digo villages of Diani sub-location between May 2009 and December 2009. Data was collected using semi-structured interviews, and open and close-ended questionnaires. A total of 60 respondents (34 men and 26 women) provided the targeted information. The results show that the indigenous knowledge of Digo community on malaria encompasses not only the symptoms of malaria but also the factors that are responsible for causing malaria, attributes favoring the breeding of mosquitoes and practices employed to guard against mosquito bites or to protect households against malaria. This knowledge is closely in harmony with scientific approaches to the treatment and control of the disease. The Digo community uses 60 medicinal plants distributed in 52 genera and 27 families to treat malaria. The most frequently mentioned symptoms were fever, joint pains, and vomiting while the most frequently mentioned practices employed to guard against mosquito bites and/or to protect households against malaria was burning of herbal plants such as Ocimum suave and ingestion of herbal decoctions and concoctions. The Digo community has abundant ethnodiagnostic skills for malaria which forms the basis of their traditional bioprospecting techniques."
+  ],
+  "affiliation": [
+    "Department of Public Health, Pharmacology and Toxicology, University of Nairobi Nairobi, Kenya."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Malaria",
+        "antimalarials",
+        "ethnopharmacology",
+        "Bioprospecting",
+        "Digo Community",
+        "Ethnodiagnostic Skills"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3125516?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3125516"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21738507/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21738507/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fphar.2011.00030"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2011-07-14"
+  ],
+  "dateOfCreation": [
+    "2011-07-08"
+  ],
+  "firstIndexDate": [
+    "2011-07-09"
+  ],
+  "dateOfRevision": [
+    "2015-02-09"
+  ],
+  "electronicPublicationDate": [
+    "2011-06-24"
+  ],
+  "firstPublicationDate": [
+    "2011-06-24"
+  ]
+}

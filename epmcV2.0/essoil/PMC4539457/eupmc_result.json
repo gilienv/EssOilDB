@@ -1,0 +1,276 @@
+{
+  "id": [
+    "26345471"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26345471"
+  ],
+  "pmcid": [
+    "PMC4539457"
+  ],
+  "doi": [
+    "10.1155/2015/491209"
+  ],
+  "title": [
+    "Herbal Therapies and Social-Health Policies: Indigenous Ati Negrito Women's Dilemma and Reproductive Healthcare Transitions in the Philippines."
+  ],
+  "authorString": [
+    "Ong HG, Kim YD."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ong HG"
+          ],
+          "firstName": [
+            "Homervergel G"
+          ],
+          "lastName": [
+            "Ong"
+          ],
+          "initials": [
+            "HG"
+          ],
+          "affiliation": [
+            "Department of Life Science, Hallym University, 8310 Life Science Building, Hallymdaehak-Gil 1, Chuncheon City 200-702, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim YD"
+          ],
+          "firstName": [
+            "Young-Dong"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "YD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5904-4727",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Life Science, Hallym University, 8310 Life Science Building, Hallymdaehak-Gil 1, Chuncheon City 200-702, Republic of Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5904-4727",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2015"
+      ],
+      "journalIssueId": [
+        "2263831"
+      ],
+      "dateOfPublication": [
+        "2015"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Evidence-based complementary and alternative medicine : eCAM"
+          ],
+          "ISOAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "medlineAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "NLMid": [
+            "101215021"
+          ],
+          "ISSN": [
+            "1741-427X"
+          ],
+          "ESSN": [
+            "1741-4288"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "491209"
+  ],
+  "abstractText": [
+    "The high maternal mortality in the Philippines in the past decades prompted intervention strategies to curb unwanted deaths of mothers and improve health and social conditions of women. Such introductions however have begun to challenge traditional reproductive health practices creating confusion among practitioners and incipient transitions in healthcare. Our aim in this study was to document the herbal therapies practiced by indigenous Ati Negrito women and discuss the implications of social and conventional healthcare intervention programs on reproductive healthcare traditions by conducting semistructured interviews. Fidelity Level index was used to determine culturally important plants (i.e., the most preferred). Review of related studies on most preferred plants and therapies was further carried out to provide information regarding their safety/efficacy (or otherwise). Determination of informants' traditional medicinal knowledge was done using Mann-Whitney U and Kruskal-Wallis tests. A total of 49 medicinal plants used in treating female reproductive health-related syndromes across four categories were recorded. Significant differences in traditional medicinal knowledge were recorded when informants were grouped according to age, education, and number of children. Issues discussed in this research could hopefully raise awareness on changes in healthcare practices in indigenous cultures and on medical safety especially when traditional and conventional medications interact."
+  ],
+  "affiliation": [
+    "Department of Life Science, Hallym University, 8310 Life Science Building, Hallymdaehak-Gil 1, Chuncheon City 200-702, Republic of Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4539457?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4539457"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2015/491209"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-09-08"
+  ],
+  "dateOfCreation": [
+    "2015-09-08"
+  ],
+  "firstIndexDate": [
+    "2015-09-09"
+  ],
+  "dateOfRevision": [
+    "2015-09-10"
+  ],
+  "electronicPublicationDate": [
+    "2015-08-04"
+  ],
+  "firstPublicationDate": [
+    "2015-08-04"
+  ]
+}

@@ -1,0 +1,660 @@
+{
+  "id": [
+    "26905249"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26905249"
+  ],
+  "pmcid": [
+    "PMC4795354"
+  ],
+  "doi": [
+    "10.4103/0971-5916.176633"
+  ],
+  "title": [
+    "Insecticidal effect of plant extracts on Phlebotomus argentipes (Diptera: Psychodidae) in Bihar, India."
+  ],
+  "authorString": [
+    "Dinesh DS, Kumari S, Pandit V, Kumar J, Kumari N, Kumar P, Hassan F, Kumar V, Das P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Dinesh DS"
+          ],
+          "firstName": [
+            "Diwakar Singh"
+          ],
+          "lastName": [
+            "Dinesh"
+          ],
+          "initials": [
+            "DS"
+          ],
+          "affiliation": [
+            "Division of Vector Biology & Control, Rajendra Memorial Research Institute of Medical Sciences (ICMR), Patna, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Kumari S"
+          ],
+          "firstName": [
+            "Seema"
+          ],
+          "lastName": [
+            "Kumari"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Pandit V"
+          ],
+          "firstName": [
+            "Vibhishan"
+          ],
+          "lastName": [
+            "Pandit"
+          ],
+          "initials": [
+            "V"
+          ]
+        },
+        {
+          "fullName": [
+            "Kumar J"
+          ],
+          "firstName": [
+            "Jainendra"
+          ],
+          "lastName": [
+            "Kumar"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Kumari N"
+          ],
+          "firstName": [
+            "Nisha"
+          ],
+          "lastName": [
+            "Kumari"
+          ],
+          "initials": [
+            "N"
+          ]
+        },
+        {
+          "fullName": [
+            "Kumar P"
+          ],
+          "firstName": [
+            "Prahlad"
+          ],
+          "lastName": [
+            "Kumar"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Hassan F"
+          ],
+          "firstName": [
+            "Faizan"
+          ],
+          "lastName": [
+            "Hassan"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Kumar V"
+          ],
+          "firstName": [
+            "Vijay"
+          ],
+          "lastName": [
+            "Kumar"
+          ],
+          "initials": [
+            "V"
+          ]
+        },
+        {
+          "fullName": [
+            "Das P"
+          ],
+          "firstName": [
+            "Pradeep"
+          ],
+          "lastName": [
+            "Das"
+          ],
+          "initials": [
+            "P"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "142 Suppl"
+      ],
+      "journalIssueId": [
+        "2378085"
+      ],
+      "dateOfPublication": [
+        "2015 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The Indian journal of medical research"
+          ],
+          "ISOAbbreviation": [
+            "Indian J. Med. Res."
+          ],
+          "medlineAbbreviation": [
+            "Indian J Med Res"
+          ],
+          "NLMid": [
+            "0374701"
+          ],
+          "ISSN": [
+            "0971-5916"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "S95-S100"
+  ],
+  "abstractText": [
+    "BACKGROUND & OBJECTIVES:Phlebotomus argentipes (Diptera: Psychodidae), the established vector for kala-azar is presently being controlled by indoor residual spray of DDT in kala-azar endemic areas in India. Search for non-hazardous and non-toxic biodegradable active molecules from botanicals may provide cost-effective and eco-friendly alternatives to synthetic insecticides. The present study was aimed at evaluating various plant extracts from endemic and non-endemic areas of Bihar for their insecticidal activity against sandfly to identify the most effective plant extract. METHODS:Bio-assay test was conducted with larvae and adult of P. argentipes with different plant extracts collected in distilled water, hexane, ethyl acetate, acetone and methanol. Thin layer chromatography (TLC), column chromatography and high performance liquid chromatography (HPLC) were conducted for detection of active molecules. RESULTS:Adults and larvae of sandflies exposed to the aqueous extract of Nicotiana tabacum resulted in 100 per cent mortality. The hexane extract of Clerodendrum infortunatum was found to kill 77 per cent adults but was ineffective against larvae. Bio-assay test of the ninth fraction (hexane extract-methanol phase) separated by column chromatography was found to be 63 per cent effective. The purple spot on the TLC of this fraction indicated the presence of a diterpenoid. HPLC of this fraction detected nine compounds with two peaks covering 20.44 and 56.52 per cent areas with retention time of 2.439 and 5.182 min, respectively supporting the TLC results. INTERPRETATION & CONCLUSIONS:The column separated 9 [th] fraction of C. infortunatum extract was found to be effective in killing 63 per cent of adult P. argentipes. Compounds of this fraction need to be evaluated further for identification and characterization of the active molecule by conducting individual bio-assay tests followed by further fractionation and HPLC. Once the structure of the active molecule is identified and validated, it may be synthesized and formulated as a product."
+  ],
+  "affiliation": [
+    "Division of Vector Biology & Control, Rajendra Memorial Research Institute of Medical Sciences (ICMR), Patna, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phlebotomus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PS"
+                  ],
+                  "qualifierName": [
+                    "parasitology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Leishmania donovani"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PY"
+                  ],
+                  "qualifierName": [
+                    "pathogenicity"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Tobacco"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Leishmaniasis, Visceral"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PS"
+                  ],
+                  "qualifierName": [
+                    "parasitology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DDT"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Extracts"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Insect Vectors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PS"
+                  ],
+                  "qualifierName": [
+                    "parasitology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Larva"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PS"
+                  ],
+                  "qualifierName": [
+                    "parasitology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "India"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Plant Extracts"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "DDT"
+          ],
+          "registryNumber": [
+            "CIW5S16655"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4795354"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/0971-5916.176633"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-11-11"
+  ],
+  "dateOfCreation": [
+    "2016-02-25"
+  ],
+  "firstIndexDate": [
+    "2016-02-26"
+  ],
+  "dateOfRevision": [
+    "2019-01-10"
+  ],
+  "firstPublicationDate": [
+    "2015-12-01"
+  ]
+}

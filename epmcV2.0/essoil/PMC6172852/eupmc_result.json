@@ -1,0 +1,387 @@
+{
+  "id": [
+    "30323823"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30323823"
+  ],
+  "pmcid": [
+    "PMC6172852"
+  ],
+  "doi": [
+    "10.3389/fpls.2018.01425"
+  ],
+  "title": [
+    "Pesticidal Plant Extracts Improve Yield and Reduce Insect Pests on Legume Crops Without Harming Beneficial Arthropods."
+  ],
+  "authorString": [
+    "Tembo Y, Mkindi AG, Mkenda PA, Mpumi N, Mwanauta R, Stevenson PC, Ndakidemi PA, Belmain SR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tembo Y"
+          ],
+          "firstName": [
+            "Yolice"
+          ],
+          "lastName": [
+            "Tembo"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Lilongwe University of Agriculture and Natural Resources, Lilongwe, Malawi."
+          ]
+        },
+        {
+          "fullName": [
+            "Mkindi AG"
+          ],
+          "firstName": [
+            "Angela G"
+          ],
+          "lastName": [
+            "Mkindi"
+          ],
+          "initials": [
+            "AG"
+          ],
+          "affiliation": [
+            "Nelson Mandela African Institution of Science and Technology, Arusha, Tanzania."
+          ]
+        },
+        {
+          "fullName": [
+            "Mkenda PA"
+          ],
+          "firstName": [
+            "Prisila A"
+          ],
+          "lastName": [
+            "Mkenda"
+          ],
+          "initials": [
+            "PA"
+          ],
+          "affiliation": [
+            "Nelson Mandela African Institution of Science and Technology, Arusha, Tanzania."
+          ]
+        },
+        {
+          "fullName": [
+            "Mpumi N"
+          ],
+          "firstName": [
+            "Nelson"
+          ],
+          "lastName": [
+            "Mpumi"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Nelson Mandela African Institution of Science and Technology, Arusha, Tanzania."
+          ]
+        },
+        {
+          "fullName": [
+            "Mwanauta R"
+          ],
+          "firstName": [
+            "Regina"
+          ],
+          "lastName": [
+            "Mwanauta"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Nelson Mandela African Institution of Science and Technology, Arusha, Tanzania."
+          ]
+        },
+        {
+          "fullName": [
+            "Stevenson PC"
+          ],
+          "firstName": [
+            "Philip C"
+          ],
+          "lastName": [
+            "Stevenson"
+          ],
+          "initials": [
+            "PC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0736-3619",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Jodrell Laboratory, Royal Botanic Gardens, Richmond, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Ndakidemi PA"
+          ],
+          "firstName": [
+            "Patrick A"
+          ],
+          "lastName": [
+            "Ndakidemi"
+          ],
+          "initials": [
+            "PA"
+          ],
+          "affiliation": [
+            "Nelson Mandela African Institution of Science and Technology, Arusha, Tanzania."
+          ]
+        },
+        {
+          "fullName": [
+            "Belmain SR"
+          ],
+          "firstName": [
+            "Steven R"
+          ],
+          "lastName": [
+            "Belmain"
+          ],
+          "initials": [
+            "SR"
+          ],
+          "affiliation": [
+            "Natural Resources Institute, University of Greenwich, Chatham Maritime, Kent, United Kingdom."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0736-3619",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2644150"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in plant science"
+          ],
+          "ISOAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "medlineAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "NLMid": [
+            "101568200"
+          ],
+          "ISSN": [
+            "1664-462X"
+          ],
+          "ESSN": [
+            "1664-462X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "1425"
+  ],
+  "abstractText": [
+    "In the fight against arthropod crop pests using plant secondary metabolites, most research has focussed on the identification of bioactive molecules. Several hundred candidate plant species and compounds are now known to have pesticidal properties against a range of arthropod pest species. Despite this growing body of research, few natural products are commercialized for pest management whilst on-farm use of existing botanically-based pesticides remains a small, but growing, component of crop protection practice. Uptake of natural pesticides is at least partly constrained by limited data on the trade-offs of their use on farm. The research presented here assessed the potential trade-offs of using pesticidal plant extracts on legume crop yields and the regulating ecosystem services of natural pests enemies. The application of six established pesticidal plants (Bidens pilosa, Lantana camara, Lippia javanica, Tephrosia vogelii, Tithonia diversifolia, and Vernonia amygdalina) were compared to positive and negative controls for their impact on yields of bean (Phaseolus vulgaris), cowpea (Vigna unguiculata), and pigeon pea (Cajanus cajan) crops and the abundance of key indicator pest and predatory arthropod species. Analysis of field trials showed that pesticidal plant treatments often resulted in crop yields that were comparable to the use of a synthetic pesticide (lambda-cyhalothrin). The best-performing plant species were T. vogelii, T. diversifolia, and L. javanica. The abundance of pests was very low when using the synthetic pesticide, whilst the plant extracts generally had a higher number of pests than the synthetic but lower numbers than observed on the negative controls. Beneficial arthropod numbers were low with synthetic treated crops, whereas the pesticidal plant treatments appeared to have little effect on beneficials when compared to the negative controls. The outcomes of this research suggest that using extracts of pesticidal plants to control pests can be as effective as synthetic insecticides in terms of crop yields while tritrophic effects were reduced, conserving the non-target arthropods that provide important ecosystem services such as pollination and pest regulation. Thus managing crop pests using plant secondary metabolites can be more easily integrated in to agro-ecologically sustainable crop production systems."
+  ],
+  "affiliation": [
+    "Lilongwe University of Agriculture and Natural Resources, Lilongwe, Malawi."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "pest control",
+        "Sustainable agriculture",
+        "Pesticidal plants",
+        "ecosystem services",
+        "Botanical Products",
+        "Agro-ecological Intensification"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6172852?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6172852"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpls.2018.01425"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-10-17"
+  ],
+  "firstIndexDate": [
+    "2018-10-16"
+  ],
+  "dateOfRevision": [
+    "2018-10-18"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-28"
+  ],
+  "firstPublicationDate": [
+    "2018-09-28"
+  ]
+}

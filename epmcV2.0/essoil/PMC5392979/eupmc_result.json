@@ -1,0 +1,582 @@
+{
+  "id": [
+    "28412962"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28412962"
+  ],
+  "pmcid": [
+    "PMC5392979"
+  ],
+  "doi": [
+    "10.1186/s13071-017-2122-8"
+  ],
+  "title": [
+    "Prospects for malaria control through manipulation of mosquito larval habitats and olfactory-mediated behavioural responses using plant-derived compounds."
+  ],
+  "authorString": [
+    "Muema JM, Bargul JL, Njeru SN, Onyango JO, Imbahale SS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Muema JM"
+          ],
+          "firstName": [
+            "Jackson M"
+          ],
+          "lastName": [
+            "Muema"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5713-5067",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biochemistry, Jomo Kenyatta University of Agriculture and Technology, P.O. Box 62000-00200, Nairobi, Kenya. jackson_mbithi@yahoo.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Bargul JL"
+          ],
+          "firstName": [
+            "Joel L"
+          ],
+          "lastName": [
+            "Bargul"
+          ],
+          "initials": [
+            "JL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8573-6807",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biochemistry, Jomo Kenyatta University of Agriculture and Technology, P.O. Box 62000-00200, Nairobi, Kenya."
+          ]
+        },
+        {
+          "fullName": [
+            "Njeru SN"
+          ],
+          "firstName": [
+            "Sospeter N"
+          ],
+          "lastName": [
+            "Njeru"
+          ],
+          "initials": [
+            "SN"
+          ],
+          "affiliation": [
+            "Department of Medicine, Faculty of Health Sciences, Kisii University, P.O. Box 408-40200, Kisii, Kenya."
+          ]
+        },
+        {
+          "fullName": [
+            "Onyango JO"
+          ],
+          "firstName": [
+            "Joab O"
+          ],
+          "lastName": [
+            "Onyango"
+          ],
+          "initials": [
+            "JO"
+          ],
+          "affiliation": [
+            "Department of Chemical Science and Technology, Technical University of Kenya, P.O. Box 52428-00200, Nairobi, Kenya."
+          ]
+        },
+        {
+          "fullName": [
+            "Imbahale SS"
+          ],
+          "firstName": [
+            "Susan S"
+          ],
+          "lastName": [
+            "Imbahale"
+          ],
+          "initials": [
+            "SS"
+          ],
+          "affiliation": [
+            "Department of Applied and Technical Biology, Technical University of Kenya, P.O. Box 52428-00200, Nairobi, Kenya."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5713-5067",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8573-6807",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2544075"
+      ],
+      "dateOfPublication": [
+        "2017 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Parasites & vectors"
+          ],
+          "ISOAbbreviation": [
+            "Parasit Vectors"
+          ],
+          "medlineAbbreviation": [
+            "Parasit Vectors"
+          ],
+          "NLMid": [
+            "101462774"
+          ],
+          "ISSN": [
+            "1756-3305"
+          ],
+          "ESSN": [
+            "1756-3305"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "184"
+  ],
+  "abstractText": [
+    "Malaria presents an overwhelming public health challenge, particularly in sub-Saharan Africa where vector favourable conditions and poverty prevail, potentiating the disease burden. Behavioural variability of malaria vectors poses a great challenge to existing vector control programmes with insecticide resistance already acquired to nearly all available chemical compounds. Thus, approaches incorporating plant-derived compounds to manipulate semiochemical-mediated behaviours through disruption of mosquito olfactory sensory system have considerably gained interests to interrupt malaria transmission cycle. The combination of push-pull methods and larval control have the potential to reduce malaria vector populations, thus minimising the risk of contracting malaria especially in resource-constrained communities where access to synthetic insecticides is a challenge. In this review, we have compiled information regarding the current status of knowledge on manipulation of larval ecology and chemical-mediated behaviour of adult mosquitoes with plant-derived compounds for controlling mosquito populations. Further, an update on the current advancements in technologies to improve longevity and efficiency of these compounds for field applications has been provided."
+  ],
+  "affiliation": [
+    "Department of Biochemistry, Jomo Kenyatta University of Agriculture and Technology, P.O. Box 62000-00200, Nairobi, Kenya. jackson_mbithi@yahoo.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Malaria"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pheromones"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Insect Repellents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mosquito Control"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Disease Transmission, Infectious"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phytochemicals"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Malaria",
+        "Vector Control",
+        "Anopheline Mosquitoes",
+        "Plant-derived Compounds",
+        "Integrated Vector Management",
+        "Larval Habitat Manipulation",
+        "Mosquito Functional Ecology"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "insect attractants"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Pheromones"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Insect Repellents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Phytochemicals"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5392979?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5392979"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13071-017-2122-8"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-04-25"
+  ],
+  "dateOfCreation": [
+    "2017-04-18"
+  ],
+  "firstIndexDate": [
+    "2017-04-17"
+  ],
+  "dateOfRevision": [
+    "2019-01-11"
+  ],
+  "electronicPublicationDate": [
+    "2017-04-17"
+  ],
+  "firstPublicationDate": [
+    "2017-04-17"
+  ]
+}

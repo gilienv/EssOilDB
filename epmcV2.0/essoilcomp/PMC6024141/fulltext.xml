@@ -1,0 +1,690 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Ecol Evol</journal-id><journal-id journal-id-type="iso-abbrev">Ecol Evol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7758</journal-id><journal-id journal-id-type="publisher-id">ECE3</journal-id><journal-title-group><journal-title>Ecology and Evolution</journal-title></journal-title-group><issn pub-type="epub">2045-7758</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6024141</article-id><article-id pub-id-type="doi">10.1002/ece3.4078</article-id><article-id pub-id-type="publisher-id">ECE34078</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Abundance of <italic>Bemisia tabaci</italic> Gennadius (Hemiptera: Aleyrodidae) and its parasitoids on vegetables and cassava plants in Burkina Faso (West Africa)</article-title><alt-title alt-title-type="left-running-head">ROMBA et&#x000a0;al.</alt-title></title-group><contrib-group><contrib id="ece34078-cr-0001" contrib-type="author"><name><surname>Romba</surname><given-names>Rahim</given-names></name><xref ref-type="aff" rid="ece34078-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece34078-cr-0002" contrib-type="author" corresp="yes"><name><surname>Gnankine</surname><given-names>Olivier</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-6006-6533</contrib-id><address><email>olignankine@gmail.com</email><email>olivier.gnankine@univ-ouaga.bf</email></address><xref ref-type="aff" rid="ece34078-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece34078-cr-0003" contrib-type="author"><name><surname>Drabo</surname><given-names>Samuel Fogn&#x000e9;</given-names></name><xref ref-type="aff" rid="ece34078-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece34078-cr-0004" contrib-type="author"><name><surname>Tiendrebeogo</surname><given-names>Fid&#x000e8;le</given-names></name><xref ref-type="aff" rid="ece34078-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece34078-cr-0005" contrib-type="author"><name><surname>Henri</surname><given-names>H&#x000e9;l&#x000e8;ne</given-names></name><xref ref-type="aff" rid="ece34078-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="ece34078-cr-0006" contrib-type="author"><name><surname>Mouton</surname><given-names>Laurence</given-names></name><xref ref-type="aff" rid="ece34078-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="ece34078-cr-0007" contrib-type="author"><name><surname>Vavre</surname><given-names>Fabrice</given-names></name><xref ref-type="aff" rid="ece34078-aff-0003">
+<sup>3</sup>
+</xref></contrib></contrib-group><aff id="ece34078-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Laboratoire d'Entomologie Fondamentale et Appliqu&#x000e9;e, Unit&#x000e9; de Formation et de Recherche en Sciences de la Vie et de la Terre (UFR&#x02010;SVT)</named-content>
+<institution>Universit&#x000e9; Ouaga I Pr Joseph Ki Zerbo</institution>
+<named-content content-type="city">Ouagadougou</named-content>
+<country country="BF">Burkina Faso</country>
+</aff><aff id="ece34078-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Laboratoire Mixte International Patho&#x02010;Bios</named-content>
+<institution>IRD&#x02010;INERA</institution>
+<named-content content-type="city">Ouagadougou</named-content>
+<country country="BF">Burkina Faso</country>
+</aff><aff id="ece34078-aff-0003">
+<label><sup>3</sup></label>
+<institution>Universit&#x000e9; de Lyon</institution>
+<institution>Universit&#x000e9; Lyon 1</institution>
+<institution>CNRS</institution>
+<institution>Laboratoire de Biom&#x000e9;trie et Biologie Evolutive</institution>
+<institution>UMR5558</institution>
+<named-content content-type="city">Villeurbanne</named-content>
+<country country="FR">France</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Olivier Gnankin&#x000e9;, Laboratoire d'Entomologie Fondamentale et Appliqu&#x000e9;e, Unit&#x000e9; de Formation et de Recherche en Sciences de la Vie et de la Terre (UFR&#x02010;SVT), Universit&#x000e9; Ouaga I Pr Joseph Ki Zerbo, Ouagadougou, Burkina Faso.<break/>
+Email: <email>olignankine@gmail.com</email>; <email>olivier.gnankine@univ-ouaga.bf</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>20</day><month>5</month><year>2018</year></pub-date><pub-date pub-type="collection"><month>6</month><year>2018</year></pub-date><volume>8</volume><issue>12</issue><issue-id pub-id-type="doi">10.1002/ece3.2018.8.issue-12</issue-id><fpage>6091</fpage><lpage>6103</lpage><history><date date-type="received"><day>28</day><month>9</month><year>2017</year></date><date date-type="rev-recd"><day>09</day><month>3</month><year>2018</year></date><date date-type="accepted"><day>24</day><month>3</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2018 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. <italic>Ecology and Evolution</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:ECE3-8-6091.pdf"/><abstract id="ece34078-abs-0001"><title>Abstract</title><p>The whitefly <italic>Bemisia tabaci</italic> is a pest of many agricultural and ornamental crops worldwide and particularly in Africa. It is a complex of cryptic species, which is extremely polyphagous with hundreds of host plants identified around the world. Previous surveys in western Africa indicated the presence of two biotypes of the invasive <styled-content style="fixed-case">MED</styled-content> species (<styled-content style="fixed-case">MED</styled-content>&#x02010;Q1 and <styled-content style="fixed-case">MED</styled-content>&#x02010;Q3) living in sympatry with the African species <styled-content style="fixed-case">SSA</styled-content> and <styled-content style="fixed-case">ASL</styled-content>. This situation constitutes one of the rare cases of local coexistence of various genetic entities within the <italic>B.&#x000a0;tabaci</italic> complex. In order to study the dynamics of the distribution and abundance of genetic entities within this community and to identify potential factors that could contribute to coexistence, we sampled <italic>B.&#x000a0;tabaci</italic> populations in Burkina Faso in 2015 and 2016 on various plants, and also their parasitoids. All four genetic entities were still recorded, indicating no exclusion of local species by the <styled-content style="fixed-case">MED</styled-content> species. While <italic>B.&#x000a0;tabaci</italic> individuals were found on 55 plant species belonging to eighteen (18) families showing the high polyphagy of this pest, some species/biotypes exhibited higher specificity. Two parasitoid species (<italic>Eretmocerus mundus and Encarsia vandrieschei</italic>) were also recorded with <italic>E</italic>.&#x000a0;<italic>mundus</italic> being predominant in most localities and on most plants. Our data indicated that whitefly abundance, diversity, and rate of parasitism varied according to areas, plants, and years, but that parasitism rate was globally highly correlated with whitefly abundance suggesting density dependence. Our results also suggest dynamic variation in the local diversity of <italic>B.&#x000a0;tabaci</italic> species/biotypes from 1&#x000a0;year to the other, specifically with <styled-content style="fixed-case">MED</styled-content>&#x02010;Q1 and <styled-content style="fixed-case">ASL</styled-content> species. This work provides relevant information on the nature of plant&#x02013;<italic>B.&#x000a0;tabaci</italic>&#x02010;parasitoid interactions in West Africa and identifies that coexistence might be stabilized by niche differentiation for some genetic entities. However, <styled-content style="fixed-case">MED</styled-content>&#x02010;Q1 and <styled-content style="fixed-case">ASL</styled-content> show extensive niche overlap, which could ultimately lead to competitive exclusion.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ece34078-kwd-0001">abundance</kwd><kwd id="ece34078-kwd-0002"><italic>Bemisia tabaci</italic></kwd><kwd id="ece34078-kwd-0003">host plants</kwd><kwd id="ece34078-kwd-0004">natural enemies</kwd><kwd id="ece34078-kwd-0005">parasitism</kwd></kwd-group><funding-group><award-group><funding-source>ANR</funding-source><award-id>ANR&#x02010;16&#x02010;CE02&#x02010;00014</award-id></award-group><award-group><funding-source>ATER</funding-source></award-group><award-group><funding-source>WAVE</funding-source></award-group></funding-group><counts><fig-count count="8"/><table-count count="1"/><page-count count="13"/><word-count count="7796"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>ece34078</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>June 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.4.1.1 mode:remove_FC converted:29.06.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ece34078-cit-1001">
+<string-name>
+<surname>Romba</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Gnankine</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Drabo</surname>
+<given-names>SF</given-names>
+</string-name>, et&#x000a0;al. <article-title>Abundance of <italic>Bemisia tabaci</italic> Gennadius (Hemiptera: Aleyrodidae) and its parasitoids on vegetables and cassava plants in Burkina Faso (West Africa)</article-title>. <source xml:lang="en">Ecol Evol</source>. <year>2018</year>;<volume>8</volume>:<fpage>6091</fpage>&#x02013;<lpage>6103</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/ece3.4078">https://doi.org/10.1002/ece3.4078</ext-link>
+</mixed-citation>
+</p></notes></front><body><sec id="ece34078-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Vegetable plants are cultivated in many places for their socioeconomic and nutritional importance. In Africa, the main vegetable plants belong to families of Asteraceae, Compositae, Cruciferae, Cucurbitaceae, Euphorbiaceae, Fabaceae, Leguminosae, Malvaceae, and Solanaceae. In sub&#x02010;Saharan Africa, cassava (<italic>Manihot esculenta</italic> Crantz, Euphorbiaceae) is also a major food staple crop (AVRDC, <xref rid="ece34078-bib-0006" ref-type="ref">2004</xref>) due to its high caloric content. Unfortunately, the production of cassava and vegetables is currently constrained by viral diseases and pest attacks, especially due to the whitefly <italic>Bemisia tabaci</italic> (Gennadius). This insect affects agricultural crops as well as ornamentals. More than 600 species of plants can be attacked by this pest in both field and glasshouse settings (Gelman, Gerling, Blackburn, &#x00026; Hu, <xref rid="ece34078-bib-0016" ref-type="ref">2005</xref>). It causes damage directly by feeding on sap and, to an even greater extent, indirectly by transmitting several hundreds of plant viruses (Begomovirus, Crinivirus, Ipomovirus, Torradovirus), leading to high yield losses (Brown &#x00026; Czosnek, <xref rid="ece34078-bib-0009" ref-type="ref">2002</xref>; Jones, <xref rid="ece34078-bib-0029" ref-type="ref">2003</xref>; Lapidot &#x00026; Polston, <xref rid="ece34078-bib-0031" ref-type="ref">2010</xref>).</p><p>In West Africa, <italic>B.&#x000a0;tabaci</italic> was first recorded on cassava in C&#x000f4;te d'Ivoire in 1931 (H&#x000e9;din, <xref rid="ece34078-bib-0024" ref-type="ref">1931</xref>) and in Nigeria in 1936 (Golding, <xref rid="ece34078-bib-0022" ref-type="ref">1936</xref>). In 1998, outbreaks were recorded in cotton fields in Burkina Faso, Mali, and C&#x000f4;te d'Ivoire inducing severe crop damages (Otoidobiga, Vincent, &#x00026; Stewart, <xref rid="ece34078-bib-0044" ref-type="ref">2003</xref>). The resulting losses severely impacted the economic activity of these countries (Gnankin&#x000e9;, Traore, Sanon, Traore, &#x00026; Ou&#x000e9;draogo, <xref rid="ece34078-bib-0021" ref-type="ref">2007</xref>). Nowadays <italic>B.&#x000a0;tabaci</italic> has been reported in all tropical and subtropical regions.</p><p>In order to understand outbreaks and better control <italic>B.&#x000a0;tabaci</italic> populations, a key element to keep in mind is the biodiversity encountered in this species complex. Indeed, phylogenetic studies based on the mitochondrial gene <italic>COI</italic> revealed that <italic>B.&#x000a0;tabaci</italic> is a complex of at least 41 cryptic species that belong to 11 major genetic groups (Ahmed, De Barro, Ren, Greeff, &#x00026; Qiu, <xref rid="ece34078-bib-0003" ref-type="ref">2013</xref>; Bing, Ruan, Rao, Wang, &#x00026; Liu, <xref rid="ece34078-bib-0008" ref-type="ref">2013</xref>; De Barro, Liu, Boykin, &#x00026; Dinsdale, <xref rid="ece34078-bib-0012" ref-type="ref">2011</xref>; Dinsdale, Cook, Riginos, Buckley, &#x00026; De Barro, <xref rid="ece34078-bib-0014" ref-type="ref">2010</xref>; Hu et&#x000a0;al., <xref rid="ece34078-bib-0028" ref-type="ref">2011</xref>; Liu, Colvin, &#x00026; De Barro, <xref rid="ece34078-bib-0037" ref-type="ref">2012</xref>; Sun, Xu, Luan, &#x00026; Liu, <xref rid="ece34078-bib-0051" ref-type="ref">2011</xref>; Wang, Sun, Qiu, &#x00026; Liu, <xref rid="ece34078-bib-0055" ref-type="ref">2011</xref>). Among these putative species, the Middle East&#x02013;Asia Minor 1 (MEAM1), commonly known as biotypes B and B2, and the Mediterranean (MED), which regroups the biotypes MED&#x02010;Q, MED&#x02010;J, and MED&#x02010;L, are the most invasive ones and predominate in many areas (Dinsdale et&#x000a0;al., <xref rid="ece34078-bib-0014" ref-type="ref">2010</xref>). According to De Barro et&#x000a0;al. (<xref rid="ece34078-bib-0012" ref-type="ref">2011</xref>), ASL also belongs to the MED species. However, population genetic analyses support that ASL (Africa Silver Leafing) is a distinct species (Mouton et&#x000a0;al., <xref rid="ece34078-bib-0041" ref-type="ref">2015</xref>), and thus, it will be considered as such in this study. Within the MED&#x02010;Q biotype, genetic diversity has been observed leading to the recognition of three <italic>mtCOI</italic> haplotypes, MED&#x02010;Q1, MED&#x02010;Q2, and MED&#x02010;Q3 (Chu et&#x000a0;al., <xref rid="ece34078-bib-0011" ref-type="ref">2012</xref>; Gueguen et&#x000a0;al., <xref rid="ece34078-bib-0023" ref-type="ref">2010</xref>). Five putative species of <italic>B.&#x000a0;tabaci</italic>, namely the sub&#x02010;Saharan African SSA1 to SSA5 (Legg, Shirima et&#x000a0;al., <xref rid="ece34078-bib-0034" ref-type="ref">2014</xref>), have also attracted particular attention in the last 10&#x000a0;years because they have been recognized as important pest vectors of several key African cassava viruses inducing severe yield losses and food scarcity, such as the Cassava mosaic diseases (CMD) and the Cassava brown streak disease (CBSV; Legg et&#x000a0;al., <xref rid="ece34078-bib-0033" ref-type="ref">2011</xref>). These species, within which biotypes can be distinguished, show diverse behaviors related to host plant preference, oviposition, ecological adaptation, and capacity of virus dissemination (De Barro, Trueman, &#x00026; Frohlich, <xref rid="ece34078-bib-0013" ref-type="ref">2005</xref>; Perring, <xref rid="ece34078-bib-0046" ref-type="ref">2001</xref>). They also differ in the composition of the community of endosymbiotic bacteria they harbor (De Barro et&#x000a0;al., <xref rid="ece34078-bib-0012" ref-type="ref">2011</xref>; Dinsdale et&#x000a0;al., <xref rid="ece34078-bib-0014" ref-type="ref">2010</xref>; Gnankin&#x000e9;, Mouton, Henri et&#x000a0;al., <xref rid="ece34078-bib-0019" ref-type="ref">2013</xref>; Gueguen et&#x000a0;al., <xref rid="ece34078-bib-0023" ref-type="ref">2010</xref>).</p><p>Despite these different biological characteristics that should allow stable coexistence owing to niche differentiation, competitive exclusion of local species by MEAM1 or MED invaders has been repeatedly reported (Brown, Frohlich, &#x00026; Rosell, <xref rid="ece34078-bib-0010" ref-type="ref">1995</xref>). Three main processes have been proposed to explain these exclusions: the broad host range of MEAM1 and MED species, their higher resistance to insecticides (that could also explain how MED has replaced MEAM1 in some part of the world), and reproductive interferences (Horowitz, Kontsedalov, Khasdan, &#x00026; Ishaaya, <xref rid="ece34078-bib-0026" ref-type="ref">2005</xref>; Khasdan et&#x000a0;al., <xref rid="ece34078-bib-0030" ref-type="ref">2005</xref>; Luan, De Barro, Ruan, &#x00026; Liu, <xref rid="ece34078-bib-0038" ref-type="ref">2013</xref>; Moya, Guirao, Cifuentes, Beitia, &#x00026; Cenis, <xref rid="ece34078-bib-0042" ref-type="ref">2001</xref>; Tsagkarakou, Tsigenopoulos, Gorman, Lagnel, &#x00026; Bedford, <xref rid="ece34078-bib-0054" ref-type="ref">2007</xref>; Wang et&#x000a0;al., <xref rid="ece34078-bib-0055" ref-type="ref">2011</xref>).</p><p>A remarkable situation has however been described recently in Burkina Faso, where the local ASL species was found in sympatry with two biotypes belonging to the MED species, MED&#x02010;Q1 and MED&#x02010;Q3, a biotype that has yet only been found in Burkina Faso (Gnankin&#x000e9;, Ketoh, &#x00026; Martin, <xref rid="ece34078-bib-0018" ref-type="ref">2013</xref>; Mouton et&#x000a0;al., <xref rid="ece34078-bib-0041" ref-type="ref">2015</xref>). Although data about their host range remain limited, MED&#x02010;Q1 and ASL seem much more generalists than MED&#x02010;Q3 that appears mostly restricted to <italic>Lantana camara</italic> (Gnankin&#x000e9;, Mouton, Henri et&#x000a0;al., <xref rid="ece34078-bib-0019" ref-type="ref">2013</xref>), where neither MED&#x02010;Q1 nor ASL was found. In addition, the degree of resistance to insecticides also varies between them (Gnankin&#x000e9;, Mouton, Savadogo et&#x000a0;al., <xref rid="ece34078-bib-0020" ref-type="ref">2013</xref>; Hound&#x000e9;t&#x000e9; et&#x000a0;al., <xref rid="ece34078-bib-0027" ref-type="ref">2010</xref>). While still limited, these different elements could play a role in favoring or, on the opposite, in limiting coexistence.</p><p>In order to follow the dynamics of the <italic>B.&#x000a0;tabaci</italic> community present in Burkina Faso and to identify potential factors involved in exclusion or coexistence patterns, we extended our sampling to two new years and encompassing a larger diversity of sites and plants to define more precisely the realized niche of the different genetic entities. We monitored not only presence, but also abundance, in order to assess potential competition among individuals. Because herbivores communities may also be affected by top&#x02010;down effects, we also monitored the presence of parasitoids and the rate of parasitism. Overall, these new data provide a sound basis to determine the stability of the <italic>B.&#x000a0;tabaci</italic> community at the spatial and temporal scales.</p></sec><sec id="ece34078-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="ece34078-sec-0003"><label>2.1</label><title>Sampled localities</title><p>This study was conducted in Burkina Faso, located in the west part of the African continent (Figure&#x000a0;<xref rid="ece34078-fig-0001" ref-type="fig">1</xref>). The climate is tropical with two seasons: the dry (from October to April) and the rainy (from May to September) seasons. This study was conducted during the dry season, the main season for vegetable production, from March to April, and two consecutive years (2015 and 2016) in nine localities in the provinces of Kadiogo (Tanghin, Boulmiougou, Boulbi, Koubri), Oubritenga (Loumbila), Nahouri (Ti&#x000e9;b&#x000e9;l&#x000e9;), Baz&#x000e8;ga (Lilbour&#x000e9;), Boulkiemd&#x000e9; (Werra), and Sangui&#x000e9; (Bonyolo) that all belong to the Sudano&#x02010;Sahelian zone.</p><fig fig-type="Figure" xml:lang="en" id="ece34078-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Map of the sampling areas in Burkina Faso and prevalence of <italic>Bemisia tabaci</italic> species/biotypes in 2015 and 2016</p></caption><graphic id="nlm-graphic-3" xlink:href="ECE3-8-6091-g001"/></fig></sec><sec id="ece34078-sec-0004"><label>2.2</label><title>Sampling, determination of host plant species, <italic>B.&#x000a0;tabaci</italic> abundance, and parasitism rate</title><sec id="ece34078-sec-0005"><label>2.2.1</label><title>Sampling</title><p>The host plants of <italic>B.&#x000a0;tabaci</italic> were surveyed in nine localities of Burkina Faso in 2015 and 2016. Plants included vegetables and ornamental plants as well as weeds. Only host plants where whitefly adults, eggs, and nymphs were found were considered. For these plants, five leaves (from top to bottom) were taken and examined in the laboratory under a binocular microscope. Identification of the insect larvae was carried out using the taxonomic keys of Martin (<xref rid="ece34078-bib-0039" ref-type="ref">1987</xref>) and Martin, Mifsud, and Rapisarda (<xref rid="ece34078-bib-0040" ref-type="ref">2000</xref>). The plant species were identified according to the key of Thiombiano (<xref rid="ece34078-bib-0052" ref-type="ref">2012</xref>) and Ako&#x000e9;gninou, Vander Burg, Vander, and Maessen (<xref rid="ece34078-bib-0004" ref-type="ref">2006</xref>).</p></sec><sec id="ece34078-sec-0006"><label>2.2.2</label><title>Whitefly abundance</title><p>The estimation of <italic>B.&#x000a0;tabaci</italic> abundance was performed on 12 plant species: vegetable crops, cassava, and <italic>Lantana camara</italic>. For cultivated plants, the surface of the parcels was about one&#x02010;quarter hectare for <italic>Capsicum annuum, Capsicum frutescens, Cucurbita pepo, Cucumis sativus, Hibiscus esculentus, Solanum lycopersicum, Solanum aethiopicum, Solanum incanum,</italic> and <italic>Vigna unguiculata</italic> and 1&#x000a0;ha for <italic>Manihot esculenta</italic> and <italic>Ipomoea batatas</italic>. For each plant species and parcel, thirty plants were randomly taken along two diagonal transects across each field (15 plants per diagonal) according to the method described in Sseruwagi, Sserubombwe, Legg, Ndunguru, and Thresh (<xref rid="ece34078-bib-0050" ref-type="ref">2004</xref>). For <italic>Lantana Camara</italic>, the design sampling was different and thirty plants were selected randomly on a surface of about the quarter of hectare. As adults feed and oviposit preferentially on immature leaves, whitefly abundance was determined by the average number of adults on the five youngest apical leaves of each plant. Each leaf was held by the petiole and gently inverted in order to count the number of adults present on the lower surface (Avidov &#x00026; Harpaz, <xref rid="ece34078-bib-0005" ref-type="ref">1969</xref>; Fargette, <xref rid="ece34078-bib-0015" ref-type="ref">1985</xref>). These adults were collected and preserved in 1.5&#x02010;ml tubes containing 70% ethanol.</p></sec><sec id="ece34078-sec-0007"><label>2.2.3</label><title>Parasitism rate</title><p>The rate of parasitism was evaluated on the same plants by dividing the number of <italic>B.&#x000a0;tabaci</italic> nymphs that were parasitized by the total number of nymphs present on the five leaves. Parasitized nymphs can be identified by eyes through their color, black or dark yellow. The leaves with parasitized whitefly nymphs or pupae were collected, put into Petri dishes, and brought back to the laboratory. On the same plants, adult parasitoids of <italic>B.&#x000a0;tabaci</italic> were also captured and placed directly into 1.5&#x02010;ml tubes containing 70% ethanol. Species of parasitoids were determined by Dr. Delatte (CIRAD, UMR PVBMT CIRAD&#x02010;Universit&#x000e9; de la R&#x000e9;union).</p></sec></sec><sec id="ece34078-sec-0008"><label>2.3</label><title>Determination of whitefly species/biotypes by PCR&#x02010;RFLP</title><p>The species/biotype of 630 adult whiteflies was determined using a PCR&#x02010;RFLP method as described in Henri, Terraz, Gnankin&#x000e9;, Fleury, and Mouton (<xref rid="ece34078-bib-0025" ref-type="ref">2013</xref>). This method proved to allow the identification of all the species/biotypes of <italic>B.&#x000a0;tabaci</italic> present in western Africa. Briefly, DNA was extracted from each individual using the NucleoSpin Tissue kit (MACHEREY&#x02010;NAGEL). Elution was performed in 100&#x000a0;&#x003bc;l of BE buffer. Extracts were then stored at &#x02212;20&#x000b0;C until use. The primers C1&#x02010;J&#x02010;2195 and L2&#x02010;N&#x02010;3014 were used to amplify a fragment of the <italic>mtCOI</italic> gene of <italic>B.&#x000a0;tabaci</italic> with an approximate size of 800&#x000a0;bp (Simon et&#x000a0;al., <xref rid="ece34078-bib-0049" ref-type="ref">1994</xref>). PCR amplifications were performed in a final volume of 25&#x000a0;&#x003bc;l containing 200&#x000a0;mmol/L dNTPs, 200&#x000a0;nmol/L of each primer, 1&#x000a0;mmol/L of MgCl 2, 0.5 U of DreamTaq, and 2&#x000a0;&#x003bc;l of DNA template. The cycling profile consisted of an initial denaturing phase at 94&#x000b0;C for 2&#x000a0;min, followed by 34 cycles consisting of 94&#x000b0;C for 30&#x000a0;s (denaturing), 58&#x000b0;C for 30&#x000a0;s (annealing), and 72&#x000b0;C for 1&#x000a0;min (extension), followed by a final extension phase at 72&#x000b0;C for 5&#x000a0;min. PCR products were digested with XapI and BfmI (10 UI) at 37&#x000b0;C for 3&#x000a0;hr, separated by electrophoresis on a 1.5% agarose gel at 100&#x000a0;V for 1&#x000a0;hr, and visualized by ethidium bromide staining.</p></sec><sec id="ece34078-sec-0009"><label>2.4</label><title>Statistical analyses</title><p>Statistical analyses were performed with the R software version 3.2.2 (<ext-link ext-link-type="uri" xlink:href="http://www.r-project.org/">http://www.r-project.org/</ext-link>). The effects of the locality, the host plant species, and the year on the abundance of whiteflies and on the rate of parasitism were tested globally by ANOVA and also using Tukey's pairwise mean comparison tests. The distribution of species/biotype on host plants and sites was tested using Fisher's exact tests. A linear regression was conducted to test the relationship between the rate of parasitism and the total number of nymphs, and between the whitefly abundance in 2015 and that in 2016.</p></sec></sec><sec id="ece34078-sec-0010"><label>3</label><title>RESULTS</title><sec id="ece34078-sec-0011"><label>3.1</label><title>Host plants of <italic>B.&#x000a0;tabaci</italic>
+</title><p>Our field surveys showed that the diversity of host plants of <italic>B.&#x000a0;tabaci</italic> in Burkina Faso is high. In total, <italic>B.&#x000a0;tabaci</italic> was found on 55 plant species belonging to 18 families were recorded (Table&#x000a0;<xref rid="ece34078-tbl-0001" ref-type="table">1</xref>). Ten of the 55 species were ornamental, seventeen species were vegetables, and nineteen, six, and two species were weeds, strictly economic crops as defined by Li et&#x000a0;al. (<xref rid="ece34078-bib-0036" ref-type="ref">2011</xref>), such as cassava, tobacco, potato, and fruits, respectively.</p><table-wrap id="ece34078-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Host plant species where <italic>Bemisia tabaci</italic> was found in Burkina Faso</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">No.</th><th align="left" valign="top" rowspan="1" colspan="1">Family</th><th align="left" valign="top" rowspan="1" colspan="1">Plant species</th><th align="left" valign="top" rowspan="1" colspan="1">Host type<xref ref-type="fn" rid="ece34078-note-0001">a</xref>
+</th><th align="left" valign="top" rowspan="1" colspan="1">Location<xref ref-type="fn" rid="ece34078-note-0002">b</xref>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">Amaranthaceae</td><td align="left" rowspan="1" colspan="1">
+<italic>Amaranthus hybridus</italic> L.</td><td align="left" rowspan="1" colspan="1">
+<italic>W</italic>
+</td><td align="left" rowspan="1" colspan="1">G</td></tr><tr><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Amaranthus viridis</italic> L.</td><td align="left" rowspan="1" colspan="1">W</td><td align="left" rowspan="1" colspan="1">G</td></tr><tr><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">Asteraceae</td><td align="left" rowspan="1" colspan="1">
+<italic>Ageratum conyzoides</italic> L.</td><td align="left" rowspan="1" colspan="1">W</td><td align="left" rowspan="1" colspan="1">B</td></tr><tr><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Lactuca sativa</italic> L. [cult.]</td><td align="left" rowspan="1" colspan="1">V</td><td align="left" rowspan="1" colspan="1">G, F, E, D</td></tr><tr><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">Brassicaceae</td><td align="left" rowspan="1" colspan="1">
+<italic>Brassica oleracea</italic> L. [cult.]</td><td align="left" rowspan="1" colspan="1">V</td><td align="left" rowspan="1" colspan="1">B, F, E, D</td></tr><tr><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">Capparaceae</td><td align="left" rowspan="1" colspan="1">
+<italic>Cleome gynandra</italic> L.</td><td align="left" rowspan="1" colspan="1">
+<italic>O</italic>
+</td><td align="left" rowspan="1" colspan="1">G, C</td></tr><tr><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Crateva adansonii</italic> DC.</td><td align="left" rowspan="1" colspan="1">
+<italic>F</italic>
+</td><td align="left" rowspan="1" colspan="1">H</td></tr><tr><td align="left" rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">Caricaceae</td><td align="left" rowspan="1" colspan="1">
+<italic>Carica papaya</italic> L. [cult.]</td><td align="left" rowspan="1" colspan="1">F</td><td align="left" rowspan="1" colspan="1">G</td></tr><tr><td align="left" rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">Convolvulaceae</td><td align="left" rowspan="1" colspan="1">
+<italic>Ipomoea batatas</italic> (L.) Lam. [cult.]</td><td align="left" rowspan="1" colspan="1">E</td><td align="left" rowspan="1" colspan="1">G</td></tr><tr><td align="left" rowspan="1" colspan="1">10</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Ipomoea eriocarpa</italic> R. Br.</td><td align="left" rowspan="1" colspan="1">
+<italic>W</italic>
+</td><td align="left" rowspan="1" colspan="1">C</td></tr><tr><td align="left" rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Ipomoea involucrata</italic> P. Beauv.</td><td align="left" rowspan="1" colspan="1">
+<italic>W</italic>
+</td><td align="left" rowspan="1" colspan="1">G</td></tr><tr><td align="left" rowspan="1" colspan="1">12</td><td align="left" rowspan="1" colspan="1">Cucurbitaceae</td><td align="left" rowspan="1" colspan="1">
+<italic>Cucumis sativus</italic> L. [cult.]</td><td align="left" rowspan="1" colspan="1">V</td><td align="left" rowspan="1" colspan="1">C, B, C, D, F</td></tr><tr><td align="left" rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Cucurbita pepo</italic> L. [cult.]</td><td align="left" rowspan="1" colspan="1">V</td><td align="left" rowspan="1" colspan="1">B, C</td></tr><tr><td align="left" rowspan="1" colspan="1">14</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Cucumis melo</italic> L. [cult.]</td><td align="left" rowspan="1" colspan="1">V</td><td align="left" rowspan="1" colspan="1">H</td></tr><tr><td align="left" rowspan="1" colspan="1">15</td><td align="left" rowspan="1" colspan="1">Euphorbiaceae</td><td align="left" rowspan="1" colspan="1">
+<italic>Euphorbia heterophylla</italic> L.</td><td align="left" rowspan="1" colspan="1">O</td><td align="left" rowspan="1" colspan="1">G, H</td></tr><tr><td align="left" rowspan="1" colspan="1">16</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Jatropha gossypiifolia</italic> L. [cult]</td><td align="left" rowspan="1" colspan="1">O</td><td align="left" rowspan="1" colspan="1">C</td></tr><tr><td align="left" rowspan="1" colspan="1">17</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Manihot esculenta</italic> Crantz [cult.]</td><td align="left" rowspan="1" colspan="1">E</td><td align="left" rowspan="1" colspan="1">G, H</td></tr><tr><td align="left" rowspan="1" colspan="1">18</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Euphorbia hirta</italic> L.</td><td align="left" rowspan="1" colspan="1">W</td><td align="left" rowspan="1" colspan="1">H</td></tr><tr><td align="left" rowspan="1" colspan="1">19</td><td align="left" rowspan="1" colspan="1">Fabaceae</td><td align="left" rowspan="1" colspan="1">
+<italic>Gliricidia sepium</italic> (Jacq.) Walp.</td><td align="left" rowspan="1" colspan="1">
+<italic>O</italic>
+</td><td align="left" rowspan="1" colspan="1">G</td></tr><tr><td align="left" rowspan="1" colspan="1">20</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Albizia lebbeck</italic> (L.) Benth. [cult.]</td><td align="left" rowspan="1" colspan="1">
+<italic>E</italic>
+</td><td align="left" rowspan="1" colspan="1">G</td></tr><tr><td align="left" rowspan="1" colspan="1">21</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Cassia alata</italic> L.</td><td align="left" rowspan="1" colspan="1">
+<italic>O</italic>
+</td><td align="left" rowspan="1" colspan="1">C</td></tr><tr><td align="left" rowspan="1" colspan="1">22</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Cassia occidentalis</italic> L.</td><td align="left" rowspan="1" colspan="1">
+<italic>E</italic>
+</td><td align="left" rowspan="1" colspan="1">H</td></tr><tr><td align="left" rowspan="1" colspan="1">23</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Cassia obtusifolia</italic> L.</td><td align="left" rowspan="1" colspan="1">
+<italic>W</italic>
+</td><td align="left" rowspan="1" colspan="1">G, B, C, F</td></tr><tr><td align="left" rowspan="1" colspan="1">24</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Phaseolus vulgaris</italic> L. [cult.]</td><td align="left" rowspan="1" colspan="1">V</td><td align="left" rowspan="1" colspan="1">B, F</td></tr><tr><td align="left" rowspan="1" colspan="1">25</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Piliostigma reticulatum</italic> (DC.) Hochst.</td><td align="left" rowspan="1" colspan="1">W</td><td align="left" rowspan="1" colspan="1">G</td></tr><tr><td align="left" rowspan="1" colspan="1">26</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Vigna unguiculata</italic> (L.) Walp. [cult.]</td><td align="left" rowspan="1" colspan="1">V</td><td align="left" rowspan="1" colspan="1">H</td></tr><tr><td align="left" rowspan="1" colspan="1">27</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Vigna racemosa</italic> (G.Don) Hutch.&#x00026; Dalziel</td><td align="left" rowspan="1" colspan="1">W</td><td align="left" rowspan="1" colspan="1">H</td></tr><tr><td align="left" rowspan="1" colspan="1">28</td><td align="left" rowspan="1" colspan="1">Malvaceae</td><td align="left" rowspan="1" colspan="1">
+<italic>Abelmoschus esculentus</italic> (L.) Moench [cult.]</td><td align="left" rowspan="1" colspan="1">
+<italic>V</italic>
+</td><td align="left" rowspan="1" colspan="1">G, B, F, C</td></tr><tr><td align="left" rowspan="1" colspan="1">29</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Corchorus tridens</italic> L.</td><td align="left" rowspan="1" colspan="1">V</td><td align="left" rowspan="1" colspan="1">G, B, F, C</td></tr><tr><td align="left" rowspan="1" colspan="1">30</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Hibiscus cannabinus</italic> L. [cult.]</td><td align="left" rowspan="1" colspan="1">
+<italic>W</italic>
+</td><td align="left" rowspan="1" colspan="1">B, F, H</td></tr><tr><td align="left" rowspan="1" colspan="1">31</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Hibiscus sabdariffa</italic> L. [cult.]</td><td align="left" rowspan="1" colspan="1">V</td><td align="left" rowspan="1" colspan="1">A, B, C, D, G,</td></tr><tr><td align="left" rowspan="1" colspan="1">32</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Corchorus olitorius</italic> L.</td><td align="left" rowspan="1" colspan="1">W</td><td align="left" rowspan="1" colspan="1">H</td></tr><tr><td align="left" rowspan="1" colspan="1">33</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Waltheria indica</italic> L.</td><td align="left" rowspan="1" colspan="1">
+<italic>W</italic>
+</td><td align="left" rowspan="1" colspan="1">H</td></tr><tr><td align="left" rowspan="1" colspan="1">34</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Triumfetta rhomboidea</italic> Jacq.</td><td align="left" rowspan="1" colspan="1">
+<italic>W</italic>
+</td><td align="left" rowspan="1" colspan="1">H</td></tr><tr><td align="left" rowspan="1" colspan="1">35</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Hibiscus esculentus</italic>
+</td><td align="left" rowspan="1" colspan="1">V</td><td align="left" rowspan="1" colspan="1">B, C, D, E, G</td></tr><tr><td align="left" rowspan="1" colspan="1">36</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Hibiscus scotellii</italic> Baker f.</td><td align="left" rowspan="1" colspan="1">
+<italic>W</italic>
+</td><td align="left" rowspan="1" colspan="1">H</td></tr><tr><td align="left" rowspan="1" colspan="1">37</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Hibiscus diversifolius</italic> Jacq.</td><td align="left" rowspan="1" colspan="1">
+<italic>W</italic>
+</td><td align="left" rowspan="1" colspan="1">H</td></tr><tr><td align="left" rowspan="1" colspan="1">38</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Hibiscus lobatus</italic> (Murray) Kuntze</td><td align="left" rowspan="1" colspan="1">
+<italic>W</italic>
+</td><td align="left" rowspan="1" colspan="1">H</td></tr><tr><td align="left" rowspan="1" colspan="1">39</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Malvastrum coromandelianum</italic> (L.) Garcke</td><td align="left" rowspan="1" colspan="1">
+<italic>W</italic>
+</td><td align="left" rowspan="1" colspan="1">G</td></tr><tr><td align="left" rowspan="1" colspan="1">40</td><td align="left" rowspan="1" colspan="1">Passifloraceae</td><td align="left" rowspan="1" colspan="1">
+<italic>Passiflora edulis</italic> Sims [cult.]</td><td align="left" rowspan="1" colspan="1">O</td><td align="left" rowspan="1" colspan="1">G</td></tr><tr><td align="left" rowspan="1" colspan="1">41</td><td align="left" rowspan="1" colspan="1">Phyllanthaceae</td><td align="left" rowspan="1" colspan="1">
+<italic>Flueggea virosa</italic> (Roxb. ex Willd) Voigt</td><td align="left" rowspan="1" colspan="1">
+<italic>O</italic>
+</td><td align="left" rowspan="1" colspan="1">G</td></tr><tr><td align="left" rowspan="1" colspan="1">42</td><td align="left" rowspan="1" colspan="1">Polygonaceae</td><td align="left" rowspan="1" colspan="1">
+<italic>Polygonum salicifolium</italic> Brouss. ex Willd</td><td align="left" rowspan="1" colspan="1">
+<italic>W</italic>
+</td><td align="left" rowspan="1" colspan="1">H</td></tr><tr><td align="left" rowspan="1" colspan="1">43</td><td align="left" rowspan="1" colspan="1">Portulacaceae</td><td align="left" rowspan="1" colspan="1">
+<italic>Portulaca oleracea</italic> L.</td><td align="left" rowspan="1" colspan="1">
+<italic>V</italic>
+</td><td align="left" rowspan="1" colspan="1">C</td></tr><tr><td align="left" rowspan="1" colspan="1">44</td><td align="left" rowspan="1" colspan="1">Rhamnaceae</td><td align="left" rowspan="1" colspan="1">
+<italic>Ziziphus mauritiana</italic> Lam.</td><td align="left" rowspan="1" colspan="1">
+<italic>E</italic>
+</td><td align="left" rowspan="1" colspan="1">G</td></tr><tr><td align="left" rowspan="1" colspan="1">45</td><td align="left" rowspan="1" colspan="1">Solanaceae</td><td align="left" rowspan="1" colspan="1">
+<italic>Capsicum annum</italic> L. [cult.]</td><td align="left" rowspan="1" colspan="1">V</td><td align="left" rowspan="1" colspan="1">G, B, F, C</td></tr><tr><td align="left" rowspan="1" colspan="1">46</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Capsicum frutescens</italic> L. [cult.]</td><td align="left" rowspan="1" colspan="1">V</td><td align="left" rowspan="1" colspan="1">G, F, C</td></tr><tr><td align="left" rowspan="1" colspan="1">47</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Datura innoxia</italic> Mill.</td><td align="left" rowspan="1" colspan="1">O</td><td align="left" rowspan="1" colspan="1">G.</td></tr><tr><td align="left" rowspan="1" colspan="1">48</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Solanum lycopersicum</italic> L.</td><td align="left" rowspan="1" colspan="1">V</td><td align="left" rowspan="1" colspan="1">A, B, G,</td></tr><tr><td align="left" rowspan="1" colspan="1">49</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Nicotiana tabacum</italic> L. [cult.]</td><td align="left" rowspan="1" colspan="1">E</td><td align="left" rowspan="1" colspan="1">C</td></tr><tr><td align="left" rowspan="1" colspan="1">50</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Physalis angulata</italic> L.</td><td align="left" rowspan="1" colspan="1">W</td><td align="left" rowspan="1" colspan="1">G, B, C</td></tr><tr><td align="left" rowspan="1" colspan="1">51</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Solanum aethiopicum</italic> L. [cult.]</td><td align="left" rowspan="1" colspan="1">V</td><td align="left" rowspan="1" colspan="1">G, B, D, E, F, C</td></tr><tr><td align="left" rowspan="1" colspan="1">52</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Solanum incanum</italic> L.</td><td align="left" rowspan="1" colspan="1">V</td><td align="left" rowspan="1" colspan="1">G, B, D, E</td></tr><tr><td align="left" rowspan="1" colspan="1">53</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>Solanum tuberosum</italic> L. [cult.]</td><td align="left" rowspan="1" colspan="1">O</td><td align="left" rowspan="1" colspan="1">C, D, E</td></tr><tr><td align="left" rowspan="1" colspan="1">54</td><td align="left" rowspan="1" colspan="1">Verbenaceae</td><td align="left" rowspan="1" colspan="1">
+<italic>Lantana camara</italic> L.</td><td align="left" rowspan="1" colspan="1">O</td><td align="left" rowspan="1" colspan="1">G</td></tr><tr><td align="left" rowspan="1" colspan="1">55</td><td align="left" rowspan="1" colspan="1">Zygophyllaceae</td><td align="left" rowspan="1" colspan="1">
+<italic>Balanites aegyptiaca</italic> (L.) Delile</td><td align="left" rowspan="1" colspan="1">F</td><td align="left" rowspan="1" colspan="1">G, D</td></tr></tbody></table><table-wrap-foot><fn id="ece34078-note-0001"><label>a</label><p>E&#x000a0;=&#x000a0;economic crops; F&#x000a0;=&#x000a0;fruit; O&#x000a0;=&#x000a0;ornamental plants; V&#x000a0;=&#x000a0;vegetables; W&#x000a0;=&#x000a0;weeds.</p></fn><fn id="ece34078-note-0002"><label>b</label><p>A, B, C, D, E, F, G, H, and I represent the localities of Bonyolo, Boulbi, Boulmiougou, Koubri, Lilbour&#x000e9;, Loumbila, Tanghin, Ti&#x000e9;b&#x000e9;l&#x000e9;, and Werra, respectively.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="ece34078-sec-0012"><label>3.2</label><title>Whitefly abundance</title><p>The mean whitefly abundance varied according to both the locality and the year, with a high interaction between these two factors (<italic>F</italic>&#x000a0;=&#x000a0;66.97, <italic>df</italic>&#x000a0;=&#x000a0;8, <italic>p</italic> value &#x0003c;2.10<sup>&#x02212;16</sup>; Figure&#x000a0;<xref rid="ece34078-fig-0002" ref-type="fig">2</xref>). The most infested areas were Tanghin, Ti&#x000e9;b&#x000e9;l&#x000e9;, Koubri, and Boulbi in 2015 and Tanghin, Ti&#x000e9;b&#x000e9;l&#x000e9;, Koubri, Loumbila, and Lilbour&#x000e9; in 2016.</p><fig fig-type="Figure" xml:lang="en" id="ece34078-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Average abundance of <italic>Bemisia tabaci</italic> in the different localities. Means followed by the same letters are not significantly different (generalized Tukey's all&#x02010;pair comparisons test at <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05). Areas: Boulm: Boulmiougou; Bonyo: Bonyolo; Boulb: Boulbi; Koubr: Koubri; Lilbo: Lilbour&#x000e9;; Loumb: Loumbila; Tangh: Tanghin; Tiebe: Tieb&#x000e9;l&#x000e9;</p></caption><graphic id="nlm-graphic-5" xlink:href="ECE3-8-6091-g002"/></fig><p>There is also an interaction between the host plant and the year (<italic>F</italic>&#x000a0;=&#x000a0;61.59, <italic>df</italic>&#x000a0;=&#x000a0;11, <italic>p</italic> value &#x0003c;2.10<sup>&#x02212;16</sup>; Figure&#x000a0;<xref rid="ece34078-fig-0003" ref-type="fig">3</xref>). Host plants from the families Verbenaceae, Cucurbitaceae, Solanaceae, and Fabaceae were the most preferred hosts for <italic>B.&#x000a0;tabaci</italic>. The whitefly abundance was the highest on <italic>L.&#x000a0;camara</italic>,<italic> I.&#x000a0;batatas</italic>, and <italic>C.&#x000a0;annum</italic> in 2015 and <italic>I.&#x000a0;batatas</italic>,<italic> L.&#x000a0;camara</italic>,<italic> C.&#x000a0;frutescens</italic>,<italic> S.&#x000a0;incanum</italic>, and <italic>V.&#x000a0;unguiculata</italic> in 2016.</p><fig fig-type="Figure" xml:lang="en" id="ece34078-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Average abundance of <italic>Bemisia tabaci</italic> on the host plants. Means followed by the same letters are not significantly different (generalized Tukey's all&#x02010;pair comparisons test at <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05). Host plants: <italic>C.&#x000a0;annu: Capsicum annuum; C.&#x000a0;frut: Capsicum frutescens, C.&#x000a0;pepo: Cucurbita pepo; C.&#x000a0;sati: Cucumis sativus; H.&#x000a0;escu: Hibiscus esculentus; I.&#x000a0;bata: Ipomoea batatas; L.&#x000a0;cama: Lantana camara; S.&#x000a0;lyco: Solanum lycopersicum; M.&#x000a0;escu: Manihot esculenta; S.&#x000a0;aeth: Solanum aethiopicum; S.&#x000a0;inca: Solanum incanum; V.&#x000a0;ungu: Vigna unguiculata</italic>
+</p></caption><graphic id="nlm-graphic-7" xlink:href="ECE3-8-6091-g003"/></fig><p>Overall, the mean abundance increased significantly between 2015 and 2016, especially on <italic>I.&#x000a0;batatas, C.&#x000a0;frutescens, S.&#x000a0;incanum, and V.&#x000a0;unguiculata</italic>. In order to test whether the whitefly abundance exhibits some stability between years, a regression was performed according to the localities or the host plants. Results did not show any significant relationship per area between 2015 and 2016 (<italic>r</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;.35, <italic>p</italic>&#x000a0;=&#x000a0;.08; Figure <xref rid="ece34078-sup-0001" ref-type="supplementary-material">S1</xref>A). On the other hand, a significant linear correlation was detected for host plants (<italic>r</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;.42, <italic>p</italic>&#x000a0;=&#x000a0;.01). However, this correlation was driven by two host plants, <italic>L.&#x000a0;camara</italic> and <italic>I.&#x000a0;batatas</italic>, that showed a very high abundance for the 2&#x000a0;years. When these two points were removed, the relationships became nonsignificant (<italic>r</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;.005, <italic>p</italic>&#x000a0;=&#x000a0;.85; Figure <xref rid="ece34078-sup-0001" ref-type="supplementary-material">S1</xref>B).</p><p>In conclusion, predicting abundance of <italic>B.&#x000a0;tabaci</italic> is very difficult as it is highly variable across years, sites, and host plants.</p></sec><sec id="ece34078-sec-0013"><label>3.3</label><title>Distribution of <italic>B.&#x000a0;tabaci</italic> species/biotypes</title><sec id="ece34078-sec-0014"><label>3.3.1</label><title>Geographic distribution</title><p>Among the 630 individuals sampled, three species were identified: ASL, the basal group SSA (sub&#x02010;Saharan African), and MED (Figure&#x000a0;<xref rid="ece34078-fig-0004" ref-type="fig">4</xref>). Within the MED species, two biotypes were found, MED&#x02010;Q1 and MED&#x02010;Q3. Our results suggest that species and biotypes are not randomly distributed between sites (Fisher's exact test, <italic>p</italic>&#x000a0;=&#x000a0;.0005). The MED&#x02010;Q1 biotype was found in all the localities (except one, Ti&#x000e9;b&#x000e9;l&#x000e9; in 2015) where it predominated (Figure&#x000a0;<xref rid="ece34078-fig-0001" ref-type="fig">1</xref>). ASL was found in several areas, but at lower frequencies (Table <xref rid="ece34078-sup-0002" ref-type="supplementary-material">S1</xref>). MED&#x02010;Q3 and SSA2 were only found in a restricted number of localities, which could be explained by their host specialization. The frequency and the composition of the species/biotypes varied significantly from 2015 to 2016, but MED&#x02010;Q1 remained the most represented these two years (Fisher's exact test, <italic>p</italic>&#x000a0;=&#x000a0;2.08.10<sup>&#x02212;11</sup>). In some places, as in Lilbour&#x000e9; and Ti&#x000e9;b&#x000e9;l&#x000e9;, the proportion of MED&#x02010;Q1 increased greatly between 2015 and 2016 from 10% to 90% and from 0% to 100%, respectively (Table <xref rid="ece34078-sup-0002" ref-type="supplementary-material">S1</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ece34078-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Profiles obtained on gel after <styled-content style="fixed-case">PCR</styled-content>&#x02010;<styled-content style="fixed-case">RFLP</styled-content> assays with XapI (a) and BfmI (b) to discriminate mitochondrial haplotypes. The size of the different bands obtained and the size (bp) of the bands corresponding to the ladder are indicated on the left of the figure</p></caption><graphic id="nlm-graphic-9" xlink:href="ECE3-8-6091-g004"/></fig></sec><sec id="ece34078-sec-0015"><label>3.3.2</label><title>Distribution on host plants</title><p>A significant relationship was found between the plant and the species/biotypes distribution (Fisher's exact test, <italic>p</italic>&#x000a0;=&#x000a0;.0005). Globally, most of the vegetables were infested by MED&#x02010;Q1 which was sometimes associated with ASL, MED&#x02010;Q3, and SSA2 (Figure&#x000a0;<xref rid="ece34078-fig-0005" ref-type="fig">5</xref>). MED&#x02010;Q3 was the only biotype detected on <italic>Lantana camara</italic>. Interestingly, this is the plant that showed the highest abundance of <italic>B.&#x000a0;tabaci</italic> in 2015 as well as in 2016. MED&#x02010;Q3 was also found in sympatry with MED&#x02010;Q1 on <italic>Cucurbita pepo</italic> and <italic>Cucumis sativus</italic> in Boulmiougou and on <italic>Solanum aethiopicum</italic> in Koubri, even though at very low frequency. SSA2 was the only group restricted to a single plant, cassava, where it was found together with MED&#x02010;Q1. These results highlight the important variation in host plant exploitation between <italic>B.&#x000a0;tabaci</italic> species, but also within species.</p><fig fig-type="Figure" xml:lang="en" id="ece34078-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Distribution of <italic>Bemisia tabaci</italic> species/biotypes on plants (590 individuals in total). The numbers indicate the sample size</p></caption><graphic id="nlm-graphic-11" xlink:href="ECE3-8-6091-g005"/></fig></sec></sec><sec id="ece34078-sec-0016"><label>3.4</label><title>Larval parasitism of <italic>B.&#x000a0;tabaci</italic>
+</title><p>Only two species of <italic>B.&#x000a0;tabaci</italic> parasitoids were found, which are both hymenopteran wasps from the Aphelinidae family. One is <italic>Eretmocerus mundus</italic>, while the other, based on <italic>mtCOI</italic> sequences, is related to <italic>Encarsia vandrieschei</italic> (92% identity). <italic>Encarsia</italic> specimens were only found in one locality, Lilbour&#x000e9;. On the contrary, <italic>E.&#x000a0;mundus</italic> was recorded in all the sites except in this locality. The rates of parasitism varied according to both the areas and years with a significant interaction (<italic>F</italic>&#x000a0;=&#x000a0;48.53, <italic>df</italic>&#x000a0;=&#x000a0;8, <italic>p</italic> value &#x0003c;2.10<sup>&#x02212;16</sup>; Figure&#x000a0;<xref rid="ece34078-fig-0006" ref-type="fig">6</xref>). In 2015, the rate of larval parasitism was higher in Tanghin and Lilbour&#x000e9; with a mean of 32.28% and 25.68% per plant, respectively, and the lowest was recorded in Boulbi and Ti&#x000e9;b&#x000e9;l&#x000e9; (4.17% and 5.49% per plant). In 2016, Koubri, Tanghin, and Ti&#x000e9;b&#x000e9;l&#x000e9; areas exhibited the highest rates of larval parasitism (18.19%, 18.58%, and 37.37%), and the lowest rate was recorded in Boulbi, Lilbour&#x000e9;, and Loumbila areas (6.15%, 7.67%, and 8.88% per plant). In Ti&#x000e9;b&#x000e9;l&#x000e9;, this rate increased greatly between 2015 and 2016: from 5.49% to 37.37% per plant.</p><fig fig-type="Figure" xml:lang="en" id="ece34078-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Average rate of parasitism (<italic>Eretmocerus mundus and Encarsia vandrieschei</italic>) in the different areas. Mean rates followed by the same letters are not significantly different (generalized Tukey's all&#x02010;pair comparisons test at <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05). Areas: Boulm: Boulmiougou; Bonyo: Bonyolo; Boulb: Boulbi; Koubr: Koubri; Lilbo: Lilbour&#x000e9;; Loumb: Loumbila; Tangh: Tanghin; Tiebe: Tieb&#x000e9;l&#x000e9;</p></caption><graphic id="nlm-graphic-13" xlink:href="ECE3-8-6091-g006"/></fig><p>There is also a significant interaction between the host plant and the year for the rate of parasitism (<italic>F</italic>&#x000a0;=&#x000a0;35.7, <italic>df</italic>&#x000a0;=&#x000a0;11, <italic>p</italic> value &#x0003c;2.10<sup>&#x02212;16</sup>), even though, for the 2&#x000a0;years, the highest rate was observed on <italic>L.&#x000a0;camara</italic> (72.52% in 2015, 76.13% in 2016). <italic>I.&#x000a0;batatas</italic> presents one of the lowest rates in 2015, 4.60%, but a rate close to the rate observed on <italic>L.&#x000a0;camara</italic> in 2016, 59.10% (Figure&#x000a0;<xref rid="ece34078-fig-0007" ref-type="fig">7</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ece34078-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Average percentage of parasitism (<italic>Encarsia vandrieschei</italic> only on <italic>Manihot esculenta</italic> and <italic>Eretmocerus mundus</italic>) on the host plants. Mean rates followed by the same letters are not significantly different (generalized Tukey's all&#x02010;pair comparisons test at <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05). Host plants: <italic>C.&#x000a0;annu: Capsicum annuum; C.&#x000a0;frut: Capsicum frutescens, C.&#x000a0;pepo: Cucurbita pepo; C.&#x000a0;sati: Cucumis sativus; H.&#x000a0;escu: Hibiscus esculentus; I.&#x000a0;bata: Ipomoea batatas; L.&#x000a0;cama: Lantana camara; S.&#x000a0;lyco: Solanum lycopersicum; M.&#x000a0;escu: Manihot esculenta; S.&#x000a0;aeth: Solanum aethiopicum; S.&#x000a0;inca: Solanum incanum; V.&#x000a0;ungu: Vigna unguiculata</italic>
+</p></caption><graphic id="nlm-graphic-15" xlink:href="ECE3-8-6091-g007"/></fig><p>Importantly, a clear relationship was observed between the rate of parasitism and the <italic>B.&#x000a0;tabaci</italic> larval density. This was observed by locality (<italic>p</italic>&#x000a0;=&#x000a0;.02, <italic>r</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;.53, in 2015 (Figure&#x000a0;<xref rid="ece34078-fig-0008" ref-type="fig">8</xref>a); <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.0001, <italic>r</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;.97, in 2016 (Figure&#x000a0;<xref rid="ece34078-fig-0008" ref-type="fig">8</xref>b)) and by host plant (<italic>p</italic>&#x000a0;=&#x000a0;.009, <italic>r</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;.51, in 2015 (Figure&#x000a0;<xref rid="ece34078-fig-0008" ref-type="fig">8</xref>c); <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.0001, <italic>r</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;.91, in 2016 (Figure&#x000a0;<xref rid="ece34078-fig-0008" ref-type="fig">8</xref>d)).</p><fig fig-type="Figure" xml:lang="en" id="ece34078-fig-0008" orientation="portrait" position="float"><label>Figure 8</label><caption><p>Relationship between <italic>Bemisia tabaci</italic> nymphs&#x02019; densities and rates of parasitism in the different areas in (a) 2015 and (b) 2016, and depending on the host plant in (c) 2015 and (d) 2016</p></caption><graphic id="nlm-graphic-17" xlink:href="ECE3-8-6091-g008"/></fig></sec></sec><sec id="ece34078-sec-0017"><label>4</label><title>DISCUSSION</title><p>The global analysis of <italic>B.&#x000a0;tabaci</italic> and their parasitoids in nine localities of Burkina Faso gives valuable information on the level of biodiversity present in these areas including the abundance of whiteflies&#x02019; populations in connection with the host plant species, and the location, but also with the presence and abundance of parasitoids.</p><p>Before getting into the details, it is important to stress the high abundance of whiteflies (over 21 insects per plant) in seven areas sampled (Boulbi, Boulmiougou, Koubri, Lilbour&#x000e9;, Loumbila, Tanghin, and Ti&#x000e9;b&#x000e9;l&#x000e9;) in 2015. Moreover, this abundance increased in Koubri and Ti&#x000e9;b&#x000e9;l&#x000e9; from 2015 to 2016. These values are higher than those found by Zinga et&#x000a0;al. (<xref rid="ece34078-bib-0056" ref-type="ref">2013</xref>) in Central African Republic and Sseruwagi et&#x000a0;al. (<xref rid="ece34078-bib-0050" ref-type="ref">2004</xref>) in Uganda which, using the same sampling method, found on average 1.5 and 7.1 adults per plant, respectively. Our results provide compelling evidence that Burkina Faso is facing an upsurge of superabundant whiteflies. This might be linked to the continuous increase in the <italic>B.&#x000a0;tabaci</italic> resistance to chemical products that has largely reduced the effectiveness of most available pesticides in Burkina Faso especially on cotton and vegetables plants (Gnankin&#x000e9;, Mouton, Savadogo et&#x000a0;al., <xref rid="ece34078-bib-0020" ref-type="ref">2013</xref>).</p><p>Our results also give insights into the dynamics of biodiversity of this species complex. As previously reported (Gnankin&#x000e9;, Mouton, Henri et&#x000a0;al., <xref rid="ece34078-bib-0019" ref-type="ref">2013</xref>; Gueguen et&#x000a0;al., <xref rid="ece34078-bib-0023" ref-type="ref">2010</xref>), MED&#x02010;Q1, MED&#x02010;Q3, and ASL were detected in Burkina Faso. We also detected the sub&#x02010;Saharan African species SSA (biotype SSA2). SSA1 and SSA2 are the most widely distributed biotypes of SSA and occur in East, Central, South, and West Africa (Abdullahi, Atiri, Thottappilly, &#x00026; Winter, <xref rid="ece34078-bib-0001" ref-type="ref">2004</xref>; Legg, French, Rogan, Okao&#x02010;Okuja, &#x00026; Brown, <xref rid="ece34078-bib-0032" ref-type="ref">2002</xref>; Legg, Shirima et&#x000a0;al., <xref rid="ece34078-bib-0034" ref-type="ref">2014</xref>; Tocko et&#x000a0;al., <xref rid="ece34078-bib-0053" ref-type="ref">2017</xref>). SSA2 occurs in Cameroon, Benin, and Togo (Berry et&#x000a0;al., <xref rid="ece34078-bib-0007" ref-type="ref">2004</xref>; Gnankin&#x000e9;, Mouton, Henri et&#x000a0;al., <xref rid="ece34078-bib-0019" ref-type="ref">2013</xref>) and in the most southwestern part of the DRC (Legg, Sseruwagi et&#x000a0;al., <xref rid="ece34078-bib-0035" ref-type="ref">2014</xref>). As previous surveys in Burkina Faso did not include cassava, it is probable that SSA2 was already present at that time. Globally, the diversity of <italic>B.&#x000a0;tabaci</italic> in Burkina Faso is thus important and does not seem to have changed since our last survey in 2009.</p><p>MED&#x02010;Q1 was found to be highly dominant in most of the sampled sites and vegetable plants. It is sometimes found in sympatry (the same locality and the same plant) with ASL, suggesting the possible coexistence of the ASL and MED&#x02010;Q biotypes at least on a short timescale. Interestingly, in Lilbour&#x000e9; and Ti&#x000e9;b&#x000e9;l&#x000e9; where there were frequent insecticide applications, MED&#x02010;Q1 replaced SSA2 and ASL between 2015 and 2016. As MED&#x02010;Q1 is known for its ability to displace other biotypes, we can wonder whether this illustrates invasion/displacement in Burkina Faso. The high resistance of MED&#x02010;Q1 to various insecticides may favor its spreading in treated areas. In any case, this indicates that important modification of the local diversity of <italic>B.&#x000a0;tabaci</italic> may occur from 1&#x000a0;year to another.</p><p>If invasion/displacements are frequent, then how is it possible to maintain local biodiversity in terms of species and/or biotypes? Host plant preference, host plant specialization, and plant&#x02010;dependent competitiveness could play a major role in the stability of <italic>B.&#x000a0;tabaci</italic> communities. For example, SSA2 has only been found on cassava yet. An earlier survey in sub&#x02010;Saharan Africa (SSA1, SSA2, SSA3) (Abdullahi, Winter, Atiri, &#x00026; Thottappilly, <xref rid="ece34078-bib-0002" ref-type="ref">2003</xref>) highlighted the fact that the populations that develop on cassava seem to be restricted to this host plant, whereas populations from other plants are polyphagous, but do not colonize cassava. Such niche specialization of the SSA, with cassava exercising a repulsive action on other biotypes, could allow its persistence even if other biotypes/species are present locally. Interestingly, we also collected MED&#x02010;Q1 adults, larvae, and nymphs on cassava. However, their success on this plant has not been determined yet, and it is also possible that SSA individuals can outcompete other <italic>B.&#x000a0;tabaci</italic> species on this plant. This is probably what happens for MED&#x02010;Q3 on <italic>L.&#x000a0;camara</italic>. Indeed, MED&#x02010;Q3 was the only biotype detected on this species and at extremely high density. Even the highly common MED&#x02010;Q1, which belongs to the same species, was not found on this plant. Interestingly, in Tunisia, MED&#x02010;Q1 has already been detected on <italic>L.&#x000a0;camara</italic> (Saleh, Laarif, Clouet, &#x00026; Gauthier, <xref rid="ece34078-bib-0048" ref-type="ref">2012</xref>), and MED&#x02010;Q1 individuals from Burkina Faso are able to develop on this species (Romba &#x00026; Gnankin&#x000e9;, <xref rid="ece34078-bib-0047" ref-type="ref">2018</xref>). Altogether, this suggests that MED&#x02010;Q3 outcompetes other biotypes and species in this area on <italic>L.&#x000a0;camara</italic>, which allow its local maintenance. On the opposite, very few MED&#x02010;Q3 individuals were detected on other plants than <italic>L.&#x000a0;camara</italic>. This may be due to a strong specialization of this biotype to this plant, as suggested by its inability to develop on cotton in laboratory experiments (Romba &#x00026; Gnankin&#x000e9;, <xref rid="ece34078-bib-0047" ref-type="ref">2018</xref>). Overall, only MED&#x02010;Q1 and ASL individuals seem to have similar realized niches.</p><p>Top&#x02010;down regulation could also play a role in maintaining biodiversity of <italic>B.&#x000a0;tabaci</italic>. In the current investigations, two aphelinid parasitoid wasps were collected: <italic>Eretmocerus mundus</italic> and <italic>Encarsia vandrieschei</italic>. <italic>Eretmocerus mundus</italic> was recorded in all sites and host plants excepted in Lilbour&#x000e9; where <italic>Encarsia</italic> vandrieschei. was sampled, but only on cassava plants that hosted SSA individuals. This suggests that parasitoids could present some specificities to the <italic>B.&#x000a0;tabaci</italic> species or the host plant. On the opposite<italic>, Eretmocerus</italic> was found to parasitize larvae of MED&#x02010;Q1, MED&#x02010;Q3, and ASL. A clear relationship between larval abundance and parasitism rate was recorded as those observed 12&#x000a0;years ago by Gnankin&#x000e9; (<xref rid="ece34078-bib-0017" ref-type="ref">2005</xref>) and Otoidobiga, Vincent, and Stewart (<xref rid="ece34078-bib-0045" ref-type="ref">2004</xref>). This confirms that parasitoids parasitize <italic>B.&#x000a0;tabaci</italic> in a density&#x02010;dependent manner. This phenomenon could be explained by the production of allomones by plants. Indeed, it is known that the production of allomones is an indirect defense strategy of the plant that can attract parasitoids and predators (Mumm &#x00026; Dicke, <xref rid="ece34078-bib-0043" ref-type="ref">2010</xref>). Most herbivore&#x02010;induced plant volatiles can be classified as terpenoids, green leaf volatiles, phenylpropanoids, and sulfur&#x02010; or nitrogen&#x02010;containing compounds. Increased release of allomones by plants due to a higher <italic>B.&#x000a0;tabaci</italic> abundance may thus attract more parasitoids and explain why the parasitism rate depends on whitefly abundance. It is however not clear how this phenomenon may interact with the local dynamics of <italic>B.&#x000a0;tabaci</italic> community.</p></sec><sec id="ece34078-sec-0018"><label>5</label><title>CONCLUSION</title><p>The present work has led to a better understanding of the distribution of whiteflies and their parasitoids in connection with host plants in Burkina Faso. Also, the <italic>B.&#x000a0;tabaci</italic> biodiversity on vegetables, cassava, and ornamental plants in Burkina Faso has been updated. Among the four whitefly species/biotypes identified, one of them, MED&#x02010;Q1 biotype of <italic>B.&#x000a0;tabaci</italic>, is currently a serious pest in Burkina Faso in view of its superabundance. Knowledge on the dynamics of <italic>B.&#x000a0;tabaci</italic> biodiversity and its parasitoids each year is necessary for the development of effective control strategies as the different biological entities do not have the same insecticide resistance capacity. However, the important variations observed between the 2&#x000a0;years highlight that abundance of <italic>B.&#x000a0;tabaci</italic> is highly fluctuant, which will probably impose regular adjustments in local control strategies.</p></sec><sec id="ece34078-sec-0020"><title>CONFLICT OF INTEREST</title><p>None declared.</p></sec><sec id="ece34078-sec-0021"><title>AUTHOR CONTRIBUTION</title><p>OG, RR, SFD, and FT contributed to the design of the study. VF, HH, and LM critically contributed to the implementation of the study. OG, RR, SFD, FT, HH, and LM conducted field evaluations and laboratory research. RR drafted the manuscript and OG, VF, HH, and LM revised it. All authors read and approved the final manuscript.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="ece34078-sup-0001"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-8-6091-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="ece34078-sup-0002"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-8-6091-s002.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="ece34078-sec-0019"><title>ACKNOWLEDGMENTS</title><p>This study was funded by Campus France, by the Agence Nationale de la Recherche (Hmicmac, ANR&#x02010;16&#x02010;CE02&#x02010;00014), and by WAVE (West African Virus Epidemiology for Root and Tuber Crops) project. ROMBA Rahim is the recipient of a PhD studentship of University of Ouaga I Pr Joseph Ki&#x02010;Zerbo. The authors would like to thank Zerbo Issouf and Dr. H&#x000e9;l&#x000e8;ne Delatte for identification of plant species and parasitoids, respectively.</p></ack><ref-list content-type="cited-references" id="ece34078-bibl-0001"><title>REFERENCES</title><ref id="ece34078-bib-0001"><mixed-citation publication-type="journal" id="ece34078-cit-0001">
+<string-name>
+<surname>Abdullahi</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Atiri</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Thottappilly</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Winter</surname>, <given-names>S.</given-names>
+</string-name> (<year>2004</year>). <article-title>Discrimination of cassava&#x02010;associated <italic>Bemisia tabaci</italic> in Africa from polyphagous populations, by PCR&#x02013;RFLP of the internal transcribed spacer regions of ribosomal DNA</article-title>. <source xml:lang="en">Journal of Applied Entomology</source>, <volume>128</volume>, <fpage>81</fpage>&#x02013;<lpage>87</lpage>.</mixed-citation></ref><ref id="ece34078-bib-0002"><mixed-citation publication-type="journal" id="ece34078-cit-0002">
+<string-name>
+<surname>Abdullahi</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Winter</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Atiri</surname>, <given-names>G. I.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Thottappilly</surname>, <given-names>G.</given-names>
+</string-name> (<year>2003</year>). <article-title>Molecular characterization of whitefly, <italic>Bemisia tabaci</italic> (Hemiptera: Aleyrodidae) populations infesting cassava</article-title>. <source xml:lang="en">Bulletin of Entomological Research</source>, <volume>93</volume>, <fpage>97</fpage>&#x02013;<lpage>106</lpage>.<pub-id pub-id-type="pmid">12699530</pub-id></mixed-citation></ref><ref id="ece34078-bib-0003"><mixed-citation publication-type="journal" id="ece34078-cit-0003">
+<string-name>
+<surname>Ahmed</surname>, <given-names>M. Z.</given-names>
+</string-name>, <string-name>
+<surname>De Barro</surname>, <given-names>P. J.</given-names>
+</string-name>, <string-name>
+<surname>Ren</surname>, <given-names>S. X.</given-names>
+</string-name>, <string-name>
+<surname>Greeff</surname>, <given-names>J. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Qiu</surname>, <given-names>B. L.</given-names>
+</string-name> (<year>2013</year>). <article-title>Evidence for horizontal transmission of secondary endosymbionts in the <italic>Bemisia tabaci</italic> cryptic species complex</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>8</volume>, <fpage>20</fpage>&#x02013;<lpage>24</lpage>.</mixed-citation></ref><ref id="ece34078-bib-0004"><mixed-citation publication-type="book" id="ece34078-cit-0004">
+<string-name>
+<surname>Ako&#x000e9;gninou</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Vander Burg</surname>, <given-names>W. J.</given-names>
+</string-name>, <string-name>
+<surname>Vander</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Maessen</surname>, <given-names>J. G.</given-names>
+</string-name> (<year>2006</year>). <source xml:lang="en">Flore analytique du B&#x000e9;nin</source>. <publisher-loc>Leiden, the Netherlands</publisher-loc>: <publisher-name>Backhuys Publishers</publisher-name>.</mixed-citation></ref><ref id="ece34078-bib-0005"><mixed-citation publication-type="book" id="ece34078-cit-0005">
+<string-name>
+<surname>Avidov</surname>, <given-names>Z.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Harpaz</surname>, <given-names>I.</given-names>
+</string-name> (<year>1969</year>). <source xml:lang="en">Plant pests of Israel</source>. <publisher-loc>Jerusalem, Israel</publisher-loc>: <publisher-name>Israel University Press</publisher-name>.</mixed-citation></ref><ref id="ece34078-bib-0006"><mixed-citation publication-type="book" id="ece34078-cit-0006">
+<collab collab-type="authors">AVRDC</collab>
+(<year>2004</year>). <source xml:lang="en">AVRDC publication number 07&#x02010;691</source>. <publisher-loc>Shanhua, Taiwan</publisher-loc>: <publisher-name>AVRDC&#x02010; The World Vegetable Center</publisher-name>.</mixed-citation></ref><ref id="ece34078-bib-0007"><mixed-citation publication-type="journal" id="ece34078-cit-0007">
+<string-name>
+<surname>Berry</surname>, <given-names>S. D.</given-names>
+</string-name>, <string-name>
+<surname>Fondong</surname>, <given-names>V. N.</given-names>
+</string-name>, <string-name>
+<surname>Rey</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Rogan</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Fauquet</surname>, <given-names>C. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Brown</surname>, <given-names>J. K.</given-names>
+</string-name> (<year>2004</year>). <article-title>Molecular evidence for five distinct <italic>Bemisia tabaci</italic> (Homoptera: Aleyrodidae) geographic haplotypes associated with cassava plants in sub&#x02010;Saharan Africa</article-title>. <source xml:lang="en">Annals of Entomological Society of America</source>, <volume>97</volume>, <fpage>852</fpage>&#x02013;<lpage>859</lpage>.</mixed-citation></ref><ref id="ece34078-bib-0008"><mixed-citation publication-type="journal" id="ece34078-cit-0008">
+<string-name>
+<surname>Bing</surname>, <given-names>X. L.</given-names>
+</string-name>, <string-name>
+<surname>Ruan</surname>, <given-names>Y. M.</given-names>
+</string-name>, <string-name>
+<surname>Rao</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>X. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Liu</surname>, <given-names>S. S.</given-names>
+</string-name> (<year>2013</year>). <article-title>Diversity of secondary endosymbionts among different putative species of the whitefly <italic>Bemisia tabaci</italic>
+</article-title>. <source xml:lang="en">Insect Science</source>, <volume>20</volume>, <fpage>194</fpage>&#x02013;<lpage>206</lpage>.<pub-id pub-id-type="pmid">23955860</pub-id></mixed-citation></ref><ref id="ece34078-bib-0009"><mixed-citation publication-type="journal" id="ece34078-cit-0009">
+<string-name>
+<surname>Brown</surname>, <given-names>J. K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Czosnek</surname>, <given-names>H.</given-names>
+</string-name> (<year>2002</year>). <article-title>Whitefly transmission of plant viruses</article-title>. <source xml:lang="en">Advances in Botanical Research</source>, <volume>36</volume>, <fpage>65</fpage>&#x02013;<lpage>100</lpage>.</mixed-citation></ref><ref id="ece34078-bib-0010"><mixed-citation publication-type="journal" id="ece34078-cit-0010">
+<string-name>
+<surname>Brown</surname>, <given-names>J. K.</given-names>
+</string-name>, <string-name>
+<surname>Frohlich</surname>, <given-names>D. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rosell</surname>, <given-names>R. C.</given-names>
+</string-name> (<year>1995</year>). <article-title>The sweet potato or silver leaf whiteflies: Biotypes of <italic>Bemisia tabaci</italic> (Genn.), or a species complex?</article-title>
+<source xml:lang="en">Annual Review of Entomology</source>, <volume>40</volume>, <fpage>511</fpage>&#x02013;<lpage>534</lpage>.</mixed-citation></ref><ref id="ece34078-bib-0011"><mixed-citation publication-type="journal" id="ece34078-cit-0011">
+<string-name>
+<surname>Chu</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Nichols</surname>, <given-names>R. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Li</surname>, <given-names>X.</given-names>
+</string-name> (<year>2012</year>). <article-title>Use of mitochondrial cytochrome oxidase I polymerase chain reaction&#x02010;restriction fragment length polymorphism for identifying subclades of <italic>Bemisia tabaci</italic> Mediterranean group</article-title>. <source xml:lang="en">Journal of Economic Entomology</source>, <volume>105</volume>, <fpage>242</fpage>&#x02013;<lpage>251</lpage>.<pub-id pub-id-type="pmid">22420277</pub-id></mixed-citation></ref><ref id="ece34078-bib-0012"><mixed-citation publication-type="journal" id="ece34078-cit-0012">
+<string-name>
+<surname>De Barro</surname>, <given-names>P. J.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>S. S.</given-names>
+</string-name>, <string-name>
+<surname>Boykin</surname>, <given-names>L. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dinsdale</surname>, <given-names>A. B.</given-names>
+</string-name> (<year>2011</year>). <article-title>
+<italic>Bemisia tabaci</italic>: A statement of species status</article-title>. <source xml:lang="en">Annual Review of Entomology</source>, <volume>56</volume>, <fpage>1</fpage>&#x02013;<lpage>19</lpage>.</mixed-citation></ref><ref id="ece34078-bib-0013"><mixed-citation publication-type="journal" id="ece34078-cit-0013">
+<string-name>
+<surname>De Barro</surname>, <given-names>P. J.</given-names>
+</string-name>, <string-name>
+<surname>Trueman</surname>, <given-names>J. W. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Frohlich</surname>, <given-names>D. R.</given-names>
+</string-name> (<year>2005</year>). <article-title>
+<italic>Bemisia argentifolii</italic> is a race of <italic>B.&#x000a0;tabaci</italic> (Hemiptera: Aleyrodidae): The molecular genetic differentiation of <italic>B.&#x000a0;tabaci</italic> populations around the world</article-title>. <source xml:lang="en">Bulletin of Entomological Research</source>, <volume>95</volume>, <fpage>193</fpage>&#x02013;<lpage>203</lpage>.<pub-id pub-id-type="pmid">15960874</pub-id></mixed-citation></ref><ref id="ece34078-bib-0014"><mixed-citation publication-type="journal" id="ece34078-cit-0014">
+<string-name>
+<surname>Dinsdale</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Cook</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Riginos</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Buckley</surname>, <given-names>Y. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>De Barro</surname>, <given-names>P. J.</given-names>
+</string-name> (<year>2010</year>). <article-title>Refined global analysis of <italic>Bemisia tabaci</italic> (Hemiptera: Sternorrhyncha: Aleyrodoidea: Aleyrodidae) mitochondrial cytochrome oxidase 1 to identify species level genetic boundaries</article-title>. <source xml:lang="en">Annals of the Entomological Society of America</source>, <volume>103</volume>, <fpage>196</fpage>&#x02013;<lpage>208</lpage>.</mixed-citation></ref><ref id="ece34078-bib-0015"><mixed-citation publication-type="miscellaneous" id="ece34078-cit-0015">
+<string-name>
+<surname>Fargette</surname>, <given-names>D.</given-names>
+</string-name> (<year>1985</year>). <article-title>Epid&#x000e9;miologie de la Mosa&#x000ef;que Africaine du Manioc en C&#x000f4;te d'Ivoire</article-title>. Th&#x000e8;se de la Facult&#x000e9; des sciences de l'Universit&#x000e9; de Montpellier, 203&#x000a0;pp.</mixed-citation></ref><ref id="ece34078-bib-0016"><mixed-citation publication-type="journal" id="ece34078-cit-0016">
+<string-name>
+<surname>Gelman</surname>, <given-names>D. B.</given-names>
+</string-name>, <string-name>
+<surname>Gerling</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Blackburn</surname>, <given-names>M. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hu</surname>, <given-names>J. S.</given-names>
+</string-name> (<year>2005</year>). <article-title>Host&#x02010;parasite interactions between whiteflies and their parasitoids</article-title>. <source xml:lang="en">Archives of Insect Biochemistry and Physiology</source>, <volume>60</volume>, <fpage>209</fpage>&#x02013;<lpage>222</lpage>.<pub-id pub-id-type="pmid">16304614</pub-id></mixed-citation></ref><ref id="ece34078-bib-0017"><mixed-citation publication-type="miscellaneous" id="ece34078-cit-0017">
+<string-name>
+<surname>Gnankin&#x000e9;</surname>, <given-names>O.</given-names>
+</string-name> (<year>2005</year>). <article-title>Etude de La bio&#x000e9;cologie de Bemisia tabaci Gennadius (Homoptera&#x0202f;: Aleyrodidae) et de son ennemi naturel, Encarsia sp. (Hymenoptera&#x0202f;: Aphelinidae) en culture cotonni&#x000e8;re dans l'Ouest du Burkina Faso Th&#x000e8;se de Doctorat</article-title>. Universit&#x000e9; de Ouagadougou, pp. 115.</mixed-citation></ref><ref id="ece34078-bib-0018"><mixed-citation publication-type="journal" id="ece34078-cit-0018">
+<string-name>
+<surname>Gnankin&#x000e9;</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Ketoh</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Martin</surname>, <given-names>T.</given-names>
+</string-name> (<year>2013</year>). <article-title>Dynamics of the invasive <italic>Bemisia tabaci</italic> (Homoptera: Aleyrodidae) mediterranean (MED) species in two West African countries</article-title>. <source xml:lang="en">International Journal of Tropical Insect Science</source>, <volume>33</volume>, <fpage>99</fpage>&#x02013;<lpage>106</lpage>.</mixed-citation></ref><ref id="ece34078-bib-0019"><mixed-citation publication-type="journal" id="ece34078-cit-0019">
+<string-name>
+<surname>Gnankin&#x000e9;</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Mouton</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Henri</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Terraz</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Houndet&#x000e9;</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>, <given-names>T.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Fleury</surname>, <given-names>F.</given-names>
+</string-name> (<year>2013</year>). <article-title>Distribution of the <italic>Bemisia tabaci</italic> biotypes (Homoptera: Aleyrodidae) and their associated symbiotic bacteria on host plants in Western Africa</article-title>. <source xml:lang="en">Insect Conservation Divers</source>, <volume>6</volume>, <fpage>411</fpage>&#x02013;<lpage>421</lpage>.</mixed-citation></ref><ref id="ece34078-bib-0020"><mixed-citation publication-type="journal" id="ece34078-cit-0020">
+<string-name>
+<surname>Gnankin&#x000e9;</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Mouton</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Savadogo</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Sanon</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Vavre</surname>, <given-names>F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fleury</surname>, <given-names>F.</given-names>
+</string-name> (<year>2013</year>). <article-title>Biotype status and resistance to neonicotinoid and carbosulfan in <italic>Bemisia tabaci</italic> (Hemiptera: Aleyrodidae) in Burkina Faso, West Africa</article-title>. <source xml:lang="en">International Journal of Pest Management</source>, <volume>59</volume>, <fpage>95</fpage>&#x02013;<lpage>102</lpage>.</mixed-citation></ref><ref id="ece34078-bib-0021"><mixed-citation publication-type="journal" id="ece34078-cit-0021">
+<string-name>
+<surname>Gnankin&#x000e9;</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Traore</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Sanon</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Traore</surname>, <given-names>N. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ou&#x000e9;draogo</surname>, <given-names>A. P.</given-names>
+</string-name> (<year>2007</year>). <article-title>Traitements insecticides et dynamique des populations de <italic>Bemisia tabaci</italic> en culture cotonni&#x000e8;re au Burkina Faso</article-title>. <source xml:lang="en">Cahiers Agriculture</source>, <volume>16</volume>, <fpage>101</fpage>&#x02013;<lpage>109</lpage>.</mixed-citation></ref><ref id="ece34078-bib-0022"><mixed-citation publication-type="journal" id="ece34078-cit-0022">
+<string-name>
+<surname>Golding</surname>, <given-names>F. D.</given-names>
+</string-name> (<year>1936</year>). <article-title>Cassava mosaic in southern Nigeria</article-title>. <source xml:lang="en">Bulletin of the Department of Agriculture, Nigeria</source>, <volume>11</volume>, <fpage>1</fpage>&#x02013;<lpage>10</lpage>.</mixed-citation></ref><ref id="ece34078-bib-0023"><mixed-citation publication-type="journal" id="ece34078-cit-0023">
+<string-name>
+<surname>Gueguen</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Vavre</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Gnankine</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Peterschmitt</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Charif</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Chiel</surname>, <given-names>E.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Fleury</surname>, <given-names>F.</given-names>
+</string-name> (<year>2010</year>). <article-title>Endosymbiont metacommunities, mtDNA diversity and the evolution of the <italic>Bemisia tabaci</italic> (Hemiptera: Aleyrodidae) species complex</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>19</volume>, <fpage>4365</fpage>&#x02013;<lpage>4378</lpage>.<pub-id pub-id-type="pmid">20723069</pub-id></mixed-citation></ref><ref id="ece34078-bib-0024"><mixed-citation publication-type="journal" id="ece34078-cit-0024">
+<string-name>
+<surname>H&#x000e9;din</surname>, <given-names>L.</given-names>
+</string-name> (<year>1931</year>). <article-title>Culture du manioc en C&#x000f4;te d'Ivoire; observations compl&#x000e9;mentaires sur la mosa&#x000ef;que</article-title>. <source xml:lang="en">Revue de Botanique Appliqu&#x000e9;e</source>, <volume>11</volume>, <fpage>558</fpage>&#x02013;<lpage>563</lpage>.</mixed-citation></ref><ref id="ece34078-bib-0025"><mixed-citation publication-type="journal" id="ece34078-cit-0025">
+<string-name>
+<surname>Henri</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Terraz</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Gnankin&#x000e9;</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Fleury</surname>, <given-names>F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mouton</surname>, <given-names>L.</given-names>
+</string-name> (<year>2013</year>). <article-title>Molecular characterisation of genetic diversity within the Africa/Middle East/Asia Minor and Sub&#x02010;Saharan African groups of the <italic>Bemisia tabaci</italic> species complex</article-title>. <source xml:lang="en">International Journal of Pest Management</source>, <volume>59</volume>, <fpage>329</fpage>&#x02013;<lpage>338</lpage>.</mixed-citation></ref><ref id="ece34078-bib-0026"><mixed-citation publication-type="journal" id="ece34078-cit-0026">
+<string-name>
+<surname>Horowitz</surname>, <given-names>A. R.</given-names>
+</string-name>, <string-name>
+<surname>Kontsedalov</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Khasdan</surname>, <given-names>V.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ishaaya</surname>, <given-names>I.</given-names>
+</string-name> (<year>2005</year>). <article-title>Biotypes B and Q of <italic>Bemisia tabaci</italic> and their relevance to neonicotinoid and pyriproxyfen resistance</article-title>. <source xml:lang="en">Archives of Insect Biochemistry and Physiology</source>, <volume>58</volume>, <fpage>216</fpage>&#x02013;<lpage>225</lpage>.<pub-id pub-id-type="pmid">15756703</pub-id></mixed-citation></ref><ref id="ece34078-bib-0027"><mixed-citation publication-type="journal" id="ece34078-cit-0027">
+<string-name>
+<surname>Hound&#x000e9;t&#x000e9;</surname>, <given-names>T. A.</given-names>
+</string-name>, <string-name>
+<surname>Fournier</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Ketoh</surname>, <given-names>G. K.</given-names>
+</string-name>, <string-name>
+<surname>Glitho</surname>, <given-names>I. A.</given-names>
+</string-name>, <string-name>
+<surname>Nauen</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Martin</surname>, <given-names>T.</given-names>
+</string-name> (<year>2010</year>). <article-title>Biochemical determination of acetylcholinesterase genotypes conferring resistance to the organophosphate insecticide chlorpyriphos in field populations of <italic>Bemisia tabaci</italic> from Benin, West Africa</article-title>. <source xml:lang="en">Pesticide Biochemistry and Physiology</source>, <volume>98</volume>, <fpage>115</fpage>&#x02013;<lpage>120</lpage>.</mixed-citation></ref><ref id="ece34078-bib-0028"><mixed-citation publication-type="journal" id="ece34078-cit-0028">
+<string-name>
+<surname>Hu</surname>, <given-names>X. S.</given-names>
+</string-name>, <string-name>
+<surname>Dennehy</surname>, <given-names>T. J.</given-names>
+</string-name>, <string-name>
+<surname>Ni</surname>, <given-names>X. Z.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>H. Y.</given-names>
+</string-name>, <string-name>
+<surname>Nichols</surname>, <given-names>R. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Li</surname>, <given-names>X. C.</given-names>
+</string-name> (<year>2011</year>). <article-title>Potential adaptation of a Q biotype whitefly population from poinsettia to field crops</article-title>. <source xml:lang="en">Insect Science</source>, <volume>18</volume>, <fpage>719</fpage>&#x02013;<lpage>728</lpage>.</mixed-citation></ref><ref id="ece34078-bib-0029"><mixed-citation publication-type="journal" id="ece34078-cit-0029">
+<string-name>
+<surname>Jones</surname>, <given-names>D. R.</given-names>
+</string-name> (<year>2003</year>). <article-title>Plant viruses transmitted by whiteflies</article-title>. <source xml:lang="en">European Journal of Plant Pathology</source>, <volume>109</volume>, <fpage>195</fpage>&#x02013;<lpage>219</lpage>.</mixed-citation></ref><ref id="ece34078-bib-0030"><mixed-citation publication-type="journal" id="ece34078-cit-0030">
+<string-name>
+<surname>Khasdan</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Levin</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Rosner</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Morin</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kontsedalov</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Maslenin</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Horowitz</surname>, <given-names>A. R.</given-names>
+</string-name> (<year>2005</year>). <article-title>DNA markers for identifying biotypes B and Q of <italic>Bemisia tabaci</italic> (Hemiptera: Aleyrodidae) and studying population dynamics</article-title>. <source xml:lang="en">Bulletin of Entomological Research</source>, <volume>95</volume>, <fpage>605</fpage>&#x02013;<lpage>613</lpage>.<pub-id pub-id-type="pmid">16336708</pub-id></mixed-citation></ref><ref id="ece34078-bib-0031"><mixed-citation publication-type="book" id="ece34078-cit-0031">
+<string-name>
+<surname>Lapidot</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Polston</surname>, <given-names>J. E.</given-names>
+</string-name> (<year>2010</year>). <chapter-title>Biology and epidemiology of <italic>Bemisia</italic>&#x02010;vectored viruses</chapter-title> In <person-group person-group-type="editor"><name><surname>Stansly</surname><given-names>P. A.</given-names></name></person-group>, &#x00026; <person-group person-group-type="editor"><name><surname>Naranjo</surname><given-names>S. E.</given-names></name></person-group> (Eds.), <source xml:lang="en">Bemisia: Bionomics and management of a global pest</source> (pp. <fpage>227</fpage>&#x02013;<lpage>345</lpage>). <publisher-loc>Dordrecht, the Netherlands</publisher-loc>: <publisher-name>Springer</publisher-name>.</mixed-citation></ref><ref id="ece34078-bib-0032"><mixed-citation publication-type="journal" id="ece34078-cit-0032">
+<string-name>
+<surname>Legg</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>French</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Rogan</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Okao&#x02010;Okuja</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Brown</surname>, <given-names>J.</given-names>
+</string-name> (<year>2002</year>). <article-title>A distinct <italic>Bemisia tabaci</italic> (Gennadius) (Hemiptera: Sternorrhyncha: Aleyrodidae) genotype cluster is associated with the epidemic of severe cassava mosaic virus disease in Uganda</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>11</volume>, <fpage>1219</fpage>&#x02013;<lpage>1229</lpage>.<pub-id pub-id-type="pmid">12074729</pub-id></mixed-citation></ref><ref id="ece34078-bib-0033"><mixed-citation publication-type="journal" id="ece34078-cit-0033">
+<string-name>
+<surname>Legg</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Jeremiah</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Obiero</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Maruthi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ndyetabula</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Okao&#x02010;Okuja</surname>, <given-names>G.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Gashaka</surname>, <given-names>G.</given-names>
+</string-name> (<year>2011</year>). <article-title>Comparing the regional epidemiology of the cassava mosaic and cassava brown streak virus pandemics in Africa</article-title>. <source xml:lang="en">Virus Research</source>, <volume>159</volume>, <fpage>161</fpage>&#x02013;<lpage>170</lpage>.<pub-id pub-id-type="pmid">21549776</pub-id></mixed-citation></ref><ref id="ece34078-bib-0034"><mixed-citation publication-type="journal" id="ece34078-cit-0034">
+<string-name>
+<surname>Legg</surname>, <given-names>J. P.</given-names>
+</string-name>, <string-name>
+<surname>Shirima</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Tajebe</surname>, <given-names>L. S.</given-names>
+</string-name>, <string-name>
+<surname>Guastella</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Boniface</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Jeremiah</surname>, <given-names>S.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Rapisarda</surname>, <given-names>C.</given-names>
+</string-name> (<year>2014</year>). <article-title>Biology and management of <italic>Bemisia</italic> whitefly vectors of cassava virus pandemics in Africa</article-title>. <source xml:lang="en">Pest Management Science</source>, <volume>70</volume>, <fpage>1446</fpage>&#x02013;<lpage>1453</lpage>.<pub-id pub-id-type="pmid">24706604</pub-id></mixed-citation></ref><ref id="ece34078-bib-0035"><mixed-citation publication-type="journal" id="ece34078-cit-0035">
+<string-name>
+<surname>Legg</surname>, <given-names>J. P.</given-names>
+</string-name>, <string-name>
+<surname>Sseruwagi</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Boniface</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Okao&#x02010;Okuja</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Shirima</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Bigirimana</surname>, <given-names>S.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Obiero</surname>, <given-names>H.</given-names>
+</string-name> (<year>2014</year>). <article-title>Spatio&#x02010;temporal patterns of genetic change amongst populations of cassava <italic>Bemisia tabaci</italic> whiteflies driving virus pandemics in East and Central Africa</article-title>. <source xml:lang="en">Virus Research</source>, <volume>186</volume>, <fpage>61</fpage>&#x02013;<lpage>75</lpage>.<pub-id pub-id-type="pmid">24291251</pub-id></mixed-citation></ref><ref id="ece34078-bib-0036"><mixed-citation publication-type="journal" id="ece34078-cit-0036">
+<string-name>
+<surname>Li</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name>
+<surname>Xue</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Ahmed</surname>, <given-names>M. Z.</given-names>
+</string-name>, <string-name>
+<surname>Ren</surname>, <given-names>S. X.</given-names>
+</string-name>, <string-name>
+<surname>Du</surname>, <given-names>Y. Z.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>J. H.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Qiu</surname>, <given-names>B. L.</given-names>
+</string-name> (<year>2011</year>). <article-title>Host plants and natural enemies of <italic>Bemisia tabaci</italic> (Hemiptera: Aleyrodidae) in China</article-title>. <source xml:lang="en">Insect Science</source>, <volume>18</volume>, <fpage>101</fpage>&#x02013;<lpage>120</lpage>.</mixed-citation></ref><ref id="ece34078-bib-0037"><mixed-citation publication-type="journal" id="ece34078-cit-0037">
+<string-name>
+<surname>Liu</surname>, <given-names>S. S.</given-names>
+</string-name>, <string-name>
+<surname>Colvin</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>De Barro</surname>, <given-names>P. J.</given-names>
+</string-name> (<year>2012</year>). <article-title>Species concepts as applied to the whitefly <italic>Bemisia tabaci</italic> systematics: How many species are there?</article-title>
+<source xml:lang="en">Journal of Integrative Agriculture</source>, <volume>11</volume>, <fpage>176</fpage>&#x02013;<lpage>186</lpage>.</mixed-citation></ref><ref id="ece34078-bib-0038"><mixed-citation publication-type="journal" id="ece34078-cit-0038">
+<string-name>
+<surname>Luan</surname>, <given-names>J. B.</given-names>
+</string-name>, <string-name>
+<surname>De Barro</surname>, <given-names>P. J.</given-names>
+</string-name>, <string-name>
+<surname>Ruan</surname>, <given-names>Y. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Liu</surname>, <given-names>S. S.</given-names>
+</string-name> (<year>2013</year>). <article-title>Distinct behavioural strategies underlying asymmetric mating interactions between invasive and indigenous whiteflies</article-title>. <source xml:lang="en">Entomologia Experimentalis Et Applicata</source>, <volume>146</volume>, <fpage>186</fpage>&#x02013;<lpage>194</lpage>.</mixed-citation></ref><ref id="ece34078-bib-0039"><mixed-citation publication-type="journal" id="ece34078-cit-0039">
+<string-name>
+<surname>Martin</surname>, <given-names>J. H.</given-names>
+</string-name> (<year>1987</year>). <article-title>An identification guide to common whitefly pest species of the world (Homoptera, Aleyrodidae)</article-title>. <source xml:lang="en">Tropical Pest Management</source>, <volume>33</volume>, <fpage>298</fpage>&#x02013;<lpage>322</lpage>.</mixed-citation></ref><ref id="ece34078-bib-0040"><mixed-citation publication-type="journal" id="ece34078-cit-0040">
+<string-name>
+<surname>Martin</surname>, <given-names>J. H.</given-names>
+</string-name>, <string-name>
+<surname>Mifsud</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rapisarda</surname>, <given-names>C.</given-names>
+</string-name> (<year>2000</year>). <article-title>The whiteflies (Hemiptera: Aleyrodidae) of Europe and Mediterranean Basin</article-title>. <source xml:lang="en">Bulletin of Entomological Research</source>, <volume>90</volume>, <fpage>407</fpage>&#x02013;<lpage>448</lpage>.<pub-id pub-id-type="pmid">11082558</pub-id></mixed-citation></ref><ref id="ece34078-bib-0041"><mixed-citation publication-type="journal" id="ece34078-cit-0041">
+<string-name>
+<surname>Mouton</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Gnankin&#x000e9;</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Henri</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Terraz</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Ketoh</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>, <given-names>T.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Vavre</surname>, <given-names>F.</given-names>
+</string-name> (<year>2015</year>). <article-title>Detection of genetically isolated entities within the Mediterranean species of <italic>Bemisia tabaci</italic>: New insights into the systematics of this worldwide pest</article-title>. <source xml:lang="en">Pest Management Science</source>, <volume>71</volume>, <fpage>452</fpage>&#x02013;<lpage>458</lpage>.<pub-id pub-id-type="pmid">24863547</pub-id></mixed-citation></ref><ref id="ece34078-bib-0042"><mixed-citation publication-type="journal" id="ece34078-cit-0042">
+<string-name>
+<surname>Moya</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Guirao</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Cifuentes</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Beitia</surname>, <given-names>F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cenis</surname>, <given-names>J. L.</given-names>
+</string-name> (<year>2001</year>). <article-title>Genetic diversity of Iberian populations of <italic>Bemisia tabaci</italic> (Hemiptera: Aleyrodidae) based on random amplified polymorphic DNA&#x02010;polymerase chain reaction</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>10</volume>, <fpage>891</fpage>&#x02013;<lpage>897</lpage>.<pub-id pub-id-type="pmid">11348498</pub-id></mixed-citation></ref><ref id="ece34078-bib-0043"><mixed-citation publication-type="journal" id="ece34078-cit-0043">
+<string-name>
+<surname>Mumm</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dicke</surname>, <given-names>M.</given-names>
+</string-name> (<year>2010</year>). <article-title>Variation in natural plant products and the attraction of bodyguards involved in indirect plant defense</article-title>. <source xml:lang="en">Canadian Journal of Zoology</source>, <volume>88</volume>, <fpage>628</fpage>&#x02013;<lpage>667</lpage>.</mixed-citation></ref><ref id="ece34078-bib-0044"><mixed-citation publication-type="journal" id="ece34078-cit-0044">
+<string-name>
+<surname>Otoidobiga</surname>, <given-names>L. C.</given-names>
+</string-name>, <string-name>
+<surname>Vincent</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Stewart</surname>, <given-names>R. K.</given-names>
+</string-name> (<year>2003</year>). <article-title>Susceptibility of field populations of adult <italic>Bemisia tabaci</italic> (Homoptera: Aleyrodidae) and <italic>Eretmocerus sp</italic>. (Hymenoptera: Aphelinidae) on the population dynamics of the pest in Burkina Faso (West Africa)</article-title>. <source xml:lang="en">Pest Management Science</source>, <volume>59</volume>, <fpage>97</fpage>&#x02013;<lpage>106</lpage>.<pub-id pub-id-type="pmid">12558104</pub-id></mixed-citation></ref><ref id="ece34078-bib-0045"><mixed-citation publication-type="journal" id="ece34078-cit-0045">
+<string-name>
+<surname>Otoidobiga</surname>, <given-names>L. C.</given-names>
+</string-name>, <string-name>
+<surname>Vincent</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Stewart</surname>, <given-names>R. K.</given-names>
+</string-name> (<year>2004</year>). <article-title>Relative abundance of <italic>Bemisia tabaci</italic> Gennadius (Homoptera: Aleyrodidae) and its parasitoids, and the impact of augmentative release of <italic>Eretmocerus</italic> spp</article-title>. <source xml:lang="en">International Journal of Pest Management</source>, <volume>50</volume>(<issue>1</issue>), <fpage>11</fpage>&#x02013;<lpage>16</lpage>.</mixed-citation></ref><ref id="ece34078-bib-0046"><mixed-citation publication-type="journal" id="ece34078-cit-0046">
+<string-name>
+<surname>Perring</surname>, <given-names>T. M.</given-names>
+</string-name> (<year>2001</year>). <article-title>The <italic>Bemisia tabaci</italic> species complex</article-title>. <source xml:lang="en">Crop Protection</source>, <volume>20</volume>, <fpage>725</fpage>&#x02013;<lpage>737</lpage>.</mixed-citation></ref><ref id="ece34078-bib-0047"><mixed-citation publication-type="journal" id="ece34078-cit-0047">
+<string-name>
+<surname>Romba</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gnankin&#x000e9;</surname>, <given-names>O.</given-names>
+</string-name> (<year>2018</year>). <article-title>Comparative biology parameters of Q1 and Q3 genotypes of <italic>Bemisia tabaci</italic> MED (Hemiptera: Aleyrodidae) on two host plants in Burkina Faso, West Africa</article-title>. <source xml:lang="en">African Entomology</source>, <volume>26</volume>(<issue>1</issue>), <fpage>1</fpage>&#x02013;<lpage>8</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4001/003.026">https://doi.org/10.4001/003.026</ext-link>
+</mixed-citation></ref><ref id="ece34078-bib-0048"><mixed-citation publication-type="journal" id="ece34078-cit-0048">
+<string-name>
+<surname>Saleh</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Laarif</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Clouet</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gauthier</surname>, <given-names>N.</given-names>
+</string-name> (<year>2012</year>). <article-title>Spatial and host&#x02010;plant partitioning between coexisting <italic>Bemisia tabaci</italic> cryptic species in Tunisia</article-title>. <source xml:lang="en">Population Ecology</source>, <volume>54</volume>, <fpage>261</fpage>&#x02013;<lpage>274</lpage>.</mixed-citation></ref><ref id="ece34078-bib-0049"><mixed-citation publication-type="journal" id="ece34078-cit-0049">
+<string-name>
+<surname>Simon</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Frati</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Beckenbach</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Crespi</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Flook</surname>, <given-names>P.</given-names>
+</string-name> (<year>1994</year>). <article-title>Evolution, weighting, and phylogenetic utility of mitochondrial gene sequences and a compilation of conserved PCR primers</article-title>. <source xml:lang="en">Annals of the Entomological Society of America</source>, <volume>87</volume>, <fpage>651</fpage>&#x02013;<lpage>701</lpage>.</mixed-citation></ref><ref id="ece34078-bib-0050"><mixed-citation publication-type="journal" id="ece34078-cit-0050">
+<string-name>
+<surname>Sseruwagi</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Sserubombwe</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Legg</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Ndunguru</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Thresh</surname>, <given-names>J.</given-names>
+</string-name> (<year>2004</year>). <article-title>Methods of surveying the incidence and severity of cassava mosaic disease and whitefly vector populations on cassava in Africa: A review</article-title>. <source xml:lang="en">Virus Research</source>, <volume>100</volume>, <fpage>129</fpage>&#x02013;<lpage>142</lpage>.<pub-id pub-id-type="pmid">15036844</pub-id></mixed-citation></ref><ref id="ece34078-bib-0051"><mixed-citation publication-type="journal" id="ece34078-cit-0051">
+<string-name>
+<surname>Sun</surname>, <given-names>D. B.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Luan</surname>, <given-names>J. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Liu</surname>, <given-names>S. S.</given-names>
+</string-name> (<year>2011</year>). <article-title>Reproductive incompatibility between the B and Q biotypes of the whitefly <italic>Bemisia tabaci</italic> in China: Genetic and behavioural evidence</article-title>. <source xml:lang="en">Bulletin of Entomological Research</source>, <volume>101</volume>, <fpage>211</fpage>&#x02013;<lpage>220</lpage>.<pub-id pub-id-type="pmid">21034521</pub-id></mixed-citation></ref><ref id="ece34078-bib-0052"><mixed-citation publication-type="miscellaneous" id="ece34078-cit-0052">
+<string-name>
+<surname>Thiombiano</surname>, <given-names>A.</given-names>
+</string-name> (<year>2012</year>). <article-title>Catalogue des plantes vasculaires du Burkina Faso</article-title>.</mixed-citation></ref><ref id="ece34078-bib-0053"><mixed-citation publication-type="journal" id="ece34078-cit-0053">
+<string-name>
+<surname>Tocko</surname>, <given-names>M. B. K.</given-names>
+</string-name>, <string-name>
+<surname>Silla</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Simiand</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Zinga</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Legg</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Reynaud</surname>, <given-names>B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Delatte</surname>, <given-names>H.</given-names>
+</string-name> (<year>2017</year>). <article-title>Genetic diversity of <italic>Bemisia tabaci</italic> species colonizing cassava in Central African Republic characterized by analysis of Cytochrome C Oxidase subunit I</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>12</volume>(<issue>8</issue>), <fpage>e0182749</fpage>.<pub-id pub-id-type="pmid">28813463</pub-id></mixed-citation></ref><ref id="ece34078-bib-0054"><mixed-citation publication-type="journal" id="ece34078-cit-0054">
+<string-name>
+<surname>Tsagkarakou</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Tsigenopoulos</surname>, <given-names>C. S.</given-names>
+</string-name>, <string-name>
+<surname>Gorman</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Lagnel</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bedford</surname>, <given-names>I. D.</given-names>
+</string-name> (<year>2007</year>). <article-title>Biotype status and genetic polymorphism of the whitefly <italic>Bemisia tabaci</italic> (Hemiptera: Aleyrodidae) in Greece: Mitochondrial DNA and microsatellites</article-title>. <source xml:lang="en">Bulletin of Entomological Research</source>, <volume>97</volume>, <fpage>29</fpage>&#x02013;<lpage>40</lpage>.<pub-id pub-id-type="pmid">17298679</pub-id></mixed-citation></ref><ref id="ece34078-bib-0055"><mixed-citation publication-type="journal" id="ece34078-cit-0055">
+<string-name>
+<surname>Wang</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>, <given-names>D. B.</given-names>
+</string-name>, <string-name>
+<surname>Qiu</surname>, <given-names>B. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Liu</surname>, <given-names>S. S.</given-names>
+</string-name> (<year>2011</year>). <article-title>The presence of six cryptic species of the whitefly <italic>Bemisia tabaci</italic> complex in China as revealed by crossing experiments</article-title>. <source xml:lang="en">Insect Science</source>, <volume>18</volume>, <fpage>67</fpage>&#x02013;<lpage>77</lpage>.</mixed-citation></ref><ref id="ece34078-bib-0056"><mixed-citation publication-type="journal" id="ece34078-cit-0056">
+<string-name>
+<surname>Zinga</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Chiroleu</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Legg</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Lefeuvre</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Komba</surname>, <given-names>E. K.</given-names>
+</string-name>, <string-name>
+<surname>Semballa</surname>, <given-names>S.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Lett</surname>, <given-names>J. M.</given-names>
+</string-name> (<year>2013</year>). <article-title>Epidemiological assessment of cassava mosaic disease in Central African Republic reveals the importance of mixed viral infection and poor health of plant cuttings</article-title>. <source xml:lang="en">Crop Protection</source>, <volume>44</volume>, <fpage>6</fpage>&#x02013;<lpage>12</lpage>.</mixed-citation></ref></ref-list></back></article>

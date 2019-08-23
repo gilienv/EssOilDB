@@ -1,0 +1,549 @@
+{
+  "id": [
+    "24466308"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24466308"
+  ],
+  "pmcid": [
+    "PMC3900687"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0086995"
+  ],
+  "title": [
+    "Metamorphosis of a butterfly-associated bacterial community."
+  ],
+  "authorString": [
+    "Hammer TJ, McMillan WO, Fierer N."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hammer TJ"
+          ],
+          "firstName": [
+            "Tobin J"
+          ],
+          "lastName": [
+            "Hammer"
+          ],
+          "initials": [
+            "TJ"
+          ],
+          "affiliation": [
+            "Department of Ecology and Evolutionary Biology and Cooperative Institute for Research in Environmental Sciences, University of Colorado at Boulder, Boulder, Colorado, United States of America ; Smithsonian Tropical Research Institute, Panama City, Republic of Panama."
+          ]
+        },
+        {
+          "fullName": [
+            "McMillan WO"
+          ],
+          "firstName": [
+            "W Owen"
+          ],
+          "lastName": [
+            "McMillan"
+          ],
+          "initials": [
+            "WO"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2805-2745",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Smithsonian Tropical Research Institute, Panama City, Republic of Panama."
+          ]
+        },
+        {
+          "fullName": [
+            "Fierer N"
+          ],
+          "firstName": [
+            "Noah"
+          ],
+          "lastName": [
+            "Fierer"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Ecology and Evolutionary Biology and Cooperative Institute for Research in Environmental Sciences, University of Colorado at Boulder, Boulder, Colorado, United States of America."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2805-2745",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2110422"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "e86995"
+  ],
+  "abstractText": [
+    "Butterflies are charismatic insects that have long been a focus of biological research. They are also habitats for microorganisms, yet these microbial symbionts are little-studied, despite their likely importance to butterfly ecology and evolution. In particular, the diversity and composition of the microbial communities inhabiting adult butterflies remain uncharacterized, and it is unknown how the larval (caterpillar) and adult microbiota compare. To address these knowledge gaps, we used Illumina sequencing of 16S rRNA genes from internal bacterial communities associated with multiple life stages of the neotropical butterfly Heliconius erato. We found that the leaf-chewing larvae and nectar- and pollen-feeding adults of H. erato contain markedly distinct bacterial communities, a pattern presumably rooted in their distinct diets. Larvae and adult butterflies host relatively small and similar numbers of bacterial phylotypes, but few are common to both stages. The larval microbiota clearly simplifies and reorganizes during metamorphosis; thus, structural changes in a butterfly's bacterial community parallel those in its own morphology. We furthermore identify specific bacterial taxa that may mediate larval and adult feeding biology in Heliconius and other butterflies. Although male and female Heliconius adults differ in reproductive physiology and degree of pollen feeding, bacterial communities associated with H. erato are not sexually dimorphic. Lastly, we show that captive and wild individuals host different microbiota, a finding that may have important implications for the relevance of experimental studies using captive butterflies."
+  ],
+  "affiliation": [
+    "Department of Ecology and Evolutionary Biology and Cooperative Institute for Research in Environmental Sciences, University of Colorado at Boulder, Boulder, Colorado, United States of America ; Smithsonian Tropical Research Institute, Panama City, Republic of Panama."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Butterflies"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oligonucleotide Array Sequence Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Gene Expression Profiling"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Gene Expression Regulation, Developmental"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Metamorphosis, Biological"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Larva"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CY"
+                  ],
+                  "qualifierName": [
+                    "cytology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biological Evolution"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Microbiota"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biomarkers"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Biomarkers"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3900687?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3900687"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24466308/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24466308/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0086995"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "33"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2014-09-29"
+  ],
+  "dateOfCreation": [
+    "2014-01-28"
+  ],
+  "firstIndexDate": [
+    "2014-01-28"
+  ],
+  "dateOfRevision": [
+    "2018-03-24"
+  ],
+  "electronicPublicationDate": [
+    "2014-01-23"
+  ],
+  "firstPublicationDate": [
+    "2014-01-23"
+  ]
+}

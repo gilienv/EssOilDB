@@ -1,0 +1,247 @@
+{
+  "id": [
+    "22345865"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22345865"
+  ],
+  "pmcid": [
+    "PMC3271534"
+  ],
+  "doi": [
+    "10.4103/0253-7613.91862"
+  ],
+  "title": [
+    "Evaluation of anti-inflammatory effects of Broussonetia papyrifera stem bark."
+  ],
+  "authorString": [
+    "Wu WT."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wu WT"
+          ],
+          "firstName": [
+            "Wen-Tung"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "WT"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "44"
+      ],
+      "journalIssueId": [
+        "1906802"
+      ],
+      "dateOfPublication": [
+        "2012 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Indian journal of pharmacology"
+          ],
+          "ISOAbbreviation": [
+            "Indian J Pharmacol"
+          ],
+          "medlineAbbreviation": [
+            "Indian J Pharmacol"
+          ],
+          "NLMid": [
+            "7902477"
+          ],
+          "ISSN": [
+            "0253-7613"
+          ],
+          "ESSN": [
+            "1998-3751"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2012"
+  ],
+  "pageInfo": [
+    "26-30"
+  ],
+  "abstractText": [
+    "OBJECTIVE: Broussonetia papyrifera is used as a traditional medicine to treat few diseases. However, the antiinflammatory effect of B. papyrifera stem bark has not been evaluated. The aim of this study is to investigate the effects of n-hexane fraction from methanol extract of B. papyrifera stem bark on lipopolysaccharide (LPS)-stimulated inflammation using RAW 264.7 cells. MATERIALS AND METHODS: Methanol extract was obtained from B. papyrifera stem bark and its sequential fractions (hexane, dichloromathane, ethyl acetate, butanol, and aqueous) were obtained by extraction in solvents with increasing polarity and were examined in RAW 264.7 cells. RESULTS: The secretion profiles of pro-inflammatory parameters, including nitric oxide (NO), tumor necrosis factor-α (TNF-α), and interleukin-1β (IL-1β) were found to be significantly reduced in 10-80 μg/ml dose ranges of n-hexane fraction (BP-H) from methanol extract of B. papyrifera stem bark. The expressions of inducible NO synthase (iNOS) was also significantly inhibited by BP-H. Reverse transcription-polymerase chain reaction (RT-PCR) analysis showed that BP-H treatment decreased LPS-induced iNOS mRNA expression in RAW 264.7 cells. CONCLUSION: The results suggest that the B. papyrifera stem bark has anti-inflammatory activity which inhibits the NO production and proinflammatory cytokines in RAW 264.7 cells. B. papyrifera stem bark might act as a potential therapeutic agent for inflammatory diseases."
+  ],
+  "affiliation": [
+    "Department of Biotechnology, Yung-Ta Institute of Technology and Commerce, Pingtung, Taiwan. gerrywu8769@yahoo.com.tw"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Lipopolysaccharide",
+        "Anti-inflammatory",
+        "Broussonetia Papyrifera",
+        "Hexane",
+        "Inducible No Synthase"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3271534"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22345865/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/0253-7613.91862"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2012-07-13"
+  ],
+  "dateOfCreation": [
+    "2012-02-20"
+  ],
+  "firstIndexDate": [
+    "2012-02-21"
+  ],
+  "dateOfRevision": [
+    "2013-05-29"
+  ],
+  "firstPublicationDate": [
+    "2012-01-01"
+  ]
+}

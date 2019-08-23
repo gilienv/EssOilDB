@@ -1,0 +1,593 @@
+{
+  "id": [
+    "26247928"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26247928"
+  ],
+  "pmcid": [
+    "PMC6332061"
+  ],
+  "doi": [
+    "10.3390/molecules200814082"
+  ],
+  "title": [
+    "Mosquitocidal and Oviposition Repellent Activities of the Extracts of Seaweed Bryopsis pennata on Aedes aegypti and Aedes albopictus."
+  ],
+  "authorString": [
+    "Yu KX, Wong CL, Ahmad R, Jantan I."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yu KX"
+          ],
+          "firstName": [
+            "Ke-Xin"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "KX"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4923-1929",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Drug and Herbal Research Centre, Faculty of Pharmacy, Universiti Kebangsaan Malaysia, 50300 Kuala Lumpur, Malaysia. yukxxin@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Wong CL"
+          ],
+          "firstName": [
+            "Ching-Lee"
+          ],
+          "lastName": [
+            "Wong"
+          ],
+          "initials": [
+            "CL"
+          ],
+          "affiliation": [
+            "School of Biosciences, Taylor\\'s University, Taylor\\'s Lakeside Campus, Subang Jaya, 47500 Selangor, Malaysia. chinglee.wong@taylors.edu.my."
+          ]
+        },
+        {
+          "fullName": [
+            "Ahmad R"
+          ],
+          "firstName": [
+            "Rohani"
+          ],
+          "lastName": [
+            "Ahmad"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Medical Entomology Unit, Infectious Disease Research Centre, Institute for Medical Research, 50588 Kuala Lumpur, Malaysia. rohania@imr.gov.my."
+          ]
+        },
+        {
+          "fullName": [
+            "Jantan I"
+          ],
+          "firstName": [
+            "Ibrahim"
+          ],
+          "lastName": [
+            "Jantan"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Drug and Herbal Research Centre, Faculty of Pharmacy, Universiti Kebangsaan Malaysia, 50300 Kuala Lumpur, Malaysia. profibj@gmail.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4923-1929",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2460472"
+      ],
+      "dateOfPublication": [
+        "2015 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecules (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Molecules"
+          ],
+          "medlineAbbreviation": [
+            "Molecules"
+          ],
+          "NLMid": [
+            "100964009"
+          ],
+          "ISSN": [
+            "1420-3049"
+          ],
+          "ESSN": [
+            "1420-3049"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "14082-14102"
+  ],
+  "abstractText": [
+    "The ever-increasing threat from infectious diseases and the development of insecticide resistance in mosquito populations drive the global search for new natural insecticides. The aims of this study were to evaluate the mosquitocidal activity of the extracts of seaweed Bryopsis pennata against dengue vectors Aedes aegypti and Aedes albopictus, and determine the seaweed's toxic effect on brine shrimp nauplii (as a non-target organism). In addition, the chemical compositions of the active larvicidal extract and fraction were analyzed by using liquid chromatography-mass spectrometry (LC-MS). Chloroform extract exhibited strong ovicidal activity (with LC50 values of 229.3 and 250.5 µg/mL) and larvicidal activity against Ae. aegypti and Ae. albopictus. The larvicidal potential of chloroform extract was further ascertained when its A7 fraction exhibited strong toxic effect against Ae. aegypti (LC50 = 4.7 µg/mL) and Ae. albopictus (LC50 = 5.3 µg/mL). LC-MS analysis of the chloroform extract gave a tentative identification of 13 compounds; Bis-(3-oxoundecyl) tetrasulfide was identified as the major compound in A7 fraction. Methanol extract showed strong repellent effect against female oviposition, along with weak adulticidal activity against mosquito and weak toxicity against brine shrimp nauplii. The mosquitocidal results of B. pennata suggest further investigation for the development of effective insecticide."
+  ],
+  "affiliation": [
+    "Drug and Herbal Research Centre, Faculty of Pharmacy, Universiti Kebangsaan Malaysia, 50300 Kuala Lumpur, Malaysia. yukxxin@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Artemia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aedes"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Seaweed"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Extracts"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TO"
+                  ],
+                  "qualifierName": [
+                    "toxicity"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Insecticides"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TO"
+                  ],
+                  "qualifierName": [
+                    "toxicity"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chromatography, Liquid"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Toxicity Tests"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Larva"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oviposition"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mass Spectrometry"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Insecticide",
+        "Dengue vector",
+        "Larvicidal",
+        "Ovicidal",
+        "Bis-(3-oxoundecyl) Tetrasulfide"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Plant Extracts"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Insecticides"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6332061?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6332061"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/molecules200814082"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-05-23"
+  ],
+  "dateOfCreation": [
+    "2015-08-07"
+  ],
+  "firstIndexDate": [
+    "2015-08-07"
+  ],
+  "dateOfRevision": [
+    "2019-01-25"
+  ],
+  "electronicPublicationDate": [
+    "2015-08-04"
+  ],
+  "firstPublicationDate": [
+    "2015-08-04"
+  ]
+}

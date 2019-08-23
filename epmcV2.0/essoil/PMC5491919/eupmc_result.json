@@ -1,0 +1,511 @@
+{
+  "id": [
+    "28694758"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28694758"
+  ],
+  "pmcid": [
+    "PMC5491919"
+  ],
+  "doi": [
+    "10.17179/excli2017-163"
+  ],
+  "title": [
+    "Safety assessment and antioxidant activity of Lantana montevidensis leaves: Contribution to its phytochemical and pharmacological activity."
+  ],
+  "authorString": [
+    "Barros LM, Duarte AE, Pansera Waczuk E, Roversi K, da Cunha FAB, Rolon M, Coronel C, Gomez MCV, de Menezes IRA, da Costa JGM, Boligon AA, Hassan W, Souza DO, da Rocha JBT, Kamdem JP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Barros LM"
+          ],
+          "firstName": [
+            "Luiz Marivando"
+          ],
+          "lastName": [
+            "Barros"
+          ],
+          "initials": [
+            "LM"
+          ],
+          "affiliation": [
+            "Departamento de Bioquímica e Biologia Molecular, Programa de Pós-Graduação em Bioquímica Toxicológica, Universidade Federal de Santa Maria, Santa Maria, RS 97105-900, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Duarte AE"
+          ],
+          "firstName": [
+            "Antonia Eliene"
+          ],
+          "lastName": [
+            "Duarte"
+          ],
+          "initials": [
+            "AE"
+          ],
+          "affiliation": [
+            "Departamento de Bioquímica e Biologia Molecular, Programa de Pós-Graduação em Bioquímica Toxicológica, Universidade Federal de Santa Maria, Santa Maria, RS 97105-900, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Pansera Waczuk E"
+          ],
+          "firstName": [
+            "Emily"
+          ],
+          "lastName": [
+            "Pansera Waczuk"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Departamento de Bioquímica e Biologia Molecular, Programa de Pós-Graduação em Bioquímica Toxicológica, Universidade Federal de Santa Maria, Santa Maria, RS 97105-900, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Roversi K"
+          ],
+          "firstName": [
+            "Katiane"
+          ],
+          "lastName": [
+            "Roversi"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Departamento de Farmacologia, Programa de Pós-Graduação em Ciências Farmacêuticas, Farmatox, Universidade Federal de Santa Maria, Santa Maria, RS 97105-900, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "da Cunha FAB"
+          ],
+          "firstName": [
+            "Francisco Assis Bezerra"
+          ],
+          "lastName": [
+            "da Cunha"
+          ],
+          "initials": [
+            "FAB"
+          ],
+          "affiliation": [
+            "Departamento de Bioquímica e Biologia Molecular, Programa de Pós-Graduação em Bioquímica Toxicológica, Universidade Federal de Santa Maria, Santa Maria, RS 97105-900, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Rolon M"
+          ],
+          "firstName": [
+            "Mirian"
+          ],
+          "lastName": [
+            "Rolon"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Centro Para El Desarrollo de La Investigación Científica (CEDIC),Fundación Moisés Bertoni /Laboratorios Diaz Gill, Asuncion, Paraguay."
+          ]
+        },
+        {
+          "fullName": [
+            "Coronel C"
+          ],
+          "firstName": [
+            "Cathia"
+          ],
+          "lastName": [
+            "Coronel"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Centro Para El Desarrollo de La Investigación Científica (CEDIC),Fundación Moisés Bertoni /Laboratorios Diaz Gill, Asuncion, Paraguay."
+          ]
+        },
+        {
+          "fullName": [
+            "Gomez MCV"
+          ],
+          "firstName": [
+            "Maria Celeste Vega"
+          ],
+          "lastName": [
+            "Gomez"
+          ],
+          "initials": [
+            "MCV"
+          ],
+          "affiliation": [
+            "Centro Para El Desarrollo de La Investigación Científica (CEDIC),Fundación Moisés Bertoni /Laboratorios Diaz Gill, Asuncion, Paraguay."
+          ]
+        },
+        {
+          "fullName": [
+            "de Menezes IRA"
+          ],
+          "firstName": [
+            "Irwin Rose Alencar"
+          ],
+          "lastName": [
+            "de Menezes"
+          ],
+          "initials": [
+            "IRA"
+          ],
+          "affiliation": [
+            "Universidade Regional do Cariri-URCA, Departamento de Química Biológica, Laboratório de Farmacologia, Crato-Ceará, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "da Costa JGM"
+          ],
+          "firstName": [
+            "José Galberto Martins"
+          ],
+          "lastName": [
+            "da Costa"
+          ],
+          "initials": [
+            "JGM"
+          ],
+          "affiliation": [
+            "Universidade Regional do Cariri-URCA, Departamento de Química Biológica, Laboratório de Pesquisas de Produtos Naturais, CEP 63.105.000, Crato-Ceará, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Boligon AA"
+          ],
+          "firstName": [
+            "Aline Augusti"
+          ],
+          "lastName": [
+            "Boligon"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "affiliation": [
+            "Laboratório de Fitoquímica, Departamento de Farmácia Industrial, Universidade Federal de Santa Maria, Santa Maria, RS 97105-900, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Hassan W"
+          ],
+          "firstName": [
+            "Waseem"
+          ],
+          "lastName": [
+            "Hassan"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Institute of Chemical Sciences, University of Peshawar, Peshawar -25120, Khyber Pakhtunkhwa, Pakistan."
+          ]
+        },
+        {
+          "fullName": [
+            "Souza DO"
+          ],
+          "firstName": [
+            "Diogo Onofre"
+          ],
+          "lastName": [
+            "Souza"
+          ],
+          "initials": [
+            "DO"
+          ],
+          "affiliation": [
+            "Departamento de Bioquímica, Instituto de Ciências Básica da Saúde, Universidade Federal do Rio Grande do Sul, Porto Alegre, RS CEP 90035-003, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "da Rocha JBT"
+          ],
+          "firstName": [
+            "João Batista Teixeira"
+          ],
+          "lastName": [
+            "da Rocha"
+          ],
+          "initials": [
+            "JBT"
+          ],
+          "affiliation": [
+            "Departamento de Bioquímica e Biologia Molecular, Programa de Pós-Graduação em Bioquímica Toxicológica, Universidade Federal de Santa Maria, Santa Maria, RS 97105-900, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Kamdem JP"
+          ],
+          "firstName": [
+            "Jean Paul"
+          ],
+          "lastName": [
+            "Kamdem"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1730-8602",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Departamento de Bioquímica, Instituto de Ciências Básica da Saúde, Universidade Federal do Rio Grande do Sul, Porto Alegre, RS CEP 90035-003, Brazil."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1730-8602",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3829-0595",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2539876"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "EXCLI journal"
+          ],
+          "ISOAbbreviation": [
+            "EXCLI J"
+          ],
+          "medlineAbbreviation": [
+            "EXCLI J"
+          ],
+          "NLMid": [
+            "101299402"
+          ],
+          "ISSN": [
+            "1611-2156"
+          ],
+          "ESSN": [
+            "1611-2156"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "566-582"
+  ],
+  "abstractText": [
+    "Lantana camara, the widely studied species, and L. montevidensis, the less studied species of the genus Lantana are both used in traditional medicine for the same purpose (anti-asthma, anti-ulcer, anti-tumor, etc). However, little is known about the toxicity of L. montevidensis and there is limited information on its chemical constituents. Here, we investigated for the first time the genotoxicity and cytotoxicity of the ethanolic (EtOH) and aqueous extracts from the leaves of Lantana montevidensis in human leukocytes, as well as their possible interaction with human erythrocyte membranes in vitro. The antioxidant activities of both extracts were also investigated in chemical and biological models. Treatment of leukocytes with EtOH or aqueous extracts (1-480 µg/mL) did not affect DNA damage index, but promoted cytotoxicity at higher concentrations (240-480 µg/mL). Both extracts did not modify the osmotic fragility of human erythrocytes. The extracts scavenged DPPH radical and prevented Fe2+-induced lipid peroxidation in rat's brain and liver homogenates, and this was likely not attributed to Fe (II) chelation. The HPLC analysis of the extracts showed different amounts of polyphenolic compounds (isoquercitrin, gallic acid, catechin, ellagic acid, apigenin, kaempferol, caffeic acid, rutin, quercitrin, quercetin, chlorogenic acid, luteolin) that may have contributed to these effects. These results supported information on the functional use of L. montevidensis in folk medicine."
+  ],
+  "affiliation": [
+    "Departamento de Bioquímica e Biologia Molecular, Programa de Pós-Graduação em Bioquímica Toxicológica, Universidade Federal de Santa Maria, Santa Maria, RS 97105-900, Brazil."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cytotoxicity",
+        "Genotoxicity",
+        "HPLC-DAD",
+        "osmotic fragility",
+        "Lantana Montevidensis"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5491919?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5491919"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.17179/excli2017-163"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-07-11"
+  ],
+  "firstIndexDate": [
+    "2017-07-12"
+  ],
+  "dateOfRevision": [
+    "2017-08-16"
+  ],
+  "electronicPublicationDate": [
+    "2017-04-21"
+  ],
+  "firstPublicationDate": [
+    "2017-04-21"
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "id": [
+    "22536188"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22536188"
+  ],
+  "pmcid": [
+    "PMC3332923"
+  ],
+  "doi": [
+    "10.3389/fphys.2012.00104"
+  ],
+  "title": [
+    "Evaluation of 15 Local Plant Species as Larvicidal Agents Against an Indian Strain of Dengue Fever Mosquito, Aedes aegypti L. (Diptera: Culicidae)."
+  ],
+  "authorString": [
+    "Kumar S, Wahab N, Mishra M, Warikoo R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kumar S"
+          ],
+          "firstName": [
+            "Sarita"
+          ],
+          "lastName": [
+            "Kumar"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1066-3057",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wahab N"
+          ],
+          "firstName": [
+            "Naim"
+          ],
+          "lastName": [
+            "Wahab"
+          ],
+          "initials": [
+            "N"
+          ]
+        },
+        {
+          "fullName": [
+            "Mishra M"
+          ],
+          "firstName": [
+            "Monika"
+          ],
+          "lastName": [
+            "Mishra"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Warikoo R"
+          ],
+          "firstName": [
+            "Radhika"
+          ],
+          "lastName": [
+            "Warikoo"
+          ],
+          "initials": [
+            "R"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1066-3057",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "1899251"
+      ],
+      "dateOfPublication": [
+        "2012 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in physiology"
+          ],
+          "ISOAbbreviation": [
+            "Front Physiol"
+          ],
+          "medlineAbbreviation": [
+            "Front Physiol"
+          ],
+          "NLMid": [
+            "101549006"
+          ],
+          "ISSN": [
+            "1664-042X"
+          ],
+          "ESSN": [
+            "1664-042X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2012"
+  ],
+  "pageInfo": [
+    "104"
+  ],
+  "abstractText": [
+    "The adverse effects of chemical insecticides-based intervention measures for the control of mosquito vectors have received wide public apprehension because of several problems like insecticide resistance, resurgence of pest species, environmental pollution, toxic hazards to humans, and non-target organisms. These problems have necessitated the need to explore and develop alternative strategies using eco-friendly, environmentally safe, bio-degradable plant products which are non-toxic to non-target organisms too. In view of this, 15 plant species were collected from local areas in New Delhi, India. Different parts of these plants were separated, dried, mechanically grinded, and sieved to get fine powder. The 200 g of each part was soaked in 1000 mL of different solvents separately and the crude extracts, thus formed, were concentrated using a vacuum evaporator at 45°C under low pressure. Each extract was screened to explore its potential as a mosquito larvicidal agent against early fourth instars of dengue vector, Aedes aegypti using WHO protocol. The preliminary screening showed that only 10 plants possessed larvicidal potential as they could result in 100% mortality at 1000 ppm. Further evaluation of the potential larvicidal extracts established the hexane leaf extract of Lantana camara to be most effective extract exhibiting a significant LC(50) value of 30.71 ppm while the Phyllanthus emblica fruit extract was found to be least effective with an LC(50) value of 298.93 ppm. The extracts made from different parts of other five plants; Achyranthes aspera, Zingiber officinalis, Ricinus communis, Trachyspermum ammi, and Cassia occidentalis also possessed significant larvicidal potential with LC(50) values ranging from 55.0 to 74.67 ppm. Other three extracts showed moderate toxicity against A. aegypti larvae. Further investigations would be needed to isolate and identify the primary component responsible for the larvicidal efficiency of the effective plants."
+  ],
+  "affiliation": [
+    "Mosquito Control Laboratory, Acharya Narendra Dev College, University of Delhi New Delhi, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Aedes aegypti",
+        "Toxic component",
+        "Crude extracts",
+        "Plant Parts",
+        "Larvicidal Agent"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3332923?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3332923"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22536188/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22536188/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fphys.2012.00104"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2012-10-02"
+  ],
+  "dateOfCreation": [
+    "2012-04-26"
+  ],
+  "firstIndexDate": [
+    "2012-04-27"
+  ],
+  "dateOfRevision": [
+    "2013-08-13"
+  ],
+  "electronicPublicationDate": [
+    "2012-04-23"
+  ],
+  "firstPublicationDate": [
+    "2012-04-23"
+  ]
+}

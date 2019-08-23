@@ -1,0 +1,312 @@
+{
+  "id": [
+    "23662150"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23662150"
+  ],
+  "pmcid": [
+    "PMC3639627"
+  ],
+  "doi": [
+    "10.1155/2013/724161"
+  ],
+  "title": [
+    "Study of the Interference between Plectranthus Species Essential Oils from Brazil and Aminoglycosides."
+  ],
+  "authorString": [
+    "Galvão Rodrigues FF, Costa JG, Rodrigues FF, Campos AR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Galvão Rodrigues FF"
+          ],
+          "firstName": [
+            "Fabíola Fernandes"
+          ],
+          "lastName": [
+            "Galvão Rodrigues"
+          ],
+          "initials": [
+            "FF"
+          ]
+        },
+        {
+          "fullName": [
+            "Costa JG"
+          ],
+          "firstName": [
+            "José Galberto Martins"
+          ],
+          "lastName": [
+            "Costa"
+          ],
+          "initials": [
+            "JG"
+          ]
+        },
+        {
+          "fullName": [
+            "Rodrigues FF"
+          ],
+          "firstName": [
+            "Fábio Fernandes Galvao"
+          ],
+          "lastName": [
+            "Rodrigues"
+          ],
+          "initials": [
+            "FF"
+          ]
+        },
+        {
+          "fullName": [
+            "Campos AR"
+          ],
+          "firstName": [
+            "Adriana Rolim"
+          ],
+          "lastName": [
+            "Campos"
+          ],
+          "initials": [
+            "AR"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2013"
+      ],
+      "journalIssueId": [
+        "2004961"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Evidence-based complementary and alternative medicine : eCAM"
+          ],
+          "ISOAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "medlineAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "NLMid": [
+            "101215021"
+          ],
+          "ISSN": [
+            "1741-427X"
+          ],
+          "ESSN": [
+            "1741-4288"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "724161"
+  ],
+  "abstractText": [
+    "Plectranthus is one of the most representative genera of Lamiaceae family. In this study, the essential oils from Plectranthus amboinicus, Plectranthus ornatus, and Plectranthus barbatus were investigated for their chemical composition and antimicrobial and modulatory activities. The major components found were carvacrol (54.4%-P. amboinicus) and eugenol (22.9%-P. ornatus e 25.1%-P. barbatus). In vitro antimicrobial activity was conducted against Escherichia coli, Proteus vulgaris, Bacillus cereus, Pseudomonas aeruginosa, Staphylococcus aureus, and Staphylococcus aureus (multiresistant) using microdilution method. The results of bioassay showed that all strains were sensitive to the oils, except P. aeruginosa that was resistant to P. amboinicus and P. ornatus. A synergistic effect of all essential oils combined with the aminoglycosides was demonstrated. These results show that P. amboinicus, P. ornatus, and P. barbatus inhibit the growth of pathogenic microorganism, and besides this they present antibiotic modifying activity, providing a new perspective against the problem of bacterial resistance to antibiotics."
+  ],
+  "affiliation": [
+    "Programa de Pós-Graduação em Biotecnologia, Rede Nordeste de Biotecnologia, Universidade Estadual do Ceará, Avenida Paranjana 1700, Campus do Itaperi, 60740-000 Fortaleza, CE, Brazil."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3639627?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3639627"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23662150/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23662150/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2013/724161"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-05-13"
+  ],
+  "dateOfCreation": [
+    "2013-05-10"
+  ],
+  "firstIndexDate": [
+    "2013-05-11"
+  ],
+  "dateOfRevision": [
+    "2013-05-13"
+  ],
+  "electronicPublicationDate": [
+    "2013-04-04"
+  ],
+  "firstPublicationDate": [
+    "2013-04-04"
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "id": [
+    "30258619"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30258619"
+  ],
+  "pmcid": [
+    "PMC6145297"
+  ],
+  "doi": [
+    "10.1002/fsn3.692"
+  ],
+  "title": [
+    "Concentration of pistachio hull extract antioxidants using membrane separation and reduction of membrane fouling during process."
+  ],
+  "authorString": [
+    "Seifzadeh N, Sahari MA, Barzegar M, Ahmadi Gavlighi H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Seifzadeh N"
+          ],
+          "firstName": [
+            "Negin"
+          ],
+          "lastName": [
+            "Seifzadeh"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4989-428X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Food Science and Technology Faculty of Agriculture Tarbiat Modares University Tehran Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Sahari MA"
+          ],
+          "firstName": [
+            "Mohammad Ali"
+          ],
+          "lastName": [
+            "Sahari"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8783-0530",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Food Science and Technology Faculty of Agriculture Tarbiat Modares University Tehran Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Barzegar M"
+          ],
+          "firstName": [
+            "Mohsen"
+          ],
+          "lastName": [
+            "Barzegar"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Food Science and Technology Faculty of Agriculture Tarbiat Modares University Tehran Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Ahmadi Gavlighi H"
+          ],
+          "firstName": [
+            "Hasan"
+          ],
+          "lastName": [
+            "Ahmadi Gavlighi"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9103-2291",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Food Science and Technology Faculty of Agriculture Tarbiat Modares University Tehran Iran."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4989-428X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9103-2291",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8783-0530",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2731258"
+      ],
+      "dateOfPublication": [
+        "2018 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Food science & nutrition"
+          ],
+          "ISOAbbreviation": [
+            "Food Sci Nutr"
+          ],
+          "medlineAbbreviation": [
+            "Food Sci Nutr"
+          ],
+          "NLMid": [
+            "101605473"
+          ],
+          "ISSN": [
+            "2048-7177"
+          ],
+          "ESSN": [
+            "2048-7177"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "1741-1750"
+  ],
+  "abstractText": [
+    "The purpose of this study was to concentrate the polyphenolic compounds in pistachio hull extract as a rich source of natural antioxidants using the membrane process and the reduction of membrane fouling during the process. After the optimization of the membrane performance includes chamber pressure and stirring rate by monitoring flux and membrane fouling, pectinase and tannase enzymes were compared in order to reduce fouling. Pectinase showed a better potential in decreasing membranous fouling. Enzyme concentration was optimized, and treatment with 17.4 (U) was selected. The permeate obtained from optimized membrane condition and enzyme level treatment was enriched in total phenol (120.31 ± 0.35 mgGAE/g) and flavonoid (34.54 ± 0.09 mgCE/g), while the amount of anthocyanin was not remarkable."
+  ],
+  "affiliation": [
+    "Department of Food Science and Technology Faculty of Agriculture Tarbiat Modares University Tehran Iran."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Ultrafiltration",
+        "Enzyme",
+        "Polyphenols",
+        "Aqueous Extraction",
+        "Pistachio Green Hull"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6145297?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6145297"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/fsn3.692"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-09-28"
+  ],
+  "firstIndexDate": [
+    "2018-09-28"
+  ],
+  "dateOfRevision": [
+    "2018-10-02"
+  ],
+  "electronicPublicationDate": [
+    "2018-08-06"
+  ],
+  "firstPublicationDate": [
+    "2018-08-06"
+  ]
+}

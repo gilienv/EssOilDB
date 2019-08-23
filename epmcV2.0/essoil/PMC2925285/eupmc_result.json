@@ -1,0 +1,295 @@
+{
+  "id": [
+    "20798887"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "20798887"
+  ],
+  "pmcid": [
+    "PMC2925285"
+  ],
+  "doi": [
+    "10.1155/2009/908085"
+  ],
+  "title": [
+    "Evaluation of Hexane Extract of Tuber of Root of Cyperus rotundus Linn (Cyperaceae) for Repellency against Mosquito Vectors."
+  ],
+  "authorString": [
+    "Singh SP, Raghavendra K, Dash AP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Singh SP"
+          ],
+          "firstName": [
+            "S P"
+          ],
+          "lastName": [
+            "Singh"
+          ],
+          "initials": [
+            "SP"
+          ]
+        },
+        {
+          "fullName": [
+            "Raghavendra K"
+          ],
+          "firstName": [
+            "K"
+          ],
+          "lastName": [
+            "Raghavendra"
+          ],
+          "initials": [
+            "K"
+          ]
+        },
+        {
+          "fullName": [
+            "Dash AP"
+          ],
+          "firstName": [
+            "A P"
+          ],
+          "lastName": [
+            "Dash"
+          ],
+          "initials": [
+            "AP"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2009"
+      ],
+      "journalIssueId": [
+        "1755523"
+      ],
+      "dateOfPublication": [
+        "2009 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2009"
+      ],
+      "printPublicationDate": [
+        "2009-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of parasitology research"
+          ],
+          "ISOAbbreviation": [
+            "J Parasitol Res"
+          ],
+          "medlineAbbreviation": [
+            "J Parasitol Res"
+          ],
+          "NLMid": [
+            "101526294"
+          ],
+          "ISSN": [
+            "2090-0023"
+          ],
+          "ESSN": [
+            "2090-0031"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2009"
+  ],
+  "pageInfo": [
+    "e954-66"
+  ],
+  "abstractText": [
+    "Hexane extract of tuber of plant Cyperus rotundus (Cyperaceae) was screened under laboratory conditions for repellent activity against mosquito vector Anopheles culicifacies Giles species A (Diptera: Culicidae), Anopheles stephensi Liston (Diptera: Culicidae), and Culex quinquefasciatus Say (Diptera: Culicidae). The Cyperus rotundus tuber extract was used to determine their effect on mosquito vector, and comparison with the DEET (NN Diethyl 1-3 methyl Benzamide, formerly known as diethyl 1-m-toluamide). The tuber extracts showed more effective at all the dose. Result obtained from the laboratory experiment showed that the tuber extracts are more effective for repellency of allthe mosquito vector even at low dose. Clear dose response relationships were established with the highest dose of 10% tuber extract evoking 100% repellency. Percent protection obtained against An. culicifacies Giles species A 100% repellency in 4 hours, 6 hours, An. stephensi 100% repellency in 6 hours and Cx. quinquefasciatus was 100% repellency in 6 hours at the 10% concentration. Against DEET- 2.5% An. culicifacies A 100% repellency in 1 hour, 2 hours, 6 hours, An. stephensi have shown 100% repellency in 6 hours, and Culex quinquefasciatus have shown 100% repellency in 1 hour, 2 hours, 6 hours. The consolidated data of the repellency observed in different species is given and it is evident that the over all repellency rates varied between 80 and 100% for different repellents concentrations (2.5%, 5%, and 10%). The extract can be applied as an effective personal protective measure against mosquito bites."
+  ],
+  "affiliation": [
+    "National Institute of Malaria Research (Indian Council of Medical Research), 22-Shamnath Marg, New Delhi 110054, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2925285?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2925285"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20798887/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20798887/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2009/908085"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2011-07-14"
+  ],
+  "dateOfCreation": [
+    "2010-08-27"
+  ],
+  "firstIndexDate": [
+    "2010-10-26"
+  ],
+  "electronicPublicationDate": [
+    "2009-10-13"
+  ],
+  "firstPublicationDate": [
+    "2009-10-13"
+  ]
+}

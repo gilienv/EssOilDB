@@ -1,0 +1,314 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD 2.3 20070202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing.dtd?><?SourceDTD.Version 2.3?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">EXCLI J</journal-id><journal-id journal-id-type="iso-abbrev">EXCLI J</journal-id><journal-id journal-id-type="publisher-id">EXCLI J</journal-id><journal-title-group><journal-title>EXCLI Journal</journal-title></journal-title-group><issn pub-type="epub">1611-2156</issn><publisher><publisher-name>Leibniz Research Centre for Working Environment and Human Factors</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5109006</article-id><article-id pub-id-type="publisher-id">2011-085</article-id><article-id pub-id-type="publisher-id">Doc85</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Production of ethanol from lignocellulosics: an enzymatic venture</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Kuila</surname><given-names>Arindam</given-names></name><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author"><name><surname>Mukhopadhyay</surname><given-names>Mainak</given-names></name><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author"><name><surname>Tuli</surname><given-names>D.K.</given-names></name><xref ref-type="aff" rid="A2">2</xref></contrib><contrib contrib-type="author"><name><surname>Banerjee</surname><given-names>Rintu</given-names></name><xref ref-type="corresp" rid="COR1">*</xref><xref ref-type="aff" rid="A1">1</xref></contrib></contrib-group><aff id="A1"><label>1</label>Microbial Biotechnology and Downstream Processing Laboratory, Agricultural and Food Engineering Department, Indian Institute of Technology, Kharagpur, India 721302</aff><aff id="A2"><label>2</label>Indian Oil Corporation Ltd., R &#x00026; D Centre, Faridabad, India 121 007</aff><author-notes><corresp id="COR1">*To whom correspondence should be addressed: Rintu Banerjee, Microbial Biotechnology and Downstream Processing Laboratory, Agricultural and Food Engineering Department, Indian Institute of Technology, Kharagpur, India 721302; Tel: +91-3222-283104(O)/+91-3222-283105(R), Fax: +91-3222-282244, E-mail: <email>rb@iitkgp.ac.in</email></corresp></author-notes><pub-date pub-type="epub"><day>27</day><month>5</month><year>2011</year></pub-date><pub-date pub-type="collection"><year>2011</year></pub-date><volume>10</volume><fpage>85</fpage><lpage>96</lpage><history><date date-type="received"><day>25</day><month>3</month><year>2011</year></date><date date-type="accepted"><day>09</day><month>5</month><year>2011</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2011 Kuila et al.</copyright-statement><copyright-year>2011</copyright-year><license license-type="open-access" xlink:href="http://www.excli.de/documents/assignment_of_rights.pdf"><license-p>This is an Open Access article distributed under the following Assignment of Rights http://www.excli.de/documents/assignment_of_rights.pdf. You are free to copy, distribute and transmit the work, provided the original author and source are credited.</license-p></license></permissions><self-uri xlink:type="simple" xlink:href="http://www.excli.de/vol10/Banerjee05_2011/Banerjee_13052011_proof-1.pdf">This article is available from http://www.excli.de/vol10/Banerjee05_2011/Banerjee_13052011_proof-1.pdf</self-uri><abstract><p>The major objective of the present investigation was to evaluate the effect of enzymatic pretreatment on <italic>Lantana camara </italic>for improved yield of reducing sugar and bioethanol production. An optimum enzymatic delignification (88.79 %) was achieved after 8 h of incubation. After delignification the substrate was further treated with the mixture of carbohydratases for appropriate saccharification. The enzyme treated substrate yielded maximum reducing sugar (713.33 mg/g dry substrate) after 9 h of saccharification. Monosaccharide content in the saccharified samples were quantified using high performance liquid chromatography (HPLC) system. Using conventional yeast strain, 9.63 g/L bioethanol was produced from saccharified samples of <italic>Lantana camara</italic>. Structural changes of <italic>Lantana camara</italic> before and after enzymatic pretreatment were further investigated through Fourier transformed infrared spectroscopy (FTIR), X-ray diffraction (XRD) and Scanning electron microscopy (SEM).</p></abstract><kwd-group><kwd>Lantana camara</kwd><kwd>optimization</kwd><kwd>delignification</kwd><kwd>saccharification</kwd><kwd>bioethanol</kwd><kwd>X-ray diffraction</kwd></kwd-group></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>Lignocellulosic biomass has been recognized as a promising resource for the production of bioethanol due to it's abundance, low cost and non-competitiveness with foodstuffs. Cellulose, hemicellulose and lignin are major components of the lignocellulosic biomass. Cellulose (linear polymer of several hundred to more than ten thousand &#x003b2; (1,4) linked D-glucose units) binds tightly with lignin and hemicellulose. For efficient hydrolysis of cellulose, lignin component must be separated in order to make cellulose more accessible to the enzymes (Selvi et al., 2009[<xref rid="R30" ref-type="bibr">30</xref>]). The enzymatic hydrolysis of cellulose (saccharification) is affected by several factors, <italic>viz</italic>., degree of polymerization, degree of crystallinity, structural composition and availability of surface area etc (Qi et al., 2009[<xref rid="R28" ref-type="bibr">28</xref>]). Therefore, pretreatment is one of the key strategies for enhanced enzymatic saccharification of lignocellulosics. Monomeric sugars released after enzymatic saccharification of the free cellulose, can be converted into bioethanol.</p><p>Improvements in pretreatment (delignification) and saccharification processes are important for cost effective bioethanol production. For improved saccharification, a number of different lignocellulosic pretreatment strategies have been reported (Akin et al., 1995[<xref rid="R1" ref-type="bibr">1</xref>]; Li et al., 2009[<xref rid="R21" ref-type="bibr">21</xref>]; Taherzadeh and Karimi, 2008[<xref rid="R35" ref-type="bibr">35</xref>]; Wei et al., 2010[<xref rid="R39" ref-type="bibr">39</xref>]). Biological pretreatment methods have not been developed as intensively as physical and chemical methods, due to its slow rate of reaction. </p><p>Biological pretreatment offers major advantages over conventional processes (chemical and physical processes), which includes greater yields, minimal byproduct formation, absence of substrate loss due to chemical modifications, low energy requirement, mild operating conditions and low chemical disposal cost (Lu et al., 2010[<xref rid="R23" ref-type="bibr">23</xref>]; O'Dwyer et al., 2007[<xref rid="R27" ref-type="bibr">27</xref>]). Biological pretreatment can be broadly classified as whole cell mediated and enzyme mediated pretreatment. Enzymatic pretreatment is more promising method over whole cell mediated pretreatment due to its faster rate of reaction, high efficiency and specificity (Vivekanand et al., 2008[<xref rid="R38" ref-type="bibr">38</xref>]).</p><p>Laccase plays a significant role in enzymatic pretreatment of lignocellulosics (Lu et al., 2010[<xref rid="R23" ref-type="bibr">23</xref>]), whereas, cellulase is an important enzyme for enzymatic saccharification of lignocellulosics (Bisaria and Ghosh, 1981[<xref rid="R4" ref-type="bibr">4</xref>]). </p><p><italic>Lantana camara</italic> is an important non edible lignocellulosic biomass, which grows widely throughout India. It is non edible due to its high toxin content (lantanedene A, B and triterpene acid) and has been found to be toxic to animals, too (Sharma et al., 1981[<xref rid="R32" ref-type="bibr">32</xref>]; Wolfson and Solomons, 1964[<xref rid="R40" ref-type="bibr">40</xref>]). But several important characteristics of <italic>Lantana camara</italic> such as easy availability, high cellulose content and no competition with the food chain makes it an ideal substrate for bioethanol production (Hahn-H&#x000e4;gerdal et al., 2006[<xref rid="R12" ref-type="bibr">12</xref>]; Hiremath and Bharath, 2005[<xref rid="R13" ref-type="bibr">13</xref>]). </p><p>The study aimed at optimizing the conditions of enzymatic pretreatment as well as saccharification processes using <italic>Lantana camara </italic>as substrate. In this work, enzymatic pretreatment was carried out by using laccase, produced from newly isolated <italic>Pleurotus </italic>sp. Saccharification of the enzyme pretreated substrate was carried out by using cellulase and xylanase, produced from <italic>Trichoderma reesei </italic>Rut C30. Response surface methodology (RSM) based on central composite design (CCD) was used for optimization of enzymatic pretreatment and saccharification processes. Fermentation was carried out using saccharified samples of <italic>Lantana camara</italic>. FTIR, XRD and SEM were used as analytical tools for qualitative determination of the structural changes in <italic>Lantana camara</italic> after enzymatic pretreatment. </p></sec><sec sec-type="materials|methods"><title>Material and Methods</title><sec><title>Substrate</title><p><italic>Lantana camara</italic> was collected locally from IIT Kharagpur, India. It was air dried overnight at 60 &#x000b0;C, followed by milling to approximately 0.2 mm particle size and stored under dry conditions before use. <italic>Lantana camara</italic> used in this study contained 8.23 % moisture, 1.20 % ash and 76.25 % volatile solid. </p></sec><sec><title>Enzymes</title><p>Laccase was produced from <italic>Pleurotus</italic> sp. (Bhattacharya et al., 2011[<xref rid="R3" ref-type="bibr">3</xref>]; Bhattacharya and Banerjee, 2008[<xref rid="R2" ref-type="bibr">2</xref>]). Cellulase was produced from <italic>Trichoderma reesei</italic> Rut C30 (Das et al., 2008[<xref rid="R5" ref-type="bibr">5</xref>]). Laccase and cellulase were centrifuged at 5,000 rpm for 5 minutes. The clear filtrate of laccase was used as crude laccase whose activity was determined spectrophotometrically (Bhattacharya and Banerjee, 2008[<xref rid="R2" ref-type="bibr">2</xref>]). One international unit/gram of dry substrate (IU/gds) of laccase activity was defined as the amount of enzyme capable of oxidizing 1 &#x003bc;mol of ABTS in 1 min per gram of dry substrate. Clear supernatant of cellulase (pH 5) was used as crude cellulase whose activity was determined by following assay protocols (Jeffries et al., 1998[<xref rid="R15" ref-type="bibr">15</xref>]; Zhang et al., 2007[<xref rid="R43" ref-type="bibr">43</xref>]). The activity of endoglucanase, &#x003b2;-glucosidase, exoglucanase and xylanase were 16.34 IU/mL, 12.80 IU/mL, 0.78 IU/mL and 479.33 IU/mL, respectively. </p></sec><sec><title>Enzymatic pretreatment and saccharification</title><p>Enzymatic pretreatment of <italic>Lantana camara</italic> was performed in Erlenmeyer flask, containing 10 g of substrate, 0.1 mol/L of phosphate buffer (pH 6.5 to 7.5) and required volume of laccase. Samples were withdrawn periodically and the solid residues were used for lignin estimation. After delignification the solid residues were washed with distilled water. Then it was air dried overnight at 60 &#x000b0;C and subsequently used for further studies.</p><p>Pretreated sample of <italic>Lantana camara</italic> (10 g) was taken in Erlenmeyer flask (250 mL), containing required volume of cellulase enzyme. Sample aliquots were taken periodically and centrifuged at 2,000 rpm for 5 minutes. The supernatant was analyzed for reducing sugar by following dinitrosalicylic acid method (Miller, 1959[<xref rid="R25" ref-type="bibr">25</xref>]). The extent of hydrolysis was calculated as follows:</p><p>Saccharification (%) = 100 x [Reducing sugar concentration obtained/Potential sugar concentration in the pretreated substrate].</p></sec><sec><title>Experimental design for enzymatic pretreatment and saccharification</title><p>A three level RSM based CCD was employed for optimization of pretreatment and saccharification of<italic> Lantana camara</italic>. For pretreatment of<italic> Lantana camara</italic>, five parameters were selected in the range pH (6.5- 7.5), temperature (35-45 &#x000b0;C), liquid:solid ratio (2-6 mL/g), incubation time (4-8 h) and enzyme concentration (400-600 IU/gds). For saccharification of pretreated <italic>Lantana camara</italic>, three parameters were selected in the range of substrate concentration (10-20 w/v), temperature (45-55 &#x000b0;C) and incubation time (7-9 h). All the pretreatment and saccharification experiments were carried out in triplicates. In coded terms the lowest, central and the highest level of five variables were -1, 0 and +1, respectively. Pretreatment and saccharification results are shown in Table 1<xref ref-type="fig" rid="T1">(Tab. 1)</xref> and 2<xref ref-type="fig" rid="T2">(Tab. 2)</xref>.</p></sec><sec><title>Bioethanol fermentation</title><p>Suspension culture of <italic>S. cerevisiae </italic>(24 h) was inoculated into 25 mL fermentation medium (in 100 mL Erlenmeyer flasks) containing saccharified solution of <italic>Lantana camara</italic> from the previous step. Yeast extract (2 g/L) was added as an additive to the culture medium for enhanced growth. The fermentation was carried out at 37 &#x000b0;C under shaking condition for 48 h. Ethanol was estimated by gas chromatography (GC) using HP-5 capillary column equipped with Agilent 6890 Series injector.</p></sec><sec><title>Analytical methods - Biochemical composition analysis</title><p>Cellulose, lignin and hemicellulose content of untreated and pretreated samples of <italic>Lantana camara</italic> were analyzed using some biochemical protocols (Hussain et al., 2002[<xref rid="R14" ref-type="bibr">14</xref>]; Marlett and Lee, 2006[<xref rid="R24" ref-type="bibr">24</xref>]; Viles and Silverman, 1949[<xref rid="R37" ref-type="bibr">37</xref>]). The monosaccharide content in the saccharified samples of pretreated <italic>Lantana camara </italic>was quantified using a HPLC system. It consisted of an isocratic elution mobile phase of acetonitrile-water (75:25, v/v), degassed before use. The flow-rate of the eluent was 1.8 mL/min at 25 &#x000b0;C column temperature. The injected volume was 20 &#x003bc;L. Sugar standards were used for quantification of different sugars (glucose, xylose, mannose, galactose, arabinose etc) in the sample. </p></sec><sec><title>FTIR, XRD and SEM study of Lantana camara </title><p>FTIR analysis was performed in both the untreated and pretreated samples. All solid samples were air dried and then pressed into a disc of potassium bromide (KBr). Sample spectra were obtained over the range of 400 cm<sup>&#x02212;1</sup> and 4000 cm<sup>&#x02212;1</sup> with a spectral resolution of 0.5 cm<sup>&#x02212;1</sup>. </p><p>The overall crystallinity of untreated and pretreated sample were determined by XRD1710 equipment using CoK&#x003b1; radiation (&#x003b1; = 1.79 &#x000c5;) at 40 kV and 20 mA. Samples were scanned and intensity recorded at 2&#x003b8; range from 15&#x000b0; to 75&#x000b0; with scanning speed of 3<sup>o</sup>/min. Crystallinity (%) was defined as [(I<sub>002 </sub>- I<sub>am</sub>)/I<sub>002</sub>]&#x000d7;100, where I<sub>002</sub> represent maximum crystalline intensity peak at 2&#x003b8; between 22&#x000b0; and 23&#x000b0; for cellulose I, and I<sub>am</sub> represent minimum crystalline intensity peak at 2&#x003b8; between 18&#x000b0; and 19&#x000b0; for cellulose I (Segal et al., 1959[<xref rid="R29" ref-type="bibr">29</xref>]).</p><p>SEM image was taken for both untreated and pretreated sample of <italic>Lantana camara</italic>. For SEM, dried sample were coated with gold and observed under JEOL JSM 5800 SEM (Jeol Ltd, Tokyo, Japan). </p></sec></sec><sec><title>Results and Discussion</title><sec><title>Statistical analysis</title><p>The mathematical expression of relationship of enzymatic pretreatment (% lignin degradation) is given in equation 1, where the variables A<sub>1</sub>, A<sub>2</sub>, A<sub>3</sub>, A<sub>4</sub> and A<sub>5</sub> represent pH, temperature, liquid:solid ratio, enzyme concentration and incubation time, respectively, which are given below in terms of coded factor:</p><p>Y<sub>1 </sub>= + 158.30 - 280.90A<sub>1 </sub>+ 45.45A<sub>2</sub> + 21.09A<sub>3</sub> + 0.05A<sub>4</sub> + 0.34A<sub>5</sub> + 15.90A<sub>1</sub><sup>2</sup> - 0.75A<sub>2</sub><sup>2 </sup>- 2.27A<sub>3</sub><sup>2</sup> + 1.55A<sub>5</sub><sup>2</sup> + 1.56A<sub>1</sub>A<sub>2</sub> - 1.18A<sub>1</sub>A<sub>3</sub> + 0.02A<sub>1</sub>A<sub>4 </sub>- 3.25A<sub>1</sub>A<sub>5</sub> + 0.01A<sub>2</sub>A<sub>3</sub> + 0.09A<sub>2</sub>A<sub>5</sub> + 0.03A<sub>3</sub>A<sub>4</sub> - 1.42A<sub>3</sub>A<sub>5</sub> + 0.01A<sub>4</sub>A<sub>5 </sub>(1)</p><p>whereas, equation 2 represents the relationship of reducing sugar production (mg/mL) of pretreated <italic>Lantana camara</italic>, where the variables B<sub>1</sub>, B<sub>2</sub>, B<sub>3 </sub>represent substrate concentration, temperature and incubation time, respectively, which are also given in coded terms:</p><p>Y<sub>2 </sub>= + 99.23 + 7.82B<sub>1</sub> + 11.69B<sub>2</sub> + 4.84B<sub>3 </sub>- 13.73B<sub>1</sub><sup>2</sup> - 18.73B<sub>2</sub><sup>2</sup> + 2.99B<sub>3</sub><sup>2 </sup>+ 5.50B<sub>1</sub>B<sub>2</sub> - 3.43B<sub>1</sub>B<sub>3</sub> - 5.25B<sub>2</sub>B<sub>3 </sub>(2)</p><p>Analysis of Variance (ANOVA) of the quadratic regression for enzymatic pretreatment and saccharification of <italic>Lantana camara</italic> have been summarized in Table 3<xref ref-type="fig" rid="T3">(Tab. 3)</xref>. </p><p>The regression model for <italic>Lantana camara </italic>pretreatment demonstrated a high F-value (54.72) and a very low probability value (&#x0003c; 0.001). In saccharification of pretreated <italic>Lantana camara</italic>, the F value was 390.25 and probability value was &#x0003c; 0.001. The quadratic regression models for pretreatment and saccharification of <italic>Lantana camara</italic> were thus significant due to high F and low P values (Liu et al., 2010[<xref rid="R22" ref-type="bibr">22</xref>]). For pretreatment of <italic>Lantana camara</italic> and saccharification of pretreated <italic>Lantana camara</italic> the R<sup>2</sup> values obtained were closer to 1 (0.9792 and 0.9951, respectively) and hence justify the robustness of the model. From regression equation 1, it can be shown that A<sub>2, </sub>A<sub>3</sub>, A<sub>1</sub><sup>2</sup>, A<sub>5</sub><sup>2 </sup>were significant model terms on the enzymatic pretreatment of <italic>Lantana camara</italic>. On the other hand B<sub>1</sub>, B<sub>2 </sub>and B<sub>3</sub><sup>2</sup> were significant model terms for enzymatic saccharification of pretreated <italic>Lantana camara</italic> (equation 2). This result was similar to other reports (Garg and Doelle, 2004[<xref rid="R8" ref-type="bibr">8</xref>]; Ghosh and Ray, 2010[<xref rid="R9" ref-type="bibr">9</xref>]; Krishna and Chowdary, 2009[<xref rid="R17" ref-type="bibr">17</xref>]).</p><p>Figure 1<xref ref-type="fig" rid="F1">(Fig. 1)</xref> shows the function of (a) temperature and liquid: solid ratio and (b) temperature and incubation time on pretreatment of <italic>Lantana camara</italic>. The three dimensional plots show that increase in temperature and liquid:solid ratio caused an increase in the lignin degradation (%) with optimum temperature and liquid:solid ratio of 37 &#x000b0;C and 2 (mL/g), respectively, yielded a maximum lignin degradation of 88.79 % after 8 h of incubation. No significant lignin degradation was observed after 8 h. </p><p>Figure 2<xref ref-type="fig" rid="F2">(Fig. 2)</xref> shows the interaction between (a) substrate concentration (w/v) and temperature (<sup>o</sup>C) and (b) incubation time (h) and temperature (<sup>o</sup>C) on reducing sugar production from pretreated <italic>Lantana camara</italic>. Reducing sugar production was increased with an increase in substrate concentration and temperature up to 15 % and 50 &#x000b0;C, respectively, while, by increasing incubation time, a reducing sugar production was enhanced up to 9 h. The report on enzymatic saccharification of pretreated (steam exploded) sunflower stalk was at 50 &#x000b0;C and 72 h (Sharma et al., 2002[<xref rid="R32" ref-type="bibr">32</xref>]).</p></sec><sec><title>Validation of enzymatic pretreatment and saccharification </title><p>Optimal predicted conditions for delignification of <italic>Lantana camara </italic>were pH 6.5, 37 &#x000b0;C, liquid:solid ratio 2 (mL/g), enzyme concentration 402 IU/gds and incubation time 8 h. Under these conditions, the maximum predicted delignification was 88.41 %. To confirm the predicted response, experiments (in triplicates) were conducted under optimum theoretical conditions. In these experiments maximum delignification was found to be 88.79 % which was close to the predicted response. Similar result was observed by dilute acid pretreatment of <italic>Lantana camara</italic> (Kuhad et al., 2010[<xref rid="R18" ref-type="bibr">18</xref>]). In another report, 2,4-dichlorophenol (2,4-DCP) degradation by using laccase resulted 98 % degradation after 9 h of incubation at pH 6 and temperature of 40 &#x000b0;C (Bhattacharya and Banerjee, 2008[<xref rid="R2" ref-type="bibr">2</xref>]).</p><p>For saccharification of the pretreated <italic>Lantana camara</italic> the predicted optimum conditions were substrate concentration 15 % (w/v), 50 &#x000b0;C and 9 h of incubation time. Under these conditions the model predicted maximum reducing sugar production to be 106.50 mg/mL. Under these conditions experimental maximum reducing sugar production was 107.00 mg/mL, which was very close to the predicted response. So, maximum reducing sugar yield was 713.33 mg/g dry substrate after 9 h of incubation with saccharification rate of 79.26 mg/g/h. Table 2<xref ref-type="fig" rid="T2">(Tab. 2)</xref> shows monosaccharide content (glucose, xylose, mannose, maltose and arbinose) in the saccharified samples of pretreated <italic>Lantana camara</italic>. Glucose, xylose, mannose, maltose and arabinose content in the optimized saccharified samples were 53.01 mg/mL, 29.57 mg/mL, 13.28 mg/mL, 8.56 mg/mL and 1.01 mg/mL, respectively.</p><p>The faster and higher reducing sugar yield due to enzymatic treatment enhanced the adsorption of cellulases to the cellulose (Yu et al., 2007[<xref rid="R42" ref-type="bibr">42</xref>]). Enzymatic saccharification efficiency (83.64 %) obtained was in agreement with other reports (Gupta et al., 2009[<xref rid="R11" ref-type="bibr">11</xref>]; Kuhad et al., 2010[<xref rid="R18" ref-type="bibr">18</xref>]; Yu et al., 2007[<xref rid="R42" ref-type="bibr">42</xref>]).</p><p>Similar reducing sugar yield was obtained after 28 h of saccharification of dilute acid pretreated <italic>Lantana camara</italic> (Kuhad et al., 2010[<xref rid="R18" ref-type="bibr">18</xref>]). With the chemical pretreatment method, the rate of saccharification was decreased because of the accumulation of several inhibitory compounds (Krishna and Chowdary, 2009[<xref rid="R17" ref-type="bibr">17</xref>]; Yang et al., 2009[<xref rid="R41" ref-type="bibr">41</xref>]). The report on the saccharification of pretreated <italic>Lantana camara</italic> resulted in the reducing sugar yield of 389.1 mg/g dry substrate in 48 h (Gupta et al., 2010[<xref rid="R10" ref-type="bibr">10</xref>]). Higher reducing sugar yield in short incubation time is required for improved process economics of bioethanol production (Taherzadh and Karimi, 2007[<xref rid="R34" ref-type="bibr">34</xref>]). There are several reports on saccharification using commercial cellulase and also reported that addition of additives (Tween 80) had increased the saccharification efficiency by 80 % and 80.04 %, respectively (Kuhad et al., 2010[<xref rid="R18" ref-type="bibr">18</xref>]; Qi et al., 2009[<xref rid="R28" ref-type="bibr">28</xref>]). In the present study, pretreatment was performed with crude laccase and saccharification was performed with crude cellulase without addition of any additives.</p></sec><sec><title>Fermentation of saccharified Lantana camara</title><p>After 48 h of incubation, optimum bioethanol production was 9.63 g/L. The yeast strain produced small amount of acetic acid and succinic acid as byproducts along with the ethanol. Similar bioethanol production was reported for dilute acid pretreated rice straw (Karimi et al., 2006[<xref rid="R16" ref-type="bibr">16</xref>]).</p></sec><sec><title>Biochemical composition analysis of Lantana camara</title><p>Table 4<xref ref-type="fig" rid="T4">(Tab. 4)</xref> summarizes major biochemical components of untreated and pretreated samples of <italic>Lantana camara</italic>. From the results, it can be predicted that after pretreatment of <italic>Lantana camara</italic>, cellulose content was increased whereas, hemicellulose and lignin content was decreased significantly as reported by others (Kumar et al., 2009[<xref rid="R20" ref-type="bibr">20</xref>][<xref rid="R19" ref-type="bibr">19</xref>]; Mussatto et al., 2008[<xref rid="R26" ref-type="bibr">26</xref>]). For untreated samples cellulose content was higher but hemicellulose and lignin content was close to the values reported by other author (Vats et al., 1994[<xref rid="R36" ref-type="bibr">36</xref>]). The variation might be due to the influence of environmental factors such as temperature, water availability, humidity and soil conditions etc.</p></sec><sec><title>FTIR, XRD and SEM study of Lantana camara </title><p>FTIR spectral profile of untreated and pretreated samples of <italic>Lantana camara </italic>have been shown in Figure 3<xref ref-type="fig" rid="F3">(Fig. 3)</xref>. It can be observed that bands at 3394 cm<sup>&#x02212;1</sup> (O-H stretching in hydroxyl group), 2924 cm<sup>&#x02212;1</sup> (C-H stretching), 1648 cm<sup>&#x02212;1</sup> (conjugated C=O stretch), 1257 cm<sup>&#x02212;1</sup> (C-O stretching or OH deformation) and 1025 cm<sup>-1</sup> (structural and non-structural carbohydrate band) (El-Hendawy, 2006[<xref rid="R7" ref-type="bibr">7</xref>]; Qi et al., 2009[<xref rid="R28" ref-type="bibr">28</xref>]; Simkovic et al., 2008[<xref rid="R33" ref-type="bibr">33</xref>]; Yu et al., 2007[<xref rid="R42" ref-type="bibr">42</xref>]; Zhao et al., 2008[<xref rid="R44" ref-type="bibr">44</xref>]) were decreased after enzymatic pretreatment compared to untreated sample of <italic>Lantana camara</italic>. These results highlight the efficacy of enzymatic pretreatment for efficient saccharification of <italic>Lantana camara</italic>.</p><p>Crystallinity of cellulose is one of the main factors influencing enzymatic hydrolysis (Kumar et al., 2009[<xref rid="R20" ref-type="bibr">20</xref>][<xref rid="R19" ref-type="bibr">19</xref>]). The texture of untreated and pretreated samples of <italic>Lantana camara</italic> was investigated by XRD, and has been shown in Figure 4<xref ref-type="fig" rid="F4">(Fig. 4)</xref>. The cellulose crystallinity value of untreated sample of <italic>Lantana camara</italic> was 19.57 % while that of pretreated sample was 25.21 %. For lignocellulosic biomass, crystallinity measures the relative amount of crystalline cellulose in the total solid. The crystallinity of the pretreated sample was increased due to removal of lignin and hemicellulose (both of which are amorphous). This result was consistent with another report (Dwivedi et al., 2010[<xref rid="R6" ref-type="bibr">6</xref>]).</p><p>Figure 5 (a) and (b)<xref ref-type="fig" rid="F5">(Fig. 5)</xref> shows SEM images of untreated and pretreated sample of <italic>Lantana camara</italic>, respectively. The untreated sample revealed ordered and compact structure. After enzymatic pretreatment these ordered structures were destroyed and accessible area for cellulase was increased. This result was due to removal of lignin and hemicellulose (Zhao et al., 2008[<xref rid="R44" ref-type="bibr">44</xref>]). </p></sec></sec><sec sec-type="conclusions"><title>Conclusion</title><p>A maximum enzymatic delignification of 88.79 % was achieved after 8 h of incubation. Maximum reducing sugar yield from enzyme pretreated <italic>Lantana camara</italic> (83.64 %) was attained after 9 h of incubation at 50 &#x000b0;C. Saccharification of enzyme pretreated sample resulted in higher reducing sugar yield (713.33 mg/g dry substrate) in a very short incubation time not reported so far. The results obtained in the present investigation are indicative of improved conversion efficiency for prospective production of bioethanol. FTIR, XRD and SEM study also revealed the effectiveness of enzymatic pretreatment for efficient saccharification and fermentation of <italic>Lantana camara</italic>.</p></sec><sec><title>Acknowledgement</title><p>The authors sincerely acknowledge Petrotech Society, New Delhi for financial support. </p></sec></body><back><ref-list><ref id="R1"><label>1</label><element-citation publication-type="journal">
+<person-group><name><surname>Akin</surname><given-names>DE</given-names></name><name><surname>Rigsby</surname><given-names>LL</given-names></name><name><surname>Sethuraman</surname><given-names>A</given-names></name><name><surname>Morrison</surname><given-names>WH</given-names></name><name><surname>Gamble</surname><given-names>GR</given-names></name><name><surname>Eriksson</surname><given-names>KEL</given-names></name></person-group>
+<article-title>Alterations in structure, chemistry, and biodegradability of grass lignocellulose treated with the white rot fungi Ceriporiopsis subvermispora and Cyathus stercoreus</article-title>
+<source>Appl Environ Microbiol</source>
+<year>1995</year>
+<volume>61</volume>
+<fpage>1591&#x02013;8</fpage>
+<pub-id pub-id-type="pmid">7747973</pub-id></element-citation></ref><ref id="R2"><label>2</label><element-citation publication-type="journal">
+<person-group><name><surname>Bhattacharya</surname><given-names>SS</given-names></name><name><surname>Banerjee</surname><given-names>R</given-names></name></person-group>
+<article-title>Laccase mediated biodegradation of 2,4 dichlorophenol using response surface methodology</article-title>
+<source>Chemosphere</source>
+<year>2008</year>
+<volume>73</volume>
+<fpage>83&#x02013;5</fpage>
+</element-citation></ref><ref id="R3"><label>3</label><element-citation publication-type="journal">
+<person-group><name><surname>Bhattacharya</surname><given-names>SS</given-names></name><name><surname>Garlapati</surname><given-names>VK</given-names></name><name><surname>Banerjee</surname><given-names>R</given-names></name></person-group>
+<article-title>Optimization of laccase production using response surface methodology coupled with differential evolution</article-title>
+<source>New Biotechnol</source>
+<year>2011</year>
+<volume>28</volume>
+<fpage>31</fpage>
+<lpage>39</lpage>
+</element-citation></ref><ref id="R4"><label>4</label><element-citation publication-type="journal">
+<person-group><name><surname>Bisaria</surname><given-names>VS</given-names></name><name><surname>Ghosh</surname><given-names>TK</given-names></name></person-group>
+<article-title>Biodegradation of cellulosic materials: substrates, microorganisms, enzymes and products</article-title>
+<source>Enzyme Microbiol Technol</source>
+<year>1981</year>
+<volume>3</volume>
+<fpage>90&#x02013;104</fpage>
+</element-citation></ref><ref id="R5"><label>5</label><element-citation publication-type="journal">
+<person-group><name><surname>Das</surname><given-names>M</given-names></name><name><surname>Banerjee</surname><given-names>R</given-names></name><name><surname>Bal</surname><given-names>S</given-names></name></person-group>
+<article-title>Multivariable parameter optimization for the endoglucanase production by Trichoderma reesei Rut C30 from Ocimum gratissimum seed</article-title>
+<source>Braz Arch Biol Technol</source>
+<year>2008</year>
+<volume>51</volume>
+<fpage>35&#x02013;41</fpage>
+</element-citation></ref><ref id="R6"><label>6</label><element-citation publication-type="journal">
+<person-group><name><surname>Dwivedi</surname><given-names>P</given-names></name><name><surname>Vivekanand</surname><given-names>V</given-names></name><name><surname>Pareek</surname><given-names>N</given-names></name><name><surname>Sharma</surname><given-names>A</given-names></name><name><surname>Singh</surname><given-names>RP</given-names></name></person-group>
+<article-title>Bleach enhancement of mixed wood pulp by xylanase-laccase concoction derived through co-culture strategy</article-title>
+<source>Appl Biochem Biotechnol</source>
+<year>2010</year>
+<volume>160</volume>
+<fpage>255&#x02013;68</fpage>
+<pub-id pub-id-type="pmid">19421722</pub-id></element-citation></ref><ref id="R7"><label>7</label><element-citation publication-type="journal">
+<person-group><name><surname>El-Hendawy</surname><given-names>ANA</given-names></name></person-group>
+<article-title>Variation in the FTIR spectra of a biomass under impregnation, carbonization and oxidation conditions</article-title>
+<source>J Anal Appl Pyrol</source>
+<year>2006</year>
+<volume>75</volume>
+<fpage>159&#x02013;166</fpage>
+</element-citation></ref><ref id="R8"><label>8</label><element-citation publication-type="journal">
+<person-group><name><surname>Garg</surname><given-names>SK</given-names></name><name><surname>Doelle</surname><given-names>HW</given-names></name></person-group>
+<article-title>Optimization of physiological factors for direct saccharification of cassava starch to glucose by Rhizopus oligosporus 145f</article-title>
+<source>Biotechnol Bioeng</source>
+<year>2004</year>
+<volume>33</volume>
+<fpage>948&#x02013;54</fpage>
+</element-citation></ref><ref id="R9"><label>9</label><element-citation publication-type="journal">
+<person-group><name><surname>Ghosh</surname><given-names>B</given-names></name><name><surname>Ray</surname><given-names>RR</given-names></name></person-group>
+<article-title>Saccharification of raw native starches by extracellular isoamylase of Rhizopus oryzae</article-title>
+<source>Biotechnology</source>
+<year>2010</year>
+<volume>9</volume>
+<fpage>222&#x02013;8</fpage>
+</element-citation></ref><ref id="R10"><label>10</label><element-citation publication-type="journal">
+<person-group><name><surname>Gupta</surname><given-names>R</given-names></name><name><surname>Mehta</surname><given-names>G</given-names></name><name><surname>Khasa</surname><given-names>YP</given-names></name><name><surname>Kuhad</surname><given-names>RC</given-names></name></person-group>
+<article-title>Fungal delignification of lignocellulosic biomass improves the saccharification of cellulosics</article-title>
+<source>Biodegradation</source>
+<day>14</day>
+<month>8</month>
+<year>2010</year>
+<fpage>Epub ahead of print</fpage>
+<pub-id pub-id-type="doi">10.1007/s10532-010-9404-6.</pub-id>
+<comment>Available from: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/s10532-010-9404-6.">http://dx.doi.org/10.1007/s10532-010-9404-6.</ext-link></comment>
+</element-citation></ref><ref id="R11"><label>11</label><element-citation publication-type="journal">
+<person-group><name><surname>Gupta</surname><given-names>R</given-names></name><name><surname>Sharma</surname><given-names>KK</given-names></name><name><surname>Kuhad</surname><given-names>RC</given-names></name></person-group>
+<article-title>Separate hydrolysis and fermentation (SHF) of Prosopis juliflora, a woody substrate, for the production of cellulosic ethanol by Saccharomyces cerevisiae and Pichia stipitis-NCIM 3498</article-title>
+<source>Bioresource Technol</source>
+<year>2009</year>
+<volume>100</volume>
+<fpage>1214&#x02013;20</fpage>
+</element-citation></ref><ref id="R12"><label>12</label><element-citation publication-type="journal">
+<person-group><name><surname>Hahn-H&#x000e4;gerdal</surname><given-names>B</given-names></name><name><surname>Galbe</surname><given-names>M</given-names></name><name><surname>Gorwa-Grauslund</surname><given-names>MF</given-names></name><name><surname>Lid&#x000e9;n</surname><given-names>G</given-names></name><name><surname>Zacchi</surname><given-names>G</given-names></name></person-group>
+<article-title>Bio-ethanol &#x02013; the fuel of tomorrow from the residues of today</article-title>
+<source>Trends Biotechnol</source>
+<year>2006</year>
+<volume>24</volume>
+<fpage>549&#x02013;56</fpage>
+<pub-id pub-id-type="pmid">17050014</pub-id></element-citation></ref><ref id="R13"><label>13</label><element-citation publication-type="journal">
+<person-group><name><surname>Hiremath</surname><given-names>AJ</given-names></name><name><surname>Bharath</surname><given-names>S</given-names></name></person-group>
+<article-title>The fire-lantana cycle hypothesis in Indian forests</article-title>
+<source>Conservat Soc</source>
+<year>2005</year>
+<volume>3</volume>
+<fpage>26&#x02013;42</fpage>
+</element-citation></ref><ref id="R14"><label>14</label><element-citation publication-type="journal">
+<person-group><name><surname>Hussain</surname><given-names>MA</given-names></name><name><surname>Huq</surname><given-names>ME</given-names></name><name><surname>Rahman</surname><given-names>SM</given-names></name></person-group>
+<article-title>Estimation of lignin in jute by titration method. Pak</article-title>
+<source>J Biol Sci</source>
+<year>2002</year>
+<volume>5</volume>
+<fpage>521&#x02013;2</fpage>
+</element-citation></ref><ref id="R15"><label>15</label><element-citation publication-type="journal">
+<person-group><name><surname>Jeffries</surname><given-names>TW</given-names></name><name><surname>Yang</surname><given-names>WW</given-names></name><name><surname>Davis</surname><given-names>MW</given-names></name></person-group>
+<article-title>Comparative study of xylanase kinetics using dinitrosalicylic, arsenomolybdate, and ion chromatographic assays</article-title>
+<source>Appl Biochem Biotechnol</source>
+<year>1998</year>
+<volume>70&#x02013;72</volume>
+<fpage>257&#x02013;65</fpage>
+</element-citation></ref><ref id="R16"><label>16</label><element-citation publication-type="journal">
+<person-group><name><surname>Karimi</surname><given-names>K</given-names></name><name><surname>Emtiazi</surname><given-names>G</given-names></name><name><surname>Taherzadeh</surname><given-names>MJ</given-names></name></person-group>
+<article-title>Ethanol production from dilute-acid pretreated rice straw by simultaneous saccharification and fermentation with Mucor indicus, Rhizopus oryzae, and Sachharomyces cerevisiae</article-title>
+<source>Enzyme Microbiol Technol</source>
+<year>2006</year>
+<volume>40</volume>
+<fpage>138&#x02013;44</fpage>
+</element-citation></ref><ref id="R17"><label>17</label><element-citation publication-type="journal">
+<person-group><name><surname>Krishna</surname><given-names>SH</given-names></name><name><surname>Chowdary</surname><given-names>GV</given-names></name></person-group>
+<article-title>Optimization of simultaneous saccharification and fermentation for the production of ethanol from lignocellulosic biomass</article-title>
+<source>J Agric Food Chem</source>
+<year>2009</year>
+<volume>48</volume>
+<fpage>1971&#x02013;6</fpage>
+</element-citation></ref><ref id="R18"><label>18</label><element-citation publication-type="journal">
+<person-group><name><surname>Kuhad</surname><given-names>RC</given-names></name><name><surname>Gupta</surname><given-names>R</given-names></name><name><surname>Khasa</surname><given-names>YP</given-names></name><name><surname>Singh</surname><given-names>A</given-names></name></person-group>
+<article-title>Bioethanol production from Lantana camara (red sage): pretreatment, saccharification and fermentation</article-title>
+<source>Bioresource Technol</source>
+<year>2010</year>
+<volume>101</volume>
+<fpage>8348&#x02013;54</fpage>
+</element-citation></ref><ref id="R19"><label>19</label><element-citation publication-type="journal">
+<person-group><name><surname>Kumar</surname><given-names>P</given-names></name><name><surname>Mago</surname><given-names>G</given-names></name><name><surname>Balan</surname><given-names>V</given-names></name><name><surname>Wyman</surname><given-names>CE</given-names></name></person-group>
+<article-title>Physical and chemical characterizations of corn stover and poplar solids resulting from leading pretreatment technologies</article-title>
+<source>Bioresource Technol</source>
+<year>2009</year>
+<volume>100</volume>
+<fpage>3948&#x02013;62</fpage>
+</element-citation></ref><ref id="R20"><label>20</label><element-citation publication-type="journal">
+<person-group><name><surname>Kumar</surname><given-names>R</given-names></name><name><surname>Chandrashekar</surname><given-names>N</given-names></name><name><surname>Pandey</surname><given-names>KK</given-names></name></person-group>
+<article-title>Fuel properties and combustion characteristics Lantana camara and Eupatorium spp</article-title>
+<source>Curr Sci</source>
+<year>2009</year>
+<volume>97</volume>
+<fpage>930&#x02013;4</fpage>
+</element-citation></ref><ref id="R21"><label>21</label><element-citation publication-type="journal">
+<person-group><name><surname>Li</surname><given-names>H</given-names></name><name><surname>Kim</surname><given-names>NJ</given-names></name><name><surname>Jiang</surname><given-names>M</given-names></name><name><surname>Kang</surname><given-names>JW</given-names></name><name><surname>Chang</surname><given-names>HN</given-names></name></person-group>
+<article-title>Simultaneous saccharification and fermentation of lignocellulosic residues pretreated with phosphoric acid acetone for bioethanol production</article-title>
+<source>Bioresource Technol</source>
+<year>2009</year>
+<volume>100</volume>
+<fpage>3245&#x02013;51</fpage>
+</element-citation></ref><ref id="R22"><label>22</label><element-citation publication-type="journal">
+<person-group><name><surname>Liu</surname><given-names>Q</given-names></name><name><surname>Cheng</surname><given-names>KK</given-names></name><name><surname>Jhang</surname><given-names>JA</given-names></name><name><surname>Li</surname><given-names>JP</given-names></name><name><surname>Wang</surname><given-names>GH</given-names></name></person-group>
+<article-title>Statistical optimization of recycled-paper enzymatic hydrolysis for simultaneous saccharification and fermentation via central composite design</article-title>
+<source>Appl Biochem Biotechnol</source>
+<year>2010</year>
+<volume>160</volume>
+<fpage>604&#x02013;12</fpage>
+<pub-id pub-id-type="pmid">19125227</pub-id></element-citation></ref><ref id="R23"><label>23</label><element-citation publication-type="journal">
+<person-group><name><surname>Lu</surname><given-names>C</given-names></name><name><surname>Wang</surname><given-names>H</given-names></name><name><surname>Luo</surname><given-names>Y</given-names></name><name><surname>Guo</surname><given-names>L</given-names></name></person-group>
+<article-title>An efficient system for pre-delignification of gramineous biofuel feedstock in vitro: application of a laccase from Pycnoporus sanguineus H275</article-title>
+<source>Proc Biochem</source>
+<year>2010</year>
+<volume>45</volume>
+<fpage>1141&#x02013;7</fpage>
+</element-citation></ref><ref id="R24"><label>24</label><element-citation publication-type="journal">
+<person-group><name><surname>Marlett</surname><given-names>JA</given-names></name><name><surname>Lee</surname><given-names>SC</given-names></name></person-group>
+<article-title>Dietary fiber, lignocellulose and hemicellulose contents of selected foods determined by modified and unmodified van soest procedures</article-title>
+<source>J Food Sci</source>
+<year>2006</year>
+<volume>45</volume>
+<fpage>1688&#x02013;93</fpage>
+</element-citation></ref><ref id="R25"><label>25</label><element-citation publication-type="journal">
+<person-group><name><surname>Miller</surname><given-names>GL</given-names></name></person-group>
+<article-title>Use of dinitrosalicylic acid reagent for determination of reducing sugar</article-title>
+<source>Anal Chem</source>
+<year>1959</year>
+<volume>31</volume>
+<fpage>426&#x02013;8</fpage>
+</element-citation></ref><ref id="R26"><label>26</label><element-citation publication-type="journal">
+<person-group><name><surname>Mussatto</surname><given-names>SI</given-names></name><name><surname>Fernandes</surname><given-names>M</given-names></name><name><surname>Milagres</surname><given-names>AMF</given-names></name><name><surname>Roberto</surname><given-names>IC</given-names></name></person-group>
+<article-title>Effect of hemicellulose and lignin on enzymatic hydrolysis of cellulose from brewer's spent grain</article-title>
+<source>Enzyme Microbiol Technol</source>
+<year>2008</year>
+<volume>43</volume>
+<fpage>124&#x02013;9</fpage>
+</element-citation></ref><ref id="R27"><label>27</label><element-citation publication-type="journal">
+<person-group><name><surname>O&#x02019;Dwyer</surname><given-names>JP</given-names></name><name><surname>Zhu</surname><given-names>L</given-names></name><name><surname>Granda</surname><given-names>CB</given-names></name><name><surname>Holtzapple</surname><given-names>MT</given-names></name></person-group>
+<article-title>Enzymatic hydrolysis of lime-pretreated corn stover and investigation of the HCH-1 model: inhibition pattern, degree of inhibition, validity of simplified HCH-1 model</article-title>
+<source>Bioresource Technol</source>
+<year>2007</year>
+<volume>98</volume>
+<fpage>2969&#x02013;77</fpage>
+</element-citation></ref><ref id="R28"><label>28</label><element-citation publication-type="journal">
+<person-group><name><surname>Qi</surname><given-names>B</given-names></name><name><surname>Chen</surname><given-names>X</given-names></name><name><surname>Shen</surname><given-names>F</given-names></name><name><surname>Su</surname><given-names>Y</given-names></name><name><surname>Wan</surname><given-names>Y</given-names></name></person-group>
+<article-title>Optimization of enzymatic hydrolysis of wheat straw pretreated by alkaline peroxide using response surface methodology</article-title>
+<source>Ind Eng Chem Res</source>
+<year>2009</year>
+<volume>48</volume>
+<fpage>7346&#x02013;53</fpage>
+</element-citation></ref><ref id="R29"><label>29</label><element-citation publication-type="journal">
+<person-group><name><surname>Segal</surname><given-names>L</given-names></name><name><surname>Creely</surname><given-names>JJ</given-names></name><name><surname>Martin</surname><given-names>AE</given-names></name><name><surname>Conrad</surname><given-names>CM</given-names></name></person-group>
+<article-title>An empirical methods for estimating the degree of crystallinity of native cellulose using the X-ray diffraction</article-title>
+<source>Textile Res J</source>
+<year>1959</year>
+<volume>29</volume>
+<fpage>786&#x02013;94</fpage>
+</element-citation></ref><ref id="R30"><label>30</label><element-citation publication-type="journal">
+<person-group><name><surname>Selvi</surname><given-names>VA</given-names></name><name><surname>Banerjee</surname><given-names>R</given-names></name><name><surname>Ram</surname><given-names>LC</given-names></name><name><surname>Singh</surname><given-names>G</given-names></name></person-group>
+<article-title>Biodepolymerization of low rank Indian coal</article-title>
+<source>World J Microbiol Biotechnol</source>
+<year>2009</year>
+<volume>25</volume>
+<fpage>713&#x02013;20</fpage>
+</element-citation></ref><ref id="R31"><label>31</label><element-citation publication-type="journal">
+<person-group><name><surname>Sharma</surname><given-names>OP</given-names></name><name><surname>Makkar</surname><given-names>HPS</given-names></name><name><surname>Dawra</surname><given-names>RK</given-names></name><name><surname>Negi</surname><given-names>SS</given-names></name></person-group>
+<article-title>A review of the toxicity of Lantana camara (Linn.) in animals</article-title>
+<source>Clin Toxicol</source>
+<year>1981</year>
+<volume>18</volume>
+<fpage>1077&#x02013;94</fpage>
+<pub-id pub-id-type="pmid">7032835</pub-id></element-citation></ref><ref id="R32"><label>32</label><element-citation publication-type="journal">
+<person-group><name><surname>Sharma</surname><given-names>SK</given-names></name><name><surname>Kalra</surname><given-names>KL</given-names></name><name><surname>Grewal</surname><given-names>HS</given-names></name></person-group>
+<article-title>Enzymatic saccharification of pretreated sunflower stalks</article-title>
+<source>Biomass Bioenerg</source>
+<year>2002</year>
+<volume>23</volume>
+<fpage>237&#x02013;43</fpage>
+</element-citation></ref><ref id="R33"><label>33</label><element-citation publication-type="journal">
+<person-group><name><surname>Simkovic</surname><given-names>I</given-names></name><name><surname>Dlapa</surname><given-names>P</given-names></name><name><surname>Doerr</surname><given-names>SH</given-names></name><name><surname>Mataix-Solera</surname><given-names>J</given-names></name><name><surname>Sasinkova</surname><given-names>V</given-names></name></person-group>
+<article-title>Thermal destruction of soil water repellency and associated changes to soil organic matter as observed by FTIR spectroscopy</article-title>
+<source>Catena</source>
+<year>2008</year>
+<volume>74</volume>
+<fpage>205&#x02013;11</fpage>
+</element-citation></ref><ref id="R34"><label>34</label><element-citation publication-type="journal">
+<person-group><name><surname>Taherzadeh</surname><given-names>MJ</given-names></name><name><surname>Karimi</surname><given-names>K</given-names></name></person-group>
+<article-title>Enzyme based hydrolysis processes for ethanol from lignocellulosic materials: a review</article-title>
+<source>BioResources</source>
+<year>2007</year>
+<volume>2</volume>
+<fpage>707&#x02013;38</fpage>
+</element-citation></ref><ref id="R35"><label>35</label><element-citation publication-type="journal">
+<person-group><name><surname>Taherzadeh</surname><given-names>MJ</given-names></name><name><surname>Karimi</surname><given-names>K</given-names></name></person-group>
+<article-title>Pretreatment of lignocellulosic wastes to improve ethanol and biogas production</article-title>
+<source>Int J Mol Sci</source>
+<year>2008</year>
+<volume>9</volume>
+<fpage>1621&#x02013;51</fpage>
+<pub-id pub-id-type="pmid">19325822</pub-id></element-citation></ref><ref id="R36"><label>36</label><element-citation publication-type="journal">
+<person-group><name><surname>Vats</surname><given-names>SK</given-names></name><name><surname>Sood</surname><given-names>RP</given-names></name><name><surname>Gulati</surname><given-names>A</given-names></name></person-group>
+<article-title>Lantana camara L. &#x02013; a lignocellulosic substrate for cultivation of Pleurotus sajor caju</article-title>
+<source>Bioresource Technol</source>
+<year>1994</year>
+<volume>48</volume>
+<fpage>49&#x02013;52</fpage>
+</element-citation></ref><ref id="R37"><label>37</label><element-citation publication-type="journal">
+<person-group><name><surname>Viles</surname><given-names>FJ</given-names></name><name><surname>Silverman</surname><given-names>L</given-names></name></person-group>
+<article-title>Determination of starch and cellulose with anthrone</article-title>
+<source>Anal Chem</source>
+<year>1949</year>
+<volume>21</volume>
+<fpage>950&#x02013;3</fpage>
+</element-citation></ref><ref id="R38"><label>38</label><element-citation publication-type="journal">
+<person-group><name><surname>Vivekanand</surname><given-names>V</given-names></name><name><surname>Dwivedi</surname><given-names>P</given-names></name><name><surname>Sharma</surname><given-names>A</given-names></name><name><surname>Sabharwal</surname><given-names>N</given-names></name><name><surname>Singh</surname><given-names>RP</given-names></name></person-group>
+<article-title>Enhanced delignification of mixed wood pulp by Aspergillus fumigatus laccase mediator system</article-title>
+<source>World J Microbiol Biotechnol</source>
+<year>2008</year>
+<volume>24</volume>
+<fpage>2799&#x02013;2804</fpage>
+</element-citation></ref><ref id="R39"><label>39</label><element-citation publication-type="journal">
+<person-group><name><surname>Wei</surname><given-names>GY</given-names></name><name><surname>Lee</surname><given-names>YJ</given-names></name><name><surname>Kim</surname><given-names>YJ</given-names></name><name><surname>Jin</surname><given-names>IH</given-names></name><name><surname>Lee</surname><given-names>JH</given-names></name><name><surname>Chung</surname><given-names>CH</given-names></name><name><surname>Lee</surname><given-names>JW</given-names></name></person-group>
+<article-title>Kinetic study on the pretreatment and enzymatic saccharification of rice hull for the production of fermentable sugars</article-title>
+<source>Appl Biochem Biotechnol</source>
+<year>2010</year>
+<volume>162</volume>
+<fpage>1471&#x02013;82</fpage>
+<pub-id pub-id-type="pmid">20182816</pub-id></element-citation></ref><ref id="R40"><label>40</label><element-citation publication-type="journal">
+<person-group><name><surname>Wolfson</surname><given-names>SL</given-names></name><name><surname>Solomons</surname><given-names>TWG</given-names></name></person-group>
+<article-title>Poisoning by fruit of Lantana camara. An acute syndrome observed in children following ingestion of the green fruit</article-title>
+<source>Am J Dis Child</source>
+<year>1964</year>
+<volume>107</volume>
+<fpage>173&#x02013;6</fpage>
+<pub-id pub-id-type="pmid">14091823</pub-id></element-citation></ref><ref id="R41"><label>41</label><element-citation publication-type="journal">
+<person-group><name><surname>Yang</surname><given-names>SJ</given-names></name><name><surname>Kataeva</surname><given-names>I</given-names></name><name><surname>Hamilton-Brehm</surname><given-names>SD</given-names></name><name><surname>Engle</surname><given-names>NL</given-names></name><name><surname>Tschaplinski</surname><given-names>TJ</given-names></name><name><surname>Doeppke</surname><given-names>C</given-names></name><name><surname>Davis</surname><given-names>M</given-names></name><name><surname>Westpheling</surname><given-names>J</given-names></name><name><surname>Adams</surname><given-names>MWW</given-names></name></person-group>
+<article-title>Efficient degradation of lignocellulosic plant biomass, without pretreatment, by the thermophilic anaerobe "Anaerocellum thermophilum" DSM 6725</article-title>
+<source>Appl Environ Microbiol</source>
+<year>2009</year>
+<volume>75</volume>
+<fpage>4762&#x02013;9</fpage>
+<pub-id pub-id-type="pmid">19465524</pub-id></element-citation></ref><ref id="R42"><label>42</label><element-citation publication-type="journal">
+<person-group><name><surname>Yu</surname><given-names>P</given-names></name><name><surname>Block</surname><given-names>H</given-names></name><name><surname>Niu</surname><given-names>Z</given-names></name><name><surname>Doiron</surname><given-names>K</given-names></name></person-group>
+<article-title>Rapid characterization of molecular chemistry, nutrient make-up and microlocation of internal seed tissue</article-title>
+<source>J Synchrotron Rad</source>
+<year>2007</year>
+<volume>14</volume>
+<fpage>382&#x02013;90</fpage>
+</element-citation></ref><ref id="R43"><label>43</label><element-citation publication-type="journal">
+<person-group><name><surname>Zhang</surname><given-names>Q</given-names></name><name><surname>Lo</surname><given-names>CM</given-names></name><name><surname>Ju</surname><given-names>LK</given-names></name></person-group>
+<article-title>Factors affecting foaming behavior in cellulase fermentation by Trichoderma reesei Rut C-30</article-title>
+<source>Bioresource Technol</source>
+<year>2007</year>
+<volume>98</volume>
+<fpage>753&#x02013;60</fpage>
+</element-citation></ref><ref id="R44"><label>44</label><element-citation publication-type="journal">
+<person-group><name><surname>Zhao</surname><given-names>XB</given-names></name><name><surname>Wang</surname><given-names>L</given-names></name><name><surname>Liu</surname><given-names>DH</given-names></name></person-group>
+<article-title>Peracetic acid pretreatment of sugarcane bagasse for enzymatic hydrolysis: a continued work</article-title>
+<source>J Chem Technol Biotechnol</source>
+<year>2008</year>
+<volume>83</volume>
+<fpage>950&#x02013;6</fpage>
+</element-citation></ref></ref-list></back><floats-group><fig id="T1" position="float"><label>Table 1</label><caption><title>Experimental design for enzymatic pretreatment of <italic>Lantana camara</italic> in terms of coded factor</title></caption><graphic xlink:href="EXCLI-10-85-t-001"/></fig><fig id="T2" position="float"><label>Table 2</label><caption><title>Experimental design for enzymatic saccharification of pretreated <italic>Lantana camara </italic>in terms of coded factor</title></caption><graphic xlink:href="EXCLI-10-85-t-002"/></fig><fig id="T3" position="float"><label>Table 3</label><caption><title>ANOVA analysis of RSM model for enzymatic pretreatment of <italic>Lantana camara</italic> and saccharification of pretreated <italic>Lantana camara</italic></title></caption><graphic xlink:href="EXCLI-10-85-t-003"/></fig><fig id="T4" position="float"><label>Table 4</label><caption><title>Changes of main compositions of <italic>Lantana camara</italic> after enzymatic pretreatement and subsequent saccharification</title></caption><graphic xlink:href="EXCLI-10-85-t-004"/></fig><fig id="F1" position="float"><label>Figure 1</label><caption><title>Response surface plot showing (a) the effect of temperature and liquid:solid ratio, (b) the effect of temperature and incubation time on <italic>Lantana camara </italic>pretreatment</title></caption><graphic xlink:href="EXCLI-10-85-g-001"/></fig><fig id="F2" position="float"><label>Figure 2</label><caption><title>Response surface plot showing (a) the effect of substrate concentration and temperature, (b) the effect of incubation time and temperature on saccharification of pretreated <italic>Lantana camara</italic></title></caption><graphic xlink:href="EXCLI-10-85-g-002"/></fig><fig id="F3" position="float"><label>Figure 3</label><caption><title>Fourier transform infrared spectra of untreated and enzyme pretreated <italic>Lantana camara</italic></title></caption><graphic xlink:href="EXCLI-10-85-g-003"/></fig><fig id="F4" position="float"><label>Figure 4</label><caption><title>X-ray diffraction diagram of untreated and enzyme pretreated<italic> Lantana camara</italic></title></caption><graphic xlink:href="EXCLI-10-85-g-004"/></fig><fig id="F5" position="float"><label>Figure 5</label><caption><title>Scanning electron microscopic view of (a) untreated and (b) enzyme pretreated sample of <italic>Lantana camara</italic></title></caption><graphic xlink:href="EXCLI-10-85-g-005"/></fig></floats-group></article>

@@ -1,0 +1,336 @@
+{
+  "id": [
+    "21331189"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "21331189"
+  ],
+  "pmcid": [
+    "PMC3035883"
+  ],
+  "doi": [
+    "10.4103/0975-1483.62211"
+  ],
+  "title": [
+    "Antibacterial Activity of Lantana camara Linn and Lantana montevidensis Brig Extracts from Cariri-Ceará, Brazil."
+  ],
+  "authorString": [
+    "Barreto F, Sousa E, Campos A, Costa J, Rodrigues F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Barreto F"
+          ],
+          "firstName": [
+            "Fs"
+          ],
+          "lastName": [
+            "Barreto"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Sousa E"
+          ],
+          "firstName": [
+            "Eo"
+          ],
+          "lastName": [
+            "Sousa"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Campos A"
+          ],
+          "firstName": [
+            "Ar"
+          ],
+          "lastName": [
+            "Campos"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Costa J"
+          ],
+          "firstName": [
+            "Jgm"
+          ],
+          "lastName": [
+            "Costa"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Rodrigues F"
+          ],
+          "firstName": [
+            "Ffg"
+          ],
+          "lastName": [
+            "Rodrigues"
+          ],
+          "initials": [
+            "F"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "1809205"
+      ],
+      "dateOfPublication": [
+        "2010 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2010"
+      ],
+      "printPublicationDate": [
+        "2010-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of young pharmacists : JYP"
+          ],
+          "ISOAbbreviation": [
+            "J Young Pharm"
+          ],
+          "medlineAbbreviation": [
+            "J Young Pharm"
+          ],
+          "NLMid": [
+            "101537066"
+          ],
+          "ISSN": [
+            "0975-1483"
+          ],
+          "ESSN": [
+            "0975-1505"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2010"
+  ],
+  "pageInfo": [
+    "42-44"
+  ],
+  "abstractText": [
+    "The use of medicinal plants with therapeutics properties represents a secular tradition in different cultures, mainly in underdeveloped countries. Lantana camara Linn and Lantana montevidensis Briq (Verbenaceae) found in tropical and subtropical areas around the world are popularly known as \"camará\" or \"chumbinho.\" In popular medicines, both plants are used as antipyretic and carminative and in the treatment of respiratory system infections. In this study, the antibacterial activity of the ethanolic extracts of L. camara and L. montevidensis leaves and roots against gram-positive and gram-negative strains standard and multi-resistant bacteria isolated from clinical material are presented. In order to determine the minimal inhibitory concentration (MIC), the microdilution method was used. The extracts demonstrated antibacterial activity against all tested bacteria, but the L. montevidensis fresh leaves extract present the best result against P. aeruginosa (MIC 8 μg/mL) and against multi-resistant E. coli (Ec 27) (MIC 16 μg/mL). These results drive new researches with both species in order to isolate the constituents responsible for the activity."
+  ],
+  "affiliation": [
+    "Departamento de Química-Biológica, Laboratório de Pesquisa de Produtos Naturais, Universidade Regional do Cariri, Rua Cel. Antônio Luiz 1161, Pimenta, 63105 - 000, Crato-CE, Brazil."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "other",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Antibacterial activity",
+        "Lantana camara",
+        "Microdilution",
+        "Lantana Montevidensis"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3035883?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3035883"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21331189/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21331189/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/0975-1483.62211"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2011-07-14"
+  ],
+  "dateOfCreation": [
+    "2011-02-18"
+  ],
+  "firstIndexDate": [
+    "2011-02-19"
+  ],
+  "dateOfRevision": [
+    "2013-05-29"
+  ],
+  "firstPublicationDate": [
+    "2010-01-01"
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "id": [
+    "29628890"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29628890"
+  ],
+  "pmcid": [
+    "PMC5876239"
+  ],
+  "doi": [
+    "10.3389/fphar.2018.00261"
+  ],
+  "title": [
+    "Anti-gout Potential of Malaysian Medicinal Plants."
+  ],
+  "authorString": [
+    "Abu Bakar FI, Abu Bakar MF, Rahmat A, Abdullah N, Sabran SF, Endrini S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Abu Bakar FI"
+          ],
+          "firstName": [
+            "Fazleen I"
+          ],
+          "lastName": [
+            "Abu Bakar"
+          ],
+          "initials": [
+            "FI"
+          ],
+          "affiliation": [
+            "Faculty of Applied Sciences and Technology, Universiti Tun Hussein Onn Malaysia, Muar, Malaysia."
+          ]
+        },
+        {
+          "fullName": [
+            "Abu Bakar MF"
+          ],
+          "firstName": [
+            "Mohd F"
+          ],
+          "lastName": [
+            "Abu Bakar"
+          ],
+          "initials": [
+            "MF"
+          ],
+          "affiliation": [
+            "Faculty of Applied Sciences and Technology, Universiti Tun Hussein Onn Malaysia, Muar, Malaysia."
+          ]
+        },
+        {
+          "fullName": [
+            "Rahmat A"
+          ],
+          "firstName": [
+            "Asmah"
+          ],
+          "lastName": [
+            "Rahmat"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Faculty of Applied Sciences and Technology, Universiti Tun Hussein Onn Malaysia, Muar, Malaysia."
+          ]
+        },
+        {
+          "fullName": [
+            "Abdullah N"
+          ],
+          "firstName": [
+            "Norazlin"
+          ],
+          "lastName": [
+            "Abdullah"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Faculty of Applied Sciences and Technology, Universiti Tun Hussein Onn Malaysia, Muar, Malaysia."
+          ]
+        },
+        {
+          "fullName": [
+            "Sabran SF"
+          ],
+          "firstName": [
+            "Siti F"
+          ],
+          "lastName": [
+            "Sabran"
+          ],
+          "initials": [
+            "SF"
+          ],
+          "affiliation": [
+            "Faculty of Applied Sciences and Technology, Universiti Tun Hussein Onn Malaysia, Muar, Malaysia."
+          ]
+        },
+        {
+          "fullName": [
+            "Endrini S"
+          ],
+          "firstName": [
+            "Susi"
+          ],
+          "lastName": [
+            "Endrini"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Faculty of Medicine, YARSI University, Jakarta, Indonesia."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5366-0991",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2645047"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in pharmacology"
+          ],
+          "ISOAbbreviation": [
+            "Front Pharmacol"
+          ],
+          "medlineAbbreviation": [
+            "Front Pharmacol"
+          ],
+          "NLMid": [
+            "101548923"
+          ],
+          "ISSN": [
+            "1663-9812"
+          ],
+          "ESSN": [
+            "1663-9812"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "261"
+  ],
+  "abstractText": [
+    "Gout is a type of arthritis that causes painful inflammation in one or more joints. In gout, elevation of uric acid in the blood triggers the formation of crystals, causing joint pain. Malaysia is a mega-biodiversity country that is rich in medicinal plants species. Therefore, its flora might offer promising therapies for gout. This article aims to systematically review the anti-gout potential of Malaysian medicinal plants. Articles on gout published from 2000 to 2017 were identified using PubMed, Scopus, ScienceDirect, and Google Scholar with the following keyword search terms: \"gout,\" \"medicinal plants,\" \"Malaysia,\" \"epidemiology,\" \"in vitro,\" and \"in vivo.\" In this study, 85 plants were identified as possessing anti-gout activity. These plants had higher percentages of xanthine oxidase inhibitory activity (>85%); specifically, the Momordica charantia, Chrysanthemum indicum, Cinnamomum cassia, Kaempferia galanga, Artemisia vulgaris, and Morinda elliptica had the highest values, due to their diverse natural bioactive compounds, which include flavonoids, phenolics, tannin, coumarins, luteolin, and apigenin. This review summarizes the anti-gout potential of Malaysian medicinal plants but the mechanisms, active compounds, pharmacokinetics, bioavailability, and safety of the plants still remain to be elucidated."
+  ],
+  "affiliation": [
+    "Faculty of Applied Sciences and Technology, Universiti Tun Hussein Onn Malaysia, Muar, Malaysia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "In vitro",
+        "In vivo",
+        "Phytochemical",
+        "Xanthine Oxidase Inhibition",
+        "Anti-gout",
+        "Malaysian Medicinal Plants"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5876239?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5876239"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fphar.2018.00261"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-04-10"
+  ],
+  "firstIndexDate": [
+    "2018-04-10"
+  ],
+  "dateOfRevision": [
+    "2018-04-11"
+  ],
+  "electronicPublicationDate": [
+    "2018-03-23"
+  ],
+  "firstPublicationDate": [
+    "2018-03-23"
+  ]
+}

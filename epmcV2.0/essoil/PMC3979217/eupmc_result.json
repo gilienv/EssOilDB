@@ -1,0 +1,399 @@
+{
+  "id": [
+    "24825993"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24825993"
+  ],
+  "pmcid": [
+    "PMC3979217"
+  ],
+  "title": [
+    "Screening of selected biological activities of artocarpus lakoocha roxb (moraceae) fruit pericarp."
+  ],
+  "authorString": [
+    "Shailendra Kumar MB, Rakesh Kumar MC, Bharath AC, Vinod Kumar HR, Prashith Kekuda TR, Nandini KC, Rakshitha MN, Raghavendra HL."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shailendra Kumar MB"
+          ],
+          "firstName": [
+            "M B"
+          ],
+          "lastName": [
+            "Shailendra Kumar"
+          ],
+          "initials": [
+            "MB"
+          ],
+          "affiliation": [
+            "Department of Microbiology, S.R.N.M.N College of Applied Sciences, NES Campus, Balraj Urs Road, Shivamogga-577201, Karnataka, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Rakesh Kumar MC"
+          ],
+          "firstName": [
+            "M C"
+          ],
+          "lastName": [
+            "Rakesh Kumar"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "affiliation": [
+            "Department of Microbiology, S.R.N.M.N College of Applied Sciences, NES Campus, Balraj Urs Road, Shivamogga-577201, Karnataka, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Bharath AC"
+          ],
+          "firstName": [
+            "A C"
+          ],
+          "lastName": [
+            "Bharath"
+          ],
+          "initials": [
+            "AC"
+          ],
+          "affiliation": [
+            "Department of Microbiology, S.R.N.M.N College of Applied Sciences, NES Campus, Balraj Urs Road, Shivamogga-577201, Karnataka, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Vinod Kumar HR"
+          ],
+          "firstName": [
+            "H R"
+          ],
+          "lastName": [
+            "Vinod Kumar"
+          ],
+          "initials": [
+            "HR"
+          ],
+          "affiliation": [
+            "Department of Microbiology, S.R.N.M.N College of Applied Sciences, NES Campus, Balraj Urs Road, Shivamogga-577201, Karnataka, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Prashith Kekuda TR"
+          ],
+          "firstName": [
+            "T R"
+          ],
+          "lastName": [
+            "Prashith Kekuda"
+          ],
+          "initials": [
+            "TR"
+          ],
+          "affiliation": [
+            "Department of Microbiology, S.R.N.M.N College of Applied Sciences, NES Campus, Balraj Urs Road, Shivamogga-577201, Karnataka, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Nandini KC"
+          ],
+          "firstName": [
+            "K C"
+          ],
+          "lastName": [
+            "Nandini"
+          ],
+          "initials": [
+            "KC"
+          ],
+          "affiliation": [
+            "Department of Microbiology, S.R.N.M.N College of Applied Sciences, NES Campus, Balraj Urs Road, Shivamogga-577201, Karnataka, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Rakshitha MN"
+          ],
+          "firstName": [
+            "M N"
+          ],
+          "lastName": [
+            "Rakshitha"
+          ],
+          "initials": [
+            "MN"
+          ],
+          "affiliation": [
+            "Department of Microbiology, S.R.N.M.N College of Applied Sciences, NES Campus, Balraj Urs Road, Shivamogga-577201, Karnataka, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Raghavendra HL"
+          ],
+          "firstName": [
+            "H L"
+          ],
+          "lastName": [
+            "Raghavendra"
+          ],
+          "initials": [
+            "HL"
+          ],
+          "affiliation": [
+            "Department of Biochemistry, P.G Centre, Kuvempu University, Shivagangothri, Davangere, Karnataka, India."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4300-109X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "1"
+      ],
+      "journalIssueId": [
+        "2159657"
+      ],
+      "dateOfPublication": [
+        "2010 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2010"
+      ],
+      "printPublicationDate": [
+        "2010-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of basic and clinical pharmacy"
+          ],
+          "ISOAbbreviation": [
+            "J Basic Clin Pharm"
+          ],
+          "medlineAbbreviation": [
+            "J Basic Clin Pharm"
+          ],
+          "NLMid": [
+            "101599515"
+          ],
+          "ISSN": [
+            "0976-0105"
+          ],
+          "ESSN": [
+            "0976-0113"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2010"
+  ],
+  "pageInfo": [
+    "239-245"
+  ],
+  "abstractText": [
+    "Artocarpus lakoocha Roxb (Moraceae) is cultivated in Uttar Pradesh, Bengal, Khasi Hills and Western Ghats. Objectives of the present study were to determine antibacterial, antioxidant, anthelmintic and insecticidal efficacy of methanol extract of A. lakoocha fruit pericarp. Antibacterial activity was tested against by Agar well diffusion method. Antioxidant activity in terms of free radical scavenging ability was determined by DPPH free radical scavenging assay. Anthelmintic efficacy was determined using adult Indian earthworm. Insecticidal activity was tested against second and third instar larvae of Aedes aegypti. The extract has shown dose dependent antibacterial, antioxidant, anthelmintic and insecticidal activity. Among bacteria, S. aureus has shown more susceptibility than K. pneumoniae and P. aeruginosa. The extract exhibited marked antioxidant activity by scavenging DPPH free radical. The IC50 value for extract was found to be 49.42μg/ml. The extract exhibited marked anthelmintic activity by causing paralysis and death of worms and the effect was found to be dose dependent. The extract concentration 100mg/ml has shown marked anthelmintic effect than standard drug. In insecticidal study, the 2(nd) instar larvae were shown to be more susceptible than 3(rd) instar larvae. Phytochemical analysis revealed the presence of tannins and alkaloids. The presence of these phytoconstituents might be responsible for the biological activities of extract tested. The extract could be used to treat free radical damage, bacterial and helmintic infections and to control insect vectors. Further studies on isolation of constituents and their bio-efficacies in vitro and in vivo are under investigation."
+  ],
+  "affiliation": [
+    "Department of Microbiology, S.R.N.M.N College of Applied Sciences, NES Campus, Balraj Urs Road, Shivamogga-577201, Karnataka, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Aedes aegypti",
+        "DPPH",
+        "Ic50",
+        "Agar Well Diffusion",
+        "Artocarpus Lakoocha Roxb",
+        "Pheretima Pasthuma"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3979217?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3979217"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24825993/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24825993/?tool=EBI"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-05-14"
+  ],
+  "dateOfCreation": [
+    "2014-05-14"
+  ],
+  "firstIndexDate": [
+    "2014-05-15"
+  ],
+  "dateOfRevision": [
+    "2014-05-23"
+  ],
+  "electronicPublicationDate": [
+    "2010-11-15"
+  ],
+  "firstPublicationDate": [
+    "2010-09-01"
+  ]
+}

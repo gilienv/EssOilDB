@@ -1,0 +1,441 @@
+{
+  "id": [
+    "19287536"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "19287536"
+  ],
+  "pmcid": [
+    "PMC2610314"
+  ],
+  "doi": [
+    "10.3114/sim.2008.61.14"
+  ],
+  "title": [
+    "Environmental isolation of black yeast-like fungi involved in human infection."
+  ],
+  "authorString": [
+    "Vicente VA, Attili-Angelis D, Pie MR, Queiroz-Telles F, Cruz LM, Najafzadeh MJ, de Hoog GS, Zhao J, Pizzirani-Kleiner A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Vicente VA"
+          ],
+          "firstName": [
+            "V A"
+          ],
+          "lastName": [
+            "Vicente"
+          ],
+          "initials": [
+            "VA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2953-4861",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Attili-Angelis D"
+          ],
+          "firstName": [
+            "D"
+          ],
+          "lastName": [
+            "Attili-Angelis"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Pie MR"
+          ],
+          "firstName": [
+            "M R"
+          ],
+          "lastName": [
+            "Pie"
+          ],
+          "initials": [
+            "MR"
+          ]
+        },
+        {
+          "fullName": [
+            "Queiroz-Telles F"
+          ],
+          "firstName": [
+            "F"
+          ],
+          "lastName": [
+            "Queiroz-Telles"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Cruz LM"
+          ],
+          "firstName": [
+            "L M"
+          ],
+          "lastName": [
+            "Cruz"
+          ],
+          "initials": [
+            "LM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1380-576X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Najafzadeh MJ"
+          ],
+          "firstName": [
+            "M J"
+          ],
+          "lastName": [
+            "Najafzadeh"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0590-1073",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "de Hoog GS"
+          ],
+          "firstName": [
+            "G S"
+          ],
+          "lastName": [
+            "de Hoog"
+          ],
+          "initials": [
+            "GS"
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao J"
+          ],
+          "firstName": [
+            "J"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Pizzirani-Kleiner A"
+          ],
+          "firstName": [
+            "A"
+          ],
+          "lastName": [
+            "Pizzirani-Kleiner"
+          ],
+          "initials": [
+            "A"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2953-4861",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1380-576X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0590-1073",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "61"
+      ],
+      "journalIssueId": [
+        "1605381"
+      ],
+      "dateOfPublication": [
+        "2008 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2008"
+      ],
+      "printPublicationDate": [
+        "2008-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Studies in mycology"
+          ],
+          "ISOAbbreviation": [
+            "Stud. Mycol."
+          ],
+          "medlineAbbreviation": [
+            "Stud Mycol"
+          ],
+          "NLMid": [
+            "8411984"
+          ],
+          "ISSN": [
+            "0166-0616"
+          ],
+          "ESSN": [
+            "1872-9797"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2008"
+  ],
+  "pageInfo": [
+    "137-144"
+  ],
+  "abstractText": [
+    "The present study focuses on potential agents of chromoblastomycosis and other endemic diseases in the state of Paraná, Southern Brazil. Using a highly selective protocol for chaetothyrialean black yeasts and relatives, environmental samples from the living area of symptomatic patients were analysed. Additional strains were isolated from creosote-treated wood and hydrocarbon-polluted environments, as such polluted sites have been supposed to enhance black yeast prevalence. Isolates showed morphologies compatible with the traditional etiological agents of chromoblastomycosis, e.g. Fonsecaea pedrosoi and Phialophora verrucosa, and of agents of subcutaneous or systemic infections like Cladophialophora bantiana and Exophiala jeanselmei. Some agents of mild disease were indeed encountered. However, molecular analysis proved that most environmental strains differed from known etiologic agents of pronounced disease syndromes: they belonged to the same order, but mostly were undescribed species. Agents of chromoblastomycosis and systemic disease thus far are prevalent on the human host. The hydrocarbon-polluted environments yielded yet another spectrum of chaetothyrialean fungi. These observations are of great relevance because they allow us to distinguish between categories of opportunists, indicating possible differences in pathogenicity and virulence."
+  ],
+  "affiliation": [
+    "Department of Basic Pathology, Federal University of Paraná, Curitiba, PR, Brazil."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Virulence",
+        "enrichment",
+        "Phaeohyphomycosis",
+        "Chromoblastomycosis",
+        "Chaetothyriales",
+        "Black Yeasts",
+        "Environmental Isolation",
+        "Opportunists"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2610314?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2610314"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19287536/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19287536/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3114/sim.2008.61.14"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "55"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2011-07-14"
+  ],
+  "dateOfCreation": [
+    "2009-03-16"
+  ],
+  "firstIndexDate": [
+    "2009-12-25"
+  ],
+  "dateOfRevision": [
+    "2013-05-23"
+  ],
+  "firstPublicationDate": [
+    "2008-01-01"
+  ]
+}

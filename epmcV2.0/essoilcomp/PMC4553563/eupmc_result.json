@@ -1,0 +1,341 @@
+{
+  "id": [
+    "26466726"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26466726"
+  ],
+  "pmcid": [
+    "PMC4553563"
+  ],
+  "doi": [
+    "10.3390/insects3041056"
+  ],
+  "title": [
+    "Parasitoids of Queensland Fruit Fly Bactrocera tryoni in Australia and Prospects for Improved Biological Control."
+  ],
+  "authorString": [
+    "Zamek AL, Spinner JE, Micallef JL, Gurr GM, Reynolds OL."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zamek AL"
+          ],
+          "firstName": [
+            "Ashley L"
+          ],
+          "lastName": [
+            "Zamek"
+          ],
+          "initials": [
+            "AL"
+          ],
+          "affiliation": [
+            "Elizabeth Macarthur Agricultural Institute, NSW Department of Primary Industries, Woodbridge Road, Menangle, NSW 2568, Australia. azamek@phau.com.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Spinner JE"
+          ],
+          "firstName": [
+            "Jennifer E"
+          ],
+          "lastName": [
+            "Spinner"
+          ],
+          "initials": [
+            "JE"
+          ],
+          "affiliation": [
+            "EH Graham Centre for Agricultural Innovation, NSW Department of Primary Industries and Charles Sturt University, Locked Bag 588, Wagga Wagga, NSW 2678, Australia. jspinner@csu.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Micallef JL"
+          ],
+          "firstName": [
+            "Jessica L"
+          ],
+          "lastName": [
+            "Micallef"
+          ],
+          "initials": [
+            "JL"
+          ],
+          "affiliation": [
+            "Elizabeth Macarthur Agricultural Institute, NSW Department of Primary Industries, Woodbridge Road, Menangle, NSW 2568, Australia. jess.smart@dpi.nsw.gov.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Gurr GM"
+          ],
+          "firstName": [
+            "Geoff M"
+          ],
+          "lastName": [
+            "Gurr"
+          ],
+          "initials": [
+            "GM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5008-7966",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "EH Graham Centre for Agricultural Innovation, NSW Department of Primary Industries and Charles Sturt University, Charles Sturt University, P.O. Box 883, Orange, NSW 2800, Australia. ggurr@csu.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Reynolds OL"
+          ],
+          "firstName": [
+            "Olivia L"
+          ],
+          "lastName": [
+            "Reynolds"
+          ],
+          "initials": [
+            "OL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8834-5905",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "EH Graham Centre for Agricultural Innovation, NSW Department of Primary Industries and Charles Sturt University, Elizabeth Macarthur Agricultural Institute, Woodbridge Road, Menangle, NSW 2568, Australia. olivia.reynolds@dpi.nsw.gov.au."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5008-7966",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8834-5905",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2333757"
+      ],
+      "dateOfPublication": [
+        "2012 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Insects"
+          ],
+          "ISOAbbreviation": [
+            "Insects"
+          ],
+          "medlineAbbreviation": [
+            "Insects"
+          ],
+          "NLMid": [
+            "101574235"
+          ],
+          "ISSN": [
+            "2075-4450"
+          ],
+          "ESSN": [
+            "2075-4450"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2012"
+  ],
+  "pageInfo": [
+    "1056-1083"
+  ],
+  "abstractText": [
+    "This review draws together available information on the biology, methods for study, and culturing of hymenopteran parasitoids of the Queensland fruit fly, Bactrocera tryoni, and assesses prospects for improving biological control of this serious pest. Augmentative release of the native and naturalised Australian parasitoids, especially the braconid Diachasmimorpha tryoni, may result in better management of B. tryoni in some parts of Australia. Mass releases are an especially attractive option for areas of inland eastern Australia around the Fruit Fly Exclusion Zone that produces B. tryoni-free fruits for export. Diachasmimorpha tryoni has been successful in other locations such as Hawaii for the biological control of other fruit fly species. Biological control could contribute to local eradication of isolated outbreaks and more general suppression and/or eradication of the B. tryoni population in endemic areas. Combining biological control with the use of sterile insect technique offers scope for synergy because the former is most effective at high pest densities and the latter most economical when the pest becomes scarce. Recommendations are made on methods for culturing and study of four B. tryoni parasitoids present in Australia along with research priorities for optimising augmentative biological control of B. tryoni."
+  ],
+  "affiliation": [
+    "Elizabeth Macarthur Agricultural Institute, NSW Department of Primary Industries, Woodbridge Road, Menangle, NSW 2568, Australia. azamek@phau.com.au."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Braconidae",
+        "Tephritidae",
+        "Integrated pest management",
+        "Mass-rearing",
+        "sterile insect technique",
+        "Diachasmimorpha",
+        "Fopius Arisanus"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4553563"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/insects3041056"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-10-15"
+  ],
+  "dateOfCreation": [
+    "2015-10-15"
+  ],
+  "firstIndexDate": [
+    "2015-10-16"
+  ],
+  "dateOfRevision": [
+    "2015-10-22"
+  ],
+  "electronicPublicationDate": [
+    "2012-10-22"
+  ],
+  "firstPublicationDate": [
+    "2012-10-22"
+  ]
+}
