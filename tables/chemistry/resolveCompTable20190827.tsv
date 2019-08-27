@@ -1,6 +1,6 @@
 Compound_identifier	original_name	clean_name	cid	Freq	InChI	InChIKey	WIKIDATA_ID
 C214	acetate	acetate	175	5	InChI=1S/C2H4O2/c1-2(3)4/h1H3,(H,3,4)/p-1	QTBSBXVTEAMEQO-UHFFFAOYSA-M	Q9154808
-C215	acetic acid	acetic acid	<a href="https://pubchem.ncbi.nlm.nih.gov/compound/176">176</a>	46	InChI=1S/C2H4O2/c1-2(3)4/h1H3,(H,3,4)	QTBSBXVTEAMEQO-UHFFFAOYSA-N	Q47512
+C215	acetic acid	acetic acid	[176](https://pubchem.ncbi.nlm.nih.gov/compound/176)	46	InChI=1S/C2H4O2/c1-2(3)4/h1H3,(H,3,4)	QTBSBXVTEAMEQO-UHFFFAOYSA-N	Q47512
 C2776	acetaldehyde	acetaldehyde	177	11	InChI=1S/C2H4O/c1-2-3/h2H,1H3	IKHGUXGNUITLKF-UHFFFAOYSA-N	Q61457
 C170	3-hydroxy-2-butanone	3-hydroxy-2-butanone	179	11	InChI=1S/C4H8O2/c1-3(5)4(2)6/h3,5H,1-2H3	ROWKJAVDOGWPAT-UHFFFAOYSA-N	Q223083
 C2780	acetone	acetone	180	6	InChI=1S/C3H6O/c1-3(2)4/h1-2H3	CSCPPACGZOOCGX-UHFFFAOYSA-N	Q49546
